@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "download": "for type in standard rapid blitz; do curl --output \"raw/${type}.zip\" \"https://ratings.fide.com/download/${type}_rating_list_xml.zip\" && unzip -l \"raw/${type}.zip\" && unzip -p \"raw/${type}.zip\" \"${type}_rating_list.xml\" > \"raw/${type}.xml\"; fxparser \"raw/${type}.xml\" -o \"raw/${type}.json\"; done;",
+    "build": "node process.mjs"
+  },
+  "devDependencies": {
+    "fast-xml-parser": "^4.5.1"
+  }
+}

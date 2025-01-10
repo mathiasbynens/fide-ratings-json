@@ -1,0 +1,35 @@
+name: 'Update data'
+
+on:
+  schedule:
+    # “At 08:08 on day-of-month 8 and 16.”
+    - cron: '08 08 08 * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update data
+        run: |
+          npm run download
+          npm run build
+          git config user.name 'FIDE ratings bot'
+          git config user.email 'fide@mathiasbynens.be'
+          git add dist
+          git commit dist -m "Update data" || true
+          git push
