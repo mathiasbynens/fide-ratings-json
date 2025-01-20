@@ -2,8 +2,8 @@ name: 'Update data'
 
 on:
   schedule:
-    # “At 08:08 on day-of-month 8 and 16.”
-    - cron: '08 08 08 * *'
+    # “At 08:08 on Friday.”
+    - cron: '08 08 * * 5'
   workflow_dispatch:
 
 jobs:
