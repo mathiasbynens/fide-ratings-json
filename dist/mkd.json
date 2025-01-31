@@ -64,7 +64,7 @@
 		"birthday": 1988,
 		"flag": "",
 		"rating_standard": 2422,
-		"rating_rapid": 2398,
+		"rating_rapid": 2397,
 		"rating_blitz": 2508
 	},
 	{
@@ -371,7 +371,7 @@
 		"flag": "",
 		"rating_standard": 2321,
 		"rating_rapid": 2330,
-		"rating_blitz": 2295
+		"rating_blitz": 2294
 	},
 	{
 		"fideid": 15000818,
@@ -608,7 +608,7 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 2245,
-		"rating_rapid": 2150,
+		"rating_rapid": 2149,
 		"rating_blitz": 2134
 	},
 	{
@@ -714,23 +714,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15000419,
-		"name": "Organdziev, Oliver",
-		"country": "MKD",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "FA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1967,
-		"flag": "",
-		"rating_standard": 2225,
-		"rating_rapid": 2342,
-		"rating_blitz": 2288
-	},
-	{
 		"fideid": 15001113,
 		"name": "Tancev, Zoran",
 		"country": "MKD",
@@ -746,6 +729,23 @@
 		"rating_standard": 2225,
 		"rating_rapid": 2296,
 		"rating_blitz": 2299
+	},
+	{
+		"fideid": 15000419,
+		"name": "Organdziev, Oliver",
+		"country": "MKD",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "FA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1967,
+		"flag": "",
+		"rating_standard": 2224,
+		"rating_rapid": 2342,
+		"rating_blitz": 2288
 	},
 	{
 		"fideid": 15001350,
@@ -880,7 +880,7 @@
 		"birthday": 1965,
 		"flag": "i",
 		"rating_standard": 2215,
-		"rating_rapid": 1972,
+		"rating_rapid": 1973,
 		"rating_blitz": 2182
 	},
 	{
@@ -897,7 +897,7 @@
 		"birthday": 1969,
 		"flag": "",
 		"rating_standard": 2209,
-		"rating_rapid": 2206,
+		"rating_rapid": 2205,
 		"rating_blitz": 2173
 	},
 	{
@@ -914,7 +914,7 @@
 		"birthday": 1953,
 		"flag": "i",
 		"rating_standard": 2208,
-		"rating_rapid": 2074,
+		"rating_rapid": 2075,
 		"rating_blitz": 2170
 	},
 	{
@@ -1033,7 +1033,7 @@
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": 2203,
-		"rating_rapid": 2178,
+		"rating_rapid": 2177,
 		"rating_blitz": 2176
 	},
 	{
@@ -1105,6 +1105,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15001067,
+		"name": "Stojchev, Goce",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 2190,
+		"rating_rapid": 2193,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15000184,
 		"name": "Krstevski, Sasko",
 		"country": "MKD",
@@ -1119,23 +1136,6 @@
 		"flag": "i",
 		"rating_standard": 2189,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15001067,
-		"name": "Stojchev, Goce",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 2189,
-		"rating_rapid": 2193,
 		"rating_blitz": null
 	},
 	{
@@ -1544,7 +1544,7 @@
 		"flag": "",
 		"rating_standard": 2146,
 		"rating_rapid": 2080,
-		"rating_blitz": 2001
+		"rating_blitz": 2002
 	},
 	{
 		"fideid": 15000435,
@@ -1661,9 +1661,9 @@
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
-		"rating_standard": 2136,
-		"rating_rapid": 2013,
-		"rating_blitz": 2015
+		"rating_standard": 2137,
+		"rating_rapid": 2014,
+		"rating_blitz": 2016
 	},
 	{
 		"fideid": 15000923,
@@ -1934,8 +1934,25 @@
 		"birthday": 1959,
 		"flag": "",
 		"rating_standard": 2112,
-		"rating_rapid": 1955,
+		"rating_rapid": 1954,
 		"rating_blitz": 2163
+	},
+	{
+		"fideid": 15015823,
+		"name": "Temelkoski, Stojance",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 2112,
+		"rating_rapid": 2084,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15001555,
@@ -1952,23 +1969,6 @@
 		"flag": "i",
 		"rating_standard": 2111,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15015823,
-		"name": "Temelkoski, Stojance",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 2111,
-		"rating_rapid": 2083,
 		"rating_blitz": null
 	},
 	{
@@ -2137,7 +2137,7 @@
 		"k": 20,
 		"birthday": 1972,
 		"flag": "",
-		"rating_standard": 2092,
+		"rating_standard": 2093,
 		"rating_rapid": 2143,
 		"rating_blitz": 2148
 	},
@@ -2414,6 +2414,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15001440,
+		"name": "Petrov, Georgi",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 2050,
+		"rating_rapid": 2081,
+		"rating_blitz": 2216
+	},
+	{
 		"fideid": 15001458,
 		"name": "Kajmakoski, Koco",
 		"country": "MKD",
@@ -2429,23 +2446,6 @@
 		"rating_standard": 2049,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15001440,
-		"name": "Petrov, Georgi",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 2049,
-		"rating_rapid": 2081,
-		"rating_blitz": 2216
 	},
 	{
 		"fideid": 15001571,
@@ -2635,23 +2635,6 @@
 		"rating_blitz": 2058
 	},
 	{
-		"fideid": 15005399,
-		"name": "Nikolovski, Kiril",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2030,
-		"rating_rapid": 2025,
-		"rating_blitz": 1930
-	},
-	{
 		"fideid": 15004260,
 		"name": "Stojkoski, Acko",
 		"country": "MKD",
@@ -2682,8 +2665,25 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 2029,
-		"rating_rapid": 2101,
+		"rating_rapid": 2100,
 		"rating_blitz": 2098
+	},
+	{
+		"fideid": 15005399,
+		"name": "Nikolovski, Kiril",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2029,
+		"rating_rapid": 2025,
+		"rating_blitz": 1929
 	},
 	{
 		"fideid": 15000664,
@@ -2902,7 +2902,7 @@
 		"k": 40,
 		"birthday": 1961,
 		"flag": "",
-		"rating_standard": 2004,
+		"rating_standard": 2003,
 		"rating_rapid": 1765,
 		"rating_blitz": null
 	},
@@ -2919,7 +2919,7 @@
 		"k": 20,
 		"birthday": 1969,
 		"flag": "w",
-		"rating_standard": 2001,
+		"rating_standard": 2000,
 		"rating_rapid": 2023,
 		"rating_blitz": 2041
 	},
@@ -3055,9 +3055,9 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1990,
+		"rating_standard": 1991,
 		"rating_rapid": 1858,
-		"rating_blitz": 1645
+		"rating_blitz": 1643
 	},
 	{
 		"fideid": 15002616,
@@ -3090,7 +3090,7 @@
 		"birthday": 1958,
 		"flag": "i",
 		"rating_standard": 1986,
-		"rating_rapid": 1766,
+		"rating_rapid": 1765,
 		"rating_blitz": null
 	},
 	{
@@ -3108,7 +3108,7 @@
 		"flag": "",
 		"rating_standard": 1983,
 		"rating_rapid": 1931,
-		"rating_blitz": 2038
+		"rating_blitz": 2039
 	},
 	{
 		"fideid": 15002446,
@@ -3209,7 +3209,7 @@
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": 1968,
-		"rating_rapid": 1986,
+		"rating_rapid": 1985,
 		"rating_blitz": 1789
 	},
 	{
@@ -3311,7 +3311,7 @@
 		"birthday": 1975,
 		"flag": "",
 		"rating_standard": 1963,
-		"rating_rapid": 1836,
+		"rating_rapid": 1829,
 		"rating_blitz": null
 	},
 	{
@@ -3400,6 +3400,23 @@
 		"rating_blitz": 1952
 	},
 	{
+		"fideid": 15016447,
+		"name": "Pavleski, Nikola",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1955,
+		"rating_rapid": 1928,
+		"rating_blitz": 1911
+	},
+	{
 		"fideid": 15003132,
 		"name": "Bajrami, Zejno",
 		"country": "MKD",
@@ -3429,7 +3446,7 @@
 		"k": 20,
 		"birthday": 1975,
 		"flag": "",
-		"rating_standard": 1951,
+		"rating_standard": 1952,
 		"rating_rapid": 1997,
 		"rating_blitz": 1981
 	},
@@ -3515,25 +3532,8 @@
 		"birthday": 1958,
 		"flag": "i",
 		"rating_standard": 1945,
-		"rating_rapid": 1933,
+		"rating_rapid": 1932,
 		"rating_blitz": 1930
-	},
-	{
-		"fideid": 15016447,
-		"name": "Pavleski, Nikola",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1945,
-		"rating_rapid": 1928,
-		"rating_blitz": 1903
 	},
 	{
 		"fideid": 15009238,
@@ -3689,6 +3689,23 @@
 		"rating_blitz": 1993
 	},
 	{
+		"fideid": 15002870,
+		"name": "Ranic, Viktor",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": 1921,
+		"rating_rapid": 1865,
+		"rating_blitz": 1916
+	},
+	{
 		"fideid": 15004252,
 		"name": "Stojanov, Ptolomej Petar",
 		"country": "MKD",
@@ -3704,23 +3721,6 @@
 		"rating_standard": 1921,
 		"rating_rapid": 1946,
 		"rating_blitz": 1954
-	},
-	{
-		"fideid": 15002870,
-		"name": "Ranic, Viktor",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1959,
-		"flag": "",
-		"rating_standard": 1920,
-		"rating_rapid": 1865,
-		"rating_blitz": 1916
 	},
 	{
 		"fideid": 15001105,
@@ -3757,6 +3757,23 @@
 		"rating_blitz": 1911
 	},
 	{
+		"fideid": 15008150,
+		"name": "Zulbehari, Muhamet",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1913,
+		"rating_rapid": 2049,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15007197,
 		"name": "Nikolovski, David",
 		"country": "MKD",
@@ -3770,25 +3787,8 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": 1911,
-		"rating_rapid": 1973,
+		"rating_rapid": 1972,
 		"rating_blitz": 1936
-	},
-	{
-		"fideid": 15008150,
-		"name": "Zulbehari, Muhamet",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1911,
-		"rating_rapid": 2049,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 15002829,
@@ -3825,6 +3825,23 @@
 		"rating_blitz": 1915
 	},
 	{
+		"fideid": 15000800,
+		"name": "Tashevski, Atanas",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1909,
+		"rating_rapid": 1843,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15003051,
 		"name": "Mihajlovski, Petre",
 		"country": "MKD",
@@ -3840,23 +3857,6 @@
 		"rating_standard": 1908,
 		"rating_rapid": 1968,
 		"rating_blitz": 1969
-	},
-	{
-		"fideid": 15000800,
-		"name": "Tashevski, Atanas",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1908,
-		"rating_rapid": 1844,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 15003698,
@@ -3944,6 +3944,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15000133,
+		"name": "Nikolovska, Dragana",
+		"country": "MKD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "IA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "w",
+		"rating_standard": 1896,
+		"rating_rapid": 1870,
+		"rating_blitz": 1927
+	},
+	{
 		"fideid": 15002551,
 		"name": "Petrovska, Katerina",
 		"country": "MKD",
@@ -3959,23 +3976,6 @@
 		"rating_standard": 1896,
 		"rating_rapid": 1809,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15000133,
-		"name": "Nikolovska, Dragana",
-		"country": "MKD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "IA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "w",
-		"rating_standard": 1895,
-		"rating_rapid": 1870,
-		"rating_blitz": 1927
 	},
 	{
 		"fideid": 15010210,
@@ -4109,7 +4109,7 @@
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
-		"rating_standard": 1884,
+		"rating_standard": 1885,
 		"rating_rapid": 2001,
 		"rating_blitz": 1904
 	},
@@ -4228,26 +4228,9 @@
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 1872,
-		"rating_rapid": 1793,
-		"rating_blitz": 1869
-	},
-	{
-		"fideid": 15000567,
-		"name": "Trajkovski, Mile",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "",
 		"rating_standard": 1871,
-		"rating_rapid": 2077,
-		"rating_blitz": 1991
+		"rating_rapid": 1792,
+		"rating_blitz": 1869
 	},
 	{
 		"fideid": 15006344,
@@ -4299,6 +4282,23 @@
 		"rating_standard": 1870,
 		"rating_rapid": 1839,
 		"rating_blitz": 1888
+	},
+	{
+		"fideid": 15000567,
+		"name": "Trajkovski, Mile",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1870,
+		"rating_rapid": 2077,
+		"rating_blitz": 1991
 	},
 	{
 		"fideid": 15004961,
@@ -4467,7 +4467,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1861,
-		"rating_rapid": 1721,
+		"rating_rapid": 1705,
 		"rating_blitz": null
 	},
 	{
@@ -4568,7 +4568,7 @@
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1854,
+		"rating_standard": 1852,
 		"rating_rapid": 1897,
 		"rating_blitz": 1892
 	},
@@ -4586,7 +4586,7 @@
 		"birthday": 1976,
 		"flag": "i",
 		"rating_standard": 1851,
-		"rating_rapid": 1847,
+		"rating_rapid": 1846,
 		"rating_blitz": 1887
 	},
 	{
@@ -4687,7 +4687,7 @@
 		"k": 40,
 		"birthday": 1987,
 		"flag": "i",
-		"rating_standard": 1842,
+		"rating_standard": 1841,
 		"rating_rapid": 1575,
 		"rating_blitz": null
 	},
@@ -4723,7 +4723,7 @@
 		"flag": "",
 		"rating_standard": 1840,
 		"rating_rapid": 1859,
-		"rating_blitz": 1783
+		"rating_blitz": 1781
 	},
 	{
 		"fideid": 15007774,
@@ -4738,9 +4738,9 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1838,
+		"rating_standard": 1839,
 		"rating_rapid": 1988,
-		"rating_blitz": 1773
+		"rating_blitz": 1774
 	},
 	{
 		"fideid": 15008495,
@@ -4758,40 +4758,6 @@
 		"rating_standard": 1837,
 		"rating_rapid": 1865,
 		"rating_blitz": 1725
-	},
-	{
-		"fideid": 15002381,
-		"name": "Popagjoski, Ljupco",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 1836,
-		"rating_rapid": 1804,
-		"rating_blitz": 1887
-	},
-	{
-		"fideid": 15001644,
-		"name": "Gjorgjevski, Janco",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1835,
-		"rating_rapid": 1810,
-		"rating_blitz": 1819
 	},
 	{
 		"fideid": 15002969,
@@ -4828,6 +4794,23 @@
 		"rating_blitz": 1890
 	},
 	{
+		"fideid": 15002381,
+		"name": "Popagjoski, Ljupco",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1835,
+		"rating_rapid": 1804,
+		"rating_blitz": 1886
+	},
+	{
 		"fideid": 15004902,
 		"name": "Eftovska, Lea",
 		"country": "MKD",
@@ -4842,7 +4825,24 @@
 		"flag": "w",
 		"rating_standard": 1834,
 		"rating_rapid": 1865,
-		"rating_blitz": 1733
+		"rating_blitz": 1732
+	},
+	{
+		"fideid": 15001644,
+		"name": "Gjorgjevski, Janco",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1834,
+		"rating_rapid": 1810,
+		"rating_blitz": 1819
 	},
 	{
 		"fideid": 15003485,
@@ -4874,7 +4874,7 @@
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
-		"rating_standard": 1831,
+		"rating_standard": 1830,
 		"rating_rapid": 1891,
 		"rating_blitz": 1851
 	},
@@ -4913,6 +4913,23 @@
 		"rating_blitz": 1764
 	},
 	{
+		"fideid": 15001962,
+		"name": "Aleksovski, Aleksandar",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 8,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1825,
+		"rating_rapid": 1789,
+		"rating_blitz": 1842
+	},
+	{
 		"fideid": 15003299,
 		"name": "Dema, Drilon",
 		"country": "MKD",
@@ -4930,21 +4947,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15001962,
-		"name": "Aleksovski, Aleksandar",
+		"fideid": 15011550,
+		"name": "Akbiyik, Fatih",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "",
 		"games": 8,
-		"k": 20,
-		"birthday": 1969,
+		"k": 40,
+		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1824,
-		"rating_rapid": 1796,
-		"rating_blitz": 1842
+		"rating_rapid": 1756,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15013537,
@@ -4961,7 +4978,7 @@
 		"flag": "",
 		"rating_standard": 1823,
 		"rating_rapid": 1830,
-		"rating_blitz": 1866
+		"rating_blitz": 1865
 	},
 	{
 		"fideid": 15000400,
@@ -4976,42 +4993,8 @@
 		"k": 20,
 		"birthday": 1988,
 		"flag": "w",
-		"rating_standard": 1822,
+		"rating_standard": 1821,
 		"rating_rapid": 1872,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15011550,
-		"name": "Akbiyik, Fatih",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1820,
-		"rating_rapid": 1756,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15017508,
-		"name": "Abdulla, Isni",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1976,
-		"flag": "i",
-		"rating_standard": 1819,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -5030,6 +5013,23 @@
 		"rating_standard": 1819,
 		"rating_rapid": 1794,
 		"rating_blitz": 1765
+	},
+	{
+		"fideid": 15017508,
+		"name": "Abdulla, Isni",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1976,
+		"flag": "i",
+		"rating_standard": 1818,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15004430,
@@ -5146,9 +5146,9 @@
 		"k": 20,
 		"birthday": 1955,
 		"flag": "",
-		"rating_standard": 1811,
-		"rating_rapid": 1816,
-		"rating_blitz": 1823
+		"rating_standard": 1812,
+		"rating_rapid": 1815,
+		"rating_blitz": 1824
 	},
 	{
 		"fideid": 15004791,
@@ -5253,23 +5253,6 @@
 		"rating_blitz": 1630
 	},
 	{
-		"fideid": 15018105,
-		"name": "Skerlevski, Dushko",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1803,
-		"rating_rapid": 1831,
-		"rating_blitz": 1873
-	},
-	{
 		"fideid": 15010570,
 		"name": "Jonuzi, Arlind",
 		"country": "MKD",
@@ -5285,6 +5268,23 @@
 		"rating_standard": 1802,
 		"rating_rapid": 1890,
 		"rating_blitz": 1864
+	},
+	{
+		"fideid": 15018105,
+		"name": "Skerlevski, Dushko",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1802,
+		"rating_rapid": 1831,
+		"rating_blitz": 1873
 	},
 	{
 		"fideid": 15005640,
@@ -5317,25 +5317,8 @@
 		"birthday": 1967,
 		"flag": "",
 		"rating_standard": 1800,
-		"rating_rapid": 1899,
+		"rating_rapid": 1898,
 		"rating_blitz": 1960
-	},
-	{
-		"fideid": 15001202,
-		"name": "Cvetkovski, Slobodan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1959,
-		"flag": "",
-		"rating_standard": 1798,
-		"rating_rapid": 1800,
-		"rating_blitz": 1890
 	},
 	{
 		"fideid": 15002764,
@@ -5353,6 +5336,23 @@
 		"rating_standard": 1798,
 		"rating_rapid": 1849,
 		"rating_blitz": 1908
+	},
+	{
+		"fideid": 15001202,
+		"name": "Cvetkovski, Slobodan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": 1797,
+		"rating_rapid": 1799,
+		"rating_blitz": 1890
 	},
 	{
 		"fideid": 15009629,
@@ -5401,43 +5401,9 @@
 		"k": 20,
 		"birthday": 1962,
 		"flag": "",
-		"rating_standard": 1791,
+		"rating_standard": 1790,
 		"rating_rapid": 1842,
 		"rating_blitz": 1848
-	},
-	{
-		"fideid": 15008967,
-		"name": "Arsov, Filip",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1788,
-		"rating_rapid": 1752,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15006352,
-		"name": "Osmani, Faredin",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1788,
-		"rating_rapid": 1937,
-		"rating_blitz": 1954
 	},
 	{
 		"fideid": 15009734,
@@ -5455,6 +5421,40 @@
 		"rating_standard": 1788,
 		"rating_rapid": 1893,
 		"rating_blitz": 1888
+	},
+	{
+		"fideid": 15008967,
+		"name": "Arsov, Filip",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1787,
+		"rating_rapid": 1752,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15006352,
+		"name": "Osmani, Faredin",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1787,
+		"rating_rapid": 1937,
+		"rating_blitz": 1954
 	},
 	{
 		"fideid": 15005380,
@@ -5503,8 +5503,8 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1782,
-		"rating_rapid": 1865,
+		"rating_standard": 1781,
+		"rating_rapid": 1864,
 		"rating_blitz": null
 	},
 	{
@@ -5521,7 +5521,7 @@
 		"birthday": 2003,
 		"flag": "wi",
 		"rating_standard": 1780,
-		"rating_rapid": 1752,
+		"rating_rapid": 1753,
 		"rating_blitz": 1720
 	},
 	{
@@ -5572,7 +5572,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1779,
-		"rating_rapid": 1892,
+		"rating_rapid": 1891,
 		"rating_blitz": 1784
 	},
 	{
@@ -5610,6 +5610,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15010244,
+		"name": "Stojcheski, Aleksandar",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1776,
+		"rating_rapid": 1743,
+		"rating_blitz": 1667
+	},
+	{
 		"fideid": 15010830,
 		"name": "Lozanovski, Andrej",
 		"country": "MKD",
@@ -5622,8 +5639,8 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1776,
-		"rating_rapid": 1851,
+		"rating_standard": 1775,
+		"rating_rapid": 1849,
 		"rating_blitz": null
 	},
 	{
@@ -5644,23 +5661,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15010244,
-		"name": "Stojcheski, Aleksandar",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1775,
-		"rating_rapid": 1744,
-		"rating_blitz": 1673
-	},
-	{
 		"fideid": 15002675,
 		"name": "Stojanovski, Valentin",
 		"country": "MKD",
@@ -5676,6 +5676,23 @@
 		"rating_standard": 1771,
 		"rating_rapid": 1871,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 15001377,
+		"name": "Brzovski, Tomica",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 1767,
+		"rating_rapid": 1824,
+		"rating_blitz": 1837
 	},
 	{
 		"fideid": 15003612,
@@ -5695,23 +5712,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15006999,
-		"name": "Farmakoski, Georg",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1766,
-		"rating_rapid": 1634,
-		"rating_blitz": 1634
-	},
-	{
 		"fideid": 15004970,
 		"name": "Bayrami, Uzeir",
 		"country": "MKD",
@@ -5729,8 +5729,8 @@
 		"rating_blitz": 1837
 	},
 	{
-		"fideid": 15001377,
-		"name": "Brzovski, Tomica",
+		"fideid": 15006999,
+		"name": "Farmakoski, Georg",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -5739,11 +5739,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1962,
+		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1765,
-		"rating_rapid": 1823,
-		"rating_blitz": 1837
+		"rating_rapid": 1634,
+		"rating_blitz": 1634
 	},
 	{
 		"fideid": 15001210,
@@ -5831,23 +5831,6 @@
 		"rating_blitz": 1788
 	},
 	{
-		"fideid": 15005992,
-		"name": "Velkoski, Ivan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1764,
-		"rating_rapid": 1916,
-		"rating_blitz": 1602
-	},
-	{
 		"fideid": 15002730,
 		"name": "Dimov, Trajce",
 		"country": "MKD",
@@ -5865,6 +5848,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15005992,
+		"name": "Velkoski, Ivan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1763,
+		"rating_rapid": 1915,
+		"rating_blitz": 1602
+	},
+	{
 		"fideid": 15009670,
 		"name": "Shterijov, Stojanche",
 		"country": "MKD",
@@ -5878,7 +5878,7 @@
 		"birthday": 1963,
 		"flag": "i",
 		"rating_standard": 1762,
-		"rating_rapid": 1729,
+		"rating_rapid": 1728,
 		"rating_blitz": null
 	},
 	{
@@ -5897,23 +5897,6 @@
 		"rating_standard": 1761,
 		"rating_rapid": 1718,
 		"rating_blitz": 1765
-	},
-	{
-		"fideid": 15007383,
-		"name": "Janevski, Boris",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1759,
-		"rating_rapid": 1825,
-		"rating_blitz": 1827
 	},
 	{
 		"fideid": 15005569,
@@ -5950,6 +5933,23 @@
 		"rating_blitz": 1754
 	},
 	{
+		"fideid": 15007383,
+		"name": "Janevski, Boris",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1758,
+		"rating_rapid": 1825,
+		"rating_blitz": 1826
+	},
+	{
 		"fideid": 15004333,
 		"name": "Taleski, Vaso",
 		"country": "MKD",
@@ -5963,7 +5963,7 @@
 		"birthday": 1958,
 		"flag": "i",
 		"rating_standard": 1757,
-		"rating_rapid": 1830,
+		"rating_rapid": 1829,
 		"rating_blitz": 1823
 	},
 	{
@@ -6014,7 +6014,7 @@
 		"birthday": 1949,
 		"flag": "i",
 		"rating_standard": 1754,
-		"rating_rapid": 1819,
+		"rating_rapid": 1818,
 		"rating_blitz": null
 	},
 	{
@@ -6033,6 +6033,23 @@
 		"rating_standard": 1754,
 		"rating_rapid": 1858,
 		"rating_blitz": 1858
+	},
+	{
+		"fideid": 15013170,
+		"name": "Dachev, Slobodan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 1753,
+		"rating_rapid": 1847,
+		"rating_blitz": 1742
 	},
 	{
 		"fideid": 15004007,
@@ -6103,40 +6120,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15013170,
-		"name": "Dachev, Slobodan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": 1751,
-		"rating_rapid": 1847,
-		"rating_blitz": 1742
-	},
-	{
-		"fideid": 15008860,
-		"name": "Boshkovski, Nikola",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1750,
-		"rating_rapid": 1901,
-		"rating_blitz": 1663
-	},
-	{
 		"fideid": 15009386,
 		"name": "Stefanoski, Daniel",
 		"country": "MKD",
@@ -6150,7 +6133,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1750,
-		"rating_rapid": 1816,
+		"rating_rapid": 1815,
 		"rating_blitz": 1805
 	},
 	{
@@ -6171,6 +6154,23 @@
 		"rating_blitz": 1756
 	},
 	{
+		"fideid": 15008860,
+		"name": "Boshkovski, Nikola",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1749,
+		"rating_rapid": 1901,
+		"rating_blitz": 1661
+	},
+	{
 		"fideid": 15004805,
 		"name": "Ivanovski, Miroslav",
 		"country": "MKD",
@@ -6184,7 +6184,7 @@
 		"birthday": 1948,
 		"flag": "i",
 		"rating_standard": 1746,
-		"rating_rapid": 1766,
+		"rating_rapid": 1765,
 		"rating_blitz": 1902
 	},
 	{
@@ -6205,23 +6205,6 @@
 		"rating_blitz": 1868
 	},
 	{
-		"fideid": 937320,
-		"name": "Jancev, Valentin",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 1744,
-		"rating_rapid": 1775,
-		"rating_blitz": 1861
-	},
-	{
 		"fideid": 15011356,
 		"name": "Temelkov, Aleksandar",
 		"country": "MKD",
@@ -6237,6 +6220,23 @@
 		"rating_standard": 1744,
 		"rating_rapid": 1714,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 937320,
+		"name": "Jancev, Valentin",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 1743,
+		"rating_rapid": 1775,
+		"rating_blitz": 1861
 	},
 	{
 		"fideid": 15005933,
@@ -6256,40 +6256,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15005054,
-		"name": "Pazevski, Simon",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1948,
-		"flag": "",
-		"rating_standard": 1742,
-		"rating_rapid": 1904,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15013154,
-		"name": "Tanchev, Borche",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1742,
-		"rating_rapid": 1901,
-		"rating_blitz": 1897
-	},
-	{
 		"fideid": 15005720,
 		"name": "Eftimov,Viktor",
 		"country": "MKD",
@@ -6307,8 +6273,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15005496,
-		"name": "Osmani, Kjani",
+		"fideid": 15005054,
+		"name": "Pazevski, Simon",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -6317,11 +6283,28 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1965,
+		"birthday": 1948,
 		"flag": "",
 		"rating_standard": 1741,
-		"rating_rapid": 1963,
-		"rating_blitz": 2121
+		"rating_rapid": 1904,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15013154,
+		"name": "Tanchev, Borche",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1741,
+		"rating_rapid": 1900,
+		"rating_blitz": 1897
 	},
 	{
 		"fideid": 15005623,
@@ -6341,6 +6324,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15005496,
+		"name": "Osmani, Kjani",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 1739,
+		"rating_rapid": 1963,
+		"rating_blitz": 2121
+	},
+	{
 		"fideid": 15004325,
 		"name": "Kjosev, Vlatko",
 		"country": "MKD",
@@ -6353,7 +6353,7 @@
 		"k": 20,
 		"birthday": 1979,
 		"flag": "",
-		"rating_standard": 1735,
+		"rating_standard": 1734,
 		"rating_rapid": 1752,
 		"rating_blitz": 1804
 	},
@@ -6372,7 +6372,24 @@
 		"flag": "",
 		"rating_standard": 1734,
 		"rating_rapid": 1875,
-		"rating_blitz": 1518
+		"rating_blitz": 1525
+	},
+	{
+		"fideid": 15006174,
+		"name": "Gjorgjevski, Mosha",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1970,
+		"flag": "i",
+		"rating_standard": 1733,
+		"rating_rapid": 1662,
+		"rating_blitz": 1729
 	},
 	{
 		"fideid": 15003990,
@@ -6388,7 +6405,7 @@
 		"birthday": 1951,
 		"flag": "i",
 		"rating_standard": 1733,
-		"rating_rapid": 1812,
+		"rating_rapid": 1811,
 		"rating_blitz": 1807
 	},
 	{
@@ -6405,7 +6422,7 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1733,
-		"rating_rapid": 1791,
+		"rating_rapid": 1790,
 		"rating_blitz": 1694
 	},
 	{
@@ -6424,23 +6441,6 @@
 		"rating_standard": 1732,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15006174,
-		"name": "Gjorgjevski, Mosha",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1970,
-		"flag": "i",
-		"rating_standard": 1732,
-		"rating_rapid": 1663,
-		"rating_blitz": 1731
 	},
 	{
 		"fideid": 15003434,
@@ -6559,7 +6559,7 @@
 		"flag": "",
 		"rating_standard": 1726,
 		"rating_rapid": 1711,
-		"rating_blitz": 1649
+		"rating_blitz": 1650
 	},
 	{
 		"fideid": 15003396,
@@ -6579,23 +6579,6 @@
 		"rating_blitz": 1713
 	},
 	{
-		"fideid": 15007073,
-		"name": "Lazovski, Kristijan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1723,
-		"rating_rapid": 1830,
-		"rating_blitz": 1543
-	},
-	{
 		"fideid": 15009939,
 		"name": "Popchevski, Zoran",
 		"country": "MKD",
@@ -6609,8 +6592,25 @@
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1723,
-		"rating_rapid": 1685,
+		"rating_rapid": 1684,
 		"rating_blitz": 1716
+	},
+	{
+		"fideid": 15007073,
+		"name": "Lazovski, Kristijan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1722,
+		"rating_rapid": 1830,
+		"rating_blitz": 1543
 	},
 	{
 		"fideid": 15006018,
@@ -6643,7 +6643,7 @@
 		"birthday": 1990,
 		"flag": "w",
 		"rating_standard": 1719,
-		"rating_rapid": 1705,
+		"rating_rapid": 1708,
 		"rating_blitz": 1828
 	},
 	{
@@ -6678,23 +6678,6 @@
 		"flag": "",
 		"rating_standard": 1714,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15012794,
-		"name": "Markusheski, Mihail",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1713,
-		"rating_rapid": 1729,
 		"rating_blitz": null
 	},
 	{
@@ -6762,7 +6745,7 @@
 		"birthday": 1986,
 		"flag": "i",
 		"rating_standard": 1705,
-		"rating_rapid": 1722,
+		"rating_rapid": 1721,
 		"rating_blitz": 1753
 	},
 	{
@@ -6779,7 +6762,7 @@
 		"birthday": 1952,
 		"flag": "i",
 		"rating_standard": 1705,
-		"rating_rapid": 1792,
+		"rating_rapid": 1791,
 		"rating_blitz": 1986
 	},
 	{
@@ -6795,9 +6778,26 @@
 		"k": 20,
 		"birthday": 1981,
 		"flag": "",
-		"rating_standard": 1703,
+		"rating_standard": 1704,
 		"rating_rapid": 1768,
 		"rating_blitz": 1793
+	},
+	{
+		"fideid": 15012794,
+		"name": "Markusheski, Mihail",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1704,
+		"rating_rapid": 1729,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15004899,
@@ -6931,7 +6931,7 @@
 		"k": 40,
 		"birthday": 1959,
 		"flag": "",
-		"rating_standard": 1699,
+		"rating_standard": 1698,
 		"rating_rapid": 1780,
 		"rating_blitz": 1723
 	},
@@ -6953,23 +6953,6 @@
 		"rating_blitz": 1735
 	},
 	{
-		"fideid": 15004694,
-		"name": "Velkovski, Zoran",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": 1697,
-		"rating_rapid": 1691,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15019357,
 		"name": "Iseni, Selver",
 		"country": "MKD",
@@ -6983,7 +6966,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1696,
-		"rating_rapid": 1755,
+		"rating_rapid": 1754,
 		"rating_blitz": null
 	},
 	{
@@ -7000,7 +6983,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1695,
-		"rating_rapid": 1968,
+		"rating_rapid": 1971,
 		"rating_blitz": null
 	},
 	{
@@ -7018,6 +7001,23 @@
 		"flag": "i",
 		"rating_standard": 1695,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15004694,
+		"name": "Velkovski, Zoran",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1691,
 		"rating_blitz": null
 	},
 	{
@@ -7051,7 +7051,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1694,
-		"rating_rapid": 1860,
+		"rating_rapid": 1858,
 		"rating_blitz": null
 	},
 	{
@@ -7067,9 +7067,26 @@
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
-		"rating_standard": 1694,
+		"rating_standard": 1693,
 		"rating_rapid": 1708,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 15003043,
+		"name": "Golubovic, Tomislav",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1689,
+		"rating_rapid": 1783,
+		"rating_blitz": 1676
 	},
 	{
 		"fideid": 15015467,
@@ -7084,7 +7101,7 @@
 		"k": 40,
 		"birthday": 1992,
 		"flag": "i",
-		"rating_standard": 1691,
+		"rating_standard": 1689,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7101,26 +7118,9 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 1691,
+		"rating_standard": 1689,
 		"rating_rapid": 1840,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15003043,
-		"name": "Golubovic, Tomislav",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1690,
-		"rating_rapid": 1783,
-		"rating_blitz": 1676
 	},
 	{
 		"fideid": 15019594,
@@ -7153,7 +7153,7 @@
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": 1688,
-		"rating_rapid": 1702,
+		"rating_rapid": 1701,
 		"rating_blitz": null
 	},
 	{
@@ -7191,23 +7191,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15002942,
-		"name": "Izeti, Zekirija",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1956,
-		"flag": "",
-		"rating_standard": 1685,
-		"rating_rapid": 1875,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15005011,
 		"name": "Kromov, Ile",
 		"country": "MKD",
@@ -7220,9 +7203,26 @@
 		"k": 40,
 		"birthday": 1948,
 		"flag": "",
-		"rating_standard": 1684,
+		"rating_standard": 1685,
 		"rating_rapid": 1709,
 		"rating_blitz": 1833
+	},
+	{
+		"fideid": 15002942,
+		"name": "Izeti, Zekirija",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1956,
+		"flag": "",
+		"rating_standard": 1684,
+		"rating_rapid": 1875,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15005704,
@@ -7276,6 +7276,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15015041,
+		"name": "Achkoski, Petar",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1680,
+		"rating_rapid": 1471,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15001482,
 		"name": "Nuneski, Daniel",
 		"country": "MKD",
@@ -7290,23 +7307,6 @@
 		"flag": "",
 		"rating_standard": 1680,
 		"rating_rapid": 1726,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15015041,
-		"name": "Achkoski, Petar",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1679,
-		"rating_rapid": 1471,
 		"rating_blitz": null
 	},
 	{
@@ -7340,7 +7340,7 @@
 		"birthday": 1963,
 		"flag": "",
 		"rating_standard": 1678,
-		"rating_rapid": 1739,
+		"rating_rapid": 1738,
 		"rating_blitz": 1689
 	},
 	{
@@ -7424,26 +7424,9 @@
 		"k": 40,
 		"birthday": 1992,
 		"flag": "",
-		"rating_standard": 1666,
+		"rating_standard": 1665,
 		"rating_rapid": 1757,
 		"rating_blitz": 1767
-	},
-	{
-		"fideid": 15014681,
-		"name": "Milkovski, Gjorgji",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": 1660,
-		"rating_rapid": 1632,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 15003400,
@@ -7480,6 +7463,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15014681,
+		"name": "Milkovski, Gjorgji",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": 1657,
+		"rating_rapid": 1632,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15010651,
 		"name": "Arsova, Marija",
 		"country": "MKD",
@@ -7497,23 +7497,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15003035,
-		"name": "Vesovski, Zoran",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1652,
-		"rating_rapid": 1727,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15009858,
 		"name": "Zelenikovski, Metodi",
 		"country": "MKD",
@@ -7526,7 +7509,7 @@
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
-		"rating_standard": 1652,
+		"rating_standard": 1653,
 		"rating_rapid": 1728,
 		"rating_blitz": 1699
 	},
@@ -7599,37 +7582,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15017761,
-		"name": "Shumanov, Blagoj",
+		"fideid": 15003035,
+		"name": "Vesovski, Zoran",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 1965,
+		"games": 6,
+		"k": 20,
+		"birthday": 1963,
 		"flag": "",
-		"rating_standard": 1648,
-		"rating_rapid": 1775,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15015130,
-		"name": "Gjakovski, Marko",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1647,
-		"rating_rapid": 1774,
+		"rating_standard": 1650,
+		"rating_rapid": 1727,
 		"rating_blitz": null
 	},
 	{
@@ -7650,6 +7616,23 @@
 		"rating_blitz": 1870
 	},
 	{
+		"fideid": 15017761,
+		"name": "Shumanov, Blagoj",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 1646,
+		"rating_rapid": 1775,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15013251,
 		"name": "Tefov, Dame",
 		"country": "MKD",
@@ -7667,20 +7650,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15012859,
-		"name": "Grashkoski, Leonid",
+		"fideid": 15015130,
+		"name": "Gjakovski, Marko",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NA",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2004,
+		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1645,
-		"rating_rapid": 1633,
+		"rating_rapid": 1773,
 		"rating_blitz": null
 	},
 	{
@@ -7699,6 +7682,23 @@
 		"rating_standard": 1645,
 		"rating_rapid": 1792,
 		"rating_blitz": 1754
+	},
+	{
+		"fideid": 15012859,
+		"name": "Grashkoski, Leonid",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1644,
+		"rating_rapid": 1633,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15008290,
@@ -7748,7 +7748,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1642,
-		"rating_rapid": 1439,
+		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
@@ -7781,7 +7781,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
-		"rating_standard": 1637,
+		"rating_standard": 1636,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7816,25 +7816,8 @@
 		"birthday": 1948,
 		"flag": "",
 		"rating_standard": 1633,
-		"rating_rapid": 1578,
+		"rating_rapid": 1575,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15012107,
-		"name": "Petrovski, Ivan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1631,
-		"rating_rapid": 1913,
-		"rating_blitz": 1735
 	},
 	{
 		"fideid": 15019322,
@@ -7854,6 +7837,23 @@
 		"rating_blitz": 1697
 	},
 	{
+		"fideid": 15012107,
+		"name": "Petrovski, Ivan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1629,
+		"rating_rapid": 1913,
+		"rating_blitz": 1733
+	},
+	{
 		"fideid": 15013138,
 		"name": "Delev, Slobodan",
 		"country": "MKD",
@@ -7866,25 +7866,25 @@
 		"k": 40,
 		"birthday": 1962,
 		"flag": "i",
-		"rating_standard": 1627,
-		"rating_rapid": 1589,
+		"rating_standard": 1626,
+		"rating_rapid": 1588,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15013596,
-		"name": "Petkovski, Kristijan",
+		"fideid": 15016471,
+		"name": "Gocev, Martin",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
-		"birthday": 1998,
+		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1622,
-		"rating_rapid": null,
+		"rating_rapid": 1573,
 		"rating_blitz": null
 	},
 	{
@@ -7900,8 +7900,25 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1619,
+		"rating_standard": 1621,
 		"rating_rapid": 1606,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15013596,
+		"name": "Petkovski, Kristijan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1620,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -7917,7 +7934,7 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "w",
-		"rating_standard": 1618,
+		"rating_standard": 1617,
 		"rating_rapid": 1596,
 		"rating_blitz": null
 	},
@@ -7934,7 +7951,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1618,
+		"rating_standard": 1617,
 		"rating_rapid": 1784,
 		"rating_blitz": 1574
 	},
@@ -7951,7 +7968,7 @@
 		"k": 40,
 		"birthday": 1984,
 		"flag": "",
-		"rating_standard": 1616,
+		"rating_standard": 1615,
 		"rating_rapid": 1784,
 		"rating_blitz": null
 	},
@@ -7973,23 +7990,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15001474,
-		"name": "Kostov, Kosta",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1950,
-		"flag": "i",
-		"rating_standard": 1615,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15007510,
 		"name": "Zendeli, Selver",
 		"country": "MKD",
@@ -8002,13 +8002,13 @@
 		"k": 40,
 		"birthday": 1983,
 		"flag": "",
-		"rating_standard": 1613,
+		"rating_standard": 1615,
 		"rating_rapid": 1765,
 		"rating_blitz": 1757
 	},
 	{
-		"fideid": 15013723,
-		"name": "Popov, Hristijan",
+		"fideid": 15001474,
+		"name": "Kostov, Kosta",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -8017,10 +8017,27 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2008,
+		"birthday": 1950,
+		"flag": "i",
+		"rating_standard": 1614,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15011267,
+		"name": "Jakimov, Dragi",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1607,
-		"rating_rapid": 1729,
+		"rating_standard": 1611,
+		"rating_rapid": 1684,
 		"rating_blitz": null
 	},
 	{
@@ -8039,6 +8056,23 @@
 		"rating_standard": 1606,
 		"rating_rapid": 1660,
 		"rating_blitz": 1624
+	},
+	{
+		"fideid": 15013723,
+		"name": "Popov, Hristijan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1606,
+		"rating_rapid": 1728,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15004945,
@@ -8075,6 +8109,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15017494,
+		"name": "Zelenikovski, Marjan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "i",
+		"rating_standard": 1600,
+		"rating_rapid": null,
+		"rating_blitz": 1525
+	},
+	{
 		"fideid": 15013510,
 		"name": "Isaki, Nasuf",
 		"country": "MKD",
@@ -8087,25 +8138,8 @@
 		"k": 40,
 		"birthday": 1952,
 		"flag": "i",
-		"rating_standard": 1602,
+		"rating_standard": 1599,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15011267,
-		"name": "Jakimov, Dragi",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": 1684,
 		"rating_blitz": null
 	},
 	{
@@ -8121,7 +8155,7 @@
 		"k": 40,
 		"birthday": 1997,
 		"flag": "i",
-		"rating_standard": 1600,
+		"rating_standard": 1597,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -8138,60 +8172,9 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": 1671,
+		"rating_standard": 1597,
+		"rating_rapid": 1670,
 		"rating_blitz": 1656
-	},
-	{
-		"fideid": 15017494,
-		"name": "Zelenikovski, Marjan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1987,
-		"flag": "i",
-		"rating_standard": 1600,
-		"rating_rapid": null,
-		"rating_blitz": 1524
-	},
-	{
-		"fideid": 15006069,
-		"name": "Davitkova, Jovana",
-		"country": "MKD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1596,
-		"rating_rapid": 1635,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15013847,
-		"name": "Glavinac, Darijan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1596,
-		"rating_rapid": 1702,
-		"rating_blitz": 1711
 	},
 	{
 		"fideid": 15007855,
@@ -8211,6 +8194,23 @@
 		"rating_blitz": 1627
 	},
 	{
+		"fideid": 15006069,
+		"name": "Davitkova, Jovana",
+		"country": "MKD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1595,
+		"rating_rapid": 1635,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15009823,
 		"name": "Stankovic, Sanja",
 		"country": "MKD",
@@ -8223,9 +8223,26 @@
 		"k": 40,
 		"birthday": 1983,
 		"flag": "w",
-		"rating_standard": 1595,
+		"rating_standard": 1594,
 		"rating_rapid": 1679,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 15013847,
+		"name": "Glavinac, Darijan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1591,
+		"rating_rapid": 1702,
+		"rating_blitz": 1709
 	},
 	{
 		"fideid": 15005259,
@@ -8243,23 +8260,6 @@
 		"rating_standard": 1589,
 		"rating_rapid": 1608,
 		"rating_blitz": 1663
-	},
-	{
-		"fideid": 15018148,
-		"name": "Jordanovski, Kristijan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1589,
-		"rating_rapid": 1690,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 15006328,
@@ -8296,6 +8296,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15018148,
+		"name": "Jordanovski, Kristijan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1586,
+		"rating_rapid": 1690,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15014037,
 		"name": "Burns, Elisaveta",
 		"country": "MKD",
@@ -8325,9 +8342,9 @@
 		"k": 20,
 		"birthday": 1984,
 		"flag": "",
-		"rating_standard": 1584,
+		"rating_standard": 1583,
 		"rating_rapid": 1597,
-		"rating_blitz": 1551
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 15014061,
@@ -8343,8 +8360,25 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1582,
-		"rating_rapid": 1595,
-		"rating_blitz": 1651
+		"rating_rapid": 1594,
+		"rating_blitz": 1652
+	},
+	{
+		"fideid": 15017354,
+		"name": "Andonovski, Vojdan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1582,
+		"rating_rapid": 1534,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15009068,
@@ -8376,8 +8410,8 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1580,
-		"rating_rapid": 1912,
+		"rating_standard": 1579,
+		"rating_rapid": 1911,
 		"rating_blitz": 1611
 	},
 	{
@@ -8393,8 +8427,8 @@
 		"k": 40,
 		"birthday": 1970,
 		"flag": "",
-		"rating_standard": 1580,
-		"rating_rapid": 1711,
+		"rating_standard": 1579,
+		"rating_rapid": 1710,
 		"rating_blitz": 1596
 	},
 	{
@@ -8410,26 +8444,9 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
-		"rating_standard": 1579,
-		"rating_rapid": 1507,
-		"rating_blitz": 1524
-	},
-	{
-		"fideid": 15011364,
-		"name": "Linkinoski, Borce",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "",
 		"rating_standard": 1578,
-		"rating_rapid": 1706,
-		"rating_blitz": 1641
+		"rating_rapid": 1494,
+		"rating_blitz": 1524
 	},
 	{
 		"fideid": 15012042,
@@ -8446,23 +8463,6 @@
 		"flag": "i",
 		"rating_standard": 1578,
 		"rating_rapid": 1623,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15006964,
-		"name": "Mucha, Libert",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": 1578,
-		"rating_rapid": 1528,
 		"rating_blitz": null
 	},
 	{
@@ -8512,13 +8512,13 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1574,
+		"rating_standard": 1577,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15017370,
-		"name": "Maksimov, Ivan",
+		"fideid": 15006964,
+		"name": "Mucha, Libert",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -8527,11 +8527,28 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2000,
+		"birthday": 2009,
 		"flag": "i",
-		"rating_standard": 1574,
-		"rating_rapid": null,
+		"rating_standard": 1577,
+		"rating_rapid": 1528,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 15011364,
+		"name": "Linkinoski, Borce",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1576,
+		"rating_rapid": 1705,
+		"rating_blitz": 1641
 	},
 	{
 		"fideid": 15009394,
@@ -8546,9 +8563,26 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1573,
-		"rating_rapid": 1557,
+		"rating_standard": 1575,
+		"rating_rapid": 1544,
 		"rating_blitz": 1476
+	},
+	{
+		"fideid": 15017370,
+		"name": "Maksimov, Ivan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "i",
+		"rating_standard": 1573,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15005755,
@@ -8585,6 +8619,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15016269,
+		"name": "Puroski, Jovan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1572,
+		"rating_rapid": 1594,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15010457,
 		"name": "Janevski, Nikola",
 		"country": "MKD",
@@ -8597,7 +8648,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1572,
+		"rating_standard": 1571,
 		"rating_rapid": 1619,
 		"rating_blitz": 1813
 	},
@@ -8614,25 +8665,8 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1570,
-		"rating_rapid": 1578,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15017354,
-		"name": "Andonovski, Vojdan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1569,
-		"rating_rapid": 1534,
+		"rating_standard": 1571,
+		"rating_rapid": 1579,
 		"rating_blitz": null
 	},
 	{
@@ -8653,23 +8687,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15016269,
-		"name": "Puroski, Jovan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1569,
-		"rating_rapid": 1591,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15017583,
 		"name": "Blazhevski, Slaven",
 		"country": "MKD",
@@ -8682,7 +8699,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1567,
+		"rating_standard": 1568,
 		"rating_rapid": 1537,
 		"rating_blitz": null
 	},
@@ -8699,25 +8716,8 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1564,
-		"rating_rapid": 1570,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15012190,
-		"name": "Stojanovikj, Marko",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1562,
-		"rating_rapid": 1642,
+		"rating_standard": 1563,
+		"rating_rapid": 1569,
 		"rating_blitz": null
 	},
 	{
@@ -8772,8 +8772,8 @@
 		"rating_blitz": 1920
 	},
 	{
-		"fideid": 15009327,
-		"name": "Stankovski, Stefan",
+		"fideid": 15012190,
+		"name": "Stojanovikj, Marko",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -8781,12 +8781,29 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": 1556,
-		"rating_rapid": 1480,
-		"rating_blitz": 1583
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1560,
+		"rating_rapid": 1642,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15010422,
+		"name": "Veleva, Ilijana",
+		"country": "MKD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1557,
+		"rating_rapid": 1748,
+		"rating_blitz": 1642
 	},
 	{
 		"fideid": 15005135,
@@ -8806,6 +8823,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15009327,
+		"name": "Stankovski, Stefan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": 1554,
+		"rating_rapid": 1480,
+		"rating_blitz": 1582
+	},
+	{
 		"fideid": 15009440,
 		"name": "Janevski, Matej",
 		"country": "MKD",
@@ -8818,26 +8852,9 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1554,
+		"rating_standard": 1553,
 		"rating_rapid": 1643,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15010422,
-		"name": "Veleva, Ilijana",
-		"country": "MKD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1554,
-		"rating_rapid": 1748,
-		"rating_blitz": 1644
 	},
 	{
 		"fideid": 15006115,
@@ -8874,23 +8891,6 @@
 		"rating_blitz": 1738
 	},
 	{
-		"fideid": 15018024,
-		"name": "Hajrullai, Korab",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1549,
-		"rating_rapid": 1591,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15004481,
 		"name": "Jordanov Nikola",
 		"country": "MKD",
@@ -8925,8 +8925,8 @@
 		"rating_blitz": 1609
 	},
 	{
-		"fideid": 15012034,
-		"name": "Markovski, Marko",
+		"fideid": 15018024,
+		"name": "Hajrullai, Korab",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -8935,10 +8935,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2007,
+		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1548,
-		"rating_rapid": 1679,
+		"rating_standard": 1547,
+		"rating_rapid": 1588,
 		"rating_blitz": null
 	},
 	{
@@ -8959,6 +8959,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15012034,
+		"name": "Markovski, Marko",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1546,
+		"rating_rapid": 1679,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15017087,
 		"name": "Burns, Joshua Benjamin",
 		"country": "MKD",
@@ -8971,7 +8988,7 @@
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
-		"rating_standard": 1545,
+		"rating_standard": 1544,
 		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
@@ -8988,8 +9005,8 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1545,
-		"rating_rapid": 1729,
+		"rating_standard": 1544,
+		"rating_rapid": 1728,
 		"rating_blitz": 1593
 	},
 	{
@@ -9022,7 +9039,7 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1543,
+		"rating_standard": 1542,
 		"rating_rapid": 1540,
 		"rating_blitz": null
 	},
@@ -9039,7 +9056,7 @@
 		"k": 40,
 		"birthday": 1996,
 		"flag": "i",
-		"rating_standard": 1540,
+		"rating_standard": 1539,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -9056,25 +9073,8 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1539,
-		"rating_rapid": 1694,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15013740,
-		"name": "Gocev, Kiril",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
 		"rating_standard": 1538,
-		"rating_rapid": null,
+		"rating_rapid": 1689,
 		"rating_blitz": null
 	},
 	{
@@ -9091,7 +9091,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1537,
-		"rating_rapid": 1496,
+		"rating_rapid": 1495,
 		"rating_blitz": null
 	},
 	{
@@ -9112,8 +9112,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15008690,
-		"name": "Smilevski, David",
+		"fideid": 15013740,
+		"name": "Gocev, Kiril",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -9122,11 +9122,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2007,
+		"birthday": 2008,
 		"flag": "i",
-		"rating_standard": 1535,
-		"rating_rapid": 1455,
-		"rating_blitz": 1496
+		"rating_standard": 1534,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15011623,
@@ -9146,8 +9146,25 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15011321,
-		"name": "Zafirov, Marko",
+		"fideid": 15017559,
+		"name": "Davidovikj, Ognen",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1530,
+		"rating_rapid": 1476,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15008690,
+		"name": "Smilevski, David",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -9156,11 +9173,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1529,
-		"rating_rapid": 1537,
-		"rating_blitz": null
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": 1530,
+		"rating_rapid": 1455,
+		"rating_blitz": 1496
 	},
 	{
 		"fideid": 15013839,
@@ -9175,8 +9192,8 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "i",
-		"rating_standard": 1527,
-		"rating_rapid": 1552,
+		"rating_standard": 1528,
+		"rating_rapid": 1551,
 		"rating_blitz": null
 	},
 	{
@@ -9193,24 +9210,24 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1527,
-		"rating_rapid": 1598,
+		"rating_rapid": 1600,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15009572,
-		"name": "Nikolovska, Olivera",
+		"fideid": 15011321,
+		"name": "Zafirov, Marko",
 		"country": "MKD",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2008,
-		"flag": "wi",
-		"rating_standard": 1526,
-		"rating_rapid": 1630,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1527,
+		"rating_rapid": 1537,
 		"rating_blitz": null
 	},
 	{
@@ -9231,10 +9248,10 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15015220,
-		"name": "Ivanovski, Luka",
+		"fideid": 15009572,
+		"name": "Nikolovska, Olivera",
 		"country": "MKD",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
@@ -9242,26 +9259,9 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "i",
+		"flag": "wi",
 		"rating_standard": 1524,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15018547,
-		"name": "Markovikj, Filip",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1523,
-		"rating_rapid": null,
+		"rating_rapid": 1630,
 		"rating_blitz": null
 	},
 	{
@@ -9294,25 +9294,8 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
-		"rating_standard": 1522,
-		"rating_rapid": 1486,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15011879,
-		"name": "Eljusovski, Ubejd",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1520,
-		"rating_rapid": null,
+		"rating_standard": 1521,
+		"rating_rapid": 1485,
 		"rating_blitz": null
 	},
 	{
@@ -9329,24 +9312,24 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1519,
-		"rating_rapid": 1533,
+		"rating_rapid": 1528,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15012247,
-		"name": "Trajkovska, Marija",
+		"fideid": 15018547,
+		"name": "Markovikj, Filip",
 		"country": "MKD",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
-		"birthday": 2002,
-		"flag": "w",
+		"birthday": 2003,
+		"flag": "",
 		"rating_standard": 1519,
-		"rating_rapid": 1422,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -9384,8 +9367,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15018075,
-		"name": "Markovski, Gabriel",
+		"fideid": 15011879,
+		"name": "Eljusovski, Ubejd",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -9394,44 +9377,44 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1517,
-		"rating_rapid": 1447,
-		"rating_blitz": 1461
-	},
-	{
-		"fideid": 15011631,
-		"name": "Stojcheski, Goran",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1516,
-		"rating_rapid": 1618,
-		"rating_blitz": 1723
-	},
-	{
-		"fideid": 15017559,
-		"name": "Davidovikj, Ognen",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1515,
-		"rating_rapid": 1476,
+		"rating_standard": 1517,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15012247,
+		"name": "Trajkovska, Marija",
+		"country": "MKD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "w",
+		"rating_standard": 1517,
+		"rating_rapid": 1422,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15015220,
+		"name": "Ivanovski, Luka",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": 1516,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -9448,8 +9431,25 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1515,
-		"rating_rapid": 1462,
+		"rating_rapid": 1461,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 15011631,
+		"name": "Stojcheski, Goran",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1515,
+		"rating_rapid": 1605,
+		"rating_blitz": 1723
 	},
 	{
 		"fideid": 15005909,
@@ -9486,8 +9486,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15018717,
-		"name": "Jakimovski, Stefan",
+		"fideid": 15018075,
+		"name": "Markovski, Gabriel",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -9496,11 +9496,28 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2006,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1512,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_standard": 1514,
+		"rating_rapid": 1440,
+		"rating_blitz": 1459
+	},
+	{
+		"fideid": 15009530,
+		"name": "Josevski, Konstantin",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1513,
+		"rating_rapid": 1635,
+		"rating_blitz": 1636
 	},
 	{
 		"fideid": 15003094,
@@ -9520,23 +9537,6 @@
 		"rating_blitz": 1662
 	},
 	{
-		"fideid": 15009530,
-		"name": "Josevski, Konstantin",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1512,
-		"rating_rapid": 1636,
-		"rating_blitz": 1636
-	},
-	{
 		"fideid": 15016790,
 		"name": "Misheski, Pavel",
 		"country": "MKD",
@@ -9549,8 +9549,42 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1511,
-		"rating_rapid": 1473,
+		"rating_standard": 1512,
+		"rating_rapid": 1474,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15018717,
+		"name": "Jakimovski, Stefan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1510,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15016099,
+		"name": "Avramoski, Aleksandar",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1509,
+		"rating_rapid": 1477,
 		"rating_blitz": null
 	},
 	{
@@ -9571,23 +9605,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15016099,
-		"name": "Avramoski, Aleksandar",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1508,
-		"rating_rapid": 1491,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15006611,
 		"name": "Dodovski, Jakov",
 		"country": "MKD",
@@ -9602,23 +9619,6 @@
 		"flag": "i",
 		"rating_standard": 1506,
 		"rating_rapid": 1492,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15013863,
-		"name": "Petrovski, Pavel",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": 1506,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -9639,6 +9639,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15017451,
+		"name": "Frenkov, Slave",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1504,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15016030,
+		"name": "Sait, Severdzan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1961,
+		"flag": "",
+		"rating_standard": 1503,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15005330,
 		"name": "Galeski, Andrej",
 		"country": "MKD",
@@ -9656,25 +9690,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15016030,
-		"name": "Sait, Severdzan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 1961,
-		"flag": "",
-		"rating_standard": 1501,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15012743,
-		"name": "Markusheski, David",
+		"fideid": 15013863,
+		"name": "Petrovski, Pavel",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -9684,9 +9701,9 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1498,
-		"rating_rapid": 1581,
+		"flag": "i",
+		"rating_standard": 1501,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -9724,6 +9741,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15012743,
+		"name": "Markusheski, David",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1496,
+		"rating_rapid": 1581,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15017443,
 		"name": "Petreski, Zhivko",
 		"country": "MKD",
@@ -9736,7 +9770,7 @@
 		"k": 40,
 		"birthday": 1949,
 		"flag": "i",
-		"rating_standard": 1497,
+		"rating_standard": 1495,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -9753,8 +9787,8 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1495,
-		"rating_rapid": 1584,
+		"rating_standard": 1494,
+		"rating_rapid": 1583,
 		"rating_blitz": null
 	},
 	{
@@ -9772,6 +9806,23 @@
 		"flag": "i",
 		"rating_standard": 1494,
 		"rating_rapid": 1525,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15007626,
+		"name": "Mahmud, Edim",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": 1494,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -9809,25 +9860,25 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15011542,
-		"name": "Velickovski, Filip",
+		"fideid": 15015394,
+		"name": "Petkovski, Filip",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 9,
 		"k": 40,
-		"birthday": 2008,
+		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1489,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_standard": 1487,
+		"rating_rapid": 1533,
+		"rating_blitz": 1484
 	},
 	{
-		"fideid": 15011380,
-		"name": "Kamnar, Daniel",
+		"fideid": 15017672,
+		"name": "Stojkov, Kristijan",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -9836,11 +9887,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
+		"birthday": 2012,
+		"flag": "",
 		"rating_standard": 1487,
-		"rating_rapid": 1614,
-		"rating_blitz": 1537
+		"rating_rapid": 1543,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15010660,
@@ -9860,8 +9911,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15007030,
-		"name": "Kumbaroski, Gerasim",
+		"fideid": 15011380,
+		"name": "Kamnar, Daniel",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -9870,11 +9921,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2009,
-		"flag": "",
+		"birthday": 2011,
+		"flag": "i",
 		"rating_standard": 1486,
-		"rating_rapid": 1589,
-		"rating_blitz": null
+		"rating_rapid": 1614,
+		"rating_blitz": 1537
 	},
 	{
 		"fideid": 15005968,
@@ -9911,23 +9962,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15010937,
-		"name": "Mustafa, Naser",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1973,
-		"flag": "i",
-		"rating_standard": 1484,
-		"rating_rapid": 1683,
-		"rating_blitz": 1611
-	},
-	{
 		"fideid": 15018202,
 		"name": "Jovanovski, Jovan",
 		"country": "MKD",
@@ -9945,6 +9979,57 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15010937,
+		"name": "Mustafa, Naser",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1973,
+		"flag": "i",
+		"rating_standard": 1483,
+		"rating_rapid": 1683,
+		"rating_blitz": 1611
+	},
+	{
+		"fideid": 15011542,
+		"name": "Velickovski, Filip",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1483,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15007030,
+		"name": "Kumbaroski, Gerasim",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1481,
+		"rating_rapid": 1586,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15016218,
 		"name": "Atanasovski, Ivan",
 		"country": "MKD",
@@ -9957,7 +10042,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1479,
+		"rating_standard": 1478,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -9974,8 +10059,8 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
-		"rating_standard": 1479,
-		"rating_rapid": 1584,
+		"rating_standard": 1477,
+		"rating_rapid": 1583,
 		"rating_blitz": null
 	},
 	{
@@ -9991,7 +10076,7 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1478,
+		"rating_standard": 1477,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -10008,8 +10093,25 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1477,
+		"rating_standard": 1476,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15017338,
+		"name": "Mladenovikj Kmetovikj, Marko",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1475,
+		"rating_rapid": 1530,
 		"rating_blitz": null
 	},
 	{
@@ -10030,20 +10132,37 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15017338,
-		"name": "Mladenovikj Kmetovikj, Marko",
+		"fideid": 15018059,
+		"name": "Lazevski, Damjan",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1474,
-		"rating_rapid": 1531,
+		"rating_standard": 1471,
+		"rating_rapid": 1582,
+		"rating_blitz": 1483
+	},
+	{
+		"fideid": 15013979,
+		"name": "Stojkovski, Stilijan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1469,
+		"rating_rapid": 1613,
 		"rating_blitz": null
 	},
 	{
@@ -10059,94 +10178,9 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1474,
-		"rating_rapid": 1500,
+		"rating_standard": 1467,
+		"rating_rapid": 1491,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15007626,
-		"name": "Mahmud, Edim",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": 1473,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15013979,
-		"name": "Stojkovski, Stilijan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1473,
-		"rating_rapid": 1619,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15015394,
-		"name": "Petkovski, Filip",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1471,
-		"rating_rapid": 1547,
-		"rating_blitz": 1485
-	},
-	{
-		"fideid": 15017672,
-		"name": "Stojkov, Kristijan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1471,
-		"rating_rapid": 1531,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15018059,
-		"name": "Lazevski, Damjan",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1470,
-		"rating_rapid": 1582,
-		"rating_blitz": 1483
 	},
 	{
 		"fideid": 15006875,
@@ -10196,41 +10230,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1462,
-		"rating_rapid": 1552,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15017630,
-		"name": "Gjoneski, Marko",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1459,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15008207,
-		"name": "Sallmani, Olti",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1459,
-		"rating_rapid": 1621,
+		"rating_rapid": 1524,
 		"rating_blitz": null
 	},
 	{
@@ -10246,41 +10246,7 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1459,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15008177,
-		"name": "Velkoska, Ivana",
-		"country": "MKD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1457,
-		"rating_rapid": 1567,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15014576,
-		"name": "Filipche, Sofija",
-		"country": "MKD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1456,
+		"rating_standard": 1460,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -10302,6 +10268,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15008177,
+		"name": "Velkoska, Ivana",
+		"country": "MKD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1456,
+		"rating_rapid": 1567,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15017630,
+		"name": "Gjoneski, Marko",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1455,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15013871,
 		"name": "Lazarevski, David",
 		"country": "MKD",
@@ -10314,7 +10314,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "i",
-		"rating_standard": 1455,
+		"rating_standard": 1452,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -10331,59 +10331,8 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1450,
-		"rating_rapid": 1550,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15016471,
-		"name": "Gocev, Martin",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
 		"rating_standard": 1449,
-		"rating_rapid": 1573,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15015076,
-		"name": "Boshkovski, Ognen",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": 1447,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15015165,
-		"name": "Hristoski, Darin",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": 1447,
-		"rating_rapid": 1476,
+		"rating_rapid": 1545,
 		"rating_blitz": null
 	},
 	{
@@ -10417,12 +10366,12 @@
 		"birthday": 2010,
 		"flag": "i",
 		"rating_standard": 1443,
-		"rating_rapid": 1440,
+		"rating_rapid": 1439,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15012310,
-		"name": "Mirchevski, Darjan",
+		"fideid": 15015076,
+		"name": "Boshkovski, Ognen",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -10431,10 +10380,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2009,
 		"flag": "i",
 		"rating_standard": 1443,
-		"rating_rapid": 1512,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -10450,8 +10399,25 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1442,
+		"rating_standard": 1443,
 		"rating_rapid": 1419,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15015165,
+		"name": "Hristoski, Darin",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": 1443,
+		"rating_rapid": 1476,
 		"rating_blitz": null
 	},
 	{
@@ -10467,8 +10433,25 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1442,
-		"rating_rapid": 1647,
+		"rating_standard": 1441,
+		"rating_rapid": 1645,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15013995,
+		"name": "Salihi, Endrit",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1437,
+		"rating_rapid": 1434,
 		"rating_blitz": null
 	},
 	{
@@ -10484,7 +10467,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1439,
+		"rating_standard": 1436,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -10501,13 +10484,13 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1437,
+		"rating_standard": 1436,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15013995,
-		"name": "Salihi, Endrit",
+		"fideid": 15014487,
+		"name": "Ivanovski, Daniel",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -10516,10 +10499,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1432,
-		"rating_rapid": 1429,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -10540,6 +10523,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15016374,
+		"name": "Bebekovski, Mario",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1428,
+		"rating_rapid": 1431,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 2949938,
 		"name": "Ivanov, Vasil A",
 		"country": "MKD",
@@ -10554,23 +10554,6 @@
 		"flag": "",
 		"rating_standard": 1428,
 		"rating_rapid": 1439,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15014487,
-		"name": "Ivanovski, Daniel",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1428,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -10621,24 +10604,7 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1422,
-		"rating_rapid": 1402,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15011682,
-		"name": "Nikolovski, Dario",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": 1422,
-		"rating_rapid": 1420,
+		"rating_rapid": 1401,
 		"rating_blitz": null
 	},
 	{
@@ -10654,25 +10620,25 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "wi",
-		"rating_standard": 1421,
+		"rating_standard": 1420,
 		"rating_rapid": 1490,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15012441,
-		"name": "Mirkov, Kristijan",
+		"fideid": 15016935,
+		"name": "Cvetanovska, Andrea",
 		"country": "MKD",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1421,
-		"rating_rapid": 1517,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1419,
+		"rating_rapid": 1457,
 		"rating_blitz": null
 	},
 	{
@@ -10688,7 +10654,24 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1419,
+		"rating_standard": 1417,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15015327,
+		"name": "Mitrov, David",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1416,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -10710,8 +10693,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15017451,
-		"name": "Frenkov, Slave",
+		"fideid": 15012441,
+		"name": "Mirkov, Kristijan",
 		"country": "MKD",
 		"sex": "M",
 		"title": "",
@@ -10720,27 +10703,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
-		"flag": "",
+		"birthday": 2008,
+		"flag": "i",
 		"rating_standard": 1415,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15014010,
-		"name": "Despotovski, Viktor",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1414,
-		"rating_rapid": 1410,
+		"rating_rapid": 1516,
 		"rating_blitz": null
 	},
 	{
@@ -10761,6 +10727,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15011682,
+		"name": "Nikolovski, Dario",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": 1413,
+		"rating_rapid": 1412,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15016234,
 		"name": "Jangelovski, Andrej",
 		"country": "MKD",
@@ -10773,7 +10756,7 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1413,
+		"rating_standard": 1412,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -10790,25 +10773,8 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1412,
-		"rating_rapid": 1489,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15016358,
-		"name": "Jovanoski, Mihail",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1412,
-		"rating_rapid": 1610,
+		"rating_standard": 1411,
+		"rating_rapid": 1488,
 		"rating_blitz": null
 	},
 	{
@@ -10846,20 +10812,54 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15016935,
-		"name": "Cvetanovska, Andrea",
+		"fideid": 15016358,
+		"name": "Jovanoski, Mihail",
 		"country": "MKD",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1407,
+		"rating_rapid": 1609,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15012310,
+		"name": "Mirchevski, Darjan",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": 1407,
+		"rating_rapid": 1476,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15014010,
+		"name": "Despotovski, Viktor",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
 		"rating_standard": 1405,
-		"rating_rapid": 1457,
+		"rating_rapid": 1410,
 		"rating_blitz": null
 	},
 	{
@@ -10875,7 +10875,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1403,
+		"rating_standard": 1404,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -10914,40 +10914,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15014665,
-		"name": "Salihi, Erdi",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1402,
-		"rating_rapid": 1445,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 15016374,
-		"name": "Bebekovski, Mario",
-		"country": "MKD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1401,
-		"rating_rapid": 1548,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15019586,
 		"name": "Dimitrovski, Makedon",
 		"country": "MKD",
@@ -10979,6 +10945,23 @@
 		"flag": "i",
 		"rating_standard": 1401,
 		"rating_rapid": 1462,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15014665,
+		"name": "Salihi, Erdi",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1400,
+		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
 	{
@@ -11403,7 +11386,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1623,
+		"rating_rapid": 1622,
 		"rating_blitz": 1541
 	},
 	{
@@ -11692,7 +11675,7 @@
 		"birthday": 1954,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1638,
+		"rating_rapid": 1635,
 		"rating_blitz": null
 	},
 	{
@@ -11778,7 +11761,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1505,
-		"rating_blitz": 1623
+		"rating_blitz": 1622
 	},
 	{
 		"fideid": 15011534,
@@ -11862,7 +11845,7 @@
 		"birthday": 1950,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1767,
+		"rating_rapid": 1769,
 		"rating_blitz": null
 	},
 	{
@@ -12066,7 +12049,7 @@
 		"birthday": 1978,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1523,
+		"rating_rapid": 1521,
 		"rating_blitz": null
 	},
 	{
@@ -12457,7 +12440,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1665,
+		"rating_rapid": 1664,
 		"rating_blitz": null
 	},
 	{
@@ -12525,7 +12508,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1402,
+		"rating_rapid": 1447,
 		"rating_blitz": null
 	},
 	{
@@ -12559,7 +12542,7 @@
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1652,
+		"rating_rapid": 1656,
 		"rating_blitz": null
 	},
 	{
@@ -12627,7 +12610,7 @@
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1631,
+		"rating_rapid": 1630,
 		"rating_blitz": null
 	},
 	{
@@ -12678,7 +12661,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1535,
+		"rating_rapid": 1534,
 		"rating_blitz": null
 	},
 	{
@@ -12695,7 +12678,7 @@
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1833,
+		"rating_rapid": 1832,
 		"rating_blitz": null
 	},
 	{
@@ -12797,7 +12780,7 @@
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1602,
+		"rating_rapid": 1603,
 		"rating_blitz": null
 	},
 	{
@@ -12916,7 +12899,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1443,
+		"rating_rapid": 1442,
 		"rating_blitz": null
 	},
 	{
@@ -12967,7 +12950,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1472,
+		"rating_rapid": 1473,
 		"rating_blitz": null
 	},
 	{
@@ -13069,7 +13052,7 @@
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1766,
+		"rating_rapid": 1764,
 		"rating_blitz": null
 	},
 	{
@@ -13171,7 +13154,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1597,
+		"rating_rapid": 1595,
 		"rating_blitz": null
 	},
 	{
@@ -13188,7 +13171,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1571,
+		"rating_rapid": 1570,
 		"rating_blitz": null
 	},
 	{
@@ -13222,7 +13205,7 @@
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1736,
+		"rating_rapid": 1735,
 		"rating_blitz": null
 	},
 	{
@@ -13239,7 +13222,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1441,
+		"rating_rapid": 1439,
 		"rating_blitz": null
 	},
 	{
@@ -13324,7 +13307,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1509,
+		"rating_rapid": 1505,
 		"rating_blitz": null
 	},
 	{
@@ -13460,7 +13443,7 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1541,
+		"rating_rapid": 1521,
 		"rating_blitz": null
 	},
 	{
@@ -13511,7 +13494,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1466,
+		"rating_rapid": 1465,
 		"rating_blitz": null
 	},
 	{
@@ -13528,7 +13511,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1498,
+		"rating_rapid": 1496,
 		"rating_blitz": null
 	},
 	{
@@ -13766,7 +13749,7 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1770,
+		"rating_rapid": 1771,
 		"rating_blitz": null
 	},
 	{
@@ -13817,7 +13800,7 @@
 		"birthday": 1949,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1488,
+		"rating_rapid": 1487,
 		"rating_blitz": null
 	},
 	{
@@ -13851,7 +13834,7 @@
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1519,
+		"rating_rapid": 1518,
 		"rating_blitz": null
 	},
 	{
@@ -14055,7 +14038,7 @@
 		"birthday": 1952,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1838,
+		"rating_rapid": 1836,
 		"rating_blitz": 1768
 	},
 	{
@@ -14072,7 +14055,7 @@
 		"birthday": 1978,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1834,
+		"rating_rapid": 1833,
 		"rating_blitz": null
 	},
 	{
@@ -14123,7 +14106,7 @@
 		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1496,
+		"rating_rapid": 1495,
 		"rating_blitz": null
 	},
 	{
@@ -14140,7 +14123,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1749,
+		"rating_rapid": 1748,
 		"rating_blitz": null
 	},
 	{
@@ -14157,7 +14140,7 @@
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1622,
+		"rating_rapid": 1620,
 		"rating_blitz": null
 	},
 	{
@@ -14208,7 +14191,7 @@
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1501,
+		"rating_rapid": 1500,
 		"rating_blitz": null
 	},
 	{
@@ -14225,7 +14208,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1633,
+		"rating_rapid": 1634,
 		"rating_blitz": null
 	},
 	{
@@ -14378,7 +14361,7 @@
 		"birthday": 1955,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1724,
+		"rating_rapid": 1726,
 		"rating_blitz": 1894
 	},
 	{
@@ -14446,7 +14429,7 @@
 		"birthday": 1969,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1553,
+		"rating_rapid": 1552,
 		"rating_blitz": null
 	},
 	{
@@ -14463,7 +14446,7 @@
 		"birthday": 2003,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1617,
+		"rating_rapid": 1616,
 		"rating_blitz": null
 	},
 	{
@@ -14531,7 +14514,7 @@
 		"birthday": 1992,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1519,
+		"rating_rapid": 1518,
 		"rating_blitz": null
 	},
 	{
@@ -14582,7 +14565,7 @@
 		"birthday": 1951,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1596,
+		"rating_rapid": 1595,
 		"rating_blitz": null
 	},
 	{
@@ -14684,7 +14667,7 @@
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1650,
+		"rating_rapid": 1633,
 		"rating_blitz": null
 	},
 	{
@@ -14769,7 +14752,7 @@
 		"birthday": 1939,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1514,
+		"rating_rapid": 1513,
 		"rating_blitz": null
 	},
 	{
@@ -14786,7 +14769,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1523,
+		"rating_rapid": 1522,
 		"rating_blitz": null
 	},
 	{
@@ -14905,7 +14888,7 @@
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1560,
+		"rating_rapid": 1559,
 		"rating_blitz": null
 	},
 	{
@@ -14973,7 +14956,7 @@
 		"birthday": 1956,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1534,
+		"rating_rapid": 1533,
 		"rating_blitz": null
 	},
 	{
@@ -15024,7 +15007,7 @@
 		"birthday": 2010,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1513,
+		"rating_rapid": 1511,
 		"rating_blitz": null
 	},
 	{
@@ -15194,7 +15177,7 @@
 		"birthday": 1970,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1718,
+		"rating_rapid": 1717,
 		"rating_blitz": null
 	},
 	{
@@ -15245,7 +15228,7 @@
 		"birthday": 1958,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1855,
+		"rating_rapid": 1854,
 		"rating_blitz": null
 	},
 	{
@@ -15670,7 +15653,7 @@
 		"birthday": 1948,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1799,
+		"rating_rapid": 1800,
 		"rating_blitz": null
 	},
 	{
@@ -15687,7 +15670,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1518,
+		"rating_rapid": 1517,
 		"rating_blitz": null
 	},
 	{
@@ -15840,7 +15823,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1436,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -15875,7 +15858,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1837,
-		"rating_blitz": 1851
+		"rating_blitz": 1850
 	},
 	{
 		"fideid": 15016951,
@@ -16112,7 +16095,7 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1680,
+		"rating_rapid": 1655,
 		"rating_blitz": null
 	},
 	{
@@ -16163,7 +16146,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1401,
+		"rating_rapid": 1430,
 		"rating_blitz": null
 	},
 	{
@@ -16231,7 +16214,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1500,
+		"rating_rapid": 1499,
 		"rating_blitz": null
 	},
 	{
@@ -16265,7 +16248,7 @@
 		"birthday": 1943,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1689,
+		"rating_rapid": 1688,
 		"rating_blitz": null
 	},
 	{
@@ -16469,7 +16452,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1665,
+		"rating_rapid": 1664,
 		"rating_blitz": null
 	},
 	{
@@ -16537,7 +16520,7 @@
 		"birthday": 1961,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1816,
+		"rating_rapid": 1815,
 		"rating_blitz": 1959
 	},
 	{
@@ -16692,6 +16675,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1793,
 		"rating_blitz": 1879
+	},
+	{
+		"fideid": 15008207,
+		"name": "Sallmani, Olti",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1621,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 15008754,
@@ -16894,7 +16894,7 @@
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1608,
+		"rating_rapid": 1604,
 		"rating_blitz": null
 	},
 	{
@@ -16911,7 +16911,7 @@
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1849,
+		"rating_rapid": 1850,
 		"rating_blitz": 1877
 	},
 	{
@@ -16928,7 +16928,7 @@
 		"birthday": 1965,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1887,
+		"rating_rapid": 1886,
 		"rating_blitz": 1900
 	},
 	{
@@ -17081,7 +17081,7 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1663,
+		"rating_rapid": 1662,
 		"rating_blitz": null
 	},
 	{
@@ -17098,7 +17098,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1452,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -17183,7 +17183,7 @@
 		"birthday": 2012,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1498,
+		"rating_rapid": 1497,
 		"rating_blitz": null
 	},
 	{
@@ -17235,6 +17235,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1570,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15018091,
+		"name": "Stamenkovski, Vlado",
+		"country": "MKD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1956,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1451,
 		"rating_blitz": null
 	},
 	{
@@ -17319,7 +17336,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1421,
+		"rating_rapid": 1464,
 		"rating_blitz": null
 	},
 	{
@@ -17336,7 +17353,7 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1448,
+		"rating_rapid": 1447,
 		"rating_blitz": null
 	},
 	{
@@ -17353,7 +17370,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1412,
+		"rating_rapid": 1410,
 		"rating_blitz": null
 	},
 	{
@@ -17557,7 +17574,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1548,
+		"rating_rapid": 1549,
 		"rating_blitz": null
 	},
 	{
@@ -17744,7 +17761,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1513,
+		"rating_rapid": 1506,
 		"rating_blitz": null
 	},
 	{
@@ -17778,7 +17795,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1456,
+		"rating_rapid": 1455,
 		"rating_blitz": null
 	},
 	{
@@ -17812,7 +17829,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1578,
+		"rating_rapid": 1579,
 		"rating_blitz": null
 	},
 	{
@@ -17863,7 +17880,7 @@
 		"birthday": 1985,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1715,
+		"rating_rapid": 1714,
 		"rating_blitz": null
 	},
 	{
@@ -17880,7 +17897,7 @@
 		"birthday": 1960,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1555,
+		"rating_rapid": 1554,
 		"rating_blitz": null
 	},
 	{
@@ -17914,7 +17931,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1537,
+		"rating_rapid": 1536,
 		"rating_blitz": null
 	},
 	{
@@ -17948,7 +17965,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1582,
+		"rating_rapid": 1581,
 		"rating_blitz": null
 	},
 	{
@@ -17982,7 +17999,7 @@
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1636,
+		"rating_rapid": 1633,
 		"rating_blitz": null
 	},
 	{
@@ -18118,7 +18135,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1442,
+		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
@@ -18135,7 +18152,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1436,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -18152,7 +18169,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1506,
+		"rating_rapid": 1505,
 		"rating_blitz": null
 	},
 	{
@@ -18220,7 +18237,7 @@
 		"birthday": 1961,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1660,
+		"rating_rapid": 1659,
 		"rating_blitz": null
 	},
 	{
@@ -18237,7 +18254,7 @@
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1576,
+		"rating_rapid": 1575,
 		"rating_blitz": null
 	},
 	{
@@ -18305,7 +18322,7 @@
 		"birthday": 1992,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1949,
+		"rating_rapid": 1948,
 		"rating_blitz": null
 	},
 	{
@@ -18509,7 +18526,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1654,
+		"rating_rapid": 1652,
 		"rating_blitz": null
 	},
 	{
@@ -18628,7 +18645,7 @@
 		"birthday": 1955,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1851,
+		"rating_rapid": 1850,
 		"rating_blitz": 1991
 	},
 	{
@@ -18730,7 +18747,7 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1677,
+		"rating_rapid": 1678,
 		"rating_blitz": null
 	},
 	{
@@ -18849,7 +18866,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1476,
+		"rating_rapid": 1473,
 		"rating_blitz": null
 	},
 	{
@@ -18883,7 +18900,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1456,
+		"rating_rapid": 1455,
 		"rating_blitz": null
 	},
 	{

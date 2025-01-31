@@ -98,7 +98,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 2213,
-		"rating_rapid": 2042,
+		"rating_rapid": 2041,
 		"rating_blitz": 2101
 	},
 	{
@@ -120,7 +120,7 @@
 	},
 	{
 		"fideid": 4901320,
-		"name": "Erdenetulga, Rentsen",
+		"name": "Rentsen, Erdenetulga",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
@@ -132,7 +132,7 @@
 		"birthday": 1992,
 		"flag": "",
 		"rating_standard": 2116,
-		"rating_rapid": 2147,
+		"rating_rapid": 2144,
 		"rating_blitz": null
 	},
 	{
@@ -182,7 +182,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 2076,
+		"rating_standard": 2075,
 		"rating_rapid": 1908,
 		"rating_blitz": 1971
 	},
@@ -252,7 +252,7 @@
 		"flag": "",
 		"rating_standard": 2010,
 		"rating_rapid": 1931,
-		"rating_blitz": 1919
+		"rating_blitz": 1920
 	},
 	{
 		"fideid": 13202820,
@@ -319,7 +319,7 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1987,
-		"rating_rapid": 1872,
+		"rating_rapid": 1871,
 		"rating_blitz": 1874
 	},
 	{
@@ -369,7 +369,7 @@
 		"k": 40,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 1970,
+		"rating_standard": 1971,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -626,7 +626,7 @@
 		"flag": "",
 		"rating_standard": 1932,
 		"rating_rapid": 1922,
-		"rating_blitz": 1993
+		"rating_blitz": 1992
 	},
 	{
 		"fideid": 13201050,
@@ -828,7 +828,7 @@
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
-		"rating_standard": 1908,
+		"rating_standard": 1907,
 		"rating_rapid": 1827,
 		"rating_blitz": 1812
 	},
@@ -850,6 +850,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13212877,
+		"name": "Lee, Jiwoo A",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1906,
+		"rating_rapid": 1819,
+		"rating_blitz": 1723
+	},
+	{
 		"fideid": 13204548,
 		"name": "Aseev, Alexei",
 		"country": "KOR",
@@ -867,40 +884,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13215175,
-		"name": "Feigin, Daniel",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 17,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1905,
-		"rating_rapid": 1702,
-		"rating_blitz": 1776
-	},
-	{
-		"fideid": 13212877,
-		"name": "Lee, Jiwoo A",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1904,
-		"rating_rapid": 1818,
-		"rating_blitz": 1723
-	},
-	{
 		"fideid": 13200038,
 		"name": "Kim, Hyunwoo",
 		"country": "KOR",
@@ -916,6 +899,23 @@
 		"rating_standard": 1903,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13215175,
+		"name": "Feigin, Daniel",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1902,
+		"rating_rapid": 1702,
+		"rating_blitz": 1776
 	},
 	{
 		"fideid": 13206524,
@@ -1100,7 +1100,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1875,
+		"rating_standard": 1876,
 		"rating_rapid": 1708,
 		"rating_blitz": 1701
 	},
@@ -1118,7 +1118,7 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 1873,
-		"rating_rapid": 1804,
+		"rating_rapid": 1802,
 		"rating_blitz": 1843
 	},
 	{
@@ -1305,8 +1305,25 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1866,
-		"rating_rapid": 1729,
+		"rating_rapid": 1728,
 		"rating_blitz": 1725
+	},
+	{
+		"fideid": 13211307,
+		"name": "Noh, Jinwoo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 9,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1866,
+		"rating_rapid": 1720,
+		"rating_blitz": 1843
 	},
 	{
 		"fideid": 13207458,
@@ -1324,23 +1341,6 @@
 		"rating_standard": 1866,
 		"rating_rapid": 1836,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13211307,
-		"name": "Noh, Jinwoo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 9,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1865,
-		"rating_rapid": 1720,
-		"rating_blitz": 1843
 	},
 	{
 		"fideid": 34117234,
@@ -1462,6 +1462,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13204386,
+		"name": "Kim, Taewoo A",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1853,
+		"rating_rapid": 1718,
+		"rating_blitz": 1739
+	},
+	{
 		"fideid": 13206540,
 		"name": "Jang, Wonkeyom",
 		"country": "KOR",
@@ -1511,23 +1528,6 @@
 		"rating_standard": 1852,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13204386,
-		"name": "Kim, Taewoo A",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1852,
-		"rating_rapid": 1718,
-		"rating_blitz": 1738
 	},
 	{
 		"fideid": 13200330,
@@ -1734,23 +1734,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13214535,
-		"name": "Lee, Eoram",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1841,
-		"rating_rapid": 1789,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13206222,
 		"name": "Jung, Jinwoo",
 		"country": "KOR",
@@ -1765,6 +1748,23 @@
 		"flag": "i",
 		"rating_standard": 1840,
 		"rating_rapid": 1780,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13214535,
+		"name": "Lee, Eoram",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1840,
+		"rating_rapid": 1789,
 		"rating_blitz": null
 	},
 	{
@@ -1815,7 +1815,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1835,
-		"rating_rapid": 1756,
+		"rating_rapid": 1761,
 		"rating_blitz": 1630
 	},
 	{
@@ -1883,7 +1883,7 @@
 		"birthday": 2007,
 		"flag": "w",
 		"rating_standard": 1830,
-		"rating_rapid": 1749,
+		"rating_rapid": 1748,
 		"rating_blitz": null
 	},
 	{
@@ -1918,7 +1918,7 @@
 		"flag": "",
 		"rating_standard": 1827,
 		"rating_rapid": 1621,
-		"rating_blitz": 1657
+		"rating_blitz": 1656
 	},
 	{
 		"fideid": 13216058,
@@ -2006,6 +2006,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13229052,
+		"name": "Lee, Dummim",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1821,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13222686,
 		"name": "Jeong, Sangwon",
 		"country": "KOR",
@@ -2040,23 +2057,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13229052,
-		"name": "Lee, Dummim",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1820,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13204149,
 		"name": "Lee, Seyeon",
 		"country": "KOR",
@@ -2070,7 +2070,7 @@
 		"birthday": 2004,
 		"flag": "w",
 		"rating_standard": 1817,
-		"rating_rapid": 1789,
+		"rating_rapid": 1788,
 		"rating_blitz": null
 	},
 	{
@@ -2189,7 +2189,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1814,
-		"rating_rapid": 1795,
+		"rating_rapid": 1797,
 		"rating_blitz": 1881
 	},
 	{
@@ -2358,7 +2358,7 @@
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
-		"rating_standard": 1804,
+		"rating_standard": 1805,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -2431,23 +2431,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13215388,
-		"name": "Lee, Kiju",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1802,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13207946,
 		"name": "Lee, Woosung",
 		"country": "KOR",
@@ -2477,6 +2460,23 @@
 		"k": 20,
 		"birthday": 1996,
 		"flag": "i",
+		"rating_standard": 1801,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13215388,
+		"name": "Lee, Kiju",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
 		"rating_standard": 1801,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2551,7 +2551,7 @@
 	},
 	{
 		"fideid": 13227564,
-		"name": "Kha Unkho",
+		"name": "Kha, Unkho",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
@@ -2716,7 +2716,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": 1785,
-		"rating_rapid": 1766,
+		"rating_rapid": 1765,
 		"rating_blitz": 1665
 	},
 	{
@@ -2733,7 +2733,7 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1784,
-		"rating_rapid": 1693,
+		"rating_rapid": 1691,
 		"rating_blitz": null
 	},
 	{
@@ -2783,8 +2783,8 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1780,
-		"rating_rapid": 1587,
+		"rating_standard": 1781,
+		"rating_rapid": 1588,
 		"rating_blitz": 1734
 	},
 	{
@@ -2839,6 +2839,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13205706,
+		"name": "Kang, Sohyun",
+		"country": "KOR",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1779,
+		"rating_rapid": 1681,
+		"rating_blitz": 1681
+	},
+	{
 		"fideid": 55686737,
 		"name": "Gon, Andrei",
 		"country": "KOR",
@@ -2853,24 +2870,7 @@
 		"flag": "",
 		"rating_standard": 1778,
 		"rating_rapid": 1929,
-		"rating_blitz": 1835
-	},
-	{
-		"fideid": 13205706,
-		"name": "Kang, Sohyun",
-		"country": "KOR",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1778,
-		"rating_rapid": 1681,
-		"rating_blitz": 1681
+		"rating_blitz": 1836
 	},
 	{
 		"fideid": 13202502,
@@ -3179,6 +3179,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13215760,
+		"name": "Kim, Yejun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1766,
+		"rating_rapid": 1571,
+		"rating_blitz": 1730
+	},
+	{
 		"fideid": 13205102,
 		"name": "Cho, Sungyun",
 		"country": "KOR",
@@ -3194,23 +3211,6 @@
 		"rating_standard": 1765,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13215760,
-		"name": "Kim, Yejun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1765,
-		"rating_rapid": 1570,
-		"rating_blitz": 1730
 	},
 	{
 		"fideid": 13201298,
@@ -3570,23 +3570,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13216139,
-		"name": "Park, Onyoo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1754,
-		"rating_rapid": 1635,
-		"rating_blitz": 1820
-	},
-	{
 		"fideid": 13221469,
 		"name": "Yim, Jemin",
 		"country": "KOR",
@@ -3633,9 +3616,26 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1752,
-		"rating_rapid": 1525,
+		"rating_standard": 1753,
+		"rating_rapid": 1526,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13216139,
+		"name": "Park, Onyoo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1752,
+		"rating_rapid": 1635,
+		"rating_blitz": 1819
 	},
 	{
 		"fideid": 13205048,
@@ -3770,7 +3770,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1745,
-		"rating_rapid": 1714,
+		"rating_rapid": 1716,
 		"rating_blitz": 1840
 	},
 	{
@@ -3995,23 +3995,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13222791,
-		"name": "Lim, Hayul",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1741,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13202774,
 		"name": "Kim, Eun Hui",
 		"country": "KOR",
@@ -4024,6 +4007,23 @@
 		"k": 40,
 		"birthday": "",
 		"flag": "wi",
+		"rating_standard": 1740,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13222791,
+		"name": "Lim, Hayul",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
 		"rating_standard": 1740,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -4094,7 +4094,7 @@
 		"flag": "",
 		"rating_standard": 1738,
 		"rating_rapid": 1648,
-		"rating_blitz": 1724
+		"rating_blitz": 1725
 	},
 	{
 		"fideid": 13211382,
@@ -4348,7 +4348,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": 1731,
-		"rating_rapid": 1680,
+		"rating_rapid": 1681,
 		"rating_blitz": null
 	},
 	{
@@ -4484,7 +4484,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1725,
-		"rating_rapid": 1434,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -4556,6 +4556,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13224271,
+		"name": "Kim, Jimin",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1721,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13227378,
 		"name": "Lee, Younggyu",
 		"country": "KOR",
@@ -4586,24 +4603,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1721,
-		"rating_rapid": 1804,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13224271,
-		"name": "Kim, Jimin",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1720,
-		"rating_rapid": null,
+		"rating_rapid": 1805,
 		"rating_blitz": null
 	},
 	{
@@ -4692,6 +4692,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13219790,
+		"name": "Kim, Jaeha",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1719,
+		"rating_rapid": 1465,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13205552,
 		"name": "Kim, Youngsoon",
 		"country": "KOR",
@@ -4740,23 +4757,6 @@
 		"flag": "i",
 		"rating_standard": 1719,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13219790,
-		"name": "Kim, Jaeha",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1718,
-		"rating_rapid": 1464,
 		"rating_blitz": null
 	},
 	{
@@ -4925,7 +4925,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "i",
-		"rating_standard": 1712,
+		"rating_standard": 1713,
 		"rating_rapid": 1539,
 		"rating_blitz": null
 	},
@@ -5270,6 +5270,23 @@
 		"rating_blitz": 1715
 	},
 	{
+		"fideid": 13213687,
+		"name": "Hong, Joohyuk",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1703,
+		"rating_rapid": 1607,
+		"rating_blitz": 1647
+	},
+	{
 		"fideid": 13200267,
 		"name": "Baik, Joung Ann",
 		"country": "KOR",
@@ -5304,23 +5321,6 @@
 		"rating_blitz": 1650
 	},
 	{
-		"fideid": 13213687,
-		"name": "Hong, Joohyuk",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 9,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1701,
-		"rating_rapid": 1604,
-		"rating_blitz": 1647
-	},
-	{
 		"fideid": 13202910,
 		"name": "Kim, Taehyung",
 		"country": "KOR",
@@ -5352,7 +5352,7 @@
 		"flag": "",
 		"rating_standard": 1701,
 		"rating_rapid": 1781,
-		"rating_blitz": 1622
+		"rating_blitz": 1621
 	},
 	{
 		"fideid": 13202898,
@@ -5521,7 +5521,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1697,
-		"rating_rapid": 1682,
+		"rating_rapid": 1683,
 		"rating_blitz": 1870
 	},
 	{
@@ -5674,8 +5674,8 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1692,
-		"rating_rapid": 1713,
-		"rating_blitz": 1546
+		"rating_rapid": 1717,
+		"rating_blitz": 1548
 	},
 	{
 		"fideid": 13211617,
@@ -5950,23 +5950,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13204513,
-		"name": "Yim, Jay",
-		"country": "KOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1685,
-		"rating_rapid": 1458,
-		"rating_blitz": 1463
-	},
-	{
 		"fideid": 13205226,
 		"name": "Yoo, Sumin",
 		"country": "KOR",
@@ -5997,6 +5980,23 @@
 		"birthday": 1992,
 		"flag": "i",
 		"rating_standard": 1684,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13230042,
+		"name": "Park, Sihun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1683,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -6035,23 +6035,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13230042,
-		"name": "Park, Sihun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1682,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13204831,
 		"name": "Kim, Sangyun",
 		"country": "KOR",
@@ -6069,21 +6052,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13201190,
-		"name": "Cho, Yeonhee",
+		"fideid": 13216112,
+		"name": "Oh, Sejun",
 		"country": "KOR",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "NI,NI,NA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "w",
-		"rating_standard": 1680,
-		"rating_rapid": 1759,
-		"rating_blitz": 1743
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1681,
+		"rating_rapid": 1690,
+		"rating_blitz": 1692
 	},
 	{
 		"fideid": 13201557,
@@ -6103,23 +6086,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13216112,
-		"name": "Oh, Sejun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1680,
-		"rating_rapid": 1697,
-		"rating_blitz": 1692
-	},
-	{
 		"fideid": 13221884,
 		"name": "Cho, Minjae",
 		"country": "KOR",
@@ -6133,8 +6099,25 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1679,
-		"rating_rapid": 1527,
+		"rating_rapid": 1526,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13201190,
+		"name": "Cho, Yeonhee",
+		"country": "KOR",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "NI,NI,NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "w",
+		"rating_standard": 1679,
+		"rating_rapid": 1759,
+		"rating_blitz": 1743
 	},
 	{
 		"fideid": 13208365,
@@ -6404,9 +6387,26 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
-		"rating_standard": 1672,
-		"rating_rapid": 1493,
-		"rating_blitz": 1478
+		"rating_standard": 1673,
+		"rating_rapid": 1492,
+		"rating_blitz": 1476
+	},
+	{
+		"fideid": 34117277,
+		"name": "Lee, Chulwoo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "FI",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "",
+		"rating_standard": 1673,
+		"rating_rapid": 1681,
+		"rating_blitz": 1745
 	},
 	{
 		"fideid": 13224603,
@@ -6424,23 +6424,6 @@
 		"rating_standard": 1672,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 34117277,
-		"name": "Lee, Chulwoo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "FI",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "",
-		"rating_standard": 1672,
-		"rating_rapid": 1681,
-		"rating_blitz": 1745
 	},
 	{
 		"fideid": 13201867,
@@ -6545,6 +6528,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13222783,
+		"name": "Hwang, Yunseo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1669,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13207865,
 		"name": "Lee, Hosan",
 		"country": "KOR",
@@ -6591,23 +6591,6 @@
 		"k": 20,
 		"birthday": 2004,
 		"flag": "i",
-		"rating_standard": 1668,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13222783,
-		"name": "Hwang, Yunseo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
 		"rating_standard": 1668,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -6762,7 +6745,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1664,
-		"rating_rapid": 1560,
+		"rating_rapid": 1561,
 		"rating_blitz": 1677
 	},
 	{
@@ -6813,7 +6796,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1661,
-		"rating_rapid": 1605,
+		"rating_rapid": 1606,
 		"rating_blitz": 1516
 	},
 	{
@@ -6882,7 +6865,7 @@
 		"flag": "",
 		"rating_standard": 1660,
 		"rating_rapid": null,
-		"rating_blitz": 1611
+		"rating_blitz": 1612
 	},
 	{
 		"fideid": 13201018,
@@ -7004,6 +6987,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13220870,
+		"name": "Shin, Hyeonseo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1657,
+		"rating_rapid": 1465,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13205471,
 		"name": "Shin, Minseo",
 		"country": "KOR",
@@ -7018,23 +7018,6 @@
 		"flag": "i",
 		"rating_standard": 1657,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13220870,
-		"name": "Shin, Hyeonseo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1656,
-		"rating_rapid": 1465,
 		"rating_blitz": null
 	},
 	{
@@ -7140,6 +7123,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13204513,
+		"name": "Yim, Jay",
+		"country": "KOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1654,
+		"rating_rapid": 1458,
+		"rating_blitz": 1464
+	},
+	{
 		"fideid": 13224220,
 		"name": "I, Mark",
 		"country": "KOR",
@@ -7154,6 +7154,23 @@
 		"flag": "",
 		"rating_standard": 1653,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13219529,
+		"name": "Kim, Kwansoo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1653,
+		"rating_rapid": 1649,
 		"rating_blitz": null
 	},
 	{
@@ -7188,23 +7205,6 @@
 		"flag": "i",
 		"rating_standard": 1652,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13215930,
-		"name": "Jang, Junyoung",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1651,
-		"rating_rapid": 1599,
 		"rating_blitz": null
 	},
 	{
@@ -7272,7 +7272,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1650,
-		"rating_rapid": 1642,
+		"rating_rapid": 1641,
 		"rating_blitz": null
 	},
 	{
@@ -7310,6 +7310,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13215930,
+		"name": "Jang, Junyoung",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1650,
+		"rating_rapid": 1599,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13200798,
 		"name": "Kim, Doyun",
 		"country": "KOR",
@@ -7341,23 +7358,6 @@
 		"flag": "",
 		"rating_standard": 1649,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13219529,
-		"name": "Kim, Kwansoo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1649,
-		"rating_rapid": 1650,
 		"rating_blitz": null
 	},
 	{
@@ -7461,23 +7461,6 @@
 		"rating_standard": 1647,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13219014,
-		"name": "Yang, Joowon",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1647,
-		"rating_rapid": 1455,
-		"rating_blitz": 1631
 	},
 	{
 		"fideid": 13200143,
@@ -7599,21 +7582,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13201565,
-		"name": "Lee, Jaeyun",
+		"fideid": 13219014,
+		"name": "Yang, Joowon",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
-		"birthday": "",
-		"flag": "i",
-		"rating_standard": 1643,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1644,
+		"rating_rapid": 1454,
+		"rating_blitz": 1631
 	},
 	{
 		"fideid": 13223100,
@@ -7628,8 +7611,25 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1642,
-		"rating_rapid": 1591,
+		"rating_standard": 1643,
+		"rating_rapid": 1593,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13201565,
+		"name": "Lee, Jaeyun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": "",
+		"flag": "i",
+		"rating_standard": 1643,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -7837,6 +7837,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13221841,
+		"name": "Yang, Dongwoo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1636,
+		"rating_rapid": 1647,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13201140,
 		"name": "Yoo, Youngjun",
 		"country": "KOR",
@@ -7902,23 +7919,6 @@
 		"flag": "wi",
 		"rating_standard": 1635,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13221841,
-		"name": "Yang, Dongwoo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1635,
-		"rating_rapid": 1648,
 		"rating_blitz": null
 	},
 	{
@@ -8109,6 +8109,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13217267,
+		"name": "Gim, Hajin",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 4,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1626,
+		"rating_rapid": 1512,
+		"rating_blitz": 1594
+	},
+	{
 		"fideid": 13230085,
 		"name": "Han, Dohoon",
 		"country": "KOR",
@@ -8140,24 +8157,7 @@
 		"flag": "",
 		"rating_standard": 1626,
 		"rating_rapid": 1653,
-		"rating_blitz": 1608
-	},
-	{
-		"fideid": 13217267,
-		"name": "Gim, Hajin",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 4,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1625,
-		"rating_rapid": 1512,
-		"rating_blitz": 1595
+		"rating_blitz": 1609
 	},
 	{
 		"fideid": 13205897,
@@ -8275,8 +8275,8 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1622,
-		"rating_rapid": 1597,
-		"rating_blitz": 1553
+		"rating_rapid": 1598,
+		"rating_blitz": 1554
 	},
 	{
 		"fideid": 13222368,
@@ -8326,7 +8326,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1620,
-		"rating_rapid": 1580,
+		"rating_rapid": 1582,
 		"rating_blitz": null
 	},
 	{
@@ -8344,6 +8344,23 @@
 		"flag": "",
 		"rating_standard": 1620,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13219820,
+		"name": "Park, Jihoon B",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1619,
+		"rating_rapid": 1607,
 		"rating_blitz": null
 	},
 	{
@@ -8449,6 +8466,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13217038,
+		"name": "Lee, Yugeon",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1617,
+		"rating_rapid": 1578,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13210947,
 		"name": "Park, Hyeran",
 		"country": "KOR",
@@ -8463,23 +8497,6 @@
 		"flag": "wi",
 		"rating_standard": 1617,
 		"rating_rapid": 1579,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13219820,
-		"name": "Park, Jihoon B",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1617,
-		"rating_rapid": 1607,
 		"rating_blitz": null
 	},
 	{
@@ -8500,23 +8517,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13225502,
-		"name": "Park, Chaejoon",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1616,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13216864,
 		"name": "Jeon, Hwiseong",
 		"country": "KOR",
@@ -8529,7 +8529,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "i",
-		"rating_standard": 1615,
+		"rating_standard": 1616,
 		"rating_rapid": 1617,
 		"rating_blitz": null
 	},
@@ -8546,9 +8546,26 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1615,
-		"rating_rapid": 1614,
+		"rating_standard": 1616,
+		"rating_rapid": 1632,
 		"rating_blitz": 1623
+	},
+	{
+		"fideid": 13225502,
+		"name": "Park, Chaejoon",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1616,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13206052,
@@ -8582,6 +8599,23 @@
 		"flag": "",
 		"rating_standard": 1615,
 		"rating_rapid": 1489,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13225219,
+		"name": "Mirzaiev, Tymur",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1614,
+		"rating_rapid": 1654,
 		"rating_blitz": null
 	},
 	{
@@ -8636,23 +8670,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13225219,
-		"name": "Mirzaiev, Tymur",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1613,
-		"rating_rapid": 1653,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13204904,
 		"name": "Park, Seyoung",
 		"country": "KOR",
@@ -8704,20 +8721,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13217038,
-		"name": "Lee, Yugeon",
+		"fideid": 13230069,
+		"name": "Sung, Jiyul",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1611,
-		"rating_rapid": 1570,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -8735,40 +8752,6 @@
 		"flag": "i",
 		"rating_standard": 1610,
 		"rating_rapid": 1683,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13230069,
-		"name": "Sung, Jiyul",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1610,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13219030,
-		"name": "An, Junghun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 1609,
-		"rating_rapid": 1615,
 		"rating_blitz": null
 	},
 	{
@@ -8803,6 +8786,23 @@
 		"flag": "i",
 		"rating_standard": 1609,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13219030,
+		"name": "An, Junghun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1608,
+		"rating_rapid": 1614,
 		"rating_blitz": null
 	},
 	{
@@ -8891,6 +8891,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13208918,
+		"name": "Youn, Hyeongjun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1607,
+		"rating_rapid": 1579,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13220110,
+		"name": "Lee, Ain",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1606,
+		"rating_rapid": 1548,
+		"rating_blitz": 1552
+	},
+	{
 		"fideid": 13209060,
 		"name": "Park, Hyunsung",
 		"country": "KOR",
@@ -8905,23 +8939,6 @@
 		"flag": "i",
 		"rating_standard": 1606,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13208918,
-		"name": "Youn, Hyeongjun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1606,
-		"rating_rapid": 1579,
 		"rating_blitz": null
 	},
 	{
@@ -8993,21 +9010,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13220110,
-		"name": "Lee, Ain",
+		"fideid": 13227068,
+		"name": "Park, Joonyoung",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 7,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1605,
-		"rating_rapid": 1545,
-		"rating_blitz": 1550
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13209230,
@@ -9090,23 +9107,6 @@
 		"k": 40,
 		"birthday": 2002,
 		"flag": "i",
-		"rating_standard": 1604,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13227068,
-		"name": "Park, Joonyoung",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
 		"rating_standard": 1604,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -9210,7 +9210,7 @@
 		"birthday": 1979,
 		"flag": "",
 		"rating_standard": 1602,
-		"rating_rapid": 1471,
+		"rating_rapid": 1470,
 		"rating_blitz": null
 	},
 	{
@@ -9261,7 +9261,7 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1601,
-		"rating_rapid": 1491,
+		"rating_rapid": 1507,
 		"rating_blitz": 1441
 	},
 	{
@@ -9554,6 +9554,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13227033,
+		"name": "Jang, Minki",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1595,
+		"rating_rapid": 1528,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13216082,
 		"name": "Jeong, Donghyeok",
 		"country": "KOR",
@@ -9618,8 +9635,8 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1595,
-		"rating_rapid": 1627,
-		"rating_blitz": 1595
+		"rating_rapid": 1620,
+		"rating_blitz": 1596
 	},
 	{
 		"fideid": 13203312,
@@ -9707,23 +9724,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13215132,
-		"name": "Kim, Taewoo C",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1593,
-		"rating_rapid": 1557,
-		"rating_blitz": 1507
-	},
-	{
 		"fideid": 13213326,
 		"name": "Mun, Vladimir",
 		"country": "KOR",
@@ -9773,6 +9773,23 @@
 		"rating_standard": 1591,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13215132,
+		"name": "Kim, Taewoo C",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1591,
+		"rating_rapid": 1557,
+		"rating_blitz": 1491
 	},
 	{
 		"fideid": 13203959,
@@ -9873,7 +9890,24 @@
 		"birthday": 2013,
 		"flag": "i",
 		"rating_standard": 1590,
-		"rating_rapid": 1439,
+		"rating_rapid": 1440,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13224344,
+		"name": "Lee, Chanyul",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1590,
+		"rating_rapid": 1527,
 		"rating_blitz": null
 	},
 	{
@@ -9891,23 +9925,6 @@
 		"flag": "",
 		"rating_standard": 1590,
 		"rating_rapid": 1478,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13224344,
-		"name": "Lee, Chanyul",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1589,
-		"rating_rapid": 1527,
 		"rating_blitz": null
 	},
 	{
@@ -10060,7 +10077,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1587,
-		"rating_rapid": 1441,
+		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
@@ -10268,23 +10285,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13227033,
-		"name": "Jang, Minki",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1582,
-		"rating_rapid": 1528,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13228382,
 		"name": "Lee, Chamin",
 		"country": "KOR",
@@ -10315,7 +10315,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1581,
-		"rating_rapid": 1518,
+		"rating_rapid": 1519,
 		"rating_blitz": null
 	},
 	{
@@ -10404,23 +10404,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13212443,
-		"name": "Kim, Minseo C",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "DI",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1577,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13211463,
 		"name": "Lee, Jaeun",
 		"country": "KOR",
@@ -10432,6 +10415,23 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1578,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13212443,
+		"name": "Kim, Minseo C",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "DI",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1577,
 		"rating_rapid": null,
@@ -10485,7 +10485,24 @@
 		"birthday": 2009,
 		"flag": "w",
 		"rating_standard": 1576,
-		"rating_rapid": 1624,
+		"rating_rapid": 1623,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13228013,
+		"name": "Lee, Donghwa",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1576,
+		"rating_rapid": 1450,
 		"rating_blitz": null
 	},
 	{
@@ -10520,23 +10537,6 @@
 		"flag": "",
 		"rating_standard": 1576,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13228013,
-		"name": "Lee, Donghwa",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1575,
-		"rating_rapid": 1448,
 		"rating_blitz": null
 	},
 	{
@@ -10625,23 +10625,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13209736,
-		"name": "Kim, Heeyou",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": 1572,
-		"rating_rapid": 1512,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13208977,
 		"name": "Song, Chaeyoung",
 		"country": "KOR",
@@ -10710,6 +10693,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13209736,
+		"name": "Kim, Heeyou",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": 1571,
+		"rating_rapid": 1511,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13206141,
 		"name": "Back, Taein",
 		"country": "KOR",
@@ -10722,6 +10722,23 @@
 		"k": 40,
 		"birthday": 2002,
 		"flag": "i",
+		"rating_standard": 1570,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13228080,
+		"name": "Bang, Jaeyun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
 		"rating_standard": 1570,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10829,23 +10846,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13228080,
-		"name": "Bang, Jaeyun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1569,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13209760,
 		"name": "Lee, Junho",
 		"country": "KOR",
@@ -10948,6 +10948,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13222066,
+		"name": "Kim, Jaehyeon",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "DI",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1567,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13220918,
 		"name": "Sim, Yunwoo",
 		"country": "KOR",
@@ -10961,7 +10978,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1567,
-		"rating_rapid": 1618,
+		"rating_rapid": 1619,
 		"rating_blitz": null
 	},
 	{
@@ -10994,23 +11011,6 @@
 		"k": 40,
 		"birthday": 2003,
 		"flag": "wi",
-		"rating_standard": 1566,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13222066,
-		"name": "Kim, Jaehyeon",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "DI",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 1993,
-		"flag": "",
 		"rating_standard": 1566,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11065,6 +11065,23 @@
 		"rating_standard": 1565,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13213741,
+		"name": "Han, Eunkyeol",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1564,
+		"rating_rapid": 1410,
+		"rating_blitz": 1435
 	},
 	{
 		"fideid": 13217437,
@@ -11130,8 +11147,25 @@
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
-		"rating_standard": 1561,
+		"rating_standard": 1562,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13220373,
+		"name": "Lee, Ruk",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1562,
+		"rating_rapid": 1572,
 		"rating_blitz": null
 	},
 	{
@@ -11147,7 +11181,7 @@
 		"k": 40,
 		"birthday": 1989,
 		"flag": "",
-		"rating_standard": 1561,
+		"rating_standard": 1562,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11186,6 +11220,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13226070,
+		"name": "Kim, Doun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1560,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13206362,
 		"name": "Yu, Jinhui",
 		"country": "KOR",
@@ -11199,23 +11250,6 @@
 		"birthday": 1996,
 		"flag": "wi",
 		"rating_standard": 1560,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13226070,
-		"name": "Kim, Doun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1559,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11424,23 +11458,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13213741,
-		"name": "Han, Eunkyeol",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1556,
-		"rating_rapid": 1413,
-		"rating_blitz": 1435
-	},
-	{
 		"fideid": 13228862,
 		"name": "Shin, Hyunwoo",
 		"country": "KOR",
@@ -11454,7 +11471,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1556,
-		"rating_rapid": 1753,
+		"rating_rapid": 1752,
 		"rating_blitz": null
 	},
 	{
@@ -11490,6 +11507,23 @@
 		"rating_standard": 1555,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13220977,
+		"name": "Kwak, Joohwan",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1555,
+		"rating_rapid": 1539,
+		"rating_blitz": 1494
 	},
 	{
 		"fideid": 13220390,
@@ -11560,38 +11594,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13220977,
-		"name": "Kwak, Joohwan",
+		"fideid": 13216457,
+		"name": "Youn, Laeho",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1554,
-		"rating_rapid": 1542,
-		"rating_blitz": 1494
-	},
-	{
-		"fideid": 13220373,
-		"name": "Lee, Ruk",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
+		"foa_title": "AFM",
+		"games": 1,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1553,
-		"rating_rapid": 1573,
-		"rating_blitz": null
+		"rating_standard": 1554,
+		"rating_rapid": 1691,
+		"rating_blitz": 1700
 	},
 	{
 		"fideid": 13219111,
@@ -11624,7 +11641,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1553,
-		"rating_rapid": 1420,
+		"rating_rapid": 1413,
 		"rating_blitz": null
 	},
 	{
@@ -11679,23 +11696,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13216457,
-		"name": "Youn, Laeho",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 1,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1552,
-		"rating_rapid": 1691,
-		"rating_blitz": 1697
-	},
-	{
 		"fideid": 13222023,
 		"name": "Hong, Seungpyo",
 		"country": "KOR",
@@ -11709,6 +11709,23 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1551,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13221914,
+		"name": "Jeon, Jongin",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1550,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11747,20 +11764,20 @@
 		"rating_blitz": 1512
 	},
 	{
-		"fideid": 13221914,
-		"name": "Jeon, Jongin",
+		"fideid": 13211390,
+		"name": "Hwang, Yerin",
 		"country": "KOR",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2002,
-		"flag": "",
+		"birthday": 2012,
+		"flag": "wi",
 		"rating_standard": 1549,
-		"rating_rapid": null,
+		"rating_rapid": 1452,
 		"rating_blitz": null
 	},
 	{
@@ -11900,21 +11917,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13211390,
-		"name": "Hwang, Yerin",
+		"fideid": 13224883,
+		"name": "Lee, Eunhak",
 		"country": "KOR",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2012,
-		"flag": "wi",
+		"birthday": 2015,
+		"flag": "",
 		"rating_standard": 1548,
-		"rating_rapid": 1452,
-		"rating_blitz": null
+		"rating_rapid": 1546,
+		"rating_blitz": 1545
 	},
 	{
 		"fideid": 13217127,
@@ -11930,7 +11947,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1548,
-		"rating_rapid": 1429,
+		"rating_rapid": 1428,
 		"rating_blitz": null
 	},
 	{
@@ -11985,21 +12002,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13224883,
-		"name": "Lee, Eunhak",
+		"fideid": 13217836,
+		"name": "Lee, Jian B",
 		"country": "KOR",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
-		"flag": "",
+		"birthday": 2011,
+		"flag": "w",
 		"rating_standard": 1546,
-		"rating_rapid": 1546,
-		"rating_blitz": 1545
+		"rating_rapid": 1466,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13206729,
@@ -12065,9 +12082,9 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1544,
+		"rating_standard": 1545,
 		"rating_rapid": 1587,
-		"rating_blitz": 1433
+		"rating_blitz": 1434
 	},
 	{
 		"fideid": 13208187,
@@ -12085,23 +12102,6 @@
 		"rating_standard": 1544,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13218930,
-		"name": "Lim, Jiseong",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1544,
-		"rating_rapid": 1462,
-		"rating_blitz": 1548
 	},
 	{
 		"fideid": 13208225,
@@ -12172,6 +12172,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13216430,
+		"name": "Kim, Danha",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1543,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13212460,
 		"name": "Kim, Sungmin B",
 		"country": "KOR",
@@ -12189,20 +12206,37 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13217836,
-		"name": "Lee, Jian B",
+		"fideid": 13218930,
+		"name": "Lim, Jiseong",
 		"country": "KOR",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
+		"birthday": 2006,
+		"flag": "",
 		"rating_standard": 1543,
-		"rating_rapid": 1466,
+		"rating_rapid": 1465,
+		"rating_blitz": 1548
+	},
+	{
+		"fideid": 13224840,
+		"name": "Yan, Nikita",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1543,
+		"rating_rapid": 1536,
 		"rating_blitz": null
 	},
 	{
@@ -12274,23 +12308,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13216430,
-		"name": "Kim, Danha",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1542,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13217895,
 		"name": "Kim, Keonwoo",
 		"country": "KOR",
@@ -12304,8 +12321,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1542,
-		"rating_rapid": 1420,
-		"rating_blitz": 1465
+		"rating_rapid": 1421,
+		"rating_blitz": 1451
 	},
 	{
 		"fideid": 13213776,
@@ -12322,58 +12339,7 @@
 		"flag": "",
 		"rating_standard": 1542,
 		"rating_rapid": 1473,
-		"rating_blitz": 1462
-	},
-	{
-		"fideid": 13211978,
-		"name": "Noh, Woobin",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1542,
-		"rating_rapid": 1407,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13222457,
-		"name": "Seok, Hyundong",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1542,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13224840,
-		"name": "Yan, Nikita",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1542,
-		"rating_rapid": 1535,
-		"rating_blitz": null
+		"rating_blitz": 1463
 	},
 	{
 		"fideid": 13208667,
@@ -12393,6 +12359,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13211978,
+		"name": "Noh, Woobin",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1541,
+		"rating_rapid": 1406,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13222457,
+		"name": "Seok, Hyundong",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1541,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13211455,
 		"name": "Suh, Sangwook",
 		"country": "KOR",
@@ -12407,6 +12407,23 @@
 		"flag": "i",
 		"rating_standard": 1541,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13214438,
+		"name": "Kim, Dohyun B",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "i",
+		"rating_standard": 1540,
+		"rating_rapid": 1516,
 		"rating_blitz": null
 	},
 	{
@@ -12457,8 +12474,8 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1540,
-		"rating_rapid": 1559,
-		"rating_blitz": 1465
+		"rating_rapid": 1560,
+		"rating_blitz": 1466
 	},
 	{
 		"fideid": 13209680,
@@ -12546,23 +12563,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13214438,
-		"name": "Kim, Dohyun B",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": 1539,
-		"rating_rapid": 1515,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13226533,
 		"name": "Kim, Eugene A",
 		"country": "KOR",
@@ -12576,6 +12576,40 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1539,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13223666,
+		"name": "Woo, Daeun",
+		"country": "KOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1539,
+		"rating_rapid": 1595,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13222112,
+		"name": "Lee, Jaehyun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "i",
+		"rating_standard": 1538,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -12614,23 +12648,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13223666,
-		"name": "Woo, Daeun",
-		"country": "KOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1538,
-		"rating_rapid": 1595,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13207962,
 		"name": "Kwon, Aiden",
 		"country": "KOR",
@@ -12642,23 +12659,6 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1537,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13222112,
-		"name": "Lee, Jaehyun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1995,
 		"flag": "i",
 		"rating_standard": 1537,
 		"rating_rapid": null,
@@ -12763,7 +12763,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1536,
-		"rating_rapid": 1433,
+		"rating_rapid": 1434,
 		"rating_blitz": null
 	},
 	{
@@ -12920,6 +12920,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13216201,
+		"name": "Chan, Joshuahyeonwi",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1533,
+		"rating_rapid": 1464,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13202383,
 		"name": "Hong, Hyeonho",
 		"country": "KOR",
@@ -12988,6 +13005,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13223437,
+		"name": "Yu, Shiwoon",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1532,
+		"rating_rapid": 1494,
+		"rating_blitz": 1423
+	},
+	{
 		"fideid": 13214403,
 		"name": "Gu, Hyeongjin",
 		"country": "KOR",
@@ -13039,40 +13073,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13223437,
-		"name": "Yu, Shiwoon",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 6,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1531,
-		"rating_rapid": 1492,
-		"rating_blitz": 1422
-	},
-	{
-		"fideid": 13208012,
-		"name": "Ryu, Whee",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1530,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13215965,
 		"name": "An, Jikang",
 		"country": "KOR",
@@ -13085,7 +13085,7 @@
 		"k": 40,
 		"birthday": 2003,
 		"flag": "i",
-		"rating_standard": 1529,
+		"rating_standard": 1530,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -13102,7 +13102,24 @@
 		"k": 40,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 1529,
+		"rating_standard": 1530,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13208012,
+		"name": "Ryu, Whee",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": 1530,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -13341,7 +13358,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1524,
-		"rating_rapid": 1563,
+		"rating_rapid": 1565,
 		"rating_blitz": null
 	},
 	{
@@ -13651,6 +13668,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13223534,
+		"name": "Cho Junseo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1516,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13205846,
 		"name": "Cho, Sunhee",
 		"country": "KOR",
@@ -13681,23 +13715,6 @@
 		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": 1516,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13223534,
-		"name": "Cho Junseo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1515,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -13736,6 +13753,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13227009,
+		"name": "Kim, Taei",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1515,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13202731,
 		"name": "Oh, Jihyun",
 		"country": "KOR",
@@ -13766,7 +13800,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1515,
-		"rating_rapid": 1446,
+		"rating_rapid": 1527,
 		"rating_blitz": null
 	},
 	{
@@ -13801,23 +13835,6 @@
 		"flag": "wi",
 		"rating_standard": 1513,
 		"rating_rapid": 1574,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13227009,
-		"name": "Kim, Taei",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1513,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -13991,6 +14008,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13223313,
+		"name": "Chang, Joowan",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1509,
+		"rating_rapid": 1515,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13216619,
 		"name": "Cho, Myounghee",
 		"country": "KOR",
@@ -14056,23 +14090,6 @@
 		"flag": "i",
 		"rating_standard": 1509,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13223313,
-		"name": "Chang, Joowan",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1508,
-		"rating_rapid": 1515,
 		"rating_blitz": null
 	},
 	{
@@ -14208,8 +14225,25 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1506,
-		"rating_rapid": 1529,
+		"rating_rapid": 1528,
 		"rating_blitz": 1650
+	},
+	{
+		"fideid": 13215205,
+		"name": "Joo, Eram",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1505,
+		"rating_rapid": 1536,
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 13213288,
@@ -14225,7 +14259,7 @@
 		"birthday": 1997,
 		"flag": "i",
 		"rating_standard": 1505,
-		"rating_rapid": 1525,
+		"rating_rapid": 1524,
 		"rating_blitz": null
 	},
 	{
@@ -14242,25 +14276,8 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1505,
-		"rating_rapid": 1521,
+		"rating_rapid": 1525,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13215205,
-		"name": "Joo, Eram",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1504,
-		"rating_rapid": 1536,
-		"rating_blitz": 1509
 	},
 	{
 		"fideid": 13209884,
@@ -14295,23 +14312,6 @@
 		"rating_standard": 1504,
 		"rating_rapid": 1577,
 		"rating_blitz": 1465
-	},
-	{
-		"fideid": 13227475,
-		"name": "Hur, Jiyu",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1503,
-		"rating_rapid": 1445,
-		"rating_blitz": 1496
 	},
 	{
 		"fideid": 13210963,
@@ -14399,6 +14399,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13227475,
+		"name": "Hur, Jiyu",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1502,
+		"rating_rapid": 1453,
+		"rating_blitz": 1500
+	},
+	{
 		"fideid": 13202952,
 		"name": "Kim, Youngjin",
 		"country": "KOR",
@@ -14413,23 +14430,6 @@
 		"flag": "i",
 		"rating_standard": 1502,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13219049,
-		"name": "Park, Siwoo",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1502,
-		"rating_rapid": 1464,
 		"rating_blitz": null
 	},
 	{
@@ -14530,23 +14530,6 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "i",
-		"rating_standard": 1500,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13216384,
-		"name": "Lee, Geunha",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
 		"rating_standard": 1500,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -14722,6 +14705,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13207415,
+		"name": "Choi, Gyungsook",
+		"country": "KOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "NI",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "w",
+		"rating_standard": 1496,
+		"rating_rapid": 1478,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13226592,
 		"name": "Chung, Inho",
 		"country": "KOR",
@@ -14753,23 +14753,6 @@
 		"flag": "i",
 		"rating_standard": 1496,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13207415,
-		"name": "Choi, Gyungsook",
-		"country": "KOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "NI",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1962,
-		"flag": "w",
-		"rating_standard": 1495,
-		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -15028,6 +15011,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13223445,
+		"name": "Cheong, Dohyun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1491,
+		"rating_rapid": 1584,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13214004,
 		"name": "Kim, Taeu",
 		"country": "KOR",
@@ -15042,23 +15042,6 @@
 		"flag": "",
 		"rating_standard": 1491,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13223445,
-		"name": "Cheong, Dohyun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1490,
-		"rating_rapid": 1595,
 		"rating_blitz": null
 	},
 	{
@@ -15130,6 +15113,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13213962,
+		"name": "Yoon, Jooseong",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": 1487,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13229176,
 		"name": "Gautam, Atharva Singh",
 		"country": "KOR",
@@ -15161,23 +15161,6 @@
 		"flag": "wi",
 		"rating_standard": 1486,
 		"rating_rapid": 1494,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13213962,
-		"name": "Yoon, Jooseong",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": 1486,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -15232,23 +15215,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13216201,
-		"name": "Chan, Joshuahyeonwi",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1483,
-		"rating_rapid": 1464,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13206788,
 		"name": "Kim, Minjun C",
 		"country": "KOR",
@@ -15279,7 +15245,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1483,
-		"rating_rapid": 1482,
+		"rating_rapid": 1483,
 		"rating_blitz": null
 	},
 	{
@@ -15295,7 +15261,7 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1483,
+		"rating_standard": 1482,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -15351,6 +15317,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13219774,
+		"name": "Kim, Jonghun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1481,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13208047,
 		"name": "Kim, Minjung",
 		"country": "KOR",
@@ -15381,7 +15364,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1481,
-		"rating_rapid": 1527,
+		"rating_rapid": 1525,
 		"rating_blitz": null
 	},
 	{
@@ -15402,6 +15385,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13219049,
+		"name": "Park, Siwoo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1481,
+		"rating_rapid": 1445,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13203126,
 		"name": "Jeong, Misuk",
 		"country": "KOR",
@@ -15414,23 +15414,6 @@
 		"k": 20,
 		"birthday": 1978,
 		"flag": "wi",
-		"rating_standard": 1480,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13219774,
-		"name": "Kim, Jonghun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
 		"rating_standard": 1480,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -15517,8 +15500,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1479,
-		"rating_rapid": 1450,
-		"rating_blitz": 1483
+		"rating_rapid": 1451,
+		"rating_blitz": 1505
 	},
 	{
 		"fideid": 13214748,
@@ -15623,6 +15606,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13211030,
+		"name": "Song, Haeseong",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1478,
+		"rating_rapid": 1501,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13211510,
 		"name": "Lee, Insuk",
 		"country": "KOR",
@@ -15657,23 +15657,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13211030,
-		"name": "Song, Haeseong",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1477,
-		"rating_rapid": 1501,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13220306,
 		"name": "Jeon, Hyeongho",
 		"country": "KOR",
@@ -15704,7 +15687,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1475,
-		"rating_rapid": 1423,
+		"rating_rapid": 1428,
 		"rating_blitz": null
 	},
 	{
@@ -15738,7 +15721,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1474,
-		"rating_rapid": 1490,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -15772,7 +15755,7 @@
 		"birthday": 2010,
 		"flag": "wi",
 		"rating_standard": 1472,
-		"rating_rapid": 1493,
+		"rating_rapid": 1495,
 		"rating_blitz": null
 	},
 	{
@@ -15929,6 +15912,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13215418,
+		"name": "Ahn, Jeongyoon",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1466,
+		"rating_rapid": 1436,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13204025,
 		"name": "Kang, Hoonki",
 		"country": "KOR",
@@ -15963,8 +15963,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13215418,
-		"name": "Ahn, Jeongyoon",
+		"fideid": 13216384,
+		"name": "Lee, Geunha",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
@@ -15975,8 +15975,8 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1465,
-		"rating_rapid": 1436,
+		"rating_standard": 1466,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -16099,6 +16099,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13208241,
+		"name": "Son, Hyunju",
+		"country": "KOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1968,
+		"flag": "w",
+		"rating_standard": 1461,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13215248,
 		"name": "Yoon, Jihoo",
 		"country": "KOR",
@@ -16112,23 +16129,6 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1461,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13208241,
-		"name": "Son, Hyunju",
-		"country": "KOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1968,
-		"flag": "w",
-		"rating_standard": 1460,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -16148,6 +16148,23 @@
 		"rating_standard": 1459,
 		"rating_rapid": 1403,
 		"rating_blitz": 1454
+	},
+	{
+		"fideid": 13215450,
+		"name": "Park, Jaeik",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1459,
+		"rating_rapid": 1438,
+		"rating_blitz": 1483
 	},
 	{
 		"fideid": 13222236,
@@ -16199,23 +16216,6 @@
 		"rating_standard": 1458,
 		"rating_rapid": 1549,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13215450,
-		"name": "Park, Jaeik",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1458,
-		"rating_rapid": 1438,
-		"rating_blitz": 1483
 	},
 	{
 		"fideid": 13217593,
@@ -16320,6 +16320,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13216554,
+		"name": "Yang, Jin",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1455,
+		"rating_rapid": 1518,
+		"rating_blitz": 1484
+	},
+	{
 		"fideid": 13208926,
 		"name": "Park, Jungmin",
 		"country": "KOR",
@@ -16335,23 +16352,6 @@
 		"rating_standard": 1454,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13216554,
-		"name": "Yang, Jin",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1454,
-		"rating_rapid": 1519,
-		"rating_blitz": 1483
 	},
 	{
 		"fideid": 13223500,
@@ -16383,6 +16383,23 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
+		"rating_standard": 1453,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13201530,
+		"name": "Kim, Taeyoun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "i",
 		"rating_standard": 1453,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -16473,23 +16490,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13201530,
-		"name": "Kim, Taeyoun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "i",
-		"rating_standard": 1452,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13210769,
 		"name": "Lee, Geo",
 		"country": "KOR",
@@ -16537,25 +16537,25 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1452,
-		"rating_rapid": 1456,
+		"rating_rapid": 1464,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13224875,
-		"name": "Hwang, Seungha",
+		"fideid": 13216171,
+		"name": "Sull, Jaeyoung",
 		"country": "KOR",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1451,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1452,
 		"rating_rapid": null,
-		"rating_blitz": 1553
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13207253,
@@ -16609,6 +16609,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13226363,
+		"name": "Lee, Jepil",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1451,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13221825,
 		"name": "Lee, Juyeop",
 		"country": "KOR",
@@ -16620,6 +16637,23 @@
 		"games": 1,
 		"k": 40,
 		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1451,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13213270,
+		"name": "Lee, Rogyeom",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1451,
 		"rating_rapid": null,
@@ -16660,6 +16694,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13224875,
+		"name": "Hwang, Seungha",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1450,
+		"rating_rapid": null,
+		"rating_blitz": 1553
+	},
+	{
 		"fideid": 13207741,
 		"name": "Jung, Yunyeong",
 		"country": "KOR",
@@ -16694,8 +16745,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13219847,
-		"name": "Nam, Minwoo B",
+		"fideid": 13226061,
+		"name": "Kyeong, Soohyun",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
@@ -16704,10 +16755,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1450,
-		"rating_rapid": 1432,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -16779,23 +16830,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13226061,
-		"name": "Kyeong, Soohyun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1449,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13222325,
 		"name": "Lee, Dajung",
 		"country": "KOR",
@@ -16808,23 +16842,6 @@
 		"k": 40,
 		"birthday": 2004,
 		"flag": "w",
-		"rating_standard": 1449,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13213270,
-		"name": "Lee, Rogyeom",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
 		"rating_standard": 1449,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -16932,6 +16949,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13216830,
+		"name": "Bae, Joowon",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1445,
+		"rating_rapid": 1493,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13219758,
 		"name": "Jin, Soohyeon",
 		"country": "KOR",
@@ -16945,7 +16979,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1445,
-		"rating_rapid": 1479,
+		"rating_rapid": 1480,
 		"rating_blitz": null
 	},
 	{
@@ -16963,23 +16997,6 @@
 		"flag": "i",
 		"rating_standard": 1445,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13216830,
-		"name": "Bae, Joowon",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1444,
-		"rating_rapid": 1494,
 		"rating_blitz": null
 	},
 	{
@@ -17014,6 +17031,40 @@
 		"flag": "",
 		"rating_standard": 1444,
 		"rating_rapid": 1531,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13214357,
+		"name": "Son, Yuseung",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1444,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13218387,
+		"name": "Syn, Jonghyun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1444,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -17063,40 +17114,6 @@
 		"k": 20,
 		"birthday": 1970,
 		"flag": "wi",
-		"rating_standard": 1443,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13214357,
-		"name": "Son, Yuseung",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1443,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13218387,
-		"name": "Syn, Jonghyun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
 		"rating_standard": 1443,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -17183,7 +17200,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1442,
-		"rating_rapid": 1473,
+		"rating_rapid": 1472,
 		"rating_blitz": null
 	},
 	{
@@ -17201,7 +17218,7 @@
 		"flag": "",
 		"rating_standard": 1442,
 		"rating_rapid": null,
-		"rating_blitz": 1449
+		"rating_blitz": 1448
 	},
 	{
 		"fideid": 13216570,
@@ -17217,7 +17234,24 @@
 		"birthday": 2014,
 		"flag": "wi",
 		"rating_standard": 1442,
-		"rating_rapid": 1504,
+		"rating_rapid": 1523,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13215531,
+		"name": "Kwak, Eunwoo",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1441,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -17233,23 +17267,6 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "i",
-		"rating_standard": 1441,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13216171,
-		"name": "Sull, Jaeyoung",
-		"country": "KOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
 		"rating_standard": 1441,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -17289,6 +17306,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13225723,
+		"name": "Lee, Yoonjae A",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1439,
+		"rating_rapid": 1442,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13219871,
 		"name": "Myeong, Juhwan",
 		"country": "KOR",
@@ -17320,7 +17354,7 @@
 		"flag": "w",
 		"rating_standard": 1438,
 		"rating_rapid": 1451,
-		"rating_blitz": 1554
+		"rating_blitz": 1553
 	},
 	{
 		"fideid": 13216562,
@@ -17387,7 +17421,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1436,
-		"rating_rapid": 1443,
+		"rating_rapid": 1442,
 		"rating_blitz": null
 	},
 	{
@@ -17425,20 +17459,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13225731,
-		"name": "Choi, Yoonjae",
+		"fideid": 13223178,
+		"name": "Chung, Yeseo",
 		"country": "KOR",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
-		"birthday": 2015,
-		"flag": "",
+		"birthday": 2016,
+		"flag": "w",
 		"rating_standard": 1434,
-		"rating_rapid": null,
+		"rating_rapid": 1401,
 		"rating_blitz": null
 	},
 	{
@@ -17476,6 +17510,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13214497,
+		"name": "Oh, Jeongmin",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1433,
+		"rating_rapid": 1416,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13226355,
 		"name": "Yun, Gaon",
 		"country": "KOR",
@@ -17490,23 +17541,6 @@
 		"flag": "w",
 		"rating_standard": 1433,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13223178,
-		"name": "Chung, Yeseo",
-		"country": "KOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1432,
-		"rating_rapid": 1401,
 		"rating_blitz": null
 	},
 	{
@@ -17595,20 +17629,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13207890,
-		"name": "Kim, Jaeyun",
+		"fideid": 13211331,
+		"name": "Kim, Jihu",
 		"country": "KOR",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI",
+		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "wi",
 		"rating_standard": 1431,
-		"rating_rapid": null,
+		"rating_rapid": 1475,
 		"rating_blitz": null
 	},
 	{
@@ -17646,20 +17680,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13211331,
-		"name": "Kim, Jihu",
+		"fideid": 13207890,
+		"name": "Kim, Jaeyun",
 		"country": "KOR",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NI",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "wi",
+		"flag": "",
 		"rating_standard": 1430,
-		"rating_rapid": 1475,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -17680,8 +17714,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13225723,
-		"name": "Lee, Yoonjae A",
+		"fideid": 13227904,
+		"name": "Lee, Dojun",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
@@ -17690,15 +17724,15 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2016,
 		"flag": "",
-		"rating_standard": 1429,
-		"rating_rapid": 1435,
+		"rating_standard": 1428,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13227904,
-		"name": "Lee, Dojun",
+		"fideid": 13220764,
+		"name": "Shin, Seojun",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
@@ -17748,23 +17782,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13220764,
-		"name": "Shin, Seojun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1427,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13203860,
 		"name": "Oh, Siyoun",
 		"country": "KOR",
@@ -17782,8 +17799,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13215531,
-		"name": "Kwak, Eunwoo",
+		"fideid": 13225952,
+		"name": "Anshuman, Misra",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
@@ -17792,7 +17809,7 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 1981,
 		"flag": "",
 		"rating_standard": 1424,
 		"rating_rapid": null,
@@ -17812,23 +17829,6 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": 1424,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13225952,
-		"name": "Anshuman, Misra",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1423,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -17863,8 +17863,8 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1423,
-		"rating_rapid": 1580,
-		"rating_blitz": 1431
+		"rating_rapid": 1573,
+		"rating_blitz": 1433
 	},
 	{
 		"fideid": 13211064,
@@ -17884,23 +17884,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13213458,
-		"name": "Kawai, Alen",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1422,
-		"rating_rapid": 1469,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13222872,
 		"name": "Kim, Rian",
 		"country": "KOR",
@@ -17914,8 +17897,8 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1422,
-		"rating_rapid": 1402,
-		"rating_blitz": 1511
+		"rating_rapid": 1404,
+		"rating_blitz": 1513
 	},
 	{
 		"fideid": 13212621,
@@ -17949,6 +17932,23 @@
 		"flag": "",
 		"rating_standard": 1421,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13213458,
+		"name": "Kawai, Alen",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1420,
+		"rating_rapid": 1469,
 		"rating_blitz": null
 	},
 	{
@@ -18020,6 +18020,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13227467,
+		"name": "Kim, Jihun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1417,
+		"rating_rapid": 1537,
+		"rating_blitz": 1476
+	},
+	{
 		"fideid": 13208330,
 		"name": "Choi, Moon Kyoung",
 		"country": "KOR",
@@ -18050,7 +18067,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1416,
-		"rating_rapid": 1413,
+		"rating_rapid": 1420,
 		"rating_blitz": null
 	},
 	{
@@ -18071,6 +18088,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13207776,
+		"name": "Kang, Hyunjung",
+		"country": "KOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "NI",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1974,
+		"flag": "w",
+		"rating_standard": 1414,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13223810,
 		"name": "Lee, Kangin",
 		"country": "KOR",
@@ -18085,23 +18119,6 @@
 		"flag": "",
 		"rating_standard": 1414,
 		"rating_rapid": 1450,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13214497,
-		"name": "Oh, Jeongmin",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1414,
-		"rating_rapid": 1416,
 		"rating_blitz": null
 	},
 	{
@@ -18156,23 +18173,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13213865,
-		"name": "Jang, Minjun",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1413,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13207130,
 		"name": "Jung, Soeun",
 		"country": "KOR",
@@ -18190,21 +18190,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13227467,
-		"name": "Kim, Jihun",
+		"fideid": 13225731,
+		"name": "Choi, Yoonjae",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1413,
-		"rating_rapid": 1534,
-		"rating_blitz": 1473
+		"rating_standard": 1412,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13213865,
+		"name": "Jang, Minjun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1412,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13208829,
@@ -18219,6 +18236,23 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "i",
+		"rating_standard": 1411,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13219960,
+		"name": "Lee, Ruha",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
 		"rating_standard": 1411,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -18258,8 +18292,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13219960,
-		"name": "Lee, Ruha",
+		"fideid": 13210688,
+		"name": "Choi, Beomseok",
 		"country": "KOR",
 		"sex": "M",
 		"title": "",
@@ -18268,10 +18302,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1410,
-		"rating_rapid": null,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": 1409,
+		"rating_rapid": 1425,
 		"rating_blitz": null
 	},
 	{
@@ -18309,23 +18343,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13210688,
-		"name": "Choi, Beomseok",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": 1408,
-		"rating_rapid": 1426,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13210530,
 		"name": "Kim, Sihoo",
 		"country": "KOR",
@@ -18338,6 +18355,23 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "i",
+		"rating_standard": 1408,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13223020,
+		"name": "Suh, Minjae",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
 		"rating_standard": 1408,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -18357,23 +18391,6 @@
 		"flag": "i",
 		"rating_standard": 1407,
 		"rating_rapid": 1423,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13223020,
-		"name": "Suh, Minjae",
-		"country": "KOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1407,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -18513,6 +18530,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13217500,
+		"name": "Lee, Roun",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1403,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13230000,
 		"name": "Kim, Hoyen",
 		"country": "KOR",
@@ -18543,7 +18577,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1433,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -18577,7 +18611,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1649,
+		"rating_rapid": 1650,
 		"rating_blitz": null
 	},
 	{
@@ -18645,7 +18679,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1617,
+		"rating_rapid": 1616,
 		"rating_blitz": null
 	},
 	{
@@ -18714,7 +18748,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1418,
-		"rating_blitz": 1444
+		"rating_blitz": 1446
 	},
 	{
 		"fideid": 13227661,
@@ -18832,7 +18866,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1480,
+		"rating_rapid": 1481,
 		"rating_blitz": null
 	},
 	{
@@ -18849,7 +18883,7 @@
 		"birthday": 2012,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1491,
+		"rating_rapid": 1490,
 		"rating_blitz": null
 	},
 	{
@@ -18866,7 +18900,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1586,
+		"rating_rapid": 1585,
 		"rating_blitz": null
 	},
 	{
@@ -18883,7 +18917,7 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1484,
+		"rating_rapid": 1490,
 		"rating_blitz": null
 	},
 	{
@@ -18934,7 +18968,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1538,
+		"rating_rapid": 1537,
 		"rating_blitz": null
 	},
 	{
@@ -18989,6 +19023,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13227289,
+		"name": "Jeong, Jin",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1440,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13218344,
 		"name": "Jong, Seungmin",
 		"country": "KOR",
@@ -19019,7 +19070,7 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1443,
+		"rating_rapid": 1447,
 		"rating_blitz": null
 	},
 	{
@@ -19036,8 +19087,8 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1430,
-		"rating_blitz": 1413
+		"rating_rapid": 1423,
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 13222104,
@@ -19053,7 +19104,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1475,
+		"rating_rapid": 1474,
 		"rating_blitz": null
 	},
 	{
@@ -19087,7 +19138,7 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1598,
+		"rating_rapid": 1600,
 		"rating_blitz": null
 	},
 	{
@@ -19121,7 +19172,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1460,
+		"rating_rapid": 1459,
 		"rating_blitz": null
 	},
 	{
@@ -19138,7 +19189,7 @@
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1489,
+		"rating_rapid": 1488,
 		"rating_blitz": null
 	},
 	{
@@ -19172,7 +19223,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1457,
+		"rating_rapid": 1455,
 		"rating_blitz": null
 	},
 	{
@@ -19223,7 +19274,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1578,
+		"rating_rapid": 1577,
 		"rating_blitz": null
 	},
 	{
@@ -19325,7 +19376,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1564,
+		"rating_rapid": 1563,
 		"rating_blitz": null
 	},
 	{
@@ -19342,7 +19393,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1447,
+		"rating_rapid": 1446,
 		"rating_blitz": null
 	},
 	{
@@ -19427,7 +19478,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1591,
+		"rating_rapid": 1590,
 		"rating_blitz": null
 	},
 	{
@@ -19473,12 +19524,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 6,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1505,
+		"rating_rapid": 1680,
 		"rating_blitz": null
 	},
 	{
@@ -19495,7 +19546,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1601,
+		"rating_rapid": 1602,
 		"rating_blitz": null
 	},
 	{
@@ -19546,7 +19597,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1464,
+		"rating_rapid": 1463,
 		"rating_blitz": null
 	},
 	{
@@ -19597,7 +19648,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1535,
+		"rating_rapid": 1539,
 		"rating_blitz": null
 	},
 	{
@@ -19631,7 +19682,7 @@
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1673,
+		"rating_rapid": 1674,
 		"rating_blitz": null
 	},
 	{
@@ -19648,7 +19699,7 @@
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1602,
+		"rating_rapid": 1603,
 		"rating_blitz": null
 	},
 	{
@@ -19699,7 +19750,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1503,
+		"rating_rapid": 1501,
 		"rating_blitz": null
 	},
 	{
@@ -19750,7 +19801,7 @@
 		"birthday": 2010,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1470,
+		"rating_rapid": 1468,
 		"rating_blitz": null
 	},
 	{
@@ -19801,7 +19852,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1647,
+		"rating_rapid": 1648,
 		"rating_blitz": null
 	},
 	{
@@ -19835,7 +19886,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1401,
+		"rating_rapid": 1403,
 		"rating_blitz": null
 	},
 	{
@@ -19852,7 +19903,7 @@
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1526,
+		"rating_rapid": 1527,
 		"rating_blitz": null
 	},
 	{
@@ -19903,7 +19954,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1576,
+		"rating_rapid": 1577,
 		"rating_blitz": null
 	},
 	{
@@ -19920,7 +19971,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1417,
+		"rating_rapid": 1416,
 		"rating_blitz": null
 	},
 	{
@@ -19971,7 +20022,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1419,
+		"rating_rapid": 1421,
 		"rating_blitz": null
 	},
 	{
@@ -19988,7 +20039,7 @@
 		"birthday": 2009,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1496,
+		"rating_rapid": 1495,
 		"rating_blitz": null
 	},
 	{
@@ -20073,7 +20124,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1533,
+		"rating_rapid": 1531,
 		"rating_blitz": null
 	},
 	{
@@ -20107,7 +20158,7 @@
 		"birthday": 1992,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1451,
+		"rating_rapid": 1449,
 		"rating_blitz": null
 	},
 	{
@@ -20124,7 +20175,24 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1583,
+		"rating_rapid": 1582,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13219847,
+		"name": "Nam, Minwoo B",
+		"country": "KOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1432,
 		"rating_blitz": null
 	},
 	{
@@ -20175,7 +20243,7 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1435,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -20226,7 +20294,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1564,
+		"rating_rapid": 1565,
 		"rating_blitz": null
 	},
 	{
@@ -20243,7 +20311,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1665,
+		"rating_rapid": 1667,
 		"rating_blitz": null
 	},
 	{
@@ -20294,7 +20362,7 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1437,
+		"rating_rapid": 1438,
 		"rating_blitz": null
 	},
 	{
@@ -20311,7 +20379,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1663,
+		"rating_rapid": 1662,
 		"rating_blitz": null
 	},
 	{
@@ -20345,7 +20413,7 @@
 		"birthday": 2009,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1531,
+		"rating_rapid": 1529,
 		"rating_blitz": null
 	},
 	{
@@ -20583,7 +20651,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1490,
+		"rating_rapid": 1494,
 		"rating_blitz": null
 	},
 	{
@@ -20600,7 +20668,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1423,
+		"rating_rapid": 1424,
 		"rating_blitz": null
 	},
 	{
@@ -20651,7 +20719,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1430,
+		"rating_rapid": 1431,
 		"rating_blitz": null
 	},
 	{
@@ -20685,7 +20753,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1586,
+		"rating_rapid": 1588,
 		"rating_blitz": null
 	},
 	{
@@ -20702,7 +20770,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1614,
+		"rating_rapid": 1613,
 		"rating_blitz": null
 	},
 	{
@@ -20736,7 +20804,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1424,
+		"rating_rapid": 1422,
 		"rating_blitz": null
 	},
 	{
@@ -20787,7 +20855,7 @@
 		"birthday": 1990,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1702,
+		"rating_rapid": 1706,
 		"rating_blitz": null
 	},
 	{
@@ -20804,7 +20872,7 @@
 		"birthday": 1979,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1514,
+		"rating_rapid": 1513,
 		"rating_blitz": null
 	},
 	{
@@ -20838,8 +20906,8 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1476,
-		"rating_blitz": 1433
+		"rating_rapid": 1478,
+		"rating_blitz": 1447
 	},
 	{
 		"fideid": 13228471,
@@ -20855,7 +20923,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1599,
+		"rating_rapid": 1598,
 		"rating_blitz": null
 	},
 	{
@@ -20872,7 +20940,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1478,
+		"rating_rapid": 1479,
 		"rating_blitz": null
 	},
 	{
@@ -20889,7 +20957,7 @@
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1548,
+		"rating_rapid": 1547,
 		"rating_blitz": null
 	},
 	{
@@ -20969,13 +21037,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 5,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1562
+		"rating_blitz": 1514
 	},
 	{
 		"fideid": 23766506,

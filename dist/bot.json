@@ -779,7 +779,7 @@
 		"flag": "",
 		"rating_standard": 1932,
 		"rating_rapid": 1957,
-		"rating_blitz": 1962
+		"rating_blitz": 1963
 	},
 	{
 		"fideid": 11301031,
@@ -884,6 +884,23 @@
 		"rating_blitz": 1893
 	},
 	{
+		"fideid": 11310880,
+		"name": "Marape, Naledi",
+		"country": "BOT",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1920,
+		"rating_rapid": 1789,
+		"rating_blitz": 1823
+	},
+	{
 		"fideid": 11302976,
 		"name": "Musekiwa, Michael",
 		"country": "BOT",
@@ -916,23 +933,6 @@
 		"rating_standard": 1919,
 		"rating_rapid": 1959,
 		"rating_blitz": 1965
-	},
-	{
-		"fideid": 11310880,
-		"name": "Marape, Naledi",
-		"country": "BOT",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": 1918,
-		"rating_rapid": 1789,
-		"rating_blitz": 1822
 	},
 	{
 		"fideid": 11302011,
@@ -999,7 +999,7 @@
 		"birthday": 2007,
 		"flag": "w",
 		"rating_standard": 1915,
-		"rating_rapid": 1731,
+		"rating_rapid": 1730,
 		"rating_blitz": 1882
 	},
 	{
@@ -1173,23 +1173,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11309830,
-		"name": "Moagaesi, Tshepo",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": "",
-		"flag": "",
-		"rating_standard": 1903,
-		"rating_rapid": 1848,
-		"rating_blitz": 1918
-	},
-	{
 		"fideid": 11309008,
 		"name": "Tjituka, Silent",
 		"country": "BOT",
@@ -1207,21 +1190,21 @@
 		"rating_blitz": 1857
 	},
 	{
-		"fideid": 11319615,
-		"name": "Phenyo Israel",
+		"fideid": 11309830,
+		"name": "Moagaesi, Tshepo",
 		"country": "BOT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
-		"birthday": 1999,
+		"birthday": "",
 		"flag": "",
 		"rating_standard": 1902,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1849,
+		"rating_blitz": 1918
 	},
 	{
 		"fideid": 11322306,
@@ -1236,7 +1219,24 @@
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
-		"rating_standard": 1901,
+		"rating_standard": 1902,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11319615,
+		"name": "Phenyo Israel",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1902,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1394,6 +1394,23 @@
 		"rating_blitz": 1901
 	},
 	{
+		"fideid": 11314184,
+		"name": "Mothudi Mogotsi Arnold",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1885,
+		"rating_rapid": 1905,
+		"rating_blitz": 1908
+	},
+	{
 		"fideid": 11324198,
 		"name": "Mhusiwa Thabiso Junior",
 		"country": "BOT",
@@ -1409,23 +1426,6 @@
 		"rating_standard": 1884,
 		"rating_rapid": null,
 		"rating_blitz": 1911
-	},
-	{
-		"fideid": 11314184,
-		"name": "Mothudi Mogotsi Arnold",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1884,
-		"rating_rapid": 1905,
-		"rating_blitz": 1908
 	},
 	{
 		"fideid": 11303042,
@@ -1696,7 +1696,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1867,
-		"rating_rapid": 1753,
+		"rating_rapid": 1752,
 		"rating_blitz": 1872
 	},
 	{
@@ -2343,7 +2343,7 @@
 		"flag": "i",
 		"rating_standard": 1842,
 		"rating_rapid": 1899,
-		"rating_blitz": 1835
+		"rating_blitz": 1836
 	},
 	{
 		"fideid": 11307064,
@@ -2397,6 +2397,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11313498,
+		"name": "Mpene Thuto",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1839,
+		"rating_rapid": 1832,
+		"rating_blitz": 1936
+	},
+	{
 		"fideid": 11312610,
 		"name": "Elias Thabo",
 		"country": "BOT",
@@ -2412,23 +2429,6 @@
 		"rating_standard": 1838,
 		"rating_rapid": 1896,
 		"rating_blitz": 1813
-	},
-	{
-		"fideid": 11313498,
-		"name": "Mpene Thuto",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1838,
-		"rating_rapid": 1832,
-		"rating_blitz": 1936
 	},
 	{
 		"fideid": 11303360,
@@ -2751,7 +2751,7 @@
 		"flag": "",
 		"rating_standard": 1821,
 		"rating_rapid": 1893,
-		"rating_blitz": 1825
+		"rating_blitz": 1826
 	},
 	{
 		"fideid": 11300469,
@@ -2822,6 +2822,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11312734,
+		"name": "Pitso Refilwe",
+		"country": "BOT",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1816,
+		"rating_rapid": 1800,
+		"rating_blitz": 1768
+	},
+	{
 		"fideid": 11301880,
 		"name": "Samuel, David",
 		"country": "BOT",
@@ -2837,23 +2854,6 @@
 		"rating_standard": 1816,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11312734,
-		"name": "Pitso Refilwe",
-		"country": "BOT",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1815,
-		"rating_rapid": 1800,
-		"rating_blitz": 1767
 	},
 	{
 		"fideid": 11301937,
@@ -3315,23 +3315,6 @@
 		"rating_blitz": 1730
 	},
 	{
-		"fideid": 11311479,
-		"name": "Hasubeka Madiake",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "i",
-		"rating_standard": 1795,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 15205878,
 		"name": "Makwaeba, Keabetswe",
 		"country": "BOT",
@@ -3362,8 +3345,25 @@
 		"birthday": 1992,
 		"flag": "i",
 		"rating_standard": 1794,
-		"rating_rapid": 1838,
-		"rating_blitz": 1784
+		"rating_rapid": 1839,
+		"rating_blitz": 1785
+	},
+	{
+		"fideid": 11311479,
+		"name": "Hasubeka Madiake",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "i",
+		"rating_standard": 1794,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11301791,
@@ -3378,7 +3378,7 @@
 		"k": 20,
 		"birthday": "",
 		"flag": "",
-		"rating_standard": 1794,
+		"rating_standard": 1793,
 		"rating_rapid": 1899,
 		"rating_blitz": 1903
 	},
@@ -3621,23 +3621,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11312300,
-		"name": "Mosepele Itlhokomeleng",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 1786,
-		"rating_rapid": null,
-		"rating_blitz": 1769
-	},
-	{
 		"fideid": 11304243,
 		"name": "Batlegang Boga",
 		"country": "BOT",
@@ -3655,21 +3638,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11314907,
-		"name": "Mosweu, Atlang Amolemo",
+		"fideid": 11312300,
+		"name": "Mosepele Itlhokomeleng",
 		"country": "BOT",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1784,
-		"rating_rapid": 1675,
-		"rating_blitz": null
+		"games": 0,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1785,
+		"rating_rapid": null,
+		"rating_blitz": 1769
 	},
 	{
 		"fideid": 11315245,
@@ -3703,6 +3686,23 @@
 		"flag": "i",
 		"rating_standard": 1784,
 		"rating_rapid": 1828,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11314907,
+		"name": "Mosweu, Atlang Amolemo",
+		"country": "BOT",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1783,
+		"rating_rapid": 1676,
 		"rating_blitz": null
 	},
 	{
@@ -3978,6 +3978,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11313978,
+		"name": "Otisitswe Ruth",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "wi",
+		"rating_standard": 1774,
+		"rating_rapid": 1756,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11313676,
 		"name": "Ketlhaotswe Chadiwe",
 		"country": "BOT",
@@ -4010,23 +4027,6 @@
 		"rating_standard": 1773,
 		"rating_rapid": null,
 		"rating_blitz": 1868
-	},
-	{
-		"fideid": 11313978,
-		"name": "Otisitswe Ruth",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "wi",
-		"rating_standard": 1773,
-		"rating_rapid": 1756,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11312181,
@@ -4114,6 +4114,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11300230,
+		"name": "Modongo, Boikhutso",
+		"country": "BOT",
+		"sex": "F",
+		"title": "WIM",
+		"w_title": "WIM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "wi",
+		"rating_standard": 1771,
+		"rating_rapid": 1831,
+		"rating_blitz": 1892
+	},
+	{
 		"fideid": 11318309,
 		"name": "Raymond Maretlwaneng",
 		"country": "BOT",
@@ -4165,23 +4182,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11300230,
-		"name": "Modongo, Boikhutso",
-		"country": "BOT",
-		"sex": "F",
-		"title": "WIM",
-		"w_title": "WIM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "wi",
-		"rating_standard": 1770,
-		"rating_rapid": 1831,
-		"rating_blitz": 1892
-	},
-	{
 		"fideid": 11316764,
 		"name": "sebo katle",
 		"country": "BOT",
@@ -4216,6 +4216,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11331038,
+		"name": "Mbumbo Diane",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 1769,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11305886,
 		"name": "Tuga, Hercules",
 		"country": "BOT",
@@ -4245,23 +4262,6 @@
 		"k": 40,
 		"birthday": 2003,
 		"flag": "i",
-		"rating_standard": 1768,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11331038,
-		"name": "Mbumbo Diane",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "",
 		"rating_standard": 1768,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -4403,6 +4403,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11318490,
+		"name": "George Method",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": 1761,
+		"rating_rapid": 1704,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11329866,
 		"name": "Mogale Keolebogile",
 		"country": "BOT",
@@ -4417,23 +4434,6 @@
 		"flag": "",
 		"rating_standard": 1760,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11318490,
-		"name": "George Method",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": 1759,
-		"rating_rapid": 1702,
 		"rating_blitz": null
 	},
 	{
@@ -4468,6 +4468,23 @@
 		"flag": "i",
 		"rating_standard": 1758,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11301317,
+		"name": "Francis, Thapelo",
+		"country": "BOT",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "wi",
+		"rating_standard": 1757,
+		"rating_rapid": 1846,
 		"rating_blitz": null
 	},
 	{
@@ -4590,23 +4607,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11301317,
-		"name": "Francis, Thapelo",
-		"country": "BOT",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "wi",
-		"rating_standard": 1755,
-		"rating_rapid": 1846,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11316233,
 		"name": "Thapelo Tsebetsame",
 		"country": "BOT",
@@ -4675,6 +4675,23 @@
 		"rating_blitz": 1714
 	},
 	{
+		"fideid": 11310090,
+		"name": "Masaiti, Gideon",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1753,
+		"rating_rapid": 1783,
+		"rating_blitz": 1850
+	},
+	{
 		"fideid": 11318023,
 		"name": "Sepotlo Oarabile",
 		"country": "BOT",
@@ -4709,40 +4726,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11310090,
-		"name": "Masaiti, Gideon",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1752,
-		"rating_rapid": 1783,
-		"rating_blitz": 1850
-	},
-	{
-		"fideid": 11317981,
-		"name": "Munyere Musa",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": 1752,
-		"rating_rapid": 1712,
-		"rating_blitz": 1740
-	},
-	{
 		"fideid": 11316772,
 		"name": "Toteng Lesedi",
 		"country": "BOT",
@@ -4758,6 +4741,23 @@
 		"rating_standard": 1751,
 		"rating_rapid": 1743,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11317981,
+		"name": "Munyere Musa",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": 1750,
+		"rating_rapid": 1710,
+		"rating_blitz": 1738
 	},
 	{
 		"fideid": 11301341,
@@ -5096,8 +5096,8 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1738,
-		"rating_rapid": 1728,
-		"rating_blitz": 1711
+		"rating_rapid": 1729,
+		"rating_blitz": 1712
 	},
 	{
 		"fideid": 11315741,
@@ -5168,23 +5168,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11326379,
-		"name": "Lefutswe Rubie Walter",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": 1733,
-		"rating_rapid": null,
-		"rating_blitz": 1611
-	},
-	{
 		"fideid": 11312629,
 		"name": "Sokisi Kgato",
 		"country": "BOT",
@@ -5251,6 +5234,23 @@
 		"rating_standard": 1732,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11326379,
+		"name": "Lefutswe Rubie Walter",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": 1732,
+		"rating_rapid": null,
+		"rating_blitz": 1611
 	},
 	{
 		"fideid": 11309040,
@@ -5368,8 +5368,25 @@
 		"birthday": 2007,
 		"flag": "w",
 		"rating_standard": 1729,
-		"rating_rapid": 1612,
+		"rating_rapid": 1614,
 		"rating_blitz": 1695
+	},
+	{
+		"fideid": 11300248,
+		"name": "Sabure, Tuduetso",
+		"country": "BOT",
+		"sex": "F",
+		"title": "WGM",
+		"w_title": "WGM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "wi",
+		"rating_standard": 1728,
+		"rating_rapid": 1899,
+		"rating_blitz": 1924
 	},
 	{
 		"fideid": 11322314,
@@ -5423,21 +5440,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11300248,
-		"name": "Sabure, Tuduetso",
+		"fideid": 11313420,
+		"name": "Motheo Pheto",
 		"country": "BOT",
-		"sex": "F",
-		"title": "WGM",
-		"w_title": "WGM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1982,
-		"flag": "wi",
+		"birthday": 2004,
+		"flag": "",
 		"rating_standard": 1727,
-		"rating_rapid": 1899,
-		"rating_blitz": 1924
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11324384,
@@ -5484,23 +5501,6 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1726,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11313420,
-		"name": "Motheo Pheto",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1726,
@@ -5644,23 +5644,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11320982,
-		"name": "Nalamalpu Eesha Reddy",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1719,
-		"rating_rapid": 1504,
-		"rating_blitz": 1639
-	},
-	{
 		"fideid": 11329084,
 		"name": "Mbasa Matlhogonolo",
 		"country": "BOT",
@@ -5676,6 +5659,23 @@
 		"rating_standard": 1717,
 		"rating_rapid": null,
 		"rating_blitz": 1742
+	},
+	{
+		"fideid": 11320982,
+		"name": "Nalamalpu Eesha Reddy",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1717,
+		"rating_rapid": 1504,
+		"rating_blitz": 1639
 	},
 	{
 		"fideid": 11310812,
@@ -5763,23 +5763,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11320591,
-		"name": "Katlo Gaeete",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": 1713,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11303905,
 		"name": "Malebogo, Keleapere",
 		"country": "BOT",
@@ -5810,6 +5793,23 @@
 		"birthday": 2001,
 		"flag": "i",
 		"rating_standard": 1713,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11320591,
+		"name": "Katlo Gaeete",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": 1712,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5933,23 +5933,6 @@
 		"rating_blitz": 1710
 	},
 	{
-		"fideid": 11314699,
-		"name": "Moshoboro, Laone Phoebe",
-		"country": "BOT",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1708,
-		"rating_rapid": 1562,
-		"rating_blitz": 1659
-	},
-	{
 		"fideid": 11300477,
 		"name": "Mbakhwa, Faith",
 		"country": "BOT",
@@ -5982,6 +5965,23 @@
 		"rating_standard": 1707,
 		"rating_rapid": 1747,
 		"rating_blitz": 1758
+	},
+	{
+		"fideid": 11314699,
+		"name": "Moshoboro, Laone Phoebe",
+		"country": "BOT",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1707,
+		"rating_rapid": 1564,
+		"rating_blitz": 1659
 	},
 	{
 		"fideid": 11324090,
@@ -6290,6 +6290,23 @@
 		"rating_blitz": 1759
 	},
 	{
+		"fideid": 11317469,
+		"name": "Ofile Masilo",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1636,
+		"rating_blitz": 1772
+	},
+	{
 		"fideid": 11324554,
 		"name": "Kutlo Ditlhong",
 		"country": "BOT",
@@ -6305,23 +6322,6 @@
 		"rating_standard": 1694,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11317469,
-		"name": "Ofile Masilo",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1694,
-		"rating_rapid": 1636,
-		"rating_blitz": 1772
 	},
 	{
 		"fideid": 11323019,
@@ -6392,23 +6392,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11327537,
-		"name": "Maphepa Adrian",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1693,
-		"rating_rapid": null,
-		"rating_blitz": 1708
-	},
-	{
 		"fideid": 11301872,
 		"name": "Pule, Rametse",
 		"country": "BOT",
@@ -6443,6 +6426,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11327537,
+		"name": "Maphepa Adrian",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1692,
+		"rating_rapid": null,
+		"rating_blitz": 1708
+	},
+	{
 		"fideid": 11306386,
 		"name": "Phakedi, Mmusi",
 		"country": "BOT",
@@ -6456,23 +6456,6 @@
 		"birthday": "",
 		"flag": "i",
 		"rating_standard": 1692,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11325844,
-		"name": "Mhibitswane Koketso",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "i",
-		"rating_standard": 1691,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -6492,6 +6475,23 @@
 		"rating_standard": 1691,
 		"rating_rapid": null,
 		"rating_blitz": 1645
+	},
+	{
+		"fideid": 11325844,
+		"name": "Mhibitswane Koketso",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "i",
+		"rating_standard": 1690,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11303395,
@@ -6783,6 +6783,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11317523,
+		"name": "Lefatshe Diane",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": 1681,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11317396,
 		"name": "Mokotedi Phenyo",
 		"country": "BOT",
@@ -6849,23 +6866,6 @@
 		"rating_standard": 1680,
 		"rating_rapid": 1662,
 		"rating_blitz": 1669
-	},
-	{
-		"fideid": 11325674,
-		"name": "Mompati Dintle",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": 1680,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11309393,
@@ -6936,23 +6936,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11317523,
-		"name": "Lefatshe Diane",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": 1679,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11318953,
 		"name": "Oabile Romeo",
 		"country": "BOT",
@@ -6970,6 +6953,23 @@
 		"rating_blitz": 1630
 	},
 	{
+		"fideid": 11325674,
+		"name": "Mompati Dintle",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": 1678,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11325909,
 		"name": "Mothibakgomo Tefo",
 		"country": "BOT",
@@ -6983,23 +6983,6 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1678,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11326280,
-		"name": "Kehakgametse Atsile",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "i",
-		"rating_standard": 1677,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7050,6 +7033,23 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
+		"rating_standard": 1676,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11326280,
+		"name": "Kehakgametse Atsile",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "i",
 		"rating_standard": 1676,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7120,7 +7120,7 @@
 		"flag": "",
 		"rating_standard": 1674,
 		"rating_rapid": null,
-		"rating_blitz": 1673
+		"rating_blitz": 1672
 	},
 	{
 		"fideid": 11318040,
@@ -7204,7 +7204,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1671,
-		"rating_rapid": 1569,
+		"rating_rapid": 1570,
 		"rating_blitz": 1737
 	},
 	{
@@ -7696,7 +7696,7 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1654,
+		"rating_standard": 1655,
 		"rating_rapid": null,
 		"rating_blitz": 1524
 	},
@@ -7715,23 +7715,6 @@
 		"flag": "i",
 		"rating_standard": 1654,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11315580,
-		"name": "Bartlett Ezra",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1653,
-		"rating_rapid": 1599,
 		"rating_blitz": null
 	},
 	{
@@ -7783,6 +7766,23 @@
 		"flag": "i",
 		"rating_standard": 1652,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11315580,
+		"name": "Bartlett Ezra",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1651,
+		"rating_rapid": 1599,
 		"rating_blitz": null
 	},
 	{
@@ -8245,23 +8245,6 @@
 		"rating_blitz": 1649
 	},
 	{
-		"fideid": 11322551,
-		"name": "Wame Setombeko",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": 1637,
-		"rating_rapid": 1577,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11312971,
 		"name": "Badisang Loago",
 		"country": "BOT",
@@ -8313,6 +8296,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11322551,
+		"name": "Wame Setombeko",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "i",
+		"rating_standard": 1635,
+		"rating_rapid": 1575,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11328002,
 		"name": "Goitseone Moses Onalethata",
 		"country": "BOT",
@@ -8327,23 +8327,6 @@
 		"flag": "i",
 		"rating_standard": 1633,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11316225,
-		"name": "Tefo Gaolebe",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": 1633,
-		"rating_rapid": 1675,
 		"rating_blitz": null
 	},
 	{
@@ -8500,6 +8483,23 @@
 		"rating_blitz": 1716
 	},
 	{
+		"fideid": 11316225,
+		"name": "Tefo Gaolebe",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": 1627,
+		"rating_rapid": 1675,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11315113,
 		"name": "Balozwi Magdeline",
 		"country": "BOT",
@@ -8512,6 +8512,23 @@
 		"k": 40,
 		"birthday": 2002,
 		"flag": "wi",
+		"rating_standard": 1626,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11327154,
+		"name": "Dioka Tepo",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "i",
 		"rating_standard": 1626,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -8547,23 +8564,6 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1626,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11327154,
-		"name": "Dioka Tepo",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": 1625,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -8653,23 +8653,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11321415,
-		"name": "Mpho Nchini",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1620,
-		"rating_rapid": 1591,
-		"rating_blitz": 1575
-	},
-	{
 		"fideid": 11329777,
 		"name": "Nkaelang Aniel",
 		"country": "BOT",
@@ -8738,6 +8721,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11312742,
+		"name": "Bonno Thandi",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "w",
+		"rating_standard": 1615,
+		"rating_rapid": 1573,
+		"rating_blitz": 1552
+	},
+	{
 		"fideid": 11312637,
 		"name": "Dusani Segolame",
 		"country": "BOT",
@@ -8772,23 +8772,6 @@
 		"rating_blitz": 1595
 	},
 	{
-		"fideid": 11312742,
-		"name": "Bonno Thandi",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "w",
-		"rating_standard": 1614,
-		"rating_rapid": 1572,
-		"rating_blitz": 1551
-	},
-	{
 		"fideid": 11329327,
 		"name": "Samuel Lini",
 		"country": "BOT",
@@ -8804,6 +8787,23 @@
 		"rating_standard": 1614,
 		"rating_rapid": null,
 		"rating_blitz": 1569
+	},
+	{
+		"fideid": 11321415,
+		"name": "Mpho Nchini",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1612,
+		"rating_rapid": 1591,
+		"rating_blitz": 1575
 	},
 	{
 		"fideid": 11329416,
@@ -8908,6 +8908,23 @@
 		"rating_blitz": 1630
 	},
 	{
+		"fideid": 11301597,
+		"name": "Radikoro, Boitumelo",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "w",
+		"rating_standard": 1607,
+		"rating_rapid": 1715,
+		"rating_blitz": 1789
+	},
+	{
 		"fideid": 11324694,
 		"name": "Semumu Tao",
 		"country": "BOT",
@@ -8923,23 +8940,6 @@
 		"rating_standard": 1607,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11301597,
-		"name": "Radikoro, Boitumelo",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "w",
-		"rating_standard": 1606,
-		"rating_rapid": 1715,
-		"rating_blitz": 1789
 	},
 	{
 		"fideid": 11314273,
@@ -8972,23 +8972,6 @@
 		"birthday": 2002,
 		"flag": "i",
 		"rating_standard": 1605,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11313170,
-		"name": "Pitlagano Junior Tefo",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": 1603,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -9055,6 +9038,23 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1998,
+		"flag": "i",
+		"rating_standard": 1602,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11313170,
+		"name": "Pitlagano Junior Tefo",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": 1602,
 		"rating_rapid": null,
@@ -9142,7 +9142,7 @@
 		"birthday": 2009,
 		"flag": "i",
 		"rating_standard": 1599,
-		"rating_rapid": 1578,
+		"rating_rapid": 1579,
 		"rating_blitz": null
 	},
 	{
@@ -9180,23 +9180,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11326000,
-		"name": "Shomane Ernest",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "i",
-		"rating_standard": 1597,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11315946,
 		"name": "Lekoko Rorisang",
 		"country": "BOT",
@@ -9209,9 +9192,26 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "wi",
-		"rating_standard": 1593,
-		"rating_rapid": 1597,
-		"rating_blitz": 1604
+		"rating_standard": 1595,
+		"rating_rapid": 1598,
+		"rating_blitz": 1606
+	},
+	{
+		"fideid": 11326000,
+		"name": "Shomane Ernest",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "i",
+		"rating_standard": 1595,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11316403,
@@ -9228,7 +9228,7 @@
 		"flag": "",
 		"rating_standard": 1592,
 		"rating_rapid": 1752,
-		"rating_blitz": 1735
+		"rating_blitz": 1736
 	},
 	{
 		"fideid": 11321245,
@@ -9261,6 +9261,23 @@
 		"birthday": 2003,
 		"flag": "i",
 		"rating_standard": 1591,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11330872,
+		"name": "Mfaladi Tyrone",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1590,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -9384,23 +9401,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11330872,
-		"name": "Mfaladi Tyrone",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1583,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11329254,
 		"name": "Tshepo Tshepo",
 		"country": "BOT",
@@ -9413,7 +9413,7 @@
 		"k": 40,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 1583,
+		"rating_standard": 1584,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -9499,7 +9499,7 @@
 		"birthday": 2001,
 		"flag": "w",
 		"rating_standard": 1578,
-		"rating_rapid": 1530,
+		"rating_rapid": 1529,
 		"rating_blitz": 1575
 	},
 	{
@@ -9758,23 +9758,6 @@
 		"rating_blitz": 1553
 	},
 	{
-		"fideid": 11327588,
-		"name": "Thatayamodimo Keireng",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1568,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11306866,
 		"name": "Motlhware, Tshepang",
 		"country": "BOT",
@@ -9804,7 +9787,24 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1565,
+		"rating_standard": 1567,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11327588,
+		"name": "Thatayamodimo Keireng",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1566,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -9860,23 +9860,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11319739,
-		"name": "Gorata Mere",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "w",
-		"rating_standard": 1560,
-		"rating_rapid": 1543,
-		"rating_blitz": 1517
-	},
-	{
 		"fideid": 11318406,
 		"name": "Mbusi Bonolo",
 		"country": "BOT",
@@ -9892,6 +9875,23 @@
 		"rating_standard": 1560,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11319739,
+		"name": "Gorata Mere",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "w",
+		"rating_standard": 1559,
+		"rating_rapid": 1543,
+		"rating_blitz": 1517
 	},
 	{
 		"fideid": 11325542,
@@ -10013,23 +10013,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11316268,
-		"name": "Moseki Karabo",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "wi",
-		"rating_standard": 1549,
-		"rating_rapid": 1567,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11318112,
 		"name": "Mpho Ramolefhe",
 		"country": "BOT",
@@ -10061,6 +10044,23 @@
 		"flag": "i",
 		"rating_standard": 1549,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11316268,
+		"name": "Moseki Karabo",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "wi",
+		"rating_standard": 1548,
+		"rating_rapid": 1567,
 		"rating_blitz": null
 	},
 	{
@@ -10115,23 +10115,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11325232,
-		"name": "Mohanakrishnan Madhav",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1546,
-		"rating_rapid": null,
-		"rating_blitz": 1436
-	},
-	{
 		"fideid": 11322373,
 		"name": "Molale Willy Larona",
 		"country": "BOT",
@@ -10147,6 +10130,23 @@
 		"rating_standard": 1546,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11325232,
+		"name": "Mohanakrishnan Madhav",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1545,
+		"rating_rapid": null,
+		"rating_blitz": 1436
 	},
 	{
 		"fideid": 11317779,
@@ -10302,23 +10302,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11324104,
-		"name": "Serati Pako",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": 1538,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11302844,
 		"name": "Mam, Abha",
 		"country": "BOT",
@@ -10336,6 +10319,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11324104,
+		"name": "Serati Pako",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": 1537,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11329068,
 		"name": "Shaikh Azhan",
 		"country": "BOT",
@@ -10348,26 +10348,9 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1535,
+		"rating_standard": 1536,
 		"rating_rapid": null,
 		"rating_blitz": 1483
-	},
-	{
-		"fideid": 11313129,
-		"name": "Bonno Nthale",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "wi",
-		"rating_standard": 1534,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11321784,
@@ -10455,21 +10438,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11311967,
-		"name": "Manikonda Naga Sai Hasitha",
+		"fideid": 11324244,
+		"name": "Kagiso Aobakwe",
 		"country": "BOT",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "w",
+		"flag": "",
 		"rating_standard": 1531,
-		"rating_rapid": 1444,
-		"rating_blitz": null
+		"rating_rapid": null,
+		"rating_blitz": 1579
 	},
 	{
 		"fideid": 11322462,
@@ -10489,23 +10472,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11324244,
-		"name": "Kagiso Aobakwe",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1530,
-		"rating_rapid": null,
-		"rating_blitz": 1579
-	},
-	{
 		"fideid": 11327502,
 		"name": "Kefitile Philemon",
 		"country": "BOT",
@@ -10520,7 +10486,58 @@
 		"flag": "",
 		"rating_standard": 1530,
 		"rating_rapid": null,
-		"rating_blitz": 1496
+		"rating_blitz": 1497
+	},
+	{
+		"fideid": 11322667,
+		"name": "Khumo Tholo",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1530,
+		"rating_rapid": 1507,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11313129,
+		"name": "Bonno Nthale",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "wi",
+		"rating_standard": 1529,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11311967,
+		"name": "Manikonda Naga Sai Hasitha",
+		"country": "BOT",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1529,
+		"rating_rapid": 1444,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11321130,
@@ -10571,24 +10588,7 @@
 		"flag": "",
 		"rating_standard": 1528,
 		"rating_rapid": 1554,
-		"rating_blitz": 1606
-	},
-	{
-		"fideid": 11322667,
-		"name": "Khumo Tholo",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1527,
-		"rating_rapid": 1503,
-		"rating_blitz": null
+		"rating_blitz": 1607
 	},
 	{
 		"fideid": 11305770,
@@ -10723,7 +10723,7 @@
 		"birthday": 2001,
 		"flag": "wi",
 		"rating_standard": 1519,
-		"rating_rapid": 1506,
+		"rating_rapid": 1507,
 		"rating_blitz": null
 	},
 	{
@@ -10910,8 +10910,25 @@
 		"birthday": 2003,
 		"flag": "w",
 		"rating_standard": 1508,
-		"rating_rapid": 1503,
+		"rating_rapid": 1502,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11326557,
+		"name": "Wu Zeyin",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1508,
+		"rating_rapid": null,
+		"rating_blitz": 1471
 	},
 	{
 		"fideid": 11313927,
@@ -10931,21 +10948,21 @@
 		"rating_blitz": 1551
 	},
 	{
-		"fideid": 11326557,
-		"name": "Wu Zeyin",
+		"fideid": 11315750,
+		"name": "Aone Morei",
 		"country": "BOT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1507,
-		"rating_rapid": null,
-		"rating_blitz": 1471
+		"rating_standard": 1503,
+		"rating_rapid": 1518,
+		"rating_blitz": 1509
 	},
 	{
 		"fideid": 11325852,
@@ -10960,6 +10977,23 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "i",
+		"rating_standard": 1503,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11327413,
+		"name": "Otimile Moriah Baamogetse",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
 		"rating_standard": 1503,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10999,40 +11033,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11315750,
-		"name": "Aone Morei",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1502,
-		"rating_rapid": 1518,
-		"rating_blitz": 1508
-	},
-	{
-		"fideid": 11327413,
-		"name": "Otimile Moriah Baamogetse",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1502,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11322586,
 		"name": "Kaone Kekgathetse",
 		"country": "BOT",
@@ -11045,7 +11045,7 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "w",
-		"rating_standard": 1500,
+		"rating_standard": 1501,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11220,40 +11220,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11325887,
-		"name": "Moleofi Nathan",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": 1490,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11326778,
-		"name": "Nalamalpu Saishanvi Reddy",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "w",
-		"rating_standard": 1490,
-		"rating_rapid": null,
-		"rating_blitz": 1434
-	},
-	{
 		"fideid": 11317442,
 		"name": "John Oratile Petronel",
 		"country": "BOT",
@@ -11266,23 +11232,6 @@
 		"k": 20,
 		"birthday": 1998,
 		"flag": "wi",
-		"rating_standard": 1488,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11315083,
-		"name": "Mhate Junior Theo",
-		"country": "BOT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
 		"rating_standard": 1488,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11305,6 +11254,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11325887,
+		"name": "Moleofi Nathan",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": 1487,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11309075,
 		"name": "Thrivikraman, Madhavan",
 		"country": "BOT",
@@ -11319,6 +11285,23 @@
 		"flag": "i",
 		"rating_standard": 1486,
 		"rating_rapid": 1488,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11315083,
+		"name": "Mhate Junior Theo",
+		"country": "BOT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1485,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -11424,6 +11407,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11317655,
+		"name": "Ramakele Sthembiso",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "wi",
+		"rating_standard": 1481,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11323124,
 		"name": "Tinovada Magondo",
 		"country": "BOT",
@@ -11437,23 +11437,6 @@
 		"birthday": 2010,
 		"flag": "i",
 		"rating_standard": 1481,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11317655,
-		"name": "Ramakele Sthembiso",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "wi",
-		"rating_standard": 1480,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11488,8 +11471,8 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1477,
-		"rating_rapid": 1543,
-		"rating_blitz": 1519
+		"rating_rapid": 1544,
+		"rating_blitz": 1520
 	},
 	{
 		"fideid": 11326972,
@@ -11577,6 +11560,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11326778,
+		"name": "Nalamalpu Saishanvi Reddy",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": 1466,
+		"rating_rapid": null,
+		"rating_blitz": 1435
+	},
+	{
 		"fideid": 11318228,
 		"name": "Kgano Othusitse",
 		"country": "BOT",
@@ -11623,7 +11623,7 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "wi",
-		"rating_standard": 1459,
+		"rating_standard": 1460,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11692,7 +11692,7 @@
 		"birthday": 2001,
 		"flag": "w",
 		"rating_standard": 1452,
-		"rating_rapid": 1462,
+		"rating_rapid": 1463,
 		"rating_blitz": null
 	},
 	{
@@ -11759,7 +11759,7 @@
 		"k": 40,
 		"birthday": 2004,
 		"flag": "w",
-		"rating_standard": 1445,
+		"rating_standard": 1446,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11776,8 +11776,8 @@
 		"k": 20,
 		"birthday": 2002,
 		"flag": "w",
-		"rating_standard": 1442,
-		"rating_rapid": 1484,
+		"rating_standard": 1443,
+		"rating_rapid": 1485,
 		"rating_blitz": null
 	},
 	{
@@ -11793,7 +11793,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "wi",
-		"rating_standard": 1441,
+		"rating_standard": 1443,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11929,7 +11929,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1436,
+		"rating_standard": 1435,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -12070,6 +12070,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11328282,
+		"name": "Gaothuse Judith Amogelang",
+		"country": "BOT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1414,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11329319,
 		"name": "Sebele Dimpho",
 		"country": "BOT",
@@ -12083,23 +12100,6 @@
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 1414,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11328282,
-		"name": "Gaothuse Judith Amogelang",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1413,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -12133,7 +12133,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1406,
+		"rating_standard": 1407,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -12151,23 +12151,6 @@
 		"birthday": 2003,
 		"flag": "wi",
 		"rating_standard": 1404,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11325593,
-		"name": "Direng Girlie",
-		"country": "BOT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "w",
-		"rating_standard": 1403,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -12304,7 +12287,7 @@
 		"birthday": 1989,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1875,
+		"rating_rapid": 1876,
 		"rating_blitz": null
 	},
 	{
@@ -12747,7 +12730,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1608
+		"rating_blitz": 1609
 	},
 	{
 		"fideid": 11329629,
@@ -12985,7 +12968,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1679
+		"rating_blitz": 1680
 	},
 	{
 		"fideid": 11330236,

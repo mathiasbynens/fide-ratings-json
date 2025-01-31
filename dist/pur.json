@@ -267,7 +267,7 @@
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
-		"rating_standard": 2163,
+		"rating_standard": 2162,
 		"rating_rapid": 2136,
 		"rating_blitz": 2101
 	},
@@ -607,7 +607,7 @@
 		"k": 20,
 		"birthday": 1997,
 		"flag": "",
-		"rating_standard": 2058,
+		"rating_standard": 2057,
 		"rating_rapid": 1967,
 		"rating_blitz": 1967
 	},
@@ -692,9 +692,9 @@
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 2044,
+		"rating_standard": 2045,
 		"rating_rapid": 2000,
-		"rating_blitz": 1942
+		"rating_blitz": 1941
 	},
 	{
 		"fideid": 3100715,
@@ -748,23 +748,6 @@
 		"rating_blitz": 2038
 	},
 	{
-		"fideid": 3100898,
-		"name": "Rodriguez Santiago, Jaime",
-		"country": "PUR",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 2026,
-		"rating_rapid": 2044,
-		"rating_blitz": 2020
-	},
-	{
 		"fideid": 3102378,
 		"name": "Davila Blanco, Juan Jose",
 		"country": "PUR",
@@ -780,6 +763,23 @@
 		"rating_standard": 2025,
 		"rating_rapid": 1955,
 		"rating_blitz": 1955
+	},
+	{
+		"fideid": 3100898,
+		"name": "Rodriguez Santiago, Jaime",
+		"country": "PUR",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 2025,
+		"rating_rapid": 2044,
+		"rating_blitz": 2020
 	},
 	{
 		"fideid": 3105873,
@@ -845,7 +845,7 @@
 		"k": 20,
 		"birthday": 1969,
 		"flag": "",
-		"rating_standard": 2020,
+		"rating_standard": 2019,
 		"rating_rapid": 1963,
 		"rating_blitz": null
 	},
@@ -2006,23 +2006,6 @@
 		"rating_blitz": 1920
 	},
 	{
-		"fideid": 3100642,
-		"name": "Gonzalez Gonzalez, Enoel",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1882,
-		"rating_rapid": 1890,
-		"rating_blitz": 1908
-	},
-	{
 		"fideid": 3102718,
 		"name": "Torres Medina, Christian",
 		"country": "PUR",
@@ -2055,6 +2038,23 @@
 		"rating_standard": 1881,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3100642,
+		"name": "Gonzalez Gonzalez, Enoel",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1881,
+		"rating_rapid": 1890,
+		"rating_blitz": 1908
 	},
 	{
 		"fideid": 3102050,
@@ -2240,7 +2240,7 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1868,
-		"rating_rapid": 1803,
+		"rating_rapid": 1802,
 		"rating_blitz": 1778
 	},
 	{
@@ -2460,7 +2460,7 @@
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1854,
+		"rating_standard": 1855,
 		"rating_rapid": 1729,
 		"rating_blitz": 1655
 	},
@@ -3587,6 +3587,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3100294,
+		"name": "Shaffer, Alexander",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1786,
+		"rating_rapid": 1840,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3108341,
 		"name": "Santiago Negron, Michael A.",
 		"country": "PUR",
@@ -3602,23 +3619,6 @@
 		"rating_standard": 1785,
 		"rating_rapid": null,
 		"rating_blitz": 1591
-	},
-	{
-		"fideid": 3100294,
-		"name": "Shaffer, Alexander",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "",
-		"rating_standard": 1785,
-		"rating_rapid": 1840,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 3102289,
@@ -4228,9 +4228,26 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1756,
-		"rating_rapid": 1766,
+		"rating_standard": 1757,
+		"rating_rapid": 1765,
 		"rating_blitz": 1804
+	},
+	{
+		"fideid": 3109453,
+		"name": "Deliz Lopez, Adan G.",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1755,
+		"rating_rapid": 1658,
+		"rating_blitz": 1760
 	},
 	{
 		"fideid": 3102149,
@@ -4248,23 +4265,6 @@
 		"rating_standard": 1755,
 		"rating_rapid": null,
 		"rating_blitz": 1751
-	},
-	{
-		"fideid": 3109453,
-		"name": "Deliz Lopez, Adan G.",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1754,
-		"rating_rapid": 1658,
-		"rating_blitz": 1760
 	},
 	{
 		"fideid": 3110117,
@@ -4556,6 +4556,23 @@
 		"rating_blitz": 1835
 	},
 	{
+		"fideid": 3112357,
+		"name": "Patel, Dhyaan",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1744,
+		"rating_rapid": 1582,
+		"rating_blitz": 1463
+	},
+	{
 		"fideid": 3110028,
 		"name": "Figueroa Serrano, Kevin",
 		"country": "PUR",
@@ -4571,23 +4588,6 @@
 		"rating_standard": 1742,
 		"rating_rapid": 1764,
 		"rating_blitz": 1741
-	},
-	{
-		"fideid": 3112357,
-		"name": "Patel, Dhyaan",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1742,
-		"rating_rapid": 1581,
-		"rating_blitz": 1463
 	},
 	{
 		"fideid": 3109810,
@@ -4841,7 +4841,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1722,
-		"rating_rapid": 1553,
+		"rating_rapid": 1552,
 		"rating_blitz": null
 	},
 	{
@@ -4879,6 +4879,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3111180,
+		"name": "Pacheco Daniels, Alexander",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": 1721,
+		"rating_rapid": 1793,
+		"rating_blitz": 1803
+	},
+	{
 		"fideid": 3105644,
 		"name": "Corbo Gonzalez, Ruben R.",
 		"country": "PUR",
@@ -4911,23 +4928,6 @@
 		"rating_standard": 1720,
 		"rating_rapid": 1707,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3111180,
-		"name": "Pacheco Daniels, Alexander",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": 1720,
-		"rating_rapid": 1793,
-		"rating_blitz": 1803
 	},
 	{
 		"fideid": 3106810,
@@ -5248,7 +5248,7 @@
 		"k": 20,
 		"birthday": 2002,
 		"flag": "w",
-		"rating_standard": 1698,
+		"rating_standard": 1697,
 		"rating_rapid": 1733,
 		"rating_blitz": 1780
 	},
@@ -5265,8 +5265,8 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1695,
-		"rating_rapid": 1634,
+		"rating_standard": 1696,
+		"rating_rapid": 1633,
 		"rating_blitz": 1708
 	},
 	{
@@ -5418,7 +5418,7 @@
 		"k": 20,
 		"birthday": 1954,
 		"flag": "",
-		"rating_standard": 1681,
+		"rating_standard": 1682,
 		"rating_rapid": 1747,
 		"rating_blitz": 1752
 	},
@@ -5627,23 +5627,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3104923,
-		"name": "Ortiz Colon, Vladimir S.",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1655,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3107787,
 		"name": "Soto Roman, Luis A.",
 		"country": "PUR",
@@ -5659,6 +5642,23 @@
 		"rating_standard": 1655,
 		"rating_rapid": 1689,
 		"rating_blitz": 1587
+	},
+	{
+		"fideid": 3104923,
+		"name": "Ortiz Colon, Vladimir S.",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1654,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3109143,
@@ -5695,6 +5695,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3104567,
+		"name": "Alvarez Tapia, Wilfredo",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1953,
+		"flag": "",
+		"rating_standard": 1651,
+		"rating_rapid": 1663,
+		"rating_blitz": 1751
+	},
+	{
 		"fideid": 3101916,
 		"name": "Davila Nieves, Guillermo",
 		"country": "PUR",
@@ -5729,23 +5746,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3104567,
-		"name": "Alvarez Tapia, Wilfredo",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1953,
-		"flag": "",
-		"rating_standard": 1650,
-		"rating_rapid": 1663,
-		"rating_blitz": 1751
-	},
-	{
 		"fideid": 3108791,
 		"name": "Chevere Duperoy, Roberto",
 		"country": "PUR",
@@ -5760,7 +5760,7 @@
 		"flag": "i",
 		"rating_standard": 1650,
 		"rating_rapid": 1703,
-		"rating_blitz": 1752
+		"rating_blitz": 1751
 	},
 	{
 		"fideid": 3112802,
@@ -6171,6 +6171,23 @@
 		"rating_blitz": 1651
 	},
 	{
+		"fideid": 3112470,
+		"name": "Patel, Yash",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1631,
+		"rating_rapid": 1576,
+		"rating_blitz": 1576
+	},
+	{
 		"fideid": 3114392,
 		"name": "Infante Pacas, Salvador A.",
 		"country": "PUR",
@@ -6186,23 +6203,6 @@
 		"rating_standard": 1628,
 		"rating_rapid": 1592,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3112470,
-		"name": "Patel, Yash",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1628,
-		"rating_rapid": 1576,
-		"rating_blitz": 1576
 	},
 	{
 		"fideid": 3104001,
@@ -6574,9 +6574,9 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1606,
+		"rating_standard": 1607,
 		"rating_rapid": 1513,
-		"rating_blitz": 1577
+		"rating_blitz": 1576
 	},
 	{
 		"fideid": 3112560,
@@ -6610,7 +6610,7 @@
 		"flag": "",
 		"rating_standard": 1605,
 		"rating_rapid": 1593,
-		"rating_blitz": 1595
+		"rating_blitz": 1596
 	},
 	{
 		"fideid": 3107795,
@@ -6698,23 +6698,6 @@
 		"rating_blitz": 1564
 	},
 	{
-		"fideid": 3112110,
-		"name": "Rodriguez Rodriguez, Ian G.",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1591,
-		"rating_rapid": 1546,
-		"rating_blitz": 1494
-	},
-	{
 		"fideid": 3110060,
 		"name": "Ortiz Rodriguez, Christian",
 		"country": "PUR",
@@ -6730,6 +6713,23 @@
 		"rating_standard": 1590,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3112110,
+		"name": "Rodriguez Rodriguez, Ian G.",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1590,
+		"rating_rapid": 1546,
+		"rating_blitz": 1493
 	},
 	{
 		"fideid": 3111733,
@@ -6761,7 +6761,7 @@
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
-		"rating_standard": 1588,
+		"rating_standard": 1587,
 		"rating_rapid": 1649,
 		"rating_blitz": null
 	},
@@ -6795,7 +6795,7 @@
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1585,
+		"rating_standard": 1586,
 		"rating_rapid": 1513,
 		"rating_blitz": 1605
 	},
@@ -6919,23 +6919,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3112080,
-		"name": "Rivera Lopez, Joe",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1997,
-		"flag": "i",
-		"rating_standard": 1567,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3112586,
 		"name": "Ortiz Lespier, Jaime",
 		"country": "PUR",
@@ -6949,8 +6932,25 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1566,
-		"rating_rapid": 1493,
+		"rating_rapid": 1492,
 		"rating_blitz": 1532
+	},
+	{
+		"fideid": 3112080,
+		"name": "Rivera Lopez, Joe",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "i",
+		"rating_standard": 1566,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3105814,
@@ -7000,7 +7000,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1561,
-		"rating_rapid": 1512,
+		"rating_rapid": 1513,
 		"rating_blitz": 1510
 	},
 	{
@@ -7016,7 +7016,7 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 1558,
+		"rating_standard": 1557,
 		"rating_rapid": 1683,
 		"rating_blitz": 1506
 	},
@@ -7035,7 +7035,7 @@
 		"flag": "",
 		"rating_standard": 1556,
 		"rating_rapid": 1570,
-		"rating_blitz": 1756
+		"rating_blitz": 1755
 	},
 	{
 		"fideid": 3113477,
@@ -7170,7 +7170,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1543,
-		"rating_rapid": 1545,
+		"rating_rapid": 1546,
 		"rating_blitz": 1486
 	},
 	{
@@ -7220,8 +7220,8 @@
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
-		"rating_standard": 1539,
-		"rating_rapid": 1597,
+		"rating_standard": 1540,
+		"rating_rapid": 1596,
 		"rating_blitz": 1620
 	},
 	{
@@ -7237,7 +7237,7 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1537,
+		"rating_standard": 1538,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7293,6 +7293,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3106756,
+		"name": "Rosich Lopez, Walter",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1526,
+		"rating_rapid": 1540,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3111644,
 		"name": "Velez Vazquez, Jerry",
 		"country": "PUR",
@@ -7307,23 +7324,6 @@
 		"flag": "",
 		"rating_standard": 1526,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3106756,
-		"name": "Rosich Lopez, Walter",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1525,
-		"rating_rapid": 1540,
 		"rating_blitz": null
 	},
 	{
@@ -7344,6 +7344,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3109852,
+		"name": "Aponte Torres, Diego J.",
+		"country": "PUR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1522,
+		"rating_rapid": 1518,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3107310,
 		"name": "Negron Martinez, Daianne L.",
 		"country": "PUR",
@@ -7358,23 +7375,6 @@
 		"flag": "wi",
 		"rating_standard": 1522,
 		"rating_rapid": 1498,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3109852,
-		"name": "Aponte Torres, Diego J.",
-		"country": "PUR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1521,
-		"rating_rapid": 1518,
 		"rating_blitz": null
 	},
 	{
@@ -7407,7 +7407,7 @@
 		"k": 40,
 		"birthday": 1981,
 		"flag": "",
-		"rating_standard": 1514,
+		"rating_standard": 1516,
 		"rating_rapid": 1588,
 		"rating_blitz": 1542
 	},
@@ -7475,7 +7475,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1496,
+		"rating_standard": 1497,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7526,9 +7526,26 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1475,
+		"rating_standard": 1477,
 		"rating_rapid": 1445,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3114368,
+		"name": "Estrada Nieves, Chloe A.",
+		"country": "PUR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1476,
+		"rating_rapid": 1462,
+		"rating_blitz": 1468
 	},
 	{
 		"fideid": 3111660,
@@ -7560,7 +7577,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1466,
+		"rating_standard": 1467,
 		"rating_rapid": 1481,
 		"rating_blitz": null
 	},
@@ -7579,24 +7596,7 @@
 		"flag": "w",
 		"rating_standard": 1462,
 		"rating_rapid": 1512,
-		"rating_blitz": 1490
-	},
-	{
-		"fideid": 3114368,
-		"name": "Estrada Nieves, Chloe A.",
-		"country": "PUR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1460,
-		"rating_rapid": 1446,
-		"rating_blitz": 1453
+		"rating_blitz": 1489
 	},
 	{
 		"fideid": 3106675,
@@ -7628,7 +7628,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1451,
+		"rating_standard": 1453,
 		"rating_rapid": 1450,
 		"rating_blitz": 1442
 	},
@@ -7684,23 +7684,6 @@
 		"rating_blitz": 1452
 	},
 	{
-		"fideid": 3113019,
-		"name": "Gonzalez Torres, Lexayra I.",
-		"country": "PUR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1436,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3107760,
 		"name": "Rosado Tavarez, Diego A.",
 		"country": "PUR",
@@ -7714,6 +7697,23 @@
 		"birthday": 2002,
 		"flag": "i",
 		"rating_standard": 1428,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3113019,
+		"name": "Gonzalez Torres, Lexayra I.",
+		"country": "PUR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1426,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7732,7 +7732,7 @@
 		"flag": "",
 		"rating_standard": 1423,
 		"rating_rapid": null,
-		"rating_blitz": 1476
+		"rating_blitz": 1475
 	},
 	{
 		"fideid": 3113906,
@@ -7747,7 +7747,7 @@
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
-		"rating_standard": 1421,
+		"rating_standard": 1420,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7850,7 +7850,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1635,
+		"rating_rapid": 1634,
 		"rating_blitz": null
 	},
 	{
@@ -7952,7 +7952,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1641,
+		"rating_rapid": 1643,
 		"rating_blitz": 1674
 	},
 	{
@@ -8326,7 +8326,7 @@
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1550,
+		"rating_rapid": 1549,
 		"rating_blitz": null
 	},
 	{
