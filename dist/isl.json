@@ -8,13 +8,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 15,
+		"games": 9,
 		"k": 10,
 		"birthday": 2003,
 		"flag": "",
-		"rating_standard": 2550,
+		"rating_standard": 2546,
 		"rating_rapid": 2443,
-		"rating_blitz": 2546
+		"rating_blitz": 2554
 	},
 	{
 		"fideid": 2302241,
@@ -110,7 +110,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 10,
 		"birthday": 1988,
 		"flag": "",
@@ -127,7 +127,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 10,
 		"birthday": 1966,
 		"flag": "",
@@ -161,7 +161,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 10,
 		"birthday": 1972,
 		"flag": "",
@@ -204,21 +204,21 @@
 		"rating_blitz": 2352
 	},
 	{
-		"fideid": 2300028,
-		"name": "Petursson, Margeir",
+		"fideid": 2309998,
+		"name": "Heimisson, Hilmir Freyr",
 		"country": "ISL",
 		"sex": "M",
-		"title": "GM",
+		"title": "IM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 10,
-		"birthday": 1960,
+		"birthday": 2001,
 		"flag": "",
-		"rating_standard": 2409,
-		"rating_rapid": 2334,
-		"rating_blitz": 2321
+		"rating_standard": 2406,
+		"rating_rapid": 2247,
+		"rating_blitz": 2421
 	},
 	{
 		"fideid": 2300036,
@@ -255,21 +255,21 @@
 		"rating_blitz": 2387
 	},
 	{
-		"fideid": 2309998,
-		"name": "Heimisson, Hilmir Freyr",
+		"fideid": 2300028,
+		"name": "Petursson, Margeir",
 		"country": "ISL",
 		"sex": "M",
-		"title": "IM",
+		"title": "GM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 10,
-		"birthday": 2001,
+		"birthday": 1960,
 		"flag": "",
 		"rating_standard": 2403,
-		"rating_rapid": 2247,
-		"rating_blitz": 2421
+		"rating_rapid": 2334,
+		"rating_blitz": 2321
 	},
 	{
 		"fideid": 2300109,
@@ -306,23 +306,6 @@
 		"rating_blitz": 2268
 	},
 	{
-		"fideid": 14142805,
-		"name": "Domalchuk-Jonasson, Aleksandr",
-		"country": "ISL",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 10,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 2381,
-		"rating_rapid": 2287,
-		"rating_blitz": 2242
-	},
-	{
 		"fideid": 2301288,
 		"name": "Arngrimsson, Dagur",
 		"country": "ISL",
@@ -348,13 +331,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 10,
 		"birthday": 1979,
 		"flag": "",
 		"rating_standard": 2377,
 		"rating_rapid": 2403,
 		"rating_blitz": 2394
+	},
+	{
+		"fideid": 14142805,
+		"name": "Domalchuk-Jonasson, Aleksandr",
+		"country": "ISL",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 10,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 2370,
+		"rating_rapid": 2287,
+		"rating_blitz": 2242
 	},
 	{
 		"fideid": 2300818,
@@ -399,11 +399,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 10,
 		"birthday": 1997,
 		"flag": "",
-		"rating_standard": 2348,
+		"rating_standard": 2354,
 		"rating_rapid": 2366,
 		"rating_blitz": 2247
 	},
@@ -473,7 +473,7 @@
 		"flag": "",
 		"rating_standard": 2320,
 		"rating_rapid": 2163,
-		"rating_blitz": 2109
+		"rating_blitz": 2127
 	},
 	{
 		"fideid": 2300230,
@@ -524,7 +524,7 @@
 		"flag": "i",
 		"rating_standard": 2314,
 		"rating_rapid": 2273,
-		"rating_blitz": 2198
+		"rating_blitz": 2211
 	},
 	{
 		"fideid": 2302462,
@@ -697,6 +697,23 @@
 		"rating_blitz": 2227
 	},
 	{
+		"fideid": 2300168,
+		"name": "Sigfusson, Sigurdur",
+		"country": "ISL",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 2267,
+		"rating_rapid": 2231,
+		"rating_blitz": 2152
+	},
+	{
 		"fideid": 2301130,
 		"name": "Kjartansson, David",
 		"country": "ISL",
@@ -712,23 +729,6 @@
 		"rating_standard": 2266,
 		"rating_rapid": 2382,
 		"rating_blitz": 2330
-	},
-	{
-		"fideid": 2300168,
-		"name": "Sigfusson, Sigurdur",
-		"country": "ISL",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 2265,
-		"rating_rapid": 2231,
-		"rating_blitz": 2152
 	},
 	{
 		"fideid": 2307731,
@@ -867,6 +867,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 2310090,
+		"name": "Thorhallsson, Simon",
+		"country": "ISL",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 2234,
+		"rating_rapid": 2146,
+		"rating_blitz": 2247
+	},
+	{
 		"fideid": 2300435,
 		"name": "Arnason, Throstur",
 		"country": "ISL",
@@ -901,23 +918,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 2310090,
-		"name": "Thorhallsson, Simon",
-		"country": "ISL",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 2223,
-		"rating_rapid": 2138,
-		"rating_blitz": 2218
-	},
-	{
 		"fideid": 2300893,
 		"name": "Edvardsson, Kristjan",
 		"country": "ISL",
@@ -926,7 +926,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1973,
 		"flag": "",
@@ -966,7 +966,7 @@
 		"flag": "",
 		"rating_standard": 2214,
 		"rating_rapid": 2188,
-		"rating_blitz": 2227
+		"rating_blitz": 2222
 	},
 	{
 		"fideid": 2302772,
@@ -1156,6 +1156,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 2315432,
+		"name": "Briem, Benedikt",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2193,
+		"rating_rapid": 2155,
+		"rating_blitz": 2118
+	},
+	{
 		"fideid": 2312506,
 		"name": "Briem, Stephan",
 		"country": "ISL",
@@ -1272,24 +1289,7 @@
 		"flag": "",
 		"rating_standard": 2182,
 		"rating_rapid": 2147,
-		"rating_blitz": 2164
-	},
-	{
-		"fideid": 2315432,
-		"name": "Briem, Benedikt",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2176,
-		"rating_rapid": 2155,
-		"rating_blitz": 2157
+		"rating_blitz": 2172
 	},
 	{
 		"fideid": 2301253,
@@ -1377,23 +1377,6 @@
 		"rating_blitz": 2098
 	},
 	{
-		"fideid": 2301393,
-		"name": "Bergsson, Stefan",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 2164,
-		"rating_rapid": 1995,
-		"rating_blitz": 2066
-	},
-	{
 		"fideid": 2300150,
 		"name": "Einarsson, Halldor Gretar",
 		"country": "ISL",
@@ -1459,7 +1442,24 @@
 		"flag": "",
 		"rating_standard": 2161,
 		"rating_rapid": 2108,
-		"rating_blitz": 2089
+		"rating_blitz": 2088
+	},
+	{
+		"fideid": 2301393,
+		"name": "Bergsson, Stefan",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": 2152,
+		"rating_rapid": 1995,
+		"rating_blitz": 2066
 	},
 	{
 		"fideid": 2310600,
@@ -1470,30 +1470,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 8,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 2153,
-		"rating_rapid": 2145,
-		"rating_blitz": 2204
-	},
-	{
-		"fideid": 2309092,
-		"name": "Jonsson, Gauti Pall",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "",
 		"rating_standard": 2152,
-		"rating_rapid": 2106,
-		"rating_blitz": 2112
+		"rating_rapid": 2157,
+		"rating_blitz": 2206
 	},
 	{
 		"fideid": 2305194,
@@ -1545,6 +1528,23 @@
 		"rating_standard": 2141,
 		"rating_rapid": 2120,
 		"rating_blitz": 2090
+	},
+	{
+		"fideid": 2309092,
+		"name": "Jonsson, Gauti Pall",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 2141,
+		"rating_rapid": 2118,
+		"rating_blitz": 2120
 	},
 	{
 		"fideid": 1404679,
@@ -1632,21 +1632,21 @@
 		"rating_blitz": 2105
 	},
 	{
-		"fideid": 305650,
-		"name": "Ptacnikova, Lenka",
+		"fideid": 2301369,
+		"name": "Halldorsson, Halldor",
 		"country": "ISL",
-		"sex": "F",
-		"title": "WGM",
-		"w_title": "WGM",
-		"o_title": "NA",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 20,
-		"birthday": 1976,
-		"flag": "w",
-		"rating_standard": 2129,
-		"rating_rapid": 2124,
-		"rating_blitz": 2039
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": 2130,
+		"rating_rapid": 2180,
+		"rating_blitz": 2160
 	},
 	{
 		"fideid": 2300664,
@@ -1731,7 +1731,7 @@
 		"flag": "",
 		"rating_standard": 2123,
 		"rating_rapid": 2090,
-		"rating_blitz": 1988
+		"rating_blitz": 2038
 	},
 	{
 		"fideid": 14132907,
@@ -1751,6 +1751,23 @@
 		"rating_blitz": 2111
 	},
 	{
+		"fideid": 305650,
+		"name": "Ptacnikova, Lenka",
+		"country": "ISL",
+		"sex": "F",
+		"title": "WGM",
+		"w_title": "WGM",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "w",
+		"rating_standard": 2121,
+		"rating_rapid": 2111,
+		"rating_blitz": 2031
+	},
+	{
 		"fideid": 2302853,
 		"name": "Gunnhallsson, Arngrimur",
 		"country": "ISL",
@@ -1768,21 +1785,21 @@
 		"rating_blitz": 2101
 	},
 	{
-		"fideid": 2301369,
-		"name": "Halldorsson, Halldor",
+		"fideid": 2301237,
+		"name": "Bjarnason, Oskar",
 		"country": "ISL",
 		"sex": "M",
-		"title": "CM",
+		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 20,
-		"birthday": 1984,
+		"birthday": 1966,
 		"flag": "",
-		"rating_standard": 2119,
-		"rating_rapid": 2173,
-		"rating_blitz": 2160
+		"rating_standard": 2118,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 2301890,
@@ -1817,23 +1834,6 @@
 		"rating_standard": 2116,
 		"rating_rapid": null,
 		"rating_blitz": 2066
-	},
-	{
-		"fideid": 2301237,
-		"name": "Bjarnason, Oskar",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 2113,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 2317605,
@@ -1878,7 +1878,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1946,
 		"flag": "",
@@ -1902,23 +1902,6 @@
 		"rating_standard": 2108,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2314576,
-		"name": "Thorisson, Benedikt",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2106,
-		"rating_rapid": 1985,
-		"rating_blitz": 2014
 	},
 	{
 		"fideid": 2301512,
@@ -1946,13 +1929,47 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": 2104,
 		"rating_rapid": 2120,
-		"rating_blitz": 2065
+		"rating_blitz": 2071
+	},
+	{
+		"fideid": 2312875,
+		"name": "Heidarsson, Arnar Milutin",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 2103,
+		"rating_rapid": 2050,
+		"rating_blitz": 2227
+	},
+	{
+		"fideid": 2311453,
+		"name": "Omarsson, Adam",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2102,
+		"rating_rapid": 2088,
+		"rating_blitz": 2150
 	},
 	{
 		"fideid": 2301008,
@@ -1970,23 +1987,6 @@
 		"rating_standard": 2101,
 		"rating_rapid": 2033,
 		"rating_blitz": 2028
-	},
-	{
-		"fideid": 2312875,
-		"name": "Heidarsson, Arnar Milutin",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 2099,
-		"rating_rapid": 2021,
-		"rating_blitz": 2221
 	},
 	{
 		"fideid": 2302306,
@@ -2091,6 +2091,23 @@
 		"rating_blitz": 2045
 	},
 	{
+		"fideid": 2314576,
+		"name": "Thorisson, Benedikt",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2088,
+		"rating_rapid": 1982,
+		"rating_blitz": 2014
+	},
+	{
 		"fideid": 2301075,
 		"name": "Halldorsson, Jon Arni",
 		"country": "ISL",
@@ -2156,7 +2173,7 @@
 		"flag": "",
 		"rating_standard": 2080,
 		"rating_rapid": 2041,
-		"rating_blitz": 2087
+		"rating_blitz": 2063
 	},
 	{
 		"fideid": 2301954,
@@ -2225,6 +2242,23 @@
 		"rating_standard": 2072,
 		"rating_rapid": 2097,
 		"rating_blitz": 2042
+	},
+	{
+		"fideid": 2308010,
+		"name": "Kolka, David",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 2070,
+		"rating_rapid": 1997,
+		"rating_blitz": 2252
 	},
 	{
 		"fideid": 2304376,
@@ -2478,7 +2512,7 @@
 		"birthday": 1966,
 		"flag": "i",
 		"rating_standard": 2054,
-		"rating_rapid": 2047,
+		"rating_rapid": 2039,
 		"rating_blitz": 2015
 	},
 	{
@@ -2516,6 +2550,23 @@
 		"rating_blitz": 1983
 	},
 	{
+		"fideid": 2314339,
+		"name": "Gudmundsson, Gunnar Erik",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2044,
+		"rating_rapid": 1928,
+		"rating_blitz": 2046
+	},
+	{
 		"fideid": 2302101,
 		"name": "Jonsson, Jon Arni",
 		"country": "ISL",
@@ -2547,7 +2598,7 @@
 		"flag": "",
 		"rating_standard": 2043,
 		"rating_rapid": 2054,
-		"rating_blitz": 2052
+		"rating_blitz": 2036
 	},
 	{
 		"fideid": 2305054,
@@ -2683,24 +2734,7 @@
 		"flag": "i",
 		"rating_standard": 2027,
 		"rating_rapid": null,
-		"rating_blitz": 1997
-	},
-	{
-		"fideid": 2311453,
-		"name": "Omarsson, Adam",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2026,
-		"rating_rapid": 2044,
-		"rating_blitz": 2150
+		"rating_blitz": 1984
 	},
 	{
 		"fideid": 2320118,
@@ -2711,7 +2745,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -2752,23 +2786,6 @@
 		"rating_standard": 2020,
 		"rating_rapid": 2053,
 		"rating_blitz": 1989
-	},
-	{
-		"fideid": 2308010,
-		"name": "Kolka, David",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 2020,
-		"rating_rapid": 1997,
-		"rating_blitz": 2266
 	},
 	{
 		"fideid": 2300710,
@@ -2820,23 +2837,6 @@
 		"rating_standard": 2018,
 		"rating_rapid": 1933,
 		"rating_blitz": 1985
-	},
-	{
-		"fideid": 2314339,
-		"name": "Gudmundsson, Gunnar Erik",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2014,
-		"rating_rapid": 1926,
-		"rating_blitz": 2046
 	},
 	{
 		"fideid": 2301334,
@@ -2921,7 +2921,7 @@
 		"flag": "",
 		"rating_standard": 2011,
 		"rating_rapid": 1897,
-		"rating_blitz": 1827
+		"rating_blitz": 1821
 	},
 	{
 		"fideid": 2317966,
@@ -2949,7 +2949,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
@@ -3074,7 +3074,7 @@
 		"flag": "",
 		"rating_standard": 1995,
 		"rating_rapid": 1964,
-		"rating_blitz": 1985
+		"rating_blitz": 1976
 	},
 	{
 		"fideid": 2307278,
@@ -3090,7 +3090,7 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1994,
-		"rating_rapid": 2014,
+		"rating_rapid": 2007,
 		"rating_blitz": 1955
 	},
 	{
@@ -3193,7 +3193,7 @@
 		"flag": "",
 		"rating_standard": 1989,
 		"rating_rapid": 1996,
-		"rating_blitz": 2017
+		"rating_blitz": 2043
 	},
 	{
 		"fideid": 2301121,
@@ -3298,6 +3298,23 @@
 		"rating_blitz": 1873
 	},
 	{
+		"fideid": 2302454,
+		"name": "Thorsteinsdottir, Hallgerdur",
+		"country": "ISL",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "w",
+		"rating_standard": 1986,
+		"rating_rapid": 1927,
+		"rating_blitz": 1999
+	},
+	{
 		"fideid": 2301733,
 		"name": "Larusdottir, Aldis",
 		"country": "ISL",
@@ -3366,6 +3383,23 @@
 		"rating_blitz": 2004
 	},
 	{
+		"fideid": 2304929,
+		"name": "Thor, Gudmundur Sverrir",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1975,
+		"flag": "",
+		"rating_standard": 1978,
+		"rating_rapid": 2025,
+		"rating_blitz": 2005
+	},
+	{
 		"fideid": 1701550,
 		"name": "Finnlaugsson, Gunnar",
 		"country": "ISL",
@@ -3374,11 +3408,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 1,
 		"k": 20,
 		"birthday": 1947,
 		"flag": "",
-		"rating_standard": 1977,
+		"rating_standard": 1976,
 		"rating_rapid": 2034,
 		"rating_blitz": 1938
 	},
@@ -3434,23 +3468,6 @@
 		"rating_blitz": 2002
 	},
 	{
-		"fideid": 2302454,
-		"name": "Thorsteinsdottir, Hallgerdur",
-		"country": "ISL",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "w",
-		"rating_standard": 1973,
-		"rating_rapid": 1923,
-		"rating_blitz": 1999
-	},
-	{
 		"fideid": 2302365,
 		"name": "Jonsson, Pall Leo",
 		"country": "ISL",
@@ -3466,23 +3483,6 @@
 		"rating_standard": 1972,
 		"rating_rapid": 2024,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2304929,
-		"name": "Thor, Gudmundur Sverrir",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "",
-		"rating_standard": 1970,
-		"rating_rapid": 2025,
-		"rating_blitz": 2005
 	},
 	{
 		"fideid": 2301270,
@@ -3502,23 +3502,6 @@
 		"rating_blitz": 1886
 	},
 	{
-		"fideid": 2317532,
-		"name": "Heidarsson, Mikael Bjarki",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1968,
-		"rating_rapid": 1931,
-		"rating_blitz": 1868
-	},
-	{
 		"fideid": 2303914,
 		"name": "Vigfusson, Vigfus",
 		"country": "ISL",
@@ -3533,7 +3516,7 @@
 		"flag": "",
 		"rating_standard": 1967,
 		"rating_rapid": 1947,
-		"rating_blitz": 1891
+		"rating_blitz": 1901
 	},
 	{
 		"fideid": 2313383,
@@ -3703,7 +3686,7 @@
 		"flag": "",
 		"rating_standard": 1954,
 		"rating_rapid": 1882,
-		"rating_blitz": 1852
+		"rating_blitz": 1857
 	},
 	{
 		"fideid": 2302144,
@@ -3720,7 +3703,7 @@
 		"flag": "",
 		"rating_standard": 1952,
 		"rating_rapid": 1900,
-		"rating_blitz": 1945
+		"rating_blitz": 1886
 	},
 	{
 		"fideid": 2308240,
@@ -3738,6 +3721,23 @@
 		"rating_standard": 1951,
 		"rating_rapid": 1893,
 		"rating_blitz": 1895
+	},
+	{
+		"fideid": 2316102,
+		"name": "Omarsson, Josef",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1950,
+		"rating_rapid": 1947,
+		"rating_blitz": 1918
 	},
 	{
 		"fideid": 2302799,
@@ -4063,6 +4063,23 @@
 		"rating_blitz": 1877
 	},
 	{
+		"fideid": 2317532,
+		"name": "Heidarsson, Mikael Bjarki",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1937,
+		"rating_rapid": 1931,
+		"rating_blitz": 1868
+	},
+	{
 		"fideid": 2319225,
 		"name": "Kjartansson, Matthias Bjorgvin",
 		"country": "ISL",
@@ -4386,6 +4403,40 @@
 		"rating_blitz": 1886
 	},
 	{
+		"fideid": 2321637,
+		"name": "Gudnyjarson, Sigurdur Pall",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1909,
+		"rating_rapid": 1686,
+		"rating_blitz": 1854
+	},
+	{
+		"fideid": 2302551,
+		"name": "Halldorsson, Kristjan",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1909,
+		"rating_rapid": 1844,
+		"rating_blitz": 1872
+	},
+	{
 		"fideid": 2301784,
 		"name": "Eliasson, Kristjan Orn",
 		"country": "ISL",
@@ -4399,8 +4450,8 @@
 		"birthday": 1958,
 		"flag": "",
 		"rating_standard": 1908,
-		"rating_rapid": 1921,
-		"rating_blitz": 2024
+		"rating_rapid": 1895,
+		"rating_blitz": 1980
 	},
 	{
 		"fideid": 2304660,
@@ -4484,8 +4535,8 @@
 		"birthday": 1965,
 		"flag": "",
 		"rating_standard": 1904,
-		"rating_rapid": 2035,
-		"rating_blitz": 2059
+		"rating_rapid": 2038,
+		"rating_blitz": 2072
 	},
 	{
 		"fideid": 2303094,
@@ -4520,23 +4571,6 @@
 		"rating_standard": 1900,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2302551,
-		"name": "Halldorsson, Kristjan",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1900,
-		"rating_rapid": 1851,
-		"rating_blitz": 1872
 	},
 	{
 		"fideid": 2307332,
@@ -4624,23 +4658,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 2305917,
-		"name": "Isleifsson, Runar",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1962,
-		"flag": "",
-		"rating_standard": 1895,
-		"rating_rapid": 1897,
-		"rating_blitz": 1872
-	},
-	{
 		"fideid": 2303205,
 		"name": "Jonsson, Pall G",
 		"country": "ISL",
@@ -4675,23 +4692,6 @@
 		"rating_blitz": 1827
 	},
 	{
-		"fideid": 2321637,
-		"name": "Gudnyjarson, Sigurdur Pall",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1891,
-		"rating_rapid": 1692,
-		"rating_blitz": 1854
-	},
-	{
 		"fideid": 2302713,
 		"name": "Jonsson, Sigurdur H",
 		"country": "ISL",
@@ -4707,23 +4707,6 @@
 		"rating_standard": 1891,
 		"rating_rapid": 1918,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2316102,
-		"name": "Omarsson, Josef",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1891,
-		"rating_rapid": 1910,
-		"rating_blitz": 1918
 	},
 	{
 		"fideid": 2304449,
@@ -4768,7 +4751,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -4879,6 +4862,23 @@
 		"rating_blitz": 1851
 	},
 	{
+		"fideid": 2303850,
+		"name": "Sigurdsson, Jakob Saevar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": 1886,
+		"rating_rapid": 1869,
+		"rating_blitz": 1920
+	},
+	{
 		"fideid": 2302209,
 		"name": "Gudjonsson, Sindri",
 		"country": "ISL",
@@ -4894,6 +4894,23 @@
 		"rating_standard": 1885,
 		"rating_rapid": 1817,
 		"rating_blitz": 1859
+	},
+	{
+		"fideid": 2305917,
+		"name": "Isleifsson, Runar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 1883,
+		"rating_rapid": 1897,
+		"rating_blitz": 1872
 	},
 	{
 		"fideid": 2309335,
@@ -5114,7 +5131,7 @@
 		"flag": "",
 		"rating_standard": 1873,
 		"rating_rapid": 1885,
-		"rating_blitz": 1863
+		"rating_blitz": 1837
 	},
 	{
 		"fideid": 2310422,
@@ -5270,23 +5287,6 @@
 		"rating_blitz": 1745
 	},
 	{
-		"fideid": 2303850,
-		"name": "Sigurdsson, Jakob Saevar",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 1869,
-		"rating_rapid": 1869,
-		"rating_blitz": 1920
-	},
-	{
 		"fideid": 2304422,
 		"name": "Thorsteinsson, Aron Ellert",
 		"country": "ISL",
@@ -5318,7 +5318,7 @@
 		"flag": "",
 		"rating_standard": 1868,
 		"rating_rapid": 1809,
-		"rating_blitz": 1770
+		"rating_blitz": 1727
 	},
 	{
 		"fideid": 2325306,
@@ -5334,8 +5334,8 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": 1868,
-		"rating_rapid": 1777,
-		"rating_blitz": 1871
+		"rating_rapid": 1784,
+		"rating_blitz": 1883
 	},
 	{
 		"fideid": 2309424,
@@ -5406,6 +5406,23 @@
 		"rating_blitz": 1823
 	},
 	{
+		"fideid": 2311550,
+		"name": "Gudmarsson, Olafur",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1861,
+		"rating_rapid": 1853,
+		"rating_blitz": 1789
+	},
+	{
 		"fideid": 2307987,
 		"name": "Antonsson, Atli",
 		"country": "ISL",
@@ -5454,7 +5471,7 @@
 		"flag": "",
 		"rating_standard": 1859,
 		"rating_rapid": 1826,
-		"rating_blitz": 1856
+		"rating_blitz": 1850
 	},
 	{
 		"fideid": 2308940,
@@ -5488,7 +5505,7 @@
 		"flag": "",
 		"rating_standard": 1858,
 		"rating_rapid": 1848,
-		"rating_blitz": 1791
+		"rating_blitz": 1777
 	},
 	{
 		"fideid": 2303213,
@@ -5573,7 +5590,7 @@
 		"flag": "",
 		"rating_standard": 1857,
 		"rating_rapid": 1876,
-		"rating_blitz": 1787
+		"rating_blitz": 1783
 	},
 	{
 		"fideid": 1437330,
@@ -5640,7 +5657,7 @@
 		"birthday": 1982,
 		"flag": "i",
 		"rating_standard": 1856,
-		"rating_rapid": 1730,
+		"rating_rapid": 1721,
 		"rating_blitz": 1712
 	},
 	{
@@ -5659,23 +5676,6 @@
 		"rating_standard": 1856,
 		"rating_rapid": null,
 		"rating_blitz": 1831
-	},
-	{
-		"fideid": 2318539,
-		"name": "Johannsson, Markus Orri",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1855,
-		"rating_rapid": 1857,
-		"rating_blitz": 1980
 	},
 	{
 		"fideid": 2311585,
@@ -5828,7 +5828,7 @@
 		"flag": "",
 		"rating_standard": 1850,
 		"rating_rapid": 1905,
-		"rating_blitz": 1874
+		"rating_blitz": 1872
 	},
 	{
 		"fideid": 2318300,
@@ -5933,23 +5933,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 2311550,
-		"name": "Gudmarsson, Olafur",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1846,
-		"rating_rapid": 1853,
-		"rating_blitz": 1789
-	},
-	{
 		"fideid": 2308274,
 		"name": "Gudbjornsson, Arni",
 		"country": "ISL",
@@ -6016,6 +5999,23 @@
 		"rating_standard": 1843,
 		"rating_rapid": 1800,
 		"rating_blitz": 1848
+	},
+	{
+		"fideid": 2323206,
+		"name": "Hafthorsson, Jon Ulfur",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "FA",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1843,
+		"rating_rapid": 1565,
+		"rating_blitz": 1694
 	},
 	{
 		"fideid": 2302730,
@@ -6137,21 +6137,21 @@
 		"rating_blitz": 1900
 	},
 	{
-		"fideid": 2304210,
-		"name": "Sigurdsson, Smari",
+		"fideid": 2318539,
+		"name": "Johannsson, Markus Orri",
 		"country": "ISL",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
+		"games": 4,
+		"k": 40,
+		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1838,
-		"rating_rapid": 1901,
-		"rating_blitz": 1938
+		"rating_standard": 1839,
+		"rating_rapid": 1874,
+		"rating_blitz": 1980
 	},
 	{
 		"fideid": 2303981,
@@ -6186,23 +6186,6 @@
 		"rating_standard": 1836,
 		"rating_rapid": null,
 		"rating_blitz": 1807
-	},
-	{
-		"fideid": 2323206,
-		"name": "Hafthorsson, Jon Ulfur",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "FA",
-		"foa_title": "",
-		"games": 11,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1836,
-		"rating_rapid": 1565,
-		"rating_blitz": 1693
 	},
 	{
 		"fideid": 2311798,
@@ -6307,6 +6290,23 @@
 		"rating_blitz": 1783
 	},
 	{
+		"fideid": 2304210,
+		"name": "Sigurdsson, Smari",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "",
+		"rating_standard": 1833,
+		"rating_rapid": 1901,
+		"rating_blitz": 1938
+	},
+	{
 		"fideid": 2307197,
 		"name": "Einarsson, Jon Birgir",
 		"country": "ISL",
@@ -6372,7 +6372,7 @@
 		"flag": "i",
 		"rating_standard": 1829,
 		"rating_rapid": 1764,
-		"rating_blitz": 1887
+		"rating_blitz": 1889
 	},
 	{
 		"fideid": 2307626,
@@ -6485,7 +6485,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1948,
 		"flag": "",
@@ -6621,13 +6621,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1951,
 		"flag": "",
 		"rating_standard": 1817,
 		"rating_rapid": 1880,
-		"rating_blitz": 1901
+		"rating_blitz": 1904
 	},
 	{
 		"fideid": 2301440,
@@ -6899,7 +6899,7 @@
 		"flag": "",
 		"rating_standard": 1808,
 		"rating_rapid": 1857,
-		"rating_blitz": 1817
+		"rating_blitz": 1823
 	},
 	{
 		"fideid": 2301792,
@@ -7017,8 +7017,8 @@
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": 1803,
-		"rating_rapid": 1740,
-		"rating_blitz": 1789
+		"rating_rapid": 1772,
+		"rating_blitz": 1796
 	},
 	{
 		"fideid": 2312573,
@@ -7123,23 +7123,6 @@
 		"rating_blitz": 1771
 	},
 	{
-		"fideid": 2317940,
-		"name": "Thorsteinsson, Thorsteinn Jakob F",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1797,
-		"rating_rapid": 1834,
-		"rating_blitz": 1898
-	},
-	{
 		"fideid": 2315190,
 		"name": "Haile, Batel Goitom",
 		"country": "ISL",
@@ -7165,13 +7148,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1795,
-		"rating_rapid": 1733,
-		"rating_blitz": 1898
+		"rating_rapid": 1773,
+		"rating_blitz": 1954
 	},
 	{
 		"fideid": 2311062,
@@ -7238,8 +7221,8 @@
 		"birthday": 1960,
 		"flag": "",
 		"rating_standard": 1791,
-		"rating_rapid": 1763,
-		"rating_blitz": 1813
+		"rating_rapid": 1752,
+		"rating_blitz": 1871
 	},
 	{
 		"fideid": 2305682,
@@ -7284,7 +7267,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1942,
 		"flag": "",
@@ -7301,7 +7284,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1967,
 		"flag": "",
@@ -7375,7 +7358,7 @@
 		"flag": "",
 		"rating_standard": 1788,
 		"rating_rapid": 1685,
-		"rating_blitz": 1681
+		"rating_blitz": 1670
 	},
 	{
 		"fideid": 2303701,
@@ -7454,7 +7437,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1953,
 		"flag": "",
@@ -7505,7 +7488,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1963,
 		"flag": "",
@@ -7731,8 +7714,25 @@
 		"birthday": 1976,
 		"flag": "i",
 		"rating_standard": 1778,
-		"rating_rapid": 1736,
-		"rating_blitz": 1720
+		"rating_rapid": 1750,
+		"rating_blitz": 1741
+	},
+	{
+		"fideid": 2317940,
+		"name": "Thorsteinsson, Thorsteinn Jakob F",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1778,
+		"rating_rapid": 1824,
+		"rating_blitz": 1906
 	},
 	{
 		"fideid": 2301580,
@@ -7828,13 +7828,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1772,
 		"rating_rapid": 1834,
-		"rating_blitz": 1830
+		"rating_blitz": 1856
 	},
 	{
 		"fideid": 2323630,
@@ -7953,7 +7953,7 @@
 		"flag": "",
 		"rating_standard": 1768,
 		"rating_rapid": 1763,
-		"rating_blitz": 1753
+		"rating_blitz": 1742
 	},
 	{
 		"fideid": 2311038,
@@ -8049,7 +8049,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
@@ -8140,7 +8140,7 @@
 		"flag": "",
 		"rating_standard": 1758,
 		"rating_rapid": 1703,
-		"rating_blitz": 1850
+		"rating_blitz": 1915
 	},
 	{
 		"fideid": 2327031,
@@ -8192,6 +8192,40 @@
 		"rating_standard": 1756,
 		"rating_rapid": 1741,
 		"rating_blitz": 1718
+	},
+	{
+		"fideid": 2300591,
+		"name": "Adalsteinsson, Hermann",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": 1754,
+		"rating_rapid": 1659,
+		"rating_blitz": 1680
+	},
+	{
+		"fideid": 2330059,
+		"name": "Gulyas Adam Ferenc",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1754,
+		"rating_rapid": 1824,
+		"rating_blitz": 1802
 	},
 	{
 		"fideid": 2303019,
@@ -8364,23 +8398,6 @@
 		"rating_blitz": 1696
 	},
 	{
-		"fideid": 2321726,
-		"name": "Brynjarsson, Orvar Holm",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1747,
-		"rating_rapid": 1841,
-		"rating_blitz": 1758
-	},
-	{
 		"fideid": 2315823,
 		"name": "Kristjansson, Halldor",
 		"country": "ISL",
@@ -8430,6 +8447,23 @@
 		"rating_standard": 1745,
 		"rating_rapid": 1750,
 		"rating_blitz": 1807
+	},
+	{
+		"fideid": 2325780,
+		"name": "Leosson, Haukur Vidis",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1745,
+		"rating_rapid": 1734,
+		"rating_blitz": 1818
 	},
 	{
 		"fideid": 2319896,
@@ -8534,23 +8568,6 @@
 		"rating_blitz": 1770
 	},
 	{
-		"fideid": 2300591,
-		"name": "Adalsteinsson, Hermann",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": 1738,
-		"rating_rapid": 1659,
-		"rating_blitz": 1680
-	},
-	{
 		"fideid": 2316056,
 		"name": "Hannesson, Sigurdur Orn",
 		"country": "ISL",
@@ -8576,7 +8593,7 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
@@ -8717,8 +8734,8 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1732,
-		"rating_rapid": 1705,
-		"rating_blitz": 1833
+		"rating_rapid": 1865,
+		"rating_blitz": 1897
 	},
 	{
 		"fideid": 2315343,
@@ -8836,7 +8853,7 @@
 		"birthday": 1971,
 		"flag": "i",
 		"rating_standard": 1726,
-		"rating_rapid": 1717,
+		"rating_rapid": 1722,
 		"rating_blitz": null
 	},
 	{
@@ -8857,23 +8874,6 @@
 		"rating_blitz": 1873
 	},
 	{
-		"fideid": 2325780,
-		"name": "Leosson, Haukur Vidis",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1725,
-		"rating_rapid": 1748,
-		"rating_blitz": 1818
-	},
-	{
 		"fideid": 2319462,
 		"name": "Ingvarsson, Thrandur",
 		"country": "ISL",
@@ -8889,6 +8889,23 @@
 		"rating_standard": 1724,
 		"rating_rapid": 1669,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 2321726,
+		"name": "Brynjarsson, Orvar Holm",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1723,
+		"rating_rapid": 1833,
+		"rating_blitz": 1758
 	},
 	{
 		"fideid": 2303620,
@@ -8916,7 +8933,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1999,
 		"flag": "",
@@ -8959,6 +8976,23 @@
 		"rating_blitz": 1803
 	},
 	{
+		"fideid": 2326280,
+		"name": "Gudjonsson, Ingi Haflidi",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1718,
+		"rating_rapid": 1654,
+		"rating_blitz": 1608
+	},
+	{
 		"fideid": 2328410,
 		"name": "Gunnarsson, Hallgrimur",
 		"country": "ISL",
@@ -8973,7 +9007,7 @@
 		"flag": "",
 		"rating_standard": 1718,
 		"rating_rapid": 1601,
-		"rating_blitz": 1551
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 2311089,
@@ -8989,8 +9023,8 @@
 		"birthday": 1974,
 		"flag": "",
 		"rating_standard": 1718,
-		"rating_rapid": 1688,
-		"rating_blitz": 1710
+		"rating_rapid": 1678,
+		"rating_blitz": 1696
 	},
 	{
 		"fideid": 2306000,
@@ -9316,23 +9350,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 2326280,
-		"name": "Gudjonsson, Ingi Haflidi",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 1704,
-		"rating_rapid": 1654,
-		"rating_blitz": 1608
-	},
-	{
 		"fideid": 2303990,
 		"name": "Ottarsson, Tryggvi",
 		"country": "ISL",
@@ -9341,7 +9358,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1964,
 		"flag": "",
@@ -9365,23 +9382,6 @@
 		"rating_standard": 1704,
 		"rating_rapid": null,
 		"rating_blitz": 1695
-	},
-	{
-		"fideid": 2330059,
-		"name": "Gulyas Adam Ferenc",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1703,
-		"rating_rapid": 1824,
-		"rating_blitz": 1802
 	},
 	{
 		"fideid": 2311127,
@@ -9588,23 +9588,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 2329417,
-		"name": "Ingimarsson Ingimar",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1696,
-		"rating_rapid": null,
-		"rating_blitz": 1731
-	},
-	{
 		"fideid": 2308398,
 		"name": "Jonsson, Birgir",
 		"country": "ISL",
@@ -9636,7 +9619,7 @@
 		"flag": "",
 		"rating_standard": 1696,
 		"rating_rapid": 1722,
-		"rating_blitz": 1684
+		"rating_blitz": 1657
 	},
 	{
 		"fideid": 2309696,
@@ -9721,7 +9704,7 @@
 		"flag": "i",
 		"rating_standard": 1692,
 		"rating_rapid": null,
-		"rating_blitz": 1711
+		"rating_blitz": 1698
 	},
 	{
 		"fideid": 2306654,
@@ -9756,6 +9739,23 @@
 		"rating_standard": 1689,
 		"rating_rapid": 1729,
 		"rating_blitz": 1690
+	},
+	{
+		"fideid": 2318148,
+		"name": "Smarason, Kristjan Ingi",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1688,
+		"rating_rapid": 1686,
+		"rating_blitz": 1768
 	},
 	{
 		"fideid": 2315076,
@@ -9834,7 +9834,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -9993,7 +9993,7 @@
 		"flag": "",
 		"rating_standard": 1676,
 		"rating_rapid": 1607,
-		"rating_blitz": 1638
+		"rating_blitz": 1676
 	},
 	{
 		"fideid": 2325055,
@@ -10047,6 +10047,23 @@
 		"rating_blitz": 1664
 	},
 	{
+		"fideid": 2323320,
+		"name": "Bonandrini, Vassia",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1673,
+		"rating_rapid": 1631,
+		"rating_blitz": 1630
+	},
+	{
 		"fideid": 2310287,
 		"name": "Magnusson, Thorsteinn",
 		"country": "ISL",
@@ -10060,8 +10077,8 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1673,
-		"rating_rapid": 1660,
-		"rating_blitz": 1741
+		"rating_rapid": 1652,
+		"rating_blitz": 1744
 	},
 	{
 		"fideid": 2321521,
@@ -10072,13 +10089,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1673,
 		"rating_rapid": 1644,
-		"rating_blitz": 1691
+		"rating_blitz": 1715
 	},
 	{
 		"fideid": 2313766,
@@ -10145,8 +10162,8 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1669,
-		"rating_rapid": 1541,
-		"rating_blitz": 1489
+		"rating_rapid": 1500,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 2310244,
@@ -10191,13 +10208,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1668,
 		"rating_rapid": 1595,
-		"rating_blitz": 1640
+		"rating_blitz": 1568
 	},
 	{
 		"fideid": 2310686,
@@ -10231,7 +10248,7 @@
 		"flag": "",
 		"rating_standard": 1665,
 		"rating_rapid": 1620,
-		"rating_blitz": 1686
+		"rating_blitz": 1683
 	},
 	{
 		"fideid": 2308380,
@@ -10283,23 +10300,6 @@
 		"rating_standard": 1663,
 		"rating_rapid": 1656,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2323320,
-		"name": "Bonandrini, Vassia",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1661,
-		"rating_rapid": 1631,
-		"rating_blitz": 1630
 	},
 	{
 		"fideid": 2311046,
@@ -10400,7 +10400,7 @@
 		"birthday": 1990,
 		"flag": "",
 		"rating_standard": 1656,
-		"rating_rapid": 1568,
+		"rating_rapid": 1582,
 		"rating_blitz": 1713
 	},
 	{
@@ -10419,23 +10419,6 @@
 		"rating_standard": 1656,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2318148,
-		"name": "Smarason, Kristjan Ingi",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1656,
-		"rating_rapid": 1686,
-		"rating_blitz": 1768
 	},
 	{
 		"fideid": 2324822,
@@ -10503,7 +10486,7 @@
 		"flag": "",
 		"rating_standard": 1653,
 		"rating_rapid": 1672,
-		"rating_blitz": 1718
+		"rating_blitz": 1716
 	},
 	{
 		"fideid": 2307812,
@@ -10625,23 +10608,6 @@
 		"rating_blitz": 1733
 	},
 	{
-		"fideid": 2322943,
-		"name": "Birgisson, Hilmar Freyr",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 1642,
-		"rating_rapid": 1718,
-		"rating_blitz": 1707
-	},
-	{
 		"fideid": 2311224,
 		"name": "Jonasson, Hordur",
 		"country": "ISL",
@@ -10725,6 +10691,23 @@
 		"rating_standard": 1634,
 		"rating_rapid": 1683,
 		"rating_blitz": 1651
+	},
+	{
+		"fideid": 2329417,
+		"name": "Ingimarsson Ingimar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1633,
+		"rating_rapid": null,
+		"rating_blitz": 1731
 	},
 	{
 		"fideid": 2313782,
@@ -10914,6 +10897,23 @@
 		"rating_blitz": 1543
 	},
 	{
+		"fideid": 2307090,
+		"name": "Akason, Aevar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1624,
+		"rating_rapid": 1695,
+		"rating_blitz": 1635
+	},
+	{
 		"fideid": 2311917,
 		"name": "Gunnarsson, Baltasar Mani Wedhol",
 		"country": "ISL",
@@ -10999,23 +10999,6 @@
 		"rating_blitz": 1701
 	},
 	{
-		"fideid": 2307090,
-		"name": "Akason, Aevar",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "",
-		"rating_standard": 1621,
-		"rating_rapid": 1695,
-		"rating_blitz": 1635
-	},
-	{
 		"fideid": 2306921,
 		"name": "Magnusson, Jon",
 		"country": "ISL",
@@ -11058,13 +11041,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1620,
 		"rating_rapid": 1568,
 		"rating_blitz": 1682
+	},
+	{
+		"fideid": 2326116,
+		"name": "Ernisson, Petur Ulfar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1619,
+		"rating_rapid": 1612,
+		"rating_blitz": 1643
 	},
 	{
 		"fideid": 2316846,
@@ -11118,6 +11118,23 @@
 		"rating_blitz": 1693
 	},
 	{
+		"fideid": 2322943,
+		"name": "Birgisson, Hilmar Freyr",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1612,
+		"rating_rapid": 1718,
+		"rating_blitz": 1707
+	},
+	{
 		"fideid": 2310481,
 		"name": "Hrafnsson, Hilmir",
 		"country": "ISL",
@@ -11148,8 +11165,8 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1608,
-		"rating_rapid": 1707,
-		"rating_blitz": 1769
+		"rating_rapid": 1690,
+		"rating_blitz": 1772
 	},
 	{
 		"fideid": 2314916,
@@ -11234,7 +11251,7 @@
 		"flag": "",
 		"rating_standard": 1602,
 		"rating_rapid": 1654,
-		"rating_blitz": 1722
+		"rating_blitz": 1739
 	},
 	{
 		"fideid": 2321793,
@@ -11364,13 +11381,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1591,
 		"rating_rapid": 1575,
-		"rating_blitz": 1652
+		"rating_blitz": 1590
 	},
 	{
 		"fideid": 2311828,
@@ -11441,23 +11458,6 @@
 		"rating_blitz": 1612
 	},
 	{
-		"fideid": 2326116,
-		"name": "Ernisson, Petur Ulfar",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1585,
-		"rating_rapid": 1660,
-		"rating_blitz": 1643
-	},
-	{
 		"fideid": 2327074,
 		"name": "Barrios, Larry Martin Zavala",
 		"country": "ISL",
@@ -11522,7 +11522,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1581,
-		"rating_rapid": 1608,
+		"rating_rapid": 1635,
 		"rating_blitz": 1772
 	},
 	{
@@ -11575,23 +11575,6 @@
 		"rating_standard": 1579,
 		"rating_rapid": 1590,
 		"rating_blitz": 1578
-	},
-	{
-		"fideid": 2305437,
-		"name": "Asmundsson, Sigurbjorn",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": 1578,
-		"rating_rapid": 1683,
-		"rating_blitz": 1679
 	},
 	{
 		"fideid": 2322854,
@@ -11658,7 +11641,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": 1575,
-		"rating_rapid": 1587,
+		"rating_rapid": 1610,
 		"rating_blitz": 1603
 	},
 	{
@@ -12066,7 +12049,7 @@
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1559,
-		"rating_rapid": 1430,
+		"rating_rapid": 1412,
 		"rating_blitz": 1431
 	},
 	{
@@ -12172,6 +12155,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 2305437,
+		"name": "Asmundsson, Sigurbjorn",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 1556,
+		"rating_rapid": 1683,
+		"rating_blitz": 1679
+	},
+	{
 		"fideid": 2322463,
 		"name": "Gudmundsson, Solvi",
 		"country": "ISL",
@@ -12185,8 +12185,8 @@
 		"birthday": 2004,
 		"flag": "i",
 		"rating_standard": 1555,
-		"rating_rapid": 1681,
-		"rating_blitz": 1679
+		"rating_rapid": 1642,
+		"rating_blitz": 1657
 	},
 	{
 		"fideid": 2330199,
@@ -12350,7 +12350,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -12452,7 +12452,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -12588,7 +12588,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -12882,7 +12882,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1507,
-		"rating_rapid": 1486,
+		"rating_rapid": 1507,
 		"rating_blitz": 1445
 	},
 	{
@@ -12894,13 +12894,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1507,
 		"rating_rapid": 1632,
-		"rating_blitz": 1665
+		"rating_blitz": 1679
 	},
 	{
 		"fideid": 2329697,
@@ -12988,6 +12988,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 2322544,
+		"name": "Brynjarsson, Nokkvi Holm",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1497,
+		"rating_rapid": 1535,
+		"rating_blitz": 1556
+	},
+	{
 		"fideid": 2327058,
 		"name": "Gunnarsdottir, Eyrun Eva",
 		"country": "ISL",
@@ -13053,7 +13070,7 @@
 		"flag": "",
 		"rating_standard": 1493,
 		"rating_rapid": 1502,
-		"rating_blitz": 1498
+		"rating_blitz": 1442
 	},
 	{
 		"fideid": 2321939,
@@ -13149,7 +13166,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 1989,
 		"flag": "",
@@ -13173,23 +13190,6 @@
 		"rating_standard": 1481,
 		"rating_rapid": 1458,
 		"rating_blitz": 1524
-	},
-	{
-		"fideid": 2329948,
-		"name": "Trzonek, Igor",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1481,
-		"rating_rapid": null,
-		"rating_blitz": 1426
 	},
 	{
 		"fideid": 2312190,
@@ -13241,6 +13241,23 @@
 		"rating_standard": 1477,
 		"rating_rapid": 1420,
 		"rating_blitz": 1550
+	},
+	{
+		"fideid": 2329948,
+		"name": "Trzonek, Igor",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1477,
+		"rating_rapid": 1493,
+		"rating_blitz": 1426
 	},
 	{
 		"fideid": 2320568,
@@ -13311,23 +13328,6 @@
 		"rating_blitz": 1468
 	},
 	{
-		"fideid": 2325250,
-		"name": "Masson, Hrannar Mar",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1470,
-		"rating_rapid": 1475,
-		"rating_blitz": 1437
-	},
-	{
 		"fideid": 2311895,
 		"name": "Gardarsson, Hakon",
 		"country": "ISL",
@@ -13343,23 +13343,6 @@
 		"rating_standard": 1469,
 		"rating_rapid": 1473,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2322544,
-		"name": "Brynjarsson, Nokkvi Holm",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1467,
-		"rating_rapid": 1508,
-		"rating_blitz": 1556
 	},
 	{
 		"fideid": 2329310,
@@ -13447,6 +13430,23 @@
 		"rating_blitz": 1475
 	},
 	{
+		"fideid": 2323940,
+		"name": "Asgeirsson, Adalsteinn Egill",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1455,
+		"rating_rapid": 1456,
+		"rating_blitz": 1485
+	},
+	{
 		"fideid": 2332574,
 		"name": "Magnusson, Aevar Thor",
 		"country": "ISL",
@@ -13481,23 +13481,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 2323958,
-		"name": "Einarsson, Thorarinn Vikingur",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1451,
-		"rating_rapid": 1400,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 2311410,
 		"name": "Runarsson, Jon Hreidar",
 		"country": "ISL",
@@ -13529,7 +13512,7 @@
 		"flag": "",
 		"rating_standard": 1449,
 		"rating_rapid": null,
-		"rating_blitz": 1543
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 2305232,
@@ -13545,7 +13528,7 @@
 		"birthday": 1963,
 		"flag": "",
 		"rating_standard": 1447,
-		"rating_rapid": 1417,
+		"rating_rapid": 1407,
 		"rating_blitz": null
 	},
 	{
@@ -13562,8 +13545,8 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1446,
-		"rating_rapid": 1422,
-		"rating_blitz": 1555
+		"rating_rapid": 1441,
+		"rating_blitz": 1631
 	},
 	{
 		"fideid": 2315165,
@@ -13631,6 +13614,23 @@
 		"flag": "",
 		"rating_standard": 1442,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 2325250,
+		"name": "Masson, Hrannar Mar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1442,
+		"rating_rapid": 1434,
 		"rating_blitz": null
 	},
 	{
@@ -13736,20 +13736,20 @@
 		"rating_blitz": 1408
 	},
 	{
-		"fideid": 2329972,
-		"name": "Bangoura, Moustapha Arni",
+		"fideid": 2323958,
+		"name": "Einarsson, Thorarinn Vikingur",
 		"country": "ISL",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1427,
-		"rating_rapid": null,
+		"rating_standard": 1428,
+		"rating_rapid": 1414,
 		"rating_blitz": null
 	},
 	{
@@ -13835,24 +13835,7 @@
 		"flag": "wi",
 		"rating_standard": 1416,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 2323940,
-		"name": "Asgeirsson, Adalsteinn Egill",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1414,
-		"rating_rapid": 1474,
-		"rating_blitz": 1485
+		"rating_blitz": 1432
 	},
 	{
 		"fideid": 2325390,
@@ -13904,23 +13887,6 @@
 		"rating_standard": 1412,
 		"rating_rapid": 1428,
 		"rating_blitz": 1607
-	},
-	{
-		"fideid": 2329875,
-		"name": "Arnarsson, Elvar Gauti",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1411,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 2330954,
@@ -14005,6 +13971,23 @@
 		"flag": "i",
 		"rating_standard": 1403,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 2329972,
+		"name": "Bangoura, Moustapha Arni",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1402,
+		"rating_rapid": 1405,
 		"rating_blitz": null
 	},
 	{
@@ -14192,7 +14175,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1794,
-		"rating_blitz": 1791
+		"rating_blitz": 1799
 	},
 	{
 		"fideid": 2326221,
@@ -14509,7 +14492,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 1981,
 		"flag": "",
@@ -14600,6 +14583,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1578,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 2331810,
+		"name": "Bjornsson, Hordur Ingi",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1494,
 		"rating_blitz": null
 	},
 	{
@@ -14713,7 +14713,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1976,
 		"flag": "",
@@ -14747,7 +14747,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
@@ -14855,7 +14855,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1737,
-		"rating_blitz": 1786
+		"rating_blitz": 1797
 	},
 	{
 		"fideid": 2327147,
@@ -14900,12 +14900,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1672,
+		"rating_rapid": 1641,
 		"rating_blitz": 1575
 	},
 	{
@@ -15019,7 +15019,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -15257,12 +15257,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1462,
+		"rating_rapid": 1474,
 		"rating_blitz": 1571
 	},
 	{
@@ -15546,7 +15546,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "",
@@ -15563,7 +15563,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1992,
 		"flag": "",
@@ -16260,7 +16260,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
@@ -16484,7 +16484,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1995,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1541,
 		"rating_blitz": null
@@ -16600,12 +16600,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1537,
+		"rating_rapid": 1550,
 		"rating_blitz": null
 	},
 	{
@@ -16810,7 +16810,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1418,
-		"rating_blitz": null
+		"rating_blitz": 1574
 	},
 	{
 		"fideid": 2332892,
@@ -16913,23 +16913,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1748,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2324547,
-		"name": "Kristjansson, David Omar",
-		"country": "ISL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1417,
-		"rating_blitz": 1770
 	},
 	{
 		"fideid": 2304961,
@@ -17042,7 +17025,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
@@ -17093,12 +17076,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 8,
 		"k": 40,
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1646,
+		"rating_rapid": 1630,
 		"rating_blitz": 1591
 	},
 	{
@@ -17147,7 +17130,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1979,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1623,
 		"rating_blitz": null
@@ -17493,6 +17476,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 2330741,
+		"name": "Scheving Thorsteinsson, Patrick",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1583,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 2304139,
 		"name": "Scheving, Sigurdur",
 		"country": "ISL",
@@ -17756,12 +17756,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1785,
+		"rating_rapid": 1789,
 		"rating_blitz": null
 	},
 	{
@@ -18034,7 +18034,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1445,
-		"rating_blitz": 1685
+		"rating_blitz": 1731
 	},
 	{
 		"fideid": 2326884,
@@ -18371,7 +18371,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1567,
 		"rating_blitz": 1611
@@ -18408,7 +18408,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1553,
-		"rating_blitz": 1523
+		"rating_blitz": 1526
 	},
 	{
 		"fideid": 2311496,
@@ -18521,13 +18521,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
-		"k": 40,
+		"games": 13,
+		"k": 20,
 		"birthday": 1960,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1790
+		"rating_blitz": 1800
 	},
 	{
 		"fideid": 2316404,
@@ -18572,8 +18572,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1975,
 		"flag": "",
 		"rating_standard": null,
@@ -18827,13 +18827,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 19,
+		"games": 6,
 		"k": 20,
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1575
+		"rating_blitz": 1563
 	},
 	{
 		"fideid": 2303540,
@@ -18936,6 +18936,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1655
+	},
+	{
+		"fideid": 2332515,
+		"name": "Bjorgvinsson, Bjorgvin Elvar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1507
 	},
 	{
 		"fideid": 2319250,
@@ -19099,7 +19116,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
@@ -19187,7 +19204,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1949,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1547
@@ -19218,7 +19235,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -19329,6 +19346,23 @@
 		"rating_blitz": 1524
 	},
 	{
+		"fideid": 2333678,
+		"name": "Franksson, Adam",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1543
+	},
+	{
 		"fideid": 2319292,
 		"name": "Fridgeirsson, Haraldur O",
 		"country": "ISL",
@@ -19405,8 +19439,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
@@ -19463,6 +19497,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1862
+	},
+	{
+		"fideid": 2333694,
+		"name": "Gudmundsson, Bragi Holmar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1552
 	},
 	{
 		"fideid": 2311674,
@@ -19635,6 +19686,23 @@
 		"rating_blitz": 1411
 	},
 	{
+		"fideid": 2333716,
+		"name": "Hafsteinsson, Leifur Geir",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1730
+	},
+	{
 		"fideid": 2319438,
 		"name": "Haile, Lemuel Goitom",
 		"country": "ISL",
@@ -19762,13 +19830,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1574
+		"rating_blitz": 1563
 	},
 	{
 		"fideid": 2332906,
@@ -19779,13 +19847,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1566
+		"rating_blitz": 1557
 	},
 	{
 		"fideid": 2330032,
@@ -19864,8 +19932,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": null,
@@ -19983,7 +20051,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 20,
 		"birthday": 1976,
 		"flag": "",
@@ -20238,7 +20306,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 15,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
@@ -20442,13 +20510,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1961,
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1729
+	},
+	{
+		"fideid": 2324547,
+		"name": "Kristjansson, David Omar",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1770
 	},
 	{
 		"fideid": 2319667,
@@ -20502,6 +20587,23 @@
 		"rating_blitz": 1508
 	},
 	{
+		"fideid": 2333317,
+		"name": "Larusson, Konrad Thor",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1517
+	},
+	{
 		"fideid": 2312417,
 		"name": "Larusson, Thordur",
 		"country": "ISL",
@@ -20527,7 +20629,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
@@ -20714,8 +20816,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": null,
@@ -20816,7 +20918,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1980,
 		"flag": "",
@@ -21207,13 +21309,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1426
+	},
+	{
+		"fideid": 2333538,
+		"name": "Shliakhtun, Serhii",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1607
 	},
 	{
 		"fideid": 2322480,
@@ -21547,7 +21666,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 20,
 		"birthday": 1964,
 		"flag": "",
@@ -21581,13 +21700,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1610
+	},
+	{
+		"fideid": 2327317,
+		"name": "Theodoropoulos, Iraklis Hrafn",
+		"country": "ISL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1507
 	},
 	{
 		"fideid": 2308673,

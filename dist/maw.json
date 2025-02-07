@@ -1,22 +1,5 @@
 [
 	{
-		"fideid": 16400135,
-		"name": "Mwale, Joseph",
-		"country": "MAW",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 2081,
-		"rating_rapid": 2121,
-		"rating_blitz": 2197
-	},
-	{
 		"fideid": 16400119,
 		"name": "Chipanga, Chiletso",
 		"country": "MAW",
@@ -51,6 +34,23 @@
 		"rating_blitz": 2108
 	},
 	{
+		"fideid": 16400135,
+		"name": "Mwale, Joseph",
+		"country": "MAW",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 2045,
+		"rating_rapid": 2121,
+		"rating_blitz": 2197
+	},
+	{
 		"fideid": 20500254,
 		"name": "Mwale, George",
 		"country": "MAW",
@@ -59,11 +59,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 1993,
 		"flag": "",
-		"rating_standard": 2041,
+		"rating_standard": 2035,
 		"rating_rapid": 2018,
 		"rating_blitz": null
 	},
@@ -99,6 +99,23 @@
 		"flag": "i",
 		"rating_standard": 2020,
 		"rating_rapid": 1981,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 20501927,
+		"name": "Nyama Peter",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 2013,
+		"rating_rapid": 1992,
 		"rating_blitz": null
 	},
 	{
@@ -153,21 +170,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20501927,
-		"name": "Nyama Peter",
+		"fideid": 16400160,
+		"name": "Mwagomba, Fishan",
 		"country": "MAW",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
-		"birthday": 1991,
+		"birthday": 1995,
 		"flag": "",
-		"rating_standard": 1974,
-		"rating_rapid": 1992,
-		"rating_blitz": null
+		"rating_standard": 1973,
+		"rating_rapid": 1960,
+		"rating_blitz": 1929
 	},
 	{
 		"fideid": 20500785,
@@ -253,23 +270,6 @@
 		"rating_standard": 1951,
 		"rating_rapid": 1903,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 16400160,
-		"name": "Mwagomba, Fishan",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "i",
-		"rating_standard": 1944,
-		"rating_rapid": 1960,
-		"rating_blitz": 1929
 	},
 	{
 		"fideid": 20500572,
@@ -544,23 +544,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20500246,
-		"name": "Chingati Wilson",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "i",
-		"rating_standard": 1894,
-		"rating_rapid": 1892,
-		"rating_blitz": 1884
-	},
-	{
 		"fideid": 20500513,
 		"name": "Mwazozo Hope",
 		"country": "MAW",
@@ -612,21 +595,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20506112,
-		"name": "Kalambo Praise",
+		"fideid": 20500548,
+		"name": "Soko Seko",
 		"country": "MAW",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": 1888,
-		"rating_rapid": 1845,
-		"rating_blitz": null
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1892,
+		"rating_rapid": 1884,
+		"rating_blitz": 1851
 	},
 	{
 		"fideid": 20500300,
@@ -661,6 +644,23 @@
 		"rating_standard": 1886,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 20500246,
+		"name": "Chingati Wilson",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1883,
+		"rating_rapid": 1892,
+		"rating_blitz": 1884
 	},
 	{
 		"fideid": 20500629,
@@ -765,23 +765,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20500548,
-		"name": "Soko Seko",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "i",
-		"rating_standard": 1869,
-		"rating_rapid": 1884,
-		"rating_blitz": 1851
-	},
-	{
 		"fideid": 20504411,
 		"name": "Banda Bob",
 		"country": "MAW",
@@ -796,6 +779,23 @@
 		"flag": "i",
 		"rating_standard": 1867,
 		"rating_rapid": 1852,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 20506112,
+		"name": "Kalambo Praise",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1867,
+		"rating_rapid": 1845,
 		"rating_blitz": null
 	},
 	{
@@ -899,6 +899,23 @@
 		"rating_standard": 1862,
 		"rating_rapid": 1806,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 20501650,
+		"name": "Mkamanga Rumbani",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1862,
+		"rating_rapid": 1868,
+		"rating_blitz": 1979
 	},
 	{
 		"fideid": 20502230,
@@ -1088,6 +1105,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 20500742,
+		"name": "Ibrahim Jonathan",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1854,
+		"rating_rapid": 1880,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 20507763,
 		"name": "Nkhani Harrison",
 		"country": "MAW",
@@ -1105,21 +1139,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20501650,
-		"name": "Mkamanga Rumbani",
+		"fideid": 20500319,
+		"name": "Kanyinji Overton",
 		"country": "MAW",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
-		"birthday": 1982,
+		"birthday": 1985,
 		"flag": "",
 		"rating_standard": 1853,
-		"rating_rapid": 1868,
-		"rating_blitz": 1979
+		"rating_rapid": 1889,
+		"rating_blitz": 1884
 	},
 	{
 		"fideid": 20502192,
@@ -1258,6 +1292,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 20506627,
+		"name": "Shaba Martin",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1848,
+		"rating_rapid": 1883,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 20503687,
 		"name": "Longwe Emmanuel",
 		"country": "MAW",
@@ -1273,23 +1324,6 @@
 		"rating_standard": 1846,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 20500319,
-		"name": "Kanyinji Overton",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "i",
-		"rating_standard": 1845,
-		"rating_rapid": 1889,
-		"rating_blitz": 1884
 	},
 	{
 		"fideid": 20501960,
@@ -1357,23 +1391,6 @@
 		"flag": "i",
 		"rating_standard": 1842,
 		"rating_rapid": 1829,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 20500742,
-		"name": "Ibrahim Jonathan",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "i",
-		"rating_standard": 1840,
-		"rating_rapid": 1880,
 		"rating_blitz": null
 	},
 	{
@@ -1572,7 +1589,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
 		"birthday": 1992,
 		"flag": "",
@@ -1646,23 +1663,6 @@
 		"flag": "i",
 		"rating_standard": 1823,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 20506627,
-		"name": "Shaba Martin",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1823,
-		"rating_rapid": 1883,
 		"rating_blitz": null
 	},
 	{
@@ -2040,23 +2040,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20501323,
-		"name": "Chirwa Innocent",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1796,
-		"rating_rapid": 1898,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20502176,
 		"name": "Valeta Charles",
 		"country": "MAW",
@@ -2139,6 +2122,23 @@
 		"flag": "i",
 		"rating_standard": 1788,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 20507690,
+		"name": "Longwe Winston",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1787,
+		"rating_rapid": 1841,
 		"rating_blitz": null
 	},
 	{
@@ -2397,6 +2397,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 20501323,
+		"name": "Chirwa Innocent",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1770,
+		"rating_rapid": 1898,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 20505957,
 		"name": "Kambadzo Felix",
 		"country": "MAW",
@@ -2635,23 +2652,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20507194,
-		"name": "White Chisomo",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "i",
-		"rating_standard": 1761,
-		"rating_rapid": 1691,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20504268,
 		"name": "Chakana Clement",
 		"country": "MAW",
@@ -2666,6 +2666,23 @@
 		"flag": "i",
 		"rating_standard": 1760,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 20504560,
+		"name": "Mhinji Jacob",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1760,
+		"rating_rapid": 1683,
 		"rating_blitz": null
 	},
 	{
@@ -2701,6 +2718,23 @@
 		"rating_standard": 1759,
 		"rating_rapid": 1773,
 		"rating_blitz": 1771
+	},
+	{
+		"fideid": 20510950,
+		"name": "Pondamali Peace",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1759,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 20504217,
@@ -2907,23 +2941,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20505655,
-		"name": "Msowoya Emmanuel",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "i",
-		"rating_standard": 1750,
-		"rating_rapid": 1757,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20502206,
 		"name": "Nyirenda Mphatso",
 		"country": "MAW",
@@ -3043,6 +3060,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 20507194,
+		"name": "White Chisomo",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1741,
+		"rating_rapid": 1691,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 20505604,
 		"name": "Nazonse Fredrick",
 		"country": "MAW",
@@ -3057,40 +3091,6 @@
 		"flag": "i",
 		"rating_standard": 1739,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 20507690,
-		"name": "Longwe Winston",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": 1738,
-		"rating_rapid": 1841,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 20504560,
-		"name": "Mhinji Jacob",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "i",
-		"rating_standard": 1738,
-		"rating_rapid": 1683,
 		"rating_blitz": null
 	},
 	{
@@ -3111,6 +3111,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 20505655,
+		"name": "Msowoya Emmanuel",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1737,
+		"rating_rapid": 1757,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 20507208,
 		"name": "Saka Vincent",
 		"country": "MAW",
@@ -3126,23 +3143,6 @@
 		"rating_standard": 1736,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 20500505,
-		"name": "Mkandawire Moses",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1735,
-		"rating_rapid": 1705,
-		"rating_blitz": 1795
 	},
 	{
 		"fideid": 20503261,
@@ -3247,23 +3247,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20504276,
-		"name": "Matundu Richard",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "i",
-		"rating_standard": 1726,
-		"rating_rapid": 1710,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20507500,
 		"name": "Pasulani Olesi",
 		"country": "MAW",
@@ -3298,20 +3281,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20506732,
-		"name": "Chisunkha Emanuel",
+		"fideid": 20508409,
+		"name": "Mhango Orbet",
 		"country": "MAW",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "i",
-		"rating_standard": 1724,
-		"rating_rapid": 1707,
+		"games": 9,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1725,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -3329,6 +3312,23 @@
 		"flag": "i",
 		"rating_standard": 1722,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 20504276,
+		"name": "Matundu Richard",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1719,
+		"rating_rapid": 1710,
 		"rating_blitz": null
 	},
 	{
@@ -3417,23 +3417,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14305569,
-		"name": "Khuphwathea, Paul C.",
-		"country": "MAW",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "DI",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1711,
-		"rating_rapid": 1887,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20500661,
 		"name": "Mbale Charles",
 		"country": "MAW",
@@ -3466,6 +3449,23 @@
 		"rating_standard": 1711,
 		"rating_rapid": 1724,
 		"rating_blitz": 1723
+	},
+	{
+		"fideid": 20500505,
+		"name": "Mkandawire Moses",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1709,
+		"rating_rapid": 1705,
+		"rating_blitz": 1795
 	},
 	{
 		"fideid": 20502214,
@@ -3638,23 +3638,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20506090,
-		"name": "Phiri Juzza",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "i",
-		"rating_standard": 1695,
-		"rating_rapid": 1644,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20507712,
 		"name": "Thawani Willie",
 		"country": "MAW",
@@ -3706,6 +3689,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 20500912,
+		"name": "Mwakikunga Boniface",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1693,
+		"rating_rapid": 1670,
+		"rating_blitz": 1759
+	},
+	{
 		"fideid": 20502370,
 		"name": "Njolomole Dumile",
 		"country": "MAW",
@@ -3723,21 +3723,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20500912,
-		"name": "Mwakikunga Boniface",
+		"fideid": 20506732,
+		"name": "Chisunkha Emanuel",
 		"country": "MAW",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NA",
+		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
-		"birthday": 1989,
+		"birthday": 1995,
 		"flag": "",
-		"rating_standard": 1692,
-		"rating_rapid": 1670,
-		"rating_blitz": 1759
+		"rating_standard": 1689,
+		"rating_rapid": 1707,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14305569,
+		"name": "Khuphwathea, Paul C.",
+		"country": "MAW",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "DI",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1689,
+		"rating_rapid": 1887,
+		"rating_blitz": 1706
 	},
 	{
 		"fideid": 20510233,
@@ -3791,20 +3808,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20504136,
-		"name": "Shakazulu, Ernesto",
+		"fideid": 20506090,
+		"name": "Phiri Juzza",
 		"country": "MAW",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
-		"birthday": 1989,
-		"flag": "i",
+		"birthday": 1983,
+		"flag": "",
 		"rating_standard": 1683,
-		"rating_rapid": 1720,
+		"rating_rapid": 1644,
 		"rating_blitz": null
 	},
 	{
@@ -3995,6 +4012,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 20504136,
+		"name": "Shakazulu, Ernesto",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1666,
+		"rating_rapid": 1720,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 20506694,
 		"name": "Salima Praise",
 		"country": "MAW",
@@ -4077,6 +4111,23 @@
 		"flag": "i",
 		"rating_standard": 1663,
 		"rating_rapid": 1629,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 20510187,
+		"name": "Ngwira Sheriff",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1661,
+		"rating_rapid": 1694,
 		"rating_blitz": null
 	},
 	{
@@ -4295,7 +4346,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1632,
 		"rating_rapid": 1687,
 		"rating_blitz": 1682
@@ -4348,23 +4399,6 @@
 		"birthday": 1963,
 		"flag": "i",
 		"rating_standard": 1627,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 20508409,
-		"name": "Mhango Orbet",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": 1626,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -4451,6 +4485,23 @@
 		"flag": "i",
 		"rating_standard": 1617,
 		"rating_rapid": 1658,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 20506473,
+		"name": "Moyo John",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1610,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -4618,7 +4669,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1578,
 		"rating_rapid": 1605,
 		"rating_blitz": 1803
@@ -4709,23 +4760,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20500718,
-		"name": "Simwaba, Anne",
-		"country": "MAW",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1564,
-		"rating_rapid": 1583,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20508662,
 		"name": "Phiri Beston",
 		"country": "MAW",
@@ -4791,6 +4825,23 @@
 		"flag": "i",
 		"rating_standard": 1539,
 		"rating_rapid": 1622,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 20500718,
+		"name": "Simwaba, Anne",
+		"country": "MAW",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1539,
+		"rating_rapid": 1583,
 		"rating_blitz": null
 	},
 	{
@@ -4870,7 +4921,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -5202,6 +5253,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 20510241,
+		"name": "Keys John",
+		"country": "MAW",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 1434,
+		"rating_rapid": 1469,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 20501811,
 		"name": "Mukiwa Miracle",
 		"country": "MAW",
@@ -5499,7 +5567,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -5678,23 +5746,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20510241,
-		"name": "Keys John",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 1962,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1469,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20510470,
 		"name": "Khota Gibson",
 		"country": "MAW",
@@ -5774,7 +5825,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1976,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1851,
 		"rating_blitz": null
@@ -6069,23 +6120,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 20510187,
-		"name": "Ngwira Sheriff",
-		"country": "MAW",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1694,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20510608,
 		"name": "Nyirenda McDonald",
 		"country": "MAW",
@@ -6165,7 +6199,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1869,
 		"rating_blitz": null

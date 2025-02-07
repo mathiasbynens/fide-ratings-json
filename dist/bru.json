@@ -252,7 +252,7 @@
 		"flag": "",
 		"rating_standard": 2121,
 		"rating_rapid": 2154,
-		"rating_blitz": 2067
+		"rating_blitz": 2020
 	},
 	{
 		"fideid": 10500367,
@@ -592,7 +592,7 @@
 		"flag": "wi",
 		"rating_standard": 1972,
 		"rating_rapid": 1956,
-		"rating_blitz": 1920
+		"rating_blitz": 1909
 	},
 	{
 		"fideid": 10500529,
@@ -779,7 +779,7 @@
 		"flag": "",
 		"rating_standard": 1902,
 		"rating_rapid": 1975,
-		"rating_blitz": 1891
+		"rating_blitz": 1901
 	},
 	{
 		"fideid": 10500669,
@@ -830,7 +830,7 @@
 		"flag": "",
 		"rating_standard": 1882,
 		"rating_rapid": 1938,
-		"rating_blitz": 1953
+		"rating_blitz": 1925
 	},
 	{
 		"fideid": 10501959,
@@ -966,7 +966,7 @@
 		"flag": "",
 		"rating_standard": 1850,
 		"rating_rapid": 2002,
-		"rating_blitz": 1989
+		"rating_blitz": 1974
 	},
 	{
 		"fideid": 10500758,
@@ -1000,7 +1000,7 @@
 		"flag": "i",
 		"rating_standard": 1833,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1838
 	},
 	{
 		"fideid": 10501673,
@@ -1085,7 +1085,7 @@
 		"flag": "",
 		"rating_standard": 1823,
 		"rating_rapid": 1845,
-		"rating_blitz": 1838
+		"rating_blitz": 1841
 	},
 	{
 		"fideid": 10503846,
@@ -1102,7 +1102,7 @@
 		"flag": "",
 		"rating_standard": 1809,
 		"rating_rapid": null,
-		"rating_blitz": 1877
+		"rating_blitz": 1869
 	},
 	{
 		"fideid": 10500502,
@@ -1136,7 +1136,7 @@
 		"flag": "",
 		"rating_standard": 1802,
 		"rating_rapid": 1723,
-		"rating_blitz": 1867
+		"rating_blitz": 1938
 	},
 	{
 		"fideid": 10502840,
@@ -1238,7 +1238,7 @@
 		"flag": "i",
 		"rating_standard": 1771,
 		"rating_rapid": 1799,
-		"rating_blitz": 1837
+		"rating_blitz": 1809
 	},
 	{
 		"fideid": 10501720,
@@ -1273,23 +1273,6 @@
 		"rating_standard": 1760,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 10502394,
-		"name": "Rezuan, A",
-		"country": "BRU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1760,
-		"rating_rapid": 1818,
-		"rating_blitz": 1774
 	},
 	{
 		"fideid": 10501371,
@@ -1374,7 +1357,7 @@
 		"flag": "",
 		"rating_standard": 1734,
 		"rating_rapid": 1791,
-		"rating_blitz": 1820
+		"rating_blitz": 1785
 	},
 	{
 		"fideid": 10503528,
@@ -1391,7 +1374,7 @@
 		"flag": "",
 		"rating_standard": 1733,
 		"rating_rapid": 1680,
-		"rating_blitz": 1771
+		"rating_blitz": 1899
 	},
 	{
 		"fideid": 10501703,
@@ -1462,21 +1445,21 @@
 		"rating_blitz": 1894
 	},
 	{
-		"fideid": 10502670,
-		"name": "Hasnul, Hashim",
+		"fideid": 10502394,
+		"name": "Rezuan, A",
 		"country": "BRU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
-		"birthday": 1978,
+		"birthday": 1979,
 		"flag": "",
-		"rating_standard": 1711,
-		"rating_rapid": 1845,
-		"rating_blitz": 1809
+		"rating_standard": 1708,
+		"rating_rapid": 1818,
+		"rating_blitz": 1746
 	},
 	{
 		"fideid": 10503200,
@@ -1530,6 +1513,23 @@
 		"rating_blitz": 1682
 	},
 	{
+		"fideid": 10502670,
+		"name": "Hasnul, Hashim",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1674,
+		"rating_rapid": 1845,
+		"rating_blitz": 1809
+	},
+	{
 		"fideid": 10503480,
 		"name": "Haji Mahmud, Haji Adi Ihram",
 		"country": "BRU",
@@ -1555,13 +1555,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1637,
+		"rating_standard": 1653,
 		"rating_rapid": 1728,
-		"rating_blitz": 1708
+		"rating_blitz": 1893
 	},
 	{
 		"fideid": 10503170,
@@ -1640,7 +1640,7 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "w",
@@ -1762,10 +1762,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1758,
-		"rating_blitz": 1791
+		"rating_blitz": 1795
 	},
 	{
 		"fideid": 10503285,
@@ -1864,7 +1864,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1922,
 		"rating_blitz": null
@@ -1887,6 +1887,23 @@
 		"rating_blitz": 1737
 	},
 	{
+		"fideid": 10504001,
+		"name": "Ahmad Shafie, Ahmad Rawie",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1713
+	},
+	{
 		"fideid": 10503242,
 		"name": "Ahmad, Zaydani",
 		"country": "BRU",
@@ -1895,13 +1912,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1830
+		"rating_blitz": 1789
 	},
 	{
 		"fideid": 10502769,
@@ -1972,6 +1989,40 @@
 		"rating_blitz": 1805
 	},
 	{
+		"fideid": 10504150,
+		"name": "Go See Kai",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1789
+	},
+	{
+		"fideid": 10502866,
+		"name": "Hj Mohamad, Muhd. Noor Abdullah",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1839
+	},
+	{
 		"fideid": 10500979,
 		"name": "Hj, Morani Ismail",
 		"country": "BRU",
@@ -2040,6 +2091,23 @@
 		"rating_blitz": 1998
 	},
 	{
+		"fideid": 10504095,
+		"name": "Lim Ren Ken",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1644
+	},
+	{
 		"fideid": 10501096,
 		"name": "Md, Afif",
 		"country": "BRU",
@@ -2091,6 +2159,23 @@
 		"rating_blitz": 1857
 	},
 	{
+		"fideid": 10503579,
+		"name": "Muhd. Khairul Ikhwan",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1715
+	},
+	{
 		"fideid": 10501185,
 		"name": "Pg, Md Fhame",
 		"country": "BRU",
@@ -2133,13 +2218,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 2,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1459
+		"rating_blitz": 1449
 	},
 	{
 		"fideid": 10503420,
@@ -2159,6 +2244,23 @@
 		"rating_blitz": 1865
 	},
 	{
+		"fideid": 10502963,
+		"name": "Shahfaizal, Aqil Irfan",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1558
+	},
+	{
 		"fideid": 10504060,
 		"name": "Syed Mohd. Yamin, Syed Aqeel",
 		"country": "BRU",
@@ -2174,6 +2276,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1630
+	},
+	{
+		"fideid": 10504176,
+		"name": "Vassco, Wali",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1764
 	},
 	{
 		"fideid": 10502580,
@@ -2208,5 +2327,22 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1832
+	},
+	{
+		"fideid": 10504206,
+		"name": "Zul Izzi, Muhd. Abd. Mateen",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1725
 	}
 ]
