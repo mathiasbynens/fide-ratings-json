@@ -136,23 +136,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14801302,
-		"name": "Napoleao, Lourenco",
-		"country": "MOZ",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 1966,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14800071,
 		"name": "Cossa, Pedro Ventura",
 		"country": "MOZ",
@@ -165,6 +148,23 @@
 		"k": 20,
 		"birthday": 1984,
 		"flag": "i",
+		"rating_standard": 1965,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14801302,
+		"name": "Napoleao, Lourenco",
+		"country": "MOZ",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1995,
+		"flag": "",
 		"rating_standard": 1965,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -266,7 +266,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1994,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1924,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -555,7 +555,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1800,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -810,7 +810,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1999,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1753,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -878,7 +878,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1990,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1747,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1105,6 +1105,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14802848,
+		"name": "Nombora, William dos Santos",
+		"country": "MOZ",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1715,
+		"rating_rapid": 1712,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14803240,
 		"name": "Sarajabo, Jojo Abdul",
 		"country": "MOZ",
@@ -1116,7 +1133,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1715,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1188,23 +1205,6 @@
 		"rating_standard": 1707,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14805316,
-		"name": "Posso, Bruno Eduardo",
-		"country": "MOZ",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1705,
-		"rating_rapid": 1601,
-		"rating_blitz": 1739
 	},
 	{
 		"fideid": 14802180,
@@ -1326,6 +1326,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14805316,
+		"name": "Posso, Bruno Eduardo",
+		"country": "MOZ",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1689,
+		"rating_rapid": 1601,
+		"rating_blitz": 1739
+	},
+	{
 		"fideid": 14800187,
 		"name": "Tivane, Graca Da Felecidade Kuma",
 		"country": "MOZ",
@@ -1411,23 +1428,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14802848,
-		"name": "Nombora, William dos Santos",
-		"country": "MOZ",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 1671,
-		"rating_rapid": 1712,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14802023,
 		"name": "Jubilio Alberto Mahassule",
 		"country": "MOZ",
@@ -1507,7 +1507,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1998,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1662,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1819,23 +1819,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14801043,
-		"name": "Idalmish Rufino Andre",
-		"country": "MOZ",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "w",
-		"rating_standard": 1585,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14802171,
 		"name": "Sandramo, Chineva Rufino",
 		"country": "MOZ",
@@ -1848,7 +1831,24 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
-		"rating_standard": 1584,
+		"rating_standard": 1586,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14801043,
+		"name": "Idalmish Rufino Andre",
+		"country": "MOZ",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "wi",
+		"rating_standard": 1585,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -2023,6 +2023,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14800373,
+		"name": "Hayssan Abdul Arnaldo Afu",
+		"country": "MOZ",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1537,
+		"rating_rapid": 1549,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14806711,
 		"name": "Herminigildo Albazino Bento Junior",
 		"country": "MOZ",
@@ -2037,23 +2054,6 @@
 		"flag": "",
 		"rating_standard": 1529,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14800373,
-		"name": "Hayssan Abdul Arnaldo Afu",
-		"country": "MOZ",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": 1528,
-		"rating_rapid": 1549,
 		"rating_blitz": null
 	},
 	{
@@ -2085,7 +2085,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1521,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2170,7 +2170,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1477,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2187,7 +2187,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2003,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1476,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2204,7 +2204,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1449,
 		"rating_rapid": null,
 		"rating_blitz": null
