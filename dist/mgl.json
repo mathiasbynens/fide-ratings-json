@@ -8,7 +8,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 10,
 		"birthday": 2004,
 		"flag": "",
@@ -76,7 +76,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 10,
 		"birthday": 2003,
 		"flag": "",
@@ -93,13 +93,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 10,
 		"birthday": 1987,
 		"flag": "",
-		"rating_standard": 2436,
+		"rating_standard": 2430,
 		"rating_rapid": 2442,
 		"rating_blitz": 2386
+	},
+	{
+		"fideid": 4902548,
+		"name": "Amartuvshin, Ganzorig",
+		"country": "MGL",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 10,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 2429,
+		"rating_rapid": 2356,
+		"rating_blitz": 2345
 	},
 	{
 		"fideid": 4902912,
@@ -110,30 +127,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 18,
+		"games": 0,
 		"k": 10,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 2416,
 		"rating_rapid": 2216,
 		"rating_blitz": 2272
-	},
-	{
-		"fideid": 4903250,
-		"name": "Amilal Munkhdalai",
-		"country": "MGL",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2409,
-		"rating_rapid": 2341,
-		"rating_blitz": 2341
 	},
 	{
 		"fideid": 4901266,
@@ -153,21 +153,21 @@
 		"rating_blitz": 2505
 	},
 	{
-		"fideid": 4902548,
-		"name": "Amartuvshin, Ganzorig",
+		"fideid": 4902572,
+		"name": "Chinguun, Sumiya",
 		"country": "MGL",
 		"sex": "M",
-		"title": "IM",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 17,
+		"games": 11,
 		"k": 10,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 2404,
-		"rating_rapid": 2356,
-		"rating_blitz": 2345
+		"rating_standard": 2405,
+		"rating_rapid": 2271,
+		"rating_blitz": 2330
 	},
 	{
 		"fideid": 4902521,
@@ -204,21 +204,21 @@
 		"rating_blitz": 2198
 	},
 	{
-		"fideid": 4902572,
-		"name": "Chinguun, Sumiya",
+		"fideid": 4903250,
+		"name": "Amilal Munkhdalai",
 		"country": "MGL",
 		"sex": "M",
-		"title": "FM",
+		"title": "IM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 8,
 		"k": 10,
-		"birthday": 2005,
+		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 2385,
-		"rating_rapid": 2271,
-		"rating_blitz": 2330
+		"rating_rapid": 2341,
+		"rating_blitz": 2341
 	},
 	{
 		"fideid": 4900324,
@@ -314,7 +314,7 @@
 		"w_title": "WGM",
 		"o_title": "FT",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 10,
 		"birthday": 1987,
 		"flag": "w",
@@ -374,6 +374,23 @@
 		"rating_blitz": 1960
 	},
 	{
+		"fideid": 4900782,
+		"name": "Nomin-Erdene, Davaademberel",
+		"country": "MGL",
+		"sex": "F",
+		"title": "IM",
+		"w_title": "WGM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 2000,
+		"flag": "w",
+		"rating_standard": 2327,
+		"rating_rapid": 2280,
+		"rating_blitz": 2270
+	},
+	{
 		"fideid": 4902904,
 		"name": "Ashid, Tsetseg-Ulzii",
 		"country": "MGL",
@@ -389,23 +406,6 @@
 		"rating_standard": 2325,
 		"rating_rapid": 2225,
 		"rating_blitz": 2225
-	},
-	{
-		"fideid": 4900782,
-		"name": "Nomin-Erdene, Davaademberel",
-		"country": "MGL",
-		"sex": "F",
-		"title": "IM",
-		"w_title": "WGM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 10,
-		"birthday": 2000,
-		"flag": "w",
-		"rating_standard": 2324,
-		"rating_rapid": 2280,
-		"rating_blitz": 2270
 	},
 	{
 		"fideid": 4901304,
@@ -439,6 +439,23 @@
 		"flag": "",
 		"rating_standard": 2316,
 		"rating_rapid": 2278,
+		"rating_blitz": 2284
+	},
+	{
+		"fideid": 4902831,
+		"name": "Mungunzul, Bat-Erdene",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 2302,
+		"rating_rapid": 2285,
 		"rating_blitz": 2284
 	},
 	{
@@ -525,23 +542,6 @@
 		"rating_standard": 2272,
 		"rating_rapid": 2257,
 		"rating_blitz": 2280
-	},
-	{
-		"fideid": 4902831,
-		"name": "Mungunzul, Bat-Erdene",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 2268,
-		"rating_rapid": 2285,
-		"rating_blitz": 2284
 	},
 	{
 		"fideid": 4904311,
@@ -776,44 +776,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1990,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2209,
 		"rating_rapid": 2172,
 		"rating_blitz": 2081
-	},
-	{
-		"fideid": 4908120,
-		"name": "Ulziikhishig Khishigbat",
-		"country": "MGL",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2206,
-		"rating_rapid": 2027,
-		"rating_blitz": 1957
-	},
-	{
-		"fideid": 4910532,
-		"name": "Khuslen, Erdenebayar",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 2201,
-		"rating_rapid": 2102,
-		"rating_blitz": 2091
 	},
 	{
 		"fideid": 4901592,
@@ -867,6 +833,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4903552,
+		"name": "Aldar Burentegsh",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2196,
+		"rating_rapid": 1949,
+		"rating_blitz": 1947
+	},
+	{
 		"fideid": 4900561,
 		"name": "Batzorig, Tuvshintugs",
 		"country": "MGL",
@@ -882,6 +865,23 @@
 		"rating_standard": 2196,
 		"rating_rapid": 2088,
 		"rating_blitz": 2141
+	},
+	{
+		"fideid": 4908120,
+		"name": "Ulziikhishig Khishigbat",
+		"country": "MGL",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2196,
+		"rating_rapid": 2027,
+		"rating_blitz": 1957
 	},
 	{
 		"fideid": 4900383,
@@ -901,6 +901,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4918657,
+		"name": "Tumur-Ochir, Duluu",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2193,
+		"rating_rapid": 2082,
+		"rating_blitz": 2161
+	},
+	{
 		"fideid": 4900227,
 		"name": "Uuriintuya, Uurtsaikh",
 		"country": "MGL",
@@ -916,40 +933,6 @@
 		"rating_standard": 2187,
 		"rating_rapid": 2239,
 		"rating_blitz": 2131
-	},
-	{
-		"fideid": 4907272,
-		"name": "Enkhrii Enkh-Amgalan",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 2184,
-		"rating_rapid": 1893,
-		"rating_blitz": 1993
-	},
-	{
-		"fideid": 4903528,
-		"name": "Sodbilegt, Naranbold",
-		"country": "MGL",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2183,
-		"rating_rapid": 1946,
-		"rating_blitz": 1914
 	},
 	{
 		"fideid": 4902718,
@@ -984,23 +967,6 @@
 		"rating_standard": 2181,
 		"rating_rapid": 2081,
 		"rating_blitz": 2081
-	},
-	{
-		"fideid": 4918657,
-		"name": "Tumur-Ochir, Duluu",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2181,
-		"rating_rapid": 2082,
-		"rating_blitz": 2161
 	},
 	{
 		"fideid": 4900944,
@@ -1052,6 +1018,23 @@
 		"rating_standard": 2178,
 		"rating_rapid": 1934,
 		"rating_blitz": 2100
+	},
+	{
+		"fideid": 4903528,
+		"name": "Sodbilegt, Naranbold",
+		"country": "MGL",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2177,
+		"rating_rapid": 1946,
+		"rating_blitz": 1914
 	},
 	{
 		"fideid": 4900987,
@@ -1139,23 +1122,6 @@
 		"rating_blitz": 2132
 	},
 	{
-		"fideid": 4900677,
-		"name": "Bayarmandakh, Balgan",
-		"country": "MGL",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 2166,
-		"rating_rapid": 2180,
-		"rating_blitz": 2116
-	},
-	{
 		"fideid": 4900642,
 		"name": "Byambaa, Zulzaga",
 		"country": "MGL",
@@ -1205,6 +1171,40 @@
 		"rating_standard": 2160,
 		"rating_rapid": 2014,
 		"rating_blitz": 2042
+	},
+	{
+		"fideid": 4910532,
+		"name": "Khuslen, Erdenebayar",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 2157,
+		"rating_rapid": 2102,
+		"rating_blitz": 2091
+	},
+	{
+		"fideid": 4900677,
+		"name": "Bayarmandakh, Balgan",
+		"country": "MGL",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "",
+		"rating_standard": 2154,
+		"rating_rapid": 2180,
+		"rating_blitz": 2116
 	},
 	{
 		"fideid": 4901347,
@@ -1258,21 +1258,21 @@
 		"rating_blitz": 1980
 	},
 	{
-		"fideid": 2076608,
-		"name": "Chinguun Bayaraa",
+		"fideid": 4907272,
+		"name": "Enkhrii Enkh-Amgalan",
 		"country": "MGL",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 2140,
-		"rating_rapid": 1922,
-		"rating_blitz": 2089
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 2142,
+		"rating_rapid": 1893,
+		"rating_blitz": 1993
 	},
 	{
 		"fideid": 4900448,
@@ -1307,6 +1307,23 @@
 		"rating_standard": 2135,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 2076608,
+		"name": "Chinguun Bayaraa",
+		"country": "MGL",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 2134,
+		"rating_rapid": 1922,
+		"rating_blitz": 2089
 	},
 	{
 		"fideid": 4902785,
@@ -1649,21 +1666,21 @@
 		"rating_blitz": 2114
 	},
 	{
-		"fideid": 4922360,
-		"name": "Batbaatar, Baatar",
+		"fideid": 4920023,
+		"name": "Duurenkhishig, Bat-Erdene",
 		"country": "MGL",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 7,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 2089,
-		"rating_rapid": 2001,
-		"rating_blitz": 1831
+		"rating_standard": 2088,
+		"rating_rapid": 1942,
+		"rating_blitz": 1913
 	},
 	{
 		"fideid": 4921224,
@@ -1700,21 +1717,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4903552,
-		"name": "Aldar Burentegsh",
+		"fideid": 4923537,
+		"name": "Buyankhishig, Batpelden",
 		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 17,
 		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2083,
-		"rating_rapid": 1949,
-		"rating_blitz": 1947
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 2082,
+		"rating_rapid": 1871,
+		"rating_blitz": 1875
 	},
 	{
 		"fideid": 4905130,
@@ -1819,21 +1836,21 @@
 		"rating_blitz": 2061
 	},
 	{
-		"fideid": 4920023,
-		"name": "Duurenkhishig, Bat-Erdene",
+		"fideid": 4907493,
+		"name": "Orgilon Batsaikhan",
 		"country": "MGL",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 2063,
-		"rating_rapid": 1942,
-		"rating_blitz": 1913
+		"rating_rapid": 1815,
+		"rating_blitz": 1809
 	},
 	{
 		"fideid": 4900855,
@@ -1938,23 +1955,6 @@
 		"rating_blitz": 2064
 	},
 	{
-		"fideid": 4926552,
-		"name": "Anand, Tsogtbileg",
-		"country": "MGL",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 2057,
-		"rating_rapid": 1855,
-		"rating_blitz": 2028
-	},
-	{
 		"fideid": 4900995,
 		"name": "Tuvshinbayar, Ishragchaa",
 		"country": "MGL",
@@ -1970,6 +1970,23 @@
 		"rating_standard": 2057,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4926552,
+		"name": "Anand, Tsogtbileg",
+		"country": "MGL",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 2056,
+		"rating_rapid": 1854,
+		"rating_blitz": 2028
 	},
 	{
 		"fideid": 4906322,
@@ -2021,6 +2038,23 @@
 		"rating_standard": 2050,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4922360,
+		"name": "Batbaatar, Baatar",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 2044,
+		"rating_rapid": 2001,
+		"rating_blitz": 1831
 	},
 	{
 		"fideid": 4900693,
@@ -2082,7 +2116,7 @@
 		"w_title": "WIM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "w",
@@ -2193,23 +2227,6 @@
 		"rating_blitz": 2048
 	},
 	{
-		"fideid": 4907493,
-		"name": "Orgilon Batsaikhan",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2024,
-		"rating_rapid": 1815,
-		"rating_blitz": 1809
-	},
-	{
 		"fideid": 4900529,
 		"name": "Chancaldiimaa, Givaabaljir",
 		"country": "MGL",
@@ -2259,6 +2276,23 @@
 		"rating_standard": 2018,
 		"rating_rapid": 1996,
 		"rating_blitz": 1995
+	},
+	{
+		"fideid": 4923790,
+		"name": "Iderjavkhlan, Tumursukh",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 2016,
+		"rating_rapid": 1691,
+		"rating_blitz": 1900
 	},
 	{
 		"fideid": 4900235,
@@ -2312,23 +2346,6 @@
 		"rating_blitz": 1963
 	},
 	{
-		"fideid": 4908023,
-		"name": "Emujin Enkh-Amgalan",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 2008,
-		"rating_rapid": 1706,
-		"rating_blitz": 1942
-	},
-	{
 		"fideid": 4903773,
 		"name": "Enkh-Od Enkhbaatar",
 		"country": "MGL",
@@ -2363,6 +2380,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4920929,
+		"name": "KHASCHULUU, Sergelenbaatar",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2004,
+		"rating_rapid": 1945,
+		"rating_blitz": 1785
+	},
+	{
 		"fideid": 4901363,
 		"name": "Oyunbayar, Batbayar",
 		"country": "MGL",
@@ -2378,23 +2412,6 @@
 		"rating_standard": 2004,
 		"rating_rapid": null,
 		"rating_blitz": 1942
-	},
-	{
-		"fideid": 4920929,
-		"name": "KHASCHULUU, Sergelenbaatar",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2002,
-		"rating_rapid": 1929,
-		"rating_blitz": 1735
 	},
 	{
 		"fideid": 4904052,
@@ -2462,7 +2479,7 @@
 		"flag": "",
 		"rating_standard": 1997,
 		"rating_rapid": 1945,
-		"rating_blitz": 1873
+		"rating_blitz": 1875
 	},
 	{
 		"fideid": 4900480,
@@ -2567,6 +2584,23 @@
 		"rating_blitz": 2012
 	},
 	{
+		"fideid": 4919114,
+		"name": "Urangoo, Gurvanbaatar",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1989,
+		"rating_rapid": 1736,
+		"rating_blitz": 1758
+	},
+	{
 		"fideid": 4907949,
 		"name": "Danzanjunai, Ganbat",
 		"country": "MGL",
@@ -2582,23 +2616,6 @@
 		"rating_standard": 1988,
 		"rating_rapid": 1776,
 		"rating_blitz": 1831
-	},
-	{
-		"fideid": 4901916,
-		"name": "Buyandalai, Tumen",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 1987,
-		"rating_rapid": 2067,
-		"rating_blitz": 2036
 	},
 	{
 		"fideid": 4901894,
@@ -2703,23 +2720,6 @@
 		"rating_blitz": 1933
 	},
 	{
-		"fideid": 4919114,
-		"name": "Urangoo, Gurvanbaatar",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1982,
-		"rating_rapid": 1736,
-		"rating_blitz": 1758
-	},
-	{
 		"fideid": 4902602,
 		"name": "Bilegsaikhan, Oyunbold",
 		"country": "MGL",
@@ -2735,23 +2735,6 @@
 		"rating_standard": 1981,
 		"rating_rapid": 1953,
 		"rating_blitz": 1972
-	},
-	{
-		"fideid": 4923790,
-		"name": "Iderjavkhlan, Tumursukh",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1979,
-		"rating_rapid": 1691,
-		"rating_blitz": 1900
 	},
 	{
 		"fideid": 4903692,
@@ -2851,7 +2834,7 @@
 		"k": 20,
 		"birthday": 1995,
 		"flag": "w",
-		"rating_standard": 1971,
+		"rating_standard": 1972,
 		"rating_rapid": 1947,
 		"rating_blitz": 1957
 	},
@@ -3145,6 +3128,23 @@
 		"rating_blitz": 1894
 	},
 	{
+		"fideid": 4901916,
+		"name": "Buyandalai, Tumen",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 1954,
+		"rating_rapid": 2067,
+		"rating_blitz": 2036
+	},
+	{
 		"fideid": 4901614,
 		"name": "Sainbayar, Tserendorj",
 		"country": "MGL",
@@ -3349,23 +3349,6 @@
 		"rating_blitz": 1992
 	},
 	{
-		"fideid": 4902335,
-		"name": "Davaademberel, Purevdorj",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1940,
-		"rating_rapid": 2013,
-		"rating_blitz": 1909
-	},
-	{
 		"fideid": 4903790,
 		"name": "Khaliunaa Gankhulug",
 		"country": "MGL",
@@ -3383,6 +3366,23 @@
 		"rating_blitz": 1879
 	},
 	{
+		"fideid": 4902335,
+		"name": "Davaademberel, Purevdorj",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1938,
+		"rating_rapid": 2013,
+		"rating_blitz": 1909
+	},
+	{
 		"fideid": 4918762,
 		"name": "Anand, Munkhbat",
 		"country": "MGL",
@@ -3396,8 +3396,8 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1936,
-		"rating_rapid": 1895,
-		"rating_blitz": 2009
+		"rating_rapid": 1941,
+		"rating_blitz": 2045
 	},
 	{
 		"fideid": 4909615,
@@ -3417,21 +3417,21 @@
 		"rating_blitz": 1922
 	},
 	{
-		"fideid": 4927575,
-		"name": "Sod-Erdene, Sandagdorj",
+		"fideid": 4904125,
+		"name": "Sukhbat Gendendorj",
 		"country": "MGL",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1986,
+		"games": 8,
+		"k": 20,
+		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1935,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1890,
+		"rating_blitz": 1819
 	},
 	{
 		"fideid": 4903099,
@@ -3553,23 +3553,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4910222,
-		"name": "Margad, Munkhpurev",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1925,
-		"rating_rapid": 1672,
-		"rating_blitz": 1794
-	},
-	{
 		"fideid": 4920473,
 		"name": "Sergelen, Batbayar",
 		"country": "MGL",
@@ -3582,7 +3565,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1923,
+		"rating_standard": 1924,
 		"rating_rapid": 1771,
 		"rating_blitz": 1978
 	},
@@ -3602,6 +3585,23 @@
 		"rating_standard": 1921,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4918665,
+		"name": "Jannur, Kupjasar",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "w",
+		"rating_standard": 1920,
+		"rating_rapid": 1690,
+		"rating_blitz": 1846
 	},
 	{
 		"fideid": 4909763,
@@ -3655,23 +3655,6 @@
 		"rating_blitz": 1926
 	},
 	{
-		"fideid": 4904125,
-		"name": "Sukhbat Gendendorj",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": 1919,
-		"rating_rapid": 1890,
-		"rating_blitz": 1819
-	},
-	{
 		"fideid": 4900189,
 		"name": "Bayarmaa, Gendenjamc",
 		"country": "MGL",
@@ -3704,6 +3687,23 @@
 		"rating_standard": 1918,
 		"rating_rapid": 1886,
 		"rating_blitz": 1825
+	},
+	{
+		"fideid": 4908023,
+		"name": "Emujin Enkh-Amgalan",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1917,
+		"rating_rapid": 1708,
+		"rating_blitz": 1942
 	},
 	{
 		"fideid": 4918711,
@@ -3740,23 +3740,6 @@
 		"rating_blitz": 1830
 	},
 	{
-		"fideid": 4900057,
-		"name": "Lkhagva, Jambaldoo",
-		"country": "MGL",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1944,
-		"flag": "",
-		"rating_standard": 1916,
-		"rating_rapid": 1938,
-		"rating_blitz": 1975
-	},
-	{
 		"fideid": 4903013,
 		"name": "Bayarsaikhan, Adiya",
 		"country": "MGL",
@@ -3789,23 +3772,6 @@
 		"rating_standard": 1915,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4907906,
-		"name": "Naransolongo, Zorigoo",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1914,
-		"rating_rapid": 1805,
-		"rating_blitz": 1667
 	},
 	{
 		"fideid": 4901096,
@@ -3842,6 +3808,23 @@
 		"rating_blitz": 1926
 	},
 	{
+		"fideid": 4904737,
+		"name": "Boldbaatar, Sambuu",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1912,
+		"rating_rapid": 1824,
+		"rating_blitz": 1836
+	},
+	{
 		"fideid": 4901886,
 		"name": "Saintugs, Shagdarsuren",
 		"country": "MGL",
@@ -3876,23 +3859,6 @@
 		"rating_blitz": 1894
 	},
 	{
-		"fideid": 4900243,
-		"name": "Enkhbat, Tsendragchaa",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 1911,
-		"rating_rapid": 1992,
-		"rating_blitz": 1935
-	},
-	{
 		"fideid": 4909577,
 		"name": "Batkhuu, Tsedev",
 		"country": "MGL",
@@ -3908,23 +3874,6 @@
 		"rating_standard": 1909,
 		"rating_rapid": 1876,
 		"rating_blitz": 1893
-	},
-	{
-		"fideid": 4923537,
-		"name": "Buyankhishig, Batpelden",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1907,
-		"rating_rapid": 1871,
-		"rating_blitz": 1875
 	},
 	{
 		"fideid": 4901061,
@@ -4063,6 +4012,23 @@
 		"rating_blitz": 1906
 	},
 	{
+		"fideid": 4924185,
+		"name": "Tugsbilguun, Davganamdag",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1902,
+		"rating_rapid": 1569,
+		"rating_blitz": 1608
+	},
+	{
 		"fideid": 4904710,
 		"name": "Zoljargal, Altankhuyag",
 		"country": "MGL",
@@ -4114,6 +4080,23 @@
 		"rating_blitz": 1711
 	},
 	{
+		"fideid": 4900057,
+		"name": "Lkhagva, Jambaldoo",
+		"country": "MGL",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1944,
+		"flag": "",
+		"rating_standard": 1896,
+		"rating_rapid": 1938,
+		"rating_blitz": 1975
+	},
+	{
 		"fideid": 4909550,
 		"name": "Tudev, Davaadugar",
 		"country": "MGL",
@@ -4145,7 +4128,7 @@
 		"flag": "i",
 		"rating_standard": 1895,
 		"rating_rapid": 1902,
-		"rating_blitz": 1892
+		"rating_blitz": 1894
 	},
 	{
 		"fideid": 4909674,
@@ -4162,7 +4145,7 @@
 		"flag": "",
 		"rating_standard": 1895,
 		"rating_rapid": 1906,
-		"rating_blitz": 1887
+		"rating_blitz": 1888
 	},
 	{
 		"fideid": 4903650,
@@ -4180,6 +4163,23 @@
 		"rating_standard": 1894,
 		"rating_rapid": 1857,
 		"rating_blitz": 1922
+	},
+	{
+		"fideid": 4927575,
+		"name": "Sod-Erdene, Sandagdorj",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1893,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4908775,
@@ -4231,23 +4231,6 @@
 		"rating_standard": 1891,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4918665,
-		"name": "Jannur, Kupjasar",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 18,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "w",
-		"rating_standard": 1891,
-		"rating_rapid": 1690,
-		"rating_blitz": 1795
 	},
 	{
 		"fideid": 4908767,
@@ -4437,6 +4420,23 @@
 		"rating_blitz": 1825
 	},
 	{
+		"fideid": 4907078,
+		"name": "Zol-Uchral Erdenesaikhan",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1884,
+		"rating_rapid": 1945,
+		"rating_blitz": 1862
+	},
+	{
 		"fideid": 4900510,
 		"name": "Serjmyadag, Damdin",
 		"country": "MGL",
@@ -4522,6 +4522,23 @@
 		"rating_blitz": 1861
 	},
 	{
+		"fideid": 4900243,
+		"name": "Enkhbat, Tsendragchaa",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1879,
+		"rating_rapid": 1992,
+		"rating_blitz": 1935
+	},
+	{
 		"fideid": 4919319,
 		"name": "Chimed, Munkhbat",
 		"country": "MGL",
@@ -4573,23 +4590,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4923707,
-		"name": "Tselmuun, Ider",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1877,
-		"rating_rapid": 1597,
-		"rating_blitz": 1595
-	},
-	{
 		"fideid": 4902157,
 		"name": "Irmuuntulga, Batjargal",
 		"country": "MGL",
@@ -4607,6 +4607,40 @@
 		"rating_blitz": 1828
 	},
 	{
+		"fideid": 4923707,
+		"name": "Tselmuun, Ider",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1875,
+		"rating_rapid": 1597,
+		"rating_blitz": 1596
+	},
+	{
+		"fideid": 4919548,
+		"name": "Baatar, Damba",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1874,
+		"rating_rapid": 1975,
+		"rating_blitz": 1979
+	},
+	{
 		"fideid": 4919220,
 		"name": "Bazarsad, Lkhagvasuren",
 		"country": "MGL",
@@ -4622,23 +4656,6 @@
 		"rating_standard": 1874,
 		"rating_rapid": 1889,
 		"rating_blitz": 1888
-	},
-	{
-		"fideid": 4919548,
-		"name": "Baatar, Damba",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1873,
-		"rating_rapid": 1975,
-		"rating_blitz": 1979
 	},
 	{
 		"fideid": 4905881,
@@ -4673,6 +4690,23 @@
 		"rating_standard": 1871,
 		"rating_rapid": 1697,
 		"rating_blitz": 1702
+	},
+	{
+		"fideid": 4910575,
+		"name": "Tuvshintulga, Tumurchudur",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1871,
+		"rating_rapid": 1841,
+		"rating_blitz": 1809
 	},
 	{
 		"fideid": 4904079,
@@ -4726,21 +4760,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4924185,
-		"name": "Tugsbilguun, Davganamdag",
+		"fideid": 4904664,
+		"name": "Tsogt-Ochir, Bold",
 		"country": "MGL",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 1999,
 		"flag": "",
-		"rating_standard": 1869,
-		"rating_rapid": 1569,
-		"rating_blitz": 1608
+		"rating_standard": 1868,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4901118,
@@ -4758,23 +4792,6 @@
 		"rating_standard": 1864,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4902092,
-		"name": "Chuluun Gonchigdorj",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "",
-		"rating_standard": 1864,
-		"rating_rapid": 1893,
-		"rating_blitz": 1897
 	},
 	{
 		"fideid": 4902319,
@@ -4845,6 +4862,23 @@
 		"rating_blitz": 1805
 	},
 	{
+		"fideid": 4919637,
+		"name": "Batmanlai, Munkhzul",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1858,
+		"rating_rapid": 1762,
+		"rating_blitz": 1755
+	},
+	{
 		"fideid": 13205447,
 		"name": "Erkhembayar, Tserentsoodol",
 		"country": "MGL",
@@ -4913,21 +4947,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4904737,
-		"name": "Boldbaatar, Sambuu",
+		"fideid": 4908015,
+		"name": "Maral Altankhuyag",
 		"country": "MGL",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1856,
-		"rating_rapid": 1824,
-		"rating_blitz": 1836
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1857,
+		"rating_rapid": 1683,
+		"rating_blitz": 1666
 	},
 	{
 		"fideid": 4907035,
@@ -4945,23 +4979,6 @@
 		"rating_standard": 1856,
 		"rating_rapid": 1819,
 		"rating_blitz": 1819
-	},
-	{
-		"fideid": 4918924,
-		"name": "Tugstuguldur, Erdenebat",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1853,
-		"rating_rapid": 1761,
-		"rating_blitz": 1781
 	},
 	{
 		"fideid": 4903501,
@@ -4996,6 +5013,23 @@
 		"rating_standard": 1852,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4910222,
+		"name": "Margad, Munkhpurev",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1852,
+		"rating_rapid": 1674,
+		"rating_blitz": 1794
 	},
 	{
 		"fideid": 4921968,
@@ -5077,7 +5111,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1848,
 		"rating_rapid": 2126,
 		"rating_blitz": 1893
@@ -5094,10 +5128,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1847,
 		"rating_rapid": 1650,
 		"rating_blitz": 1709
+	},
+	{
+		"fideid": 4918924,
+		"name": "Tugstuguldur, Erdenebat",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1847,
+		"rating_rapid": 1761,
+		"rating_blitz": 1781
 	},
 	{
 		"fideid": 4903897,
@@ -5168,21 +5219,21 @@
 		"rating_blitz": 1714
 	},
 	{
-		"fideid": 4910575,
-		"name": "Tuvshintulga, Tumurchudur",
+		"fideid": 4905490,
+		"name": "Zev Ganganbars",
 		"country": "MGL",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1843,
-		"rating_rapid": 1841,
-		"rating_blitz": 1809
+		"rating_standard": 1842,
+		"rating_rapid": 1608,
+		"rating_blitz": 1642
 	},
 	{
 		"fideid": 4905741,
@@ -5197,7 +5248,7 @@
 		"k": 40,
 		"birthday": 1956,
 		"flag": "",
-		"rating_standard": 1840,
+		"rating_standard": 1841,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5335,7 +5386,7 @@
 		"flag": "",
 		"rating_standard": 1834,
 		"rating_rapid": 1895,
-		"rating_blitz": 1934
+		"rating_blitz": 1935
 	},
 	{
 		"fideid": 4902858,
@@ -5389,6 +5440,23 @@
 		"rating_blitz": 1771
 	},
 	{
+		"fideid": 4907051,
+		"name": "Sodgerelt Naranbold",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1831,
+		"rating_rapid": 1574,
+		"rating_blitz": 1765
+	},
+	{
 		"fideid": 4909909,
 		"name": "Oyunchimeg, Gungaadash",
 		"country": "MGL",
@@ -5440,23 +5508,6 @@
 		"rating_blitz": 1852
 	},
 	{
-		"fideid": 4901436,
-		"name": "Battsetseg, Urjinbadam",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "wi",
-		"rating_standard": 1828,
-		"rating_rapid": null,
-		"rating_blitz": 1849
-	},
-	{
 		"fideid": 4910478,
 		"name": "Ganbaatar, Batsukh",
 		"country": "MGL",
@@ -5474,40 +5525,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4920120,
-		"name": "Khuslenzaya, Baldanjantsan",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1827,
-		"rating_rapid": 1762,
-		"rating_blitz": 1893
-	},
-	{
-		"fideid": 4907051,
-		"name": "Sodgerelt Naranbold",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1827,
-		"rating_rapid": 1574,
-		"rating_blitz": 1765
-	},
-	{
 		"fideid": 4906233,
 		"name": "Sukh-ochir Davaajav",
 		"country": "MGL",
@@ -5523,6 +5540,57 @@
 		"rating_standard": 1825,
 		"rating_rapid": 1835,
 		"rating_blitz": 1917
+	},
+	{
+		"fideid": 4902092,
+		"name": "Chuluun Gonchigdorj",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 7,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "",
+		"rating_standard": 1821,
+		"rating_rapid": 1893,
+		"rating_blitz": 1897
+	},
+	{
+		"fideid": 4901436,
+		"name": "Battsetseg, Urjinbadam",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "w",
+		"rating_standard": 1819,
+		"rating_rapid": null,
+		"rating_blitz": 1849
+	},
+	{
+		"fideid": 4920120,
+		"name": "Khuslenzaya, Baldanjantsan",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1819,
+		"rating_rapid": 1762,
+		"rating_blitz": 1894
 	},
 	{
 		"fideid": 4907400,
@@ -5557,6 +5625,23 @@
 		"rating_standard": 1817,
 		"rating_rapid": 1757,
 		"rating_blitz": 1757
+	},
+	{
+		"fideid": 4907906,
+		"name": "Naransolongo, Zorigoo",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1815,
+		"rating_rapid": 1805,
+		"rating_blitz": 1667
 	},
 	{
 		"fideid": 13204114,
@@ -5608,23 +5693,6 @@
 		"rating_standard": 1813,
 		"rating_rapid": 1565,
 		"rating_blitz": 1740
-	},
-	{
-		"fideid": 4904664,
-		"name": "Tsogt-Ochir, Bold",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "i",
-		"rating_standard": 1813,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 4928300,
@@ -5707,7 +5775,7 @@
 		"k": 40,
 		"birthday": 1953,
 		"flag": "",
-		"rating_standard": 1808,
+		"rating_standard": 1809,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5744,23 +5812,6 @@
 		"rating_standard": 1807,
 		"rating_rapid": 1878,
 		"rating_blitz": 1853
-	},
-	{
-		"fideid": 4919637,
-		"name": "Batmanlai, Munkhzul",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1806,
-		"rating_rapid": 1762,
-		"rating_blitz": 1755
 	},
 	{
 		"fideid": 4904516,
@@ -5814,23 +5865,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4907078,
-		"name": "Zol-Uchral Erdenesaikhan",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1803,
-		"rating_rapid": 1945,
-		"rating_blitz": 1862
-	},
-	{
 		"fideid": 4924193,
 		"name": "Enkhzaya, Zagas-Erdene",
 		"country": "MGL",
@@ -5856,12 +5890,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": 1801,
-		"rating_rapid": 1829,
+		"rating_rapid": 1822,
 		"rating_blitz": null
 	},
 	{
@@ -5916,6 +5950,23 @@
 		"rating_blitz": 1915
 	},
 	{
+		"fideid": 4925173,
+		"name": "Tenuun, Tseesuren",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1797,
+		"rating_rapid": 1736,
+		"rating_blitz": 1697
+	},
+	{
 		"fideid": 4904060,
 		"name": "Anudari Tsogdelger",
 		"country": "MGL",
@@ -5933,6 +5984,23 @@
 		"rating_blitz": 1774
 	},
 	{
+		"fideid": 4924932,
+		"name": "Nandinjiguur, Chinzorig",
+		"country": "MGL",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1795,
+		"rating_rapid": 1614,
+		"rating_blitz": 1704
+	},
+	{
 		"fideid": 4904869,
 		"name": "Battur Khatansaikhan",
 		"country": "MGL",
@@ -5948,6 +6016,23 @@
 		"rating_standard": 1794,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4928709,
+		"name": "Bayarsaikhan, Tumurbaatar",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1794,
+		"rating_rapid": null,
+		"rating_blitz": 1881
 	},
 	{
 		"fideid": 4904842,
@@ -5999,23 +6084,6 @@
 		"rating_standard": 1792,
 		"rating_rapid": 1732,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4928709,
-		"name": "Bayarsaikhan, Tumurbaatar",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1791,
-		"rating_rapid": null,
-		"rating_blitz": 1881
 	},
 	{
 		"fideid": 4902637,
@@ -6188,6 +6256,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4908430,
+		"name": "Naranzaya Zorigoo",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1785,
+		"rating_rapid": 1615,
+		"rating_blitz": 1672
+	},
+	{
 		"fideid": 4900910,
 		"name": "Enkhmunkh, Sumiyabayar",
 		"country": "MGL",
@@ -6307,6 +6392,40 @@
 		"rating_blitz": 1719
 	},
 	{
+		"fideid": 4919726,
+		"name": "Lkhagvadorj, Tsamba",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1779,
+		"rating_rapid": 1722,
+		"rating_blitz": 1644
+	},
+	{
+		"fideid": 4903323,
+		"name": "Odmaa, Enkhsaikhan",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1779,
+		"rating_rapid": 1746,
+		"rating_blitz": 1700
+	},
+	{
 		"fideid": 4903960,
 		"name": "Tuguldur Tsogtbayar",
 		"country": "MGL",
@@ -6341,23 +6460,6 @@
 		"rating_blitz": 1756
 	},
 	{
-		"fideid": 4904265,
-		"name": "Baljinnyam, Tumendemberel",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": 1777,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4901851,
 		"name": "Tuvshintugs, Enkhtungalag",
 		"country": "MGL",
@@ -6373,23 +6475,6 @@
 		"rating_standard": 1777,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4905490,
-		"name": "Zev Ganganbars",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1777,
-		"rating_rapid": 1608,
-		"rating_blitz": 1642
 	},
 	{
 		"fideid": 4903811,
@@ -6458,23 +6543,6 @@
 		"rating_standard": 1774,
 		"rating_rapid": null,
 		"rating_blitz": 1767
-	},
-	{
-		"fideid": 30913039,
-		"name": "Bilguun Bayaraa",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1773,
-		"rating_rapid": 1515,
-		"rating_blitz": 1624
 	},
 	{
 		"fideid": 4903447,
@@ -6562,38 +6630,21 @@
 		"rating_blitz": 1710
 	},
 	{
-		"fideid": 4908015,
-		"name": "Maral Altankhuyag",
+		"fideid": 30913039,
+		"name": "Bilguun Bayaraa",
 		"country": "MGL",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2007,
 		"flag": "w",
-		"rating_standard": 1770,
-		"rating_rapid": 1683,
-		"rating_blitz": 1666
-	},
-	{
-		"fideid": 4924932,
-		"name": "Nandinjiguur, Chinzorig",
-		"country": "MGL",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1770,
-		"rating_rapid": 1614,
-		"rating_blitz": 1704
+		"rating_standard": 1767,
+		"rating_rapid": 1515,
+		"rating_blitz": 1624
 	},
 	{
 		"fideid": 4925858,
@@ -6610,7 +6661,7 @@
 		"flag": "",
 		"rating_standard": 1767,
 		"rating_rapid": 1476,
-		"rating_blitz": 1617
+		"rating_blitz": 1605
 	},
 	{
 		"fideid": 4901975,
@@ -6642,7 +6693,7 @@
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
-		"rating_standard": 1766,
+		"rating_standard": 1765,
 		"rating_rapid": 1802,
 		"rating_blitz": 1700
 	},
@@ -6679,23 +6730,6 @@
 		"rating_standard": 1765,
 		"rating_rapid": 1705,
 		"rating_blitz": 1705
-	},
-	{
-		"fideid": 4907523,
-		"name": "Amgalan, Dorjgotov",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1943,
-		"flag": "i",
-		"rating_standard": 1764,
-		"rating_rapid": 1902,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 4904494,
@@ -6868,6 +6902,23 @@
 		"rating_blitz": 1791
 	},
 	{
+		"fideid": 4919939,
+		"name": "Myagmar, Tselmeg",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1758,
+		"rating_rapid": 1661,
+		"rating_blitz": 1695
+	},
+	{
 		"fideid": 4902432,
 		"name": "Purevkhatan, Uuganjargal",
 		"country": "MGL",
@@ -6931,26 +6982,9 @@
 		"k": 40,
 		"birthday": 1946,
 		"flag": "",
-		"rating_standard": 1756,
+		"rating_standard": 1757,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4925173,
-		"name": "Tenuun, Tseesuren",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1755,
-		"rating_rapid": 1734,
-		"rating_blitz": 1697
 	},
 	{
 		"fideid": 4903781,
@@ -6968,23 +7002,6 @@
 		"rating_standard": 1753,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4919726,
-		"name": "Lkhagvadorj, Tsamba",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1753,
-		"rating_rapid": 1722,
-		"rating_blitz": 1644
 	},
 	{
 		"fideid": 4908880,
@@ -7015,7 +7032,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1751,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7089,6 +7106,23 @@
 		"rating_blitz": 1782
 	},
 	{
+		"fideid": 4925343,
+		"name": "Munkh-Ayalguu, Dorjderem",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1747,
+		"rating_rapid": 1484,
+		"rating_blitz": 1582
+	},
+	{
 		"fideid": 4907701,
 		"name": "Yengilik Makhmyet",
 		"country": "MGL",
@@ -7102,6 +7136,23 @@
 		"birthday": 1971,
 		"flag": "wi",
 		"rating_standard": 1747,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4904265,
+		"name": "Baljinnyam, Tumendemberel",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1745,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7137,6 +7188,23 @@
 		"flag": "wi",
 		"rating_standard": 1744,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4907523,
+		"name": "Amgalan, Dorjgotov",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1943,
+		"flag": "",
+		"rating_standard": 1743,
+		"rating_rapid": 1902,
 		"rating_blitz": null
 	},
 	{
@@ -7242,23 +7310,6 @@
 		"rating_blitz": 1716
 	},
 	{
-		"fideid": 4926358,
-		"name": "Argil, Sergelen",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1738,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4904532,
 		"name": "Munkh-Ochir, Davaatseren",
 		"country": "MGL",
@@ -7274,23 +7325,6 @@
 		"rating_standard": 1738,
 		"rating_rapid": null,
 		"rating_blitz": 1729
-	},
-	{
-		"fideid": 4919939,
-		"name": "Myagmar, Tselmeg",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1738,
-		"rating_rapid": 1661,
-		"rating_blitz": 1695
 	},
 	{
 		"fideid": 4910060,
@@ -7327,23 +7361,6 @@
 		"rating_blitz": 1702
 	},
 	{
-		"fideid": 4924053,
-		"name": "Chinzorig, Gantumur",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": 1734,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4924347,
 		"name": "Amartuvshin, Ariunbold",
 		"country": "MGL",
@@ -7355,7 +7372,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1733,
 		"rating_rapid": 1720,
 		"rating_blitz": null
@@ -7395,23 +7412,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4908430,
-		"name": "Naranzaya Zorigoo",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1732,
-		"rating_rapid": 1615,
-		"rating_blitz": 1672
-	},
-	{
 		"fideid": 4906560,
 		"name": "Otgonbayar Bat-Erdene",
 		"country": "MGL",
@@ -7429,21 +7429,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4926250,
-		"name": "Urangoo, Myadagbal",
+		"fideid": 4903471,
+		"name": "Zaanaa, Chuluunbaatar",
 		"country": "MGL",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
+		"birthday": 2004,
+		"flag": "",
 		"rating_standard": 1732,
-		"rating_rapid": 1728,
-		"rating_blitz": null
+		"rating_rapid": 1700,
+		"rating_blitz": 1629
 	},
 	{
 		"fideid": 4904338,
@@ -7480,6 +7480,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4924053,
+		"name": "Chinzorig, Gantumur",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1729,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 4904362,
 		"name": "Dorjrenchin, Batmunkh",
 		"country": "MGL",
@@ -7508,10 +7525,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1729,
 		"rating_rapid": null,
 		"rating_blitz": 1664
+	},
+	{
+		"fideid": 4926463,
+		"name": "Otgonjargal, Agvaandorj",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 0,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1728,
+		"rating_rapid": 1807,
+		"rating_blitz": 1697
 	},
 	{
 		"fideid": 4918983,
@@ -7529,23 +7563,6 @@
 		"rating_standard": 1727,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4926463,
-		"name": "Otgonjargal, Agvaandorj",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1727,
-		"rating_rapid": 1807,
-		"rating_blitz": 1697
 	},
 	{
 		"fideid": 4906420,
@@ -7616,6 +7633,23 @@
 		"rating_blitz": 1665
 	},
 	{
+		"fideid": 4926250,
+		"name": "Urangoo, Myadagbal",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1724,
+		"rating_rapid": 1728,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 4919025,
 		"name": "Sumiya, Lkhagvagaram",
 		"country": "MGL",
@@ -7644,7 +7678,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1967,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1720,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7678,27 +7712,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1717,
 		"rating_rapid": 1673,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4905148,
-		"name": "Baljinnyam Purev",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 0,
-		"k": 40,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": 1717,
-		"rating_rapid": 1706,
-		"rating_blitz": 1808
 	},
 	{
 		"fideid": 4907450,
@@ -7718,23 +7735,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4903323,
-		"name": "Odmaa, Enkhsaikhan",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1716,
-		"rating_rapid": 1746,
-		"rating_blitz": 1700
-	},
-	{
 		"fideid": 4909712,
 		"name": "Purev, Zogsoosuren",
 		"country": "MGL",
@@ -7750,6 +7750,23 @@
 		"rating_standard": 1715,
 		"rating_rapid": 1729,
 		"rating_blitz": 1739
+	},
+	{
+		"fideid": 4921089,
+		"name": "Enkhriikhen, Nyamdorj",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1713,
+		"rating_rapid": 1633,
+		"rating_blitz": 1688
 	},
 	{
 		"fideid": 4909607,
@@ -7820,23 +7837,6 @@
 		"rating_blitz": 1689
 	},
 	{
-		"fideid": 4927214,
-		"name": "Magsar, Ravdan",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1962,
-		"flag": "",
-		"rating_standard": 1711,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4920627,
 		"name": "Munkhsaruul, Batdelger",
 		"country": "MGL",
@@ -7865,7 +7865,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1711,
 		"rating_rapid": null,
 		"rating_blitz": 1761
@@ -7916,7 +7916,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1708,
 		"rating_rapid": 1669,
 		"rating_blitz": 1531
@@ -7939,23 +7939,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4919947,
-		"name": "Taivan, Tselmuun",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1708,
-		"rating_rapid": 1722,
-		"rating_blitz": 1552
-	},
-	{
 		"fideid": 4922735,
 		"name": "Nachinbayar, Sandanjamts",
 		"country": "MGL",
@@ -7968,26 +7951,26 @@
 		"k": 40,
 		"birthday": 1957,
 		"flag": "",
-		"rating_standard": 1706,
+		"rating_standard": 1707,
 		"rating_rapid": null,
 		"rating_blitz": 1793
 	},
 	{
-		"fideid": 4926544,
-		"name": "Butenbayar, Bat-Erdene",
+		"fideid": 4919947,
+		"name": "Taivan, Tselmuun",
 		"country": "MGL",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1705,
-		"rating_rapid": 1806,
-		"rating_blitz": 1811
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1707,
+		"rating_rapid": 1721,
+		"rating_blitz": 1552
 	},
 	{
 		"fideid": 4902807,
@@ -8024,6 +8007,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4926544,
+		"name": "Butenbayar, Bat-Erdene",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1704,
+		"rating_rapid": 1807,
+		"rating_blitz": 1810
+	},
+	{
 		"fideid": 4905172,
 		"name": "Magvansuren Dovchinbuu",
 		"country": "MGL",
@@ -8049,7 +8049,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -8103,27 +8103,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2001,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1701,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4921089,
-		"name": "Enkhriikhen, Nyamdorj",
+		"fideid": 4925696,
+		"name": "Batbileg, Boldbaatar",
 		"country": "MGL",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
+		"birthday": 2016,
+		"flag": "",
 		"rating_standard": 1700,
-		"rating_rapid": 1633,
-		"rating_blitz": 1688
+		"rating_rapid": 1625,
+		"rating_blitz": 1726
 	},
 	{
 		"fideid": 4928423,
@@ -8141,23 +8141,6 @@
 		"rating_standard": 1700,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4903471,
-		"name": "Zaanaa, Chuluunbaatar",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1700,
-		"rating_rapid": 1700,
-		"rating_blitz": 1629
 	},
 	{
 		"fideid": 4928261,
@@ -8273,7 +8256,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1696,
 		"rating_rapid": 1577,
 		"rating_blitz": 1649
@@ -8341,7 +8324,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1691,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -8362,23 +8345,6 @@
 		"rating_standard": 1690,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4925343,
-		"name": "Munkh-Ayalguu, Dorjderem",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1689,
-		"rating_rapid": 1484,
-		"rating_blitz": 1582
 	},
 	{
 		"fideid": 4906918,
@@ -8511,7 +8477,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1949,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1684,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -8681,7 +8647,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1997,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1680,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -8698,7 +8664,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1678,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -8786,7 +8752,7 @@
 		"flag": "w",
 		"rating_standard": 1677,
 		"rating_rapid": 1508,
-		"rating_blitz": 1524
+		"rating_blitz": 1530
 	},
 	{
 		"fideid": 4903846,
@@ -8891,6 +8857,23 @@
 		"rating_blitz": 1615
 	},
 	{
+		"fideid": 4925432,
+		"name": "Agar, Garig",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1674,
+		"rating_rapid": 1437,
+		"rating_blitz": 1573
+	},
+	{
 		"fideid": 4907477,
 		"name": "Usukhbayar, Batkhuu",
 		"country": "MGL",
@@ -8942,6 +8925,23 @@
 		"rating_blitz": 1657
 	},
 	{
+		"fideid": 4926650,
+		"name": "Gantulga, Davaatulga",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1671,
+		"rating_rapid": 1586,
+		"rating_blitz": 1489
+	},
+	{
 		"fideid": 4907388,
 		"name": "Aitkhbyl, Mizambyek",
 		"country": "MGL",
@@ -8959,21 +8959,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4926650,
-		"name": "Gantulga, Davaatulga",
+		"fideid": 4928806,
+		"name": "Tselmeg Bold-Erdene",
 		"country": "MGL",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "",
+		"birthday": 2017,
+		"flag": "w",
 		"rating_standard": 1670,
-		"rating_rapid": 1586,
-		"rating_blitz": 1453
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4927184,
@@ -8991,6 +8991,23 @@
 		"rating_standard": 1669,
 		"rating_rapid": 1540,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4925114,
+		"name": "Enkhtulga, Erdenebat",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1668,
+		"rating_rapid": 1574,
+		"rating_blitz": 1566
 	},
 	{
 		"fideid": 4904575,
@@ -9075,7 +9092,7 @@
 		"flag": "",
 		"rating_standard": 1665,
 		"rating_rapid": 1690,
-		"rating_blitz": 1612
+		"rating_blitz": 1613
 	},
 	{
 		"fideid": 4905563,
@@ -9107,6 +9124,23 @@
 		"k": 40,
 		"birthday": 2004,
 		"flag": "wi",
+		"rating_standard": 1663,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4927214,
+		"name": "Magsar, Ravdan",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "",
 		"rating_standard": 1663,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -9208,10 +9242,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1989,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1661,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4905148,
+		"name": "Baljinnyam Purev",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 8,
+		"k": 40,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": 1660,
+		"rating_rapid": 1706,
+		"rating_blitz": 1808
 	},
 	{
 		"fideid": 4919009,
@@ -9361,7 +9412,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1657,
 		"rating_rapid": 1650,
 		"rating_blitz": null
@@ -9395,7 +9446,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1955,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1657,
 		"rating_rapid": 1699,
 		"rating_blitz": 1694
@@ -9433,6 +9484,23 @@
 		"rating_standard": 1655,
 		"rating_rapid": 1614,
 		"rating_blitz": 1595
+	},
+	{
+		"fideid": 4926358,
+		"name": "Argil, Sergelen",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1652,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4909062,
@@ -9588,23 +9656,6 @@
 		"rating_blitz": 1891
 	},
 	{
-		"fideid": 4928245,
-		"name": "Ukhaanbileg Uranbileg",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1645,
-		"rating_rapid": 1577,
-		"rating_blitz": 1461
-	},
-	{
 		"fideid": 4906926,
 		"name": "Gandi Bat-Erdene",
 		"country": "MGL",
@@ -9671,6 +9722,23 @@
 		"rating_standard": 1640,
 		"rating_rapid": 1674,
 		"rating_blitz": 1667
+	},
+	{
+		"fideid": 4919580,
+		"name": "Amin-Erdene, Tsengel",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1639,
+		"rating_rapid": 1577,
+		"rating_blitz": 1618
 	},
 	{
 		"fideid": 4926935,
@@ -9756,40 +9824,6 @@
 		"rating_standard": 1638,
 		"rating_rapid": 1658,
 		"rating_blitz": 1637
-	},
-	{
-		"fideid": 4919580,
-		"name": "Amin-Erdene, Tsengel",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1637,
-		"rating_rapid": 1577,
-		"rating_blitz": 1618
-	},
-	{
-		"fideid": 4925696,
-		"name": "Batbileg, Boldbaatar",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1637,
-		"rating_rapid": 1625,
-		"rating_blitz": 1726
 	},
 	{
 		"fideid": 4905431,
@@ -9993,7 +10027,7 @@
 		"flag": "",
 		"rating_standard": 1627,
 		"rating_rapid": null,
-		"rating_blitz": 1530
+		"rating_blitz": 1525
 	},
 	{
 		"fideid": 4907361,
@@ -10064,23 +10098,6 @@
 		"rating_blitz": 1600
 	},
 	{
-		"fideid": 4924398,
-		"name": "Mandukhai, Munkhbat",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1623,
-		"rating_rapid": 1586,
-		"rating_blitz": 1767
-	},
-	{
 		"fideid": 4920910,
 		"name": "TULGAA, Turtuvshin",
 		"country": "MGL",
@@ -10115,21 +10132,21 @@
 		"rating_blitz": 1685
 	},
 	{
-		"fideid": 4925432,
-		"name": "Agar, Garig",
+		"fideid": 4924398,
+		"name": "Mandukhai, Munkhbat",
 		"country": "MGL",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1620,
-		"rating_rapid": 1437,
-		"rating_blitz": 1573
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1621,
+		"rating_rapid": 1586,
+		"rating_blitz": 1767
 	},
 	{
 		"fideid": 4920643,
@@ -10143,7 +10160,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1964,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1620,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10211,7 +10228,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1977,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1614,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10234,6 +10251,23 @@
 		"rating_blitz": 1881
 	},
 	{
+		"fideid": 4928245,
+		"name": "Ukhaanbileg Uranbileg",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1614,
+		"rating_rapid": 1578,
+		"rating_blitz": 1461
+	},
+	{
 		"fideid": 4926323,
 		"name": "Enkhkhuleg, Bundsuren",
 		"country": "MGL",
@@ -10246,9 +10280,9 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1612,
+		"rating_standard": 1613,
 		"rating_rapid": 1642,
-		"rating_blitz": 1599
+		"rating_blitz": 1598
 	},
 	{
 		"fideid": 4907124,
@@ -10300,6 +10334,23 @@
 		"rating_standard": 1611,
 		"rating_rapid": null,
 		"rating_blitz": 1546
+	},
+	{
+		"fideid": 4929128,
+		"name": "Tselmuun Tuvshinbayar",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1611,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4903293,
@@ -10415,7 +10466,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1954,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1608,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10466,7 +10517,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1962,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1607,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10608,6 +10659,23 @@
 		"rating_blitz": 1615
 	},
 	{
+		"fideid": 4926277,
+		"name": "Uranzaya, Shagdarsuren",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1601,
+		"rating_rapid": 1466,
+		"rating_blitz": 1574
+	},
+	{
 		"fideid": 4925211,
 		"name": "Batzolboo, Munkhbat",
 		"country": "MGL",
@@ -10693,6 +10761,23 @@
 		"rating_blitz": 1625
 	},
 	{
+		"fideid": 4929110,
+		"name": "Nasanjargal Nyamlkhagva",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1597,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 4924975,
 		"name": "Erkhes, Tumurbaatar",
 		"country": "MGL",
@@ -10721,7 +10806,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1999,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1595,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10823,7 +10908,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1591,
 		"rating_rapid": 1542,
 		"rating_blitz": 1540
@@ -10861,23 +10946,6 @@
 		"rating_standard": 1590,
 		"rating_rapid": 1536,
 		"rating_blitz": 1595
-	},
-	{
-		"fideid": 4925114,
-		"name": "Enkhtulga, Erdenebat",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1590,
-		"rating_rapid": 1575,
-		"rating_blitz": 1568
 	},
 	{
 		"fideid": 4924916,
@@ -11010,7 +11078,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1979,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1586,
 		"rating_rapid": 1678,
 		"rating_blitz": 1861
@@ -11062,6 +11130,23 @@
 		"k": 40,
 		"birthday": 1991,
 		"flag": "w",
+		"rating_standard": 1581,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4927265,
+		"name": "Khabul, Chinzorig",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
 		"rating_standard": 1581,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11254,23 +11339,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4925424,
-		"name": "Erkin, Galam",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "i",
-		"rating_standard": 1570,
-		"rating_rapid": 1530,
-		"rating_blitz": 1518
-	},
-	{
 		"fideid": 4904893,
 		"name": "Unenkhuu Sarankhuu",
 		"country": "MGL",
@@ -11286,6 +11354,23 @@
 		"rating_standard": 1570,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4925424,
+		"name": "Erkin, Galam",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1569,
+		"rating_rapid": 1529,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 4904770,
@@ -11350,7 +11435,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1566,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11367,7 +11452,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1963,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1564,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11390,6 +11475,40 @@
 		"rating_blitz": 1600
 	},
 	{
+		"fideid": 4926374,
+		"name": "Iveelt, Enkhtur",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1563,
+		"rating_rapid": 1637,
+		"rating_blitz": 1640
+	},
+	{
+		"fideid": 4926587,
+		"name": "Jamiyanoidovjamts, Tegshtur",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1563,
+		"rating_rapid": 1530,
+		"rating_blitz": 1453
+	},
+	{
 		"fideid": 4919963,
 		"name": "Zorigoo, Uyanga",
 		"country": "MGL",
@@ -11407,23 +11526,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4926374,
-		"name": "Iveelt, Enkhtur",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1562,
-		"rating_rapid": 1638,
-		"rating_blitz": 1637
-	},
-	{
 		"fideid": 4926722,
 		"name": "Munkhbat, Otgonbaatar",
 		"country": "MGL",
@@ -11435,7 +11537,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1996,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1562,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11540,7 +11642,7 @@
 		"flag": "",
 		"rating_standard": 1555,
 		"rating_rapid": 1543,
-		"rating_blitz": 1581
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 4903749,
@@ -11560,8 +11662,8 @@
 		"rating_blitz": 1599
 	},
 	{
-		"fideid": 4924320,
-		"name": "Munkh-Orgil, Munkhjargal",
+		"fideid": 4926226,
+		"name": "Ariunbadrakh, Ariunbuyan",
 		"country": "MGL",
 		"sex": "M",
 		"title": "",
@@ -11572,9 +11674,9 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1555,
-		"rating_rapid": 1639,
-		"rating_blitz": 1592
+		"rating_standard": 1554,
+		"rating_rapid": 1606,
+		"rating_blitz": 1451
 	},
 	{
 		"fideid": 4906373,
@@ -11609,6 +11711,23 @@
 		"rating_standard": 1554,
 		"rating_rapid": 1549,
 		"rating_blitz": 1545
+	},
+	{
+		"fideid": 4924320,
+		"name": "Munkh-Orgil, Munkhjargal",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1554,
+		"rating_rapid": 1640,
+		"rating_blitz": 1592
 	},
 	{
 		"fideid": 4925700,
@@ -11775,7 +11894,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1978,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1549,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11792,10 +11911,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1549,
 		"rating_rapid": 1566,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4923693,
+		"name": "Misheel, Myagmar",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1548,
+		"rating_rapid": null,
+		"rating_blitz": 1494
 	},
 	{
 		"fideid": 4927907,
@@ -11809,27 +11945,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1975,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1548,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4926226,
-		"name": "Ariunbadrakh, Ariunbuyan",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1547,
-		"rating_rapid": 1602,
-		"rating_blitz": 1453
 	},
 	{
 		"fideid": 4927443,
@@ -11843,9 +11962,26 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
+		"flag": "i",
+		"rating_standard": 1545,
+		"rating_rapid": 1539,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4922581,
+		"name": "Munkhbadral, Erdene-ochir",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1545,
-		"rating_rapid": 1564,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -11878,7 +12014,7 @@
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
-		"rating_standard": 1541,
+		"rating_standard": 1542,
 		"rating_rapid": 1509,
 		"rating_blitz": 1609
 	},
@@ -11898,23 +12034,6 @@
 		"rating_standard": 1541,
 		"rating_rapid": 1546,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4923693,
-		"name": "Misheel, Myagmar",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1540,
-		"rating_rapid": 1500,
-		"rating_blitz": 1493
 	},
 	{
 		"fideid": 4906381,
@@ -11946,8 +12065,8 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
-		"rating_standard": 1539,
-		"rating_rapid": 1447,
+		"rating_standard": 1538,
+		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
 	{
@@ -12033,11 +12152,11 @@
 		"flag": "w",
 		"rating_standard": 1534,
 		"rating_rapid": 1505,
-		"rating_blitz": 1502
+		"rating_blitz": 1503
 	},
 	{
-		"fideid": 4926218,
-		"name": "Uchral, Bayarsaikhan",
+		"fideid": 4924657,
+		"name": "Khayankhyrwaa, Erdenebulgan",
 		"country": "MGL",
 		"sex": "M",
 		"title": "",
@@ -12046,11 +12165,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1534,
-		"rating_rapid": 1594,
-		"rating_blitz": 1553
+		"rating_rapid": 1646,
+		"rating_blitz": 1585
 	},
 	{
 		"fideid": 4920503,
@@ -12070,40 +12189,6 @@
 		"rating_blitz": 1534
 	},
 	{
-		"fideid": 4924657,
-		"name": "Khayankhyrwaa, Erdenebulgan",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1533,
-		"rating_rapid": 1645,
-		"rating_blitz": 1585
-	},
-	{
-		"fideid": 4926269,
-		"name": "Mongoljingoo, Adiyadorj",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1533,
-		"rating_rapid": 1604,
-		"rating_blitz": 1631
-	},
-	{
 		"fideid": 4926145,
 		"name": "Norolkhoi, Batnaran",
 		"country": "MGL",
@@ -12119,6 +12204,23 @@
 		"rating_standard": 1533,
 		"rating_rapid": 1429,
 		"rating_blitz": 1477
+	},
+	{
+		"fideid": 4926269,
+		"name": "Mongoljingoo, Adiyadorj",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1532,
+		"rating_rapid": 1604,
+		"rating_blitz": 1631
 	},
 	{
 		"fideid": 4906870,
@@ -12155,8 +12257,8 @@
 		"rating_blitz": 1570
 	},
 	{
-		"fideid": 4926277,
-		"name": "Uranzaya, Shagdarsuren",
+		"fideid": 4925572,
+		"name": "Tselmeg, Ider",
 		"country": "MGL",
 		"sex": "F",
 		"title": "",
@@ -12168,8 +12270,8 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1530,
-		"rating_rapid": 1466,
-		"rating_blitz": 1574
+		"rating_rapid": null,
+		"rating_blitz": 1612
 	},
 	{
 		"fideid": 4906683,
@@ -12255,6 +12357,23 @@
 		"rating_standard": 1527,
 		"rating_rapid": 1575,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4926218,
+		"name": "Uchral, Bayarsaikhan",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1527,
+		"rating_rapid": 1594,
+		"rating_blitz": 1553
 	},
 	{
 		"fideid": 4927729,
@@ -12427,23 +12546,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4927281,
-		"name": "Erkhes, Tugsbayar",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1515,
-		"rating_rapid": 1561,
-		"rating_blitz": 1496
-	},
-	{
 		"fideid": 4908422,
 		"name": "Usukhbayar Gavaajid",
 		"country": "MGL",
@@ -12461,6 +12563,23 @@
 		"rating_blitz": 1605
 	},
 	{
+		"fideid": 4927885,
+		"name": "Namkhaidorj, Zolbayar",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1514,
+		"rating_rapid": 1603,
+		"rating_blitz": 1669
+	},
+	{
 		"fideid": 4926366,
 		"name": "Sodbilguun, Bat-Erdene",
 		"country": "MGL",
@@ -12475,7 +12594,7 @@
 		"flag": "",
 		"rating_standard": 1514,
 		"rating_rapid": null,
-		"rating_blitz": 1449
+		"rating_blitz": 1452
 	},
 	{
 		"fideid": 4918835,
@@ -12495,40 +12614,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4927265,
-		"name": "Khabul, Chinzorig",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1513,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 4927885,
-		"name": "Namkhaidorj, Zolbayar",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1513,
-		"rating_rapid": 1602,
-		"rating_blitz": 1666
-	},
-	{
 		"fideid": 4928822,
 		"name": "Enkh-Erdene Enkh-Amgalan",
 		"country": "MGL",
@@ -12541,9 +12626,9 @@
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
-		"rating_standard": 1511,
+		"rating_standard": 1512,
 		"rating_rapid": null,
-		"rating_blitz": 1465
+		"rating_blitz": 1467
 	},
 	{
 		"fideid": 4925327,
@@ -12591,7 +12676,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1510,
 		"rating_rapid": 1564,
 		"rating_blitz": 1558
@@ -12628,7 +12713,7 @@
 		"flag": "",
 		"rating_standard": 1509,
 		"rating_rapid": 1561,
-		"rating_blitz": 1499
+		"rating_blitz": 1498
 	},
 	{
 		"fideid": 4925122,
@@ -12648,23 +12733,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4925572,
-		"name": "Tselmeg, Ider",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1508,
-		"rating_rapid": null,
-		"rating_blitz": 1612
-	},
-	{
 		"fideid": 4925866,
 		"name": "Dolgormaa, Lkhavgasuren",
 		"country": "MGL",
@@ -12676,7 +12744,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1507,
 		"rating_rapid": 1576,
 		"rating_blitz": 1653
@@ -12716,40 +12784,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4926030,
-		"name": "Dagiimaa, Sodnom",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1506,
-		"rating_rapid": 1501,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 4925440,
-		"name": "Itgeltugs, Buyantogtokh",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1506,
-		"rating_rapid": 1609,
-		"rating_blitz": 1507
-	},
-	{
 		"fideid": 4919866,
 		"name": "Enerlen, Amarmend",
 		"country": "MGL",
@@ -12761,7 +12795,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1505,
 		"rating_rapid": 1543,
 		"rating_blitz": 1489
@@ -12781,7 +12815,24 @@
 		"flag": "",
 		"rating_standard": 1505,
 		"rating_rapid": 1727,
-		"rating_blitz": 1466
+		"rating_blitz": 1471
+	},
+	{
+		"fideid": 4927281,
+		"name": "Erkhes, Tugsbayar",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1505,
+		"rating_rapid": 1552,
+		"rating_blitz": 1485
 	},
 	{
 		"fideid": 4925785,
@@ -12801,23 +12852,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4927060,
-		"name": "Arvin, Davaa-Ochir",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1504,
-		"rating_rapid": null,
-		"rating_blitz": 1486
-	},
-	{
 		"fideid": 4906365,
 		"name": "Enkhjin Erdenetsog",
 		"country": "MGL",
@@ -12832,6 +12866,74 @@
 		"flag": "wi",
 		"rating_standard": 1504,
 		"rating_rapid": 1597,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4927060,
+		"name": "Arvin, Davaa-Ochir",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1503,
+		"rating_rapid": null,
+		"rating_blitz": 1489
+	},
+	{
+		"fideid": 4925440,
+		"name": "Itgeltugs, Buyantogtokh",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1503,
+		"rating_rapid": 1611,
+		"rating_blitz": 1507
+	},
+	{
+		"fideid": 4925335,
+		"name": "Enkhtugs, Erdenebat",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1502,
+		"rating_rapid": 1489,
+		"rating_blitz": 1517
+	},
+	{
+		"fideid": 4927036,
+		"name": "Anujin, Batmend",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1501,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -12852,23 +12954,6 @@
 		"rating_blitz": 1476
 	},
 	{
-		"fideid": 4927036,
-		"name": "Anujin, Batmend",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1499,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4908007,
 		"name": "Oyundelger Ochgerel",
 		"country": "MGL",
@@ -12880,7 +12965,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1498,
 		"rating_rapid": 1503,
 		"rating_blitz": 1512
@@ -12900,6 +12985,40 @@
 		"flag": "w",
 		"rating_standard": 1498,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4925467,
+		"name": "Sender, Battsengel",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1498,
+		"rating_rapid": 1567,
+		"rating_blitz": 1517
+	},
+	{
+		"fideid": 4927460,
+		"name": "Irmuuntushig, Ariunaa",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1497,
+		"rating_rapid": 1448,
 		"rating_blitz": null
 	},
 	{
@@ -12937,38 +13056,21 @@
 		"rating_blitz": 1465
 	},
 	{
-		"fideid": 4927460,
-		"name": "Irmuuntushig, Ariunaa",
+		"fideid": 4928172,
+		"name": "Oyunsunder Chagdar",
 		"country": "MGL",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 11,
 		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1495,
-		"rating_rapid": 1447,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1493,
+		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4926315,
-		"name": "Khangai, Batsaikhan",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1494,
-		"rating_rapid": 1497,
-		"rating_blitz": 1597
 	},
 	{
 		"fideid": 4905458,
@@ -12986,6 +13088,23 @@
 		"rating_standard": 1493,
 		"rating_rapid": 1537,
 		"rating_blitz": 1543
+	},
+	{
+		"fideid": 4926315,
+		"name": "Khangai, Batsaikhan",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1492,
+		"rating_rapid": 1498,
+		"rating_blitz": 1600
 	},
 	{
 		"fideid": 4908449,
@@ -13050,7 +13169,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1490,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -13071,23 +13190,6 @@
 		"rating_standard": 1489,
 		"rating_rapid": 1489,
 		"rating_blitz": 1455
-	},
-	{
-		"fideid": 4926587,
-		"name": "Jamiyanoidovjamts, Tegshtur",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1489,
-		"rating_rapid": 1492,
-		"rating_blitz": 1404
 	},
 	{
 		"fideid": 4926307,
@@ -13175,6 +13277,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4927010,
+		"name": "Namuun, Bayarkhuu",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1483,
+		"rating_rapid": 1432,
+		"rating_blitz": 1446
+	},
+	{
 		"fideid": 4925874,
 		"name": "Tergel, Tumursukh",
 		"country": "MGL",
@@ -13243,23 +13362,6 @@
 		"rating_blitz": 1477
 	},
 	{
-		"fideid": 4927010,
-		"name": "Namuun, Bayarkhuu",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1480,
-		"rating_rapid": 1432,
-		"rating_blitz": 1446
-	},
-	{
 		"fideid": 4926021,
 		"name": "Dashnyam, Myankhai",
 		"country": "MGL",
@@ -13273,7 +13375,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1478,
-		"rating_rapid": 1473,
+		"rating_rapid": 1471,
 		"rating_blitz": 1424
 	},
 	{
@@ -13311,23 +13413,6 @@
 		"rating_blitz": 1510
 	},
 	{
-		"fideid": 4924681,
-		"name": "Oyun-Erdene, Otgongerel",
-		"country": "MGL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1477,
-		"rating_rapid": 1492,
-		"rating_blitz": 1447
-	},
-	{
 		"fideid": 4925130,
 		"name": "Tsolmon, Zorigoo",
 		"country": "MGL",
@@ -13342,6 +13427,40 @@
 		"flag": "i",
 		"rating_standard": 1476,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4924681,
+		"name": "Oyun-Erdene, Otgongerel",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1475,
+		"rating_rapid": 1492,
+		"rating_blitz": 1428
+	},
+	{
+		"fideid": 4926030,
+		"name": "Dagiimaa, Sodnom",
+		"country": "MGL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1474,
+		"rating_rapid": 1499,
 		"rating_blitz": null
 	},
 	{
@@ -13444,7 +13563,7 @@
 		"flag": "",
 		"rating_standard": 1466,
 		"rating_rapid": 1508,
-		"rating_blitz": 1498
+		"rating_blitz": 1497
 	},
 	{
 		"fideid": 4926633,
@@ -13460,8 +13579,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1463,
-		"rating_rapid": 1493,
-		"rating_blitz": 1512
+		"rating_rapid": 1491,
+		"rating_blitz": 1516
 	},
 	{
 		"fideid": 4925661,
@@ -13477,8 +13596,8 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1463,
-		"rating_rapid": 1459,
-		"rating_blitz": 1420
+		"rating_rapid": 1458,
+		"rating_blitz": 1440
 	},
 	{
 		"fideid": 4927303,
@@ -13566,23 +13685,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4923685,
-		"name": "Enkhbileg, Gantumur",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1456,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4924240,
 		"name": "Khashchuluun, Baatarchuluun",
 		"country": "MGL",
@@ -13600,21 +13702,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4914210,
-		"name": "Misheel, Batbayar",
+		"fideid": 4923685,
+		"name": "Enkhbileg, Gantumur",
 		"country": "MGL",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1456,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1455,
 		"rating_rapid": null,
-		"rating_blitz": 1405
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4923642,
@@ -13736,23 +13838,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4925335,
-		"name": "Enkhtugs, Erdenebat",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1444,
-		"rating_rapid": 1489,
-		"rating_blitz": 1517
-	},
-	{
 		"fideid": 4918843,
 		"name": "Jambaldorj, Davgadorj",
 		"country": "MGL",
@@ -13783,12 +13868,12 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1443,
-		"rating_rapid": 1443,
-		"rating_blitz": 1433
+		"rating_rapid": 1459,
+		"rating_blitz": 1434
 	},
 	{
-		"fideid": 4925467,
-		"name": "Sender, Battsengel",
+		"fideid": 4914210,
+		"name": "Misheel, Batbayar",
 		"country": "MGL",
 		"sex": "F",
 		"title": "",
@@ -13797,11 +13882,28 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2016,
 		"flag": "w",
-		"rating_standard": 1439,
-		"rating_rapid": 1567,
-		"rating_blitz": 1517
+		"rating_standard": 1441,
+		"rating_rapid": null,
+		"rating_blitz": 1405
+	},
+	{
+		"fideid": 4926609,
+		"name": "Tegshjargal, Batsukh",
+		"country": "MGL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1440,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4908180,
@@ -13833,7 +13935,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
-		"rating_standard": 1432,
+		"rating_standard": 1430,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -13917,7 +14019,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1411,
 		"rating_rapid": 1492,
 		"rating_blitz": null
@@ -13991,23 +14093,6 @@
 		"rating_blitz": 1453
 	},
 	{
-		"fideid": 4922581,
-		"name": "Munkhbadral, Erdene-ochir",
-		"country": "MGL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1401,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4928962,
 		"name": "Ali Yerbolat",
 		"country": "MGL",
@@ -14016,7 +14101,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -14067,7 +14152,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -14475,7 +14560,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -14548,7 +14633,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1491,
+		"rating_rapid": 1499,
 		"rating_blitz": null
 	},
 	{
@@ -14650,7 +14735,7 @@
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1421,
+		"rating_rapid": 1428,
 		"rating_blitz": null
 	},
 	{
@@ -14747,7 +14832,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1984,
 		"flag": "",
@@ -14803,8 +14888,8 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1442,
-		"rating_blitz": 1550
+		"rating_rapid": 1441,
+		"rating_blitz": 1551
 	},
 	{
 		"fideid": 4924886,
@@ -15194,8 +15279,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1508,
-		"rating_blitz": 1484
+		"rating_rapid": 1512,
+		"rating_blitz": 1487
 	},
 	{
 		"fideid": 4909844,
@@ -15245,7 +15330,7 @@
 		"birthday": 1990,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1705,
+		"rating_rapid": 1706,
 		"rating_blitz": null
 	},
 	{
@@ -15257,7 +15342,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
@@ -15296,7 +15381,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1454,
+		"rating_rapid": 1452,
 		"rating_blitz": null
 	},
 	{
@@ -15347,7 +15432,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1423,
+		"rating_rapid": 1439,
 		"rating_blitz": 1482
 	},
 	{
@@ -15432,7 +15517,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1537,
+		"rating_rapid": 1536,
 		"rating_blitz": null
 	},
 	{
@@ -15549,7 +15634,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1408
@@ -16963,7 +17048,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1771
+		"rating_blitz": 1776
 	},
 	{
 		"fideid": 4906470,

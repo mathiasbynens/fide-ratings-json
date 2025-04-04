@@ -25,7 +25,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
@@ -370,8 +370,8 @@
 		"birthday": "",
 		"flag": "",
 		"rating_standard": 2025,
-		"rating_rapid": 2031,
-		"rating_blitz": 2009
+		"rating_rapid": 2084,
+		"rating_blitz": 2049
 	},
 	{
 		"fideid": 12200174,
@@ -423,23 +423,6 @@
 		"rating_standard": 2010,
 		"rating_rapid": 1959,
 		"rating_blitz": 1980
-	},
-	{
-		"fideid": 12200328,
-		"name": "Ahmed Holi Ali, Moawia",
-		"country": "SUD",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 2007,
-		"rating_rapid": 2064,
-		"rating_blitz": 1989
 	},
 	{
 		"fideid": 12201707,
@@ -544,6 +527,23 @@
 		"rating_blitz": 1947
 	},
 	{
+		"fideid": 12200328,
+		"name": "Ahmed Holi Ali, Moawia",
+		"country": "SUD",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1987,
+		"rating_rapid": 2064,
+		"rating_blitz": 1988
+	},
+	{
 		"fideid": 12201430,
 		"name": "Khalid Osman Ahmed Salah",
 		"country": "SUD",
@@ -584,7 +584,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "FI",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -603,7 +603,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1982,
 		"flag": "",
@@ -909,7 +909,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 1991,
 		"flag": "",
@@ -1133,7 +1133,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1978,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1922,
 		"rating_rapid": 1858,
 		"rating_blitz": 1913
@@ -1884,7 +1884,7 @@
 		"flag": "i",
 		"rating_standard": 1876,
 		"rating_rapid": 1932,
-		"rating_blitz": 1883
+		"rating_blitz": 1851
 	},
 	{
 		"fideid": 12203572,
@@ -3493,13 +3493,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1976,
 		"flag": "",
-		"rating_standard": 1802,
-		"rating_rapid": 1948,
-		"rating_blitz": 1919
+		"rating_standard": 1801,
+		"rating_rapid": 1924,
+		"rating_blitz": 1889
 	},
 	{
 		"fideid": 12210544,
@@ -4105,13 +4105,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": "",
 		"flag": "",
 		"rating_standard": 1774,
 		"rating_rapid": 1861,
-		"rating_blitz": 1774
+		"rating_blitz": 1776
 	},
 	{
 		"fideid": 12212776,
@@ -4518,7 +4518,7 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1756,
-		"rating_rapid": 1865,
+		"rating_rapid": 1861,
 		"rating_blitz": 1899
 	},
 	{
@@ -4853,12 +4853,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": 1741,
-		"rating_rapid": 1791,
+		"rating_rapid": 1776,
 		"rating_blitz": 1724
 	},
 	{
@@ -5215,7 +5215,7 @@
 		"birthday": 1981,
 		"flag": "i",
 		"rating_standard": 1720,
-		"rating_rapid": 1634,
+		"rating_rapid": 1605,
 		"rating_blitz": null
 	},
 	{
@@ -5383,7 +5383,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1966,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1707,
 		"rating_rapid": 1725,
 		"rating_blitz": 1683
@@ -6047,7 +6047,7 @@
 		"k": 40,
 		"birthday": 1957,
 		"flag": "",
-		"rating_standard": 1656,
+		"rating_standard": 1655,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -6084,23 +6084,6 @@
 		"rating_standard": 1653,
 		"rating_rapid": 1588,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 12201529,
-		"name": "Ibtihal Osman",
-		"country": "SUD",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "w",
-		"rating_standard": 1652,
-		"rating_rapid": 1691,
-		"rating_blitz": 1649
 	},
 	{
 		"fideid": 12202681,
@@ -6171,6 +6154,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 12201529,
+		"name": "Ibtihal Osman",
+		"country": "SUD",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "w",
+		"rating_standard": 1646,
+		"rating_rapid": 1691,
+		"rating_blitz": 1649
+	},
+	{
 		"fideid": 12201480,
 		"name": "Tayseer Mohammed",
 		"country": "SUD",
@@ -6203,6 +6203,23 @@
 		"rating_standard": 1644,
 		"rating_rapid": 1685,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 12210480,
+		"name": "Hussein Adam Sharafeldin",
+		"country": "SUD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1643,
+		"rating_rapid": 1587,
+		"rating_blitz": 1597
 	},
 	{
 		"fideid": 12201464,
@@ -6288,23 +6305,6 @@
 		"rating_standard": 1634,
 		"rating_rapid": 1629,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 12210480,
-		"name": "Hussein Adam Sharafeldin",
-		"country": "SUD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1633,
-		"rating_rapid": 1587,
-		"rating_blitz": 1597
 	},
 	{
 		"fideid": 12210765,
@@ -6740,11 +6740,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1990,
 		"flag": "w",
-		"rating_standard": 1541,
+		"rating_standard": 1542,
 		"rating_rapid": 1571,
 		"rating_blitz": null
 	},
@@ -6859,11 +6859,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1984,
 		"flag": "w",
-		"rating_standard": 1503,
+		"rating_standard": 1510,
 		"rating_rapid": 1560,
 		"rating_blitz": 1621
 	},
@@ -6987,23 +6987,6 @@
 		"rating_blitz": 1700
 	},
 	{
-		"fideid": 12207152,
-		"name": "Aaya Rashad Taha Omer",
-		"country": "SUD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1454,
-		"rating_rapid": 1524,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 12216348,
 		"name": "Mekki Mohamed Mekki",
 		"country": "SUD",
@@ -7069,6 +7052,23 @@
 		"flag": "wi",
 		"rating_standard": 1417,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 12207152,
+		"name": "Aaya Rashad Taha Omer",
+		"country": "SUD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1524,
 		"rating_blitz": null
 	},
 	{
@@ -7816,8 +7816,8 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1682,
-		"rating_blitz": 1650
+		"rating_rapid": 1681,
+		"rating_blitz": 1722
 	},
 	{
 		"fideid": 12202827,
@@ -8086,7 +8086,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1438,
 		"rating_blitz": null
@@ -8987,7 +8987,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1985,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1587,
 		"rating_blitz": null
@@ -9367,6 +9367,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 12209120,
+		"name": "Wais Kamal Wais Mohamed",
+		"country": "SUD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1782,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 12214868,
 		"name": "Yagoub Ibrahim",
 		"country": "SUD",
@@ -9537,6 +9554,23 @@
 		"rating_blitz": 1504
 	},
 	{
+		"fideid": 12200115,
+		"name": "Abubakr, Mohamed A.",
+		"country": "SUD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1784
+	},
+	{
 		"fideid": 12205184,
 		"name": "Adil Osman Hamza",
 		"country": "SUD",
@@ -9690,23 +9724,6 @@
 		"rating_blitz": 1707
 	},
 	{
-		"fideid": 12210510,
-		"name": "Ibrahim Nabeil Barri",
-		"country": "SUD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1416
-	},
-	{
 		"fideid": 12206636,
 		"name": "IzzAlarab Altahir Yonis",
 		"country": "SUD",
@@ -9739,6 +9756,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1554
+	},
+	{
+		"fideid": 12217034,
+		"name": "Khalid ali",
+		"country": "SUD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1561
 	},
 	{
 		"fideid": 12216810,
@@ -9807,6 +9841,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1659
+	},
+	{
+		"fideid": 12217050,
+		"name": "Noureldin Sidahmed",
+		"country": "SUD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1535
 	},
 	{
 		"fideid": 12205370,
