@@ -31,7 +31,7 @@
 		"flag": "",
 		"rating_standard": 2382,
 		"rating_rapid": 2257,
-		"rating_blitz": 2243
+		"rating_blitz": 2244
 	},
 	{
 		"fideid": 14700247,
@@ -210,7 +210,7 @@
 		"sex": "M",
 		"title": "IM",
 		"w_title": "",
-		"o_title": "FT",
+		"o_title": "FT,NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 10,
@@ -404,8 +404,8 @@
 		"birthday": 1988,
 		"flag": "w",
 		"rating_standard": 2039,
-		"rating_rapid": 1881,
-		"rating_blitz": 1885
+		"rating_rapid": 1880,
+		"rating_blitz": 1886
 	},
 	{
 		"fideid": 14700590,
@@ -625,7 +625,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1935,
-		"rating_rapid": 1940,
+		"rating_rapid": 1941,
 		"rating_blitz": 2160
 	},
 	{
@@ -890,7 +890,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -1032,7 +1032,7 @@
 		"k": 20,
 		"birthday": 2004,
 		"flag": "w",
-		"rating_standard": 1895,
+		"rating_standard": 1894,
 		"rating_rapid": 1869,
 		"rating_blitz": 1775
 	},
@@ -1105,23 +1105,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14700204,
-		"name": "Hotami, Mutriba",
-		"country": "TJK",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "FA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "w",
-		"rating_standard": 1875,
-		"rating_rapid": 1771,
-		"rating_blitz": 1845
-	},
-	{
 		"fideid": 14701391,
 		"name": "Batyrov, Sherzod",
 		"country": "TJK",
@@ -1137,6 +1120,23 @@
 		"rating_standard": 1873,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14700204,
+		"name": "Hotami, Mutriba",
+		"country": "TJK",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "FA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "w",
+		"rating_standard": 1873,
+		"rating_rapid": 1771,
+		"rating_blitz": 1845
 	},
 	{
 		"fideid": 14701367,
@@ -1525,7 +1525,7 @@
 		"k": 20,
 		"birthday": 1997,
 		"flag": "",
-		"rating_standard": 1805,
+		"rating_standard": 1804,
 		"rating_rapid": 1685,
 		"rating_blitz": 1653
 	},
@@ -1938,23 +1938,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14704501,
-		"name": "Rustamov, Firdavs",
-		"country": "TJK",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1746,
-		"rating_rapid": 1698,
-		"rating_blitz": 1683
-	},
-	{
 		"fideid": 14702274,
 		"name": "Sufishoev, Sultonnazar",
 		"country": "TJK",
@@ -2207,7 +2190,24 @@
 		"flag": "i",
 		"rating_standard": 1711,
 		"rating_rapid": 1685,
-		"rating_blitz": 1719
+		"rating_blitz": 1720
+	},
+	{
+		"fideid": 14704501,
+		"name": "Rustamov, Firdavs",
+		"country": "TJK",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1709,
+		"rating_rapid": 1699,
+		"rating_blitz": 1662
 	},
 	{
 		"fideid": 14701456,
@@ -2581,7 +2581,7 @@
 		"flag": "w",
 		"rating_standard": 1606,
 		"rating_rapid": 1752,
-		"rating_blitz": 1596
+		"rating_blitz": 1597
 	},
 	{
 		"fideid": 14700972,
@@ -2652,6 +2652,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14704676,
+		"name": "Soliev, Isroil",
+		"country": "TJK",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1598,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14702800,
 		"name": "Alihmadov, Rahmatullo",
 		"country": "TJK",
@@ -2665,40 +2682,6 @@
 		"birthday": 1955,
 		"flag": "",
 		"rating_standard": 1594,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14704676,
-		"name": "Soliev, Isroil",
-		"country": "TJK",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1594,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14703335,
-		"name": "Niyozov, Nazirjon",
-		"country": "TJK",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": 1593,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -2752,6 +2735,23 @@
 		"rating_standard": 1585,
 		"rating_rapid": 1638,
 		"rating_blitz": 1869
+	},
+	{
+		"fideid": 14703335,
+		"name": "Niyozov, Nazirjon",
+		"country": "TJK",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1582,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14701570,
@@ -2868,7 +2868,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1557,
+		"rating_standard": 1556,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -2885,9 +2885,9 @@
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
-		"rating_standard": 1555,
+		"rating_standard": 1553,
 		"rating_rapid": 1435,
-		"rating_blitz": 1533
+		"rating_blitz": 1402
 	},
 	{
 		"fideid": 14702487,
@@ -2924,23 +2924,6 @@
 		"rating_blitz": 1636
 	},
 	{
-		"fideid": 14703211,
-		"name": "Khojaeva, Tomiris",
-		"country": "TJK",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1546,
-		"rating_rapid": 1411,
-		"rating_blitz": 1412
-	},
-	{
 		"fideid": 14702908,
 		"name": "Haidarova, Mehrona",
 		"country": "TJK",
@@ -2971,8 +2954,8 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1539,
-		"rating_rapid": 1677,
-		"rating_blitz": 1709
+		"rating_rapid": 1676,
+		"rating_blitz": 1708
 	},
 	{
 		"fideid": 14702940,
@@ -2989,24 +2972,7 @@
 		"flag": "",
 		"rating_standard": 1538,
 		"rating_rapid": 1515,
-		"rating_blitz": 1534
-	},
-	{
-		"fideid": 14703203,
-		"name": "Khojaeva, Yosamin",
-		"country": "TJK",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1533,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1532
 	},
 	{
 		"fideid": 14702096,
@@ -3111,6 +3077,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14703203,
+		"name": "Khojaeva, Yosamin",
+		"country": "TJK",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1521,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14703017,
 		"name": "Naimov, David",
 		"country": "TJK",
@@ -3123,7 +3106,7 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1517,
+		"rating_standard": 1516,
 		"rating_rapid": 1515,
 		"rating_blitz": 1427
 	},
@@ -3210,7 +3193,7 @@
 		"flag": "w",
 		"rating_standard": 1505,
 		"rating_rapid": null,
-		"rating_blitz": 1444
+		"rating_blitz": 1452
 	},
 	{
 		"fideid": 14702495,
@@ -3226,23 +3209,6 @@
 		"birthday": 2007,
 		"flag": "wi",
 		"rating_standard": 1500,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14704544,
-		"name": "Khollieva, Ismigul",
-		"country": "TJK",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1495,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -3277,8 +3243,8 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1488,
-		"rating_rapid": 1551,
-		"rating_blitz": 1556
+		"rating_rapid": 1556,
+		"rating_blitz": 1560
 	},
 	{
 		"fideid": 14701430,
@@ -3383,6 +3349,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14704544,
+		"name": "Khollieva, Ismigul",
+		"country": "TJK",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1478,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14704366,
 		"name": "Saidzoda, Nuriolloh",
 		"country": "TJK",
@@ -3417,6 +3400,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14703211,
+		"name": "Khojaeva, Tomiris",
+		"country": "TJK",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1458,
+		"rating_rapid": 1411,
+		"rating_blitz": 1412
+	},
+	{
 		"fideid": 14702002,
 		"name": "Raupov, Mazbutjon",
 		"country": "TJK",
@@ -3447,25 +3447,8 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1448,
-		"rating_rapid": 1536,
-		"rating_blitz": 1562
-	},
-	{
-		"fideid": 14702460,
-		"name": "Dustmamadova, Safina",
-		"country": "TJK",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": 1445,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1535,
+		"rating_blitz": 1564
 	},
 	{
 		"fideid": 14702363,
@@ -3481,8 +3464,8 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1443,
-		"rating_rapid": 1463,
-		"rating_blitz": 1582
+		"rating_rapid": 1462,
+		"rating_blitz": 1585
 	},
 	{
 		"fideid": 14702347,
@@ -3498,6 +3481,23 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1441,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14702460,
+		"name": "Dustmamadova, Safina",
+		"country": "TJK",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1439,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -3548,8 +3548,8 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1432,
-		"rating_rapid": 1484,
+		"rating_standard": 1433,
+		"rating_rapid": 1485,
 		"rating_blitz": 1506
 	},
 	{
@@ -3570,6 +3570,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14703157,
+		"name": "Okhunov, Umar",
+		"country": "TJK",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1423,
+		"rating_rapid": 1553,
+		"rating_blitz": 1588
+	},
+	{
 		"fideid": 14702681,
 		"name": "Muminova, Zakiyabonu",
 		"country": "TJK",
@@ -3585,23 +3602,6 @@
 		"rating_standard": 1421,
 		"rating_rapid": 1474,
 		"rating_blitz": 1454
-	},
-	{
-		"fideid": 14703157,
-		"name": "Okhunov, Umar",
-		"country": "TJK",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1420,
-		"rating_rapid": 1553,
-		"rating_blitz": 1588
 	},
 	{
 		"fideid": 14702061,

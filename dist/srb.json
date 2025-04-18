@@ -363,7 +363,7 @@
 		"sex": "M",
 		"title": "GM",
 		"w_title": "",
-		"o_title": "FST",
+		"o_title": "FST,NA",
 		"foa_title": "",
 		"games": 4,
 		"k": 10,
@@ -796,7 +796,7 @@
 		"flag": "",
 		"rating_standard": 2419,
 		"rating_rapid": 2334,
-		"rating_blitz": 2369
+		"rating_blitz": 2370
 	},
 	{
 		"fideid": 915483,
@@ -966,7 +966,7 @@
 		"flag": "",
 		"rating_standard": 2406,
 		"rating_rapid": 2487,
-		"rating_blitz": 2465
+		"rating_blitz": 2466
 	},
 	{
 		"fideid": 915602,
@@ -1230,7 +1230,7 @@
 		"sex": "F",
 		"title": "IM",
 		"w_title": "WGM",
-		"o_title": "",
+		"o_title": "FI",
 		"foa_title": "",
 		"games": 0,
 		"k": 10,
@@ -1840,7 +1840,7 @@
 		"name": "Toth, Aleksandar",
 		"country": "SRB",
 		"sex": "M",
-		"title": "",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -2208,23 +2208,6 @@
 		"rating_standard": 2329,
 		"rating_rapid": 2371,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 912930,
-		"name": "Babic, Momcilo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "i",
-		"rating_standard": 2328,
-		"rating_rapid": 2181,
-		"rating_blitz": 2243
 	},
 	{
 		"fideid": 900842,
@@ -3532,7 +3515,7 @@
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": 2285,
-		"rating_rapid": 2195,
+		"rating_rapid": 2194,
 		"rating_blitz": 2288
 	},
 	{
@@ -3808,23 +3791,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 900788,
-		"name": "Lazic, Miroljub",
-		"country": "SRB",
-		"sex": "M",
-		"title": "GM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 10,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 2279,
-		"rating_rapid": 2420,
-		"rating_blitz": 2374
-	},
-	{
 		"fideid": 933090,
 		"name": "Jankovic, Dragan",
 		"country": "SRB",
@@ -3859,6 +3825,23 @@
 		"rating_blitz": 2045
 	},
 	{
+		"fideid": 24124753,
+		"name": "Krivenko, Sergei",
+		"country": "SRB",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "FT",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 2278,
+		"rating_rapid": 2218,
+		"rating_blitz": 2206
+	},
+	{
 		"fideid": 939706,
 		"name": "Krstic, Petar",
 		"country": "SRB",
@@ -3874,6 +3857,23 @@
 		"rating_standard": 2278,
 		"rating_rapid": 2351,
 		"rating_blitz": 2252
+	},
+	{
+		"fideid": 900788,
+		"name": "Lazic, Miroljub",
+		"country": "SRB",
+		"sex": "M",
+		"title": "GM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 10,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 2278,
+		"rating_rapid": 2420,
+		"rating_blitz": 2374
 	},
 	{
 		"fideid": 930083,
@@ -4315,24 +4315,7 @@
 		"flag": "",
 		"rating_standard": 2269,
 		"rating_rapid": 2189,
-		"rating_blitz": 2181
-	},
-	{
-		"fideid": 909599,
-		"name": "Vlahovic, Bogdan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1961,
-		"flag": "i",
-		"rating_standard": 2269,
-		"rating_rapid": null,
-		"rating_blitz": 2221
+		"rating_blitz": 2182
 	},
 	{
 		"fideid": 904406,
@@ -4723,7 +4706,7 @@
 		"flag": "",
 		"rating_standard": 2260,
 		"rating_rapid": 2292,
-		"rating_blitz": 2344
+		"rating_blitz": 2345
 	},
 	{
 		"fideid": 918920,
@@ -5219,6 +5202,23 @@
 		"rating_blitz": 2279
 	},
 	{
+		"fideid": 14133237,
+		"name": "Oliinyk, Serafym",
+		"country": "SRB",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 2252,
+		"rating_rapid": 2249,
+		"rating_blitz": 2260
+	},
+	{
 		"fideid": 904783,
 		"name": "Balac, Nebojsa",
 		"country": "SRB",
@@ -5268,23 +5268,6 @@
 		"rating_standard": 2251,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14133237,
-		"name": "Oliinyk, Serafym",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 16,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 2251,
-		"rating_rapid": 2249,
-		"rating_blitz": 2260
 	},
 	{
 		"fideid": 934020,
@@ -5897,23 +5880,6 @@
 		"rating_standard": 2239,
 		"rating_rapid": null,
 		"rating_blitz": 2153
-	},
-	{
-		"fideid": 920320,
-		"name": "Lalovic, Srecko",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1933,
-		"flag": "i",
-		"rating_standard": 2239,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 900265,
@@ -6916,7 +6882,7 @@
 		"flag": "",
 		"rating_standard": 2225,
 		"rating_rapid": 2084,
-		"rating_blitz": 2009
+		"rating_blitz": 2010
 	},
 	{
 		"fideid": 907677,
@@ -7161,7 +7127,7 @@
 		"name": "Vuckovic, Branko",
 		"country": "SRB",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -7684,23 +7650,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 909807,
-		"name": "Nedeljkovic, Verica",
-		"country": "SRB",
-		"sex": "F",
-		"title": "WGM",
-		"w_title": "WGM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1929,
-		"flag": "wi",
-		"rating_standard": 2215,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 904937,
 		"name": "Perisic, Radivoj",
 		"country": "SRB",
@@ -7936,7 +7885,7 @@
 		"flag": "",
 		"rating_standard": 2213,
 		"rating_rapid": 2240,
-		"rating_blitz": 2203
+		"rating_blitz": 2202
 	},
 	{
 		"fideid": 979694,
@@ -9033,7 +8982,7 @@
 		"sex": "M",
 		"title": "GM",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "FT",
 		"foa_title": "",
 		"games": 4,
 		"k": 10,
@@ -9401,23 +9350,6 @@
 		"rating_blitz": 2159
 	},
 	{
-		"fideid": 989940,
-		"name": "Micic, Aleksa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2192,
-		"rating_rapid": 2186,
-		"rating_blitz": 2210
-	},
-	{
 		"fideid": 906450,
 		"name": "Telecki, Ivan",
 		"country": "SRB",
@@ -9518,6 +9450,23 @@
 		"rating_standard": 2191,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 989940,
+		"name": "Micic, Aleksa",
+		"country": "SRB",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2191,
+		"rating_rapid": 2186,
+		"rating_blitz": 2210
 	},
 	{
 		"fideid": 906310,
@@ -10744,23 +10693,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 906492,
-		"name": "Urosevic, Radojko",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1942,
-		"flag": "i",
-		"rating_standard": 2178,
-		"rating_rapid": 2195,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 946915,
 		"name": "Erski, Dragan",
 		"country": "SRB",
@@ -11166,7 +11098,7 @@
 		"flag": "",
 		"rating_standard": 2172,
 		"rating_rapid": 2153,
-		"rating_blitz": 2152
+		"rating_blitz": 2151
 	},
 	{
 		"fideid": 949043,
@@ -13512,7 +13444,7 @@
 		"flag": "",
 		"rating_standard": 2150,
 		"rating_rapid": 2221,
-		"rating_blitz": 2112
+		"rating_blitz": 2113
 	},
 	{
 		"fideid": 972436,
@@ -14633,7 +14565,7 @@
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 2141,
-		"rating_rapid": 1967,
+		"rating_rapid": 1966,
 		"rating_blitz": 1956
 	},
 	{
@@ -15385,23 +15317,6 @@
 		"rating_blitz": 1958
 	},
 	{
-		"fideid": 907561,
-		"name": "Bozic, Milan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 2134,
-		"rating_rapid": 2346,
-		"rating_blitz": 2286
-	},
-	{
 		"fideid": 922897,
 		"name": "Bozovic, Vladimir",
 		"country": "SRB",
@@ -16112,7 +16027,7 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 2129,
-		"rating_rapid": 2039,
+		"rating_rapid": 2038,
 		"rating_blitz": 2064
 	},
 	{
@@ -16726,23 +16641,6 @@
 		"rating_standard": 2124,
 		"rating_rapid": null,
 		"rating_blitz": 2129
-	},
-	{
-		"fideid": 903949,
-		"name": "Mujagic, Ramo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1943,
-		"flag": "i",
-		"rating_standard": 2124,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 921858,
@@ -17969,23 +17867,6 @@
 		"rating_blitz": 2138
 	},
 	{
-		"fideid": 936618,
-		"name": "Tasev, Dejan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 2113,
-		"rating_rapid": 2221,
-		"rating_blitz": 2249
-	},
-	{
 		"fideid": 923966,
 		"name": "Bura, Radovan",
 		"country": "SRB",
@@ -18052,6 +17933,23 @@
 		"rating_standard": 2112,
 		"rating_rapid": 2127,
 		"rating_blitz": 2146
+	},
+	{
+		"fideid": 936618,
+		"name": "Tasev, Dejan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": 2112,
+		"rating_rapid": 2221,
+		"rating_blitz": 2249
 	},
 	{
 		"fideid": 902977,
@@ -18528,23 +18426,6 @@
 		"rating_standard": 2107,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 907120,
-		"name": "Savic, Mihajlo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1942,
-		"flag": "i",
-		"rating_standard": 2107,
-		"rating_rapid": null,
-		"rating_blitz": 2087
 	},
 	{
 		"fideid": 921548,
@@ -20499,7 +20380,7 @@
 		"flag": "",
 		"rating_standard": 2092,
 		"rating_rapid": 2120,
-		"rating_blitz": 2120
+		"rating_blitz": 2121
 	},
 	{
 		"fideid": 925705,
@@ -21111,7 +20992,7 @@
 		"flag": "i",
 		"rating_standard": 2088,
 		"rating_rapid": 2028,
-		"rating_blitz": 2017
+		"rating_blitz": 2018
 	},
 	{
 		"fideid": 904090,
@@ -25514,7 +25395,7 @@
 		"flag": "i",
 		"rating_standard": 2058,
 		"rating_rapid": 1948,
-		"rating_blitz": 1854
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 924628,
@@ -25738,6 +25619,23 @@
 		"rating_blitz": 1920
 	},
 	{
+		"fideid": 9202522,
+		"name": "Stankovic, Andrea",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 2056,
+		"rating_rapid": 1863,
+		"rating_blitz": 1821
+	},
+	{
 		"fideid": 921165,
 		"name": "Balaban, Vlado",
 		"country": "SRB",
@@ -25855,23 +25753,6 @@
 		"rating_standard": 2055,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9202522,
-		"name": "Stankovic, Andrea",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 2055,
-		"rating_rapid": 1863,
-		"rating_blitz": 1821
 	},
 	{
 		"fideid": 933058,
@@ -26874,7 +26755,7 @@
 		"flag": "",
 		"rating_standard": 2049,
 		"rating_rapid": 2149,
-		"rating_blitz": 2154
+		"rating_blitz": 2155
 	},
 	{
 		"fideid": 933740,
@@ -26960,23 +26841,6 @@
 		"rating_standard": 2048,
 		"rating_rapid": 2119,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 904058,
-		"name": "Blagojevic, Vladan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 2048,
-		"rating_rapid": 2047,
-		"rating_blitz": 2081
 	},
 	{
 		"fideid": 934615,
@@ -27334,23 +27198,6 @@
 		"rating_standard": 2046,
 		"rating_rapid": 1998,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 905941,
-		"name": "Joksimovic, Dragoljub",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "",
-		"rating_standard": 2046,
-		"rating_rapid": 1911,
-		"rating_blitz": 2014
 	},
 	{
 		"fideid": 918270,
@@ -30359,7 +30206,7 @@
 		"flag": "",
 		"rating_standard": 2027,
 		"rating_rapid": 2047,
-		"rating_blitz": 2004
+		"rating_blitz": 2005
 	},
 	{
 		"fideid": 930830,
@@ -31246,23 +31093,6 @@
 		"rating_blitz": 2028
 	},
 	{
-		"fideid": 911950,
-		"name": "Polovina, Maksim",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1939,
-		"flag": "i",
-		"rating_standard": 2021,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 930253,
 		"name": "Popic, Simeon",
 		"country": "SRB",
@@ -31847,7 +31677,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -32606,6 +32436,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9221969,
+		"name": "Bajkic, Strahinja",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2013,
+		"rating_rapid": 1917,
+		"rating_blitz": 1793
+	},
+	{
 		"fideid": 931497,
 		"name": "Bosnic, Miroslav",
 		"country": "SRB",
@@ -32910,23 +32757,6 @@
 		"rating_standard": 2012,
 		"rating_rapid": 1992,
 		"rating_blitz": 1984
-	},
-	{
-		"fideid": 9221969,
-		"name": "Bajkic, Strahinja",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2012,
-		"rating_rapid": 1917,
-		"rating_blitz": 1793
 	},
 	{
 		"fideid": 966231,
@@ -33813,6 +33643,23 @@
 		"rating_blitz": 2043
 	},
 	{
+		"fideid": 913219,
+		"name": "Poleksic, Dusan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 2006,
+		"rating_rapid": 2062,
+		"rating_blitz": 2086
+	},
+	{
 		"fideid": 933066,
 		"name": "Radovanovic, Zoran V",
 		"country": "SRB",
@@ -34049,23 +33896,6 @@
 		"rating_standard": 2005,
 		"rating_rapid": 1993,
 		"rating_blitz": 1980
-	},
-	{
-		"fideid": 913219,
-		"name": "Poleksic, Dusan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 2005,
-		"rating_rapid": 2062,
-		"rating_blitz": 2086
 	},
 	{
 		"fideid": 949914,
@@ -34474,23 +34304,6 @@
 		"rating_standard": 2002,
 		"rating_rapid": 2003,
 		"rating_blitz": 2041
-	},
-	{
-		"fideid": 975320,
-		"name": "Jakovljevic, Vladimir",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1952,
-		"flag": "i",
-		"rating_standard": 2002,
-		"rating_rapid": 2042,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 937770,
@@ -35955,23 +35768,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 912883,
-		"name": "Ilic, Slobodan S",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1953,
-		"flag": "i",
-		"rating_standard": 1993,
-		"rating_rapid": 2088,
-		"rating_blitz": 2031
-	},
-	{
 		"fideid": 925578,
 		"name": "Jovanovic, Milan D",
 		"country": "SRB",
@@ -36123,23 +35919,6 @@
 		"rating_standard": 1992,
 		"rating_rapid": 2004,
 		"rating_blitz": 2042
-	},
-	{
-		"fideid": 9237628,
-		"name": "Ilcic, Aleksa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 16,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1992,
-		"rating_rapid": 1939,
-		"rating_blitz": 1997
 	},
 	{
 		"fideid": 938645,
@@ -37519,23 +37298,6 @@
 		"rating_blitz": 2081
 	},
 	{
-		"fideid": 949833,
-		"name": "Cabarkapa, Miroslav",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1977,
-		"flag": "i",
-		"rating_standard": 1985,
-		"rating_rapid": 1947,
-		"rating_blitz": 1925
-	},
-	{
 		"fideid": 993581,
 		"name": "Djordjevic, Vlastimir",
 		"country": "SRB",
@@ -37706,6 +37468,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 916277,
+		"name": "Ivanovic, Nikola",
+		"country": "SRB",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1984,
+		"rating_rapid": 2062,
+		"rating_blitz": 1989
+	},
+	{
 		"fideid": 902691,
 		"name": "Kalcic, Krsta",
 		"country": "SRB",
@@ -37874,23 +37653,6 @@
 		"rating_standard": 1983,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 916277,
-		"name": "Ivanovic, Nikola",
-		"country": "SRB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1983,
-		"rating_rapid": 2062,
-		"rating_blitz": 1989
 	},
 	{
 		"fideid": 951951,
@@ -39318,7 +39080,7 @@
 		"flag": "",
 		"rating_standard": 1977,
 		"rating_rapid": 1971,
-		"rating_blitz": 2002
+		"rating_blitz": 2003
 	},
 	{
 		"fideid": 955116,
@@ -40016,23 +39778,6 @@
 		"rating_standard": 1973,
 		"rating_rapid": null,
 		"rating_blitz": 2062
-	},
-	{
-		"fideid": 928569,
-		"name": "Vujasic, Tomislav",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1944,
-		"flag": "i",
-		"rating_standard": 1973,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 932639,
@@ -40815,23 +40560,6 @@
 		"rating_standard": 1970,
 		"rating_rapid": 1968,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 972908,
-		"name": "Santrac, Bozo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1948,
-		"flag": "i",
-		"rating_standard": 1970,
-		"rating_rapid": 2057,
-		"rating_blitz": 1926
 	},
 	{
 		"fideid": 927996,
@@ -41735,6 +41463,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9220385,
+		"name": "Brankovic, Uros",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1965,
+		"rating_rapid": 2028,
+		"rating_blitz": 2005
+	},
+	{
 		"fideid": 942367,
 		"name": "Dragic, Dusan",
 		"country": "SRB",
@@ -41954,23 +41699,6 @@
 		"rating_standard": 1965,
 		"rating_rapid": 1967,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9220385,
-		"name": "Brankovic, Uros",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1964,
-		"rating_rapid": 2028,
-		"rating_blitz": 2005
 	},
 	{
 		"fideid": 991988,
@@ -42483,6 +42211,23 @@
 		"rating_blitz": 1934
 	},
 	{
+		"fideid": 9235668,
+		"name": "Mijic, Zoran",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1962,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 949558,
 		"name": "Mimovic, Predrag",
 		"country": "SRB",
@@ -42687,23 +42432,6 @@
 		"rating_blitz": 1901
 	},
 	{
-		"fideid": 9235668,
-		"name": "Mijic, Zoran",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 1961,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 933120,
 		"name": "Posa, Daniel",
 		"country": "SRB",
@@ -42836,7 +42564,7 @@
 		"birthday": 1966,
 		"flag": "",
 		"rating_standard": 1961,
-		"rating_rapid": 2176,
+		"rating_rapid": 2177,
 		"rating_blitz": 2188
 	},
 	{
@@ -43824,40 +43552,6 @@
 		"rating_standard": 1956,
 		"rating_rapid": 1957,
 		"rating_blitz": 1985
-	},
-	{
-		"fideid": 912220,
-		"name": "Manojlovic, Sava",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1956,
-		"rating_rapid": 1966,
-		"rating_blitz": 1967
-	},
-	{
-		"fideid": 903299,
-		"name": "Marjanovic, Milan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1965,
-		"flag": "i",
-		"rating_standard": 1956,
-		"rating_rapid": 1926,
-		"rating_blitz": 1990
 	},
 	{
 		"fideid": 984914,
@@ -46067,7 +45761,7 @@
 		"flag": "w",
 		"rating_standard": 1948,
 		"rating_rapid": 1934,
-		"rating_blitz": 2027
+		"rating_blitz": 2028
 	},
 	{
 		"fideid": 972517,
@@ -46274,23 +45968,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 911941,
-		"name": "Ozegovic, Ilija",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1945,
-		"flag": "i",
-		"rating_standard": 1947,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 911003,
 		"name": "Pejic, Mira",
 		"country": "SRB",
@@ -46306,6 +45983,23 @@
 		"rating_standard": 1947,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 938440,
+		"name": "Rajkovic, Aleksandar",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1947,
+		"rating_rapid": 2148,
+		"rating_blitz": 2194
 	},
 	{
 		"fideid": 979724,
@@ -46546,23 +46240,6 @@
 		"rating_blitz": 1904
 	},
 	{
-		"fideid": 938440,
-		"name": "Rajkovic, Aleksandar",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 1946,
-		"rating_rapid": 2148,
-		"rating_blitz": 2194
-	},
-	{
 		"fideid": 993662,
 		"name": "Zubic, Aleksandar",
 		"country": "SRB",
@@ -46576,7 +46253,7 @@
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": 1946,
-		"rating_rapid": 1929,
+		"rating_rapid": 1930,
 		"rating_blitz": 1913
 	},
 	{
@@ -47192,6 +46869,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 977810,
+		"name": "Mitrovic, Stefan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1943,
+		"rating_rapid": 1922,
+		"rating_blitz": 1807
+	},
+	{
 		"fideid": 974480,
 		"name": "Petrovic, Teodor",
 		"country": "SRB",
@@ -47309,23 +47003,6 @@
 		"rating_standard": 1942,
 		"rating_rapid": 2057,
 		"rating_blitz": 2035
-	},
-	{
-		"fideid": 977810,
-		"name": "Mitrovic, Stefan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1942,
-		"rating_rapid": 1922,
-		"rating_blitz": 1807
 	},
 	{
 		"fideid": 985406,
@@ -47868,7 +47545,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1940,
-		"rating_rapid": 1915,
+		"rating_rapid": 1916,
 		"rating_blitz": 1911
 	},
 	{
@@ -48484,6 +48161,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 988669,
+		"name": "Karanovic, Djordje",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1937,
+		"rating_rapid": 1898,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 939048,
 		"name": "Matkovic, Simana",
 		"country": "SRB",
@@ -48668,23 +48362,6 @@
 		"flag": "",
 		"rating_standard": 1936,
 		"rating_rapid": 1909,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 988669,
-		"name": "Karanovic, Djordje",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1936,
-		"rating_rapid": 1898,
 		"rating_blitz": null
 	},
 	{
@@ -48975,23 +48652,6 @@
 		"rating_standard": 1935,
 		"rating_rapid": 2000,
 		"rating_blitz": 1986
-	},
-	{
-		"fideid": 932701,
-		"name": "Kostic, Dusan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1940,
-		"flag": "i",
-		"rating_standard": 1935,
-		"rating_rapid": 1942,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 970034,
@@ -49859,23 +49519,6 @@
 		"rating_standard": 1932,
 		"rating_rapid": 1975,
 		"rating_blitz": 1959
-	},
-	{
-		"fideid": 944688,
-		"name": "Kuzmanovic, Stevan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1944,
-		"flag": "i",
-		"rating_standard": 1932,
-		"rating_rapid": 1989,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 933821,
@@ -51289,6 +50932,23 @@
 		"rating_blitz": 1859
 	},
 	{
+		"fideid": 9221845,
+		"name": "Nedeljkovic, Lazar",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1926,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 957194,
 		"name": "Nesic, Vladimir",
 		"country": "SRB",
@@ -51510,23 +51170,6 @@
 		"rating_blitz": 1846
 	},
 	{
-		"fideid": 9221845,
-		"name": "Nedeljkovic, Lazar",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1925,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 977373,
 		"name": "Rafailovic, Dragan",
 		"country": "SRB",
@@ -51680,6 +51323,23 @@
 		"rating_blitz": 1926
 	},
 	{
+		"fideid": 9218275,
+		"name": "Sakotic, Nikola",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1924,
+		"rating_rapid": 1931,
+		"rating_blitz": 1957
+	},
+	{
 		"fideid": 933341,
 		"name": "Tadic, Katarina",
 		"country": "SRB",
@@ -51829,7 +51489,7 @@
 		"birthday": 1957,
 		"flag": "i",
 		"rating_standard": 1923,
-		"rating_rapid": 1873,
+		"rating_rapid": 1874,
 		"rating_blitz": 1938
 	},
 	{
@@ -53376,7 +53036,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1915,
-		"rating_rapid": 1996,
+		"rating_rapid": 1997,
 		"rating_blitz": 1914
 	},
 	{
@@ -54091,23 +53751,6 @@
 		"flag": "",
 		"rating_standard": 1913,
 		"rating_rapid": 1879,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 935328,
-		"name": "Radovanovic, Miroljub B",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "i",
-		"rating_standard": 1913,
-		"rating_rapid": 1948,
 		"rating_blitz": null
 	},
 	{
@@ -55454,6 +55097,23 @@
 		"rating_blitz": 1899
 	},
 	{
+		"fideid": 9237628,
+		"name": "Ilcic, Aleksa",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1907,
+		"rating_rapid": 1939,
+		"rating_blitz": 1997
+	},
+	{
 		"fideid": 916285,
 		"name": "Jevtic, Miroljub",
 		"country": "SRB",
@@ -55587,23 +55247,6 @@
 		"flag": "i",
 		"rating_standard": 1907,
 		"rating_rapid": 1887,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 949469,
-		"name": "Trajkovic, Dusan H",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1941,
-		"flag": "i",
-		"rating_standard": 1907,
-		"rating_rapid": 1902,
 		"rating_blitz": null
 	},
 	{
@@ -56219,6 +55862,23 @@
 		"rating_blitz": 1918
 	},
 	{
+		"fideid": 44135394,
+		"name": "Valitov, Ilshat",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1905,
+		"rating_rapid": 1835,
+		"rating_blitz": 1779
+	},
+	{
 		"fideid": 930156,
 		"name": "Voina, Pau",
 		"country": "SRB",
@@ -56423,23 +56083,6 @@
 		"rating_blitz": 1949
 	},
 	{
-		"fideid": 44135394,
-		"name": "Valitov, Ilshat",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 16,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": 1904,
-		"rating_rapid": 1835,
-		"rating_blitz": 1779
-	},
-	{
 		"fideid": 994600,
 		"name": "Vasic, Dejan",
 		"country": "SRB",
@@ -56471,7 +56114,7 @@
 		"flag": "",
 		"rating_standard": 1903,
 		"rating_rapid": 2011,
-		"rating_blitz": 1894
+		"rating_blitz": 1895
 	},
 	{
 		"fideid": 975524,
@@ -63287,7 +62930,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1874,
-		"rating_rapid": 1984,
+		"rating_rapid": 1985,
 		"rating_blitz": 1752
 	},
 	{
@@ -63767,23 +63410,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9215454,
-		"name": "Perunovic, Uros",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1872,
-		"rating_rapid": 1938,
-		"rating_blitz": 1902
-	},
-	{
 		"fideid": 940003,
 		"name": "Ridjicki, Vlajko",
 		"country": "SRB",
@@ -64005,6 +63631,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9215454,
+		"name": "Perunovic, Uros",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1871,
+		"rating_rapid": 1938,
+		"rating_blitz": 1902
+	},
+	{
 		"fideid": 965960,
 		"name": "Samardzic, Jovan",
 		"country": "SRB",
@@ -64071,6 +63714,23 @@
 		"rating_standard": 1870,
 		"rating_rapid": 1840,
 		"rating_blitz": 1865
+	},
+	{
+		"fideid": 989495,
+		"name": "Lazovic, Marko",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1967,
+		"flag": "",
+		"rating_standard": 1870,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 983098,
@@ -64307,7 +63967,7 @@
 		"birthday": 1950,
 		"flag": "i",
 		"rating_standard": 1869,
-		"rating_rapid": 1792,
+		"rating_rapid": 1793,
 		"rating_blitz": 1872
 	},
 	{
@@ -64323,23 +63983,6 @@
 		"k": 40,
 		"birthday": 1938,
 		"flag": "i",
-		"rating_standard": 1869,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 989495,
-		"name": "Lazovic, Marko",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1967,
-		"flag": "",
 		"rating_standard": 1869,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -64889,6 +64532,23 @@
 		"rating_blitz": 1806
 	},
 	{
+		"fideid": 939102,
+		"name": "Cvijetic, Vladimir",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1866,
+		"rating_rapid": 1834,
+		"rating_blitz": 1784
+	},
+	{
 		"fideid": 982458,
 		"name": "Ivanovic, Slobodan",
 		"country": "SRB",
@@ -64946,7 +64606,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -65142,23 +64802,6 @@
 		"rating_standard": 1865,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 939102,
-		"name": "Cvijetic, Vladimir",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 1865,
-		"rating_rapid": 1834,
-		"rating_blitz": 1784
 	},
 	{
 		"fideid": 942529,
@@ -65960,6 +65603,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9219654,
+		"name": "Vuckovic, Uros",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1863,
+		"rating_rapid": 2013,
+		"rating_blitz": 1959
+	},
+	{
 		"fideid": 975303,
 		"name": "Cvijovic, Marko",
 		"country": "SRB",
@@ -66076,7 +65736,7 @@
 		"flag": "",
 		"rating_standard": 1862,
 		"rating_rapid": 1748,
-		"rating_blitz": 1633
+		"rating_blitz": 1634
 	},
 	{
 		"fideid": 9219794,
@@ -66572,23 +66232,6 @@
 		"rating_blitz": 1932
 	},
 	{
-		"fideid": 9211238,
-		"name": "Jovanovic, David",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1859,
-		"rating_rapid": 1926,
-		"rating_blitz": 1823
-	},
-	{
 		"fideid": 942693,
 		"name": "Maslar, Aleksa",
 		"country": "SRB",
@@ -66825,6 +66468,23 @@
 		"rating_standard": 1858,
 		"rating_rapid": 1920,
 		"rating_blitz": 1919
+	},
+	{
+		"fideid": 9211238,
+		"name": "Jovanovic, David",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1858,
+		"rating_rapid": 1926,
+		"rating_blitz": 1823
 	},
 	{
 		"fideid": 958433,
@@ -68312,7 +67972,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -68918,6 +68578,23 @@
 		"rating_blitz": 1789
 	},
 	{
+		"fideid": 9210371,
+		"name": "Trimunovic, Vuk",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1849,
+		"rating_rapid": 1777,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 971863,
 		"name": "Abramovic, Srdjan",
 		"country": "SRB",
@@ -69136,23 +68813,6 @@
 		"flag": "i",
 		"rating_standard": 1848,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9210371,
-		"name": "Trimunovic, Vuk",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1848,
-		"rating_rapid": 1777,
 		"rating_blitz": null
 	},
 	{
@@ -69494,6 +69154,23 @@
 		"rating_standard": 1845,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9205726,
+		"name": "Igracki, Miodrag",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1947,
+		"flag": "",
+		"rating_standard": 1845,
+		"rating_rapid": 1807,
+		"rating_blitz": 1765
 	},
 	{
 		"fideid": 932132,
@@ -70410,7 +70087,7 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1841,
-		"rating_rapid": 1785,
+		"rating_rapid": 1786,
 		"rating_blitz": 1823
 	},
 	{
@@ -71298,6 +70975,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 995959,
+		"name": "Jankovic, Tamara",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1836,
+		"rating_rapid": 1980,
+		"rating_blitz": 1883
+	},
+	{
 		"fideid": 968560,
 		"name": "Jevtic, Jela",
 		"country": "SRB",
@@ -71570,23 +71264,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 995959,
-		"name": "Jankovic, Tamara",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1835,
-		"rating_rapid": 1980,
-		"rating_blitz": 1882
-	},
-	{
 		"fideid": 9248344,
 		"name": "Jevtic, Sasa M",
 		"country": "SRB",
@@ -71653,6 +71330,23 @@
 		"rating_standard": 1834,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9216060,
+		"name": "Avramovic, Aleksa",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1834,
+		"rating_rapid": 1954,
+		"rating_blitz": 1719
 	},
 	{
 		"fideid": 926523,
@@ -71738,23 +71432,6 @@
 		"rating_standard": 1834,
 		"rating_rapid": 1922,
 		"rating_blitz": 1614
-	},
-	{
-		"fideid": 9216060,
-		"name": "Avramovic, Aleksa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1833,
-		"rating_rapid": 1954,
-		"rating_blitz": 1719
 	},
 	{
 		"fideid": 950360,
@@ -72998,23 +72675,6 @@
 		"rating_blitz": 2028
 	},
 	{
-		"fideid": 9205726,
-		"name": "Igracki, Miodrag",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1947,
-		"flag": "",
-		"rating_standard": 1827,
-		"rating_rapid": 1792,
-		"rating_blitz": 1765
-	},
-	{
 		"fideid": 956279,
 		"name": "Milunic, Radivoj",
 		"country": "SRB",
@@ -73421,23 +73081,6 @@
 		"rating_standard": 1825,
 		"rating_rapid": 1785,
 		"rating_blitz": 1807
-	},
-	{
-		"fideid": 9219654,
-		"name": "Vuckovic, Uros",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 25,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1825,
-		"rating_rapid": 2013,
-		"rating_blitz": 1959
 	},
 	{
 		"fideid": 957992,
@@ -74024,7 +73667,7 @@
 		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -74796,7 +74439,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1817,
-		"rating_rapid": 1719,
+		"rating_rapid": 1720,
 		"rating_blitz": 1852
 	},
 	{
@@ -75172,6 +74815,23 @@
 		"rating_standard": 1815,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 985651,
+		"name": "Mijuskovic, Mateja",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1815,
+		"rating_rapid": 1951,
+		"rating_blitz": 1908
 	},
 	{
 		"fideid": 958450,
@@ -75871,23 +75531,6 @@
 		"rating_blitz": 1911
 	},
 	{
-		"fideid": 985651,
-		"name": "Mijuskovic, Mateja",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1812,
-		"rating_rapid": 1951,
-		"rating_blitz": 1908
-	},
-	{
 		"fideid": 914452,
 		"name": "Moskovljevic, Milica",
 		"country": "SRB",
@@ -76551,23 +76194,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9218275,
-		"name": "Sakotic, Nikola",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 16,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1809,
-		"rating_rapid": 1931,
-		"rating_blitz": 1957
-	},
-	{
 		"fideid": 957690,
 		"name": "Savic, Nemanja N",
 		"country": "SRB",
@@ -77084,7 +76710,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -77092,7 +76718,7 @@
 		"flag": "",
 		"rating_standard": 1805,
 		"rating_rapid": 1968,
-		"rating_blitz": 1853
+		"rating_blitz": 1852
 	},
 	{
 		"fideid": 950629,
@@ -77484,23 +77110,6 @@
 		"rating_standard": 1803,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 964670,
-		"name": "Miletic, Dragan V",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1961,
-		"flag": "i",
-		"rating_standard": 1803,
-		"rating_rapid": 1861,
-		"rating_blitz": 1828
 	},
 	{
 		"fideid": 960896,
@@ -78880,6 +78489,23 @@
 		"rating_blitz": 1843
 	},
 	{
+		"fideid": 9226790,
+		"name": "Damjanovic, Marko Z",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1796,
+		"rating_rapid": 1827,
+		"rating_blitz": 1746
+	},
+	{
 		"fideid": 9211840,
 		"name": "Jakupek, Karlo",
 		"country": "SRB",
@@ -79014,23 +78640,6 @@
 		"rating_standard": 1795,
 		"rating_rapid": 1855,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9226790,
-		"name": "Damjanovic, Marko Z",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1795,
-		"rating_rapid": 1827,
-		"rating_blitz": 1746
 	},
 	{
 		"fideid": 980323,
@@ -79437,7 +79046,7 @@
 		"birthday": 1964,
 		"flag": "",
 		"rating_standard": 1794,
-		"rating_rapid": 1767,
+		"rating_rapid": 1768,
 		"rating_blitz": null
 	},
 	{
@@ -79798,6 +79407,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9236753,
+		"name": "Mihajlovic, Marko",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1792,
+		"rating_rapid": 1602,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 904767,
 		"name": "Milosevic, Goran D",
 		"country": "SRB",
@@ -80033,23 +79659,6 @@
 		"flag": "",
 		"rating_standard": 1791,
 		"rating_rapid": 1767,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9236753,
-		"name": "Mihajlovic, Marko",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1791,
-		"rating_rapid": 1602,
 		"rating_blitz": null
 	},
 	{
@@ -80512,6 +80121,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 958590,
+		"name": "Nikolic, Aleksandar",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1788,
+		"rating_rapid": 1848,
+		"rating_blitz": 1790
+	},
+	{
 		"fideid": 912484,
 		"name": "Pajic, David",
 		"country": "SRB",
@@ -80646,23 +80272,6 @@
 		"rating_standard": 1787,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 958590,
-		"name": "Nikolic, Aleksandar",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1787,
-		"rating_rapid": 1848,
-		"rating_blitz": 1790
 	},
 	{
 		"fideid": 958352,
@@ -81821,6 +81430,23 @@
 		"rating_blitz": 1798
 	},
 	{
+		"fideid": 905186,
+		"name": "Simonovic, Milomir",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "",
+		"rating_standard": 1780,
+		"rating_rapid": 1856,
+		"rating_blitz": 1859
+	},
+	{
 		"fideid": 9208806,
 		"name": "Arsenijevic, Spasa",
 		"country": "SRB",
@@ -81957,6 +81583,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9221993,
+		"name": "Burlica, Igor",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1778,
+		"rating_rapid": 1692,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9246899,
 		"name": "Deme, Laszlo",
 		"country": "SRB",
@@ -82056,23 +81699,6 @@
 		"flag": "i",
 		"rating_standard": 1778,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9221993,
-		"name": "Burlica, Igor",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1777,
-		"rating_rapid": 1692,
 		"rating_blitz": null
 	},
 	{
@@ -82331,23 +81957,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 905186,
-		"name": "Simonovic, Milomir",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "",
-		"rating_standard": 1777,
-		"rating_rapid": 1856,
-		"rating_blitz": 1859
-	},
-	{
 		"fideid": 971448,
 		"name": "Stojanovic, Zdravko",
 		"country": "SRB",
@@ -82529,23 +82138,6 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2001,
-		"flag": "i",
-		"rating_standard": 1776,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 901571,
-		"name": "Simic, Ljubomir",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1954,
 		"flag": "i",
 		"rating_standard": 1776,
 		"rating_rapid": null,
@@ -82881,7 +82473,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -83215,6 +82807,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 995347,
+		"name": "Kostic, Jelena",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "w",
+		"rating_standard": 1772,
+		"rating_rapid": 1772,
+		"rating_blitz": 1797
+	},
+	{
 		"fideid": 999377,
 		"name": "Savanovic, Milodrag",
 		"country": "SRB",
@@ -83366,23 +82975,6 @@
 		"rating_standard": 1771,
 		"rating_rapid": 1728,
 		"rating_blitz": 1622
-	},
-	{
-		"fideid": 995347,
-		"name": "Kostic, Jelena",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "w",
-		"rating_standard": 1771,
-		"rating_rapid": 1772,
-		"rating_blitz": 1797
 	},
 	{
 		"fideid": 969869,
@@ -83620,7 +83212,7 @@
 		"flag": "",
 		"rating_standard": 1770,
 		"rating_rapid": 1847,
-		"rating_blitz": 1673
+		"rating_blitz": 1674
 	},
 	{
 		"fideid": 9235692,
@@ -83929,6 +83521,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 980170,
+		"name": "Palamarevic, Mina",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1768,
+		"rating_rapid": 1788,
+		"rating_blitz": 1835
+	},
+	{
 		"fideid": 971502,
 		"name": "Pantic, Slobodan",
 		"country": "SRB",
@@ -84079,24 +83688,24 @@
 		"flag": "i",
 		"rating_standard": 1767,
 		"rating_rapid": 1723,
-		"rating_blitz": 1774
+		"rating_blitz": 1775
 	},
 	{
-		"fideid": 980170,
-		"name": "Palamarevic, Mina",
+		"fideid": 9224054,
+		"name": "Petrovic, Marko S",
 		"country": "SRB",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NA",
+		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
 		"rating_standard": 1767,
-		"rating_rapid": 1788,
-		"rating_blitz": 1835
+		"rating_rapid": 1803,
+		"rating_blitz": 1666
 	},
 	{
 		"fideid": 9210266,
@@ -84371,23 +83980,6 @@
 		"rating_blitz": 1699
 	},
 	{
-		"fideid": 9224054,
-		"name": "Petrovic, Marko S",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1766,
-		"rating_rapid": 1803,
-		"rating_blitz": 1666
-	},
-	{
 		"fideid": 9200309,
 		"name": "Stojadinovic, Aleksandra",
 		"country": "SRB",
@@ -84513,7 +84105,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -85102,23 +84694,6 @@
 		"rating_blitz": 1740
 	},
 	{
-		"fideid": 954403,
-		"name": "Simic, Selimir",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1945,
-		"flag": "i",
-		"rating_standard": 1762,
-		"rating_rapid": 1836,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 970140,
 		"name": "Velisavljevic, Dragan",
 		"country": "SRB",
@@ -85425,6 +85000,23 @@
 		"rating_blitz": 1818
 	},
 	{
+		"fideid": 983365,
+		"name": "Lojpur, Nenad",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1760,
+		"rating_rapid": 1836,
+		"rating_blitz": 1830
+	},
+	{
 		"fideid": 9211670,
 		"name": "Lukic, Darko",
 		"country": "SRB",
@@ -85714,23 +85306,6 @@
 		"rating_blitz": 1862
 	},
 	{
-		"fideid": 983365,
-		"name": "Lojpur, Nenad",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1758,
-		"rating_rapid": 1836,
-		"rating_blitz": 1830
-	},
-	{
 		"fideid": 958328,
 		"name": "Milic, Slavomir",
 		"country": "SRB",
@@ -85816,6 +85391,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 974552,
+		"name": "Bjeletic, Zeljko",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1757,
+		"rating_rapid": 1791,
+		"rating_blitz": 1800
+	},
+	{
 		"fideid": 984710,
 		"name": "Dostanic, Strahinja",
 		"country": "SRB",
@@ -85882,23 +85474,6 @@
 		"rating_standard": 1756,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 974552,
-		"name": "Bjeletic, Zeljko",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1756,
-		"rating_rapid": 1791,
-		"rating_blitz": 1800
 	},
 	{
 		"fideid": 974650,
@@ -86207,6 +85782,23 @@
 		"rating_blitz": 1759
 	},
 	{
+		"fideid": 993085,
+		"name": "Milicevic, Dunja",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1754,
+		"rating_rapid": 1611,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 997340,
 		"name": "Plavsic, Djordje",
 		"country": "SRB",
@@ -86306,23 +85898,6 @@
 		"flag": "i",
 		"rating_standard": 1753,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 993085,
-		"name": "Milicevic, Dunja",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1753,
-		"rating_rapid": 1611,
 		"rating_blitz": null
 	},
 	{
@@ -86547,6 +86122,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 953377,
+		"name": "Rakic, Ognjan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1944,
+		"flag": "",
+		"rating_standard": 1752,
+		"rating_rapid": 1909,
+		"rating_blitz": 1739
+	},
+	{
 		"fideid": 9203120,
 		"name": "Rapaic, Milan",
 		"country": "SRB",
@@ -86598,6 +86190,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9213370,
+		"name": "Ilic, Mia",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1751,
+		"rating_rapid": 1784,
+		"rating_blitz": 1646
+	},
+	{
 		"fideid": 988740,
 		"name": "Jandric, Ljubisa",
 		"country": "SRB",
@@ -86628,7 +86237,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1751,
-		"rating_rapid": 1714,
+		"rating_rapid": 1715,
 		"rating_blitz": 1753
 	},
 	{
@@ -86698,23 +86307,6 @@
 		"rating_standard": 1751,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 953377,
-		"name": "Rakic, Ognjan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1944,
-		"flag": "",
-		"rating_standard": 1751,
-		"rating_rapid": 1909,
-		"rating_blitz": 1739
 	},
 	{
 		"fideid": 979848,
@@ -86817,23 +86409,6 @@
 		"rating_standard": 1750,
 		"rating_rapid": 1727,
 		"rating_blitz": 1825
-	},
-	{
-		"fideid": 9213370,
-		"name": "Ilic, Mia",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1750,
-		"rating_rapid": 1784,
-		"rating_blitz": 1646
 	},
 	{
 		"fideid": 973122,
@@ -87907,6 +87482,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9231255,
+		"name": "Knezi, Alex",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1743,
+		"rating_rapid": 1946,
+		"rating_blitz": 1944
+	},
+	{
 		"fideid": 949345,
 		"name": "Lipot, Tamas",
 		"country": "SRB",
@@ -88298,23 +87890,6 @@
 		"rating_blitz": 1755
 	},
 	{
-		"fideid": 9231255,
-		"name": "Knezi, Alex",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1741,
-		"rating_rapid": 1946,
-		"rating_blitz": 1944
-	},
-	{
 		"fideid": 960578,
 		"name": "Marjanski, Dusan",
 		"country": "SRB",
@@ -88519,6 +88094,23 @@
 		"rating_blitz": 1690
 	},
 	{
+		"fideid": 970255,
+		"name": "Muminovic, Zaim",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1740,
+		"rating_rapid": 1899,
+		"rating_blitz": 1789
+	},
+	{
 		"fideid": 977365,
 		"name": "Radovanovic, Radovan",
 		"country": "SRB",
@@ -88602,23 +88194,6 @@
 		"rating_standard": 1739,
 		"rating_rapid": 1757,
 		"rating_blitz": 1677
-	},
-	{
-		"fideid": 970255,
-		"name": "Muminovic, Zaim",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1739,
-		"rating_rapid": 1899,
-		"rating_blitz": 1788
 	},
 	{
 		"fideid": 987700,
@@ -88944,6 +88519,23 @@
 		"rating_blitz": 1824
 	},
 	{
+		"fideid": 970182,
+		"name": "Gligorijevic, Pera",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1952,
+		"flag": "",
+		"rating_standard": 1736,
+		"rating_rapid": 1775,
+		"rating_blitz": 1758
+	},
+	{
 		"fideid": 9225212,
 		"name": "Koprivica, Branko",
 		"country": "SRB",
@@ -89080,23 +88672,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 970182,
-		"name": "Gligorijevic, Pera",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1952,
-		"flag": "",
-		"rating_standard": 1735,
-		"rating_rapid": 1775,
-		"rating_blitz": 1758
-	},
-	{
 		"fideid": 978051,
 		"name": "Markovic, Zoran Sr",
 		"country": "SRB",
@@ -89112,6 +88687,23 @@
 		"rating_standard": 1735,
 		"rating_rapid": 1759,
 		"rating_blitz": 1712
+	},
+	{
+		"fideid": 9229544,
+		"name": "Matejic, Aleksa",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1735,
+		"rating_rapid": 1678,
+		"rating_blitz": 1804
 	},
 	{
 		"fideid": 9200120,
@@ -89519,7 +89111,7 @@
 		"flag": "",
 		"rating_standard": 1732,
 		"rating_rapid": 1866,
-		"rating_blitz": 1842
+		"rating_blitz": 1843
 	},
 	{
 		"fideid": 9228521,
@@ -89641,23 +89233,6 @@
 		"rating_blitz": 1667
 	},
 	{
-		"fideid": 9229544,
-		"name": "Matejic, Aleksa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1731,
-		"rating_rapid": 1678,
-		"rating_blitz": 1804
-	},
-	{
 		"fideid": 999563,
 		"name": "Matejic, Petar",
 		"country": "SRB",
@@ -89723,6 +89298,23 @@
 		"flag": "i",
 		"rating_standard": 1731,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 939242,
+		"name": "Uzelac, Dusan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1949,
+		"flag": "",
+		"rating_standard": 1731,
+		"rating_rapid": 1723,
 		"rating_blitz": null
 	},
 	{
@@ -89947,23 +89539,6 @@
 		"rating_blitz": 1734
 	},
 	{
-		"fideid": 939242,
-		"name": "Uzelac, Dusan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1949,
-		"flag": "",
-		"rating_standard": 1729,
-		"rating_rapid": 1723,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 945463,
 		"name": "Zivotic, Milomir",
 		"country": "SRB",
@@ -90100,6 +89675,23 @@
 		"rating_blitz": 1729
 	},
 	{
+		"fideid": 9235943,
+		"name": "Keckic, Uros",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1727,
+		"rating_rapid": 1601,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 983071,
 		"name": "Markovic, Aleksandar D",
 		"country": "SRB",
@@ -90182,23 +89774,6 @@
 		"flag": "i",
 		"rating_standard": 1726,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9235943,
-		"name": "Keckic, Uros",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1726,
-		"rating_rapid": 1601,
 		"rating_blitz": null
 	},
 	{
@@ -90389,6 +89964,23 @@
 		"rating_blitz": 1669
 	},
 	{
+		"fideid": 9201933,
+		"name": "Miladinovic, Mihajlo",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1725,
+		"rating_rapid": 1809,
+		"rating_blitz": 1696
+	},
+	{
 		"fideid": 995703,
 		"name": "Mitic, Bogdan",
 		"country": "SRB",
@@ -90438,23 +90030,6 @@
 		"rating_standard": 1724,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9201933,
-		"name": "Miladinovic, Mihajlo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1724,
-		"rating_rapid": 1809,
-		"rating_blitz": 1696
 	},
 	{
 		"fideid": 959561,
@@ -90709,7 +90284,7 @@
 		"flag": "",
 		"rating_standard": 1722,
 		"rating_rapid": 1768,
-		"rating_blitz": 1712
+		"rating_blitz": 1713
 	},
 	{
 		"fideid": 994359,
@@ -90794,7 +90369,7 @@
 		"flag": "",
 		"rating_standard": 1722,
 		"rating_rapid": 1704,
-		"rating_blitz": 1711
+		"rating_blitz": 1712
 	},
 	{
 		"fideid": 9214253,
@@ -90827,7 +90402,7 @@
 		"birthday": 1954,
 		"flag": "",
 		"rating_standard": 1721,
-		"rating_rapid": 1844,
+		"rating_rapid": 1845,
 		"rating_blitz": 1679
 	},
 	{
@@ -90913,7 +90488,7 @@
 		"flag": "i",
 		"rating_standard": 1720,
 		"rating_rapid": 1760,
-		"rating_blitz": 1720
+		"rating_blitz": 1719
 	},
 	{
 		"fideid": 969613,
@@ -91222,6 +90797,23 @@
 		"rating_blitz": 1823
 	},
 	{
+		"fideid": 55853927,
+		"name": "Gatin, Artur",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1717,
+		"rating_rapid": 1925,
+		"rating_blitz": 1815
+	},
+	{
 		"fideid": 974170,
 		"name": "Groznica, Ivan M",
 		"country": "SRB",
@@ -91320,7 +90912,7 @@
 		"birthday": 1963,
 		"flag": "",
 		"rating_standard": 1717,
-		"rating_rapid": 1894,
+		"rating_rapid": 1895,
 		"rating_blitz": null
 	},
 	{
@@ -91373,23 +90965,6 @@
 		"rating_standard": 1716,
 		"rating_rapid": 1721,
 		"rating_blitz": 1673
-	},
-	{
-		"fideid": 55853927,
-		"name": "Gatin, Artur",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 15,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1716,
-		"rating_rapid": 1925,
-		"rating_blitz": 1815
 	},
 	{
 		"fideid": 951935,
@@ -91559,7 +91134,7 @@
 		"flag": "",
 		"rating_standard": 1715,
 		"rating_rapid": 1659,
-		"rating_blitz": 1543
+		"rating_blitz": 1544
 	},
 	{
 		"fideid": 9218992,
@@ -91766,6 +91341,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9214482,
+		"name": "Colovic, Vuk",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1713,
+		"rating_rapid": 1878,
+		"rating_blitz": 1777
+	},
+	{
 		"fideid": 9231522,
 		"name": "Jankovic, Zlatko",
 		"country": "SRB",
@@ -91936,23 +91528,6 @@
 		"rating_blitz": 1750
 	},
 	{
-		"fideid": 9214482,
-		"name": "Colovic, Vuk",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1712,
-		"rating_rapid": 1878,
-		"rating_blitz": 1775
-	},
-	{
 		"fideid": 974099,
 		"name": "Dimitrijevic, Mirko",
 		"country": "SRB",
@@ -92052,6 +91627,23 @@
 		"flag": "wi",
 		"rating_standard": 1712,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9239655,
+		"name": "Novakov, Andrej",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1712,
+		"rating_rapid": 1650,
 		"rating_blitz": null
 	},
 	{
@@ -92256,7 +91848,7 @@
 		"flag": "",
 		"rating_standard": 1709,
 		"rating_rapid": 1839,
-		"rating_blitz": 1863
+		"rating_blitz": 1864
 	},
 	{
 		"fideid": 167126804,
@@ -92307,23 +91899,6 @@
 		"flag": "i",
 		"rating_standard": 1709,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9239655,
-		"name": "Novakov, Andrej",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1709,
-		"rating_rapid": 1647,
 		"rating_blitz": null
 	},
 	{
@@ -92752,6 +92327,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9231239,
+		"name": "Andic, Milan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1706,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 976652,
 		"name": "Farkas, Barbara",
 		"country": "SRB",
@@ -92820,6 +92412,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9229234,
+		"name": "Milosevic, Milos R",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1706,
+		"rating_rapid": 1864,
+		"rating_blitz": 1869
+	},
+	{
 		"fideid": 989967,
 		"name": "Vulovic, Miloje",
 		"country": "SRB",
@@ -92837,8 +92446,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9231239,
-		"name": "Andic, Milan",
+		"fideid": 9235820,
+		"name": "Chichikov, Kirill",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
@@ -92847,10 +92456,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1994,
+		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1705,
-		"rating_rapid": null,
+		"rating_rapid": 1711,
 		"rating_blitz": null
 	},
 	{
@@ -92956,23 +92565,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9235820,
-		"name": "Chichikov, Kirill",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1704,
-		"rating_rapid": 1711,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 966509,
 		"name": "Cindrity, Bettina",
 		"country": "SRB",
@@ -93058,21 +92650,21 @@
 		"rating_blitz": 1751
 	},
 	{
-		"fideid": 9229234,
-		"name": "Milosevic, Milos R",
+		"fideid": 9231271,
+		"name": "Radnic, Aleksa",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AIM",
 		"games": 0,
-		"k": 20,
-		"birthday": 1985,
+		"k": 40,
+		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1703,
-		"rating_rapid": 1864,
-		"rating_blitz": 1869
+		"rating_standard": 1704,
+		"rating_rapid": 1885,
+		"rating_blitz": 1937
 	},
 	{
 		"fideid": 9226154,
@@ -93107,23 +92699,6 @@
 		"rating_standard": 1703,
 		"rating_rapid": 1892,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9231271,
-		"name": "Radnic, Aleksa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1703,
-		"rating_rapid": 1884,
-		"rating_blitz": 1937
 	},
 	{
 		"fideid": 9213141,
@@ -93192,6 +92767,23 @@
 		"rating_standard": 1702,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9227916,
+		"name": "Jacimovic, Leonida",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1702,
+		"rating_rapid": 1510,
+		"rating_blitz": 1431
 	},
 	{
 		"fideid": 912077,
@@ -93330,6 +92922,23 @@
 		"rating_blitz": 1652
 	},
 	{
+		"fideid": 986097,
+		"name": "Stanisavljevic, Nebojsa",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1702,
+		"rating_rapid": 1873,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9209209,
 		"name": "Stankovic, Dimitrije N",
 		"country": "SRB",
@@ -93378,7 +92987,7 @@
 		"flag": "i",
 		"rating_standard": 1701,
 		"rating_rapid": 1702,
-		"rating_blitz": 1769
+		"rating_blitz": 1770
 	},
 	{
 		"fideid": 966711,
@@ -93413,23 +93022,6 @@
 		"rating_standard": 1701,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9227916,
-		"name": "Jacimovic, Leonida",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1701,
-		"rating_rapid": 1510,
-		"rating_blitz": 1431
 	},
 	{
 		"fideid": 979023,
@@ -93500,6 +93092,23 @@
 		"rating_blitz": 2004
 	},
 	{
+		"fideid": 9227150,
+		"name": "Perunovic, Vuk",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1701,
+		"rating_rapid": 1505,
+		"rating_blitz": 1570
+	},
+	{
 		"fideid": 9235633,
 		"name": "Petrovic, Uros",
 		"country": "SRB",
@@ -93531,23 +93140,6 @@
 		"flag": "",
 		"rating_standard": 1701,
 		"rating_rapid": 1679,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 986097,
-		"name": "Stanisavljevic, Nebojsa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1701,
-		"rating_rapid": 1873,
 		"rating_blitz": null
 	},
 	{
@@ -93585,8 +93177,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9227150,
-		"name": "Perunovic, Vuk",
+		"fideid": 9222175,
+		"name": "Radovanovic, Savo",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
@@ -93594,12 +93186,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
-		"birthday": 2011,
+		"k": 20,
+		"birthday": 1953,
 		"flag": "",
 		"rating_standard": 1700,
-		"rating_rapid": 1505,
-		"rating_blitz": 1570
+		"rating_rapid": 1683,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 933236,
@@ -93718,23 +93310,6 @@
 		"flag": "i",
 		"rating_standard": 1699,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9222175,
-		"name": "Radovanovic, Savo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1953,
-		"flag": "",
-		"rating_standard": 1699,
-		"rating_rapid": 1683,
 		"rating_blitz": null
 	},
 	{
@@ -94364,7 +93939,7 @@
 		"flag": "",
 		"rating_standard": 1694,
 		"rating_rapid": 1813,
-		"rating_blitz": 1695
+		"rating_blitz": 1694
 	},
 	{
 		"fideid": 955213,
@@ -94399,6 +93974,23 @@
 		"rating_standard": 1694,
 		"rating_rapid": 1620,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 915513,
+		"name": "Stefanovic, Dragan D",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1942,
+		"flag": "",
+		"rating_standard": 1694,
+		"rating_rapid": 1732,
+		"rating_blitz": 1651
 	},
 	{
 		"fideid": 919756,
@@ -94518,23 +94110,6 @@
 		"rating_standard": 1693,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 915513,
-		"name": "Stefanovic, Dragan D",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1942,
-		"flag": "",
-		"rating_standard": 1693,
-		"rating_rapid": 1732,
-		"rating_blitz": 1651
 	},
 	{
 		"fideid": 998826,
@@ -94738,7 +94313,7 @@
 		"flag": "",
 		"rating_standard": 1691,
 		"rating_rapid": 1727,
-		"rating_blitz": 1856
+		"rating_blitz": 1857
 	},
 	{
 		"fideid": 966894,
@@ -94892,23 +94467,6 @@
 		"rating_standard": 1690,
 		"rating_rapid": 1681,
 		"rating_blitz": 1698
-	},
-	{
-		"fideid": 976628,
-		"name": "Radosavljevic, Miroslav",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1944,
-		"flag": "i",
-		"rating_standard": 1690,
-		"rating_rapid": 1686,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 919209,
@@ -95162,7 +94720,7 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1688,
-		"rating_rapid": 1574,
+		"rating_rapid": 1575,
 		"rating_blitz": 1903
 	},
 	{
@@ -95197,6 +94755,23 @@
 		"flag": "",
 		"rating_standard": 1688,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 955370,
+		"name": "Savin, Aleksa",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1688,
+		"rating_rapid": 1733,
 		"rating_blitz": null
 	},
 	{
@@ -95268,23 +94843,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 955370,
-		"name": "Savin, Aleksa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1687,
-		"rating_rapid": 1733,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 983926,
 		"name": "Simonovic, Strahinja",
 		"country": "SRB",
@@ -95333,7 +94891,7 @@
 		"flag": "",
 		"rating_standard": 1686,
 		"rating_rapid": 1691,
-		"rating_blitz": 1686
+		"rating_blitz": 1687
 	},
 	{
 		"fideid": 974129,
@@ -95418,23 +94976,6 @@
 		"flag": "",
 		"rating_standard": 1686,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9244314,
-		"name": "Radicevic, Aleksandra",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1973,
-		"flag": "w",
-		"rating_standard": 1686,
-		"rating_rapid": 1684,
 		"rating_blitz": null
 	},
 	{
@@ -95538,6 +95079,23 @@
 		"rating_standard": 1685,
 		"rating_rapid": 2030,
 		"rating_blitz": 1907
+	},
+	{
+		"fideid": 9244314,
+		"name": "Radicevic, Aleksandra",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1973,
+		"flag": "w",
+		"rating_standard": 1685,
+		"rating_rapid": 1684,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9241480,
@@ -95795,23 +95353,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9219662,
-		"name": "Milojevic, Dunja",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1682,
-		"rating_rapid": 1838,
-		"rating_blitz": 1620
-	},
-	{
 		"fideid": 955086,
 		"name": "Petrovic, Vanja",
 		"country": "SRB",
@@ -95826,23 +95367,6 @@
 		"flag": "i",
 		"rating_standard": 1682,
 		"rating_rapid": 1700,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 911291,
-		"name": "Sekulovic, Dusica",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "w",
-		"rating_standard": 1682,
-		"rating_rapid": 1674,
 		"rating_blitz": null
 	},
 	{
@@ -95892,6 +95416,23 @@
 		"k": 40,
 		"birthday": 1950,
 		"flag": "i",
+		"rating_standard": 1681,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 975990,
+		"name": "Mihaljica, Simo",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1942,
+		"flag": "",
 		"rating_standard": 1681,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -95948,6 +95489,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 911291,
+		"name": "Sekulovic, Dusica",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "w",
+		"rating_standard": 1681,
+		"rating_rapid": 1674,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9233568,
 		"name": "Stamenkovic, Igor",
 		"country": "SRB",
@@ -95979,23 +95537,6 @@
 		"flag": "wi",
 		"rating_standard": 1680,
 		"rating_rapid": 1699,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 975990,
-		"name": "Mihaljica, Simo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1942,
-		"flag": "",
-		"rating_standard": 1680,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -96065,6 +95606,23 @@
 		"rating_standard": 1680,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 982911,
+		"name": "Zikic, Petar",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1680,
+		"rating_rapid": 1723,
+		"rating_blitz": 1677
 	},
 	{
 		"fideid": 9231719,
@@ -96152,23 +95710,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 982911,
-		"name": "Zikic, Petar",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1679,
-		"rating_rapid": 1723,
-		"rating_blitz": 1677
-	},
-	{
 		"fideid": 968102,
 		"name": "Djelic, Jovan",
 		"country": "SRB",
@@ -96201,23 +95742,6 @@
 		"rating_standard": 1678,
 		"rating_rapid": 1695,
 		"rating_blitz": 1657
-	},
-	{
-		"fideid": 9223880,
-		"name": "Krutikov, Konstantin",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1678,
-		"rating_rapid": 1873,
-		"rating_blitz": 1730
 	},
 	{
 		"fideid": 9235161,
@@ -96370,7 +95894,24 @@
 		"flag": "",
 		"rating_standard": 1676,
 		"rating_rapid": 1820,
-		"rating_blitz": 1787
+		"rating_blitz": 1788
+	},
+	{
+		"fideid": 9219662,
+		"name": "Milojevic, Dunja",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1676,
+		"rating_rapid": 1838,
+		"rating_blitz": 1620
 	},
 	{
 		"fideid": 9248557,
@@ -97440,7 +96981,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1667,
-		"rating_rapid": 1700,
+		"rating_rapid": 1701,
 		"rating_blitz": 1778
 	},
 	{
@@ -97699,6 +97240,23 @@
 		"rating_blitz": 1864
 	},
 	{
+		"fideid": 9240300,
+		"name": "Kitanovic, David S",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1665,
+		"rating_rapid": 1428,
+		"rating_blitz": 1528
+	},
+	{
 		"fideid": 974048,
 		"name": "Lakatos, Miklos",
 		"country": "SRB",
@@ -97815,7 +97373,7 @@
 		"flag": "i",
 		"rating_standard": 1664,
 		"rating_rapid": 1757,
-		"rating_blitz": 1667
+		"rating_blitz": 1668
 	},
 	{
 		"fideid": 9216892,
@@ -97850,23 +97408,6 @@
 		"rating_standard": 1663,
 		"rating_rapid": 1667,
 		"rating_blitz": 1647
-	},
-	{
-		"fideid": 9240300,
-		"name": "Kitanovic, David S",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1663,
-		"rating_rapid": 1428,
-		"rating_blitz": 1527
 	},
 	{
 		"fideid": 9214008,
@@ -97952,6 +97493,23 @@
 		"rating_standard": 1662,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9223880,
+		"name": "Krutikov, Konstantin",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1662,
+		"rating_rapid": 1873,
+		"rating_blitz": 1730
 	},
 	{
 		"fideid": 9212927,
@@ -98053,7 +97611,7 @@
 		"flag": "i",
 		"rating_standard": 1661,
 		"rating_rapid": 1812,
-		"rating_blitz": 1930
+		"rating_blitz": 1931
 	},
 	{
 		"fideid": 990523,
@@ -98216,7 +97774,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
@@ -98358,7 +97916,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1659,
-		"rating_rapid": 1759,
+		"rating_rapid": 1760,
 		"rating_blitz": 1694
 	},
 	{
@@ -98394,6 +97952,23 @@
 		"rating_standard": 1658,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9232413,
+		"name": "Jugovic, Strahinja",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1658,
+		"rating_rapid": 1692,
+		"rating_blitz": 1595
 	},
 	{
 		"fideid": 9233592,
@@ -98532,6 +98107,23 @@
 		"rating_blitz": 1731
 	},
 	{
+		"fideid": 995118,
+		"name": "Rakic, Dejan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1656,
+		"rating_rapid": 1815,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9223538,
 		"name": "Ristic, Jovica",
 		"country": "SRB",
@@ -98546,23 +98138,6 @@
 		"flag": "",
 		"rating_standard": 1656,
 		"rating_rapid": 1642,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 995118,
-		"name": "Rakic, Dejan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1655,
-		"rating_rapid": 1815,
 		"rating_blitz": null
 	},
 	{
@@ -98581,23 +98156,6 @@
 		"rating_standard": 1655,
 		"rating_rapid": 1601,
 		"rating_blitz": 1690
-	},
-	{
-		"fideid": 9232413,
-		"name": "Jugovic, Strahinja",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1654,
-		"rating_rapid": 1692,
-		"rating_blitz": 1595
 	},
 	{
 		"fideid": 984027,
@@ -99195,6 +98753,23 @@
 		"rating_blitz": 1643
 	},
 	{
+		"fideid": 9244810,
+		"name": "Maksimovic, Jovan S",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1646,
+		"rating_rapid": 1562,
+		"rating_blitz": 1576
+	},
+	{
 		"fideid": 9217007,
 		"name": "Mijic, Lazar",
 		"country": "SRB",
@@ -99208,7 +98783,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1646,
-		"rating_rapid": 1801,
+		"rating_rapid": 1802,
 		"rating_blitz": 1626
 	},
 	{
@@ -99416,23 +98991,6 @@
 		"rating_blitz": 1684
 	},
 	{
-		"fideid": 9244810,
-		"name": "Maksimovic, Jovan S",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1643,
-		"rating_rapid": 1558,
-		"rating_blitz": 1573
-	},
-	{
 		"fideid": 9205416,
 		"name": "Miletic, Dalibor",
 		"country": "SRB",
@@ -99533,6 +99091,23 @@
 		"rating_standard": 1642,
 		"rating_rapid": 1656,
 		"rating_blitz": 1696
+	},
+	{
+		"fideid": 9214997,
+		"name": "Mihailovic, Slobodan C",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1642,
+		"rating_rapid": 1792,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9223244,
@@ -99637,6 +99212,23 @@
 		"rating_blitz": 1664
 	},
 	{
+		"fideid": 9213400,
+		"name": "Krinulovic, Andjela",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1641,
+		"rating_rapid": 1630,
+		"rating_blitz": 1543
+	},
+	{
 		"fideid": 971642,
 		"name": "Meszaros, Csaba",
 		"country": "SRB",
@@ -99651,23 +99243,6 @@
 		"flag": "i",
 		"rating_standard": 1641,
 		"rating_rapid": 1641,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9214997,
-		"name": "Mihailovic, Slobodan C",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "",
-		"rating_standard": 1641,
-		"rating_rapid": 1792,
 		"rating_blitz": null
 	},
 	{
@@ -99752,6 +99327,23 @@
 		"birthday": 2000,
 		"flag": "wi",
 		"rating_standard": 1641,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9219603,
+		"name": "Milosavljevic, Ljubomir",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1640,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -99892,8 +99484,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9213400,
-		"name": "Krinulovic, Andjela",
+		"fideid": 988120,
+		"name": "Lecic, Lena",
 		"country": "SRB",
 		"sex": "F",
 		"title": "",
@@ -99902,15 +99494,15 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2007,
 		"flag": "w",
 		"rating_standard": 1639,
-		"rating_rapid": 1630,
-		"rating_blitz": 1543
+		"rating_rapid": 1713,
+		"rating_blitz": 1700
 	},
 	{
-		"fideid": 9219603,
-		"name": "Milosavljevic, Ljubomir",
+		"fideid": 931454,
+		"name": "Olajos, Gyozo",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
@@ -99918,11 +99510,28 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
-		"birthday": 1958,
+		"k": 20,
+		"birthday": 1944,
 		"flag": "",
 		"rating_standard": 1639,
-		"rating_rapid": null,
+		"rating_rapid": 1740,
+		"rating_blitz": 1769
+	},
+	{
+		"fideid": 9241595,
+		"name": "Pavicevic, Vladimir",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1639,
+		"rating_rapid": 1696,
 		"rating_blitz": null
 	},
 	{
@@ -100011,6 +99620,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9213761,
+		"name": "Kanacki, Aljosa",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1638,
+		"rating_rapid": 1689,
+		"rating_blitz": 1764
+	},
+	{
 		"fideid": 9233525,
 		"name": "Musaev, Artur",
 		"country": "SRB",
@@ -100026,23 +99652,6 @@
 		"rating_standard": 1638,
 		"rating_rapid": 1533,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 931454,
-		"name": "Olajos, Gyozo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1944,
-		"flag": "",
-		"rating_standard": 1638,
-		"rating_rapid": 1740,
-		"rating_blitz": 1769
 	},
 	{
 		"fideid": 9232928,
@@ -100113,20 +99722,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9241595,
-		"name": "Pavicevic, Vladimir",
+		"fideid": 9219743,
+		"name": "Krizak, Kosta",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NA",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2006,
+		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1636,
-		"rating_rapid": 1696,
+		"rating_rapid": 1583,
 		"rating_blitz": null
 	},
 	{
@@ -100164,6 +99773,23 @@
 		"rating_blitz": 1675
 	},
 	{
+		"fideid": 9243458,
+		"name": "Ivkovic, Sofija",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1635,
+		"rating_rapid": 1627,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 998532,
 		"name": "Kovacevic, Dusan V",
 		"country": "SRB",
@@ -100178,23 +99804,6 @@
 		"flag": "i",
 		"rating_standard": 1635,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9219743,
-		"name": "Krizak, Kosta",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1635,
-		"rating_rapid": 1583,
 		"rating_blitz": null
 	},
 	{
@@ -100283,23 +99892,6 @@
 		"rating_blitz": 1621
 	},
 	{
-		"fideid": 9243458,
-		"name": "Ivkovic, Sofija",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1634,
-		"rating_rapid": 1627,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 996734,
 		"name": "Petronijevic, Luka",
 		"country": "SRB",
@@ -100366,23 +99958,6 @@
 		"rating_standard": 1633,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 988120,
-		"name": "Lecic, Lena",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1633,
-		"rating_rapid": 1713,
-		"rating_blitz": 1700
 	},
 	{
 		"fideid": 985830,
@@ -100466,7 +100041,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1633,
-		"rating_rapid": 1687,
+		"rating_rapid": 1688,
 		"rating_blitz": null
 	},
 	{
@@ -100723,23 +100298,6 @@
 		"rating_standard": 1629,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9213761,
-		"name": "Kanacki, Aljosa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 12,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1629,
-		"rating_rapid": 1689,
-		"rating_blitz": 1764
 	},
 	{
 		"fideid": 9207036,
@@ -101065,6 +100623,23 @@
 		"rating_blitz": 1701
 	},
 	{
+		"fideid": 9209772,
+		"name": "Bobisuth, Antonije",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1624,
+		"rating_rapid": 1758,
+		"rating_blitz": 1648
+	},
+	{
 		"fideid": 9213885,
 		"name": "Gudovic, Miroslav",
 		"country": "SRB",
@@ -101218,23 +100793,6 @@
 		"rating_blitz": 1591
 	},
 	{
-		"fideid": 9209772,
-		"name": "Bobisuth, Antonije",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1623,
-		"rating_rapid": 1758,
-		"rating_blitz": 1648
-	},
-	{
 		"fideid": 958441,
 		"name": "Kalafirovic, Radosav",
 		"country": "SRB",
@@ -101337,21 +100895,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9227754,
-		"name": "Ninkovic, Tamara",
+		"fideid": 9245728,
+		"name": "Stanojevic, Marko",
 		"country": "SRB",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NA",
+		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
+		"games": 8,
+		"k": 20,
 		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1621,
-		"rating_rapid": 1761,
-		"rating_blitz": 1609
+		"flag": "",
+		"rating_standard": 1622,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9208776,
@@ -101473,6 +101031,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9227754,
+		"name": "Ninkovic, Tamara",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1620,
+		"rating_rapid": 1761,
+		"rating_blitz": 1609
+	},
+	{
 		"fideid": 900443,
 		"name": "Velojic, Branka",
 		"country": "SRB",
@@ -101575,23 +101150,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9245728,
-		"name": "Stanojevic, Marko",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1618,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9235200,
 		"name": "Pocekovac, Petar",
 		"country": "SRB",
@@ -101606,7 +101164,7 @@
 		"flag": "",
 		"rating_standard": 1617,
 		"rating_rapid": 1698,
-		"rating_blitz": 1516
+		"rating_blitz": 1517
 	},
 	{
 		"fideid": 977233,
@@ -101966,6 +101524,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 998559,
+		"name": "Savicevic, Tijana",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1612,
+		"rating_rapid": 1570,
+		"rating_blitz": 1596
+	},
+	{
 		"fideid": 9209225,
 		"name": "Vukovic, Momcilo D",
 		"country": "SRB",
@@ -102032,23 +101607,6 @@
 		"rating_standard": 1611,
 		"rating_rapid": 1664,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 998559,
-		"name": "Savicevic, Tijana",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1611,
-		"rating_rapid": 1570,
-		"rating_blitz": 1596
 	},
 	{
 		"fideid": 999490,
@@ -102153,6 +101711,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9251426,
+		"name": "Omic, Aleksandar",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1608,
+		"rating_rapid": 1568,
+		"rating_blitz": 1551
+	},
+	{
 		"fideid": 9214377,
 		"name": "Safarik, Branislav",
 		"country": "SRB",
@@ -102255,23 +101830,6 @@
 		"rating_blitz": 1594
 	},
 	{
-		"fideid": 9251426,
-		"name": "Omic, Aleksandar",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1607,
-		"rating_rapid": 1567,
-		"rating_blitz": 1551
-	},
-	{
 		"fideid": 988359,
 		"name": "Tot, Dominik",
 		"country": "SRB",
@@ -102323,6 +101881,23 @@
 		"rating_blitz": 1569
 	},
 	{
+		"fideid": 9223910,
+		"name": "Marjanovic, Jaksa",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1606,
+		"rating_rapid": 1718,
+		"rating_blitz": 1622
+	},
+	{
 		"fideid": 993689,
 		"name": "Nikolic, Dragan V",
 		"country": "SRB",
@@ -102372,6 +101947,23 @@
 		"rating_standard": 1606,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9217864,
+		"name": "Cupac, Veljko",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1605,
+		"rating_rapid": 1831,
+		"rating_blitz": 1665
 	},
 	{
 		"fideid": 985058,
@@ -102663,23 +102255,6 @@
 		"rating_blitz": 1474
 	},
 	{
-		"fideid": 9223910,
-		"name": "Marjanovic, Jaksa",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1601,
-		"rating_rapid": 1718,
-		"rating_blitz": 1622
-	},
-	{
 		"fideid": 9210100,
 		"name": "Milisavljevic, Hana",
 		"country": "SRB",
@@ -102748,23 +102323,6 @@
 		"rating_blitz": 1597
 	},
 	{
-		"fideid": 9217864,
-		"name": "Cupac, Veljko",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": 1831,
-		"rating_blitz": 1665
-	},
-	{
 		"fideid": 980080,
 		"name": "Gligic, Stefan",
 		"country": "SRB",
@@ -102799,6 +102357,23 @@
 		"rating_blitz": 1569
 	},
 	{
+		"fideid": 9220504,
+		"name": "Markovic, Tea",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1600,
+		"rating_rapid": 1415,
+		"rating_blitz": 1602
+	},
+	{
 		"fideid": 9221330,
 		"name": "Milanovic, Pavle",
 		"country": "SRB",
@@ -102816,21 +102391,21 @@
 		"rating_blitz": 1569
 	},
 	{
-		"fideid": 9222485,
-		"name": "Tadic, Sofija",
+		"fideid": 9217430,
+		"name": "Nedeljkovic, Lena",
 		"country": "SRB",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1600,
-		"rating_rapid": 1525,
-		"rating_blitz": 1529
+		"rating_rapid": 1671,
+		"rating_blitz": 1494
 	},
 	{
 		"fideid": 9220806,
@@ -102986,23 +102561,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9220997,
-		"name": "Obradovic, Nera",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1598,
-		"rating_rapid": 1508,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 996580,
 		"name": "Veljkovic, Vojin",
 		"country": "SRB",
@@ -103069,6 +102627,23 @@
 		"rating_standard": 1597,
 		"rating_rapid": 1684,
 		"rating_blitz": 1600
+	},
+	{
+		"fideid": 9216035,
+		"name": "Videnovic, Boris",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1597,
+		"rating_rapid": 1760,
+		"rating_blitz": 1608
 	},
 	{
 		"fideid": 9231506,
@@ -103581,6 +103156,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9219077,
+		"name": "Arsenijevic, Matija",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1589,
+		"rating_rapid": 1665,
+		"rating_blitz": 1755
+	},
+	{
 		"fideid": 9203669,
 		"name": "Dobrican, Andrej",
 		"country": "SRB",
@@ -103646,7 +103238,7 @@
 		"flag": "",
 		"rating_standard": 1589,
 		"rating_rapid": 1657,
-		"rating_blitz": 1718
+		"rating_blitz": 1717
 	},
 	{
 		"fideid": 984353,
@@ -103681,6 +103273,23 @@
 		"rating_standard": 1588,
 		"rating_rapid": 1470,
 		"rating_blitz": 1605
+	},
+	{
+		"fideid": 9204789,
+		"name": "Rajlic, Irina",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1588,
+		"rating_rapid": 1612,
+		"rating_blitz": 1677
 	},
 	{
 		"fideid": 167105368,
@@ -103800,23 +103409,6 @@
 		"rating_standard": 1586,
 		"rating_rapid": 1585,
 		"rating_blitz": 1587
-	},
-	{
-		"fideid": 9219077,
-		"name": "Arsenijevic, Matija",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1585,
-		"rating_rapid": 1665,
-		"rating_blitz": 1755
 	},
 	{
 		"fideid": 9215438,
@@ -104125,6 +103717,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9229099,
+		"name": "Jankovic, Stanimir",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1581,
+		"rating_rapid": 1574,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9216736,
 		"name": "Petkovic, Stefan S",
 		"country": "SRB",
@@ -104174,6 +103783,23 @@
 		"rating_standard": 1581,
 		"rating_rapid": 1820,
 		"rating_blitz": 1503
+	},
+	{
+		"fideid": 9231956,
+		"name": "Vidovic, Mihailo",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1580,
+		"rating_rapid": 1604,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9215349,
@@ -104448,23 +104074,6 @@
 		"rating_blitz": 1588
 	},
 	{
-		"fideid": 9247437,
-		"name": "Chursin, Danill",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 18,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1575,
-		"rating_rapid": null,
-		"rating_blitz": 1508
-	},
-	{
 		"fideid": 9210959,
 		"name": "Milic, Prvoslav Lj",
 		"country": "SRB",
@@ -104686,23 +104295,6 @@
 		"rating_blitz": 1634
 	},
 	{
-		"fideid": 9231956,
-		"name": "Vidovic, Mihailo",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1571,
-		"rating_rapid": 1604,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 962155,
 		"name": "Zvezdanovic, Darko",
 		"country": "SRB",
@@ -104786,40 +104378,6 @@
 		"rating_standard": 1569,
 		"rating_rapid": 1524,
 		"rating_blitz": 1588
-	},
-	{
-		"fideid": 9211246,
-		"name": "Lazic, Ana",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1569,
-		"rating_rapid": 1650,
-		"rating_blitz": 1700
-	},
-	{
-		"fideid": 9220504,
-		"name": "Markovic, Tea",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1569,
-		"rating_rapid": 1415,
-		"rating_blitz": 1602
 	},
 	{
 		"fideid": 9242214,
@@ -104907,21 +104465,21 @@
 		"rating_blitz": 1464
 	},
 	{
-		"fideid": 9204789,
-		"name": "Rajlic, Irina",
+		"fideid": 9211246,
+		"name": "Lazic, Ana",
 		"country": "SRB",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1568,
-		"rating_rapid": 1612,
-		"rating_blitz": 1677
+		"rating_rapid": 1650,
+		"rating_blitz": 1700
 	},
 	{
 		"fideid": 940593,
@@ -104992,6 +104550,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 995886,
+		"name": "Petrovic, Ivana I",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1566,
+		"rating_rapid": 1503,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 34127191,
 		"name": "Maltsevskaya, Anna",
 		"country": "SRB",
@@ -105007,23 +104582,6 @@
 		"rating_standard": 1565,
 		"rating_rapid": 1587,
 		"rating_blitz": 1501
-	},
-	{
-		"fideid": 995886,
-		"name": "Petrovic, Ivana I",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1565,
-		"rating_rapid": 1503,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 977225,
@@ -105111,6 +104669,23 @@
 		"rating_blitz": 1723
 	},
 	{
+		"fideid": 9237563,
+		"name": "Sparovic, Viktor Nikolaj",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1563,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 983934,
 		"name": "Stojcic, Simon",
 		"country": "SRB",
@@ -105128,6 +104703,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 995940,
+		"name": "Zivanovic, Lazar",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1563,
+		"rating_rapid": 1721,
+		"rating_blitz": 1639
+	},
+	{
 		"fideid": 985252,
 		"name": "Bogdanovic, Andjela",
 		"country": "SRB",
@@ -105142,23 +104734,6 @@
 		"flag": "wi",
 		"rating_standard": 1562,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9241501,
-		"name": "Burgic, Andrej",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 12,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1562,
-		"rating_rapid": 1638,
 		"rating_blitz": null
 	},
 	{
@@ -105194,6 +104769,23 @@
 		"rating_standard": 1561,
 		"rating_rapid": 1663,
 		"rating_blitz": 1653
+	},
+	{
+		"fideid": 9242311,
+		"name": "Zhivotov, Igor",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1561,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 983861,
@@ -105264,23 +104856,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9242311,
-		"name": "Zhivotov, Igor",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1559,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 984604,
 		"name": "Nagy Melykuti, Katalin",
 		"country": "SRB",
@@ -105315,23 +104890,6 @@
 		"rating_blitz": 1541
 	},
 	{
-		"fideid": 9229099,
-		"name": "Jankovic, Stanimir",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 14,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1557,
-		"rating_rapid": 1574,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 994804,
 		"name": "Pesic, Danijela",
 		"country": "SRB",
@@ -105363,7 +104921,7 @@
 		"flag": "",
 		"rating_standard": 1557,
 		"rating_rapid": 1688,
-		"rating_blitz": 1641
+		"rating_blitz": 1644
 	},
 	{
 		"fideid": 993921,
@@ -105451,23 +105009,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9217430,
-		"name": "Nedeljkovic, Lena",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1555,
-		"rating_rapid": 1671,
-		"rating_blitz": 1494
-	},
-	{
 		"fideid": 9245752,
 		"name": "Paunovic, Borko",
 		"country": "SRB",
@@ -105483,23 +105024,6 @@
 		"rating_standard": 1555,
 		"rating_rapid": 1460,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 995940,
-		"name": "Zivanovic, Lazar",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1555,
-		"rating_rapid": 1721,
-		"rating_blitz": 1639
 	},
 	{
 		"fideid": 9247372,
@@ -105550,6 +105074,23 @@
 		"flag": "i",
 		"rating_standard": 1554,
 		"rating_rapid": 1713,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9241501,
+		"name": "Burgic, Andrej",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1553,
+		"rating_rapid": 1638,
 		"rating_blitz": null
 	},
 	{
@@ -105703,6 +105244,23 @@
 		"flag": "wi",
 		"rating_standard": 1550,
 		"rating_rapid": 1557,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9245124,
+		"name": "Janjic, Djordje M",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1550,
+		"rating_rapid": 1476,
 		"rating_blitz": null
 	},
 	{
@@ -105978,8 +105536,8 @@
 		"rating_blitz": 1563
 	},
 	{
-		"fideid": 9245124,
-		"name": "Janjic, Djordje M",
+		"fideid": 9244772,
+		"name": "Vukojicic, Nikola",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
@@ -105988,10 +105546,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 1998,
 		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": 1476,
+		"rating_standard": 1542,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -106012,8 +105570,8 @@
 		"rating_blitz": 1458
 	},
 	{
-		"fideid": 9244772,
-		"name": "Vukojicic, Nikola",
+		"fideid": 9243288,
+		"name": "Panic, Sergej",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
@@ -106022,10 +105580,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1998,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": null,
+		"rating_standard": 1540,
+		"rating_rapid": 1528,
 		"rating_blitz": null
 	},
 	{
@@ -106097,8 +105655,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9243288,
-		"name": "Panic, Sergej",
+		"fideid": 9250942,
+		"name": "Novakovic, Aleksandar D",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
@@ -106107,10 +105665,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 1978,
 		"flag": "",
 		"rating_standard": 1539,
-		"rating_rapid": 1528,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -106131,6 +105689,23 @@
 		"rating_blitz": 1432
 	},
 	{
+		"fideid": 9233991,
+		"name": "Kutanjac, Nemanja",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1538,
+		"rating_rapid": 1456,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 992755,
 		"name": "Miletic, Milos",
 		"country": "SRB",
@@ -106146,23 +105721,6 @@
 		"rating_standard": 1538,
 		"rating_rapid": 1615,
 		"rating_blitz": 1667
-	},
-	{
-		"fideid": 9250942,
-		"name": "Novakovic, Aleksandar D",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1538,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 977667,
@@ -106471,20 +106029,37 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9233991,
-		"name": "Kutanjac, Nemanja",
+		"fideid": 992070,
+		"name": "Stoimenov, Jana",
 		"country": "SRB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1531,
-		"rating_rapid": 1456,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1532,
+		"rating_rapid": 1522,
+		"rating_blitz": 1509
+	},
+	{
+		"fideid": 9241285,
+		"name": "Vujasic, Helena",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1532,
+		"rating_rapid": 1654,
 		"rating_blitz": null
 	},
 	{
@@ -106522,23 +106097,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 992070,
-		"name": "Stoimenov, Jana",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1531,
-		"rating_rapid": 1522,
-		"rating_blitz": 1509
-	},
-	{
 		"fideid": 9238276,
 		"name": "Vukanovic, Vuk",
 		"country": "SRB",
@@ -106551,9 +106109,9 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1529,
+		"rating_standard": 1530,
 		"rating_rapid": 1633,
-		"rating_blitz": 1564
+		"rating_blitz": 1565
 	},
 	{
 		"fideid": 9210800,
@@ -106692,6 +106250,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9231590,
+		"name": "Otasevic, Ljubica",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1524,
+		"rating_rapid": 1517,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9243610,
 		"name": "Denic, Masa",
 		"country": "SRB",
@@ -106777,23 +106352,6 @@
 		"rating_blitz": 1707
 	},
 	{
-		"fideid": 9241285,
-		"name": "Vujasic, Helena",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1522,
-		"rating_rapid": 1654,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 998028,
 		"name": "Stanimirovic, Veljko",
 		"country": "SRB",
@@ -106845,6 +106403,23 @@
 		"rating_blitz": 1544
 	},
 	{
+		"fideid": 9238330,
+		"name": "Arnaut, Mina",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1519,
+		"rating_rapid": 1406,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 979384,
 		"name": "Djokic, Aleksandar",
 		"country": "SRB",
@@ -106877,23 +106452,6 @@
 		"rating_standard": 1519,
 		"rating_rapid": 1576,
 		"rating_blitz": 1585
-	},
-	{
-		"fideid": 9215586,
-		"name": "Sitvuk, Sava",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1519,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 994987,
@@ -106981,6 +106539,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9247437,
+		"name": "Chursin, Daniil",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1517,
+		"rating_rapid": null,
+		"rating_blitz": 1508
+	},
+	{
 		"fideid": 9237270,
 		"name": "Gasparovski, Aleksa",
 		"country": "SRB",
@@ -107066,23 +106641,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9238330,
-		"name": "Arnaut, Mina",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1514,
-		"rating_rapid": 1406,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9229102,
 		"name": "Jelenkovic, Neda",
 		"country": "SRB",
@@ -107151,23 +106709,6 @@
 		"rating_blitz": 1504
 	},
 	{
-		"fideid": 9216035,
-		"name": "Videnovic, Boris",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1514,
-		"rating_rapid": 1760,
-		"rating_blitz": 1608
-	},
-	{
 		"fideid": 9222027,
 		"name": "Grga, Sladjan",
 		"country": "SRB",
@@ -107200,23 +106741,6 @@
 		"rating_standard": 1513,
 		"rating_rapid": 1488,
 		"rating_blitz": 1535
-	},
-	{
-		"fideid": 9241510,
-		"name": "Jovanovic, Andrej",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 12,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1512,
-		"rating_rapid": 1618,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 9222043,
@@ -107267,6 +106791,23 @@
 		"flag": "wi",
 		"rating_standard": 1512,
 		"rating_rapid": 1543,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9241510,
+		"name": "Jovanovic, Andrej",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1511,
+		"rating_rapid": 1618,
 		"rating_blitz": null
 	},
 	{
@@ -107406,23 +106947,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9231590,
-		"name": "Otasevic, Ljubica",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1508,
-		"rating_rapid": 1517,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9222779,
 		"name": "Strbac, Lazar",
 		"country": "SRB",
@@ -107440,23 +106964,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9220377,
-		"name": "Bradic, Neda",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1507,
-		"rating_rapid": 1662,
-		"rating_blitz": 1535
-	},
-	{
 		"fideid": 954004,
 		"name": "Dimitrijevic, Bojana",
 		"country": "SRB",
@@ -107471,6 +106978,23 @@
 		"flag": "wi",
 		"rating_standard": 1507,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9220997,
+		"name": "Obradovic, Nera",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1507,
+		"rating_rapid": 1508,
 		"rating_blitz": null
 	},
 	{
@@ -107540,6 +107064,23 @@
 		"rating_standard": 1506,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9232189,
+		"name": "Videnovic, Vuk",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1505,
+		"rating_rapid": 1550,
+		"rating_blitz": 1485
 	},
 	{
 		"fideid": 9215918,
@@ -107763,6 +107304,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9222132,
+		"name": "Nikolic, Momir",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": 1498,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9214768,
 		"name": "Dzolic, Ilija",
 		"country": "SRB",
@@ -107792,23 +107350,6 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "i",
-		"rating_standard": 1497,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9222132,
-		"name": "Nikolic, Momir",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1959,
-		"flag": "",
 		"rating_standard": 1497,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -107846,6 +107387,23 @@
 		"rating_standard": 1496,
 		"rating_rapid": 1637,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9223970,
+		"name": "Rajkovic, Petra",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1495,
+		"rating_rapid": 1646,
+		"rating_blitz": 1429
 	},
 	{
 		"fideid": 971669,
@@ -107916,6 +107474,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9215586,
+		"name": "Sitvuk, Sava",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1494,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9203758,
 		"name": "Vuckovic, Vasilije",
 		"country": "SRB",
@@ -107931,6 +107506,23 @@
 		"rating_standard": 1494,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9222485,
+		"name": "Tadic, Sofija",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1493,
+		"rating_rapid": 1525,
+		"rating_blitz": 1529
 	},
 	{
 		"fideid": 9214504,
@@ -108086,6 +107678,23 @@
 		"rating_blitz": 1517
 	},
 	{
+		"fideid": 9240190,
+		"name": "Milicevic, Vasil",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1489,
+		"rating_rapid": 1518,
+		"rating_blitz": 1482
+	},
+	{
 		"fideid": 9213230,
 		"name": "Stosic, Jana",
 		"country": "SRB",
@@ -108137,6 +107746,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9227886,
+		"name": "Radulovic, Filip V",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1488,
+		"rating_rapid": 1664,
+		"rating_blitz": 1535
+	},
+	{
 		"fideid": 9227878,
 		"name": "Vladea, David",
 		"country": "SRB",
@@ -108171,40 +107797,6 @@
 		"rating_blitz": 1440
 	},
 	{
-		"fideid": 9240190,
-		"name": "Milicevic, Vasil",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1486,
-		"rating_rapid": 1518,
-		"rating_blitz": 1482
-	},
-	{
-		"fideid": 9227886,
-		"name": "Radulovic, Filip V",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1485,
-		"rating_rapid": 1664,
-		"rating_blitz": 1530
-	},
-	{
 		"fideid": 9217171,
 		"name": "Skrbic, Dusan",
 		"country": "SRB",
@@ -108219,23 +107811,6 @@
 		"flag": "i",
 		"rating_standard": 1483,
 		"rating_rapid": 1485,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9244985,
-		"name": "Sopov, Simeon",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1482,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -108262,7 +107837,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -108392,6 +107967,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9220377,
+		"name": "Bradic, Neda",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1472,
+		"rating_rapid": 1662,
+		"rating_blitz": 1535
+	},
+	{
 		"fideid": 9211491,
 		"name": "Miletic, Bogdan",
 		"country": "SRB",
@@ -108443,6 +108035,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9220490,
+		"name": "Markovic, Iva",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1470,
+		"rating_rapid": 1537,
+		"rating_blitz": 1419
+	},
+	{
 		"fideid": 9228890,
 		"name": "Vasiljevic, Uros",
 		"country": "SRB",
@@ -108458,23 +108067,6 @@
 		"rating_standard": 1470,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9220490,
-		"name": "Markovic, Iva",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1469,
-		"rating_rapid": 1536,
-		"rating_blitz": 1418
 	},
 	{
 		"fideid": 9213303,
@@ -108506,7 +108098,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
-		"rating_standard": 1468,
+		"rating_standard": 1469,
 		"rating_rapid": 1488,
 		"rating_blitz": 1453
 	},
@@ -108577,6 +108169,23 @@
 		"rating_standard": 1465,
 		"rating_rapid": 1511,
 		"rating_blitz": 1570
+	},
+	{
+		"fideid": 9244985,
+		"name": "Sopov, Simeon",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1465,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9227533,
@@ -108664,6 +108273,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9221837,
+		"name": "Jovanovic, Milenko B",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1463,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 978205,
 		"name": "Prpa, Aleksandar",
 		"country": "SRB",
@@ -108679,40 +108305,6 @@
 		"rating_standard": 1463,
 		"rating_rapid": 1487,
 		"rating_blitz": 1561
-	},
-	{
-		"fideid": 9223970,
-		"name": "Rajkovic, Petra",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1463,
-		"rating_rapid": 1646,
-		"rating_blitz": 1429
-	},
-	{
-		"fideid": 9221837,
-		"name": "Jovanovic, Milenko B",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1462,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 994782,
@@ -108749,20 +108341,37 @@
 		"rating_blitz": 1445
 	},
 	{
-		"fideid": 9237563,
-		"name": "Sparovic, Viktor Nikolaj",
+		"fideid": 9212200,
+		"name": "Savic, Aleksej",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1462,
-		"rating_rapid": null,
+		"rating_rapid": 1626,
+		"rating_blitz": 1636
+	},
+	{
+		"fideid": 9230917,
+		"name": "Cukavac, Petar",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1461,
+		"rating_rapid": 1491,
 		"rating_blitz": null
 	},
 	{
@@ -108778,25 +108387,8 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1461,
-		"rating_rapid": 1532,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9230917,
-		"name": "Cukavac, Petar",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
 		"rating_standard": 1460,
-		"rating_rapid": 1491,
+		"rating_rapid": 1532,
 		"rating_blitz": null
 	},
 	{
@@ -108868,6 +108460,23 @@
 		"rating_blitz": 1457
 	},
 	{
+		"fideid": 9236621,
+		"name": "Fernandez, Viktor",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1457,
+		"rating_rapid": 1502,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9203677,
 		"name": "Miskovic, Luka",
 		"country": "SRB",
@@ -108919,23 +108528,6 @@
 		"rating_blitz": 1420
 	},
 	{
-		"fideid": 9236621,
-		"name": "Fernandez, Viktor",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1456,
-		"rating_rapid": 1502,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9202204,
 		"name": "Lazic Kovacevic, Biljana",
 		"country": "SRB",
@@ -108982,26 +108574,9 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
-		"rating_standard": 1454,
-		"rating_rapid": 1581,
+		"rating_standard": 1455,
+		"rating_rapid": 1582,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9212200,
-		"name": "Savic, Aleksej",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1454,
-		"rating_rapid": 1626,
-		"rating_blitz": 1636
 	},
 	{
 		"fideid": 9248263,
@@ -109018,6 +108593,23 @@
 		"flag": "w",
 		"rating_standard": 1454,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9221349,
+		"name": "Milosevic, Vojin",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1453,
+		"rating_rapid": 1624,
 		"rating_blitz": null
 	},
 	{
@@ -109055,6 +108647,23 @@
 		"rating_blitz": 1487
 	},
 	{
+		"fideid": 55825044,
+		"name": "Klekovkin, Aleksandr",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1452,
+		"rating_rapid": 1615,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9230143,
 		"name": "Kovacevic, Mihajlo",
 		"country": "SRB",
@@ -109072,21 +108681,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9232189,
-		"name": "Videnovic, Vuk",
+		"fideid": 9225581,
+		"name": "Jandric, Vojin",
 		"country": "SRB",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1451,
-		"rating_rapid": 1550,
-		"rating_blitz": 1410
+		"rating_standard": 1450,
+		"rating_rapid": 1452,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 984876,
@@ -109104,23 +108713,6 @@
 		"rating_standard": 1450,
 		"rating_rapid": null,
 		"rating_blitz": 1636
-	},
-	{
-		"fideid": 9221349,
-		"name": "Milosevic, Vojin",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1450,
-		"rating_rapid": 1624,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 989436,
@@ -109242,6 +108834,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9222167,
+		"name": "Petronijevic, Jovan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1442,
+		"rating_rapid": 1584,
+		"rating_blitz": 1432
+	},
+	{
 		"fideid": 9206048,
 		"name": "Savic, Bogdana",
 		"country": "SRB",
@@ -109361,23 +108970,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9222167,
-		"name": "Petronijevic, Jovan",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1439,
-		"rating_rapid": 1584,
-		"rating_blitz": 1432
-	},
-	{
 		"fideid": 982288,
 		"name": "Ilic, Radovan D",
 		"country": "SRB",
@@ -109446,6 +109038,23 @@
 		"rating_blitz": 1518
 	},
 	{
+		"fideid": 9246465,
+		"name": "Maletic, Marija",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1434,
+		"rating_rapid": 1406,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 986526,
 		"name": "Delcev, Andjela",
 		"country": "SRB",
@@ -109460,23 +109069,6 @@
 		"flag": "wi",
 		"rating_standard": 1431,
 		"rating_rapid": 1521,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9246465,
-		"name": "Maletic, Marija",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1431,
-		"rating_rapid": 1406,
 		"rating_blitz": null
 	},
 	{
@@ -109497,21 +109089,21 @@
 		"rating_blitz": 1538
 	},
 	{
-		"fideid": 9230755,
-		"name": "Simonovic, Ana",
+		"fideid": 9229811,
+		"name": "Rajcic, Vanja",
 		"country": "SRB",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1426,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1425,
+		"rating_rapid": 1535,
+		"rating_blitz": 1541
 	},
 	{
 		"fideid": 9244322,
@@ -109548,6 +109140,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 55708382,
+		"name": "Smirnova, Svetlana",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1420,
+		"rating_rapid": 1487,
+		"rating_blitz": 1531
+	},
+	{
 		"fideid": 9203820,
 		"name": "Zikic, Milivoje",
 		"country": "SRB",
@@ -109563,40 +109172,6 @@
 		"rating_standard": 1419,
 		"rating_rapid": 1711,
 		"rating_blitz": 1749
-	},
-	{
-		"fideid": 9223252,
-		"name": "Smiljanic, Hana",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1417,
-		"rating_rapid": 1651,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 55708382,
-		"name": "Smirnova, Svetlana",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1417,
-		"rating_rapid": 1487,
-		"rating_blitz": 1531
 	},
 	{
 		"fideid": 9220040,
@@ -109681,6 +109256,23 @@
 		"flag": "w",
 		"rating_standard": 1413,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9228300,
+		"name": "Susa, Ilija",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1413,
+		"rating_rapid": 1491,
 		"rating_blitz": null
 	},
 	{
@@ -110208,7 +109800,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1464,
-		"rating_blitz": 1458
+		"rating_blitz": 1459
 	},
 	{
 		"fideid": 996025,
@@ -110531,7 +110123,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1512,
-		"rating_blitz": 1590
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 983489,
@@ -112276,12 +111868,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 16,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1485,
+		"rating_rapid": 1444,
 		"rating_blitz": null
 	},
 	{
@@ -113381,12 +112973,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 30,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1666,
+		"rating_rapid": 1438,
 		"rating_blitz": null
 	},
 	{
@@ -113505,7 +113097,7 @@
 		"birthday": 1973,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1589,
+		"rating_rapid": 1590,
 		"rating_blitz": null
 	},
 	{
@@ -114750,23 +114342,6 @@
 		"rating_blitz": 1861
 	},
 	{
-		"fideid": 942006,
-		"name": "Dinic, Milosav",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1953,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1957,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 967343,
 		"name": "Dinic, Milutin",
 		"country": "SRB",
@@ -114968,7 +114543,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1659,
-		"rating_blitz": 1706
+		"rating_blitz": 1705
 	},
 	{
 		"fideid": 9228106,
@@ -116004,7 +115579,7 @@
 		"birthday": 2011,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1612,
+		"rating_rapid": 1610,
 		"rating_blitz": null
 	},
 	{
@@ -117603,7 +117178,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1768,
-		"rating_blitz": 1656
+		"rating_blitz": 1657
 	},
 	{
 		"fideid": 9208547,
@@ -118549,12 +118124,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 8,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1486,
+		"rating_rapid": 1505,
 		"rating_blitz": null
 	},
 	{
@@ -119559,23 +119134,6 @@
 		"rating_standard": null,
 		"rating_rapid": 2010,
 		"rating_blitz": 1869
-	},
-	{
-		"fideid": 9225581,
-		"name": "Jandric, Vojin",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1452,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 9200104,
@@ -126681,7 +126239,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1492,
-		"rating_blitz": 1409
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 9230569,
@@ -127208,7 +126766,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1608,
-		"rating_blitz": 1502
+		"rating_blitz": 1516
 	},
 	{
 		"fideid": 9226367,
@@ -128364,7 +127922,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1718,
-		"rating_blitz": 1610
+		"rating_blitz": 1609
 	},
 	{
 		"fideid": 9215020,
@@ -129028,6 +128586,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1923,
 		"rating_blitz": 1832
+	},
+	{
+		"fideid": 991562,
+		"name": "Milovanovic, Nenad M",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1400,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9202573,
@@ -131036,23 +130611,6 @@
 		"rating_blitz": 1462
 	},
 	{
-		"fideid": 998184,
-		"name": "Nestorovic, Predrag",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1943,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1808,
-		"rating_blitz": 1745
-	},
-	{
 		"fideid": 9240416,
 		"name": "Niketic, Iva",
 		"country": "SRB",
@@ -131061,12 +130619,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 10,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1414,
+		"rating_rapid": 1407,
 		"rating_blitz": 1466
 	},
 	{
@@ -131690,12 +131248,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 9,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1606,
+		"rating_rapid": 1586,
 		"rating_blitz": null
 	},
 	{
@@ -131763,7 +131321,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1524,
+		"rating_rapid": 1525,
 		"rating_blitz": 1446
 	},
 	{
@@ -132787,23 +132345,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9241056,
-		"name": "Pavliuchenko, Egor",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 15,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1463,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 998117,
 		"name": "Pavlovic, Dejan St",
 		"country": "SRB",
@@ -133033,12 +132574,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 12,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1609,
+		"rating_rapid": 1546,
 		"rating_blitz": null
 	},
 	{
@@ -133140,7 +132681,7 @@
 		"birthday": 1979,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1486,
+		"rating_rapid": 1487,
 		"rating_blitz": null
 	},
 	{
@@ -133176,23 +132717,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1435,
 		"rating_blitz": 1685
-	},
-	{
-		"fideid": 9234025,
-		"name": "Pejovic, Ognjen",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1444,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 991147,
@@ -135435,7 +134959,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1405,
+		"rating_rapid": 1406,
 		"rating_blitz": null
 	},
 	{
@@ -136030,7 +135554,7 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1526,
+		"rating_rapid": 1527,
 		"rating_blitz": null
 	},
 	{
@@ -136168,23 +135692,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1468,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9229811,
-		"name": "Rajcic, Vanja",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1535,
-		"rating_blitz": 1541
 	},
 	{
 		"fideid": 9208032,
@@ -136592,6 +136099,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1839,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9243059,
+		"name": "Rastovac, Marko",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1728,
 		"rating_blitz": null
 	},
 	{
@@ -138614,7 +138138,7 @@
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1870,
+		"rating_rapid": 1871,
 		"rating_blitz": null
 	},
 	{
@@ -138873,6 +138397,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9223252,
+		"name": "Smiljanic, Hana",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1651,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 989118,
 		"name": "Smiljanic, Nikola",
 		"country": "SRB",
@@ -139077,6 +138618,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9246627,
+		"name": "Spasojevic, Ivona",
+		"country": "SRB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1563,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9240211,
 		"name": "Spasojevic, Mihajlo",
 		"country": "SRB",
@@ -139085,12 +138643,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 17,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1665,
+		"rating_rapid": 1479,
 		"rating_blitz": null
 	},
 	{
@@ -139889,7 +139447,7 @@
 		"birthday": 1958,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1831,
+		"rating_rapid": 1833,
 		"rating_blitz": 1878
 	},
 	{
@@ -140434,6 +139992,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1552,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9249553,
+		"name": "Stojakovic, Nikola S",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1577,
 		"rating_blitz": null
 	},
 	{
@@ -141508,23 +141083,6 @@
 		"rating_blitz": 1751
 	},
 	{
-		"fideid": 9228300,
-		"name": "Susa, Ilija",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1491,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9244551,
 		"name": "Susa, Ilija O",
 		"country": "SRB",
@@ -141963,7 +141521,7 @@
 		"birthday": 1950,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1747,
+		"rating_rapid": 1748,
 		"rating_blitz": 1684
 	},
 	{
@@ -142235,7 +141793,7 @@
 		"birthday": 2009,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1663,
+		"rating_rapid": 1662,
 		"rating_blitz": null
 	},
 	{
@@ -142967,23 +142525,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1477,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9246309,
-		"name": "Ugrnov, Masa",
-		"country": "SRB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1604,
 		"rating_blitz": null
 	},
 	{
@@ -144959,6 +144500,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9217791,
+		"name": "Zaklan, Dusan",
+		"country": "SRB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1430,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 999610,
 		"name": "Zaksek, Dusan",
 		"country": "SRB",
@@ -145806,23 +145364,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1881,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 969915,
-		"name": "Zlatkovic, Hranislav",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1940,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1973,
 		"rating_blitz": null
 	},
 	{
@@ -147574,7 +147115,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1890
+		"rating_blitz": 1889
 	},
 	{
 		"fideid": 9246236,
@@ -150484,23 +150025,6 @@
 		"rating_blitz": 1613
 	},
 	{
-		"fideid": 991562,
-		"name": "Milovanovic, Nenad M",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 18,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1421
-	},
-	{
 		"fideid": 9235706,
 		"name": "Milutinovic, Ljuban",
 		"country": "SRB",
@@ -152454,23 +151978,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1661
-	},
-	{
-		"fideid": 9242826,
-		"name": "Roman, Lionel",
-		"country": "SRB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1525
 	},
 	{
 		"fideid": 9249391,
@@ -154961,7 +154468,7 @@
 		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,

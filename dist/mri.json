@@ -91,7 +91,7 @@
 		"sex": "M",
 		"title": "CM",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 4,
 		"k": 20,
@@ -102,30 +102,13 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9700340,
-		"name": "Sawmynaden, Rayen Sarathy",
-		"country": "MRI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1946,
-		"rating_rapid": null,
-		"rating_blitz": 1767
-	},
-	{
 		"fideid": 9700099,
 		"name": "Marie, Patrick",
 		"country": "MRI",
 		"sex": "M",
 		"title": "CM",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 1,
 		"k": 20,
@@ -221,6 +204,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9700340,
+		"name": "Sawmynaden, Rayen Sarathy",
+		"country": "MRI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1872,
+		"rating_rapid": null,
+		"rating_blitz": 1767
+	},
+	{
 		"fideid": 9700250,
 		"name": "Raimbert, Ronald",
 		"country": "MRI",
@@ -278,7 +278,7 @@
 		"sex": "M",
 		"title": "CM",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -312,7 +312,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 3,
 		"k": 20,
@@ -437,8 +437,8 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1759,
-		"rating_rapid": 1652,
+		"rating_standard": 1757,
+		"rating_rapid": 1650,
 		"rating_blitz": 1564
 	},
 	{
@@ -448,15 +448,15 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "SI",
+		"o_title": "SI,NA",
 		"foa_title": "AFM",
 		"games": 8,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
-		"rating_standard": 1713,
+		"rating_standard": 1711,
 		"rating_rapid": null,
-		"rating_blitz": 1729
+		"rating_blitz": 1730
 	},
 	{
 		"fideid": 9700374,
@@ -499,7 +499,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 1,
 		"k": 20,
@@ -522,7 +522,7 @@
 		"k": 20,
 		"birthday": 1959,
 		"flag": "",
-		"rating_standard": 1649,
+		"rating_standard": 1647,
 		"rating_rapid": 1653,
 		"rating_blitz": 1582
 	},
@@ -539,7 +539,7 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1642,
+		"rating_standard": 1640,
 		"rating_rapid": 1653,
 		"rating_blitz": 1559
 	},
@@ -607,9 +607,26 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1548,
+		"rating_standard": 1549,
 		"rating_rapid": 1588,
 		"rating_blitz": 1519
+	},
+	{
+		"fideid": 9700730,
+		"name": "Sooroojbally, Keshav",
+		"country": "MRI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1548,
+		"rating_rapid": 1633,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9700773,
@@ -658,9 +675,26 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1507,
-		"rating_rapid": 1532,
+		"rating_standard": 1509,
+		"rating_rapid": 1556,
 		"rating_blitz": 1550
+	},
+	{
+		"fideid": 9700900,
+		"name": "Louise, Clement Alain",
+		"country": "MRI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1508,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9700544,
@@ -692,7 +726,7 @@
 		"k": 40,
 		"birthday": 1978,
 		"flag": "",
-		"rating_standard": 1451,
+		"rating_standard": 1449,
 		"rating_rapid": null,
 		"rating_blitz": 1681
 	},
@@ -720,7 +754,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 2,
 		"k": 40,
@@ -744,7 +778,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1433,
-		"rating_rapid": 1612,
+		"rating_rapid": 1611,
 		"rating_blitz": null
 	},
 	{
@@ -763,6 +797,23 @@
 		"rating_standard": 1410,
 		"rating_rapid": 1444,
 		"rating_blitz": 1411
+	},
+	{
+		"fideid": 9700609,
+		"name": "Seetulpersand, Heena",
+		"country": "MRI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1992,
+		"flag": "w",
+		"rating_standard": 1407,
+		"rating_rapid": null,
+		"rating_blitz": 1407
 	},
 	{
 		"fideid": 9701958,
@@ -796,23 +847,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1597,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9700730,
-		"name": "Sooroojbally, Keshav",
-		"country": "MRI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1641,
 		"rating_blitz": null
 	},
 	{
@@ -881,7 +915,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1750
+		"rating_blitz": 1751
 	},
 	{
 		"fideid": 9701818,
@@ -932,7 +966,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1940
+		"rating_blitz": 1941
 	},
 	{
 		"fideid": 9701214,
@@ -950,22 +984,5 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1603
-	},
-	{
-		"fideid": 9700609,
-		"name": "Seetulpersand, Heena",
-		"country": "MRI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1407
 	}
 ]
