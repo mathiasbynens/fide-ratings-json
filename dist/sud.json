@@ -25,7 +25,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
@@ -340,6 +340,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 12200328,
+		"name": "Ahmed Holi Ali, Moawia",
+		"country": "SUD",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 2034,
+		"rating_rapid": 2064,
+		"rating_blitz": 1987
+	},
+	{
 		"fideid": 12200182,
 		"name": "Mohamed Anwar",
 		"country": "SUD",
@@ -525,23 +542,6 @@
 		"rating_standard": 1992,
 		"rating_rapid": 1899,
 		"rating_blitz": 1947
-	},
-	{
-		"fideid": 12200328,
-		"name": "Ahmed Holi Ali, Moawia",
-		"country": "SUD",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1987,
-		"rating_rapid": 2064,
-		"rating_blitz": 1987
 	},
 	{
 		"fideid": 12201430,
@@ -901,23 +901,6 @@
 		"rating_blitz": 1935
 	},
 	{
-		"fideid": 12203165,
-		"name": "ahmed abas",
-		"country": "SUD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1943,
-		"rating_rapid": 1970,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 12200883,
 		"name": "Elnasri, Mohammed",
 		"country": "SUD",
@@ -1187,7 +1170,7 @@
 		"flag": "i",
 		"rating_standard": 1918,
 		"rating_rapid": 1872,
-		"rating_blitz": 1878
+		"rating_blitz": 1895
 	},
 	{
 		"fideid": 12201693,
@@ -1357,6 +1340,23 @@
 		"flag": "i",
 		"rating_standard": 1910,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 12203165,
+		"name": "ahmed abas",
+		"country": "SUD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1907,
+		"rating_rapid": 1970,
 		"rating_blitz": null
 	},
 	{
@@ -1884,7 +1884,7 @@
 		"flag": "i",
 		"rating_standard": 1876,
 		"rating_rapid": 1932,
-		"rating_blitz": 1859
+		"rating_blitz": 1851
 	},
 	{
 		"fideid": 12203572,
@@ -3498,7 +3498,7 @@
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": 1802,
-		"rating_rapid": 1924,
+		"rating_rapid": 1895,
 		"rating_blitz": 1889
 	},
 	{
@@ -4127,7 +4127,7 @@
 		"birthday": "",
 		"flag": "",
 		"rating_standard": 1773,
-		"rating_rapid": 1861,
+		"rating_rapid": 1817,
 		"rating_blitz": 1776
 	},
 	{
@@ -4212,7 +4212,7 @@
 		"birthday": 1996,
 		"flag": "i",
 		"rating_standard": 1768,
-		"rating_rapid": 1779,
+		"rating_rapid": 1753,
 		"rating_blitz": null
 	},
 	{
@@ -4858,7 +4858,7 @@
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": 1741,
-		"rating_rapid": 1775,
+		"rating_rapid": 1767,
 		"rating_blitz": 1723
 	},
 	{
@@ -5215,7 +5215,7 @@
 		"birthday": 1981,
 		"flag": "i",
 		"rating_standard": 1720,
-		"rating_rapid": 1605,
+		"rating_rapid": 1640,
 		"rating_blitz": null
 	},
 	{
@@ -5267,7 +5267,7 @@
 		"flag": "i",
 		"rating_standard": 1714,
 		"rating_rapid": 1690,
-		"rating_blitz": 1666
+		"rating_blitz": 1665
 	},
 	{
 		"fideid": 12211885,
@@ -6117,7 +6117,7 @@
 		"flag": "",
 		"rating_standard": 1648,
 		"rating_rapid": 1827,
-		"rating_blitz": 1711
+		"rating_blitz": 1707
 	},
 	{
 		"fideid": 12206954,
@@ -6219,7 +6219,7 @@
 		"flag": "",
 		"rating_standard": 1643,
 		"rating_rapid": 1587,
-		"rating_blitz": 1613
+		"rating_blitz": 1597
 	},
 	{
 		"fideid": 12201464,
@@ -7001,7 +7001,7 @@
 		"flag": "",
 		"rating_standard": 1454,
 		"rating_rapid": null,
-		"rating_blitz": 1416
+		"rating_blitz": null
 	},
 	{
 		"fideid": 12201510,
@@ -8202,7 +8202,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -8933,7 +8933,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
@@ -9409,7 +9409,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -9596,8 +9596,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": null,
@@ -9664,7 +9664,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -9721,7 +9721,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1508
+		"rating_blitz": 1507
 	},
 	{
 		"fideid": 12204315,
@@ -9809,6 +9809,23 @@
 		"rating_blitz": 1554
 	},
 	{
+		"fideid": 12217034,
+		"name": "Khalid ali",
+		"country": "SUD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1561
+	},
+	{
 		"fideid": 12216810,
 		"name": "Mohamed Elsharif",
 		"country": "SUD",
@@ -9823,7 +9840,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1411
+		"rating_blitz": 1408
 	},
 	{
 		"fideid": 12214612,
@@ -9868,8 +9885,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": null,

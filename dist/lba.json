@@ -76,7 +76,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1984,
 		"flag": "",
@@ -221,6 +221,23 @@
 		"rating_blitz": 2163
 	},
 	{
+		"fideid": 16217543,
+		"name": "Elier, Ali",
+		"country": "LBA",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 2142,
+		"rating_rapid": 2253,
+		"rating_blitz": 2179
+	},
+	{
 		"fideid": 1312383,
 		"name": "Gator, Mosab",
 		"country": "LBA",
@@ -236,23 +253,6 @@
 		"rating_standard": 2139,
 		"rating_rapid": 2101,
 		"rating_blitz": 2128
-	},
-	{
-		"fideid": 16217543,
-		"name": "Elier, Ali",
-		"country": "LBA",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 2125,
-		"rating_rapid": 2253,
-		"rating_blitz": 2181
 	},
 	{
 		"fideid": 9200304,
@@ -419,7 +419,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1972,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2048,
 		"rating_rapid": 2096,
 		"rating_blitz": 2163
@@ -501,11 +501,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": "",
-		"flag": "i",
-		"rating_standard": 2025,
+		"flag": "",
+		"rating_standard": 2023,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -901,23 +901,6 @@
 		"rating_blitz": 2004
 	},
 	{
-		"fideid": 9202056,
-		"name": "Almahjoub, Mokhtar",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 1974,
-		"rating_rapid": 2051,
-		"rating_blitz": 1996
-	},
-	{
 		"fideid": 9205144,
 		"name": "Alwahishy, Riad",
 		"country": "LBA",
@@ -1020,6 +1003,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9202056,
+		"name": "Almahjoub, Mokhtar",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1963,
+		"rating_rapid": 2051,
+		"rating_blitz": 1996
+	},
+	{
 		"fideid": 9212361,
 		"name": "Salem , Magdi",
 		"country": "LBA",
@@ -1035,6 +1035,23 @@
 		"rating_standard": 1963,
 		"rating_rapid": 1938,
 		"rating_blitz": 1824
+	},
+	{
+		"fideid": 9208887,
+		"name": "Buhasan, Aiaad Jumha",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1962,
+		"rating_rapid": null,
+		"rating_blitz": 1919
 	},
 	{
 		"fideid": 9219080,
@@ -1443,23 +1460,6 @@
 		"rating_standard": 1935,
 		"rating_rapid": 1933,
 		"rating_blitz": 1912
-	},
-	{
-		"fideid": 9208887,
-		"name": "Buhasan, Aiaad Jumha",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1934,
-		"rating_rapid": null,
-		"rating_blitz": 1919
 	},
 	{
 		"fideid": 9202218,
@@ -1989,23 +1989,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9200339,
-		"name": "Mahdia, Farage",
-		"country": "LBA",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1913,
-		"rating_rapid": 1931,
-		"rating_blitz": 1993
-	},
-	{
 		"fideid": 9206531,
 		"name": "Abdullah, Saied M.",
 		"country": "LBA",
@@ -2278,6 +2261,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9205110,
+		"name": "Alhelal, Emad",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1902,
+		"rating_rapid": 1917,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9223495,
 		"name": "Yousef Khalifa J. Keshlaf",
 		"country": "LBA",
@@ -2295,40 +2295,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9211284,
-		"name": "Almaryami, Mohamed H.",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1901,
-		"rating_rapid": 1954,
-		"rating_blitz": 1930
-	},
-	{
-		"fideid": 9218734,
-		"name": "Almashai, Hafeth Mnsor",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1901,
-		"rating_rapid": 1761,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9202692,
 		"name": "Shuaib, Faris",
 		"country": "LBA",
@@ -2340,7 +2306,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": "",
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1901,
 		"rating_rapid": 1871,
 		"rating_blitz": 1850
@@ -2482,23 +2448,6 @@
 		"rating_blitz": 1885
 	},
 	{
-		"fideid": 9215352,
-		"name": "Amer, Abdulmalk",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "i",
-		"rating_standard": 1894,
-		"rating_rapid": 1912,
-		"rating_blitz": 1889
-	},
-	{
 		"fideid": 9203176,
 		"name": "Saleh, Mohab",
 		"country": "LBA",
@@ -2514,6 +2463,23 @@
 		"rating_standard": 1894,
 		"rating_rapid": 1903,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9211284,
+		"name": "Almaryami, Mohamed H.",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1893,
+		"rating_rapid": 1954,
+		"rating_blitz": 1930
 	},
 	{
 		"fideid": 9210865,
@@ -2567,6 +2533,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9215352,
+		"name": "Amer, Abdulmalk",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1890,
+		"rating_rapid": 1912,
+		"rating_blitz": 1889
+	},
+	{
 		"fideid": 2406659,
 		"name": "Shahin, Jallal",
 		"country": "LBA",
@@ -2582,6 +2565,23 @@
 		"rating_standard": 1890,
 		"rating_rapid": 1834,
 		"rating_blitz": 1875
+	},
+	{
+		"fideid": 9202005,
+		"name": "Buirzayqah, Mohammed",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 7,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1889,
+		"rating_rapid": 2049,
+		"rating_blitz": 1966
 	},
 	{
 		"fideid": 9200088,
@@ -2822,23 +2822,6 @@
 		"rating_blitz": 1884
 	},
 	{
-		"fideid": 9205110,
-		"name": "Alhelal, Emad",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": "",
-		"flag": "",
-		"rating_standard": 1882,
-		"rating_rapid": 1917,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9209492,
 		"name": "Alhwti, Ibrahim R.",
 		"country": "LBA",
@@ -2941,6 +2924,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9219064,
+		"name": "Faraj, Mohammed Salah",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1879,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9210415,
 		"name": "Alorofi, Sliman S.",
 		"country": "LBA",
@@ -3007,6 +3007,23 @@
 		"rating_standard": 1877,
 		"rating_rapid": 1887,
 		"rating_blitz": 1946
+	},
+	{
+		"fideid": 9205535,
+		"name": "Sultan, Ahmed Faraj",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 1877,
+		"rating_rapid": 1849,
+		"rating_blitz": 1883
 	},
 	{
 		"fideid": 9207457,
@@ -3244,7 +3261,7 @@
 		"flag": "",
 		"rating_standard": 1872,
 		"rating_rapid": 1919,
-		"rating_blitz": 1895
+		"rating_blitz": 1894
 	},
 	{
 		"fideid": 9208674,
@@ -3281,6 +3298,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9200339,
+		"name": "Mahdia, Farage",
+		"country": "LBA",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1871,
+		"rating_rapid": 1931,
+		"rating_blitz": 1993
+	},
+	{
 		"fideid": 9223991,
 		"name": "Alrifie, Mahmod",
 		"country": "LBA",
@@ -3296,6 +3330,23 @@
 		"rating_standard": 1870,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9207899,
+		"name": "Amhadi, Ahmed Mohamed",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1869,
+		"rating_rapid": 1869,
+		"rating_blitz": 1806
 	},
 	{
 		"fideid": 9203753,
@@ -3340,30 +3391,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 1867,
 		"rating_rapid": 1879,
 		"rating_blitz": 1837
-	},
-	{
-		"fideid": 9219064,
-		"name": "Faraj, Mohammed Salah",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "i",
-		"rating_standard": 1867,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 9202781,
@@ -3398,23 +3432,6 @@
 		"rating_standard": 1867,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9207899,
-		"name": "Amhadi, Ahmed Mohamed",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "i",
-		"rating_standard": 1866,
-		"rating_rapid": 1869,
-		"rating_blitz": 1806
 	},
 	{
 		"fideid": 9210520,
@@ -3459,7 +3476,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1986,
 		"flag": "",
@@ -3516,23 +3533,6 @@
 		"flag": "",
 		"rating_standard": 1865,
 		"rating_rapid": 1710,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9223550,
-		"name": "Abdullah, Fouzi Ahmed",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 1863,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -3774,6 +3774,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9218734,
+		"name": "Almashai, Hafeth Mnsor",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1855,
+		"rating_rapid": 1761,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9211187,
 		"name": "Almoshaiti, Najmalden Ali",
 		"country": "LBA",
@@ -3806,23 +3823,6 @@
 		"rating_standard": 1855,
 		"rating_rapid": 1850,
 		"rating_blitz": 1791
-	},
-	{
-		"fideid": 9202803,
-		"name": "Yousef, Ali",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1855,
-		"rating_rapid": 1867,
-		"rating_blitz": 1869
 	},
 	{
 		"fideid": 9208631,
@@ -3927,23 +3927,6 @@
 		"rating_blitz": 1874
 	},
 	{
-		"fideid": 9202005,
-		"name": "Buirzayqah, Mohammed",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": 1853,
-		"rating_rapid": 2049,
-		"rating_blitz": 1966
-	},
-	{
 		"fideid": 9207201,
 		"name": "Mahmoud, Moftah S.",
 		"country": "LBA",
@@ -3959,6 +3942,23 @@
 		"rating_standard": 1853,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9202803,
+		"name": "Yousef, Ali",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1853,
+		"rating_rapid": 1867,
+		"rating_blitz": 1869
 	},
 	{
 		"fideid": 9208666,
@@ -4282,6 +4282,23 @@
 		"rating_standard": 1845,
 		"rating_rapid": null,
 		"rating_blitz": 1763
+	},
+	{
+		"fideid": 9201122,
+		"name": "Ali El Haj, Nizar",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1845,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9224114,
@@ -4947,23 +4964,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9205535,
-		"name": "Sultan, Ahmed Faraj",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1833,
-		"rating_rapid": 1849,
-		"rating_blitz": 1883
-	},
-	{
 		"fideid": 9210164,
 		"name": "Aboalkasim, Alameen",
 		"country": "LBA",
@@ -5134,6 +5134,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9211780,
+		"name": "Altwaty, AbdulMalik A.",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 1830,
+		"rating_rapid": 1707,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9203311,
 		"name": "Dourar Osama",
 		"country": "LBA",
@@ -5202,6 +5219,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9212531,
+		"name": "Algharyani, Hamzah Alnaji",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1828,
+		"rating_rapid": 1795,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9202323,
 		"name": "Gharib, Faraj H.",
 		"country": "LBA",
@@ -5251,6 +5285,23 @@
 		"rating_standard": 1827,
 		"rating_rapid": 1916,
 		"rating_blitz": 1916
+	},
+	{
+		"fideid": 9223550,
+		"name": "Abdullah, Fouzi Ahmed",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1826,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9204601,
@@ -5525,20 +5576,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9211780,
-		"name": "Altwaty, AbdulMalik A.",
+		"fideid": 14322200,
+		"name": "Salem, Abdarahim",
 		"country": "LBA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
-		"games": 0,
+		"foa_title": "AFM",
+		"games": 6,
 		"k": 20,
-		"birthday": 1977,
-		"flag": "i",
+		"birthday": 1989,
+		"flag": "",
 		"rating_standard": 1822,
-		"rating_rapid": 1707,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -6052,23 +6103,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9212531,
-		"name": "Algharyani, Hamzah Alnaji",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "i",
-		"rating_standard": 1812,
-		"rating_rapid": 1795,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9212337,
 		"name": "Khalefallah, Mohamed",
 		"country": "LBA",
@@ -6118,23 +6152,6 @@
 		"rating_standard": 1810,
 		"rating_rapid": 1702,
 		"rating_blitz": 1658
-	},
-	{
-		"fideid": 9202269,
-		"name": "Battal, Saad",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1809,
-		"rating_rapid": 1865,
-		"rating_blitz": 1819
 	},
 	{
 		"fideid": 9203257,
@@ -6222,23 +6239,6 @@
 		"rating_blitz": 1731
 	},
 	{
-		"fideid": 9200142,
-		"name": "Franika, Khaled mahmoud",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": 1807,
-		"rating_rapid": 1841,
-		"rating_blitz": 1808
-	},
-	{
 		"fideid": 9210199,
 		"name": "Adhmani, Mohamed",
 		"country": "LBA",
@@ -6254,23 +6254,6 @@
 		"rating_standard": 1806,
 		"rating_rapid": null,
 		"rating_blitz": 1752
-	},
-	{
-		"fideid": 14322200,
-		"name": "Salem, Abdarahim",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1806,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 9207929,
@@ -6528,6 +6511,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9200142,
+		"name": "Franika, Khaled mahmoud",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 1801,
+		"rating_rapid": 1841,
+		"rating_blitz": 1808
+	},
+	{
 		"fideid": 9212620,
 		"name": "Hamed, Saleh Abdallah",
 		"country": "LBA",
@@ -6590,7 +6590,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1983,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1799,
 		"rating_rapid": 1798,
 		"rating_blitz": 1778
@@ -6661,7 +6661,7 @@
 		"flag": "i",
 		"rating_standard": 1797,
 		"rating_rapid": 1823,
-		"rating_blitz": 1769
+		"rating_blitz": 1770
 	},
 	{
 		"fideid": 9213465,
@@ -6834,23 +6834,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9217002,
-		"name": "Alzilitini, Luwi abdulsalam",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1993,
-		"flag": "i",
-		"rating_standard": 1793,
-		"rating_rapid": 1812,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9208054,
 		"name": "Alkortabi, Ali A.",
 		"country": "LBA",
@@ -6868,21 +6851,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9212884,
-		"name": "Mohamed, Mahmod Saleh",
+		"fideid": 9202269,
+		"name": "Battal, Saad",
 		"country": "LBA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1988,
-		"flag": "i",
+		"games": 6,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
 		"rating_standard": 1792,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1865,
+		"rating_blitz": 1819
 	},
 	{
 		"fideid": 9216146,
@@ -7769,6 +7752,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9217002,
+		"name": "Alzilitini, Luwi abdulsalam",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1774,
+		"rating_rapid": 1812,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9215689,
 		"name": "MABRUK TAGIURI, MOEZ RAGHEB",
 		"country": "LBA",
@@ -7835,23 +7835,6 @@
 		"rating_standard": 1771,
 		"rating_rapid": null,
 		"rating_blitz": 1795
-	},
-	{
-		"fideid": 9209735,
-		"name": "Aljazwi, Iyman F.",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 1771,
-		"rating_rapid": 1773,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 9208690,
@@ -8041,23 +8024,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9209816,
-		"name": "Bodowara, Mohamed",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1764,
-		"rating_rapid": 1818,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 9204717,
 		"name": "Alguttani, Adel",
 		"country": "LBA",
@@ -8123,6 +8089,40 @@
 		"flag": "i",
 		"rating_standard": 1757,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9209735,
+		"name": "Aljazwi, Iyman F.",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1756,
+		"rating_rapid": 1773,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9209816,
+		"name": "Bodowara, Mohamed",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1756,
+		"rating_rapid": 1818,
 		"rating_blitz": null
 	},
 	{
@@ -8294,6 +8294,23 @@
 		"rating_standard": 1755,
 		"rating_rapid": null,
 		"rating_blitz": 1708
+	},
+	{
+		"fideid": 9212884,
+		"name": "Mohamed, Mahmod Saleh",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1754,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 9213597,
@@ -9106,7 +9123,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2001,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1737,
 		"rating_rapid": 1705,
 		"rating_blitz": 1830
@@ -10319,23 +10336,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9214976,
-		"name": "Alsaiti, Mohamed Abdalgader",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1702,
-		"rating_rapid": 1725,
-		"rating_blitz": 1667
-	},
-	{
 		"fideid": 9201980,
 		"name": "Attir, Abdurrahman",
 		"country": "LBA",
@@ -10453,6 +10453,23 @@
 		"rating_standard": 1699,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9214976,
+		"name": "Alsaiti, Mohamed Abdalgader",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1699,
+		"rating_rapid": 1725,
+		"rating_blitz": 1667
 	},
 	{
 		"fideid": 9213112,
@@ -11458,6 +11475,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9224700,
+		"name": "Mohamad Matouk Mohamad",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": 1642,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 9213341,
 		"name": "Ali, Moktar, Husain",
 		"country": "LBA",
@@ -11523,6 +11557,23 @@
 		"flag": "i",
 		"rating_standard": 1636,
 		"rating_rapid": 1643,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9224920,
+		"name": "Salih, Yousuf Alnaji abdulaziz",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1631,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -11778,7 +11829,24 @@
 		"flag": "",
 		"rating_standard": 1612,
 		"rating_rapid": 1666,
-		"rating_blitz": 1561
+		"rating_blitz": 1576
+	},
+	{
+		"fideid": 9219072,
+		"name": "Mahmoud, Adel M A",
+		"country": "LBA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "",
+		"rating_standard": 1609,
+		"rating_rapid": 1525,
+		"rating_blitz": 1575
 	},
 	{
 		"fideid": 9219633,
@@ -11965,7 +12033,7 @@
 		"flag": "wi",
 		"rating_standard": 1599,
 		"rating_rapid": 1576,
-		"rating_blitz": 1564
+		"rating_blitz": 1563
 	},
 	{
 		"fideid": 9213317,
@@ -12000,23 +12068,6 @@
 		"rating_standard": 1599,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 9219072,
-		"name": "Mahmoud, Adel M A",
-		"country": "LBA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 1599,
-		"rating_rapid": 1525,
-		"rating_blitz": 1575
 	},
 	{
 		"fideid": 9216987,
@@ -12676,7 +12727,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1987,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1816,
 		"rating_blitz": null
@@ -12829,7 +12880,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1809,
 		"rating_blitz": null
@@ -12897,7 +12948,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1985,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1866,
 		"rating_blitz": null
@@ -12948,7 +12999,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1982,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1756,
 		"rating_blitz": null
@@ -13081,7 +13132,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -13152,7 +13203,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1978,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1802,
 		"rating_blitz": null
@@ -13234,7 +13285,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
@@ -13322,7 +13373,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1971,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1841,
 		"rating_blitz": null
@@ -13387,7 +13438,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
@@ -13441,7 +13492,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1757,
 		"rating_blitz": 1636
@@ -13472,7 +13523,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1998,
 		"flag": "",
@@ -13495,7 +13546,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1572,
-		"rating_blitz": 1421
+		"rating_blitz": 1420
 	},
 	{
 		"fideid": 9220224,
@@ -13574,7 +13625,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1989,
 		"flag": "",
@@ -13625,7 +13676,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2003,
 		"flag": "",
@@ -13812,7 +13863,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1969,
 		"flag": "",
@@ -13832,7 +13883,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1735,
 		"rating_blitz": null
@@ -13968,7 +14019,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1761,
 		"rating_blitz": null
@@ -14016,7 +14067,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2000,
 		"flag": "",
@@ -14033,7 +14084,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
@@ -14155,7 +14206,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1994,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1709,
 		"rating_blitz": null
@@ -14169,7 +14220,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1991,
 		"flag": "",
@@ -14308,7 +14359,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1977,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1698,
 		"rating_blitz": null
@@ -14512,7 +14563,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1989,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1603,
 		"rating_blitz": null
@@ -14546,7 +14597,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1788,
 		"rating_blitz": null
@@ -14628,7 +14679,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 1994,
 		"flag": "",

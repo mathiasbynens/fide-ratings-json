@@ -150,7 +150,7 @@
 		"flag": "",
 		"rating_standard": 2025,
 		"rating_rapid": 1929,
-		"rating_blitz": 2122
+		"rating_blitz": 2270
 	},
 	{
 		"fideid": 11700467,
@@ -425,23 +425,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11701552,
-		"name": "Mohtaat, Homayoun",
-		"country": "AFG",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1925,
-		"rating_rapid": 1819,
-		"rating_blitz": 1819
-	},
-	{
 		"fideid": 11700068,
 		"name": "Ayyoubi, Saifudin",
 		"country": "AFG",
@@ -474,6 +457,23 @@
 		"rating_standard": 1920,
 		"rating_rapid": null,
 		"rating_blitz": 1990
+	},
+	{
+		"fideid": 11701552,
+		"name": "Mohtaat, Homayoun",
+		"country": "AFG",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1920,
+		"rating_rapid": 1819,
+		"rating_blitz": 1819
 	},
 	{
 		"fideid": 11700041,
@@ -744,7 +744,7 @@
 		"birthday": 1973,
 		"flag": "",
 		"rating_standard": 1855,
-		"rating_rapid": 1807,
+		"rating_rapid": 1793,
 		"rating_blitz": 1759
 	},
 	{
@@ -844,7 +844,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1827,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1237,7 +1237,7 @@
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": 1739,
-		"rating_rapid": 1678,
+		"rating_rapid": 1677,
 		"rating_blitz": 1657
 	},
 	{
@@ -1377,23 +1377,6 @@
 		"rating_blitz": 1790
 	},
 	{
-		"fideid": 11702630,
-		"name": "Khatibi Mohammad Qais",
-		"country": "AFG",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1705,
-		"rating_rapid": null,
-		"rating_blitz": 1777
-	},
-	{
 		"fideid": 11701536,
 		"name": "Shuaa Hameedullah",
 		"country": "AFG",
@@ -1426,6 +1409,23 @@
 		"rating_standard": 1693,
 		"rating_rapid": 1680,
 		"rating_blitz": 1684
+	},
+	{
+		"fideid": 11702630,
+		"name": "Khatibi Mohammad Qais",
+		"country": "AFG",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1692,
+		"rating_rapid": null,
+		"rating_blitz": 1777
 	},
 	{
 		"fideid": 11701030,
@@ -1526,7 +1526,7 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": 1686,
-		"rating_rapid": 1621,
+		"rating_rapid": 1668,
 		"rating_blitz": 1643
 	},
 	{
@@ -1592,7 +1592,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1979,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1675,
 		"rating_rapid": 1684,
 		"rating_blitz": 1604
@@ -1645,8 +1645,25 @@
 		"birthday": 1987,
 		"flag": "i",
 		"rating_standard": 1650,
-		"rating_rapid": 1674,
+		"rating_rapid": 1712,
 		"rating_blitz": 1716
+	},
+	{
+		"fideid": 11702559,
+		"name": "Hassibullah Badghisi",
+		"country": "AFG",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1634,
+		"rating_rapid": 1671,
+		"rating_blitz": 1635
 	},
 	{
 		"fideid": 11702958,
@@ -1698,23 +1715,6 @@
 		"rating_standard": 1615,
 		"rating_rapid": null,
 		"rating_blitz": 1732
-	},
-	{
-		"fideid": 11702559,
-		"name": "Hassibullah Badghisi",
-		"country": "AFG",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1611,
-		"rating_rapid": 1671,
-		"rating_blitz": 1635
 	},
 	{
 		"fideid": 11701498,
@@ -2108,6 +2108,23 @@
 		"rating_blitz": 1617
 	},
 	{
+		"fideid": 11705183,
+		"name": "Ahmad Shah Faizi",
+		"country": "AFG",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1701,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11703300,
 		"name": "Aimal Safi",
 		"country": "AFG",
@@ -2133,7 +2150,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -2286,7 +2303,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 1999,
 		"flag": "w",
