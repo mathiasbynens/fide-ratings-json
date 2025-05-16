@@ -2095,7 +2095,7 @@
 		"name": "Efimov, Leonid",
 		"country": "FID",
 		"sex": "M",
-		"title": "",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -7599,6 +7599,23 @@
 		"rating_blitz": 1908
 	},
 	{
+		"fideid": 24278351,
+		"name": "Efimova, Darya",
+		"country": "FID",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1878,
+		"rating_rapid": 2043,
+		"rating_blitz": 1926
+	},
+	{
 		"fideid": 6351280,
 		"name": "Majeed, Zryan Kemal",
 		"country": "FID",
@@ -9112,23 +9129,6 @@
 		"rating_blitz": 1802
 	},
 	{
-		"fideid": 150104472,
-		"name": "Arhimow, Mohamed Salem",
-		"country": "FID",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1798,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 6362397,
 		"name": "Shahkaramov, Akbar",
 		"country": "FID",
@@ -9793,7 +9793,7 @@
 	},
 	{
 		"fideid": 13506927,
-		"name": "Russko, Irina",
+		"name": "Plekhava, Irina",
 		"country": "FID",
 		"sex": "F",
 		"title": "",
@@ -14168,7 +14168,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
@@ -25991,5 +25991,22 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1510
+	},
+	{
+		"fideid": 13540548,
+		"name": "Zhukovich, Stanislau",
+		"country": "FID",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1576
 	}
 ]
