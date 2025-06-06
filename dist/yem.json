@@ -969,23 +969,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9401652,
-		"name": "Farhan, Marwan Ali",
-		"country": "YEM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": "",
-		"flag": "i",
-		"rating_standard": 1983,
-		"rating_rapid": 1928,
-		"rating_blitz": 1952
-	},
-	{
 		"fideid": 9401091,
 		"name": "Al Jalal, Horab",
 		"country": "YEM",
@@ -1258,23 +1241,6 @@
 		"rating_blitz": 1996
 	},
 	{
-		"fideid": 9402900,
-		"name": "mohammed al-madhfari",
-		"country": "YEM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1970,
-		"flag": "i",
-		"rating_standard": 1902,
-		"rating_rapid": 1897,
-		"rating_blitz": 1902
-	},
-	{
 		"fideid": 9400435,
 		"name": "Al-Aswadi, Mohammed",
 		"country": "YEM",
@@ -1290,6 +1256,23 @@
 		"rating_standard": 1897,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9401652,
+		"name": "Farhan, Marwan Ali",
+		"country": "YEM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1897,
+		"rating_rapid": 1928,
+		"rating_blitz": 1952
 	},
 	{
 		"fideid": 9403485,
@@ -1343,6 +1326,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9402900,
+		"name": "mohammed al-madhfari",
+		"country": "YEM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 1885,
+		"rating_rapid": 1897,
+		"rating_blitz": 1902
+	},
+	{
 		"fideid": 9401334,
 		"name": "Al Halilah, Yaser",
 		"country": "YEM",
@@ -1394,23 +1394,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 9403990,
-		"name": "Abdul Kareem, Mamdooh",
-		"country": "YEM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1878,
-		"rating_rapid": 1827,
-		"rating_blitz": 1854
-	},
-	{
 		"fideid": 9401113,
 		"name": "Bal Eid, Mansoor",
 		"country": "YEM",
@@ -1458,8 +1441,8 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1873,
-		"rating_rapid": 1697,
-		"rating_blitz": 1889
+		"rating_rapid": 1861,
+		"rating_blitz": 1809
 	},
 	{
 		"fideid": 9400354,
@@ -1681,6 +1664,23 @@
 		"rating_standard": 1822,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9403990,
+		"name": "Abdul Kareem, Mamdooh",
+		"country": "YEM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1809,
+		"rating_rapid": 1827,
+		"rating_blitz": 1854
 	},
 	{
 		"fideid": 9401474,
@@ -1949,7 +1949,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1984,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1703,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2155,7 +2155,7 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1636,
-		"rating_rapid": 1757,
+		"rating_rapid": 1761,
 		"rating_blitz": 1558
 	},
 	{
@@ -2394,7 +2394,7 @@
 		"flag": "w",
 		"rating_standard": 1566,
 		"rating_rapid": null,
-		"rating_blitz": 1438
+		"rating_blitz": 1439
 	},
 	{
 		"fideid": 9403108,
@@ -2426,7 +2426,7 @@
 		"k": 40,
 		"birthday": 1952,
 		"flag": "",
-		"rating_standard": 1557,
+		"rating_standard": 1558,
 		"rating_rapid": 1604,
 		"rating_blitz": 1579
 	},
@@ -2663,9 +2663,26 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1598,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9406972,
+		"name": "ABDULRAHMAN SALEH BAZARAH",
+		"country": "YEM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1616,
 		"rating_blitz": null
 	},
 	{
@@ -2700,23 +2717,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1687,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 9406832,
-		"name": "Al Qudaimi M Abdallah",
-		"country": "YEM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1452,
 		"rating_blitz": null
 	},
 	{
@@ -2762,7 +2762,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -2784,8 +2784,8 @@
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1548,
-		"rating_blitz": null
+		"rating_rapid": 1544,
+		"rating_blitz": 1407
 	},
 	{
 		"fideid": 9406417,
@@ -2864,12 +2864,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1663,
+		"rating_rapid": 1734,
 		"rating_blitz": null
 	},
 	{
@@ -2886,7 +2886,7 @@
 		"birthday": 1977,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1675,
+		"rating_rapid": 1674,
 		"rating_blitz": null
 	},
 	{
@@ -2938,6 +2938,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1666,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 9407731,
+		"name": "MUNDHER MOHAMMED AL-ARIQE",
+		"country": "YEM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1610,
 		"rating_blitz": null
 	},
 	{
@@ -3005,7 +3022,7 @@
 		"birthday": 2011,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1508,
+		"rating_rapid": 1511,
 		"rating_blitz": null
 	},
 	{
@@ -3017,12 +3034,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1975,
+		"rating_rapid": 1990,
 		"rating_blitz": null
 	},
 	{
@@ -3058,6 +3075,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1848,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 9406182,
+		"name": "Yaslam Mohammed Hussein",
+		"country": "YEM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1877,
+		"rating_blitz": 1864
 	},
 	{
 		"fideid": 9407316,
@@ -3245,22 +3279,5 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1600
-	},
-	{
-		"fideid": 9406182,
-		"name": "Yaslam Mohammed Hussein",
-		"country": "YEM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1864
 	}
 ]
