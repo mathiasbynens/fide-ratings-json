@@ -10931,23 +10931,6 @@
 		"rating_blitz": 2215
 	},
 	{
-		"fideid": 12900460,
-		"name": "Heinemann, Josefine",
-		"country": "GER",
-		"sex": "F",
-		"title": "WGM",
-		"w_title": "WGM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "w",
-		"rating_standard": 2303,
-		"rating_rapid": 2232,
-		"rating_blitz": 2218
-	},
-	{
 		"fideid": 12967084,
 		"name": "Holinka, Henning",
 		"country": "GER",
@@ -10980,6 +10963,23 @@
 		"rating_standard": 2303,
 		"rating_rapid": 2289,
 		"rating_blitz": 2274
+	},
+	{
+		"fideid": 12900460,
+		"name": "Safarli, Josefine",
+		"country": "GER",
+		"sex": "F",
+		"title": "WGM",
+		"w_title": "WGM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "w",
+		"rating_standard": 2303,
+		"rating_rapid": 2232,
+		"rating_blitz": 2218
 	},
 	{
 		"fideid": 4659210,
@@ -17238,6 +17238,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13314831,
+		"name": "Atoyan, Alberto",
+		"country": "GER",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2266,
+		"rating_rapid": 2194,
+		"rating_blitz": 2379
+	},
+	{
 		"fideid": 4638344,
 		"name": "Gottschling, Stefan, Dr.",
 		"country": "GER",
@@ -20180,7 +20197,7 @@
 	},
 	{
 		"fideid": 4676599,
-		"name": "Jochens, Arne",
+		"name": "Jochens, Arne, Dr.",
 		"country": "GER",
 		"sex": "M",
 		"title": "FM",
@@ -150637,6 +150654,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4639960,
+		"name": "Binding, Frank",
+		"country": "GER",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "i",
+		"rating_standard": 2002,
+		"rating_rapid": 1985,
+		"rating_blitz": 1998
+	},
+	{
 		"fideid": 4632095,
 		"name": "Birkmann, Guenther",
 		"country": "GER",
@@ -150822,23 +150856,6 @@
 		"rating_standard": 2002,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4639960,
-		"name": "Hoppe, Frank",
-		"country": "GER",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "i",
-		"rating_standard": 2002,
-		"rating_rapid": 1985,
-		"rating_blitz": 1998
 	},
 	{
 		"fideid": 24642932,
@@ -154503,7 +154520,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1980,
@@ -197575,7 +197592,7 @@
 	},
 	{
 		"fideid": 24626422,
-		"name": "Braak, Richard",
+		"name": "Braak, Richard, Dr.",
 		"country": "GER",
 		"sex": "M",
 		"title": "",
@@ -222361,7 +222378,7 @@
 	},
 	{
 		"fideid": 16203631,
-		"name": "Mock, Markus",
+		"name": "Mock, Markus, Prof.",
 		"country": "GER",
 		"sex": "M",
 		"title": "",
@@ -345764,7 +345781,7 @@
 	},
 	{
 		"fideid": 12946885,
-		"name": "Sauer, Andreas",
+		"name": "Sauer, Andreas, Dr.",
 		"country": "GER",
 		"sex": "M",
 		"title": "",
@@ -418115,23 +418132,6 @@
 		"rating_blitz": 1923
 	},
 	{
-		"fideid": 16274490,
-		"name": "Bergen, Katja",
-		"country": "GER",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "wi",
-		"rating_standard": 1764,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 12999385,
 		"name": "Berndt, Gerhard",
 		"country": "GER",
@@ -418314,6 +418314,23 @@
 		"k": 20,
 		"birthday": 1962,
 		"flag": "i",
+		"rating_standard": 1764,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 16274490,
+		"name": "Gebauer, Katja",
+		"country": "GER",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "wi",
 		"rating_standard": 1764,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -423250,7 +423267,7 @@
 	},
 	{
 		"fideid": 12997161,
-		"name": "Strnat, Fritz",
+		"name": "Strnat, Friedrich",
 		"country": "GER",
 		"sex": "M",
 		"title": "",
@@ -493661,6 +493678,23 @@
 		"rating_standard": 1677,
 		"rating_rapid": 1612,
 		"rating_blitz": 1684
+	},
+	{
+		"fideid": 8655049,
+		"name": "Liu, Yining",
+		"country": "GER",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1677,
+		"rating_rapid": 1708,
+		"rating_blitz": 1604
 	},
 	{
 		"fideid": 533003920,
@@ -594303,23 +594337,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 12965588,
-		"name": "Roth, Thomas",
-		"country": "GER",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1781,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 533032149,
 		"name": "Roth, Thomas",
 		"country": "GER",
@@ -594334,6 +594351,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1677,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 12965588,
+		"name": "Roth, Thomas",
+		"country": "GER",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1781,
 		"rating_blitz": null
 	},
 	{
@@ -619837,23 +619871,6 @@
 		"rating_blitz": 1592
 	},
 	{
-		"fideid": 533024685,
-		"name": "Weber, Philipp",
-		"country": "GER",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1758
-	},
-	{
 		"fideid": 34637710,
 		"name": "Weber, Philipp",
 		"country": "GER",
@@ -619869,6 +619886,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1692
+	},
+	{
+		"fideid": 533024685,
+		"name": "Weber, Philipp",
+		"country": "GER",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1758
 	},
 	{
 		"fideid": 16283635,
