@@ -8,11 +8,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 13,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
-		"rating_standard": 2171,
+		"rating_standard": 2175,
 		"rating_rapid": 2144,
 		"rating_blitz": 2235
 	},
@@ -42,11 +42,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1973,
 		"flag": "",
-		"rating_standard": 2098,
+		"rating_standard": 2097,
 		"rating_rapid": null,
 		"rating_blitz": 2187
 	},
@@ -144,11 +144,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1978,
 		"flag": "",
-		"rating_standard": 2012,
+		"rating_standard": 2008,
 		"rating_rapid": null,
 		"rating_blitz": 2037
 	},
@@ -212,7 +212,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
@@ -246,7 +246,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1961,
 		"flag": "",
@@ -263,13 +263,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1973,
 		"flag": "",
 		"rating_standard": 1955,
 		"rating_rapid": null,
-		"rating_blitz": 1953
+		"rating_blitz": 1952
 	},
 	{
 		"fideid": 7501005,
@@ -280,13 +280,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1969,
 		"flag": "",
 		"rating_standard": 1953,
 		"rating_rapid": null,
-		"rating_blitz": 2009
+		"rating_blitz": 2008
 	},
 	{
 		"fideid": 7500289,
@@ -357,6 +357,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7500432,
+		"name": "Paricharak, Shardul",
+		"country": "AHO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1932,
+		"rating_rapid": 1905,
+		"rating_blitz": 1884
+	},
+	{
 		"fideid": 7500564,
 		"name": "Pietersz, David",
 		"country": "AHO",
@@ -391,23 +408,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7500432,
-		"name": "Paricharak, Shardul",
-		"country": "AHO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1924,
-		"rating_rapid": 1905,
-		"rating_blitz": 1884
-	},
-	{
 		"fideid": 7500181,
 		"name": "Zalm, Norman",
 		"country": "AHO",
@@ -433,7 +433,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1964,
 		"flag": "",
@@ -457,23 +457,6 @@
 		"rating_standard": 1897,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3902773,
-		"name": "Mena, Ailen Oriana",
-		"country": "AHO",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "NI",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "w",
-		"rating_standard": 1883,
-		"rating_rapid": 1843,
-		"rating_blitz": 1767
 	},
 	{
 		"fideid": 7500270,
@@ -501,13 +484,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1859,
 		"rating_rapid": 1825,
-		"rating_blitz": 1873
+		"rating_blitz": 1872
+	},
+	{
+		"fideid": 3902773,
+		"name": "Mena, Ailen Oriana",
+		"country": "AHO",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "NI",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "w",
+		"rating_standard": 1855,
+		"rating_rapid": 1843,
+		"rating_blitz": 1767
 	},
 	{
 		"fideid": 7500343,
@@ -527,23 +527,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7502656,
-		"name": "Diaz de Pool, Julian",
-		"country": "AHO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1841,
-		"rating_rapid": null,
-		"rating_blitz": 1912
-	},
-	{
 		"fideid": 7500351,
 		"name": "Tjon-A-Hung, Edwin",
 		"country": "AHO",
@@ -559,6 +542,23 @@
 		"rating_standard": 1841,
 		"rating_rapid": null,
 		"rating_blitz": 1828
+	},
+	{
+		"fideid": 7502656,
+		"name": "Diaz de Pool, Julian",
+		"country": "AHO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1839,
+		"rating_rapid": null,
+		"rating_blitz": 1911
 	},
 	{
 		"fideid": 1039830,
@@ -603,13 +603,13 @@
 		"w_title": "",
 		"o_title": "SI",
 		"foa_title": "AIM",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1813,
-		"rating_rapid": 1669,
-		"rating_blitz": 1827
+		"rating_standard": 1812,
+		"rating_rapid": 1743,
+		"rating_blitz": 1824
 	},
 	{
 		"fideid": 7500173,
@@ -620,7 +620,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1992,
 		"flag": "",
@@ -637,11 +637,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 1796,
+		"rating_standard": 1797,
 		"rating_rapid": 1629,
 		"rating_blitz": 1717
 	},
@@ -654,7 +654,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -675,7 +675,7 @@
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
-		"rating_standard": 1791,
+		"rating_standard": 1790,
 		"rating_rapid": null,
 		"rating_blitz": 1836
 	},
@@ -688,13 +688,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1989,
 		"flag": "",
-		"rating_standard": 1789,
+		"rating_standard": 1788,
 		"rating_rapid": null,
-		"rating_blitz": 1789
+		"rating_blitz": 1788
 	},
 	{
 		"fideid": 7500190,
@@ -708,8 +708,8 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1779,
+		"flag": "i",
+		"rating_standard": 1777,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -777,9 +777,9 @@
 		"k": 20,
 		"birthday": 1951,
 		"flag": "",
-		"rating_standard": 1763,
+		"rating_standard": 1762,
 		"rating_rapid": null,
-		"rating_blitz": 1807
+		"rating_blitz": 1805
 	},
 	{
 		"fideid": 7501021,
@@ -807,13 +807,13 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1729,
-		"rating_rapid": null,
-		"rating_blitz": 1669
+		"rating_rapid": 1765,
+		"rating_blitz": 1667
 	},
 	{
 		"fideid": 7500033,
@@ -824,7 +824,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1963,
 		"flag": "",
@@ -850,23 +850,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7502397,
-		"name": "Everts, Roy-Anthony",
-		"country": "AHO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1725,
-		"rating_rapid": null,
-		"rating_blitz": 1750
-	},
-	{
 		"fideid": 7500440,
 		"name": "Salim-Moussa, Seydi",
 		"country": "AHO",
@@ -884,6 +867,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7502397,
+		"name": "Everts, Roy-Anthony",
+		"country": "AHO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1721,
+		"rating_rapid": null,
+		"rating_blitz": 1748
+	},
+	{
 		"fideid": 7500475,
 		"name": "Fayad, Michell",
 		"country": "AHO",
@@ -895,7 +895,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1971,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1721,
 		"rating_rapid": null,
 		"rating_blitz": 1717
@@ -926,7 +926,7 @@
 		"w_title": "WCM",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "w",
@@ -947,7 +947,7 @@
 		"k": 40,
 		"birthday": 1974,
 		"flag": "",
-		"rating_standard": 1716,
+		"rating_standard": 1713,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1014,7 +1014,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1986,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1703,
 		"rating_rapid": 1560,
 		"rating_blitz": null
@@ -1083,7 +1083,7 @@
 		"k": 40,
 		"birthday": 1949,
 		"flag": "",
-		"rating_standard": 1660,
+		"rating_standard": 1658,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1118,7 +1118,7 @@
 		"birthday": 2004,
 		"flag": "i",
 		"rating_standard": 1630,
-		"rating_rapid": null,
+		"rating_rapid": 1556,
 		"rating_blitz": null
 	},
 	{
@@ -1130,28 +1130,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1615,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 7502982,
-		"name": "Diaz de Pool, Xavi",
-		"country": "AHO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1609,
+		"rating_standard": 1610,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1173,6 +1156,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7502982,
+		"name": "Diaz de Pool, Xavi",
+		"country": "AHO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1604,
+		"rating_rapid": 1548,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7502583,
 		"name": "Berkenveld, Paulus",
 		"country": "AHO",
@@ -1181,13 +1181,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1964,
 		"flag": "",
-		"rating_standard": 1592,
+		"rating_standard": 1589,
 		"rating_rapid": null,
-		"rating_blitz": 1481
+		"rating_blitz": 1479
 	},
 	{
 		"fideid": 7502559,
@@ -1198,13 +1198,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1581,
-		"rating_rapid": 1580,
-		"rating_blitz": 1739
+		"rating_standard": 1577,
+		"rating_rapid": 1581,
+		"rating_blitz": 1737
 	},
 	{
 		"fideid": 7503024,
@@ -1215,12 +1215,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1573,
-		"rating_rapid": 1587,
+		"rating_rapid": 1576,
 		"rating_blitz": 1606
 	},
 	{
@@ -1249,12 +1249,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1562,
-		"rating_rapid": null,
+		"rating_rapid": 1506,
 		"rating_blitz": 1603
 	},
 	{
@@ -1275,23 +1275,6 @@
 		"rating_blitz": 1562
 	},
 	{
-		"fideid": 7502478,
-		"name": "Ayubi, Amir",
-		"country": "AHO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1545,
-		"rating_rapid": null,
-		"rating_blitz": 1606
-	},
-	{
 		"fideid": 7501641,
 		"name": "Pourier, Dianthely",
 		"country": "AHO",
@@ -1300,13 +1283,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
-		"rating_standard": 1531,
+		"rating_standard": 1529,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7502478,
+		"name": "Ayubi, Amir",
+		"country": "AHO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1517,
+		"rating_rapid": 1556,
+		"rating_blitz": 1588
 	},
 	{
 		"fideid": 7500645,
@@ -1334,13 +1334,13 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
-		"rating_standard": 1487,
-		"rating_rapid": null,
-		"rating_blitz": 1545
+		"rating_standard": 1486,
+		"rating_rapid": 1493,
+		"rating_blitz": 1543
 	},
 	{
 		"fideid": 7501706,
@@ -1355,7 +1355,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
-		"rating_standard": 1483,
+		"rating_standard": 1482,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1389,8 +1389,25 @@
 		"k": 40,
 		"birthday": 1958,
 		"flag": "",
-		"rating_standard": 1432,
+		"rating_standard": 1431,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7502745,
+		"name": "Bhatia, Kush",
+		"country": "AHO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1648,
 		"rating_blitz": null
 	},
 	{
@@ -1408,7 +1425,24 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1429,
-		"rating_blitz": 1516
+		"rating_blitz": 1512
+	},
+	{
+		"fideid": 7502974,
+		"name": "Jeandor, Kaylani",
+		"country": "AHO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1595,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 7502354,
@@ -1425,7 +1459,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1507,
-		"rating_blitz": 1585
+		"rating_blitz": 1582
 	},
 	{
 		"fideid": 7502400,
@@ -1442,6 +1476,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1585,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7502524,
+		"name": "Rajpal, Hriday",
+		"country": "AHO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1598,
 		"rating_blitz": null
 	},
 	{
@@ -1479,6 +1530,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7502486,
+		"name": "Wu, Jie-Peng",
+		"country": "AHO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1759,
+		"rating_blitz": 1614
+	},
+	{
 		"fideid": 7501692,
 		"name": "Curiel, David",
 		"country": "AHO",
@@ -1493,7 +1561,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 2002
+		"rating_blitz": 2001
 	},
 	{
 		"fideid": 7502842,
@@ -1510,7 +1578,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1415
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 7502850,
@@ -1562,22 +1630,5 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1618
-	},
-	{
-		"fideid": 7502486,
-		"name": "Wu, Jie-Peng",
-		"country": "AHO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1615
 	}
 ]

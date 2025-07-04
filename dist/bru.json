@@ -827,10 +827,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": "",
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1882,
-		"rating_rapid": 1945,
-		"rating_blitz": 1929
+		"rating_rapid": 1913,
+		"rating_blitz": 1876
 	},
 	{
 		"fideid": 10501959,
@@ -1014,7 +1014,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": "",
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1833,
 		"rating_rapid": 1851,
 		"rating_blitz": 1881
@@ -1031,7 +1031,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1959,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1829,
 		"rating_rapid": 1829,
 		"rating_blitz": null
@@ -1082,7 +1082,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1951,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1823,
 		"rating_rapid": 1790,
 		"rating_blitz": 1841
@@ -1133,10 +1133,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1802,
-		"rating_rapid": 1935,
-		"rating_blitz": 1993
+		"rating_rapid": 1932,
+		"rating_blitz": 1919
 	},
 	{
 		"fideid": 10502840,
@@ -1150,7 +1150,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1800,
 		"rating_rapid": 1664,
 		"rating_blitz": 1641
@@ -1303,7 +1303,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1986,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1751,
 		"rating_rapid": 1661,
 		"rating_blitz": 1755
@@ -1354,27 +1354,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1958,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1734,
 		"rating_rapid": 1774,
 		"rating_blitz": 1785
-	},
-	{
-		"fideid": 10503528,
-		"name": "Zabri, Aiden Syahmi",
-		"country": "BRU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1733,
-		"rating_rapid": 1852,
-		"rating_blitz": 1884
 	},
 	{
 		"fideid": 10501703,
@@ -1422,10 +1405,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1996,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1718,
 		"rating_rapid": 1727,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 10503528,
+		"name": "Zabri, Aiden Syahmi",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1717,
+		"rating_rapid": 1852,
+		"rating_blitz": 1884
 	},
 	{
 		"fideid": 10500685,
@@ -1445,23 +1445,6 @@
 		"rating_blitz": 1894
 	},
 	{
-		"fideid": 10502394,
-		"name": "Rezuan, A",
-		"country": "BRU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1708,
-		"rating_rapid": 1774,
-		"rating_blitz": 1738
-	},
-	{
 		"fideid": 10503200,
 		"name": "Bobby, Hassan",
 		"country": "BRU",
@@ -1473,10 +1456,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1981,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1702,
 		"rating_rapid": 1618,
 		"rating_blitz": 1770
+	},
+	{
+		"fideid": 10502394,
+		"name": "Rezuan, A",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1774,
+		"rating_blitz": 1738
 	},
 	{
 		"fideid": 10503811,
@@ -1530,6 +1530,23 @@
 		"rating_blitz": 1809
 	},
 	{
+		"fideid": 10503145,
+		"name": "Rezuan, Khaizuran",
+		"country": "BRU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1661,
+		"rating_rapid": 1812,
+		"rating_blitz": 1864
+	},
+	{
 		"fideid": 10503480,
 		"name": "Haji Mahmud, Haji Adi Ihram",
 		"country": "BRU",
@@ -1541,27 +1558,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1972,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1660,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 10503145,
-		"name": "Rezuan, Khaizuran",
-		"country": "BRU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1653,
-		"rating_rapid": 1812,
-		"rating_blitz": 1864
 	},
 	{
 		"fideid": 10503170,
@@ -1593,7 +1593,7 @@
 		"k": 40,
 		"birthday": 2004,
 		"flag": "w",
-		"rating_standard": 1626,
+		"rating_standard": 1627,
 		"rating_rapid": null,
 		"rating_blitz": 1682
 	},
@@ -1644,7 +1644,7 @@
 		"k": 20,
 		"birthday": 1991,
 		"flag": "w",
-		"rating_standard": 1575,
+		"rating_standard": 1572,
 		"rating_rapid": 1549,
 		"rating_blitz": 1499
 	},
@@ -1660,7 +1660,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1525,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2442,7 +2442,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1630

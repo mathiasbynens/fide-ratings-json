@@ -127,11 +127,11 @@
 		"w_title": "",
 		"o_title": "FI",
 		"foa_title": "",
-		"games": 7,
+		"games": 2,
 		"k": 20,
 		"birthday": 1979,
 		"flag": "",
-		"rating_standard": 2152,
+		"rating_standard": 2158,
 		"rating_rapid": 2120,
 		"rating_blitz": 2008
 	},
@@ -183,7 +183,7 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": 2134,
-		"rating_rapid": 2223,
+		"rating_rapid": 2229,
 		"rating_blitz": 2105
 	},
 	{
@@ -195,13 +195,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 2,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 2133,
-		"rating_rapid": 2125,
-		"rating_blitz": 2048
+		"rating_standard": 2125,
+		"rating_rapid": 2107,
+		"rating_blitz": 2054
 	},
 	{
 		"fideid": 26042380,
@@ -246,12 +246,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 2107,
-		"rating_rapid": 2133,
+		"rating_standard": 2106,
+		"rating_rapid": 2141,
 		"rating_blitz": 2098
 	},
 	{
@@ -270,6 +270,23 @@
 		"rating_standard": 2099,
 		"rating_rapid": 2024,
 		"rating_blitz": 1978
+	},
+	{
+		"fideid": 444251,
+		"name": "Dahl, Baard",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 2095,
+		"rating_rapid": 2047,
+		"rating_blitz": 2169
 	},
 	{
 		"fideid": 5600162,
@@ -314,30 +331,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": 2088,
 		"rating_rapid": 2068,
 		"rating_blitz": 2105
-	},
-	{
-		"fideid": 444251,
-		"name": "Dahl, Baard",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1970,
-		"flag": "i",
-		"rating_standard": 2086,
-		"rating_rapid": 2098,
-		"rating_blitz": 2169
 	},
 	{
 		"fideid": 5600251,
@@ -382,12 +382,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 2052,
-		"rating_rapid": 2119,
+		"rating_rapid": 2093,
 		"rating_blitz": 2115
 	},
 	{
@@ -399,12 +399,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1963,
 		"flag": "",
 		"rating_standard": 2045,
-		"rating_rapid": 1990,
+		"rating_rapid": 1918,
 		"rating_blitz": null
 	},
 	{
@@ -450,7 +450,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "",
@@ -561,23 +561,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5600502,
-		"name": "Caruana Pulpan, Oana",
-		"country": "MLT",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "FI",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "w",
-		"rating_standard": 1959,
-		"rating_rapid": 1892,
-		"rating_blitz": 1914
-	},
-	{
 		"fideid": 5600294,
 		"name": "Mizzi, Paul",
 		"country": "MLT",
@@ -612,6 +595,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5600502,
+		"name": "Caruana Pulpan, Oana",
+		"country": "MLT",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "FI",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "w",
+		"rating_standard": 1939,
+		"rating_rapid": 1892,
+		"rating_blitz": 1914
+	},
+	{
 		"fideid": 5600472,
 		"name": "Farrugia, Stephen",
 		"country": "MLT",
@@ -629,23 +629,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6363318,
-		"name": "Pala, Onurcan",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1929,
-		"rating_rapid": 1825,
-		"rating_blitz": 1795
-	},
-	{
 		"fideid": 5600243,
 		"name": "Vella, Duncan",
 		"country": "MLT",
@@ -654,13 +637,30 @@
 		"w_title": "",
 		"o_title": "FI,SI,IA",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1926,
 		"rating_rapid": 2001,
 		"rating_blitz": 1873
+	},
+	{
+		"fideid": 6363318,
+		"name": "Pala, Onurcan",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1922,
+		"rating_rapid": 1822,
+		"rating_blitz": 1794
 	},
 	{
 		"fideid": 5602386,
@@ -680,6 +680,23 @@
 		"rating_blitz": 1954
 	},
 	{
+		"fideid": 5600200,
+		"name": "Sammut Briffa, Peter",
+		"country": "MLT",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "FI",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1905,
+		"rating_rapid": 1992,
+		"rating_blitz": 1942
+	},
+	{
 		"fideid": 5600103,
 		"name": "Sciortino, Marilyn",
 		"country": "MLT",
@@ -697,21 +714,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5600200,
-		"name": "Sammut Briffa, Peter",
+		"fideid": 783846,
+		"name": "Kosik, Vince",
 		"country": "MLT",
 		"sex": "M",
-		"title": "CM",
+		"title": "",
 		"w_title": "",
-		"o_title": "FI",
+		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
+		"games": 2,
+		"k": 40,
+		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1890,
-		"rating_rapid": 1992,
-		"rating_blitz": 1942
+		"rating_rapid": 1859,
+		"rating_blitz": 1889
+	},
+	{
+		"fideid": 55607900,
+		"name": "Lukin, Vladimir",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1888,
+		"rating_rapid": 1900,
+		"rating_blitz": 1840
 	},
 	{
 		"fideid": 2894942,
@@ -778,7 +812,7 @@
 		"birthday": 1963,
 		"flag": "",
 		"rating_standard": 1873,
-		"rating_rapid": 1857,
+		"rating_rapid": 1867,
 		"rating_blitz": 1822
 	},
 	{
@@ -814,23 +848,6 @@
 		"rating_standard": 1869,
 		"rating_rapid": null,
 		"rating_blitz": 1824
-	},
-	{
-		"fideid": 783846,
-		"name": "Kosik, Vince",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1868,
-		"rating_rapid": 1847,
-		"rating_blitz": 1888
 	},
 	{
 		"fideid": 5600391,
@@ -884,38 +901,21 @@
 		"rating_blitz": 1633
 	},
 	{
-		"fideid": 5603315,
-		"name": "Ghitza, Elena",
-		"country": "MLT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "SI",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "w",
-		"rating_standard": 1850,
-		"rating_rapid": 1763,
-		"rating_blitz": 1727
-	},
-	{
-		"fideid": 55607900,
-		"name": "Lukin, Vladimir",
+		"fideid": 5600731,
+		"name": "Psaila, Mario",
 		"country": "MLT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1978,
+		"foa_title": "ACM",
+		"games": 2,
+		"k": 20,
+		"birthday": 1956,
 		"flag": "",
-		"rating_standard": 1849,
-		"rating_rapid": 1900,
-		"rating_blitz": 1852
+		"rating_standard": 1848,
+		"rating_rapid": 1827,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5602254,
@@ -952,21 +952,21 @@
 		"rating_blitz": 1855
 	},
 	{
-		"fideid": 5600731,
-		"name": "Psaila, Mario",
+		"fideid": 5601452,
+		"name": "Gatt, Matthias",
 		"country": "MLT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
+		"o_title": "NI",
+		"foa_title": "",
+		"games": 2,
 		"k": 20,
-		"birthday": 1956,
+		"birthday": 2003,
 		"flag": "",
-		"rating_standard": 1847,
-		"rating_rapid": 1839,
-		"rating_blitz": null
+		"rating_standard": 1843,
+		"rating_rapid": 1843,
+		"rating_blitz": 1936
 	},
 	{
 		"fideid": 5601541,
@@ -1003,21 +1003,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5601452,
-		"name": "Gatt, Matthias",
+		"fideid": 5603315,
+		"name": "Ghitza, Elena",
 		"country": "MLT",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI",
-		"foa_title": "",
-		"games": 0,
+		"o_title": "SI",
+		"foa_title": "ACM",
+		"games": 2,
 		"k": 20,
-		"birthday": 2003,
-		"flag": "",
+		"birthday": 1980,
+		"flag": "w",
 		"rating_standard": 1837,
-		"rating_rapid": 1843,
-		"rating_blitz": 1887
+		"rating_rapid": 1790,
+		"rating_blitz": 1751
 	},
 	{
 		"fideid": 5600235,
@@ -1096,12 +1096,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1815,
-		"rating_rapid": 1753,
+		"rating_rapid": 1764,
 		"rating_blitz": 1698
 	},
 	{
@@ -1135,7 +1135,7 @@
 		"birthday": 1980,
 		"flag": "i",
 		"rating_standard": 1809,
-		"rating_rapid": 1764,
+		"rating_rapid": 1787,
 		"rating_blitz": 1832
 	},
 	{
@@ -1188,23 +1188,6 @@
 		"rating_standard": 1803,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5600030,
-		"name": "Richards, John",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1803,
-		"rating_rapid": 1878,
-		"rating_blitz": 1817
 	},
 	{
 		"fideid": 5601797,
@@ -1275,6 +1258,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5600030,
+		"name": "Richards, John",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1792,
+		"rating_rapid": 1878,
+		"rating_blitz": 1817
+	},
+	{
 		"fideid": 5603471,
 		"name": "Zammit, Jacob",
 		"country": "MLT",
@@ -1288,7 +1288,7 @@
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1788,
-		"rating_rapid": 1806,
+		"rating_rapid": 1788,
 		"rating_blitz": 1821
 	},
 	{
@@ -1526,7 +1526,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1752,
-		"rating_rapid": 1734,
+		"rating_rapid": 1792,
 		"rating_blitz": 1748
 	},
 	{
@@ -1725,13 +1725,13 @@
 		"w_title": "WFM",
 		"o_title": "FI,NA",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1977,
 		"flag": "w",
 		"rating_standard": 1715,
-		"rating_rapid": 1797,
-		"rating_blitz": 1840
+		"rating_rapid": 1785,
+		"rating_blitz": 1824
 	},
 	{
 		"fideid": 5601762,
@@ -1748,6 +1748,23 @@
 		"flag": "i",
 		"rating_standard": 1708,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5604109,
+		"name": "Reyansh, Keshav",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1708,
+		"rating_rapid": 1562,
 		"rating_blitz": null
 	},
 	{
@@ -1815,8 +1832,8 @@
 		"birthday": 1966,
 		"flag": "",
 		"rating_standard": 1695,
-		"rating_rapid": 1802,
-		"rating_blitz": 1670
+		"rating_rapid": 1793,
+		"rating_blitz": 1631
 	},
 	{
 		"fideid": 5601100,
@@ -1895,7 +1912,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -1919,23 +1936,6 @@
 		"rating_standard": 1689,
 		"rating_rapid": 1563,
 		"rating_blitz": 1562
-	},
-	{
-		"fideid": 5604109,
-		"name": "Reyansh, Keshav",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1683,
-		"rating_rapid": 1547,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 5603668,
@@ -2065,12 +2065,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1979,
 		"flag": "",
 		"rating_standard": 1669,
-		"rating_rapid": 1661,
+		"rating_rapid": 1648,
 		"rating_blitz": 1680
 	},
 	{
@@ -2091,21 +2091,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5605784,
-		"name": "Borda, Matthias",
+		"fideid": 5604982,
+		"name": "Lin, Ziyang",
 		"country": "MLT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 1,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1667,
-		"rating_rapid": 1431,
-		"rating_blitz": 1660
+		"rating_rapid": 1614,
+		"rating_blitz": 1672
 	},
 	{
 		"fideid": 5600707,
@@ -2157,23 +2157,6 @@
 		"rating_standard": 1663,
 		"rating_rapid": null,
 		"rating_blitz": 1710
-	},
-	{
-		"fideid": 5604982,
-		"name": "Lin, Ziyang",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1659,
-		"rating_rapid": 1614,
-		"rating_blitz": 1643
 	},
 	{
 		"fideid": 5600758,
@@ -2244,6 +2227,23 @@
 		"rating_blitz": 1681
 	},
 	{
+		"fideid": 5605164,
+		"name": "Refalo, John",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1648,
+		"rating_rapid": 1725,
+		"rating_blitz": 1715
+	},
+	{
 		"fideid": 5601967,
 		"name": "Bezzina Maltseva, Irina",
 		"country": "MLT",
@@ -2295,21 +2295,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5605652,
-		"name": "McKellar, John",
+		"fideid": 5605784,
+		"name": "Borda, Matthias",
 		"country": "MLT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
-		"birthday": 1959,
+		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1640,
-		"rating_rapid": 1554,
-		"rating_blitz": 1536
+		"rating_standard": 1637,
+		"rating_rapid": 1431,
+		"rating_blitz": 1660
 	},
 	{
 		"fideid": 5603722,
@@ -2327,6 +2327,40 @@
 		"rating_standard": 1636,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5600260,
+		"name": "Sammut, Ron",
+		"country": "MLT",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "",
+		"rating_standard": 1636,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5605652,
+		"name": "McKellar, John",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": 1635,
+		"rating_rapid": 1554,
+		"rating_blitz": 1536
 	},
 	{
 		"fideid": 5603269,
@@ -2363,23 +2397,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5600260,
-		"name": "Sammut, Ron",
-		"country": "MLT",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "",
-		"rating_standard": 1631,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5602220,
 		"name": "Bilunov, Ivan",
 		"country": "MLT",
@@ -2395,23 +2412,6 @@
 		"rating_standard": 1628,
 		"rating_rapid": 1692,
 		"rating_blitz": 1644
-	},
-	{
-		"fideid": 5605164,
-		"name": "Refalo, John",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1628,
-		"rating_rapid": 1670,
-		"rating_blitz": 1683
 	},
 	{
 		"fideid": 5602882,
@@ -2584,23 +2584,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5604362,
-		"name": "Kang Di Benedetto, Leonardo Nils",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1608,
-		"rating_rapid": 1554,
-		"rating_blitz": 1636
-	},
-	{
 		"fideid": 5605555,
 		"name": "Padron Gonzalez, Alexander Ariel",
 		"country": "MLT",
@@ -2694,30 +2677,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 20,
 		"birthday": 1945,
 		"flag": "",
-		"rating_standard": 1594,
+		"rating_standard": 1595,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5605571,
-		"name": "Abdilla Castillo, Matthias",
+		"fideid": 5604362,
+		"name": "Kang Di Benedetto, Leonardo Nils",
 		"country": "MLT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
-		"birthday": 2005,
+		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1592,
-		"rating_rapid": 1535,
-		"rating_blitz": null
+		"rating_rapid": 1554,
+		"rating_blitz": 1636
 	},
 	{
 		"fideid": 5604664,
@@ -2734,6 +2717,23 @@
 		"flag": "i",
 		"rating_standard": 1591,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5605571,
+		"name": "Abdilla Castillo, Matthias",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1590,
+		"rating_rapid": 1535,
 		"rating_blitz": null
 	},
 	{
@@ -2771,6 +2771,23 @@
 		"rating_blitz": 1593
 	},
 	{
+		"fideid": 5605032,
+		"name": "Miceli-Farrugia, Ella",
+		"country": "MLT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "w",
+		"rating_standard": 1588,
+		"rating_rapid": 1595,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5604214,
 		"name": "Selander, Mikael",
 		"country": "MLT",
@@ -2785,23 +2802,6 @@
 		"flag": "i",
 		"rating_standard": 1588,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 5605032,
-		"name": "Miceli-Farrugia, Ella",
-		"country": "MLT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "w",
-		"rating_standard": 1587,
-		"rating_rapid": 1595,
 		"rating_blitz": null
 	},
 	{
@@ -2847,11 +2847,11 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "w",
-		"rating_standard": 1584,
+		"rating_standard": 1585,
 		"rating_rapid": 1532,
 		"rating_blitz": 1448
 	},
@@ -2937,8 +2937,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1578,
-		"rating_rapid": 1571,
-		"rating_blitz": 1600
+		"rating_rapid": 1534,
+		"rating_blitz": 1599
 	},
 	{
 		"fideid": 5601720,
@@ -3141,8 +3141,8 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1552,
-		"rating_rapid": 1551,
-		"rating_blitz": 1530
+		"rating_rapid": 1577,
+		"rating_blitz": 1488
 	},
 	{
 		"fideid": 399104992,
@@ -3192,7 +3192,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1549,
-		"rating_rapid": 1529,
+		"rating_rapid": 1530,
 		"rating_blitz": 1558
 	},
 	{
@@ -3213,6 +3213,23 @@
 		"rating_blitz": 1481
 	},
 	{
+		"fideid": 5605822,
+		"name": "Fan, Jiading",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1544,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5604702,
 		"name": "Sigona, Raffaele",
 		"country": "MLT",
@@ -3225,7 +3242,7 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1543,
+		"rating_standard": 1544,
 		"rating_rapid": 1558,
 		"rating_blitz": 1546
 	},
@@ -3245,23 +3262,6 @@
 		"rating_standard": 1542,
 		"rating_rapid": null,
 		"rating_blitz": 1595
-	},
-	{
-		"fideid": 5605822,
-		"name": "Fan, Jiading",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 5603005,
@@ -3344,7 +3344,7 @@
 		"k": 40,
 		"birthday": "",
 		"flag": "",
-		"rating_standard": 1523,
+		"rating_standard": 1524,
 		"rating_rapid": 1644,
 		"rating_blitz": null
 	},
@@ -3400,6 +3400,23 @@
 		"rating_blitz": 1578
 	},
 	{
+		"fideid": 5603803,
+		"name": "Sacco, Isaac",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1515,
+		"rating_rapid": 1478,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5602653,
 		"name": "Mizzi, Adrian",
 		"country": "MLT",
@@ -3451,6 +3468,23 @@
 		"rating_blitz": 1512
 	},
 	{
+		"fideid": 5604834,
+		"name": "Ahmad Costa, Miguel",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1509,
+		"rating_rapid": 1408,
+		"rating_blitz": 1605
+	},
+	{
 		"fideid": 5601258,
 		"name": "Farrugia, Michael",
 		"country": "MLT",
@@ -3466,23 +3500,6 @@
 		"rating_standard": 1509,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5604834,
-		"name": "Ahmad Costa, Miguel",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1507,
-		"rating_rapid": 1408,
-		"rating_blitz": 1605
 	},
 	{
 		"fideid": 5602297,
@@ -3532,7 +3549,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1501,
-		"rating_rapid": 1461,
+		"rating_rapid": 1526,
 		"rating_blitz": 1533
 	},
 	{
@@ -3553,20 +3570,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5605709,
-		"name": "Borg, Nikol",
+		"fideid": 5603870,
+		"name": "Borg Mercieca, Elena",
 		"country": "MLT",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1494,
-		"rating_rapid": 1489,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1499,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -3582,7 +3599,7 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1493,
+		"rating_standard": 1494,
 		"rating_rapid": 1459,
 		"rating_blitz": 1416
 	},
@@ -3604,57 +3621,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5600693,
-		"name": "Grech, Michael",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": "",
-		"flag": "",
-		"rating_standard": 1486,
-		"rating_rapid": 1536,
-		"rating_blitz": 1483
-	},
-	{
-		"fideid": 5603803,
-		"name": "Sacco, Isaac",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1485,
-		"rating_rapid": 1478,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 5603870,
-		"name": "Borg Mercieca, Elena",
-		"country": "MLT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1481,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5602475,
 		"name": "Malazarte, Maire Bernafe",
 		"country": "MLT",
@@ -3670,6 +3636,23 @@
 		"rating_standard": 1480,
 		"rating_rapid": null,
 		"rating_blitz": 1527
+	},
+	{
+		"fideid": 5605709,
+		"name": "Borg, Nikol",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1479,
+		"rating_rapid": 1430,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5605369,
@@ -3723,23 +3706,6 @@
 		"rating_blitz": 1478
 	},
 	{
-		"fideid": 5604184,
-		"name": "Cutajar Lofaro, Manuel",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": 1472,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5603838,
 		"name": "Falzon, Alexander",
 		"country": "MLT",
@@ -3772,6 +3738,23 @@
 		"rating_standard": 1464,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5605792,
+		"name": "Callus, Matthew",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1464,
+		"rating_rapid": null,
+		"rating_blitz": 1442
 	},
 	{
 		"fideid": 5602211,
@@ -3859,21 +3842,21 @@
 		"rating_blitz": 1573
 	},
 	{
-		"fideid": 5600715,
-		"name": "Gauci, David",
+		"fideid": 5600693,
+		"name": "Grech, Michael",
 		"country": "MLT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
-		"games": 4,
+		"foa_title": "",
+		"games": 2,
 		"k": 20,
-		"birthday": 1976,
+		"birthday": "",
 		"flag": "",
-		"rating_standard": 1449,
-		"rating_rapid": 1497,
-		"rating_blitz": 1563
+		"rating_standard": 1451,
+		"rating_rapid": 1536,
+		"rating_blitz": 1483
 	},
 	{
 		"fideid": 5601428,
@@ -3893,6 +3876,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5600715,
+		"name": "Gauci, David",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 1,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1445,
+		"rating_rapid": 1486,
+		"rating_blitz": 1563
+	},
+	{
 		"fideid": 5600766,
 		"name": "Attard, Stephen",
 		"country": "MLT",
@@ -3908,23 +3908,6 @@
 		"rating_standard": 1440,
 		"rating_rapid": 1726,
 		"rating_blitz": 1588
-	},
-	{
-		"fideid": 5605792,
-		"name": "Callus, Matthew",
-		"country": "MLT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1438,
-		"rating_rapid": 1434,
-		"rating_blitz": 1430
 	},
 	{
 		"fideid": 5603285,
@@ -3978,6 +3961,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5604184,
+		"name": "Cutajar Lofaro, Manuel",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": 1421,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5604737,
 		"name": "Briffa, Zachary",
 		"country": "MLT",
@@ -3986,13 +3986,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1415,
-		"rating_rapid": 1469,
-		"rating_blitz": 1544
+		"rating_standard": 1416,
+		"rating_rapid": 1456,
+		"rating_blitz": 1516
 	},
 	{
 		"fideid": 5604940,
@@ -4044,23 +4044,6 @@
 		"rating_standard": 1404,
 		"rating_rapid": null,
 		"rating_blitz": 1455
-	},
-	{
-		"fideid": 5602637,
-		"name": "Thornton, Hayley",
-		"country": "MLT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1402,
-		"rating_rapid": 1413,
-		"rating_blitz": 1546
 	},
 	{
 		"fideid": 5604761,
@@ -4394,12 +4377,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 5,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1538,
+		"rating_rapid": 1497,
 		"rating_blitz": 1490
 	},
 	{
@@ -4513,12 +4496,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1410,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -4547,7 +4530,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -4607,6 +4590,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5602637,
+		"name": "Thornton, Hayley",
+		"country": "MLT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1431,
+		"rating_blitz": 1516
+	},
+	{
 		"fideid": 5604885,
 		"name": "Tibayan, Mark",
 		"country": "MLT",
@@ -4632,12 +4632,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1485,
+		"rating_rapid": 1458,
 		"rating_blitz": null
 	},
 	{
@@ -4853,7 +4853,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -5117,6 +5117,23 @@
 		"rating_blitz": 1689
 	},
 	{
+		"fideid": 5605180,
+		"name": "Wang, Fanrui",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1491
+	},
+	{
 		"fideid": 5602343,
 		"name": "Zammit, Luke",
 		"country": "MLT",
@@ -5132,5 +5149,22 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1660
+	},
+	{
+		"fideid": 5606250,
+		"name": "Zarb, Mark",
+		"country": "MLT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1509
 	}
 ]
