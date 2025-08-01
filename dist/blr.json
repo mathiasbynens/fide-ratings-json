@@ -8,11 +8,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 10,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 2580,
+		"rating_standard": 2584,
 		"rating_rapid": 2579,
 		"rating_blitz": 2617
 	},
@@ -31,24 +31,7 @@
 		"flag": "i",
 		"rating_standard": 2572,
 		"rating_rapid": 2562,
-		"rating_blitz": 2585
-	},
-	{
-		"fideid": 13506862,
-		"name": "Nikitenko, Mihail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "GM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 19,
-		"k": 10,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 2517,
-		"rating_rapid": 2407,
-		"rating_blitz": 2396
+		"rating_blitz": 2582
 	},
 	{
 		"fideid": 13502247,
@@ -85,6 +68,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13506862,
+		"name": "Nikitenko, Mihail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "GM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 19,
+		"k": 10,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 2504,
+		"rating_rapid": 2407,
+		"rating_blitz": 2396
+	},
+	{
 		"fideid": 13502921,
 		"name": "Romanenko, Vladimir",
 		"country": "BLR",
@@ -110,11 +110,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 10,
 		"birthday": 1987,
 		"flag": "",
-		"rating_standard": 2454,
+		"rating_standard": 2453,
 		"rating_rapid": 2535,
 		"rating_blitz": 2342
 	},
@@ -161,7 +161,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 10,
 		"birthday": 1990,
 		"flag": "",
@@ -212,13 +212,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 10,
 		"birthday": 2002,
 		"flag": "",
-		"rating_standard": 2407,
+		"rating_standard": 2409,
 		"rating_rapid": 2347,
-		"rating_blitz": 2341
+		"rating_blitz": 2348
 	},
 	{
 		"fideid": 13504363,
@@ -238,23 +238,6 @@
 		"rating_blitz": 2306
 	},
 	{
-		"fideid": 13500023,
-		"name": "Kovalev, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "GM",
-		"w_title": "",
-		"o_title": "FST",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1961,
-		"flag": "",
-		"rating_standard": 2396,
-		"rating_rapid": 2308,
-		"rating_blitz": 2245
-	},
-	{
 		"fideid": 13500139,
 		"name": "Aleksandrov, Aleksej",
 		"country": "BLR",
@@ -263,11 +246,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 19,
+		"games": 10,
 		"k": 10,
 		"birthday": 1973,
 		"flag": "",
-		"rating_standard": 2381,
+		"rating_standard": 2387,
 		"rating_rapid": 2415,
 		"rating_blitz": 2355
 	},
@@ -280,7 +263,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 19,
+		"games": 0,
 		"k": 10,
 		"birthday": 1972,
 		"flag": "",
@@ -304,6 +287,23 @@
 		"rating_standard": 2373,
 		"rating_rapid": 2299,
 		"rating_blitz": 2184
+	},
+	{
+		"fideid": 13500023,
+		"name": "Kovalev, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "GM",
+		"w_title": "",
+		"o_title": "FST",
+		"foa_title": "",
+		"games": 10,
+		"k": 10,
+		"birthday": 1961,
+		"flag": "",
+		"rating_standard": 2371,
+		"rating_rapid": 2308,
+		"rating_blitz": 2245
 	},
 	{
 		"fideid": 13501810,
@@ -510,6 +510,23 @@
 		"rating_blitz": 2341
 	},
 	{
+		"fideid": 13516078,
+		"name": "Spizharny, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2335,
+		"rating_rapid": 2105,
+		"rating_blitz": 2297
+	},
+	{
 		"fideid": 13501623,
 		"name": "Nekrasov, Vladimir",
 		"country": "BLR",
@@ -542,23 +559,6 @@
 		"rating_standard": 2324,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13516078,
-		"name": "Spizharny, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2323,
-		"rating_rapid": 2105,
-		"rating_blitz": 2314
 	},
 	{
 		"fideid": 13504134,
@@ -901,23 +901,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13505130,
-		"name": "Tsyhanchuk, Stanislav",
-		"country": "BLR",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "FT,FA",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1992,
-		"flag": "i",
-		"rating_standard": 2273,
-		"rating_rapid": 2205,
-		"rating_blitz": 2140
-	},
-	{
 		"fideid": 13503928,
 		"name": "Filipets, Egor",
 		"country": "BLR",
@@ -967,6 +950,23 @@
 		"rating_standard": 2269,
 		"rating_rapid": 2305,
 		"rating_blitz": 2278
+	},
+	{
+		"fideid": 13505130,
+		"name": "Tsyhanchuk, Stanislav",
+		"country": "BLR",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "FT,FA",
+		"foa_title": "",
+		"games": 8,
+		"k": 10,
+		"birthday": 1992,
+		"flag": "",
+		"rating_standard": 2269,
+		"rating_rapid": 2218,
+		"rating_blitz": 2140
 	},
 	{
 		"fideid": 13502735,
@@ -1238,7 +1238,7 @@
 		"flag": "",
 		"rating_standard": 2248,
 		"rating_rapid": 2383,
-		"rating_blitz": 2299
+		"rating_blitz": 2281
 	},
 	{
 		"fideid": 13501364,
@@ -1289,7 +1289,7 @@
 		"flag": "i",
 		"rating_standard": 2241,
 		"rating_rapid": 2175,
-		"rating_blitz": 2066
+		"rating_blitz": 2065
 	},
 	{
 		"fideid": 13501356,
@@ -1445,23 +1445,6 @@
 		"rating_blitz": 2124
 	},
 	{
-		"fideid": 13500619,
-		"name": "Novitzkij, Dmitrij",
-		"country": "BLR",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1971,
-		"flag": "",
-		"rating_standard": 2224,
-		"rating_rapid": 2273,
-		"rating_blitz": 2256
-	},
-	{
 		"fideid": 13502778,
 		"name": "Sirotkin, Evgenji",
 		"country": "BLR",
@@ -1513,23 +1496,6 @@
 		"rating_blitz": 2119
 	},
 	{
-		"fideid": 13500350,
-		"name": "Smirnov, Valerij",
-		"country": "BLR",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1953,
-		"flag": "",
-		"rating_standard": 2217,
-		"rating_rapid": 2095,
-		"rating_blitz": 2090
-	},
-	{
 		"fideid": 13502832,
 		"name": "Prussakov, Konstantin",
 		"country": "BLR",
@@ -1578,7 +1544,7 @@
 		"flag": "i",
 		"rating_standard": 2213,
 		"rating_rapid": 1996,
-		"rating_blitz": 2035
+		"rating_blitz": 2036
 	},
 	{
 		"fideid": 13501500,
@@ -1713,7 +1679,7 @@
 		"birthday": 1988,
 		"flag": "i",
 		"rating_standard": 2206,
-		"rating_rapid": 2088,
+		"rating_rapid": 2089,
 		"rating_blitz": 2186
 	},
 	{
@@ -1955,6 +1921,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13500619,
+		"name": "Novitzkij, Dmitrij",
+		"country": "BLR",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1971,
+		"flag": "",
+		"rating_standard": 2191,
+		"rating_rapid": 2273,
+		"rating_blitz": 2256
+	},
+	{
 		"fideid": 13511564,
 		"name": "Runets, Ivan",
 		"country": "BLR",
@@ -2125,6 +2108,23 @@
 		"rating_blitz": 2078
 	},
 	{
+		"fideid": 13500350,
+		"name": "Smirnov, Valerij",
+		"country": "BLR",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 10,
+		"birthday": 1953,
+		"flag": "",
+		"rating_standard": 2175,
+		"rating_rapid": 2095,
+		"rating_blitz": 2090
+	},
+	{
 		"fideid": 13518275,
 		"name": "Andreev, Andrei L",
 		"country": "BLR",
@@ -2241,7 +2241,7 @@
 		"flag": "i",
 		"rating_standard": 2163,
 		"rating_rapid": 2066,
-		"rating_blitz": 2109
+		"rating_blitz": 2105
 	},
 	{
 		"fideid": 13503286,
@@ -2360,23 +2360,6 @@
 		"flag": "i",
 		"rating_standard": 2155,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13500201,
-		"name": "Lagvilava, Genrieta",
-		"country": "BLR",
-		"sex": "F",
-		"title": "WGM",
-		"w_title": "WGM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "wi",
-		"rating_standard": 2153,
-		"rating_rapid": 2130,
 		"rating_blitz": null
 	},
 	{
@@ -2618,23 +2601,6 @@
 		"rating_blitz": 1928
 	},
 	{
-		"fideid": 13514288,
-		"name": "Tarasenka, Aliaksandra",
-		"country": "BLR",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": 2131,
-		"rating_rapid": 2126,
-		"rating_blitz": 2127
-	},
-	{
 		"fideid": 13505467,
 		"name": "Akulenko, Artem",
 		"country": "BLR",
@@ -2667,6 +2633,23 @@
 		"rating_standard": 2129,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13514288,
+		"name": "Tarasenka, Aliaksandra",
+		"country": "BLR",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 2129,
+		"rating_rapid": 2126,
+		"rating_blitz": 2125
 	},
 	{
 		"fideid": 13504053,
@@ -2786,23 +2769,6 @@
 		"rating_standard": 2120,
 		"rating_rapid": 2068,
 		"rating_blitz": 2068
-	},
-	{
-		"fideid": 13500880,
-		"name": "Bystrov, Alexander",
-		"country": "BLR",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 2119,
-		"rating_rapid": 2000,
-		"rating_blitz": 2105
 	},
 	{
 		"fideid": 13502786,
@@ -2990,6 +2956,23 @@
 		"rating_standard": 2109,
 		"rating_rapid": 2143,
 		"rating_blitz": 2036
+	},
+	{
+		"fideid": 13500201,
+		"name": "Lagvilava, Genrieta",
+		"country": "BLR",
+		"sex": "F",
+		"title": "WGM",
+		"w_title": "WGM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "w",
+		"rating_standard": 2108,
+		"rating_rapid": 2130,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13524356,
@@ -3298,23 +3281,6 @@
 		"rating_blitz": 1991
 	},
 	{
-		"fideid": 13523520,
-		"name": "Savelev, Matvei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 2085,
-		"rating_rapid": 2102,
-		"rating_blitz": 2124
-	},
-	{
 		"fideid": 13505491,
 		"name": "Berlin, Dmitriy",
 		"country": "BLR",
@@ -3349,21 +3315,21 @@
 		"rating_blitz": 2056
 	},
 	{
-		"fideid": 13503650,
-		"name": "Cherepov, Alexej",
+		"fideid": 13507338,
+		"name": "Kuleshov, Konstantin",
 		"country": "BLR",
 		"sex": "M",
-		"title": "CM",
+		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 20,
-		"birthday": 1982,
+		"birthday": 1993,
 		"flag": "",
 		"rating_standard": 2083,
-		"rating_rapid": 1965,
-		"rating_blitz": 1980
+		"rating_rapid": 2099,
+		"rating_blitz": 2058
 	},
 	{
 		"fideid": 13504711,
@@ -3434,6 +3400,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13511556,
+		"name": "Romanovskij, Nikita",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 2076,
+		"rating_rapid": 2066,
+		"rating_blitz": 2180
+	},
+	{
 		"fideid": 13505254,
 		"name": "Aleksashin, Denis",
 		"country": "BLR",
@@ -3451,6 +3434,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13500880,
+		"name": "Bystrov, Alexander",
+		"country": "BLR",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 2075,
+		"rating_rapid": 2000,
+		"rating_blitz": 2105
+	},
+	{
 		"fideid": 13505785,
 		"name": "Shihov, Nikolai",
 		"country": "BLR",
@@ -3466,23 +3466,6 @@
 		"rating_standard": 2075,
 		"rating_rapid": 2084,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13507338,
-		"name": "Kuleshov, Konstantin",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 2074,
-		"rating_rapid": 2099,
-		"rating_blitz": 2058
 	},
 	{
 		"fideid": 13504746,
@@ -3568,23 +3551,6 @@
 		"rating_standard": 2070,
 		"rating_rapid": 2097,
 		"rating_blitz": 2091
-	},
-	{
-		"fideid": 13504975,
-		"name": "Sharevich, Vadim",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": "",
-		"flag": "i",
-		"rating_standard": 2068,
-		"rating_rapid": 1921,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13509764,
@@ -3774,6 +3740,23 @@
 		"rating_blitz": 2016
 	},
 	{
+		"fideid": 13521217,
+		"name": "Gvozdev, Timur",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2058,
+		"rating_rapid": 2002,
+		"rating_blitz": 2081
+	},
+	{
 		"fideid": 13504126,
 		"name": "Mokriy, Alexander",
 		"country": "BLR",
@@ -3806,6 +3789,23 @@
 		"rating_standard": 2055,
 		"rating_rapid": 1999,
 		"rating_blitz": 1973
+	},
+	{
+		"fideid": 13523830,
+		"name": "Parkhimchyk, Kiryl",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2055,
+		"rating_rapid": 2056,
+		"rating_blitz": 2020
 	},
 	{
 		"fideid": 13513362,
@@ -3874,6 +3874,23 @@
 		"rating_standard": 2052,
 		"rating_rapid": 1984,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13514180,
+		"name": "Klachkou, Platon",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2051,
+		"rating_rapid": 1992,
+		"rating_blitz": 1925
 	},
 	{
 		"fideid": 13507907,
@@ -3995,23 +4012,6 @@
 		"rating_blitz": 1898
 	},
 	{
-		"fideid": 13511556,
-		"name": "Romanovskij, Nikita",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 2045,
-		"rating_rapid": 2066,
-		"rating_blitz": 2137
-	},
-	{
 		"fideid": 13504720,
 		"name": "Minina, Alena",
 		"country": "BLR",
@@ -4063,23 +4063,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13504819,
-		"name": "Litvinov, Alexandr",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "i",
-		"rating_standard": 2041,
-		"rating_rapid": 1961,
-		"rating_blitz": 1903
-	},
-	{
 		"fideid": 13515098,
 		"name": "Tarasevich, Mikhail",
 		"country": "BLR",
@@ -4112,23 +4095,6 @@
 		"rating_standard": 2039,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13521217,
-		"name": "Gvozdev, Timur",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2038,
-		"rating_rapid": 2002,
-		"rating_blitz": 2056
 	},
 	{
 		"fideid": 13513133,
@@ -4267,6 +4233,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13524364,
+		"name": "Krukouski, Serafim",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2033,
+		"rating_rapid": 1975,
+		"rating_blitz": 2034
+	},
+	{
 		"fideid": 13507729,
 		"name": "Gorbachev, Vladimir",
 		"country": "BLR",
@@ -4282,6 +4265,23 @@
 		"rating_standard": 2031,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13503650,
+		"name": "Cherepov, Alexej",
+		"country": "BLR",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 2030,
+		"rating_rapid": 2015,
+		"rating_blitz": 2039
 	},
 	{
 		"fideid": 13503030,
@@ -4333,23 +4333,6 @@
 		"rating_standard": 2025,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13514180,
-		"name": "Klachkou, Platon",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2024,
-		"rating_rapid": 1992,
-		"rating_blitz": 1939
 	},
 	{
 		"fideid": 13502468,
@@ -4418,6 +4401,23 @@
 		"rating_standard": 2019,
 		"rating_rapid": null,
 		"rating_blitz": 2002
+	},
+	{
+		"fideid": 13504819,
+		"name": "Litvinov, Alexandr",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 2018,
+		"rating_rapid": 1961,
+		"rating_blitz": 1910
 	},
 	{
 		"fideid": 13505068,
@@ -4675,6 +4675,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13523520,
+		"name": "Savelev, Matvei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 2003,
+		"rating_rapid": 2102,
+		"rating_blitz": 2081
+	},
+	{
 		"fideid": 13506692,
 		"name": "Deshchits, Alexei",
 		"country": "BLR",
@@ -4791,7 +4808,7 @@
 		"flag": "i",
 		"rating_standard": 1996,
 		"rating_rapid": 1981,
-		"rating_blitz": 1944
+		"rating_blitz": 1864
 	},
 	{
 		"fideid": 13506030,
@@ -4808,6 +4825,23 @@
 		"flag": "i",
 		"rating_standard": 1995,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13504975,
+		"name": "Sharevich, Vadim",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1995,
+		"rating_rapid": 1921,
 		"rating_blitz": null
 	},
 	{
@@ -5012,7 +5046,7 @@
 		"flag": "i",
 		"rating_standard": 1984,
 		"rating_rapid": 1924,
-		"rating_blitz": 1899
+		"rating_blitz": 1871
 	},
 	{
 		"fideid": 13519131,
@@ -5047,23 +5081,6 @@
 		"rating_standard": 1983,
 		"rating_rapid": 1939,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13524364,
-		"name": "Krukouski, Serafim",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1983,
-		"rating_rapid": 1975,
-		"rating_blitz": 1958
 	},
 	{
 		"fideid": 13503472,
@@ -5369,7 +5386,7 @@
 		"flag": "",
 		"rating_standard": 1972,
 		"rating_rapid": 1832,
-		"rating_blitz": 1867
+		"rating_blitz": 1886
 	},
 	{
 		"fideid": 13504665,
@@ -5451,7 +5468,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1952,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1967,
 		"rating_rapid": 1871,
 		"rating_blitz": 1845
@@ -5488,7 +5505,7 @@
 		"flag": "i",
 		"rating_standard": 1967,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1892
 	},
 	{
 		"fideid": 13503669,
@@ -5627,6 +5644,23 @@
 		"rating_blitz": 1903
 	},
 	{
+		"fideid": 13508997,
+		"name": "Mukhin, Pavel",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "",
+		"rating_standard": 1963,
+		"rating_rapid": 2056,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13504673,
 		"name": "Kapelchik, Andrei",
 		"country": "BLR",
@@ -5709,7 +5743,24 @@
 		"flag": "i",
 		"rating_standard": 1959,
 		"rating_rapid": 1907,
-		"rating_blitz": 1945
+		"rating_blitz": 1865
+	},
+	{
+		"fideid": 13523570,
+		"name": "Novikau, Mikita",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1959,
+		"rating_rapid": 2026,
+		"rating_blitz": 2091
 	},
 	{
 		"fideid": 13505602,
@@ -5899,23 +5950,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13508997,
-		"name": "Mukhin, Pavel",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 1956,
-		"rating_rapid": 2056,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13500910,
 		"name": "Kazantsev, Valentin",
 		"country": "BLR",
@@ -5927,27 +5961,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1946,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1955,
 		"rating_rapid": 1861,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13523570,
-		"name": "Novikau, Mikita",
+		"fideid": 13534807,
+		"name": "Yahont, Ignatiy",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1955,
-		"rating_rapid": 2026,
-		"rating_blitz": 2091
+		"rating_standard": 1954,
+		"rating_rapid": 1648,
+		"rating_blitz": 1715
 	},
 	{
 		"fideid": 13504428,
@@ -6290,6 +6324,23 @@
 		"rating_blitz": 1932
 	},
 	{
+		"fideid": 13522795,
+		"name": "Gasparian, Siarhei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1939,
+		"rating_rapid": 1890,
+		"rating_blitz": 1895
+	},
+	{
 		"fideid": 13514504,
 		"name": "Koishman, Evgenij",
 		"country": "BLR",
@@ -6301,7 +6352,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1973,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1939,
 		"rating_rapid": 1936,
 		"rating_blitz": 1825
@@ -6440,7 +6491,7 @@
 		"flag": "",
 		"rating_standard": 1936,
 		"rating_rapid": 1918,
-		"rating_blitz": 1964
+		"rating_blitz": 1965
 	},
 	{
 		"fideid": 13506986,
@@ -6596,23 +6647,6 @@
 		"rating_blitz": 1867
 	},
 	{
-		"fideid": 13503359,
-		"name": "Kliza, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1932,
-		"rating_rapid": 1964,
-		"rating_blitz": 1866
-	},
-	{
 		"fideid": 13507273,
 		"name": "Motovilnik, Jurij",
 		"country": "BLR",
@@ -6713,6 +6747,23 @@
 		"rating_standard": 1928,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13520814,
+		"name": "Navumenka, Makar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1926,
+		"rating_rapid": 1923,
+		"rating_blitz": 1883
 	},
 	{
 		"fideid": 13513346,
@@ -7038,6 +7089,23 @@
 		"rating_blitz": 1825
 	},
 	{
+		"fideid": 13513974,
+		"name": "Strizhnev, Ivan",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1920,
+		"rating_rapid": 1887,
+		"rating_blitz": 1967
+	},
+	{
 		"fideid": 13507575,
 		"name": "Stsepkina, Katsiaryna",
 		"country": "BLR",
@@ -7070,23 +7138,6 @@
 		"rating_standard": 1919,
 		"rating_rapid": 1945,
 		"rating_blitz": 1859
-	},
-	{
-		"fideid": 13522795,
-		"name": "Gasparian, Siarhei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1918,
-		"rating_rapid": 1890,
-		"rating_blitz": 1983
 	},
 	{
 		"fideid": 13515080,
@@ -7223,6 +7274,23 @@
 		"rating_standard": 1914,
 		"rating_rapid": 1896,
 		"rating_blitz": 1903
+	},
+	{
+		"fideid": 13503359,
+		"name": "Kliza, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1914,
+		"rating_rapid": 1964,
+		"rating_blitz": 1866
 	},
 	{
 		"fideid": 13510177,
@@ -7514,23 +7582,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13513974,
-		"name": "Strizhnev, Ivan",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1903,
-		"rating_rapid": 1887,
-		"rating_blitz": 1967
-	},
-	{
 		"fideid": 13512587,
 		"name": "Buchkov, Yuri",
 		"country": "BLR",
@@ -7644,7 +7695,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1968,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1899,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7732,7 +7783,7 @@
 		"flag": "",
 		"rating_standard": 1896,
 		"rating_rapid": 1858,
-		"rating_blitz": 1822
+		"rating_blitz": 1851
 	},
 	{
 		"fideid": 13501631,
@@ -7851,7 +7902,24 @@
 		"flag": "",
 		"rating_standard": 1893,
 		"rating_rapid": 1810,
-		"rating_blitz": 1846
+		"rating_blitz": 1876
+	},
+	{
+		"fideid": 13520652,
+		"name": "Dziarkach, Aliaksandr",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1893,
+		"rating_rapid": 1997,
+		"rating_blitz": 2075
 	},
 	{
 		"fideid": 13517180,
@@ -7922,6 +7990,23 @@
 		"rating_blitz": 1858
 	},
 	{
+		"fideid": 13534629,
+		"name": "Tsarkou, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1891,
+		"rating_rapid": 1953,
+		"rating_blitz": 2006
+	},
+	{
 		"fideid": 13508881,
 		"name": "Vialichka, Kiryl",
 		"country": "BLR",
@@ -7937,23 +8022,6 @@
 		"rating_standard": 1891,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13523830,
-		"name": "Parkhimchyk, Kiryl",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1890,
-		"rating_rapid": 2056,
-		"rating_blitz": 2059
 	},
 	{
 		"fideid": 13517090,
@@ -8228,23 +8296,6 @@
 		"rating_blitz": 1847
 	},
 	{
-		"fideid": 13520652,
-		"name": "Dziarkach, Aliaksandr",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1877,
-		"rating_rapid": 1997,
-		"rating_blitz": 2037
-	},
-	{
 		"fideid": 13514830,
 		"name": "Povod, Igor",
 		"country": "BLR",
@@ -8381,23 +8432,6 @@
 		"rating_blitz": 1850
 	},
 	{
-		"fideid": 13501135,
-		"name": "Shaban, Alena",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "w",
-		"rating_standard": 1873,
-		"rating_rapid": 1888,
-		"rating_blitz": 1963
-	},
-	{
 		"fideid": 13516760,
 		"name": "Vitalisov, Ivan",
 		"country": "BLR",
@@ -8447,6 +8481,23 @@
 		"rating_standard": 1872,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13501640,
+		"name": "Sarychev, Sergey",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 1870,
+		"rating_rapid": 1840,
+		"rating_blitz": 1845
 	},
 	{
 		"fideid": 13511190,
@@ -8525,47 +8576,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1867,
+		"rating_standard": 1865,
 		"rating_rapid": 1886,
 		"rating_blitz": 1902
-	},
-	{
-		"fideid": 13506625,
-		"name": "Andreev, Eduard",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "i",
-		"rating_standard": 1861,
-		"rating_rapid": 1894,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13501640,
-		"name": "Sarychev, Sergey",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": 1861,
-		"rating_rapid": 1840,
-		"rating_blitz": 1845
 	},
 	{
 		"fideid": 13512951,
@@ -8602,23 +8619,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13520814,
-		"name": "Navumenka, Makar",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1859,
-		"rating_rapid": 1923,
-		"rating_blitz": 1883
-	},
-	{
 		"fideid": 13508679,
 		"name": "Vushev, Nikita",
 		"country": "BLR",
@@ -8651,23 +8651,6 @@
 		"rating_standard": 1858,
 		"rating_rapid": 1765,
 		"rating_blitz": 1837
-	},
-	{
-		"fideid": 13520385,
-		"name": "Borovikova, Marija",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1857,
-		"rating_rapid": 1825,
-		"rating_blitz": 1856
 	},
 	{
 		"fideid": 13513010,
@@ -8902,7 +8885,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1954,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1847,
 		"rating_rapid": 1762,
 		"rating_blitz": 1885
@@ -9126,7 +9109,7 @@
 		"flag": "i",
 		"rating_standard": 1842,
 		"rating_rapid": 1902,
-		"rating_blitz": 1909
+		"rating_blitz": 1938
 	},
 	{
 		"fideid": 13507710,
@@ -9146,23 +9129,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13519662,
-		"name": "Brytsikau, Makar",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1840,
-		"rating_rapid": 1785,
-		"rating_blitz": 1840
-	},
-	{
 		"fideid": 13522264,
 		"name": "Shkurdiuk, Timofei",
 		"country": "BLR",
@@ -9178,6 +9144,23 @@
 		"rating_standard": 1840,
 		"rating_rapid": 1821,
 		"rating_blitz": 1809
+	},
+	{
+		"fideid": 13529749,
+		"name": "Arhipov, Roman",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1838,
+		"rating_rapid": 1902,
+		"rating_blitz": 1882
 	},
 	{
 		"fideid": 13517740,
@@ -9365,6 +9348,23 @@
 		"rating_standard": 1831,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13524151,
+		"name": "Pasiashnichenka, Dzmitry",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1830,
+		"rating_rapid": 1856,
+		"rating_blitz": 2036
 	},
 	{
 		"fideid": 13508067,
@@ -9588,23 +9588,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13529749,
-		"name": "Arhipov, Roman",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1823,
-		"rating_rapid": 1902,
-		"rating_blitz": 1848
-	},
-	{
 		"fideid": 13507370,
 		"name": "Korbut, Maria",
 		"country": "BLR",
@@ -9630,7 +9613,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1938,
 		"flag": "",
@@ -9639,21 +9622,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13524151,
-		"name": "Pasiashnichenka, Dzmitry",
+		"fideid": 13525255,
+		"name": "Luhinin, Maksim",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1823,
-		"rating_rapid": 1856,
-		"rating_blitz": 1880
+		"rating_rapid": 1815,
+		"rating_blitz": 1768
+	},
+	{
+		"fideid": 13523694,
+		"name": "Shuliak, Zakhar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1823,
+		"rating_rapid": 1756,
+		"rating_blitz": 1760
 	},
 	{
 		"fideid": 13514890,
@@ -9705,23 +9705,6 @@
 		"rating_standard": 1822,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13534629,
-		"name": "Tsarkou, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1822,
-		"rating_rapid": 1953,
-		"rating_blitz": 2022
 	},
 	{
 		"fideid": 13514679,
@@ -9790,6 +9773,23 @@
 		"rating_standard": 1819,
 		"rating_rapid": 1771,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13501135,
+		"name": "Shaban, Alena",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "w",
+		"rating_standard": 1819,
+		"rating_rapid": 1888,
+		"rating_blitz": 1963
 	},
 	{
 		"fideid": 13509314,
@@ -9911,6 +9911,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13511238,
+		"name": "Emchenko, Makar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1817,
+		"rating_rapid": 1775,
+		"rating_blitz": 1784
+	},
+	{
 		"fideid": 13510452,
 		"name": "Lavrenchuk, Sergei",
 		"country": "BLR",
@@ -9943,23 +9960,6 @@
 		"rating_standard": 1816,
 		"rating_rapid": 1794,
 		"rating_blitz": 1756
-	},
-	{
-		"fideid": 13534807,
-		"name": "Yahont, Ignatiy",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1816,
-		"rating_rapid": 1648,
-		"rating_blitz": 1715
 	},
 	{
 		"fideid": 13502115,
@@ -10011,23 +10011,6 @@
 		"rating_standard": 1815,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13512773,
-		"name": "Boiko, Aleksei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": "",
-		"flag": "",
-		"rating_standard": 1814,
-		"rating_rapid": 1824,
-		"rating_blitz": 1835
 	},
 	{
 		"fideid": 13509381,
@@ -10098,23 +10081,6 @@
 		"rating_blitz": 1750
 	},
 	{
-		"fideid": 13511238,
-		"name": "Emchenko, Makar",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "i",
-		"rating_standard": 1810,
-		"rating_rapid": 1775,
-		"rating_blitz": 1772
-	},
-	{
 		"fideid": 13516175,
 		"name": "Martyniuk, Liudmila",
 		"country": "BLR",
@@ -10180,7 +10146,24 @@
 		"flag": "i",
 		"rating_standard": 1808,
 		"rating_rapid": 1806,
-		"rating_blitz": 1982
+		"rating_blitz": 1915
+	},
+	{
+		"fideid": 13512773,
+		"name": "Boiko, Aleksei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1807,
+		"rating_rapid": 1824,
+		"rating_blitz": 1835
 	},
 	{
 		"fideid": 13501917,
@@ -10247,7 +10230,7 @@
 		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": 1806,
-		"rating_rapid": 1759,
+		"rating_rapid": 1801,
 		"rating_blitz": 1759
 	},
 	{
@@ -10319,6 +10302,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13520920,
+		"name": "Sidorenja, Milena",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1803,
+		"rating_rapid": 1710,
+		"rating_blitz": 1800
+	},
+	{
 		"fideid": 13510029,
 		"name": "Stsepkina, Yauheniya",
 		"country": "BLR",
@@ -10350,7 +10350,7 @@
 		"flag": "w",
 		"rating_standard": 1802,
 		"rating_rapid": 1783,
-		"rating_blitz": 1762
+		"rating_blitz": 1732
 	},
 	{
 		"fideid": 13505637,
@@ -10438,6 +10438,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13519662,
+		"name": "Brytsikau, Makar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1799,
+		"rating_rapid": 1785,
+		"rating_blitz": 1855
+	},
+	{
 		"fideid": 13517716,
 		"name": "Makunin, Gennady",
 		"country": "BLR",
@@ -10453,6 +10470,23 @@
 		"rating_standard": 1799,
 		"rating_rapid": null,
 		"rating_blitz": 1756
+	},
+	{
+		"fideid": 13514229,
+		"name": "Tsiuryn, Ilya",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1799,
+		"rating_rapid": 1796,
+		"rating_blitz": 1900
 	},
 	{
 		"fideid": 13511793,
@@ -10608,23 +10642,6 @@
 		"rating_blitz": 1759
 	},
 	{
-		"fideid": 13525255,
-		"name": "Luhinin, Maksim",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1794,
-		"rating_rapid": 1815,
-		"rating_blitz": 1768
-	},
-	{
 		"fideid": 13507184,
 		"name": "Muzyka, Alexandra",
 		"country": "BLR",
@@ -10687,10 +10704,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1792,
 		"rating_rapid": 1617,
-		"rating_blitz": 1697
+		"rating_blitz": 1725
 	},
 	{
 		"fideid": 13510908,
@@ -10846,21 +10863,21 @@
 		"rating_blitz": 1741
 	},
 	{
-		"fideid": 13514229,
-		"name": "Tsiuryn, Ilya",
+		"fideid": 13520385,
+		"name": "Borovikova, Marija",
 		"country": "BLR",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1786,
-		"rating_rapid": 1796,
-		"rating_blitz": 1949
+		"games": 2,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1785,
+		"rating_rapid": 1825,
+		"rating_blitz": 1856
 	},
 	{
 		"fideid": 13517503,
@@ -10897,23 +10914,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13500210,
-		"name": "Eidelson, Rakhil",
-		"country": "BLR",
-		"sex": "F",
-		"title": "WGM",
-		"w_title": "WGM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "w",
-		"rating_standard": 1784,
-		"rating_rapid": 1888,
-		"rating_blitz": 1783
-	},
-	{
 		"fideid": 13509276,
 		"name": "Bury, Yahor",
 		"country": "BLR",
@@ -10929,6 +10929,23 @@
 		"rating_standard": 1783,
 		"rating_rapid": 1847,
 		"rating_blitz": 1726
+	},
+	{
+		"fideid": 13500210,
+		"name": "Eidelson, Rakhil",
+		"country": "BLR",
+		"sex": "F",
+		"title": "WGM",
+		"w_title": "WGM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "w",
+		"rating_standard": 1783,
+		"rating_rapid": 1888,
+		"rating_blitz": 1783
 	},
 	{
 		"fideid": 13514083,
@@ -11058,7 +11075,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -11118,23 +11135,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13508636,
-		"name": "Sergey, Dmitriy",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1777,
-		"rating_rapid": 1814,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13503634,
 		"name": "Borisevich, Maxim",
 		"country": "BLR",
@@ -11186,6 +11186,23 @@
 		"rating_blitz": 1780
 	},
 	{
+		"fideid": 13506625,
+		"name": "Andreev, Eduard",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1947,
+		"flag": "",
+		"rating_standard": 1773,
+		"rating_rapid": 1894,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13511165,
 		"name": "Halouchyts, Karalina",
 		"country": "BLR",
@@ -11235,23 +11252,6 @@
 		"rating_standard": 1773,
 		"rating_rapid": 1759,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13532634,
-		"name": "Bartash, Saveli",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1772,
-		"rating_rapid": 1810,
-		"rating_blitz": 1843
 	},
 	{
 		"fideid": 13512331,
@@ -11356,6 +11356,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13527703,
+		"name": "Yemelyanau, Zakhar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1766,
+		"rating_rapid": 1895,
+		"rating_blitz": 1941
+	},
+	{
 		"fideid": 13517295,
 		"name": "Latan, Kiryl",
 		"country": "BLR",
@@ -11371,23 +11388,6 @@
 		"rating_standard": 1764,
 		"rating_rapid": 1704,
 		"rating_blitz": 1860
-	},
-	{
-		"fideid": 13527711,
-		"name": "Puchkouski, Arsenii",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1764,
-		"rating_rapid": 1702,
-		"rating_blitz": 1765
 	},
 	{
 		"fideid": 13509721,
@@ -11441,6 +11441,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13508636,
+		"name": "Sergey, Dmitriy",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1762,
+		"rating_rapid": 1814,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13507524,
 		"name": "Shostak, Gleb",
 		"country": "BLR",
@@ -11456,23 +11473,6 @@
 		"rating_standard": 1762,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13520920,
-		"name": "Sidorenja, Milena",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1762,
-		"rating_rapid": 1710,
-		"rating_blitz": 1784
 	},
 	{
 		"fideid": 13509489,
@@ -11543,21 +11543,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13505580,
-		"name": "Shakhadanau, Henadzi",
+		"fideid": 13528980,
+		"name": "Papou, Illia",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1953,
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1758,
-		"rating_rapid": 1761,
-		"rating_blitz": null
+		"rating_standard": 1759,
+		"rating_rapid": 1774,
+		"rating_blitz": 1883
 	},
 	{
 		"fideid": 13511742,
@@ -11575,23 +11575,6 @@
 		"rating_standard": 1758,
 		"rating_rapid": 1860,
 		"rating_blitz": 1831
-	},
-	{
-		"fideid": 13538594,
-		"name": "Ageev, Alexander",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1757,
-		"rating_rapid": 1495,
-		"rating_blitz": 1516
 	},
 	{
 		"fideid": 13512315,
@@ -11798,23 +11781,6 @@
 		"rating_blitz": 1776
 	},
 	{
-		"fideid": 13512544,
-		"name": "Tkachou, Viktar",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1751,
-		"rating_rapid": 1772,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13514172,
 		"name": "Karas, Andrei",
 		"country": "BLR",
@@ -11830,23 +11796,6 @@
 		"rating_standard": 1750,
 		"rating_rapid": 1706,
 		"rating_blitz": 1749
-	},
-	{
-		"fideid": 13523694,
-		"name": "Shuliak, Zakhar",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1749,
-		"rating_rapid": 1756,
-		"rating_blitz": 1760
 	},
 	{
 		"fideid": 13518364,
@@ -11934,6 +11883,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13527711,
+		"name": "Puchkouski, Arsenii",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1745,
+		"rating_rapid": 1702,
+		"rating_blitz": 1758
+	},
+	{
 		"fideid": 13508725,
 		"name": "Vaitsiakhouski, Yauheni",
 		"country": "BLR",
@@ -11966,40 +11932,6 @@
 		"rating_standard": 1743,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13530887,
-		"name": "Pytko, Lev",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1741,
-		"rating_rapid": 1697,
-		"rating_blitz": 1614
-	},
-	{
-		"fideid": 13527703,
-		"name": "Yemelyanau, Zakhar",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1741,
-		"rating_rapid": 1895,
-		"rating_blitz": 1868
 	},
 	{
 		"fideid": 13512307,
@@ -12053,23 +11985,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13513915,
-		"name": "Kasperovich, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1737,
-		"rating_rapid": 1682,
-		"rating_blitz": 1831
-	},
-	{
 		"fideid": 13521268,
 		"name": "Maslau, Ivan",
 		"country": "BLR",
@@ -12087,23 +12002,6 @@
 		"rating_blitz": 1789
 	},
 	{
-		"fideid": 13531875,
-		"name": "Bahdanovich, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1736,
-		"rating_rapid": 1706,
-		"rating_blitz": 1725
-	},
-	{
 		"fideid": 13529412,
 		"name": "Starodubets, Tsimofej",
 		"country": "BLR",
@@ -12118,7 +12016,7 @@
 		"flag": "",
 		"rating_standard": 1736,
 		"rating_rapid": 1770,
-		"rating_blitz": 1795
+		"rating_blitz": 1812
 	},
 	{
 		"fideid": 13528505,
@@ -12155,23 +12053,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13528980,
-		"name": "Papou, Illia",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1735,
-		"rating_rapid": 1774,
-		"rating_blitz": 1846
-	},
-	{
 		"fideid": 13522817,
 		"name": "Astapchyk, Darya",
 		"country": "BLR",
@@ -12204,6 +12085,23 @@
 		"rating_standard": 1734,
 		"rating_rapid": 1771,
 		"rating_blitz": 1817
+	},
+	{
+		"fideid": 13505580,
+		"name": "Shakhadanau, Henadzi",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1953,
+		"flag": "",
+		"rating_standard": 1734,
+		"rating_rapid": 1761,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13522701,
@@ -12359,6 +12257,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13530887,
+		"name": "Pytko, Lev",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1727,
+		"rating_rapid": 1697,
+		"rating_blitz": 1614
+	},
+	{
+		"fideid": 13532634,
+		"name": "Bartash, Saveli",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1726,
+		"rating_rapid": 1812,
+		"rating_blitz": 1843
+	},
+	{
 		"fideid": 13514865,
 		"name": "Stanishevskij, Aleksandr",
 		"country": "BLR",
@@ -12455,10 +12387,44 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1725,
 		"rating_rapid": 1704,
 		"rating_blitz": 1893
+	},
+	{
+		"fideid": 13513915,
+		"name": "Kasperovich, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1724,
+		"rating_rapid": 1682,
+		"rating_blitz": 1821
+	},
+	{
+		"fideid": 13531875,
+		"name": "Bahdanovich, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1723,
+		"rating_rapid": 1706,
+		"rating_blitz": 1725
 	},
 	{
 		"fideid": 13524615,
@@ -12614,6 +12580,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13512544,
+		"name": "Tkachou, Viktar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1719,
+		"rating_rapid": 1772,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13518593,
 		"name": "Gul, Galina",
 		"country": "BLR",
@@ -12628,6 +12611,23 @@
 		"flag": "wi",
 		"rating_standard": 1718,
 		"rating_rapid": 1716,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13517856,
+		"name": "Koliada, Aleksei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1718,
+		"rating_rapid": 1678,
 		"rating_blitz": null
 	},
 	{
@@ -12663,6 +12663,23 @@
 		"rating_standard": 1718,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13538594,
+		"name": "Ageev, Alexander",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1717,
+		"rating_rapid": 1495,
+		"rating_blitz": 1516
 	},
 	{
 		"fideid": 13515241,
@@ -12714,23 +12731,6 @@
 		"rating_standard": 1716,
 		"rating_rapid": 1730,
 		"rating_blitz": 1741
-	},
-	{
-		"fideid": 13517856,
-		"name": "Koliada, Aleksei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 1716,
-		"rating_rapid": 1678,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13526499,
@@ -12948,10 +12948,44 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1708,
 		"rating_rapid": 1737,
 		"rating_blitz": 1693
+	},
+	{
+		"fideid": 13533134,
+		"name": "Kazlou, Petr",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1708,
+		"rating_rapid": 1863,
+		"rating_blitz": 1755
+	},
+	{
+		"fideid": 13531298,
+		"name": "Astrovski, Roman",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1707,
+		"rating_rapid": 1786,
+		"rating_blitz": 1797
 	},
 	{
 		"fideid": 13510240,
@@ -12988,6 +13022,23 @@
 		"rating_blitz": 1718
 	},
 	{
+		"fideid": 13536559,
+		"name": "Damnitski, Uladzislau",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1706,
+		"rating_rapid": 1573,
+		"rating_blitz": 1527
+	},
+	{
 		"fideid": 13512358,
 		"name": "Zhukovich, Vasil",
 		"country": "BLR",
@@ -13019,7 +13070,7 @@
 		"flag": "wi",
 		"rating_standard": 1705,
 		"rating_rapid": 1710,
-		"rating_blitz": 1644
+		"rating_blitz": 1637
 	},
 	{
 		"fideid": 13523287,
@@ -13087,7 +13138,7 @@
 		"flag": "wi",
 		"rating_standard": 1704,
 		"rating_rapid": 1710,
-		"rating_blitz": 1884
+		"rating_blitz": 1835
 	},
 	{
 		"fideid": 13512137,
@@ -13105,23 +13156,6 @@
 		"rating_standard": 1704,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13535730,
-		"name": "Harlatau, Dzmitry",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1704,
-		"rating_rapid": 1691,
-		"rating_blitz": 1705
 	},
 	{
 		"fideid": 13502298,
@@ -13379,6 +13413,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13535501,
+		"name": "Shkred, Timofei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1696,
+		"rating_rapid": 1578,
+		"rating_blitz": 1578
+	},
+	{
 		"fideid": 13510207,
 		"name": "Makovskiy, Vladislav",
 		"country": "BLR",
@@ -13394,6 +13445,23 @@
 		"rating_standard": 1695,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13530658,
+		"name": "Tylkov, Timofey",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1694,
+		"rating_rapid": 1687,
+		"rating_blitz": 1720
 	},
 	{
 		"fideid": 13518372,
@@ -13413,6 +13481,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13529722,
+		"name": "Kandrashevich, Viachaslau",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1693,
+		"rating_rapid": 1458,
+		"rating_blitz": 1460
+	},
+	{
 		"fideid": 13507788,
 		"name": "Kashtelyan, Valentin",
 		"country": "BLR",
@@ -13430,6 +13515,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13519760,
+		"name": "Novik, Nikita",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1693,
+		"rating_rapid": 1780,
+		"rating_blitz": 1810
+	},
+	{
 		"fideid": 13531077,
 		"name": "Sarychev, Pavel",
 		"country": "BLR",
@@ -13444,7 +13546,7 @@
 		"flag": "i",
 		"rating_standard": 1693,
 		"rating_rapid": 1816,
-		"rating_blitz": 1798
+		"rating_blitz": 1845
 	},
 	{
 		"fideid": 13518089,
@@ -13549,23 +13651,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13527525,
-		"name": "Kholiusev, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1690,
-		"rating_rapid": 1716,
-		"rating_blitz": 1721
-	},
-	{
 		"fideid": 13529765,
 		"name": "Bandarenka, Artsiom",
 		"country": "BLR",
@@ -13598,23 +13683,6 @@
 		"rating_standard": 1689,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13527380,
-		"name": "Mrishchuk, Volodymyr",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1689,
-		"rating_rapid": 1586,
-		"rating_blitz": 1708
 	},
 	{
 		"fideid": 13515578,
@@ -13668,6 +13736,23 @@
 		"rating_blitz": 1629
 	},
 	{
+		"fideid": 13527380,
+		"name": "Mrishchuk, Volodymyr",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1688,
+		"rating_rapid": 1586,
+		"rating_blitz": 1708
+	},
+	{
 		"fideid": 13513214,
 		"name": "Gubko, Viacheslav",
 		"country": "BLR",
@@ -13683,23 +13768,6 @@
 		"rating_standard": 1687,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13533134,
-		"name": "Kazlou, Petr",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1687,
-		"rating_rapid": 1863,
-		"rating_blitz": 1755
 	},
 	{
 		"fideid": 13527878,
@@ -13785,23 +13853,6 @@
 		"rating_standard": 1686,
 		"rating_rapid": 1675,
 		"rating_blitz": 1672
-	},
-	{
-		"fideid": 13519875,
-		"name": "Unukouski, Aliaxandr",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1686,
-		"rating_rapid": 1725,
-		"rating_blitz": 1754
 	},
 	{
 		"fideid": 13518100,
@@ -13923,6 +13974,23 @@
 		"rating_blitz": 1623
 	},
 	{
+		"fideid": 13527525,
+		"name": "Kholiusev, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1683,
+		"rating_rapid": 1716,
+		"rating_blitz": 1720
+	},
+	{
 		"fideid": 13529854,
 		"name": "Shustsikau, Pavel",
 		"country": "BLR",
@@ -13974,23 +14042,6 @@
 		"rating_blitz": 1628
 	},
 	{
-		"fideid": 13529722,
-		"name": "Kandrashevich, Viachaslau",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1681,
-		"rating_rapid": 1455,
-		"rating_blitz": 1460
-	},
-	{
 		"fideid": 13512730,
 		"name": "Leonova, Ameliya",
 		"country": "BLR",
@@ -14040,6 +14091,23 @@
 		"rating_standard": 1680,
 		"rating_rapid": null,
 		"rating_blitz": 1644
+	},
+	{
+		"fideid": 13519875,
+		"name": "Unukouski, Aliaxandr",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1680,
+		"rating_rapid": 1725,
+		"rating_blitz": 1723
 	},
 	{
 		"fideid": 13529196,
@@ -14142,6 +14210,40 @@
 		"rating_standard": 1677,
 		"rating_rapid": 1642,
 		"rating_blitz": 1635
+	},
+	{
+		"fideid": 13530313,
+		"name": "Kakhno, Barys",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1676,
+		"rating_rapid": 1807,
+		"rating_blitz": 1807
+	},
+	{
+		"fideid": 13535110,
+		"name": "Nabiulina, Angelina",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1675,
+		"rating_rapid": 1634,
+		"rating_blitz": 1493
 	},
 	{
 		"fideid": 13537075,
@@ -14278,23 +14380,6 @@
 		"rating_standard": 1672,
 		"rating_rapid": 1708,
 		"rating_blitz": 1711
-	},
-	{
-		"fideid": 13526340,
-		"name": "Cheshko, Darya",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1671,
-		"rating_rapid": 1603,
-		"rating_blitz": 1597
 	},
 	{
 		"fideid": 13523902,
@@ -14484,23 +14569,6 @@
 		"rating_blitz": 1696
 	},
 	{
-		"fideid": 13521950,
-		"name": "Khakhlou, Arseni",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1667,
-		"rating_rapid": 1644,
-		"rating_blitz": 1597
-	},
-	{
 		"fideid": 13510665,
 		"name": "Korbut, Aleksandra",
 		"country": "BLR",
@@ -14509,7 +14577,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1999,
 		"flag": "w",
@@ -14580,7 +14648,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1969,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1665,
 		"rating_rapid": 1632,
 		"rating_blitz": null
@@ -14618,23 +14686,6 @@
 		"rating_standard": 1665,
 		"rating_rapid": 1624,
 		"rating_blitz": 1621
-	},
-	{
-		"fideid": 13521004,
-		"name": "Tsyhanou, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1665,
-		"rating_rapid": 1779,
-		"rating_blitz": 1686
 	},
 	{
 		"fideid": 13533940,
@@ -14688,6 +14739,23 @@
 		"rating_blitz": 1670
 	},
 	{
+		"fideid": 13521004,
+		"name": "Tsyhanou, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1664,
+		"rating_rapid": 1779,
+		"rating_blitz": 1704
+	},
+	{
 		"fideid": 13538055,
 		"name": "Sidarau, Nazar",
 		"country": "BLR",
@@ -14699,10 +14767,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1663,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13535730,
+		"name": "Harlatau, Dzmitry",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1662,
+		"rating_rapid": 1691,
+		"rating_blitz": 1705
 	},
 	{
 		"fideid": 13525271,
@@ -14784,7 +14869,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1970,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1661,
 		"rating_rapid": 1636,
 		"rating_blitz": 1640
@@ -14875,6 +14960,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13539248,
+		"name": "Myachin, Vadim",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 1657,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13516922,
 		"name": "Sharou, Filip",
 		"country": "BLR",
@@ -14940,7 +15042,7 @@
 		"flag": "wi",
 		"rating_standard": 1654,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1564
 	},
 	{
 		"fideid": 13523090,
@@ -15009,6 +15111,23 @@
 		"rating_standard": 1654,
 		"rating_rapid": 1642,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13538535,
+		"name": "Vasiluk Matvey",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1654,
+		"rating_rapid": 1748,
+		"rating_blitz": 1622
 	},
 	{
 		"fideid": 13513427,
@@ -15092,23 +15211,6 @@
 		"birthday": 2003,
 		"flag": "i",
 		"rating_standard": 1651,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13539248,
-		"name": "Myachin, Vadim",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 1962,
-		"flag": "",
-		"rating_standard": 1650,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -15317,6 +15419,23 @@
 		"rating_blitz": 1661
 	},
 	{
+		"fideid": 13521748,
+		"name": "Zubaryk, Maryia",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1644,
+		"rating_rapid": 1585,
+		"rating_blitz": 1570
+	},
+	{
 		"fideid": 13520601,
 		"name": "Tsiarletski, Yahor",
 		"country": "BLR",
@@ -15334,6 +15453,40 @@
 		"rating_blitz": 1545
 	},
 	{
+		"fideid": 13530321,
+		"name": "Bas, Marsel",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1642,
+		"rating_rapid": 1753,
+		"rating_blitz": 1762
+	},
+	{
+		"fideid": 13526340,
+		"name": "Cheshko, Darya",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1642,
+		"rating_rapid": 1603,
+		"rating_blitz": 1640
+	},
+	{
 		"fideid": 13512919,
 		"name": "Iljash, Miroslav",
 		"country": "BLR",
@@ -15348,23 +15501,6 @@
 		"flag": "i",
 		"rating_standard": 1642,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13536222,
-		"name": "Kotau, Aliaksandar",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 1642,
-		"rating_rapid": 1717,
 		"rating_blitz": null
 	},
 	{
@@ -15399,7 +15535,7 @@
 		"flag": "i",
 		"rating_standard": 1642,
 		"rating_rapid": 1637,
-		"rating_blitz": 1675
+		"rating_blitz": 1667
 	},
 	{
 		"fideid": 13512650,
@@ -15453,6 +15589,23 @@
 		"rating_blitz": 1818
 	},
 	{
+		"fideid": 13536222,
+		"name": "Kotau, Aliaksandar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "i",
+		"rating_standard": 1641,
+		"rating_rapid": 1717,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13513036,
 		"name": "Kravtsov, Dmitry",
 		"country": "BLR",
@@ -15502,23 +15655,6 @@
 		"rating_standard": 1640,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13535110,
-		"name": "Nabiulina, Angelina",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1640,
-		"rating_rapid": 1635,
-		"rating_blitz": 1535
 	},
 	{
 		"fideid": 13535307,
@@ -15674,23 +15810,6 @@
 		"rating_blitz": 1606
 	},
 	{
-		"fideid": 13528254,
-		"name": "Kryklivy, Tsimafei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1633,
-		"rating_rapid": 1604,
-		"rating_blitz": 1670
-	},
-	{
 		"fideid": 13515381,
 		"name": "Larin, Timofey",
 		"country": "BLR",
@@ -15742,21 +15861,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13519760,
-		"name": "Novik, Nikita",
+		"fideid": 13530488,
+		"name": "Yastrebov, Yaroslav",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": 1631,
-		"rating_rapid": 1780,
-		"rating_blitz": 1801
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1632,
+		"rating_rapid": 1736,
+		"rating_blitz": 1641
+	},
+	{
+		"fideid": 13537261,
+		"name": "Kazak, Siamion",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1629,
+		"rating_rapid": 1579,
+		"rating_blitz": 1546
 	},
 	{
 		"fideid": 13534289,
@@ -15963,23 +16099,6 @@
 		"rating_blitz": 1808
 	},
 	{
-		"fideid": 13511041,
-		"name": "Drobyshevsky, Vasily",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AGM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1625,
-		"rating_rapid": 1651,
-		"rating_blitz": 1596
-	},
-	{
 		"fideid": 13535196,
 		"name": "Matyskin, Maksim",
 		"country": "BLR",
@@ -16063,23 +16182,6 @@
 		"rating_standard": 1623,
 		"rating_rapid": 1633,
 		"rating_blitz": 1738
-	},
-	{
-		"fideid": 13530658,
-		"name": "Tylkov, Timofey",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1623,
-		"rating_rapid": 1687,
-		"rating_blitz": 1692
 	},
 	{
 		"fideid": 13512838,
@@ -16184,6 +16286,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13534041,
+		"name": "Podkopaev, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1620,
+		"rating_rapid": 1682,
+		"rating_blitz": 1856
+	},
+	{
 		"fideid": 13511530,
 		"name": "Pokuts, Ilia",
 		"country": "BLR",
@@ -16233,23 +16352,6 @@
 		"rating_standard": 1618,
 		"rating_rapid": 1690,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13530313,
-		"name": "Kakhno, Barys",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1618,
-		"rating_rapid": 1807,
-		"rating_blitz": 1856
 	},
 	{
 		"fideid": 13518097,
@@ -16422,6 +16524,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13535102,
+		"name": "Nabiulina, Albina",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1615,
+		"rating_rapid": 1562,
+		"rating_blitz": 1537
+	},
+	{
 		"fideid": 13513079,
 		"name": "Voiteshonok, Viacheslav",
 		"country": "BLR",
@@ -16524,6 +16643,23 @@
 		"rating_blitz": 1595
 	},
 	{
+		"fideid": 13535250,
+		"name": "Dubina, Yauheni",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1613,
+		"rating_rapid": 1843,
+		"rating_blitz": 1821
+	},
+	{
 		"fideid": 13530810,
 		"name": "Pishchyk, Mikalai",
 		"country": "BLR",
@@ -16592,23 +16728,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13536109,
-		"name": "Karpyza, Sofiya",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1611,
-		"rating_rapid": 1567,
-		"rating_blitz": 1454
-	},
-	{
 		"fideid": 13519425,
 		"name": "Patarocha, Ulyana",
 		"country": "BLR",
@@ -16641,6 +16760,23 @@
 		"rating_standard": 1610,
 		"rating_rapid": 1642,
 		"rating_blitz": 1620
+	},
+	{
+		"fideid": 13536109,
+		"name": "Karpyza, Sofiya",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1610,
+		"rating_rapid": 1567,
+		"rating_blitz": 1454
 	},
 	{
 		"fideid": 13537083,
@@ -16725,24 +16861,7 @@
 		"flag": "",
 		"rating_standard": 1607,
 		"rating_rapid": null,
-		"rating_blitz": 1680
-	},
-	{
-		"fideid": 13531298,
-		"name": "Astrovski, Roman",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1605,
-		"rating_rapid": 1786,
-		"rating_blitz": 1712
+		"rating_blitz": 1693
 	},
 	{
 		"fideid": 13535129,
@@ -16796,23 +16915,6 @@
 		"rating_blitz": 1611
 	},
 	{
-		"fideid": 13533908,
-		"name": "Knysh, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1604,
-		"rating_rapid": 1586,
-		"rating_blitz": 1641
-	},
-	{
 		"fideid": 13517325,
 		"name": "Sinkevich, Aliaksandr",
 		"country": "BLR",
@@ -16830,21 +16932,21 @@
 		"rating_blitz": 1609
 	},
 	{
-		"fideid": 13530488,
-		"name": "Yastrebov, Yaroslav",
+		"fideid": 13533002,
+		"name": "Kastornov, Yaromir",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1604,
-		"rating_rapid": 1736,
-		"rating_blitz": 1605
+		"rating_standard": 1603,
+		"rating_rapid": 1439,
+		"rating_blitz": 1406
 	},
 	{
 		"fideid": 13512234,
@@ -16881,6 +16983,23 @@
 		"rating_blitz": 1620
 	},
 	{
+		"fideid": 13521950,
+		"name": "Khakhlou, Arseni",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1602,
+		"rating_rapid": 1644,
+		"rating_blitz": 1597
+	},
+	{
 		"fideid": 13530291,
 		"name": "Piatrouski, Makar",
 		"country": "BLR",
@@ -16915,6 +17034,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13533908,
+		"name": "Knysh, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1600,
+		"rating_rapid": 1586,
+		"rating_blitz": 1607
+	},
+	{
+		"fideid": 13532855,
+		"name": "Martyniuk, Dzianis",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1600,
+		"rating_rapid": 1582,
+		"rating_blitz": 1498
+	},
+	{
 		"fideid": 13525050,
 		"name": "Asinski, Nikita",
 		"country": "BLR",
@@ -16947,6 +17100,23 @@
 		"rating_standard": 1599,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13538578,
+		"name": "Nartovich, Daminika",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1599,
+		"rating_rapid": null,
+		"rating_blitz": 1534
 	},
 	{
 		"fideid": 13515128,
@@ -16998,23 +17168,6 @@
 		"rating_standard": 1599,
 		"rating_rapid": 1652,
 		"rating_blitz": 1622
-	},
-	{
-		"fideid": 13532855,
-		"name": "Martyniuk, Dzianis",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1598,
-		"rating_rapid": 1582,
-		"rating_blitz": 1498
 	},
 	{
 		"fideid": 13516507,
@@ -17102,23 +17255,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13536559,
-		"name": "Damnitski, Uladzislau",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1596,
-		"rating_rapid": 1573,
-		"rating_blitz": 1599
-	},
-	{
 		"fideid": 13525220,
 		"name": "Koleda, Ivan",
 		"country": "BLR",
@@ -17204,6 +17340,23 @@
 		"rating_blitz": 1667
 	},
 	{
+		"fideid": 13529420,
+		"name": "Dmukhovskaya, Eva",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1594,
+		"rating_rapid": 1435,
+		"rating_blitz": 1441
+	},
+	{
 		"fideid": 13536036,
 		"name": "Khrystsin, Viachaslau",
 		"country": "BLR",
@@ -17255,23 +17408,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13527592,
-		"name": "Halavan, Uladzimir",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1593,
-		"rating_rapid": 1715,
-		"rating_blitz": 1802
-	},
-	{
 		"fideid": 13522930,
 		"name": "Tkachou, Pavel",
 		"country": "BLR",
@@ -17287,6 +17423,23 @@
 		"rating_standard": 1593,
 		"rating_rapid": 1533,
 		"rating_blitz": 1586
+	},
+	{
+		"fideid": 13527592,
+		"name": "Halavan, Uladzimir",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1592,
+		"rating_rapid": 1715,
+		"rating_blitz": 1787
 	},
 	{
 		"fideid": 13516825,
@@ -17355,23 +17508,6 @@
 		"rating_standard": 1590,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13535250,
-		"name": "Dubina, Yauheni",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1590,
-		"rating_rapid": 1842,
-		"rating_blitz": 1809
 	},
 	{
 		"fideid": 13510258,
@@ -17476,23 +17612,6 @@
 		"rating_blitz": 1763
 	},
 	{
-		"fideid": 13538578,
-		"name": "Nartovich, Daminika",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1588,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13520865,
 		"name": "Zaruba, Anfisa",
 		"country": "BLR",
@@ -17572,7 +17691,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1586,
 		"rating_rapid": 1600,
 		"rating_blitz": 1502
@@ -17595,6 +17714,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13528254,
+		"name": "Kryklivy, Tsimafei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1585,
+		"rating_rapid": 1604,
+		"rating_blitz": 1764
+	},
+	{
 		"fideid": 13535587,
 		"name": "Pashkevich, Dzmitry",
 		"country": "BLR",
@@ -17607,26 +17743,9 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1586,
+		"rating_standard": 1585,
 		"rating_rapid": 1598,
 		"rating_blitz": 1599
-	},
-	{
-		"fideid": 13540467,
-		"name": "Bakanau, Aliaksandr",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1585,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13512048,
@@ -17646,23 +17765,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13531930,
-		"name": "Siarkou, Aliaksandr",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 1585,
-		"rating_rapid": 1623,
-		"rating_blitz": 1511
-	},
-	{
 		"fideid": 13513621,
 		"name": "Zinevich, Anastasiya",
 		"country": "BLR",
@@ -17676,6 +17778,23 @@
 		"birthday": 2001,
 		"flag": "wi",
 		"rating_standard": 1585,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13540467,
+		"name": "Bakanau, Aliaksandr",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1584,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -17742,7 +17861,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1584,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -17797,6 +17916,23 @@
 		"rating_standard": 1582,
 		"rating_rapid": 1599,
 		"rating_blitz": 1554
+	},
+	{
+		"fideid": 13511041,
+		"name": "Drobyshevsky, Vasily",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AGM",
+		"games": 8,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 1582,
+		"rating_rapid": 1651,
+		"rating_blitz": 1562
 	},
 	{
 		"fideid": 13538144,
@@ -18031,10 +18167,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1950,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1579,
 		"rating_rapid": 1713,
 		"rating_blitz": 1645
+	},
+	{
+		"fideid": 13537253,
+		"name": "Darafeyeu\t, Viachaslau",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1578,
+		"rating_rapid": 1765,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13529102,
@@ -18156,23 +18309,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13533002,
-		"name": "Kastornov, Yaromir",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1576,
-		"rating_rapid": 1439,
-		"rating_blitz": 1406
-	},
-	{
 		"fideid": 13514245,
 		"name": "Kulazhanka, Yaroslav",
 		"country": "BLR",
@@ -18207,23 +18343,6 @@
 		"rating_blitz": 1638
 	},
 	{
-		"fideid": 13534041,
-		"name": "Podkopaev, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1576,
-		"rating_rapid": 1679,
-		"rating_blitz": 1794
-	},
-	{
 		"fideid": 13520369,
 		"name": "Shaleinikau, Matsvei",
 		"country": "BLR",
@@ -18241,23 +18360,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13529625,
-		"name": "Volkov, Yan",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1576,
-		"rating_rapid": 1690,
-		"rating_blitz": 1701
-	},
-	{
 		"fideid": 13514008,
 		"name": "Yurkovskaya, Ekaterina",
 		"country": "BLR",
@@ -18273,23 +18375,6 @@
 		"rating_standard": 1576,
 		"rating_rapid": 1530,
 		"rating_blitz": 1572
-	},
-	{
-		"fideid": 13521748,
-		"name": "Zubaryk, Maryia",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1576,
-		"rating_rapid": 1585,
-		"rating_blitz": 1568
 	},
 	{
 		"fideid": 13519115,
@@ -18326,21 +18411,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13535501,
-		"name": "Shkred, Timofei",
+		"fideid": 13529625,
+		"name": "Volkov, Yan",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1574,
-		"rating_rapid": 1578,
-		"rating_blitz": 1564
+		"rating_standard": 1575,
+		"rating_rapid": 1690,
+		"rating_blitz": 1701
 	},
 	{
 		"fideid": 13526235,
@@ -18358,6 +18443,23 @@
 		"rating_standard": 1573,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13536591,
+		"name": "Kazhukhar, Varvara",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1572,
+		"rating_rapid": 1453,
+		"rating_blitz": 1416
 	},
 	{
 		"fideid": 13522515,
@@ -18428,38 +18530,21 @@
 		"rating_blitz": 1583
 	},
 	{
-		"fideid": 13533886,
-		"name": "Milyanenka, Danila",
+		"fideid": 13531930,
+		"name": "Siarkou, Aliaksandr",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
+		"games": 6,
+		"k": 20,
+		"birthday": 1974,
 		"flag": "",
 		"rating_standard": 1571,
-		"rating_rapid": 1515,
-		"rating_blitz": 1614
-	},
-	{
-		"fideid": 13529420,
-		"name": "Dmukhovskaya, Eva",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1570,
-		"rating_rapid": 1434,
-		"rating_blitz": 1441
+		"rating_rapid": 1623,
+		"rating_blitz": 1535
 	},
 	{
 		"fideid": 13519719,
@@ -18477,40 +18562,6 @@
 		"rating_standard": 1570,
 		"rating_rapid": 1548,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13537989,
-		"name": "Sazonau, Dzmitry",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1570,
-		"rating_rapid": null,
-		"rating_blitz": 1594
-	},
-	{
-		"fideid": 13535811,
-		"name": "Tastahan, Daniil",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1570,
-		"rating_rapid": 1526,
-		"rating_blitz": 1637
 	},
 	{
 		"fideid": 13529480,
@@ -18598,6 +18649,23 @@
 		"rating_blitz": 1609
 	},
 	{
+		"fideid": 13535811,
+		"name": "Tastahan, Daniil",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1569,
+		"rating_rapid": 1531,
+		"rating_blitz": 1637
+	},
+	{
 		"fideid": 13515306,
 		"name": "Tsishkou, Dzmitry",
 		"country": "BLR",
@@ -18674,13 +18742,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1568,
 		"rating_rapid": 1604,
-		"rating_blitz": 1639
+		"rating_blitz": 1745
 	},
 	{
 		"fideid": 13530011,
@@ -18700,6 +18768,23 @@
 		"rating_blitz": 1499
 	},
 	{
+		"fideid": 13537989,
+		"name": "Sazonau, Dzmitry",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": 1568,
+		"rating_rapid": null,
+		"rating_blitz": 1594
+	},
+	{
 		"fideid": 13523236,
 		"name": "Kandarevich, Nikita",
 		"country": "BLR",
@@ -18714,7 +18799,7 @@
 		"flag": "",
 		"rating_standard": 1567,
 		"rating_rapid": 1677,
-		"rating_blitz": 1630
+		"rating_blitz": 1671
 	},
 	{
 		"fideid": 13522469,
@@ -18764,7 +18849,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1566,
-		"rating_rapid": 1625,
+		"rating_rapid": 1624,
 		"rating_blitz": 1613
 	},
 	{
@@ -18836,6 +18921,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13533096,
+		"name": "Radiukevich, Viacheslau",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1563,
+		"rating_rapid": 1460,
+		"rating_blitz": 1601
+	},
+	{
 		"fideid": 13533169,
 		"name": "Teterev, Ivan",
 		"country": "BLR",
@@ -18848,9 +18950,9 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1564,
+		"rating_standard": 1563,
 		"rating_rapid": 1456,
-		"rating_blitz": 1480
+		"rating_blitz": 1558
 	},
 	{
 		"fideid": 13530577,
@@ -19000,7 +19102,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1979,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1558,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -19074,23 +19176,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13535234,
-		"name": "Abakunchyk, Akim",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1555,
-		"rating_rapid": 1591,
-		"rating_blitz": 1554
-	},
-	{
 		"fideid": 13519476,
 		"name": "Avdevich, Svetlana",
 		"country": "BLR",
@@ -19157,23 +19242,6 @@
 		"rating_standard": 1555,
 		"rating_rapid": 1607,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13534785,
-		"name": "Shuhalo, Dziyana",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1555,
-		"rating_rapid": 1471,
-		"rating_blitz": 1636
 	},
 	{
 		"fideid": 13523279,
@@ -19278,6 +19346,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13534785,
+		"name": "Shuhalo, Dziyana",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1553,
+		"rating_rapid": 1470,
+		"rating_blitz": 1636
+	},
+	{
 		"fideid": 13533533,
 		"name": "Skibar, Alesya",
 		"country": "BLR",
@@ -19380,21 +19465,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13530321,
-		"name": "Bas, Marsel",
+		"fideid": 13530283,
+		"name": "Boika, Aliaksandr",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1550,
-		"rating_rapid": 1753,
-		"rating_blitz": 1669
+		"rating_standard": 1549,
+		"rating_rapid": 1621,
+		"rating_blitz": 1684
 	},
 	{
 		"fideid": 13525557,
@@ -19429,23 +19514,6 @@
 		"rating_standard": 1549,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13534815,
-		"name": "Zakharenko, Varvara",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1549,
-		"rating_rapid": 1632,
-		"rating_blitz": 1594
 	},
 	{
 		"fideid": 13530585,
@@ -19516,6 +19584,23 @@
 		"rating_blitz": 1678
 	},
 	{
+		"fideid": 13534815,
+		"name": "Zakharenko, Varvara",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1548,
+		"rating_rapid": 1632,
+		"rating_blitz": 1594
+	},
+	{
 		"fideid": 13518763,
 		"name": "Levochkin, Alexandr",
 		"country": "BLR",
@@ -19567,23 +19652,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13535102,
-		"name": "Nabiulina, Albina",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1546,
-		"rating_rapid": 1562,
-		"rating_blitz": 1447
-	},
-	{
 		"fideid": 13535846,
 		"name": "Ramanovich, Uladzislau",
 		"country": "BLR",
@@ -19596,9 +19664,26 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1546,
+		"rating_standard": 1545,
 		"rating_rapid": 1616,
 		"rating_blitz": 1551
+	},
+	{
+		"fideid": 13536907,
+		"name": "Razantsau, Pavel",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1545,
+		"rating_rapid": null,
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 13527266,
@@ -19615,24 +19700,7 @@
 		"flag": "",
 		"rating_standard": 1544,
 		"rating_rapid": 1521,
-		"rating_blitz": 1576
-	},
-	{
-		"fideid": 13536907,
-		"name": "Razantsau, Pavel",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1544,
-		"rating_rapid": null,
-		"rating_blitz": 1453
+		"rating_blitz": 1575
 	},
 	{
 		"fideid": 13522485,
@@ -19650,6 +19718,23 @@
 		"rating_standard": 1543,
 		"rating_rapid": 1584,
 		"rating_blitz": 1613
+	},
+	{
+		"fideid": 13522396,
+		"name": "Kharitonchik, Nikolay",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1543,
+		"rating_rapid": 1523,
+		"rating_blitz": 1495
 	},
 	{
 		"fideid": 13530607,
@@ -19720,6 +19805,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13536214,
+		"name": "Makutin, Gleb",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1542,
+		"rating_rapid": 1493,
+		"rating_blitz": 1462
+	},
+	{
 		"fideid": 13527037,
 		"name": "Ovdienko, Illia",
 		"country": "BLR",
@@ -19754,40 +19856,6 @@
 		"rating_blitz": 1647
 	},
 	{
-		"fideid": 13528840,
-		"name": "Berillo, Pavel",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1540,
-		"rating_rapid": 1594,
-		"rating_blitz": 1413
-	},
-	{
-		"fideid": 13522396,
-		"name": "Kharitonchik, Nikolay",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1540,
-		"rating_rapid": 1523,
-		"rating_blitz": 1495
-	},
-	{
 		"fideid": 13529374,
 		"name": "Leonov, Egor",
 		"country": "BLR",
@@ -19803,23 +19871,6 @@
 		"rating_standard": 1540,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13536214,
-		"name": "Makutin, Gleb",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1540,
-		"rating_rapid": 1493,
-		"rating_blitz": 1462
 	},
 	{
 		"fideid": 13535404,
@@ -19839,6 +19890,23 @@
 		"rating_blitz": 1777
 	},
 	{
+		"fideid": 13533150,
+		"name": "Rak, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1539,
+		"rating_rapid": 1563,
+		"rating_blitz": 1511
+	},
+	{
 		"fideid": 13532456,
 		"name": "Bedz, Adryian",
 		"country": "BLR",
@@ -19854,6 +19922,23 @@
 		"rating_standard": 1538,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13528840,
+		"name": "Berillo, Pavel",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1538,
+		"rating_rapid": 1597,
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 13523678,
@@ -19873,21 +19958,38 @@
 		"rating_blitz": 1480
 	},
 	{
-		"fideid": 13537415,
-		"name": "Trukhan, Nadzeya",
+		"fideid": 13533886,
+		"name": "Milyanenka, Danila",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1538,
+		"rating_rapid": 1515,
+		"rating_blitz": 1538
+	},
+	{
+		"fideid": 13531670,
+		"name": "Prakharenka, Raman",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1538,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1595,
+		"rating_blitz": 1671
 	},
 	{
 		"fideid": 13523589,
@@ -19956,6 +20058,23 @@
 		"rating_standard": 1537,
 		"rating_rapid": 1594,
 		"rating_blitz": 1564
+	},
+	{
+		"fideid": 13537415,
+		"name": "Trukhan, Nadzeya",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1537,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13523201,
@@ -20043,6 +20162,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13517830,
+		"name": "Grushchenkova, Varvara",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1535,
+		"rating_rapid": 1471,
+		"rating_blitz": 1501
+	},
+	{
 		"fideid": 13533860,
 		"name": "Zakharin, Mikhail",
 		"country": "BLR",
@@ -20060,21 +20196,21 @@
 		"rating_blitz": 1558
 	},
 	{
-		"fideid": 13517830,
-		"name": "Grushchenkova, Varvara",
+		"fideid": 13535803,
+		"name": "Shyshko, Vsevolod",
 		"country": "BLR",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": 1533,
-		"rating_rapid": 1471,
-		"rating_blitz": 1530
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1534,
+		"rating_rapid": 1530,
+		"rating_blitz": 1419
 	},
 	{
 		"fideid": 13515250,
@@ -20175,8 +20311,25 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1532,
-		"rating_rapid": 1559,
+		"rating_rapid": 1558,
 		"rating_blitz": 1653
+	},
+	{
+		"fideid": 13531107,
+		"name": "Zhylchyk, Mark",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1532,
+		"rating_rapid": 1453,
+		"rating_blitz": 1460
 	},
 	{
 		"fideid": 13530372,
@@ -20192,7 +20345,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1531,
-		"rating_rapid": 1479,
+		"rating_rapid": 1478,
 		"rating_blitz": 1529
 	},
 	{
@@ -20224,7 +20377,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1530,
 		"rating_rapid": 1481,
 		"rating_blitz": 1669
@@ -20366,23 +20519,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13531670,
-		"name": "Prakharenka, Raman",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1527,
-		"rating_rapid": 1595,
-		"rating_blitz": 1583
-	},
-	{
 		"fideid": 13517961,
 		"name": "Bayarchuk,Aryna",
 		"country": "BLR",
@@ -20434,40 +20570,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13516892,
-		"name": "Radzko, Tatsiana",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1526,
-		"rating_rapid": 1627,
-		"rating_blitz": 1627
-	},
-	{
-		"fideid": 13533096,
-		"name": "Radiukevich, Viacheslau",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1525,
-		"rating_rapid": 1460,
-		"rating_blitz": 1609
-	},
-	{
 		"fideid": 13513338,
 		"name": "Taraikovski Mikhail",
 		"country": "BLR",
@@ -20485,21 +20587,38 @@
 		"rating_blitz": 1602
 	},
 	{
-		"fideid": 13527479,
-		"name": "Zhurauski, Michael",
+		"fideid": 13533665,
+		"name": "Antonau, Platon",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1524,
-		"rating_rapid": 1578,
-		"rating_blitz": 1518
+		"rating_rapid": 1582,
+		"rating_blitz": 1514
+	},
+	{
+		"fideid": 13539450,
+		"name": "Podgayskiy, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1524,
+		"rating_rapid": 1453,
+		"rating_blitz": 1520
 	},
 	{
 		"fideid": 13538187,
@@ -20510,7 +20629,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -20570,23 +20689,6 @@
 		"rating_blitz": 1521
 	},
 	{
-		"fideid": 13536176,
-		"name": "Nemogai, Vladimir",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1522,
-		"rating_rapid": 1418,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13515292,
 		"name": "Shilo, Tsimofei",
 		"country": "BLR",
@@ -20604,6 +20706,23 @@
 		"rating_blitz": 1582
 	},
 	{
+		"fideid": 13537792,
+		"name": "Kalanchuk, Vasili",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1520,
+		"rating_rapid": 1503,
+		"rating_blitz": 1551
+	},
+	{
 		"fideid": 13530437,
 		"name": "Kaliadzich, Ksenija",
 		"country": "BLR",
@@ -20619,6 +20738,23 @@
 		"rating_standard": 1520,
 		"rating_rapid": 1498,
 		"rating_blitz": 1570
+	},
+	{
+		"fideid": 13527479,
+		"name": "Zhurauski, Michael",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1520,
+		"rating_rapid": 1581,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 13522884,
@@ -20740,6 +20876,23 @@
 		"rating_blitz": 1495
 	},
 	{
+		"fideid": 13538624,
+		"name": "Papleuka, Viktar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1516,
+		"rating_rapid": null,
+		"rating_blitz": 1549
+	},
+	{
 		"fideid": 13513320,
 		"name": "Shaida Gennadi",
 		"country": "BLR",
@@ -20808,6 +20961,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13533266,
+		"name": "Yakavenka, Daniil",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1513,
+		"rating_rapid": 1553,
+		"rating_blitz": 1558
+	},
+	{
 		"fideid": 13538276,
 		"name": "Khainiuk, Yauheni",
 		"country": "BLR",
@@ -20842,8 +21012,8 @@
 		"rating_blitz": 1520
 	},
 	{
-		"fideid": 13522213,
-		"name": "Baran, Mikhail",
+		"fideid": 13538284,
+		"name": "Ulasenka, Daniil",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
@@ -20852,11 +21022,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1511,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_standard": 1512,
+		"rating_rapid": 1456,
+		"rating_blitz": 1505
 	},
 	{
 		"fideid": 13534084,
@@ -21012,40 +21182,6 @@
 		"rating_blitz": 1486
 	},
 	{
-		"fideid": 13538284,
-		"name": "Ulasenka, Daniil",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1509,
-		"rating_rapid": 1453,
-		"rating_blitz": 1505
-	},
-	{
-		"fideid": 13537792,
-		"name": "Kalanchuk, Vasili",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1508,
-		"rating_rapid": null,
-		"rating_blitz": 1525
-	},
-	{
 		"fideid": 13526456,
 		"name": "Siamionava Hanna",
 		"country": "BLR",
@@ -21131,6 +21267,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13526553,
+		"name": "Lamaka, Sofiya",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1506,
+		"rating_rapid": 1429,
+		"rating_blitz": 1412
+	},
+	{
+		"fideid": 13522213,
+		"name": "Baran, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1505,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13516930,
 		"name": "Bialevich, Maryia",
 		"country": "BLR",
@@ -21182,21 +21352,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13526553,
-		"name": "Lamaka, Sofiya",
+		"fideid": 13516892,
+		"name": "Radzko, Tatsiana",
 		"country": "BLR",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2007,
 		"flag": "w",
 		"rating_standard": 1505,
-		"rating_rapid": 1429,
-		"rating_blitz": 1412
+		"rating_rapid": 1627,
+		"rating_blitz": 1627
 	},
 	{
 		"fideid": 13513095,
@@ -21231,23 +21401,6 @@
 		"rating_standard": 1504,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13533150,
-		"name": "Rak, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1504,
-		"rating_rapid": 1563,
-		"rating_blitz": 1577
 	},
 	{
 		"fideid": 13532898,
@@ -21318,6 +21471,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13528246,
+		"name": "Padasinavik, Yana",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1503,
+		"rating_rapid": 1577,
+		"rating_blitz": 1586
+	},
+	{
 		"fideid": 13523325,
 		"name": "Turchyna, Volha",
 		"country": "BLR",
@@ -21352,38 +21522,21 @@
 		"rating_blitz": 1440
 	},
 	{
-		"fideid": 13528246,
-		"name": "Padasinavik, Yana",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": 1502,
-		"rating_rapid": 1577,
-		"rating_blitz": 1586
-	},
-	{
-		"fideid": 13530283,
-		"name": "Boika, Aliaksandr",
+		"fideid": 13536346,
+		"name": "Andrukhovich, Dmitri",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 14,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1501,
-		"rating_rapid": 1621,
-		"rating_blitz": 1704
+		"rating_rapid": null,
+		"rating_blitz": 1490
 	},
 	{
 		"fideid": 13531220,
@@ -21417,23 +21570,6 @@
 		"flag": "i",
 		"rating_standard": 1501,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13536184,
-		"name": "Sauchyk, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": 1501,
-		"rating_rapid": 1534,
 		"rating_blitz": null
 	},
 	{
@@ -21522,6 +21658,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13539957,
+		"name": "Tarasevich, Ivan",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1498,
+		"rating_rapid": 1551,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13535382,
 		"name": "Yazykova, Alina",
 		"country": "BLR",
@@ -21573,23 +21726,6 @@
 		"rating_blitz": 1543
 	},
 	{
-		"fideid": 13539426,
-		"name": "Nazarau, Ivan",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1496,
-		"rating_rapid": 1594,
-		"rating_blitz": 1516
-	},
-	{
 		"fideid": 13535420,
 		"name": "Darafeyuk, Kanstantsin",
 		"country": "BLR",
@@ -21622,6 +21758,23 @@
 		"rating_standard": 1495,
 		"rating_rapid": 1580,
 		"rating_blitz": 1692
+	},
+	{
+		"fideid": 13539426,
+		"name": "Nazarau, Ivan",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1495,
+		"rating_rapid": 1594,
+		"rating_blitz": 1451
 	},
 	{
 		"fideid": 13522582,
@@ -21726,6 +21879,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13537741,
+		"name": "Stavro, Markel",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1491,
+		"rating_rapid": 1453,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13520563,
 		"name": "Yorsh, Aliaksei",
 		"country": "BLR",
@@ -21755,25 +21925,8 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1490,
+		"rating_standard": 1488,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13539957,
-		"name": "Tarasevich, Ivan",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1489,
-		"rating_rapid": 1521,
 		"rating_blitz": null
 	},
 	{
@@ -21794,23 +21947,6 @@
 		"rating_blitz": 1473
 	},
 	{
-		"fideid": 13537741,
-		"name": "Stavro, Markel",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 1488,
-		"rating_rapid": 1453,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13526219,
 		"name": "Vialuhina, Anastasia",
 		"country": "BLR",
@@ -21825,6 +21961,40 @@
 		"flag": "i",
 		"rating_standard": 1488,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13536745,
+		"name": "Yakovleva, Katrina",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1488,
+		"rating_rapid": 1568,
+		"rating_blitz": 1556
+	},
+	{
+		"fideid": 13536176,
+		"name": "Nemogai, Vladimir",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": 1487,
+		"rating_rapid": 1418,
 		"rating_blitz": null
 	},
 	{
@@ -21845,21 +22015,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13536745,
-		"name": "Yakovleva, Katrina",
+		"fideid": 13536184,
+		"name": "Sauchyk, Andrei",
 		"country": "BLR",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1487,
-		"rating_rapid": 1567,
-		"rating_blitz": 1556
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1486,
+		"rating_rapid": 1534,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13522680,
@@ -21910,23 +22080,6 @@
 		"flag": "i",
 		"rating_standard": 1484,
 		"rating_rapid": 1618,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13537393,
-		"name": "Valasiuk, Maya",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1484,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -22032,6 +22185,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13537393,
+		"name": "Valasiuk, Maya",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1483,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13517457,
 		"name": "Zianevich, Uliana",
 		"country": "BLR",
@@ -22049,6 +22219,23 @@
 		"rating_blitz": 1588
 	},
 	{
+		"fideid": 13535897,
+		"name": "Korneevets, Anastasia",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1482,
+		"rating_rapid": 1509,
+		"rating_blitz": 1483
+	},
+	{
 		"fideid": 13519174,
 		"name": "Kurganov, Maksim",
 		"country": "BLR",
@@ -22064,6 +22251,40 @@
 		"rating_standard": 1482,
 		"rating_rapid": null,
 		"rating_blitz": 1510
+	},
+	{
+		"fideid": 13538225,
+		"name": "Babko, Uladzimir",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 1481,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13535234,
+		"name": "Abakunchyk, Akim",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1479,
+		"rating_rapid": 1591,
+		"rating_blitz": 1554
 	},
 	{
 		"fideid": 13535854,
@@ -22131,24 +22352,7 @@
 		"flag": "",
 		"rating_standard": 1478,
 		"rating_rapid": 1476,
-		"rating_blitz": 1573
-	},
-	{
-		"fideid": 13535897,
-		"name": "Korneevets, Anastasia",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1478,
-		"rating_rapid": 1509,
-		"rating_blitz": 1483
+		"rating_blitz": 1531
 	},
 	{
 		"fideid": 13528513,
@@ -22162,10 +22366,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1477,
 		"rating_rapid": 1529,
 		"rating_blitz": 1535
+	},
+	{
+		"fideid": 13534726,
+		"name": "Koliadov, Ivan",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1477,
+		"rating_rapid": 1437,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13526260,
@@ -22231,7 +22452,7 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1474,
+		"rating_standard": 1473,
 		"rating_rapid": 1486,
 		"rating_blitz": 1629
 	},
@@ -22423,40 +22644,6 @@
 		"rating_blitz": 1491
 	},
 	{
-		"fideid": 13527959,
-		"name": "Vavilau, Arseni",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1467,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13540360,
-		"name": "Bodak, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1466,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13529129,
 		"name": "Gribov, Pavel",
 		"country": "BLR",
@@ -22489,6 +22676,23 @@
 		"rating_standard": 1466,
 		"rating_rapid": null,
 		"rating_blitz": 1428
+	},
+	{
+		"fideid": 13529579,
+		"name": "Loyanich, Artemiy",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1466,
+		"rating_rapid": 1487,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13534017,
@@ -22525,6 +22729,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13540360,
+		"name": "Bodak, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1465,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13537024,
+		"name": "Fedotova, Anastasia",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1465,
+		"rating_rapid": 1586,
+		"rating_blitz": 1502
+	},
+	{
 		"fideid": 13516159,
 		"name": "Vavulina, Veronika",
 		"country": "BLR",
@@ -22539,23 +22777,6 @@
 		"flag": "i",
 		"rating_standard": 1465,
 		"rating_rapid": 1465,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13537857,
-		"name": "Sakhanchuk, Mikita",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1464,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -22593,6 +22814,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13537270,
+		"name": "Kazlou, Albert",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1462,
+		"rating_rapid": 1552,
+		"rating_blitz": 1527
+	},
+	{
 		"fideid": 13530518,
 		"name": "Sheleg, Mihail",
 		"country": "BLR",
@@ -22604,10 +22842,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1462,
 		"rating_rapid": 1439,
 		"rating_blitz": 1420
+	},
+	{
+		"fideid": 13537857,
+		"name": "Sakhanchuk, Mikita",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": 1461,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13533916,
@@ -22695,23 +22950,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13539876,
-		"name": "Dymant, Raman",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1458,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13530453,
 		"name": "Erovikova, Anna",
 		"country": "BLR",
@@ -22780,6 +23018,23 @@
 		"rating_blitz": 1416
 	},
 	{
+		"fideid": 13539876,
+		"name": "Dymant, Raman",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1457,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13533525,
 		"name": "Gerasimuk, Viktoriya",
 		"country": "BLR",
@@ -22795,40 +23050,6 @@
 		"rating_standard": 1457,
 		"rating_rapid": 1401,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13535340,
-		"name": "Meleshko, Varvara",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1457,
-		"rating_rapid": 1480,
-		"rating_blitz": 1447
-	},
-	{
-		"fideid": 13533665,
-		"name": "Antonau, Platon",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1456,
-		"rating_rapid": 1584,
-		"rating_blitz": 1479
 	},
 	{
 		"fideid": 13539582,
@@ -22863,23 +23084,6 @@
 		"rating_standard": 1454,
 		"rating_rapid": 1448,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13534343,
-		"name": "Yadzievich, Mark",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1454,
-		"rating_rapid": 1555,
-		"rating_blitz": 1492
 	},
 	{
 		"fideid": 13522400,
@@ -22984,6 +23188,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13534343,
+		"name": "Yadzievich, Mark",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1452,
+		"rating_rapid": 1555,
+		"rating_blitz": 1492
+	},
+	{
 		"fideid": 13524941,
 		"name": "Lebedz, Saveli",
 		"country": "BLR",
@@ -22999,6 +23220,23 @@
 		"rating_standard": 1451,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13537008,
+		"name": "Levashkevich, Afanasi",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1451,
+		"rating_rapid": 1433,
+		"rating_blitz": 1512
 	},
 	{
 		"fideid": 13527746,
@@ -23052,23 +23290,6 @@
 		"rating_blitz": 1474
 	},
 	{
-		"fideid": 13531301,
-		"name": "Golubev, Ilya",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1450,
-		"rating_rapid": 1484,
-		"rating_blitz": 1512
-	},
-	{
 		"fideid": 13531727,
 		"name": "Kamisarau, Maksim",
 		"country": "BLR",
@@ -23086,6 +23307,23 @@
 		"rating_blitz": 1416
 	},
 	{
+		"fideid": 13535340,
+		"name": "Meleshko, Varvara",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1450,
+		"rating_rapid": 1474,
+		"rating_blitz": 1447
+	},
+	{
 		"fideid": 13524720,
 		"name": "Melnichenka, Adelina",
 		"country": "BLR",
@@ -23101,6 +23339,23 @@
 		"rating_standard": 1450,
 		"rating_rapid": 1480,
 		"rating_blitz": 1435
+	},
+	{
+		"fideid": 13528343,
+		"name": "Makarychev, Artem",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1449,
+		"rating_rapid": 1534,
+		"rating_blitz": 1455
 	},
 	{
 		"fideid": 13525786,
@@ -23150,7 +23405,7 @@
 		"birthday": 2006,
 		"flag": "wi",
 		"rating_standard": 1448,
-		"rating_rapid": 1529,
+		"rating_rapid": 1528,
 		"rating_blitz": 1554
 	},
 	{
@@ -23171,8 +23426,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13537008,
-		"name": "Levashkevich, Afanasi",
+		"fideid": 13527959,
+		"name": "Vavilau, Arseni",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
@@ -23183,9 +23438,9 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1447,
-		"rating_rapid": 1433,
-		"rating_blitz": 1526
+		"rating_standard": 1448,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13518470,
@@ -23222,6 +23477,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13530143,
+		"name": "Kirylovich, Aliaksei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1444,
+		"rating_rapid": null,
+		"rating_blitz": 1424
+	},
+	{
 		"fideid": 13533967,
 		"name": "Kuzmitski, Aliaksei",
 		"country": "BLR",
@@ -23237,40 +23509,6 @@
 		"rating_standard": 1444,
 		"rating_rapid": 1570,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13528343,
-		"name": "Makarychev, Artem",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1444,
-		"rating_rapid": 1535,
-		"rating_blitz": 1455
-	},
-	{
-		"fideid": 13533266,
-		"name": "Yakavenka, Daniil",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1444,
-		"rating_rapid": 1553,
-		"rating_blitz": 1522
 	},
 	{
 		"fideid": 13520954,
@@ -23290,23 +23528,6 @@
 		"rating_blitz": 1508
 	},
 	{
-		"fideid": 13526405,
-		"name": "Bohush, Kseniya",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1442,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13519239,
 		"name": "Tereshko, Daniil",
 		"country": "BLR",
@@ -23320,6 +23541,23 @@
 		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": 1442,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13526405,
+		"name": "Bohush, Kseniya",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1441,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -23341,23 +23579,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13537059,
-		"name": "Zhytkevich, Valeryia",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1440,
-		"rating_rapid": 1495,
-		"rating_blitz": 1558
-	},
-	{
 		"fideid": 13523953,
 		"name": "Hutsaliuk, Varvara",
 		"country": "BLR",
@@ -23375,23 +23596,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13530143,
-		"name": "Kirylovich, Aliaksei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1439,
-		"rating_rapid": null,
-		"rating_blitz": 1424
-	},
-	{
 		"fideid": 13516850,
 		"name": "Saskavets, Yauheni",
 		"country": "BLR",
@@ -23407,23 +23611,6 @@
 		"rating_standard": 1439,
 		"rating_rapid": 1615,
 		"rating_blitz": 1580
-	},
-	{
-		"fideid": 13537270,
-		"name": "Kazlou, Albert",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1437,
-		"rating_rapid": 1551,
-		"rating_blitz": 1531
 	},
 	{
 		"fideid": 13522337,
@@ -23457,7 +23644,7 @@
 		"flag": "",
 		"rating_standard": 1436,
 		"rating_rapid": 1492,
-		"rating_blitz": null
+		"rating_blitz": 1484
 	},
 	{
 		"fideid": 13534009,
@@ -23528,23 +23715,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13533258,
-		"name": "Novik, Piotr",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1433,
-		"rating_rapid": 1440,
-		"rating_blitz": 1454
-	},
-	{
 		"fideid": 13530739,
 		"name": "Vahura, Kira",
 		"country": "BLR",
@@ -23579,6 +23749,40 @@
 		"rating_blitz": 1624
 	},
 	{
+		"fideid": 13533258,
+		"name": "Novik, Piotr",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1432,
+		"rating_rapid": 1440,
+		"rating_blitz": 1454
+	},
+	{
+		"fideid": 13535668,
+		"name": "Tarasiuk, Yeva",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1432,
+		"rating_rapid": 1466,
+		"rating_blitz": 1540
+	},
+	{
 		"fideid": 13522833,
 		"name": "Zhloba, Artur",
 		"country": "BLR",
@@ -23594,6 +23798,40 @@
 		"rating_standard": 1432,
 		"rating_rapid": 1412,
 		"rating_blitz": 1432
+	},
+	{
+		"fideid": 13537059,
+		"name": "Zhytkevich, Valeryia",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1431,
+		"rating_rapid": 1494,
+		"rating_blitz": 1576
+	},
+	{
+		"fideid": 13531301,
+		"name": "Golubev, Ilya",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1430,
+		"rating_rapid": 1484,
+		"rating_blitz": 1464
 	},
 	{
 		"fideid": 13520997,
@@ -23664,23 +23902,6 @@
 		"rating_blitz": 1424
 	},
 	{
-		"fideid": 13535668,
-		"name": "Tarasiuk, Yeva",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1427,
-		"rating_rapid": 1466,
-		"rating_blitz": 1469
-	},
-	{
 		"fideid": 13532200,
 		"name": "Boltak, Yahor",
 		"country": "BLR",
@@ -23693,57 +23914,6 @@
 		"k": 40,
 		"birthday": 1992,
 		"flag": "i",
-		"rating_standard": 1424,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13534238,
-		"name": "Dubouskaya, Polina",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1424,
-		"rating_rapid": null,
-		"rating_blitz": 1407
-	},
-	{
-		"fideid": 13535013,
-		"name": "Kavgarenia, Darya",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1424,
-		"rating_rapid": 1542,
-		"rating_blitz": 1585
-	},
-	{
-		"fideid": 13526707,
-		"name": "Kopach, Michael",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
 		"rating_standard": 1424,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -23919,6 +24089,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13532715,
+		"name": "Kasyan, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": 1418,
+		"rating_rapid": null,
+		"rating_blitz": 1508
+	},
+	{
 		"fideid": 13526243,
 		"name": "Levchenko, Violetta",
 		"country": "BLR",
@@ -23953,23 +24140,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13535285,
-		"name": "Piakarchyk, Artsemi",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1413,
-		"rating_rapid": 1473,
-		"rating_blitz": 1492
-	},
-	{
 		"fideid": 13533371,
 		"name": "Harashchuk, Aliaksandr",
 		"country": "BLR",
@@ -23985,6 +24155,23 @@
 		"rating_standard": 1411,
 		"rating_rapid": null,
 		"rating_blitz": 1536
+	},
+	{
+		"fideid": 13535285,
+		"name": "Piakarchyk, Artsemi",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1411,
+		"rating_rapid": 1431,
+		"rating_blitz": 1493
 	},
 	{
 		"fideid": 13533347,
@@ -24052,6 +24239,23 @@
 		"flag": "i",
 		"rating_standard": 1409,
 		"rating_rapid": 1430,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13539370,
+		"name": "Kazak, Viacheslav",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1409,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -24174,6 +24378,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13534238,
+		"name": "Dubouskaya, Polina",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1403,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13518437,
 		"name": "Jaustafieu,Mihail",
 		"country": "BLR",
@@ -24191,23 +24412,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13532715,
-		"name": "Kasyan, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": 1402,
-		"rating_rapid": null,
-		"rating_blitz": 1508
-	},
-	{
 		"fideid": 13537130,
 		"name": "Shauchenka, Taras",
 		"country": "BLR",
@@ -24223,23 +24427,6 @@
 		"rating_standard": 1402,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13537024,
-		"name": "Fedotova, Anastasia",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1401,
-		"rating_rapid": 1585,
-		"rating_blitz": 1502
 	},
 	{
 		"fideid": 13534718,
@@ -24743,7 +24930,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -24777,7 +24964,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -25134,7 +25321,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -25168,7 +25355,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1954,
 		"flag": "",
@@ -25500,23 +25687,6 @@
 		"rating_blitz": 1671
 	},
 	{
-		"fideid": 13537253,
-		"name": "Darafeyeu\t, Viachaslau",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1969,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1765,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13534491,
 		"name": "Daroshka, Vitali",
 		"country": "BLR",
@@ -25564,7 +25734,7 @@
 		"birthday": 1952,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1512,
+		"rating_rapid": 1511,
 		"rating_blitz": null
 	},
 	{
@@ -25582,23 +25752,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1521,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13534505,
-		"name": "Deineka, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1427,
 		"rating_blitz": null
 	},
 	{
@@ -25797,7 +25950,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -26188,7 +26341,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -26868,7 +27021,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": "",
 		"flag": "",
@@ -27038,7 +27191,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -27174,7 +27327,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -27234,6 +27387,23 @@
 		"rating_blitz": 1444
 	},
 	{
+		"fideid": 13535013,
+		"name": "Kavgarenia, Darya",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1542,
+		"rating_blitz": 1585
+	},
+	{
 		"fideid": 13518887,
 		"name": "Kazachenka, Ilya",
 		"country": "BLR",
@@ -27268,23 +27438,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13537261,
-		"name": "Kazak, Siamion",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1579,
-		"rating_blitz": 1431
-	},
-	{
 		"fideid": 13536486,
 		"name": "Kazakova, Sviatlana",
 		"country": "BLR",
@@ -27300,23 +27453,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1470,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13536591,
-		"name": "Kazhukhar, Varvara",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1453,
-		"rating_blitz": 1416
 	},
 	{
 		"fideid": 13529960,
@@ -27463,7 +27599,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -27548,7 +27684,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -27599,13 +27735,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1537,
-		"rating_blitz": 1578
+		"rating_blitz": 1512
 	},
 	{
 		"fideid": 13517139,
@@ -27676,23 +27812,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13538365,
-		"name": "Koba, Tigran",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1401,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13506820,
 		"name": "Kochetkova, Alisa",
 		"country": "BLR",
@@ -27725,23 +27844,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1465,
 		"rating_blitz": 1485
-	},
-	{
-		"fideid": 13534726,
-		"name": "Koliadov, Ivan",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1437,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13520342,
@@ -28092,7 +28194,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1955,
 		"flag": "",
@@ -28245,7 +28347,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -28262,12 +28364,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1496,
+		"rating_rapid": 1495,
 		"rating_blitz": 1632
 	},
 	{
@@ -28286,6 +28388,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1514,
 		"rating_blitz": 1468
+	},
+	{
+		"fideid": 13521713,
+		"name": "Lamaka, Mikhail",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1466,
+		"rating_blitz": 1594
 	},
 	{
 		"fideid": 13518631,
@@ -28353,7 +28472,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1476,
-		"rating_blitz": null
+		"rating_blitz": 1467
 	},
 	{
 		"fideid": 13537288,
@@ -28543,23 +28662,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13529579,
-		"name": "Loyanich, Artemiy",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1487,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13529587,
 		"name": "Lukyanov, Artem",
 		"country": "BLR",
@@ -28619,7 +28721,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -28636,7 +28738,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -28653,7 +28755,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -28900,6 +29002,23 @@
 		"rating_blitz": 1906
 	},
 	{
+		"fideid": 13540980,
+		"name": "Matros, Dzmitry",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1438,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13536621,
 		"name": "Matsiushenka, Viktor",
 		"country": "BLR",
@@ -28976,7 +29095,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -29078,7 +29197,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -29299,7 +29418,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -29367,7 +29486,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -29571,7 +29690,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -29741,7 +29860,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -29832,7 +29951,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1715,
-		"rating_blitz": 1736
+		"rating_blitz": 1777
 	},
 	{
 		"fideid": 13516582,
@@ -30086,24 +30205,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1466,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13539450,
-		"name": "Podgayskiy, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1453,
+		"rating_rapid": 1467,
 		"rating_blitz": null
 	},
 	{
@@ -30404,12 +30506,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1459,
+		"rating_rapid": 1460,
 		"rating_blitz": null
 	},
 	{
@@ -30540,7 +30642,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -30557,7 +30659,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 1994,
 		"flag": "",
@@ -30819,6 +30921,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1809,
 		"rating_blitz": 1777
+	},
+	{
+		"fideid": 13537776,
+		"name": "Salavei, Mark",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1526,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13536664,
@@ -31175,7 +31294,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1452,
-		"rating_blitz": null
+		"rating_blitz": 1517
 	},
 	{
 		"fideid": 13517635,
@@ -31278,23 +31397,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1431,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13535803,
-		"name": "Shyshko, Vsevolod",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1530,
-		"rating_blitz": 1419
 	},
 	{
 		"fideid": 13534203,
@@ -31667,7 +31769,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1485,
+		"rating_rapid": 1486,
 		"rating_blitz": 1488
 	},
 	{
@@ -32229,7 +32331,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1620,
-		"rating_blitz": 1644
+		"rating_blitz": 1675
 	},
 	{
 		"fideid": 13514636,
@@ -32247,23 +32349,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1849,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13538535,
-		"name": "Vasiluk Matvey",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1748,
-		"rating_blitz": 1622
 	},
 	{
 		"fideid": 13518160,
@@ -32347,7 +32432,7 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1496,
+		"rating_rapid": 1495,
 		"rating_blitz": 1493
 	},
 	{
@@ -32461,7 +32546,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -32648,7 +32733,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -32682,7 +32767,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
@@ -32716,7 +32801,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -32872,7 +32957,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1414,
 		"rating_blitz": 1423
@@ -32971,7 +33056,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -33063,23 +33148,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1449,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13531107,
-		"name": "Zhylchyk, Mark",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1453,
-		"rating_blitz": 1460
 	},
 	{
 		"fideid": 13524658,
@@ -33216,23 +33284,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1644
-	},
-	{
-		"fideid": 13536346,
-		"name": "Andrukhovich, Dmitri",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1490
 	},
 	{
 		"fideid": 13529730,
@@ -33413,7 +33464,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -33549,8 +33600,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
@@ -33677,6 +33728,23 @@
 		"rating_blitz": 1471
 	},
 	{
+		"fideid": 13534505,
+		"name": "Deineka, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1624
+	},
+	{
 		"fideid": 13533789,
 		"name": "Divakov, Vadim",
 		"country": "BLR",
@@ -33702,7 +33770,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -33821,7 +33889,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -34170,23 +34238,6 @@
 		"rating_blitz": 1412
 	},
 	{
-		"fideid": 13539370,
-		"name": "Kazak, Viacheslav",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1412
-	},
-	{
 		"fideid": 13536583,
 		"name": "Kazhukhar, Sofya",
 		"country": "BLR",
@@ -34236,6 +34287,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1413
+	},
+	{
+		"fideid": 13541013,
+		"name": "Khovrenkov, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1531
 	},
 	{
 		"fideid": 13522191,
@@ -34416,13 +34484,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 10,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1478
+		"rating_blitz": 1493
 	},
 	{
 		"fideid": 13537032,
@@ -34440,6 +34508,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1522
+	},
+	{
+		"fideid": 13540971,
+		"name": "Kravtsov, Dima",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1610
 	},
 	{
 		"fideid": 13533380,
@@ -34510,23 +34595,6 @@
 		"rating_blitz": 1663
 	},
 	{
-		"fideid": 13521713,
-		"name": "Lamaka, Mikhail",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1594
-	},
-	{
 		"fideid": 13536710,
 		"name": "Lapo, Raman",
 		"country": "BLR",
@@ -34569,7 +34637,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -34586,8 +34654,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": null,
@@ -34620,7 +34688,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -34782,6 +34850,23 @@
 		"rating_blitz": 1470
 	},
 	{
+		"fideid": 13534610,
+		"name": "Mlechka, Vitali",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1647
+	},
+	{
 		"fideid": 13513265,
 		"name": "Mochanskiy, Nikolay",
 		"country": "BLR",
@@ -34892,13 +34977,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1587
+		"rating_blitz": 1586
 	},
 	{
 		"fideid": 13532510,
@@ -34918,21 +35003,21 @@
 		"rating_blitz": 1506
 	},
 	{
-		"fideid": 13538624,
-		"name": "Papleuka, Viktar",
+		"fideid": 13541048,
+		"name": "Pasanen, Dzianis",
 		"country": "BLR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 11,
 		"k": 40,
-		"birthday": 2007,
+		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1645
+		"rating_blitz": 1664
 	},
 	{
 		"fideid": 13539574,
@@ -34967,6 +35052,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1654
+	},
+	{
+		"fideid": 13538012,
+		"name": "Paulichenka, Artsiom",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1585
 	},
 	{
 		"fideid": 13538764,
@@ -35215,7 +35317,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
@@ -35470,13 +35572,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1454
+	},
+	{
+		"fideid": 13538004,
+		"name": "Smotrikov, Aleksei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1401
 	},
 	{
 		"fideid": 13533738,
@@ -35623,7 +35742,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -35647,6 +35766,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1520
+	},
+	{
+		"fideid": 13540998,
+		"name": "Viarutsin, Maksim",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1645
 	},
 	{
 		"fideid": 13528025,
@@ -35708,7 +35844,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1981,
 		"flag": "",
@@ -35802,6 +35938,23 @@
 		"rating_blitz": 1559
 	},
 	{
+		"fideid": 13541056,
+		"name": "Zaitsau, Kiryl",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1505
+	},
+	{
 		"fideid": 13532693,
 		"name": "Zhabko, Mikita",
 		"country": "BLR",
@@ -35810,7 +35963,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -35878,12 +36031,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1569
+		"rating_blitz": 1627
 	}
 ]

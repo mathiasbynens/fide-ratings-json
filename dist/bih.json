@@ -34,23 +34,6 @@
 		"rating_blitz": 2550
 	},
 	{
-		"fideid": 14408120,
-		"name": "Maksimovic, Bojan",
-		"country": "BIH",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 2514,
-		"rating_rapid": 2568,
-		"rating_blitz": 2506
-	},
-	{
 		"fideid": 14401290,
 		"name": "Saric, Ibro",
 		"country": "BIH",
@@ -68,21 +51,21 @@
 		"rating_blitz": 2510
 	},
 	{
-		"fideid": 14420937,
-		"name": "Culum, Sanjin",
+		"fideid": 14408120,
+		"name": "Maksimovic, Bojan",
 		"country": "BIH",
 		"sex": "M",
 		"title": "IM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 10,
-		"birthday": 2007,
+		"birthday": 2002,
 		"flag": "",
-		"rating_standard": 2450,
-		"rating_rapid": 2414,
-		"rating_blitz": 2366
+		"rating_standard": 2513,
+		"rating_rapid": 2568,
+		"rating_blitz": 2513
 	},
 	{
 		"fideid": 14400545,
@@ -100,6 +83,23 @@
 		"rating_standard": 2449,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14420937,
+		"name": "Culum, Sanjin",
+		"country": "BIH",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2444,
+		"rating_rapid": 2414,
+		"rating_blitz": 2366
 	},
 	{
 		"fideid": 922692,
@@ -336,25 +336,8 @@
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 2360,
-		"rating_rapid": 2361,
+		"rating_rapid": 2377,
 		"rating_blitz": 2348
-	},
-	{
-		"fideid": 914932,
-		"name": "Savanovic, Aleksandar",
-		"country": "BIH",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 2360,
-		"rating_rapid": 2418,
-		"rating_blitz": 2343
 	},
 	{
 		"fideid": 14400251,
@@ -372,6 +355,23 @@
 		"rating_standard": 2357,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 914932,
+		"name": "Savanovic, Aleksandar",
+		"country": "BIH",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 2357,
+		"rating_rapid": 2418,
+		"rating_blitz": 2343
 	},
 	{
 		"fideid": 14402300,
@@ -523,7 +523,7 @@
 		"birthday": 1966,
 		"flag": "",
 		"rating_standard": 2329,
-		"rating_rapid": 2299,
+		"rating_rapid": 2315,
 		"rating_blitz": 2310
 	},
 	{
@@ -558,7 +558,7 @@
 		"flag": "",
 		"rating_standard": 2324,
 		"rating_rapid": 2318,
-		"rating_blitz": 2337
+		"rating_blitz": 2327
 	},
 	{
 		"fideid": 14400324,
@@ -705,7 +705,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1975,
 		"flag": "",
@@ -884,6 +884,23 @@
 		"rating_blitz": 2234
 	},
 	{
+		"fideid": 14422328,
+		"name": "Avdic, Faris",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 2278,
+		"rating_rapid": 2204,
+		"rating_blitz": 2360
+	},
+	{
 		"fideid": 14400227,
 		"name": "Galic, Zeljko",
 		"country": "BIH",
@@ -933,23 +950,6 @@
 		"rating_standard": 2272,
 		"rating_rapid": 2182,
 		"rating_blitz": 2162
-	},
-	{
-		"fideid": 14422328,
-		"name": "Avdic, Faris",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 2271,
-		"rating_rapid": 2204,
-		"rating_blitz": 2360
 	},
 	{
 		"fideid": 14401673,
@@ -1188,23 +1188,6 @@
 		"rating_standard": 2247,
 		"rating_rapid": 2202,
 		"rating_blitz": 2163
-	},
-	{
-		"fideid": 14414945,
-		"name": "Babic, Milana",
-		"country": "BIH",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 2238,
-		"rating_rapid": 2177,
-		"rating_blitz": 2156
 	},
 	{
 		"fideid": 930075,
@@ -1649,6 +1632,23 @@
 		"rating_blitz": 2284
 	},
 	{
+		"fideid": 14419530,
+		"name": "Sisic, Muhamed",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2214,
+		"rating_rapid": 2252,
+		"rating_blitz": 2252
+	},
+	{
 		"fideid": 904872,
 		"name": "Lisica, Alan",
 		"country": "BIH",
@@ -1680,24 +1680,7 @@
 		"flag": "",
 		"rating_standard": 2213,
 		"rating_rapid": 2176,
-		"rating_blitz": 2125
-	},
-	{
-		"fideid": 14412870,
-		"name": "Sajin, Mirko",
-		"country": "BIH",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2212,
-		"rating_rapid": 2295,
-		"rating_blitz": 2307
+		"rating_blitz": 2155
 	},
 	{
 		"fideid": 14400111,
@@ -1929,7 +1912,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
@@ -1953,6 +1936,23 @@
 		"rating_standard": 2197,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14414945,
+		"name": "Babic, Milana",
+		"country": "BIH",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 2195,
+		"rating_rapid": 2177,
+		"rating_blitz": 2192
 	},
 	{
 		"fideid": 14402548,
@@ -2176,23 +2176,6 @@
 		"rating_blitz": 2112
 	},
 	{
-		"fideid": 14406489,
-		"name": "Jelcic, Marko",
-		"country": "BIH",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 2179,
-		"rating_rapid": 2191,
-		"rating_blitz": 2156
-	},
-	{
 		"fideid": 14401347,
 		"name": "Kos, Emin",
 		"country": "BIH",
@@ -2225,6 +2208,40 @@
 		"rating_standard": 2179,
 		"rating_rapid": 2208,
 		"rating_blitz": 2174
+	},
+	{
+		"fideid": 14412870,
+		"name": "Sajin, Mirko",
+		"country": "BIH",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2179,
+		"rating_rapid": 2295,
+		"rating_blitz": 2287
+	},
+	{
+		"fideid": 14406489,
+		"name": "Jelcic, Marko",
+		"country": "BIH",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": 2177,
+		"rating_rapid": 2191,
+		"rating_blitz": 2149
 	},
 	{
 		"fideid": 14403269,
@@ -2371,13 +2388,13 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 17,
+		"games": 0,
 		"k": 10,
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": 2167,
-		"rating_rapid": 2362,
-		"rating_blitz": 2272
+		"rating_rapid": 2356,
+		"rating_blitz": 2299
 	},
 	{
 		"fideid": 14414791,
@@ -2422,13 +2439,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1952,
 		"flag": "",
 		"rating_standard": 2164,
 		"rating_rapid": 2117,
-		"rating_blitz": 2157
+		"rating_blitz": 2149
 	},
 	{
 		"fideid": 14401509,
@@ -2497,23 +2514,6 @@
 		"rating_standard": 2160,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14419530,
-		"name": "Sisic, Muhamed",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2159,
-		"rating_rapid": 2252,
-		"rating_blitz": 2308
 	},
 	{
 		"fideid": 14408740,
@@ -2767,7 +2767,7 @@
 		"birthday": 1974,
 		"flag": "",
 		"rating_standard": 2147,
-		"rating_rapid": 2262,
+		"rating_rapid": 2226,
 		"rating_blitz": 2052
 	},
 	{
@@ -2920,7 +2920,7 @@
 		"birthday": 1985,
 		"flag": "i",
 		"rating_standard": 2142,
-		"rating_rapid": null,
+		"rating_rapid": 2093,
 		"rating_blitz": null
 	},
 	{
@@ -2958,23 +2958,6 @@
 		"rating_blitz": 2195
 	},
 	{
-		"fideid": 14407604,
-		"name": "Sesar, Ivan",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 2138,
-		"rating_rapid": 2193,
-		"rating_blitz": 2168
-	},
-	{
 		"fideid": 932027,
 		"name": "Stavnjak, Lazar",
 		"country": "BIH",
@@ -2988,7 +2971,7 @@
 		"birthday": 1958,
 		"flag": "",
 		"rating_standard": 2138,
-		"rating_rapid": 2127,
+		"rating_rapid": 2123,
 		"rating_blitz": 2119
 	},
 	{
@@ -3244,7 +3227,7 @@
 		"flag": "",
 		"rating_standard": 2129,
 		"rating_rapid": 2237,
-		"rating_blitz": 2269
+		"rating_blitz": 2237
 	},
 	{
 		"fideid": 14407124,
@@ -3340,7 +3323,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1986,
 		"flag": "",
@@ -3432,6 +3415,23 @@
 		"rating_standard": 2123,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14407604,
+		"name": "Sesar, Ivan",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 2123,
+		"rating_rapid": 2193,
+		"rating_blitz": 2119
 	},
 	{
 		"fideid": 14402076,
@@ -3533,7 +3533,7 @@
 		"flag": "",
 		"rating_standard": 2118,
 		"rating_rapid": 2120,
-		"rating_blitz": 2121
+		"rating_blitz": 2146
 	},
 	{
 		"fideid": 14406276,
@@ -3697,7 +3697,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -3714,7 +3714,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -3822,7 +3822,7 @@
 		"flag": "",
 		"rating_standard": 2097,
 		"rating_rapid": 2045,
-		"rating_blitz": 2125
+		"rating_blitz": 2123
 	},
 	{
 		"fideid": 14407108,
@@ -3838,7 +3838,7 @@
 		"birthday": 1956,
 		"flag": "",
 		"rating_standard": 2095,
-		"rating_rapid": 2139,
+		"rating_rapid": 2111,
 		"rating_blitz": 2162
 	},
 	{
@@ -4010,23 +4010,6 @@
 		"rating_standard": 2084,
 		"rating_rapid": 2014,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14414937,
-		"name": "Babic, Masa",
-		"country": "BIH",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 2082,
-		"rating_rapid": 2182,
-		"rating_blitz": 2143
 	},
 	{
 		"fideid": 14400898,
@@ -4281,7 +4264,7 @@
 		"flag": "",
 		"rating_standard": 2070,
 		"rating_rapid": 2150,
-		"rating_blitz": 2137
+		"rating_blitz": 2119
 	},
 	{
 		"fideid": 14412918,
@@ -4518,7 +4501,7 @@
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": 2055,
-		"rating_rapid": 2130,
+		"rating_rapid": 2103,
 		"rating_blitz": 2100
 	},
 	{
@@ -5249,7 +5232,7 @@
 		"birthday": 1966,
 		"flag": "",
 		"rating_standard": 2030,
-		"rating_rapid": 2080,
+		"rating_rapid": 2081,
 		"rating_blitz": 1903
 	},
 	{
@@ -5743,7 +5726,7 @@
 		"flag": "i",
 		"rating_standard": 2011,
 		"rating_rapid": 2024,
-		"rating_blitz": 1954
+		"rating_blitz": 1996
 	},
 	{
 		"fideid": 14409178,
@@ -5795,6 +5778,23 @@
 		"rating_standard": 2011,
 		"rating_rapid": 2014,
 		"rating_blitz": 2052
+	},
+	{
+		"fideid": 14414937,
+		"name": "Babic, Masa",
+		"country": "BIH",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 2010,
+		"rating_rapid": 2182,
+		"rating_blitz": 2054
 	},
 	{
 		"fideid": 14402122,
@@ -5873,7 +5873,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
@@ -5981,7 +5981,7 @@
 		"flag": "",
 		"rating_standard": 2004,
 		"rating_rapid": 2133,
-		"rating_blitz": 2105
+		"rating_blitz": 2116
 	},
 	{
 		"fideid": 14407094,
@@ -6086,6 +6086,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14401320,
+		"name": "Halilovic, Husein",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1999,
+		"rating_rapid": 2076,
+		"rating_blitz": 2100
+	},
+	{
 		"fideid": 14411482,
 		"name": "Bakic, Dragan",
 		"country": "BIH",
@@ -6101,23 +6118,6 @@
 		"rating_standard": 1998,
 		"rating_rapid": 1972,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14401320,
-		"name": "Halilovic, Husein",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 1998,
-		"rating_rapid": 2076,
-		"rating_blitz": 2100
 	},
 	{
 		"fideid": 14404869,
@@ -6519,13 +6519,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": 1989,
 		"rating_rapid": 2020,
-		"rating_blitz": 1958
+		"rating_blitz": 1933
 	},
 	{
 		"fideid": 14406667,
@@ -6882,7 +6882,7 @@
 		"flag": "",
 		"rating_standard": 1983,
 		"rating_rapid": 1944,
-		"rating_blitz": 2021
+		"rating_blitz": 2035
 	},
 	{
 		"fideid": 14403790,
@@ -7512,6 +7512,23 @@
 		"rating_standard": 1972,
 		"rating_rapid": 1976,
 		"rating_blitz": 1993
+	},
+	{
+		"fideid": 14427001,
+		"name": "Jovanovic, Darko A",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1972,
+		"rating_rapid": 2121,
+		"rating_blitz": 1984
 	},
 	{
 		"fideid": 14412780,
@@ -8296,23 +8313,6 @@
 		"rating_blitz": 1891
 	},
 	{
-		"fideid": 14422530,
-		"name": "Ivanovic, Milan J",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1954,
-		"rating_rapid": 1986,
-		"rating_blitz": 1848
-	},
-	{
 		"fideid": 14405610,
 		"name": "Zekic, Sead",
 		"country": "BIH",
@@ -8632,8 +8632,8 @@
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": 1946,
-		"rating_rapid": 2066,
-		"rating_blitz": 1978
+		"rating_rapid": 2072,
+		"rating_blitz": 2006
 	},
 	{
 		"fideid": 14401550,
@@ -8684,7 +8684,7 @@
 		"flag": "",
 		"rating_standard": 1946,
 		"rating_rapid": 1996,
-		"rating_blitz": 1977
+		"rating_blitz": 1991
 	},
 	{
 		"fideid": 14403455,
@@ -9290,7 +9290,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 1956,
 		"flag": "",
@@ -9834,13 +9834,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "w",
 		"rating_standard": 1919,
 		"rating_rapid": 1875,
-		"rating_blitz": 2008
+		"rating_blitz": 1981
 	},
 	{
 		"fideid": 14406136,
@@ -9885,30 +9885,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1917,
 		"rating_rapid": 1912,
 		"rating_blitz": 1870
-	},
-	{
-		"fideid": 14431220,
-		"name": "Mitrovic, Stefan A",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1917,
-		"rating_rapid": 2036,
-		"rating_blitz": 1827
 	},
 	{
 		"fideid": 14402351,
@@ -10043,7 +10026,7 @@
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": 1914,
-		"rating_rapid": 1961,
+		"rating_rapid": 1954,
 		"rating_blitz": null
 	},
 	{
@@ -10130,23 +10113,6 @@
 		"rating_standard": 1912,
 		"rating_rapid": 1839,
 		"rating_blitz": 1911
-	},
-	{
-		"fideid": 14427001,
-		"name": "Jovanovic, Darko A",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1912,
-		"rating_rapid": 2119,
-		"rating_blitz": 1984
 	},
 	{
 		"fideid": 14414856,
@@ -10514,7 +10480,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -10585,7 +10551,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1907,
 		"rating_rapid": 1830,
 		"rating_blitz": 1804
@@ -11081,7 +11047,7 @@
 		"flag": "",
 		"rating_standard": 1899,
 		"rating_rapid": 1854,
-		"rating_blitz": 1881
+		"rating_blitz": 1890
 	},
 	{
 		"fideid": 14428423,
@@ -11115,7 +11081,7 @@
 		"flag": "",
 		"rating_standard": 1898,
 		"rating_rapid": 1987,
-		"rating_blitz": 2074
+		"rating_blitz": 2101
 	},
 	{
 		"fideid": 14406039,
@@ -11133,6 +11099,23 @@
 		"rating_standard": 1898,
 		"rating_rapid": 1931,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14422530,
+		"name": "Ivanovic, Milan J",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1897,
+		"rating_rapid": 1924,
+		"rating_blitz": 1879
 	},
 	{
 		"fideid": 14441870,
@@ -11659,7 +11642,7 @@
 		"flag": "",
 		"rating_standard": 1885,
 		"rating_rapid": 1835,
-		"rating_blitz": 1710
+		"rating_blitz": 1679
 	},
 	{
 		"fideid": 14403250,
@@ -11778,7 +11761,24 @@
 		"flag": "i",
 		"rating_standard": 1880,
 		"rating_rapid": 1846,
-		"rating_blitz": 1836
+		"rating_blitz": 1821
+	},
+	{
+		"fideid": 14431220,
+		"name": "Mitrovic, Stefan A",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1880,
+		"rating_rapid": 2036,
+		"rating_blitz": 1827
 	},
 	{
 		"fideid": 14406748,
@@ -12316,7 +12316,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -12546,23 +12546,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14430185,
-		"name": "Gazic, Petar",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1860,
-		"rating_rapid": 2065,
-		"rating_blitz": 1935
-	},
-	{
 		"fideid": 14423316,
 		"name": "Hasanovic, Mustafa",
 		"country": "BIH",
@@ -12612,23 +12595,6 @@
 		"rating_standard": 1859,
 		"rating_rapid": null,
 		"rating_blitz": 1889
-	},
-	{
-		"fideid": 14431645,
-		"name": "Panic, Viktor",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 12,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1859,
-		"rating_rapid": 2088,
-		"rating_blitz": 1937
 	},
 	{
 		"fideid": 14405822,
@@ -12748,6 +12714,23 @@
 		"rating_standard": 1857,
 		"rating_rapid": 1914,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14431645,
+		"name": "Panic, Viktor",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1857,
+		"rating_rapid": 2088,
+		"rating_blitz": 1937
 	},
 	{
 		"fideid": 14429918,
@@ -13036,7 +13019,7 @@
 		"flag": "i",
 		"rating_standard": 1848,
 		"rating_rapid": 1959,
-		"rating_blitz": 1892
+		"rating_blitz": 1955
 	},
 	{
 		"fideid": 14401231,
@@ -13328,6 +13311,23 @@
 		"rating_blitz": 1982
 	},
 	{
+		"fideid": 14425920,
+		"name": "Mimic, Sofija",
+		"country": "BIH",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1844,
+		"rating_rapid": 1755,
+		"rating_blitz": 1702
+	},
+	{
 		"fideid": 14417618,
 		"name": "Bahtic, Muhamed",
 		"country": "BIH",
@@ -13345,6 +13345,23 @@
 		"rating_blitz": 1918
 	},
 	{
+		"fideid": 9204096,
+		"name": "Dukic, Teona",
+		"country": "BIH",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1842,
+		"rating_rapid": 1711,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14403900,
 		"name": "Hasovic, Rasim",
 		"country": "BIH",
@@ -13353,7 +13370,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1950,
 		"flag": "",
@@ -13583,6 +13600,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14430703,
+		"name": "Kosutic, Cedomir",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1834,
+		"rating_rapid": 1780,
+		"rating_blitz": 1905
+	},
+	{
 		"fideid": 14420031,
 		"name": "Mecavica, Fahrudin",
 		"country": "BIH",
@@ -13651,23 +13685,6 @@
 		"rating_blitz": 1808
 	},
 	{
-		"fideid": 14416425,
-		"name": "Marjanovic, Marko",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1833,
-		"rating_rapid": 1909,
-		"rating_blitz": 1865
-	},
-	{
 		"fideid": 14407906,
 		"name": "Omerika, Arif",
 		"country": "BIH",
@@ -13717,6 +13734,23 @@
 		"rating_standard": 1832,
 		"rating_rapid": 1867,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14416425,
+		"name": "Marjanovic, Marko",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1832,
+		"rating_rapid": 1864,
+		"rating_blitz": 1931
 	},
 	{
 		"fideid": 14413272,
@@ -13964,7 +13998,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 1973,
@@ -14144,6 +14178,23 @@
 		"rating_blitz": 1823
 	},
 	{
+		"fideid": 14430185,
+		"name": "Gazic, Petar",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1820,
+		"rating_rapid": 2065,
+		"rating_blitz": 2013
+	},
+	{
 		"fideid": 14425696,
 		"name": "Japic, Amir",
 		"country": "BIH",
@@ -14280,23 +14331,6 @@
 		"rating_blitz": 1761
 	},
 	{
-		"fideid": 14437767,
-		"name": "Josilo, Dragoljub",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": 1817,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14431459,
 		"name": "Gagic, Abdurahman",
 		"country": "BIH",
@@ -14311,6 +14345,23 @@
 		"flag": "i",
 		"rating_standard": 1816,
 		"rating_rapid": 1869,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14437767,
+		"name": "Josilo, Dragoljub",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 1816,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -14363,23 +14414,6 @@
 		"rating_standard": 1815,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14425920,
-		"name": "Mimic, Sofija",
-		"country": "BIH",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1815,
-		"rating_rapid": 1755,
-		"rating_blitz": 1702
 	},
 	{
 		"fideid": 14429098,
@@ -14651,7 +14685,7 @@
 		"flag": "",
 		"rating_standard": 1808,
 		"rating_rapid": 1840,
-		"rating_blitz": 1836
+		"rating_blitz": 1826
 	},
 	{
 		"fideid": 14423081,
@@ -14803,7 +14837,7 @@
 		"birthday": 2002,
 		"flag": "w",
 		"rating_standard": 1803,
-		"rating_rapid": 1731,
+		"rating_rapid": 1696,
 		"rating_blitz": 1808
 	},
 	{
@@ -14892,6 +14926,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 9217902,
+		"name": "Peric, David M",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1800,
+		"rating_rapid": 2077,
+		"rating_blitz": 2113
+	},
+	{
 		"fideid": 14416204,
 		"name": "Ramic, Sead",
 		"country": "BIH",
@@ -14974,7 +15025,7 @@
 		"flag": "",
 		"rating_standard": 1797,
 		"rating_rapid": 1704,
-		"rating_blitz": 1770
+		"rating_blitz": 1747
 	},
 	{
 		"fideid": 14430878,
@@ -15009,23 +15060,6 @@
 		"rating_standard": 1796,
 		"rating_rapid": 1795,
 		"rating_blitz": 1761
-	},
-	{
-		"fideid": 9217902,
-		"name": "Peric, David M",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 2,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1795,
-		"rating_rapid": 2077,
-		"rating_blitz": 2072
 	},
 	{
 		"fideid": 14415062,
@@ -15091,7 +15125,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1793,
+		"rating_standard": 1794,
 		"rating_rapid": 1796,
 		"rating_blitz": 1771
 	},
@@ -15325,7 +15359,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
@@ -15461,7 +15495,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
@@ -15534,7 +15568,7 @@
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": 1776,
-		"rating_rapid": 1926,
+		"rating_rapid": 1920,
 		"rating_blitz": 1813
 	},
 	{
@@ -15750,7 +15784,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1939,
 		"flag": "",
@@ -16184,6 +16218,23 @@
 		"rating_blitz": 1804
 	},
 	{
+		"fideid": 14425335,
+		"name": "Catak, Ersad",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1750,
+		"rating_rapid": 1766,
+		"rating_blitz": 1781
+	},
+	{
 		"fideid": 14400693,
 		"name": "Dizdarevic, Mehmedalija",
 		"country": "BIH",
@@ -16250,23 +16301,6 @@
 		"rating_standard": 1750,
 		"rating_rapid": 1864,
 		"rating_blitz": 1939
-	},
-	{
-		"fideid": 14425335,
-		"name": "Catak, Ersad",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1749,
-		"rating_rapid": 1766,
-		"rating_blitz": 1781
 	},
 	{
 		"fideid": 14409020,
@@ -16367,7 +16401,7 @@
 		"birthday": 2004,
 		"flag": "w",
 		"rating_standard": 1746,
-		"rating_rapid": 1847,
+		"rating_rapid": 1838,
 		"rating_blitz": 1890
 	},
 	{
@@ -16456,23 +16490,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14429462,
-		"name": "Omerovic, Damir",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1743,
-		"rating_rapid": 1654,
-		"rating_blitz": 1763
-	},
-	{
 		"fideid": 14429233,
 		"name": "Sladoje, Mitar",
 		"country": "BIH",
@@ -16487,7 +16504,7 @@
 		"flag": "",
 		"rating_standard": 1743,
 		"rating_rapid": 1844,
-		"rating_blitz": 1849
+		"rating_blitz": 1848
 	},
 	{
 		"fideid": 14421070,
@@ -16522,6 +16539,23 @@
 		"rating_standard": 1742,
 		"rating_rapid": 1717,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14429462,
+		"name": "Omerovic, Damir",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1742,
+		"rating_rapid": 1654,
+		"rating_blitz": 1763
 	},
 	{
 		"fideid": 14406802,
@@ -16728,6 +16762,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14439590,
+		"name": "Busic, Mateo",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1731,
+		"rating_rapid": 1943,
+		"rating_blitz": 1836
+	},
+	{
 		"fideid": 14427320,
 		"name": "Dzinic, Edin",
 		"country": "BIH",
@@ -16760,23 +16811,6 @@
 		"rating_standard": 1731,
 		"rating_rapid": 1671,
 		"rating_blitz": 1752
-	},
-	{
-		"fideid": 9204096,
-		"name": "Dukic, Teona",
-		"country": "BIH",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1730,
-		"rating_rapid": 1711,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 14404230,
@@ -16996,7 +17030,7 @@
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": 1715,
-		"rating_rapid": null,
+		"rating_rapid": 1783,
 		"rating_blitz": null
 	},
 	{
@@ -17102,23 +17136,6 @@
 		"rating_blitz": 1795
 	},
 	{
-		"fideid": 14439590,
-		"name": "Busic, Mateo",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1707,
-		"rating_rapid": 1943,
-		"rating_blitz": 1836
-	},
-	{
 		"fideid": 14423464,
 		"name": "Zunic, Adi",
 		"country": "BIH",
@@ -17221,6 +17238,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14437929,
+		"name": "Obrenovic, Djordje",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1698,
+		"rating_rapid": 1562,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14413825,
 		"name": "Dziho, Sadzida",
 		"country": "BIH",
@@ -17236,6 +17270,23 @@
 		"rating_standard": 1697,
 		"rating_rapid": 1729,
 		"rating_blitz": 1673
+	},
+	{
+		"fideid": 14430371,
+		"name": "Coric, Ivan",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1696,
+		"rating_rapid": 1760,
+		"rating_blitz": 1522
 	},
 	{
 		"fideid": 14421518,
@@ -17255,23 +17306,6 @@
 		"rating_blitz": 1788
 	},
 	{
-		"fideid": 14437929,
-		"name": "Obrenovic, Djordje",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1695,
-		"rating_rapid": 1562,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14416662,
 		"name": "Ostojic, Ana A",
 		"country": "BIH",
@@ -17287,23 +17321,6 @@
 		"rating_standard": 1695,
 		"rating_rapid": 1758,
 		"rating_blitz": 1686
-	},
-	{
-		"fideid": 14430371,
-		"name": "Coric, Ivan",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1694,
-		"rating_rapid": 1781,
-		"rating_blitz": 1522
 	},
 	{
 		"fideid": 14427133,
@@ -17692,7 +17709,7 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
-		"rating_standard": 1674,
+		"rating_standard": 1673,
 		"rating_rapid": 1571,
 		"rating_blitz": null
 	},
@@ -17739,7 +17756,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1972,
 		"flag": "",
@@ -17763,6 +17780,23 @@
 		"rating_standard": 1665,
 		"rating_rapid": 1681,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14432285,
+		"name": "Planinic, Ivo",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1665,
+		"rating_rapid": 1744,
+		"rating_blitz": 1687
 	},
 	{
 		"fideid": 14435012,
@@ -17831,6 +17865,23 @@
 		"rating_standard": 1653,
 		"rating_rapid": 1827,
 		"rating_blitz": 1627
+	},
+	{
+		"fideid": 14415690,
+		"name": "Pranjkovic, Matija",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1653,
+		"rating_rapid": 1736,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14431351,
@@ -17943,12 +17994,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1644,
-		"rating_rapid": 1690,
+		"rating_rapid": 1774,
 		"rating_blitz": 1644
 	},
 	{
@@ -17983,23 +18034,6 @@
 		"flag": "wi",
 		"rating_standard": 1644,
 		"rating_rapid": 1682,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14415690,
-		"name": "Pranjkovic, Matija",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1641,
-		"rating_rapid": 1736,
 		"rating_blitz": null
 	},
 	{
@@ -18071,23 +18105,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14432366,
-		"name": "Halilovic, Emir",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1634,
-		"rating_rapid": 1935,
-		"rating_blitz": 1878
-	},
-	{
 		"fideid": 14442493,
 		"name": "Kreco, Vedad",
 		"country": "BIH",
@@ -18103,6 +18120,23 @@
 		"rating_standard": 1634,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14432366,
+		"name": "Halilovic, Emir",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1633,
+		"rating_rapid": 1935,
+		"rating_blitz": 1878
 	},
 	{
 		"fideid": 14421046,
@@ -18133,10 +18167,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1631,
 		"rating_rapid": 1532,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14428016,
+		"name": "Jerinic, Nikola",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "i",
+		"rating_standard": 1630,
+		"rating_rapid": 1707,
+		"rating_blitz": 1648
 	},
 	{
 		"fideid": 14441772,
@@ -18173,6 +18224,23 @@
 		"rating_blitz": 1638
 	},
 	{
+		"fideid": 14421895,
+		"name": "Cerkez, Matej",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1628,
+		"rating_rapid": 1663,
+		"rating_blitz": 1754
+	},
+	{
 		"fideid": 14413680,
 		"name": "Grgic, Anto",
 		"country": "BIH",
@@ -18188,23 +18256,6 @@
 		"rating_standard": 1628,
 		"rating_rapid": 1783,
 		"rating_blitz": 1810
-	},
-	{
-		"fideid": 14421895,
-		"name": "Cerkez, Matej",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1627,
-		"rating_rapid": 1663,
-		"rating_blitz": 1754
 	},
 	{
 		"fideid": 14422220,
@@ -18249,13 +18300,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1625,
 		"rating_rapid": 1507,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14423561,
+		"name": "Jonlija, Boris",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1623,
+		"rating_rapid": 1674,
+		"rating_blitz": 1497
 	},
 	{
 		"fideid": 14437031,
@@ -18270,7 +18338,7 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1624,
+		"rating_standard": 1623,
 		"rating_rapid": 1685,
 		"rating_blitz": null
 	},
@@ -18377,6 +18445,23 @@
 		"rating_blitz": 1809
 	},
 	{
+		"fideid": 14424738,
+		"name": "Maksimovic, Savo",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1605,
+		"rating_rapid": 1582,
+		"rating_blitz": 1656
+	},
+	{
 		"fideid": 14414201,
 		"name": "Miletic, Luka",
 		"country": "BIH",
@@ -18428,23 +18513,6 @@
 		"rating_blitz": 1652
 	},
 	{
-		"fideid": 14425912,
-		"name": "Mimic, Lazar",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": 1708,
-		"rating_blitz": 1611
-	},
-	{
 		"fideid": 14417596,
 		"name": "Zecic, Emir",
 		"country": "BIH",
@@ -18462,6 +18530,23 @@
 		"rating_blitz": 1700
 	},
 	{
+		"fideid": 14425912,
+		"name": "Mimic, Lazar",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1598,
+		"rating_rapid": 1708,
+		"rating_blitz": 1611
+	},
+	{
 		"fideid": 14418614,
 		"name": "Cerkez, Lorena",
 		"country": "BIH",
@@ -18477,23 +18562,6 @@
 		"rating_standard": 1596,
 		"rating_rapid": 1722,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14428016,
-		"name": "Jerinic, Nikola",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 1596,
-		"rating_rapid": 1707,
-		"rating_blitz": 1648
 	},
 	{
 		"fideid": 14426404,
@@ -18593,26 +18661,9 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
-		"rating_standard": 1584,
-		"rating_rapid": null,
+		"rating_standard": 1583,
+		"rating_rapid": 1625,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14432285,
-		"name": "Planinic, Ivo",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1581,
-		"rating_rapid": 1744,
-		"rating_blitz": 1735
 	},
 	{
 		"fideid": 14430037,
@@ -18649,21 +18700,21 @@
 		"rating_blitz": 1576
 	},
 	{
-		"fideid": 14424738,
-		"name": "Maksimovic, Savo",
+		"fideid": 14439719,
+		"name": "Salihbegovic, Danin",
 		"country": "BIH",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1574,
-		"rating_rapid": 1582,
-		"rating_blitz": 1656
+		"rating_standard": 1577,
+		"rating_rapid": 1798,
+		"rating_blitz": 1735
 	},
 	{
 		"fideid": 14439883,
@@ -18678,9 +18729,9 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1568,
+		"rating_standard": 1567,
 		"rating_rapid": 1855,
-		"rating_blitz": 1983
+		"rating_blitz": 1974
 	},
 	{
 		"fideid": 14408074,
@@ -18725,7 +18776,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -18867,7 +18918,7 @@
 		"flag": "w",
 		"rating_standard": 1532,
 		"rating_rapid": 1829,
-		"rating_blitz": 1779
+		"rating_blitz": 1744
 	},
 	{
 		"fideid": 14436256,
@@ -18878,7 +18929,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -18955,23 +19006,6 @@
 		"rating_blitz": 1546
 	},
 	{
-		"fideid": 14439719,
-		"name": "Salihbegovic, Danin",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1505,
-		"rating_rapid": 1798,
-		"rating_blitz": 1735
-	},
-	{
 		"fideid": 14429950,
 		"name": "Nedic, Gabriel",
 		"country": "BIH",
@@ -18986,7 +19020,7 @@
 		"flag": "",
 		"rating_standard": 1499,
 		"rating_rapid": 1427,
-		"rating_blitz": 1538
+		"rating_blitz": 1539
 	},
 	{
 		"fideid": 14413086,
@@ -19006,6 +19040,23 @@
 		"rating_blitz": 1455
 	},
 	{
+		"fideid": 14438038,
+		"name": "Tomic, Pavle A",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1494,
+		"rating_rapid": 1588,
+		"rating_blitz": 1694
+	},
+	{
 		"fideid": 14436760,
 		"name": "Davidovic, Andrej",
 		"country": "BIH",
@@ -19018,26 +19069,9 @@
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
-		"rating_standard": 1487,
-		"rating_rapid": 1531,
+		"rating_standard": 1492,
+		"rating_rapid": 1533,
 		"rating_blitz": 1511
-	},
-	{
-		"fideid": 14438038,
-		"name": "Tomic, Pavle A",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1487,
-		"rating_rapid": 1682,
-		"rating_blitz": 1646
 	},
 	{
 		"fideid": 14408880,
@@ -19070,7 +19104,7 @@
 		"birthday": 1967,
 		"flag": "w",
 		"rating_standard": 1485,
-		"rating_rapid": 1468,
+		"rating_rapid": 1500,
 		"rating_blitz": 1699
 	},
 	{
@@ -19088,7 +19122,7 @@
 		"flag": "",
 		"rating_standard": 1483,
 		"rating_rapid": 1520,
-		"rating_blitz": null
+		"rating_blitz": 1499
 	},
 	{
 		"fideid": 14430118,
@@ -19988,7 +20022,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1639,
+		"rating_rapid": 1638,
 		"rating_blitz": 1581
 	},
 	{
@@ -20564,7 +20598,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1993,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1816,
 		"rating_blitz": 1798
@@ -22023,12 +22057,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1624,
+		"rating_rapid": 1626,
 		"rating_blitz": null
 	},
 	{
@@ -22958,13 +22992,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1627,
-		"rating_blitz": null
+		"rating_rapid": 1672,
+		"rating_blitz": 1614
 	},
 	{
 		"fideid": 14434091,
@@ -22975,13 +23009,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1493,
-		"rating_blitz": null
+		"rating_rapid": 1476,
+		"rating_blitz": 1511
 	},
 	{
 		"fideid": 14437732,
@@ -23403,7 +23437,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1957,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1883,
 		"rating_blitz": 1980
@@ -24097,12 +24131,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1588,
+		"rating_rapid": 1562,
 		"rating_blitz": null
 	},
 	{
@@ -25134,7 +25168,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -25174,6 +25208,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1690,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14436957,
+		"name": "Djuric, Una",
+		"country": "BIH",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1412,
 		"rating_blitz": null
 	},
 	{
@@ -25568,6 +25619,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14436779,
+		"name": "Drakulic, Jovan",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1496,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14415569,
 		"name": "Draskovic, Vaso",
 		"country": "BIH",
@@ -25613,7 +25681,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1961,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1845,
 		"rating_blitz": null
@@ -25868,7 +25936,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2001,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1838,
 		"rating_blitz": null
@@ -26518,6 +26586,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1745,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14430380,
+		"name": "Galic, Vinko",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1490,
+		"rating_blitz": 1527
 	},
 	{
 		"fideid": 14432510,
@@ -27262,7 +27347,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1950,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1998,
 		"rating_blitz": null
@@ -28194,12 +28279,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1585,
+		"rating_rapid": 1622,
 		"rating_blitz": 1661
 	},
 	{
@@ -28455,6 +28540,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1844,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14432790,
+		"name": "Ilic, Vladimir",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1420,
 		"rating_blitz": null
 	},
 	{
@@ -28741,7 +28843,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1557,
 		"rating_blitz": null
@@ -28758,7 +28860,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1964,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1881,
 		"rating_blitz": null
@@ -29051,6 +29153,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1719,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14434539,
+		"name": "Jankovic, Jovan A",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1536,
+		"rating_blitz": 1660
 	},
 	{
 		"fideid": 14419858,
@@ -29444,23 +29563,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14423561,
-		"name": "Jonlija, Boris",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1674,
-		"rating_blitz": 1497
-	},
-	{
 		"fideid": 14416565,
 		"name": "Jonuzi, Ferid",
 		"country": "BIH",
@@ -29605,7 +29707,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -30492,7 +30594,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1968,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1839,
 		"rating_blitz": null
@@ -30529,6 +30631,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1548,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14435101,
+		"name": "Karanovic, Dunja",
+		"country": "BIH",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1429,
 		"rating_blitz": null
 	},
 	{
@@ -31135,12 +31254,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1963,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1926,
+		"rating_rapid": 1930,
 		"rating_blitz": 1992
 	},
 	{
@@ -31346,23 +31465,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1699,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14430703,
-		"name": "Kosutic, Cedomir",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1780,
-		"rating_blitz": 1905
 	},
 	{
 		"fideid": 14443910,
@@ -31849,7 +31951,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -31892,6 +31994,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14435128,
+		"name": "Krunic, Ema",
+		"country": "BIH",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1404,
+		"rating_blitz": 1550
+	},
+	{
+		"fideid": 14434555,
+		"name": "Krunic, Lidija",
+		"country": "BIH",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1418,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14423707,
 		"name": "Kugic, Dragan",
 		"country": "BIH",
@@ -31917,12 +32053,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1840,
+		"rating_rapid": 1816,
 		"rating_blitz": 1737
 	},
 	{
@@ -31988,7 +32124,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1961,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1757,
 		"rating_blitz": 1788
@@ -33348,7 +33484,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1960,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1901,
 		"rating_blitz": null
@@ -33433,7 +33569,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1955,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1850,
 		"rating_blitz": null
@@ -33535,7 +33671,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1955,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1820,
 		"rating_blitz": null
@@ -34149,8 +34285,8 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1544,
-		"rating_blitz": 1733
+		"rating_rapid": 1545,
+		"rating_blitz": 1675
 	},
 	{
 		"fideid": 14438836,
@@ -34994,7 +35130,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -35011,7 +35147,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -35028,7 +35164,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -35084,7 +35220,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1457,
+		"rating_rapid": 1423,
 		"rating_blitz": 1565
 	},
 	{
@@ -35120,6 +35256,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1774,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14436809,
+		"name": "Momcilovic, Jovan",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1447,
+		"rating_blitz": 1492
 	},
 	{
 		"fideid": 14435861,
@@ -35798,7 +35951,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1688,
+		"rating_rapid": 1689,
 		"rating_blitz": null
 	},
 	{
@@ -36490,7 +36643,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -36575,7 +36728,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -36816,7 +36969,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1962,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1671,
 		"rating_blitz": null
@@ -36915,7 +37068,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -36932,12 +37085,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1496,
+		"rating_rapid": 1476,
 		"rating_blitz": null
 	},
 	{
@@ -37230,6 +37383,23 @@
 		"rating_blitz": 1525
 	},
 	{
+		"fideid": 14432854,
+		"name": "Pepic, Petar",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1429,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14436728,
 		"name": "Pepic, Vasilije",
 		"country": "BIH",
@@ -37243,7 +37413,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1440,
+		"rating_rapid": 1441,
 		"rating_blitz": 1656
 	},
 	{
@@ -37417,6 +37587,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14432080,
+		"name": "Petkovic, Mateo",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1491,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14436671,
 		"name": "Petric, Mladen",
 		"country": "BIH",
@@ -37515,7 +37702,7 @@
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1688,
+		"rating_rapid": 1689,
 		"rating_blitz": null
 	},
 	{
@@ -37598,7 +37785,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1970,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1880,
 		"rating_blitz": null
@@ -38329,7 +38516,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1944,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1780,
 		"rating_blitz": null
@@ -38791,7 +38978,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1541,
-		"rating_blitz": 1543
+		"rating_blitz": 1544
 	},
 	{
 		"fideid": 14438259,
@@ -38859,6 +39046,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1683,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14436817,
+		"name": "Rasic, Vuk",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1453,
 		"rating_blitz": null
 	},
 	{
@@ -39162,7 +39366,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1973,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1981,
 		"rating_blitz": null
@@ -40077,12 +40281,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 8,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1553,
+		"rating_rapid": 1647,
 		"rating_blitz": 1559
 	},
 	{
@@ -40103,23 +40307,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14436647,
-		"name": "Selimovic, Munib",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1996,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1587,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14442884,
 		"name": "Selimovic, Munib",
 		"country": "BIH",
@@ -40137,6 +40324,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14436647,
+		"name": "Selimovic, Munib",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1587,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14419297,
 		"name": "Selman, Mahmut",
 		"country": "BIH",
@@ -40148,7 +40352,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1949,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1828,
 		"rating_blitz": null
@@ -40426,6 +40630,23 @@
 		"rating_blitz": 1752
 	},
 	{
+		"fideid": 14437961,
+		"name": "Simeunovic, Pavle",
+		"country": "BIH",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1632,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14408872,
 		"name": "Simic, Bozidar",
 		"country": "BIH",
@@ -40451,7 +40672,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -40695,7 +40916,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1896,
-		"rating_blitz": 1925
+		"rating_blitz": 1874
 	},
 	{
 		"fideid": 14417243,
@@ -40981,7 +41202,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1962,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1897,
 		"rating_blitz": null
@@ -41426,7 +41647,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1747,
-		"rating_blitz": 1664
+		"rating_blitz": 1665
 	},
 	{
 		"fideid": 14436736,
@@ -41695,7 +41916,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1961,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1895,
 		"rating_blitz": null
@@ -42037,7 +42258,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1533,
+		"rating_rapid": 1534,
 		"rating_blitz": null
 	},
 	{
@@ -42987,7 +43208,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1960,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1791,
 		"rating_blitz": null
@@ -43616,7 +43837,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1626,
 		"rating_blitz": null
@@ -44823,7 +45044,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1962,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1815,
 		"rating_blitz": null
@@ -44891,7 +45112,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1532,
 		"rating_blitz": null
@@ -45231,7 +45452,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1991,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1906
@@ -45452,7 +45673,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1981,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1754
@@ -45758,7 +45979,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1699
@@ -46257,23 +46478,6 @@
 		"rating_blitz": 1752
 	},
 	{
-		"fideid": 14430380,
-		"name": "Galic, Vinko",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1527
-	},
-	{
 		"fideid": 14413850,
 		"name": "Ganjto, Zeljko",
 		"country": "BIH",
@@ -46302,7 +46506,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1543
@@ -46370,7 +46574,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1994,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1573
@@ -46869,23 +47073,6 @@
 		"rating_blitz": 1450
 	},
 	{
-		"fideid": 14434539,
-		"name": "Jankovic, Jovan A",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1660
-	},
-	{
 		"fideid": 14439344,
 		"name": "Jovanovic, Davor",
 		"country": "BIH",
@@ -46948,7 +47135,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1997,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1555
@@ -47190,23 +47377,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1825
-	},
-	{
-		"fideid": 14435128,
-		"name": "Krunic, Ema",
-		"country": "BIH",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1550
 	},
 	{
 		"fideid": 14404940,
@@ -47498,23 +47668,6 @@
 		"rating_blitz": 1894
 	},
 	{
-		"fideid": 14436809,
-		"name": "Momcilovic, Jovan",
-		"country": "BIH",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1492
-	},
-	{
 		"fideid": 14415054,
 		"name": "Muharemovic, Rasim",
 		"country": "BIH",
@@ -47662,7 +47815,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1451
@@ -48155,7 +48308,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1764
@@ -48203,13 +48356,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 18,
 		"k": 20,
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1486
+		"rating_blitz": 1524
 	},
 	{
 		"fideid": 14444852,
@@ -48291,7 +48444,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1467
@@ -48461,7 +48614,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1615

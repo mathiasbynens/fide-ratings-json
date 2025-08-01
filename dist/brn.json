@@ -93,13 +93,13 @@
 		"w_title": "",
 		"o_title": "FI",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1986,
 		"flag": "",
-		"rating_standard": 2118,
-		"rating_rapid": 2126,
-		"rating_blitz": 2075
+		"rating_standard": 2120,
+		"rating_rapid": 2151,
+		"rating_blitz": 2093
 	},
 	{
 		"fideid": 11202360,
@@ -132,8 +132,8 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": 2102,
-		"rating_rapid": 2103,
-		"rating_blitz": 2039
+		"rating_rapid": 2102,
+		"rating_blitz": 2005
 	},
 	{
 		"fideid": 11200030,
@@ -212,13 +212,13 @@
 		"w_title": "",
 		"o_title": "FI",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1978,
 		"flag": "",
 		"rating_standard": 1969,
-		"rating_rapid": 2033,
-		"rating_blitz": 2035
+		"rating_rapid": 2051,
+		"rating_blitz": 2041
 	},
 	{
 		"fideid": 11200057,
@@ -229,12 +229,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": 1964,
-		"rating_rapid": 1913,
+		"rating_rapid": 1947,
 		"rating_blitz": 1940
 	},
 	{
@@ -319,7 +319,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": 1882,
-		"rating_rapid": 1687,
+		"rating_rapid": 1700,
 		"rating_blitz": 1624
 	},
 	{
@@ -348,13 +348,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1860,
-		"rating_rapid": 1803,
-		"rating_blitz": 1889
+		"rating_rapid": 1782,
+		"rating_blitz": 1829
 	},
 	{
 		"fideid": 11201908,
@@ -404,8 +404,8 @@
 		"birthday": 1973,
 		"flag": "i",
 		"rating_standard": 1842,
-		"rating_rapid": 1904,
-		"rating_blitz": 1999
+		"rating_rapid": 1867,
+		"rating_blitz": 1927
 	},
 	{
 		"fideid": 11201770,
@@ -507,7 +507,7 @@
 		"flag": "i",
 		"rating_standard": 1792,
 		"rating_rapid": 1843,
-		"rating_blitz": 1861
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 11201436,
@@ -569,13 +569,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 1785,
-		"rating_rapid": 1803,
-		"rating_blitz": 1824
+		"rating_rapid": 1806,
+		"rating_blitz": 1806
 	},
 	{
 		"fideid": 11201444,
@@ -609,7 +609,7 @@
 		"flag": "i",
 		"rating_standard": 1775,
 		"rating_rapid": 1801,
-		"rating_blitz": null
+		"rating_blitz": 1797
 	},
 	{
 		"fideid": 11200332,
@@ -671,7 +671,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -705,11 +705,11 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 0,
+		"games": 17,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 1747,
+		"rating_standard": 1752,
 		"rating_rapid": 1637,
 		"rating_blitz": 1641
 	},
@@ -799,23 +799,6 @@
 		"rating_blitz": 1718
 	},
 	{
-		"fideid": 11201789,
-		"name": "Shaker, Musab",
-		"country": "BRN",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 1711,
-		"rating_rapid": 1715,
-		"rating_blitz": 1678
-	},
-	{
 		"fideid": 11200162,
 		"name": "Al-Ghasra, Ahmed",
 		"country": "BRN",
@@ -830,7 +813,24 @@
 		"flag": "i",
 		"rating_standard": 1708,
 		"rating_rapid": 1708,
-		"rating_blitz": 1693
+		"rating_blitz": 1666
+	},
+	{
+		"fideid": 11201789,
+		"name": "Shaker, Musab",
+		"country": "BRN",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1690,
+		"rating_rapid": 1672,
+		"rating_blitz": 1689
 	},
 	{
 		"fideid": 11208554,
@@ -846,7 +846,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": 1687,
-		"rating_rapid": 1598,
+		"rating_rapid": 1621,
 		"rating_blitz": 1453
 	},
 	{
@@ -858,7 +858,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 20,
 		"birthday": "",
 		"flag": "",
@@ -875,7 +875,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -931,8 +931,8 @@
 		"birthday": 2001,
 		"flag": "i",
 		"rating_standard": 1671,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1650,
+		"rating_blitz": 1703
 	},
 	{
 		"fideid": 11200570,
@@ -977,13 +977,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1648,
-		"rating_rapid": 1597,
-		"rating_blitz": 1603
+		"rating_rapid": 1588,
+		"rating_blitz": 1618
 	},
 	{
 		"fideid": 11202300,
@@ -1031,10 +1031,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1613,
-		"rating_rapid": 1529,
-		"rating_blitz": null
+		"rating_rapid": 1534,
+		"rating_blitz": 1542
 	},
 	{
 		"fideid": 11208058,
@@ -1048,10 +1048,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1613,
-		"rating_rapid": null,
-		"rating_blitz": 1491
+		"rating_rapid": 1707,
+		"rating_blitz": 1551
 	},
 	{
 		"fideid": 11205873,
@@ -1062,11 +1062,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 1609,
+		"rating_standard": 1610,
 		"rating_rapid": null,
 		"rating_blitz": 1403
 	},
@@ -1100,9 +1100,9 @@
 		"k": 20,
 		"birthday": 2000,
 		"flag": "w",
-		"rating_standard": 1601,
-		"rating_rapid": 1489,
-		"rating_blitz": 1418
+		"rating_standard": 1600,
+		"rating_rapid": 1517,
+		"rating_blitz": 1467
 	},
 	{
 		"fideid": 11203005,
@@ -1181,7 +1181,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
@@ -1271,8 +1271,8 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1565,
-		"rating_rapid": 1654,
-		"rating_blitz": 1729
+		"rating_rapid": 1716,
+		"rating_blitz": 1787
 	},
 	{
 		"fideid": 11206632,
@@ -1283,13 +1283,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1563,
-		"rating_rapid": 1445,
-		"rating_blitz": 1461
+		"rating_rapid": null,
+		"rating_blitz": 1448
 	},
 	{
 		"fideid": 11205679,
@@ -1377,6 +1377,40 @@
 		"rating_blitz": 1549
 	},
 	{
+		"fideid": 11205610,
+		"name": "Tulefat, Tefla",
+		"country": "BRN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "wi",
+		"rating_standard": 1538,
+		"rating_rapid": 1468,
+		"rating_blitz": 1405
+	},
+	{
+		"fideid": 11204141,
+		"name": "Tissir, Maryam",
+		"country": "BRN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1534,
+		"rating_rapid": 1438,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11201649,
 		"name": "Devishree, Murali",
 		"country": "BRN",
@@ -1407,7 +1441,7 @@
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": 1530,
-		"rating_rapid": 1462,
+		"rating_rapid": 1468,
 		"rating_blitz": 1422
 	},
 	{
@@ -1440,7 +1474,7 @@
 		"k": 20,
 		"birthday": 1989,
 		"flag": "w",
-		"rating_standard": 1528,
+		"rating_standard": 1529,
 		"rating_rapid": 1439,
 		"rating_blitz": 1439
 	},
@@ -1453,13 +1487,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1527,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1403,
+		"rating_blitz": 1503
 	},
 	{
 		"fideid": 11201851,
@@ -1492,8 +1526,8 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1526,
-		"rating_rapid": 1486,
-		"rating_blitz": 1468
+		"rating_rapid": 1514,
+		"rating_blitz": 1490
 	},
 	{
 		"fideid": 11208589,
@@ -1504,7 +1538,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1989,
 		"flag": "",
@@ -1521,12 +1555,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1521,
-		"rating_rapid": 1515,
+		"rating_rapid": 1613,
 		"rating_blitz": 1440
 	},
 	{
@@ -1560,7 +1594,7 @@
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": 1504,
-		"rating_rapid": 1584,
+		"rating_rapid": 1597,
 		"rating_blitz": 1531
 	},
 	{
@@ -1572,11 +1606,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1501,
+		"rating_standard": 1502,
 		"rating_rapid": 1540,
 		"rating_blitz": 1670
 	},
@@ -1606,13 +1640,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1494,
-		"rating_rapid": 1404,
-		"rating_blitz": 1517
+		"rating_rapid": 1405,
+		"rating_blitz": 1480
 	},
 	{
 		"fideid": 11206640,
@@ -1662,25 +1696,8 @@
 		"birthday": 1982,
 		"flag": "",
 		"rating_standard": 1485,
-		"rating_rapid": 1526,
+		"rating_rapid": 1486,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11205610,
-		"name": "Tulefat, Tefla",
-		"country": "BRN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1998,
-		"flag": "wi",
-		"rating_standard": 1482,
-		"rating_rapid": 1468,
-		"rating_blitz": 1405
 	},
 	{
 		"fideid": 11205377,
@@ -1696,8 +1713,8 @@
 		"birthday": 2007,
 		"flag": "w",
 		"rating_standard": 1475,
-		"rating_rapid": 1504,
-		"rating_blitz": 1511
+		"rating_rapid": 1495,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 11205458,
@@ -1714,41 +1731,7 @@
 		"flag": "w",
 		"rating_standard": 1472,
 		"rating_rapid": 1607,
-		"rating_blitz": 1600
-	},
-	{
-		"fideid": 11205245,
-		"name": "Tissir, Hamza",
-		"country": "BRN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1467,
-		"rating_rapid": 1547,
-		"rating_blitz": 1638
-	},
-	{
-		"fideid": 11204141,
-		"name": "Tissir, Maryam",
-		"country": "BRN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1464,
-		"rating_rapid": 1438,
-		"rating_blitz": null
+		"rating_blitz": 1672
 	},
 	{
 		"fideid": 11206764,
@@ -1764,7 +1747,7 @@
 		"birthday": 1996,
 		"flag": "i",
 		"rating_standard": 1460,
-		"rating_rapid": 1477,
+		"rating_rapid": 1443,
 		"rating_blitz": 1476
 	},
 	{
@@ -1797,7 +1780,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1450,
+		"rating_standard": 1451,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1819,6 +1802,23 @@
 		"rating_blitz": 1432
 	},
 	{
+		"fideid": 11205245,
+		"name": "Tissir, Hamza",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1436,
+		"rating_rapid": 1547,
+		"rating_blitz": 1638
+	},
+	{
 		"fideid": 11205474,
 		"name": "Almusawi, Mahmood",
 		"country": "BRN",
@@ -1827,13 +1827,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 6,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1441,
-		"rating_rapid": 1480,
-		"rating_blitz": 1524
+		"rating_standard": 1421,
+		"rating_rapid": 1485,
+		"rating_blitz": 1519
 	},
 	{
 		"fideid": 11204273,
@@ -1849,8 +1849,25 @@
 		"birthday": 2013,
 		"flag": "i",
 		"rating_standard": 1421,
-		"rating_rapid": null,
+		"rating_rapid": 1437,
 		"rating_blitz": 1436
+	},
+	{
+		"fideid": 11206381,
+		"name": "Adam Alqatari",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1416,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11204680,
@@ -1861,7 +1878,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -1887,23 +1904,6 @@
 		"rating_blitz": 1585
 	},
 	{
-		"fideid": 11206381,
-		"name": "Adam Alqatari",
-		"country": "BRN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1413,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11209895,
 		"name": "Aamer Mohamed Alghazali",
 		"country": "BRN",
@@ -1912,12 +1912,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 5,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1501,
+		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
 	{
@@ -1936,6 +1936,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1513,
 		"rating_blitz": 1425
+	},
+	{
+		"fideid": 11206462,
+		"name": "Abdulla Nayel",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1461,
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 11201185,
@@ -1989,6 +2006,23 @@
 		"rating_blitz": 1713
 	},
 	{
+		"fideid": 11210303,
+		"name": "Ahmed Neaman Alhasan",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1590,
+		"rating_blitz": 1755
+	},
+	{
 		"fideid": 11204249,
 		"name": "Ahmed, Nader",
 		"country": "BRN",
@@ -2021,23 +2055,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1537,
 		"rating_blitz": 1770
-	},
-	{
-		"fideid": 11207930,
-		"name": "Al Arayedh, Daniyah",
-		"country": "BRN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1422,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11202319,
@@ -2156,7 +2173,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1578,
-		"rating_blitz": null
+		"rating_blitz": 1465
 	},
 	{
 		"fideid": 11200774,
@@ -2346,6 +2363,23 @@
 		"rating_blitz": 1731
 	},
 	{
+		"fideid": 11205466,
+		"name": "Almusawi, Ali",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1449,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11206730,
 		"name": "Alnajem, Meshal",
 		"country": "BRN",
@@ -2361,6 +2395,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1465,
 		"rating_blitz": 1490
+	},
+	{
+		"fideid": 11207507,
+		"name": "Alqallaf, Ali",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1472,
+		"rating_blitz": 1435
 	},
 	{
 		"fideid": 11207280,
@@ -2388,13 +2439,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1495,
+		"rating_rapid": 1489,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11207019,
+		"name": "Alsalman, Zainab",
+		"country": "BRN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1437,
+		"rating_blitz": 1529
 	},
 	{
 		"fideid": 11208066,
@@ -2422,13 +2490,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 19,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1538,
-		"rating_blitz": 1547
+		"rating_rapid": 1625,
+		"rating_blitz": 1568
 	},
 	{
 		"fideid": 11205520,
@@ -2462,7 +2530,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1700,
-		"rating_blitz": 1595
+		"rating_blitz": 1636
 	},
 	{
 		"fideid": 11205024,
@@ -2581,7 +2649,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1467,
-		"rating_blitz": null
+		"rating_blitz": 1601
 	},
 	{
 		"fideid": 11203790,
@@ -2734,7 +2802,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1596,
-		"rating_blitz": 1499
+		"rating_blitz": 1532
 	},
 	{
 		"fideid": 11206349,
@@ -2830,12 +2898,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1437,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -2975,6 +3043,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11209925,
+		"name": "Noor Mohammed Abdulsamad",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1432,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11205512,
 		"name": "Omran, Hasan",
 		"country": "BRN",
@@ -3026,6 +3111,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11206373,
+		"name": "Shams Abdulmajeed",
+		"country": "BRN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1433,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11204834,
 		"name": "Shamsuddin, Shuaib",
 		"country": "BRN",
@@ -3041,6 +3143,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1591,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11210010,
+		"name": "Tamer Alhadi",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1518,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 11203951,
@@ -3136,13 +3255,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1470
+		"rating_blitz": 1424
 	},
 	{
 		"fideid": 11203315,
@@ -3160,23 +3279,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1598
-	},
-	{
-		"fideid": 11206462,
-		"name": "Abdulla Nayel",
-		"country": "BRN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1457
 	},
 	{
 		"fideid": 11208023,
@@ -3247,6 +3349,23 @@
 		"rating_blitz": 1426
 	},
 	{
+		"fideid": 11205920,
+		"name": "Ahmadi, Meisam",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1570
+	},
+	{
 		"fideid": 11204303,
 		"name": "Ahmed, Abukabeer",
 		"country": "BRN",
@@ -3279,6 +3398,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1735
+	},
+	{
+		"fideid": 11207930,
+		"name": "Al Arayedh, Daniyah",
+		"country": "BRN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1466
 	},
 	{
 		"fideid": 11207663,
@@ -3434,23 +3570,6 @@
 		"rating_blitz": 1486
 	},
 	{
-		"fideid": 11207019,
-		"name": "Alsalman, Zainab",
-		"country": "BRN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1529
-	},
-	{
 		"fideid": 11205539,
 		"name": "Alsharafi, Abdulaziz",
 		"country": "BRN",
@@ -3516,7 +3635,7 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1548
+		"rating_blitz": 1547
 	},
 	{
 		"fideid": 11200189,
@@ -3567,7 +3686,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1555
+		"rating_blitz": 1554
 	},
 	{
 		"fideid": 11202190,
@@ -3585,6 +3704,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1966
+	},
+	{
+		"fideid": 11208350,
+		"name": "Hamad,Mohamed",
+		"country": "BRN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1489
 	},
 	{
 		"fideid": 11206551,
@@ -3666,7 +3802,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1405
@@ -3765,30 +3901,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1449
-	},
-	{
-		"fideid": 11210010,
-		"name": "Tamer Alhadi",
-		"country": "BRN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1521
+		"rating_blitz": 1440
 	},
 	{
 		"fideid": 11209135,

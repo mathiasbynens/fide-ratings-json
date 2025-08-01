@@ -80,7 +80,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1829,
+		"rating_standard": 1830,
 		"rating_rapid": 1717,
 		"rating_blitz": 1852
 	},
@@ -266,7 +266,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1754,
 		"rating_rapid": 1593,
 		"rating_blitz": 1470
@@ -816,23 +816,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21300178,
-		"name": "McPherson, Naleli",
-		"country": "LES",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "w",
-		"rating_standard": 1664,
-		"rating_rapid": 1606,
-		"rating_blitz": 1538
-	},
-	{
 		"fideid": 21300275,
 		"name": "Mohale Malebanye",
 		"country": "LES",
@@ -980,10 +963,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1649,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21300178,
+		"name": "McPherson, Naleli",
+		"country": "LES",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "w",
+		"rating_standard": 1645,
+		"rating_rapid": 1606,
+		"rating_blitz": 1538
 	},
 	{
 		"fideid": 21301620,
@@ -1202,7 +1202,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1630,
+		"rating_standard": 1634,
 		"rating_rapid": null,
 		"rating_blitz": 1494
 	},
@@ -1218,7 +1218,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1626,
 		"rating_rapid": 1569,
 		"rating_blitz": 1569
@@ -1694,7 +1694,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2001,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1584,
 		"rating_rapid": null,
 		"rating_blitz": 1552
@@ -1762,7 +1762,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1579,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1813,7 +1813,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1572,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1881,7 +1881,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1565,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1915,7 +1915,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1997,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1561,
 		"rating_rapid": null,
 		"rating_blitz": 1663
@@ -2102,7 +2102,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1547,
 		"rating_rapid": null,
 		"rating_blitz": 1515
@@ -2306,7 +2306,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1511,
 		"rating_rapid": null,
 		"rating_blitz": 1568
@@ -2425,7 +2425,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1489,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2529,23 +2529,6 @@
 		"birthday": 1996,
 		"flag": "i",
 		"rating_standard": 1485,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 21303436,
-		"name": "Moorosi Thato",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1481,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -2697,10 +2680,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1997,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1447,
 		"rating_rapid": 1452,
 		"rating_blitz": 1489
+	},
+	{
+		"fideid": 21303436,
+		"name": "Moorosi Thato",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1447,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 21301808,
