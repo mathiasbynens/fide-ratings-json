@@ -23396,7 +23396,7 @@
 		"name": "Kornienko, Konstantin",
 		"country": "RUS",
 		"sex": "M",
-		"title": "CM",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -51616,7 +51616,7 @@
 		"name": "Olisov, Andrey",
 		"country": "RUS",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -56087,7 +56087,7 @@
 		"name": "Osetrov, Dmitrij",
 		"country": "RUS",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "AGM",
@@ -56733,7 +56733,7 @@
 		"name": "Boikov, Pavel",
 		"country": "RUS",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -148740,7 +148740,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1990,
@@ -230365,23 +230365,6 @@
 		"rating_standard": 1912,
 		"rating_rapid": 2075,
 		"rating_blitz": 1903
-	},
-	{
-		"fideid": 34235574,
-		"name": "Khalimov, Daniil",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": 1912,
-		"rating_rapid": 2082,
-		"rating_blitz": 2028
 	},
 	{
 		"fideid": 4108523,
@@ -410081,7 +410064,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 1981,
@@ -521584,7 +521567,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 11,
 		"k": 40,
 		"birthday": 2014,
@@ -567572,7 +567555,7 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1541,
 		"rating_rapid": 1630,
@@ -723962,7 +723945,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54144248,
+		"fideid": 54165504,
 		"name": "Abramov, Vladimir",
 		"country": "RUS",
 		"sex": "M",
@@ -723972,11 +723955,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1960,
-		"flag": "i",
+		"birthday": 1954,
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1664,
-		"rating_blitz": 1648
+		"rating_rapid": 1634,
+		"rating_blitz": 1701
 	},
 	{
 		"fideid": 34133574,
@@ -723996,7 +723979,7 @@
 		"rating_blitz": 2016
 	},
 	{
-		"fideid": 54165504,
+		"fideid": 54144248,
 		"name": "Abramov, Vladimir",
 		"country": "RUS",
 		"sex": "M",
@@ -724006,11 +723989,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1954,
-		"flag": "",
+		"birthday": 1960,
+		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1634,
-		"rating_blitz": 1701
+		"rating_rapid": 1664,
+		"rating_blitz": 1648
 	},
 	{
 		"fideid": 55840655,
@@ -729793,23 +729776,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54105781,
-		"name": "Alekseev, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1939,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1847,
-		"rating_blitz": 1917
-	},
-	{
 		"fideid": 44138105,
 		"name": "Alekseev, Vladimir",
 		"country": "RUS",
@@ -729825,6 +729791,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1627,
 		"rating_blitz": 1533
+	},
+	{
+		"fideid": 54105781,
+		"name": "Alekseev, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1939,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1847,
+		"rating_blitz": 1917
 	},
 	{
 		"fideid": 34451951,
@@ -732394,23 +732377,6 @@
 		"rating_blitz": 1675
 	},
 	{
-		"fideid": 55716903,
-		"name": "Andreev, Ilya",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1627,
-		"rating_blitz": 1413
-	},
-	{
 		"fideid": 522095411,
 		"name": "Andreev, Ilya",
 		"country": "RUS",
@@ -732426,6 +732392,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1498,
 		"rating_blitz": 1536
+	},
+	{
+		"fideid": 55716903,
+		"name": "Andreev, Ilya",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1627,
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 34356614,
@@ -732479,23 +732462,6 @@
 		"rating_blitz": 1503
 	},
 	{
-		"fideid": 24295124,
-		"name": "Andreev, Mikhail",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1605,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34375481,
 		"name": "Andreev, Mikhail",
 		"country": "RUS",
@@ -732511,6 +732477,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1541,
 		"rating_blitz": 1489
+	},
+	{
+		"fideid": 24295124,
+		"name": "Andreev, Mikhail",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1605,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 55764797,
@@ -733499,23 +733482,6 @@
 		"rating_blitz": 1451
 	},
 	{
-		"fideid": 34383069,
-		"name": "Anisimov, Daniil",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1442,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55875700,
 		"name": "Anisimov, Daniil",
 		"country": "RUS",
@@ -733530,6 +733496,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1495,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34383069,
+		"name": "Anisimov, Daniil",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1442,
 		"rating_blitz": null
 	},
 	{
@@ -748748,23 +748731,6 @@
 		"rating_blitz": 1453
 	},
 	{
-		"fideid": 34456813,
-		"name": "Belkov, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1961,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1704,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34215840,
 		"name": "Belkov, Sergey",
 		"country": "RUS",
@@ -748779,6 +748745,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1891,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34456813,
+		"name": "Belkov, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1961,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1704,
 		"rating_blitz": null
 	},
 	{
@@ -750414,23 +750397,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55786812,
-		"name": "Belyaev, Andrey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1648,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 540019640,
 		"name": "Belyaev, Andrey",
 		"country": "RUS",
@@ -750445,6 +750411,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1575,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55786812,
+		"name": "Belyaev, Andrey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1648,
 		"rating_blitz": null
 	},
 	{
@@ -750601,23 +750584,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 44194498,
-		"name": "Belyaev, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1950,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1967,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 54134579,
 		"name": "Belyaev, Sergey",
 		"country": "RUS",
@@ -750633,6 +750599,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1925,
 		"rating_blitz": 1890
+	},
+	{
+		"fideid": 44194498,
+		"name": "Belyaev, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1950,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1967,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 55650325,
@@ -768485,23 +768468,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522087338,
-		"name": "Chernov, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1453,
-		"rating_blitz": 1619
-	},
-	{
 		"fideid": 24191698,
 		"name": "Chernov, Sergey",
 		"country": "RUS",
@@ -768517,6 +768483,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1824,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 522087338,
+		"name": "Chernov, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1453,
+		"rating_blitz": 1619
 	},
 	{
 		"fideid": 34375090,
@@ -773177,6 +773160,23 @@
 		"rating_blitz": 1597
 	},
 	{
+		"fideid": 34332820,
+		"name": "Danilov, Nikolay",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1863,
+		"rating_blitz": 1633
+	},
+	{
 		"fideid": 540033503,
 		"name": "Danilov, Nikolay",
 		"country": "RUS",
@@ -773209,23 +773209,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1403,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 34332820,
-		"name": "Danilov, Nikolay",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1863,
-		"rating_blitz": 1633
 	},
 	{
 		"fideid": 34236180,
@@ -773976,23 +773959,6 @@
 		"rating_blitz": 1489
 	},
 	{
-		"fideid": 55610714,
-		"name": "Dautov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1967,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1862,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34280537,
 		"name": "Dautov, Vladimir",
 		"country": "RUS",
@@ -774008,6 +773974,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1769,
 		"rating_blitz": 2014
+	},
+	{
+		"fideid": 55610714,
+		"name": "Dautov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1967,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1862,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 55683452,
@@ -774180,23 +774163,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34394613,
-		"name": "Davletov, Timur",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1453,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 540063321,
 		"name": "Davletov, Timur",
 		"country": "RUS",
@@ -774212,6 +774178,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1827,
 		"rating_blitz": 1648
+	},
+	{
+		"fideid": 34394613,
+		"name": "Davletov, Timur",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1453,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 54195250,
@@ -775081,23 +775064,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34429743,
-		"name": "Dementiev, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1598,
-		"rating_blitz": 1533
-	},
-	{
 		"fideid": 34310479,
 		"name": "Dementiev, Aleksandr",
 		"country": "RUS",
@@ -775113,6 +775079,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1860,
 		"rating_blitz": 1807
+	},
+	{
+		"fideid": 34429743,
+		"name": "Dementiev, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1598,
+		"rating_blitz": 1533
 	},
 	{
 		"fideid": 34431225,
@@ -775778,23 +775761,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55818005,
-		"name": "Denisenko, Daniil",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1405,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 522016660,
 		"name": "Denisenko, Daniil",
 		"country": "RUS",
@@ -775809,6 +775775,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1490,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55818005,
+		"name": "Denisenko, Daniil",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1405,
 		"rating_blitz": null
 	},
 	{
@@ -784652,23 +784635,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55717810,
-		"name": "Efimov, Evgeny",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1551,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34281096,
 		"name": "Efimov, Evgeny",
 		"country": "RUS",
@@ -784683,6 +784649,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1811,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55717810,
+		"name": "Efimov, Evgeny",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1551,
 		"rating_blitz": null
 	},
 	{
@@ -785145,23 +785128,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34344012,
-		"name": "Efremov, Nikolay",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1890,
-		"rating_blitz": 1782
-	},
-	{
 		"fideid": 34222553,
 		"name": "Efremov, Nikolay",
 		"country": "RUS",
@@ -785177,6 +785143,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1834,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34344012,
+		"name": "Efremov, Nikolay",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1890,
+		"rating_blitz": 1782
 	},
 	{
 		"fideid": 44193297,
@@ -785485,23 +785468,6 @@
 		"rating_blitz": 1881
 	},
 	{
-		"fideid": 55667040,
-		"name": "Egorov, Alexey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1485,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34200657,
 		"name": "Egorov, Alexey",
 		"country": "RUS",
@@ -785517,6 +785483,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1725,
 		"rating_blitz": 1743
+	},
+	{
+		"fideid": 55667040,
+		"name": "Egorov, Alexey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1485,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34305599,
@@ -785893,23 +785876,6 @@
 		"rating_blitz": 1947
 	},
 	{
-		"fideid": 4185170,
-		"name": "Egorov, Yury",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1922,
-		"rating_blitz": 1863
-	},
-	{
 		"fideid": 24259888,
 		"name": "Egorov, Yury",
 		"country": "RUS",
@@ -785925,6 +785891,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1758,
 		"rating_blitz": 1516
+	},
+	{
+		"fideid": 4185170,
+		"name": "Egorov, Yury",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1922,
+		"rating_blitz": 1863
 	},
 	{
 		"fideid": 54173701,
@@ -792591,23 +792574,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 44193815,
-		"name": "Fedorov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1950,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1725,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 44179235,
 		"name": "Fedorov, Vladimir",
 		"country": "RUS",
@@ -792623,6 +792589,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1597,
 		"rating_blitz": 1637
+	},
+	{
+		"fideid": 44193815,
+		"name": "Fedorov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1950,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1725,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 540009734,
@@ -796960,23 +796943,6 @@
 		"rating_blitz": 1859
 	},
 	{
-		"fideid": 522018000,
-		"name": "Frolov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1949,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1575,
-		"rating_blitz": 1615
-	},
-	{
 		"fideid": 54148952,
 		"name": "Frolov, Vladimir",
 		"country": "RUS",
@@ -797009,6 +796975,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1451,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 522018000,
+		"name": "Frolov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1949,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1575,
+		"rating_blitz": 1615
 	},
 	{
 		"fideid": 34422439,
@@ -803913,23 +803896,6 @@
 		"rating_blitz": 1570
 	},
 	{
-		"fideid": 54165776,
-		"name": "Gilemkhanov, Timur",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1522,
-		"rating_blitz": 1595
-	},
-	{
 		"fideid": 24261610,
 		"name": "Gilemkhanov, Timur",
 		"country": "RUS",
@@ -803945,6 +803911,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1671,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 54165776,
+		"name": "Gilemkhanov, Timur",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1522,
+		"rating_blitz": 1595
 	},
 	{
 		"fideid": 44104014,
@@ -809659,23 +809642,6 @@
 		"rating_blitz": 1814
 	},
 	{
-		"fideid": 34446702,
-		"name": "Gorelov, Kirill",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1434,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34156612,
 		"name": "Gorelov, Kirill",
 		"country": "RUS",
@@ -809691,6 +809657,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1594,
 		"rating_blitz": 1720
+	},
+	{
+		"fideid": 34446702,
+		"name": "Gorelov, Kirill",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1434,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34285377,
@@ -816782,23 +816765,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55708730,
-		"name": "Gusev, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1607,
-		"rating_blitz": 1714
-	},
-	{
 		"fideid": 522067973,
 		"name": "Gusev, Aleksandr",
 		"country": "RUS",
@@ -816833,8 +816799,8 @@
 		"rating_blitz": 1828
 	},
 	{
-		"fideid": 54197317,
-		"name": "Gusev, Andrei",
+		"fideid": 55708730,
+		"name": "Gusev, Aleksandr",
 		"country": "RUS",
 		"sex": "M",
 		"title": "",
@@ -816842,12 +816808,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "i",
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 2033,
-		"rating_blitz": null
+		"rating_rapid": 1607,
+		"rating_blitz": 1714
 	},
 	{
 		"fideid": 55777830,
@@ -816864,6 +816830,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1561,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 54197317,
+		"name": "Gusev, Andrei",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 2033,
 		"rating_blitz": null
 	},
 	{
@@ -824160,23 +824143,6 @@
 		"rating_blitz": 1928
 	},
 	{
-		"fideid": 522048707,
-		"name": "Ivanov, Grigory",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1461,
-		"rating_blitz": 1518
-	},
-	{
 		"fideid": 24292630,
 		"name": "Ivanov, Grigory",
 		"country": "RUS",
@@ -824192,6 +824158,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1858,
 		"rating_blitz": 2115
+	},
+	{
+		"fideid": 522048707,
+		"name": "Ivanov, Grigory",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1461,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 34358650,
@@ -824568,7 +824551,7 @@
 		"rating_blitz": 1570
 	},
 	{
-		"fideid": 34216910,
+		"fideid": 540004635,
 		"name": "Ivanov, Mikhail",
 		"country": "RUS",
 		"sex": "M",
@@ -824577,11 +824560,11 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "i",
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1608,
+		"rating_rapid": 1425,
 		"rating_blitz": null
 	},
 	{
@@ -824602,7 +824585,7 @@
 		"rating_blitz": 1606
 	},
 	{
-		"fideid": 540004635,
+		"fideid": 34216910,
 		"name": "Ivanov, Mikhail",
 		"country": "RUS",
 		"sex": "M",
@@ -824611,11 +824594,11 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
+		"k": 20,
+		"birthday": 2003,
+		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1425,
+		"rating_rapid": 1608,
 		"rating_blitz": null
 	},
 	{
@@ -825112,23 +825095,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 540038815,
-		"name": "Ivanov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1640,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24196274,
 		"name": "Ivanov, Vladimir",
 		"country": "RUS",
@@ -825143,6 +825109,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1963,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 540038815,
+		"name": "Ivanov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1640,
 		"rating_blitz": null
 	},
 	{
@@ -825469,23 +825452,6 @@
 		"rating_blitz": 1659
 	},
 	{
-		"fideid": 55825877,
-		"name": "Ivanova, Daria",
-		"country": "RUS",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "wi",
-		"rating_standard": null,
-		"rating_rapid": 1637,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55730663,
 		"name": "Ivanova, Daria",
 		"country": "RUS",
@@ -825500,6 +825466,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1470,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55825877,
+		"name": "Ivanova, Daria",
+		"country": "RUS",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1637,
 		"rating_blitz": null
 	},
 	{
@@ -825554,23 +825537,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 24251771,
-		"name": "Ivanova, Nadezhda",
-		"country": "RUS",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "wi",
-		"rating_standard": null,
-		"rating_rapid": 1621,
-		"rating_blitz": 1516
-	},
-	{
 		"fideid": 55794190,
 		"name": "Ivanova, Nadezhda",
 		"country": "RUS",
@@ -825586,6 +825552,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1469,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 24251771,
+		"name": "Ivanova, Nadezhda",
+		"country": "RUS",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1621,
+		"rating_blitz": 1516
 	},
 	{
 		"fideid": 522040650,
@@ -828376,23 +828359,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34186570,
-		"name": "Kalinin, Andrey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1933,
-		"rating_blitz": 1851
-	},
-	{
 		"fideid": 55814930,
 		"name": "Kalinin, Andrey",
 		"country": "RUS",
@@ -828408,6 +828374,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1496,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34186570,
+		"name": "Kalinin, Andrey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1933,
+		"rating_blitz": 1851
 	},
 	{
 		"fideid": 34120383,
@@ -832864,23 +832847,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54136229,
-		"name": "Karpov, Mikhail",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1437,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55844880,
 		"name": "Karpov, Mikhail",
 		"country": "RUS",
@@ -832895,6 +832861,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1479,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 54136229,
+		"name": "Karpov, Mikhail",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1437,
 		"rating_blitz": null
 	},
 	{
@@ -836893,23 +836876,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55821596,
-		"name": "Khabarov, Dmitry",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1707,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34458999,
 		"name": "Khabarov, Dmitry",
 		"country": "RUS",
@@ -836925,6 +836891,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1771,
 		"rating_blitz": 1799
+	},
+	{
+		"fideid": 55821596,
+		"name": "Khabarov, Dmitry",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1707,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34476504,
@@ -844560,23 +844543,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522040692,
-		"name": "Kim, Maksim",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1411,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24277398,
 		"name": "Kim, Maksim",
 		"country": "RUS",
@@ -844591,6 +844557,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1443,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 522040692,
+		"name": "Kim, Maksim",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1411,
 		"rating_blitz": null
 	},
 	{
@@ -845036,23 +845019,6 @@
 		"rating_blitz": 1589
 	},
 	{
-		"fideid": 34200401,
-		"name": "Kireev, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1751,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55830986,
 		"name": "Kireev, Sergey",
 		"country": "RUS",
@@ -845067,6 +845033,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1538,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34200401,
+		"name": "Kireev, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1751,
 		"rating_blitz": null
 	},
 	{
@@ -846617,7 +846600,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34255265,
+		"fideid": 55752993,
 		"name": "Kiselev, Vladimir",
 		"country": "RUS",
 		"sex": "M",
@@ -846627,10 +846610,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1940,
+		"birthday": 1951,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1575,
+		"rating_rapid": 1939,
 		"rating_blitz": null
 	},
 	{
@@ -846651,7 +846634,7 @@
 		"rating_blitz": 1924
 	},
 	{
-		"fideid": 55752993,
+		"fideid": 34255265,
 		"name": "Kiselev, Vladimir",
 		"country": "RUS",
 		"sex": "M",
@@ -846661,10 +846644,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1951,
+		"birthday": 1940,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1939,
+		"rating_rapid": 1575,
 		"rating_blitz": null
 	},
 	{
@@ -848283,23 +848266,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 24282294,
-		"name": "Klochkov, Viktor",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1939,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1826,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34122700,
 		"name": "Klochkov, Viktor",
 		"country": "RUS",
@@ -848315,6 +848281,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1927,
 		"rating_blitz": 1738
+	},
+	{
+		"fideid": 24282294,
+		"name": "Klochkov, Viktor",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1939,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1826,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 24128040,
@@ -851088,23 +851071,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55676421,
-		"name": "Kolesnikov, Oleg",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1688,
-		"rating_blitz": 1792
-	},
-	{
 		"fideid": 54165024,
 		"name": "Kolesnikov, Oleg",
 		"country": "RUS",
@@ -851120,6 +851086,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1955,
 		"rating_blitz": 1929
+	},
+	{
+		"fideid": 55676421,
+		"name": "Kolesnikov, Oleg",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1688,
+		"rating_blitz": 1792
 	},
 	{
 		"fideid": 55707920,
@@ -851173,23 +851156,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34261397,
-		"name": "Kolesnikov, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1910,
-		"rating_blitz": 1914
-	},
-	{
 		"fideid": 54137942,
 		"name": "Kolesnikov, Sergey",
 		"country": "RUS",
@@ -851205,6 +851171,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1708,
 		"rating_blitz": 1772
+	},
+	{
+		"fideid": 34261397,
+		"name": "Kolesnikov, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1910,
+		"rating_blitz": 1914
 	},
 	{
 		"fideid": 34387382,
@@ -854267,23 +854250,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55838260,
-		"name": "Konovalov, Aleksey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1702,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 44125194,
 		"name": "Konovalov, Aleksey",
 		"country": "RUS",
@@ -854299,6 +854265,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1793,
 		"rating_blitz": 1802
+	},
+	{
+		"fideid": 55838260,
+		"name": "Konovalov, Aleksey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1702,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34459774,
@@ -863209,23 +863192,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34318828,
-		"name": "Kozlov, Andrey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1590,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24259527,
 		"name": "Kozlov, Andrey",
 		"country": "RUS",
@@ -863240,6 +863206,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1639,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34318828,
+		"name": "Kozlov, Andrey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1590,
 		"rating_blitz": null
 	},
 	{
@@ -863345,23 +863328,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34447822,
-		"name": "Kozlov, Evgeniy",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1967,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1669,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55761909,
 		"name": "Kozlov, Evgeniy",
 		"country": "RUS",
@@ -863377,6 +863343,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1673,
 		"rating_blitz": 1790
+	},
+	{
+		"fideid": 34447822,
+		"name": "Kozlov, Evgeniy",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1967,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1669,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 54132010,
@@ -870383,23 +870366,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34374418,
-		"name": "Kulikov, Nikolay",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1564,
-		"rating_blitz": 1569
-	},
-	{
 		"fideid": 55733956,
 		"name": "Kulikov, Nikolay",
 		"country": "RUS",
@@ -870415,6 +870381,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1476,
 		"rating_blitz": 1611
+	},
+	{
+		"fideid": 34374418,
+		"name": "Kulikov, Nikolay",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1564,
+		"rating_blitz": 1569
 	},
 	{
 		"fideid": 55716776,
@@ -875109,23 +875092,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522077910,
-		"name": "Kuznetsov, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1459,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34195294,
 		"name": "Kuznetsov, Aleksandr",
 		"country": "RUS",
@@ -875140,6 +875106,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1882,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 522077910,
+		"name": "Kuznetsov, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1459,
 		"rating_blitz": null
 	},
 	{
@@ -875313,6 +875296,23 @@
 		"rating_blitz": 1651
 	},
 	{
+		"fideid": 55611117,
+		"name": "Kuznetsov, Alexander",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 2005,
+		"rating_blitz": 1863
+	},
+	{
 		"fideid": 55786820,
 		"name": "Kuznetsov, Alexander",
 		"country": "RUS",
@@ -875345,23 +875345,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1716,
 		"rating_blitz": 1612
-	},
-	{
-		"fideid": 55611117,
-		"name": "Kuznetsov, Alexander",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 2005,
-		"rating_blitz": 1863
 	},
 	{
 		"fideid": 55696643,
@@ -875568,23 +875551,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55640915,
-		"name": "Kuznetsov, Denis",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1653,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 44157550,
 		"name": "Kuznetsov, Denis",
 		"country": "RUS",
@@ -875599,6 +875565,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1642,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55640915,
+		"name": "Kuznetsov, Denis",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1653,
 		"rating_blitz": null
 	},
 	{
@@ -876112,23 +876095,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34369368,
-		"name": "Kuznetsov, Nikita",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1528,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 54168546,
 		"name": "Kuznetsov, Nikita",
 		"country": "RUS",
@@ -876144,6 +876110,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1542,
 		"rating_blitz": 1557
+	},
+	{
+		"fideid": 34369368,
+		"name": "Kuznetsov, Nikita",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1528,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 55734502,
@@ -876214,23 +876197,6 @@
 		"rating_blitz": 1702
 	},
 	{
-		"fideid": 55610781,
-		"name": "Kuznetsov, Nikolay",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1948,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1938,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 54190258,
 		"name": "Kuznetsov, Nikolay",
 		"country": "RUS",
@@ -876245,6 +876211,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1894,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55610781,
+		"name": "Kuznetsov, Nikolay",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1948,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1938,
 		"rating_blitz": null
 	},
 	{
@@ -876401,23 +876384,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55817580,
-		"name": "Kuznetsov, Stepan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1750,
-		"rating_blitz": 1871
-	},
-	{
 		"fideid": 34323708,
 		"name": "Kuznetsov, Stepan",
 		"country": "RUS",
@@ -876433,6 +876399,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1545,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 55817580,
+		"name": "Kuznetsov, Stepan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1750,
+		"rating_blitz": 1871
 	},
 	{
 		"fideid": 34357700,
@@ -879512,23 +879495,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55748597,
-		"name": "Lavrov, Alexandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1435,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34222588,
 		"name": "Lavrov, Alexandr",
 		"country": "RUS",
@@ -879543,6 +879509,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1684,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55748597,
+		"name": "Lavrov, Alexandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 0,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -880209,6 +880192,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 55757898,
+		"name": "Lebedev, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1665,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 54121698,
+		"name": "Lebedev, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1488,
+		"rating_blitz": 1484
+	},
+	{
 		"fideid": 55838677,
 		"name": "Lebedev, Aleksandr",
 		"country": "RUS",
@@ -880241,40 +880258,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1484,
 		"rating_blitz": 1566
-	},
-	{
-		"fideid": 54121698,
-		"name": "Lebedev, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1488,
-		"rating_blitz": 1484
-	},
-	{
-		"fideid": 55757898,
-		"name": "Lebedev, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1665,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 55801919,
@@ -880498,23 +880481,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34318011,
-		"name": "Lebedev, Gleb",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1534,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34276246,
 		"name": "Lebedev, Gleb",
 		"country": "RUS",
@@ -880530,6 +880496,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1501,
 		"rating_blitz": 1471
+	},
+	{
+		"fideid": 34318011,
+		"name": "Lebedev, Gleb",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1534,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34487425,
@@ -880617,23 +880600,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34311327,
-		"name": "Lebedev, Maksim",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1722,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 522083090,
 		"name": "Lebedev, Maksim",
 		"country": "RUS",
@@ -880648,6 +880614,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1551,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34311327,
+		"name": "Lebedev, Maksim",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1722,
 		"rating_blitz": null
 	},
 	{
@@ -883388,23 +883371,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55860990,
-		"name": "Lisenkov, Maxim",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1608,
-		"rating_blitz": 1636
-	},
-	{
 		"fideid": 34404198,
 		"name": "Lisenkov, Maxim",
 		"country": "RUS",
@@ -883420,6 +883386,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1546,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 55860990,
+		"name": "Lisenkov, Maxim",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1608,
+		"rating_blitz": 1636
 	},
 	{
 		"fideid": 55756905,
@@ -885479,23 +885462,6 @@
 		"rating_blitz": 1669
 	},
 	{
-		"fideid": 44141599,
-		"name": "Loshkarev, Arseny",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1438,
-		"rating_blitz": 1441
-	},
-	{
 		"fideid": 34289704,
 		"name": "Loshkarev, Arseny",
 		"country": "RUS",
@@ -885511,6 +885477,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1605,
 		"rating_blitz": 1732
+	},
+	{
+		"fideid": 44141599,
+		"name": "Loshkarev, Arseny",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1438,
+		"rating_blitz": 1441
 	},
 	{
 		"fideid": 44199783,
@@ -889474,23 +889457,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55667058,
-		"name": "Makarenko, Ivan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1450,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 522023534,
 		"name": "Makarenko, Ivan",
 		"country": "RUS",
@@ -889505,6 +889471,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1772,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55667058,
+		"name": "Makarenko, Ivan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1450,
 		"rating_blitz": null
 	},
 	{
@@ -889899,23 +889882,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34323252,
-		"name": "Makarov, Matvey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1649,
-		"rating_blitz": 1672
-	},
-	{
 		"fideid": 34437878,
 		"name": "Makarov, Matvey",
 		"country": "RUS",
@@ -889931,6 +889897,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1486,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34323252,
+		"name": "Makarov, Matvey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1649,
+		"rating_blitz": 1672
 	},
 	{
 		"fideid": 55667244,
@@ -898552,23 +898535,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522062777,
-		"name": "Matveev, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1676,
-		"rating_blitz": 1759
-	},
-	{
 		"fideid": 55784267,
 		"name": "Matveev, Aleksandr",
 		"country": "RUS",
@@ -898584,6 +898550,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1666,
 		"rating_blitz": 1685
+	},
+	{
+		"fideid": 522062777,
+		"name": "Matveev, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1676,
+		"rating_blitz": 1759
 	},
 	{
 		"fideid": 34128619,
@@ -900048,23 +900031,6 @@
 		"rating_blitz": 1878
 	},
 	{
-		"fideid": 34312013,
-		"name": "Medvedev, Andrey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1773,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34369295,
 		"name": "Medvedev, Andrey",
 		"country": "RUS",
@@ -900079,6 +900045,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1529,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34312013,
+		"name": "Medvedev, Andrey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1773,
 		"rating_blitz": null
 	},
 	{
@@ -900303,23 +900286,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522027475,
-		"name": "Medvedev, Mikhail",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1987,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1644,
-		"rating_blitz": 1453
-	},
-	{
 		"fideid": 24201146,
 		"name": "Medvedev, Mikhail",
 		"country": "RUS",
@@ -900335,6 +900301,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1468,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 522027475,
+		"name": "Medvedev, Mikhail",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1644,
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 34220500,
@@ -900541,23 +900524,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55836135,
-		"name": "Medvedeva, Mariya",
-		"country": "RUS",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "wi",
-		"rating_standard": null,
-		"rating_rapid": 1664,
-		"rating_blitz": 1643
-	},
-	{
 		"fideid": 55828841,
 		"name": "Medvedeva, Mariya",
 		"country": "RUS",
@@ -900573,6 +900539,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1445,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 55836135,
+		"name": "Medvedeva, Mariya",
+		"country": "RUS",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1664,
+		"rating_blitz": 1643
 	},
 	{
 		"fideid": 55724329,
@@ -902071,23 +902054,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55600468,
-		"name": "Merkulov, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1544,
-		"rating_blitz": 1450
-	},
-	{
 		"fideid": 55689396,
 		"name": "Merkulov, Sergey",
 		"country": "RUS",
@@ -902103,6 +902069,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1464,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 55600468,
+		"name": "Merkulov, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1544,
+		"rating_blitz": 1450
 	},
 	{
 		"fideid": 34387366,
@@ -903125,23 +903108,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522017542,
-		"name": "Mikhailov, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1448,
-		"rating_blitz": 1501
-	},
-	{
 		"fideid": 55717098,
 		"name": "Mikhailov, Aleksandr",
 		"country": "RUS",
@@ -903157,6 +903123,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1590,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 522017542,
+		"name": "Mikhailov, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1448,
+		"rating_blitz": 1501
 	},
 	{
 		"fideid": 54114837,
@@ -903550,23 +903533,6 @@
 		"rating_blitz": 1810
 	},
 	{
-		"fideid": 540063615,
-		"name": "Mikhalev, Roman",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1621,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34245642,
 		"name": "Mikhalev, Roman",
 		"country": "RUS",
@@ -903581,6 +903547,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1506,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 540063615,
+		"name": "Mikhalev, Roman",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1621,
 		"rating_blitz": null
 	},
 	{
@@ -906270,23 +906253,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34436553,
-		"name": "Miroshnichenko, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1946,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1824,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24214264,
 		"name": "Miroshnichenko, Vladimir",
 		"country": "RUS",
@@ -906301,6 +906267,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1636,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34436553,
+		"name": "Miroshnichenko, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1946,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1824,
 		"rating_blitz": null
 	},
 	{
@@ -908225,23 +908208,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55859860,
-		"name": "Moiseev, Dmitriy",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1402,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 54108578,
 		"name": "Moiseev, Dmitriy",
 		"country": "RUS",
@@ -908256,6 +908222,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1449,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55859860,
+		"name": "Moiseev, Dmitriy",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1402,
 		"rating_blitz": null
 	},
 	{
@@ -920346,23 +920329,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 540033732,
-		"name": "Nikiforov, Konstantin",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1525,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55791662,
 		"name": "Nikiforov, Konstantin",
 		"country": "RUS",
@@ -920377,6 +920343,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1541,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 540033732,
+		"name": "Nikiforov, Konstantin",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1525,
 		"rating_blitz": null
 	},
 	{
@@ -921247,23 +921230,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34334319,
-		"name": "Nikolaev, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1530,
-		"rating_blitz": 1713
-	},
-	{
 		"fideid": 55820204,
 		"name": "Nikolaev, Aleksandr",
 		"country": "RUS",
@@ -921281,7 +921247,24 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 24185256,
+		"fideid": 34334319,
+		"name": "Nikolaev, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1530,
+		"rating_blitz": 1713
+	},
+	{
+		"fideid": 24255602,
 		"name": "Nikolaev, Alexey",
 		"country": "RUS",
 		"sex": "M",
@@ -921291,11 +921274,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1994,
+		"birthday": 1980,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1662,
-		"rating_blitz": null
+		"rating_rapid": 1873,
+		"rating_blitz": 1950
 	},
 	{
 		"fideid": 34167363,
@@ -921315,7 +921298,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 24255602,
+		"fideid": 24185256,
 		"name": "Nikolaev, Alexey",
 		"country": "RUS",
 		"sex": "M",
@@ -921325,11 +921308,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1980,
+		"birthday": 1994,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1873,
-		"rating_blitz": 1950
+		"rating_rapid": 1662,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 522071989,
@@ -921655,23 +921638,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34455728,
-		"name": "Nikolaev, Nikolay",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1938,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1655,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55749143,
 		"name": "Nikolaev, Nikolay",
 		"country": "RUS",
@@ -921686,6 +921652,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1755,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34455728,
+		"name": "Nikolaev, Nikolay",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1938,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1655,
 		"rating_blitz": null
 	},
 	{
@@ -923508,23 +923491,6 @@
 		"rating_blitz": 1501
 	},
 	{
-		"fideid": 24290696,
-		"name": "Novikov, Ivan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1695,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34316507,
 		"name": "Novikov, Ivan",
 		"country": "RUS",
@@ -923539,6 +923505,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1609,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 24290696,
+		"name": "Novikov, Ivan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1695,
 		"rating_blitz": null
 	},
 	{
@@ -923678,6 +923661,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 34454462,
+		"name": "Novikov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1947,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1474,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 34434054,
 		"name": "Novikov, Vladimir",
 		"country": "RUS",
@@ -923709,23 +923709,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1724,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 34454462,
-		"name": "Novikov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1474,
 		"rating_blitz": null
 	},
 	{
@@ -924426,23 +924409,6 @@
 		"rating_blitz": 1764
 	},
 	{
-		"fideid": 55706584,
-		"name": "Nozdrin, Ivan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1420,
-		"rating_blitz": 1483
-	},
-	{
 		"fideid": 34267646,
 		"name": "Nozdrin, Ivan",
 		"country": "RUS",
@@ -924458,6 +924424,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1667,
 		"rating_blitz": 1628
+	},
+	{
+		"fideid": 55706584,
+		"name": "Nozdrin, Ivan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1420,
+		"rating_blitz": 1483
 	},
 	{
 		"fideid": 34368817,
@@ -927231,23 +927214,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34192333,
-		"name": "Omarov, Omar",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1863,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34410520,
 		"name": "Omarov, Omar",
 		"country": "RUS",
@@ -927262,6 +927228,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1616,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34192333,
+		"name": "Omarov, Omar",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1863,
 		"rating_blitz": null
 	},
 	{
@@ -927588,23 +927571,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55878148,
-		"name": "Operchuk, Ivan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1959,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1560,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 54111951,
 		"name": "Operchuk, Ivan",
 		"country": "RUS",
@@ -927619,6 +927585,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1773,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55878148,
+		"name": "Operchuk, Ivan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1560,
 		"rating_blitz": null
 	},
 	{
@@ -928217,23 +928200,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522036342,
-		"name": "Orlov, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1955,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1503,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24276510,
 		"name": "Orlov, Sergey",
 		"country": "RUS",
@@ -928249,6 +928215,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1813,
 		"rating_blitz": 1938
+	},
+	{
+		"fideid": 522036342,
+		"name": "Orlov, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1955,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1503,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34350810,
@@ -928710,23 +928693,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34311335,
-		"name": "Osipov, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1596,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 540059200,
 		"name": "Osipov, Aleksandr",
 		"country": "RUS",
@@ -928741,6 +928707,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1459,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34311335,
+		"name": "Osipov, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1596,
 		"rating_blitz": null
 	},
 	{
@@ -934167,23 +934150,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54131588,
-		"name": "Pavlov, Artem",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1433,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 44149310,
 		"name": "Pavlov, Artem",
 		"country": "RUS",
@@ -934198,6 +934164,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1642,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 54131588,
+		"name": "Pavlov, Artem",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -934218,23 +934201,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34124478,
-		"name": "Pavlov, Bogdan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1915,
-		"rating_blitz": 1892
-	},
-	{
 		"fideid": 55719430,
 		"name": "Pavlov, Bogdan",
 		"country": "RUS",
@@ -934250,6 +934216,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1410,
 		"rating_blitz": 1480
+	},
+	{
+		"fideid": 34124478,
+		"name": "Pavlov, Bogdan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1915,
+		"rating_blitz": 1892
 	},
 	{
 		"fideid": 24218430,
@@ -934456,23 +934439,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55769748,
-		"name": "Pavlov, Kirill",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1487,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34184110,
 		"name": "Pavlov, Kirill",
 		"country": "RUS",
@@ -934488,6 +934454,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1711,
 		"rating_blitz": 1750
+	},
+	{
+		"fideid": 55769748,
+		"name": "Pavlov, Kirill",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1487,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 540017753,
@@ -934711,23 +934694,6 @@
 		"rating_blitz": 1572
 	},
 	{
-		"fideid": 55756352,
-		"name": "Pavlov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1571,
-		"rating_blitz": 1598
-	},
-	{
 		"fideid": 55679226,
 		"name": "Pavlov, Vladimir",
 		"country": "RUS",
@@ -934743,6 +934709,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1655,
 		"rating_blitz": 1417
+	},
+	{
+		"fideid": 55756352,
+		"name": "Pavlov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1571,
+		"rating_blitz": 1598
 	},
 	{
 		"fideid": 55831672,
@@ -938077,7 +938060,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34174998,
+		"fideid": 34186368,
 		"name": "Petrov, Aleksandr",
 		"country": "RUS",
 		"sex": "M",
@@ -938087,11 +938070,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1975,
-		"flag": "",
+		"birthday": 1937,
+		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 2294,
-		"rating_blitz": 2341
+		"rating_rapid": 1924,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34253424,
@@ -938111,7 +938094,7 @@
 		"rating_blitz": 1911
 	},
 	{
-		"fideid": 34186368,
+		"fideid": 34174998,
 		"name": "Petrov, Aleksandr",
 		"country": "RUS",
 		"sex": "M",
@@ -938121,11 +938104,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1937,
-		"flag": "i",
+		"birthday": 1975,
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1924,
-		"rating_blitz": null
+		"rating_rapid": 2294,
+		"rating_blitz": 2341
 	},
 	{
 		"fideid": 54199956,
@@ -938366,23 +938349,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 24253502,
-		"name": "Petrov, Dmitry",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1680,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34269568,
 		"name": "Petrov, Dmitry",
 		"country": "RUS",
@@ -938398,6 +938364,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1642,
 		"rating_blitz": 1516
+	},
+	{
+		"fideid": 24253502,
+		"name": "Petrov, Dmitry",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1680,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 54132070,
@@ -938876,23 +938859,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34404228,
-		"name": "Petrov, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1537,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55705014,
 		"name": "Petrov, Sergey",
 		"country": "RUS",
@@ -938925,6 +938891,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1669,
 		"rating_blitz": 1530
+	},
+	{
+		"fideid": 34404228,
+		"name": "Petrov, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1537,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 522085769,
@@ -945761,23 +945744,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55726224,
-		"name": "Ponosov, Eduard",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1534,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 54153425,
 		"name": "Ponosov, Eduard",
 		"country": "RUS",
@@ -945792,6 +945758,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1799,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55726224,
+		"name": "Ponosov, Eduard",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1534,
 		"rating_blitz": null
 	},
 	{
@@ -945914,23 +945897,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522029702,
-		"name": "Popov, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1964,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1525,
-		"rating_blitz": 1461
-	},
-	{
 		"fideid": 55648363,
 		"name": "Popov, Aleksandr",
 		"country": "RUS",
@@ -945946,6 +945912,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1523,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 522029702,
+		"name": "Popov, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1964,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1525,
+		"rating_blitz": 1461
 	},
 	{
 		"fideid": 34260692,
@@ -946016,23 +945999,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522029788,
-		"name": "Popov, Alexey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1979,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1542,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 54159253,
 		"name": "Popov, Alexey",
 		"country": "RUS",
@@ -946065,6 +946031,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1722,
 		"rating_blitz": 1671
+	},
+	{
+		"fideid": 522029788,
+		"name": "Popov, Alexey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1979,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1542,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 540009629,
@@ -953581,23 +953564,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55683410,
-		"name": "Ramazanov, Ramazan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1775,
-		"rating_blitz": 1829
-	},
-	{
 		"fideid": 34410538,
 		"name": "Ramazanov, Ramazan",
 		"country": "RUS",
@@ -953613,6 +953579,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1653,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 55683410,
+		"name": "Ramazanov, Ramazan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1775,
+		"rating_blitz": 1829
 	},
 	{
 		"fideid": 55884563,
@@ -957457,23 +957440,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34454187,
-		"name": "Romanov, Aleksander",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1667,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55758746,
 		"name": "Romanov, Aleksander",
 		"country": "RUS",
@@ -957488,6 +957454,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1807,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34454187,
+		"name": "Romanov, Aleksander",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1667,
 		"rating_blitz": null
 	},
 	{
@@ -957678,23 +957661,6 @@
 		"rating_blitz": 1715
 	},
 	{
-		"fideid": 34284010,
-		"name": "Romanov, Daniil",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1628,
-		"rating_blitz": 1642
-	},
-	{
 		"fideid": 55759769,
 		"name": "Romanov, Daniil",
 		"country": "RUS",
@@ -957710,6 +957676,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1566,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34284010,
+		"name": "Romanov, Daniil",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1628,
+		"rating_blitz": 1642
 	},
 	{
 		"fideid": 55755640,
@@ -961826,23 +961809,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34303421,
-		"name": "Rychkov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1632,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34289593,
 		"name": "Rychkov, Vladimir",
 		"country": "RUS",
@@ -961857,6 +961823,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1522,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34303421,
+		"name": "Rychkov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1632,
 		"rating_blitz": null
 	},
 	{
@@ -965039,23 +965022,6 @@
 		"rating_blitz": 1589
 	},
 	{
-		"fideid": 44112181,
-		"name": "Sakharov, Ivan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1983,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1428,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55822444,
 		"name": "Sakharov, Ivan",
 		"country": "RUS",
@@ -965070,6 +965036,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1569,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 44112181,
+		"name": "Sakharov, Ivan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1983,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1428,
 		"rating_blitz": null
 	},
 	{
@@ -970377,23 +970360,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522057013,
-		"name": "Scherbakov, Konstantin",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1485,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34435069,
 		"name": "Scherbakov, Konstantin",
 		"country": "RUS",
@@ -970409,6 +970375,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1437,
 		"rating_blitz": 1432
+	},
+	{
+		"fideid": 522057013,
+		"name": "Scherbakov, Konstantin",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1485,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34439021,
@@ -971363,23 +971346,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34154245,
-		"name": "Seliverstov, Nikolai",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1831,
-		"rating_blitz": 1912
-	},
-	{
 		"fideid": 34300350,
 		"name": "Seliverstov, Nikolai",
 		"country": "RUS",
@@ -971395,6 +971361,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1559,
 		"rating_blitz": 1480
+	},
+	{
+		"fideid": 34154245,
+		"name": "Seliverstov, Nikolai",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1831,
+		"rating_blitz": 1912
 	},
 	{
 		"fideid": 34262482,
@@ -972281,23 +972264,6 @@
 		"rating_blitz": 1574
 	},
 	{
-		"fideid": 522023798,
-		"name": "Semenov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1501,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24170313,
 		"name": "Semenov, Vladimir",
 		"country": "RUS",
@@ -972312,6 +972278,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1625,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 522023798,
+		"name": "Semenov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1501,
 		"rating_blitz": null
 	},
 	{
@@ -978537,23 +978520,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34454217,
-		"name": "Sharnin, Pavel",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1785,
-		"rating_blitz": 1639
-	},
-	{
 		"fideid": 34447857,
 		"name": "Sharnin, Pavel",
 		"country": "RUS",
@@ -978569,6 +978535,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1578,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34454217,
+		"name": "Sharnin, Pavel",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1785,
+		"rating_blitz": 1639
 	},
 	{
 		"fideid": 24298751,
@@ -981427,23 +981410,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34387021,
-		"name": "Shevakov, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1872,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55782906,
 		"name": "Shevakov, Aleksandr",
 		"country": "RUS",
@@ -981458,6 +981424,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1429,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34387021,
+		"name": "Shevakov, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1947,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1872,
 		"rating_blitz": null
 	},
 	{
@@ -982685,23 +982668,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54198003,
-		"name": "Shilov, Ivan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1551,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34435654,
 		"name": "Shilov, Ivan",
 		"country": "RUS",
@@ -982716,6 +982682,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1599,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 54198003,
+		"name": "Shilov, Ivan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1551,
 		"rating_blitz": null
 	},
 	{
@@ -989553,23 +989536,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54113830,
-		"name": "Simonov, Iliya",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1471,
-		"rating_blitz": 1561
-	},
-	{
 		"fideid": 34499008,
 		"name": "Simonov, Iliya",
 		"country": "RUS",
@@ -989585,6 +989551,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1419,
 		"rating_blitz": 1435
+	},
+	{
+		"fideid": 54113830,
+		"name": "Simonov, Iliya",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1471,
+		"rating_blitz": 1561
 	},
 	{
 		"fideid": 55751148,
@@ -993888,23 +993871,6 @@
 		"rating_blitz": 1728
 	},
 	{
-		"fideid": 54180481,
-		"name": "Smirnov, Andrey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1941,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24226637,
 		"name": "Smirnov, Andrey",
 		"country": "RUS",
@@ -993920,6 +993886,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1550,
 		"rating_blitz": 1566
+	},
+	{
+		"fideid": 54180481,
+		"name": "Smirnov, Andrey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1975,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1941,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 55702929,
@@ -994126,23 +994109,6 @@
 		"rating_blitz": 1485
 	},
 	{
-		"fideid": 540017842,
-		"name": "Smirnov, Dmitriy",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1429,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34421084,
 		"name": "Smirnov, Dmitriy",
 		"country": "RUS",
@@ -994158,6 +994124,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1692,
 		"rating_blitz": 1882
+	},
+	{
+		"fideid": 540017842,
+		"name": "Smirnov, Dmitriy",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1429,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 55880428,
@@ -994398,23 +994381,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54101000,
-		"name": "Smirnov, Kirill",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1684,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55803466,
 		"name": "Smirnov, Kirill",
 		"country": "RUS",
@@ -994430,6 +994396,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1548,
 		"rating_blitz": 1646
+	},
+	{
+		"fideid": 54101000,
+		"name": "Smirnov, Kirill",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1684,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34358781,
@@ -994466,23 +994449,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 522070036,
-		"name": "Smirnov, Leonid",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1460,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55888453,
 		"name": "Smirnov, Leonid",
 		"country": "RUS",
@@ -994497,6 +994463,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1429,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 522070036,
+		"name": "Smirnov, Leonid",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1460,
 		"rating_blitz": null
 	},
 	{
@@ -994942,23 +994925,6 @@
 		"rating_blitz": 1579
 	},
 	{
-		"fideid": 34406158,
-		"name": "Smirnova, Anastasiya",
-		"country": "RUS",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "wi",
-		"rating_standard": null,
-		"rating_rapid": 1446,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34271015,
 		"name": "Smirnova, Anastasiya",
 		"country": "RUS",
@@ -994973,6 +994939,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1449,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34406158,
+		"name": "Smirnova, Anastasiya",
+		"country": "RUS",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1446,
 		"rating_blitz": null
 	},
 	{
@@ -996285,23 +996268,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54122490,
-		"name": "Sokolov, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1945,
-		"rating_blitz": 1992
-	},
-	{
 		"fideid": 34306650,
 		"name": "Sokolov, Aleksandr",
 		"country": "RUS",
@@ -996317,6 +996283,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1772,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 54122490,
+		"name": "Sokolov, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1945,
+		"rating_blitz": 1992
 	},
 	{
 		"fideid": 55610625,
@@ -996387,7 +996370,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34129666,
+		"fideid": 24270105,
 		"name": "Sokolov, Alexandr",
 		"country": "RUS",
 		"sex": "M",
@@ -996397,11 +996380,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1941,
+		"birthday": 1980,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1987,
-		"rating_blitz": 1965
+		"rating_rapid": 1717,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34253459,
@@ -996421,7 +996404,7 @@
 		"rating_blitz": 1722
 	},
 	{
-		"fideid": 24270105,
+		"fideid": 34129666,
 		"name": "Sokolov, Alexandr",
 		"country": "RUS",
 		"sex": "M",
@@ -996431,11 +996414,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1980,
+		"birthday": 1941,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1717,
-		"rating_blitz": null
+		"rating_rapid": 1987,
+		"rating_blitz": 1965
 	},
 	{
 		"fideid": 55882838,
@@ -996642,7 +996625,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34434585,
+		"fideid": 55834868,
 		"name": "Sokolov, Ivan",
 		"country": "RUS",
 		"sex": "M",
@@ -996652,10 +996635,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2015,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1478,
+		"rating_rapid": 1583,
 		"rating_blitz": null
 	},
 	{
@@ -996676,7 +996659,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55834868,
+		"fideid": 34434585,
 		"name": "Sokolov, Ivan",
 		"country": "RUS",
 		"sex": "M",
@@ -996686,10 +996669,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2009,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1583,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -997101,23 +997084,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34230998,
-		"name": "Sokolova, Elizaveta",
-		"country": "RUS",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "wi",
-		"rating_standard": null,
-		"rating_rapid": 1609,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55767745,
 		"name": "Sokolova, Elizaveta",
 		"country": "RUS",
@@ -997132,6 +997098,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1434,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34230998,
+		"name": "Sokolova, Elizaveta",
+		"country": "RUS",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1609,
 		"rating_blitz": null
 	},
 	{
@@ -998750,23 +998733,6 @@
 		"rating_blitz": 1439
 	},
 	{
-		"fideid": 34232346,
-		"name": "Sorokin, Nikolay",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1868,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24201316,
 		"name": "Sorokin, Nikolay",
 		"country": "RUS",
@@ -998782,6 +998748,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1870,
 		"rating_blitz": 1796
+	},
+	{
+		"fideid": 34232346,
+		"name": "Sorokin, Nikolay",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1868,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 24264466,
@@ -1001606,23 +1001589,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55680852,
-		"name": "Stepanov, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1405,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24247626,
 		"name": "Stepanov, Sergey",
 		"country": "RUS",
@@ -1001638,6 +1001604,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1734,
 		"rating_blitz": 1760
+	},
+	{
+		"fideid": 55680852,
+		"name": "Stepanov, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1405,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 522008241,
@@ -1002116,23 +1002099,6 @@
 		"rating_blitz": 1528
 	},
 	{
-		"fideid": 34315187,
-		"name": "Stikhin, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1544,
-		"rating_blitz": 1425
-	},
-	{
 		"fideid": 34394028,
 		"name": "Stikhin, Aleksandr",
 		"country": "RUS",
@@ -1002148,6 +1002114,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1432,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34315187,
+		"name": "Stikhin, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1544,
+		"rating_blitz": 1425
 	},
 	{
 		"fideid": 55850456,
@@ -1004173,23 +1004156,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 540026124,
-		"name": "Sukhanov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1942,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1732,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 540046095,
 		"name": "Sukhanov, Vladimir",
 		"country": "RUS",
@@ -1004204,6 +1004170,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1490,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 540026124,
+		"name": "Sukhanov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1942,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1732,
 		"rating_blitz": null
 	},
 	{
@@ -1005108,23 +1005091,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54170729,
-		"name": "Sultanova, Evelina",
-		"country": "RUS",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "wi",
-		"rating_standard": null,
-		"rating_rapid": 1437,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 24235920,
 		"name": "Sultanova, Evelina",
 		"country": "RUS",
@@ -1005139,6 +1005105,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1612,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 54170729,
+		"name": "Sultanova, Evelina",
+		"country": "RUS",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1437,
 		"rating_blitz": null
 	},
 	{
@@ -1006077,23 +1006060,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34281258,
-		"name": "Suslov, Igor",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1727,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34424601,
 		"name": "Suslov, Igor",
 		"country": "RUS",
@@ -1006108,6 +1006074,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1572,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34281258,
+		"name": "Suslov, Igor",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1727,
 		"rating_blitz": null
 	},
 	{
@@ -1009052,23 +1009035,6 @@
 		"rating_blitz": 1422
 	},
 	{
-		"fideid": 540045510,
-		"name": "Tarasov, Vadim",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1536,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55754996,
 		"name": "Tarasov, Vadim",
 		"country": "RUS",
@@ -1009084,6 +1009050,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1561,
 		"rating_blitz": 1521
+	},
+	{
+		"fideid": 540045510,
+		"name": "Tarasov, Vadim",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1536,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 54195594,
@@ -1013268,23 +1013251,6 @@
 		"rating_blitz": 1734
 	},
 	{
-		"fideid": 522022937,
-		"name": "Timoshenko, Dmitry",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1427,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 522047212,
 		"name": "Timoshenko, Dmitry",
 		"country": "RUS",
@@ -1013299,6 +1013265,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1445,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 522022937,
+		"name": "Timoshenko, Dmitry",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1427,
 		"rating_blitz": null
 	},
 	{
@@ -1016396,23 +1016379,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34160768,
-		"name": "Trepolskii, Dmitrii",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1724,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55876811,
 		"name": "Trepolskii, Dmitrii",
 		"country": "RUS",
@@ -1016427,6 +1016393,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1415,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34160768,
+		"name": "Trepolskii, Dmitrii",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1724,
 		"rating_blitz": null
 	},
 	{
@@ -1016600,23 +1016583,6 @@
 		"rating_blitz": 1922
 	},
 	{
-		"fideid": 55715923,
-		"name": "Tretiakov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1475,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55671004,
 		"name": "Tretiakov, Vladimir",
 		"country": "RUS",
@@ -1016632,6 +1016598,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1805,
 		"rating_blitz": 1827
+	},
+	{
+		"fideid": 55715923,
+		"name": "Tretiakov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1475,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 540019543,
@@ -1016855,23 +1016838,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 540045625,
-		"name": "Trifanov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1433,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 540056325,
 		"name": "Trifanov, Vladimir",
 		"country": "RUS",
@@ -1016886,6 +1016852,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1543,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 540045625,
+		"name": "Trifanov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -1023332,23 +1023315,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55712738,
-		"name": "Umnov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1425,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55632947,
 		"name": "Umnov, Vladimir",
 		"country": "RUS",
@@ -1023363,6 +1023329,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1462,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55712738,
+		"name": "Umnov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1425,
 		"rating_blitz": null
 	},
 	{
@@ -1027837,23 +1027820,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 24298239,
-		"name": "Vasiliev, Aleksandr",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1779,
-		"rating_blitz": 1815
-	},
-	{
 		"fideid": 34339256,
 		"name": "Vasiliev, Aleksandr",
 		"country": "RUS",
@@ -1027869,6 +1027835,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1968,
 		"rating_blitz": 2014
+	},
+	{
+		"fideid": 24298239,
+		"name": "Vasiliev, Aleksandr",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1779,
+		"rating_blitz": 1815
 	},
 	{
 		"fideid": 540049957,
@@ -1028092,23 +1028075,6 @@
 		"rating_blitz": 1422
 	},
 	{
-		"fideid": 24260053,
-		"name": "Vasiliev, Ivan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1933,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1661,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 540031004,
 		"name": "Vasiliev, Ivan",
 		"country": "RUS",
@@ -1028123,6 +1028089,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1789,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 24260053,
+		"name": "Vasiliev, Ivan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1933,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1661,
 		"rating_blitz": null
 	},
 	{
@@ -1028160,23 +1028143,6 @@
 		"rating_blitz": 1606
 	},
 	{
-		"fideid": 34344748,
-		"name": "Vasiliev, Maksim",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1444,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34212213,
 		"name": "Vasiliev, Maksim",
 		"country": "RUS",
@@ -1028191,6 +1028157,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1935,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34344748,
+		"name": "Vasiliev, Maksim",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1444,
 		"rating_blitz": null
 	},
 	{
@@ -1028772,23 +1028755,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34246940,
-		"name": "Vasilyev, Artem",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1498,
-		"rating_blitz": 1527
-	},
-	{
 		"fideid": 44166800,
 		"name": "Vasilyev, Artem",
 		"country": "RUS",
@@ -1028804,6 +1028770,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1897,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34246940,
+		"name": "Vasilyev, Artem",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1498,
+		"rating_blitz": 1527
 	},
 	{
 		"fideid": 55702724,
@@ -1029860,23 +1029843,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54125600,
-		"name": "Vdovichenko, Yuri",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1962,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1711,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55758770,
 		"name": "Vdovichenko, Yuri",
 		"country": "RUS",
@@ -1029891,6 +1029857,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1484,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 54125600,
+		"name": "Vdovichenko, Yuri",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1962,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1711,
 		"rating_blitz": null
 	},
 	{
@@ -1033158,23 +1033141,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34198110,
-		"name": "Vladimirov, Nikolay",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1598,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55694225,
 		"name": "Vladimirov, Nikolay",
 		"country": "RUS",
@@ -1033189,6 +1033155,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1419,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34198110,
+		"name": "Vladimirov, Nikolay",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1598,
 		"rating_blitz": null
 	},
 	{
@@ -1033583,23 +1033566,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34419810,
-		"name": "Vlasov, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1526,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55659284,
 		"name": "Vlasov, Sergey",
 		"country": "RUS",
@@ -1033614,6 +1033580,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1672,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34419810,
+		"name": "Vlasov, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1526,
 		"rating_blitz": null
 	},
 	{
@@ -1037119,23 +1037102,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34473696,
-		"name": "Voropaev, Viktor",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1961,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1661,
-		"rating_blitz": 1570
-	},
-	{
 		"fideid": 55826156,
 		"name": "Voropaev, Viktor",
 		"country": "RUS",
@@ -1037151,6 +1037117,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1597,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34473696,
+		"name": "Voropaev, Viktor",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1961,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1661,
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 34357688,
@@ -1044922,23 +1044905,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34456929,
-		"name": "Zakharov, Aleksey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1739,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 540039323,
 		"name": "Zakharov, Aleksey",
 		"country": "RUS",
@@ -1044953,6 +1044919,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1540,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34456929,
+		"name": "Zakharov, Aleksey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1739,
 		"rating_blitz": null
 	},
 	{
@@ -1045092,23 +1045075,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55831273,
-		"name": "Zakharov, Egor",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1490,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55602789,
 		"name": "Zakharov, Egor",
 		"country": "RUS",
@@ -1045123,6 +1045089,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1605,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55831273,
+		"name": "Zakharov, Egor",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1490,
 		"rating_blitz": null
 	},
 	{
@@ -1049291,23 +1049274,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55854354,
-		"name": "Zheltyakov, Kirill Ig",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1428,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55861601,
 		"name": "Zheltyakov, Kirill Ig",
 		"country": "RUS",
@@ -1049322,6 +1049288,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1500,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 55854354,
+		"name": "Zheltyakov, Kirill Ig",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1428,
 		"rating_blitz": null
 	},
 	{
@@ -1052079,23 +1052062,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 55818323,
-		"name": "Zimin, Egor",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1417,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 55801552,
 		"name": "Zimin, Egor",
 		"country": "RUS",
@@ -1052111,6 +1052077,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1401,
 		"rating_blitz": 1459
+	},
+	{
+		"fideid": 55818323,
+		"name": "Zimin, Egor",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1417,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34403485,
@@ -1067175,23 +1067158,6 @@
 		"rating_blitz": 1514
 	},
 	{
-		"fideid": 54178347,
-		"name": "Danilov, Daniil",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1609
-	},
-	{
 		"fideid": 522073825,
 		"name": "Danilov, Daniil",
 		"country": "RUS",
@@ -1067207,6 +1067173,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1492
+	},
+	{
+		"fideid": 54178347,
+		"name": "Danilov, Daniil",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1609
 	},
 	{
 		"fideid": 522089900,
@@ -1088510,23 +1088493,6 @@
 		"rating_blitz": 1500
 	},
 	{
-		"fideid": 54131766,
-		"name": "Kondratiev, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1938,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1615
-	},
-	{
 		"fideid": 55723217,
 		"name": "Kondratiev, Vladimir",
 		"country": "RUS",
@@ -1088542,6 +1088508,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1756
+	},
+	{
+		"fideid": 54131766,
+		"name": "Kondratiev, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1938,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1615
 	},
 	{
 		"fideid": 34269207,
@@ -1090618,23 +1090601,6 @@
 		"rating_blitz": 1730
 	},
 	{
-		"fideid": 34298428,
-		"name": "Kovalenko, Bogdan",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1503
-	},
-	{
 		"fideid": 55873472,
 		"name": "Kovalenko, Bogdan",
 		"country": "RUS",
@@ -1090650,6 +1090616,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1425
+	},
+	{
+		"fideid": 34298428,
+		"name": "Kovalenko, Bogdan",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1503
 	},
 	{
 		"fideid": 55623620,
@@ -1113585,23 +1113568,6 @@
 		"rating_blitz": 1968
 	},
 	{
-		"fideid": 34193798,
-		"name": "Popov, Alexey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1949
-	},
-	{
 		"fideid": 34235914,
 		"name": "Popov, Alexey",
 		"country": "RUS",
@@ -1113617,6 +1113583,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1423
+	},
+	{
+		"fideid": 34193798,
+		"name": "Popov, Alexey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1949
 	},
 	{
 		"fideid": 34271252,
@@ -1120912,23 +1120895,6 @@
 		"rating_blitz": 1732
 	},
 	{
-		"fideid": 54142067,
-		"name": "Semenov, Vladimir",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1841
-	},
-	{
 		"fideid": 34427694,
 		"name": "Semenov, Vladimir",
 		"country": "RUS",
@@ -1120944,6 +1120910,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1762
+	},
+	{
+		"fideid": 54142067,
+		"name": "Semenov, Vladimir",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1947,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1841
 	},
 	{
 		"fideid": 55869769,
@@ -1132217,23 +1132200,6 @@
 		"rating_blitz": 1668
 	},
 	{
-		"fideid": 34238190,
-		"name": "Tkachev, Sergey",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1756
-	},
-	{
 		"fideid": 24175013,
 		"name": "Tkachev, Sergey",
 		"country": "RUS",
@@ -1132249,6 +1132215,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1886
+	},
+	{
+		"fideid": 34238190,
+		"name": "Tkachev, Sergey",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1756
 	},
 	{
 		"fideid": 55865780,
@@ -1137572,23 +1137555,6 @@
 		"rating_blitz": 1549
 	},
 	{
-		"fideid": 34463577,
-		"name": "Volkov, Maksim",
-		"country": "RUS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1546
-	},
-	{
 		"fideid": 24292109,
 		"name": "Volkov, Maksim",
 		"country": "RUS",
@@ -1137604,6 +1137570,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1617
+	},
+	{
+		"fideid": 34463577,
+		"name": "Volkov, Maksim",
+		"country": "RUS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1546
 	},
 	{
 		"fideid": 44108400,
