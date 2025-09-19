@@ -65,7 +65,7 @@
 		"flag": "",
 		"rating_standard": 1841,
 		"rating_rapid": 1900,
-		"rating_blitz": 1807
+		"rating_blitz": 1809
 	},
 	{
 		"fideid": 33100039,
@@ -148,7 +148,7 @@
 		"k": 20,
 		"birthday": 1950,
 		"flag": "",
-		"rating_standard": 1744,
+		"rating_standard": 1745,
 		"rating_rapid": 1701,
 		"rating_blitz": 1741
 	},
@@ -182,7 +182,7 @@
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 1693,
+		"rating_standard": 1694,
 		"rating_rapid": 1687,
 		"rating_blitz": null
 	},
@@ -216,9 +216,9 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1623,
-		"rating_rapid": 1626,
-		"rating_blitz": 1634
+		"rating_standard": 1629,
+		"rating_rapid": 1627,
+		"rating_blitz": 1640
 	},
 	{
 		"fideid": 7405880,
@@ -250,7 +250,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
-		"rating_standard": 1614,
+		"rating_standard": 1615,
 		"rating_rapid": 1517,
 		"rating_blitz": null
 	},
@@ -267,7 +267,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1609,
+		"rating_standard": 1610,
 		"rating_rapid": 1616,
 		"rating_blitz": null
 	},
@@ -284,7 +284,7 @@
 		"k": 40,
 		"birthday": "",
 		"flag": "",
-		"rating_standard": 1599,
+		"rating_standard": 1600,
 		"rating_rapid": 1608,
 		"rating_blitz": null
 	},
@@ -301,9 +301,9 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
-		"rating_standard": 1581,
+		"rating_standard": 1579,
 		"rating_rapid": 1570,
-		"rating_blitz": 1512
+		"rating_blitz": 1509
 	},
 	{
 		"fideid": 33100730,
@@ -318,26 +318,9 @@
 		"k": 40,
 		"birthday": 1989,
 		"flag": "",
-		"rating_standard": 1577,
+		"rating_standard": 1578,
 		"rating_rapid": 1433,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 33100780,
-		"name": "CLARK, ARTY",
-		"country": "CAY",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1572,
-		"rating_rapid": 1554,
-		"rating_blitz": 1594
 	},
 	{
 		"fideid": 33101264,
@@ -355,6 +338,23 @@
 		"rating_standard": 1567,
 		"rating_rapid": 1808,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 33100780,
+		"name": "CLARK, ARTY",
+		"country": "CAY",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1566,
+		"rating_rapid": 1586,
+		"rating_blitz": 1600
 	},
 	{
 		"fideid": 33100098,
@@ -420,41 +420,7 @@
 		"k": 20,
 		"birthday": 1962,
 		"flag": "",
-		"rating_standard": 1538,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 33100748,
-		"name": "WILSON, ALEJANDRO",
-		"country": "CAY",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1511,
-		"rating_rapid": 1486,
-		"rating_blitz": 1442
-	},
-	{
-		"fideid": 33101019,
-		"name": "Moore, Christian",
-		"country": "CAY",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1504,
+		"rating_standard": 1539,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -471,13 +437,30 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
-		"rating_standard": 1490,
+		"rating_standard": 1518,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33100560,
-		"name": "Joseph, Aviv",
+		"fideid": 33100748,
+		"name": "WILSON, ALEJANDRO",
+		"country": "CAY",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1506,
+		"rating_rapid": 1485,
+		"rating_blitz": 1410
+	},
+	{
+		"fideid": 33101019,
+		"name": "Moore, Christian",
 		"country": "CAY",
 		"sex": "M",
 		"title": "",
@@ -486,9 +469,9 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2018,
 		"flag": "",
-		"rating_standard": 1478,
+		"rating_standard": 1501,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -505,9 +488,26 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
-		"rating_standard": 1477,
+		"rating_standard": 1479,
 		"rating_rapid": 1477,
-		"rating_blitz": 1542
+		"rating_blitz": 1544
+	},
+	{
+		"fideid": 33100560,
+		"name": "Joseph, Aviv",
+		"country": "CAY",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1475,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 33100268,
@@ -539,26 +539,9 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1470,
-		"rating_rapid": 1462,
-		"rating_blitz": 1563
-	},
-	{
-		"fideid": 33101345,
-		"name": "Spence, Daniel",
-		"country": "CAY",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1983,
-		"flag": "",
 		"rating_standard": 1469,
-		"rating_rapid": null,
-		"rating_blitz": 1472
+		"rating_rapid": 1445,
+		"rating_blitz": 1563
 	},
 	{
 		"fideid": 33100446,
@@ -573,9 +556,26 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
-		"rating_standard": 1459,
+		"rating_standard": 1467,
 		"rating_rapid": 1400,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 33101345,
+		"name": "Spence, Daniel",
+		"country": "CAY",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1467,
+		"rating_rapid": null,
+		"rating_blitz": 1496
 	},
 	{
 		"fideid": 33100519,
@@ -624,8 +624,8 @@
 		"k": 40,
 		"birthday": 1996,
 		"flag": "w",
-		"rating_standard": 1443,
-		"rating_rapid": 1671,
+		"rating_standard": 1444,
+		"rating_rapid": 1672,
 		"rating_blitz": null
 	},
 	{
@@ -658,24 +658,7 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1439,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 33100900,
-		"name": "Brown, Jaden",
-		"country": "CAY",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1424,
+		"rating_standard": 1434,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -692,26 +675,26 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1424,
+		"rating_standard": 1426,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33100527,
-		"name": "Gunasekaran , Sanjith",
+		"fideid": 33100900,
+		"name": "Brown, Jaden",
 		"country": "CAY",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1411,
-		"rating_rapid": 1492,
-		"rating_blitz": 1405
+		"rating_standard": 1418,
+		"rating_rapid": null,
+		"rating_blitz": 1407
 	},
 	{
 		"fideid": 33101132,
@@ -726,7 +709,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1410,
+		"rating_standard": 1406,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -762,7 +745,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1540,
-		"rating_blitz": 1579
+		"rating_blitz": 1580
 	},
 	{
 		"fideid": 33100721,
@@ -799,6 +782,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33100527,
+		"name": "Gunasekaran , Sanjith",
+		"country": "CAY",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1447,
+		"rating_blitz": 1464
+	},
+	{
 		"fideid": 33100276,
 		"name": "Mias Felicisimo",
 		"country": "CAY",
@@ -833,23 +833,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33101094,
-		"name": "Bhuyan, Shreeyansh",
-		"country": "CAY",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1446
-	},
-	{
 		"fideid": 33101299,
 		"name": "Coen, Carter",
 		"country": "CAY",
@@ -864,6 +847,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1443
+		"rating_blitz": 1493
 	}
 ]

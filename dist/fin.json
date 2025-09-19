@@ -2649,7 +2649,7 @@
 		"flag": "",
 		"rating_standard": 2162,
 		"rating_rapid": 1902,
-		"rating_blitz": 1861
+		"rating_blitz": 1860
 	},
 	{
 		"fideid": 501751,
@@ -12257,23 +12257,6 @@
 		"rating_blitz": 1957
 	},
 	{
-		"fideid": 518735,
-		"name": "Olin, Janne",
-		"country": "FIN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": 1900,
-		"rating_rapid": 1895,
-		"rating_blitz": 1941
-	},
-	{
 		"fideid": 510858,
 		"name": "Turunen, Rauno",
 		"country": "FIN",
@@ -12340,6 +12323,23 @@
 		"rating_standard": 1899,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 518735,
+		"name": "Olin, Janne",
+		"country": "FIN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": 1899,
+		"rating_rapid": 1895,
+		"rating_blitz": 1941
 	},
 	{
 		"fideid": 507539,
@@ -13838,6 +13838,23 @@
 		"rating_blitz": 1936
 	},
 	{
+		"fideid": 505633,
+		"name": "Aura, Kristian",
+		"country": "FIN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1865,
+		"rating_rapid": 1927,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 504262,
 		"name": "Engelberg, Jan",
 		"country": "FIN",
@@ -13886,23 +13903,6 @@
 		"flag": "i",
 		"rating_standard": 1865,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 505633,
-		"name": "Aura, Kristian",
-		"country": "FIN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 1864,
-		"rating_rapid": 1927,
 		"rating_blitz": null
 	},
 	{
@@ -15725,23 +15725,6 @@
 		"rating_blitz": 1763
 	},
 	{
-		"fideid": 522821,
-		"name": "Tkachov, Mykhailo",
-		"country": "FIN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1823,
-		"rating_rapid": 1816,
-		"rating_blitz": 1857
-	},
-	{
 		"fideid": 513857,
 		"name": "Suoninen, Samu",
 		"country": "FIN",
@@ -15757,6 +15740,23 @@
 		"rating_standard": 1822,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 522821,
+		"name": "Tkachov, Mykhailo",
+		"country": "FIN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1822,
+		"rating_rapid": 1816,
+		"rating_blitz": 1857
 	},
 	{
 		"fideid": 508586,
@@ -18768,23 +18768,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 507644,
-		"name": "Pirttimaki, Mika",
-		"country": "FIN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1732,
-		"rating_rapid": 1738,
-		"rating_blitz": 1729
-	},
-	{
 		"fideid": 508926,
 		"name": "Jaaskelainen, Aleksandr",
 		"country": "FIN",
@@ -18853,23 +18836,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11629452,
-		"name": "Kuznecova, Polina",
-		"country": "FIN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1729,
-		"rating_rapid": 1497,
-		"rating_blitz": 1514
-	},
-	{
 		"fideid": 520462,
 		"name": "Viinikainen, Santeri",
 		"country": "FIN",
@@ -18902,6 +18868,40 @@
 		"rating_standard": 1729,
 		"rating_rapid": 1795,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11629452,
+		"name": "Kuznecova, Polina",
+		"country": "FIN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1728,
+		"rating_rapid": 1497,
+		"rating_blitz": 1514
+	},
+	{
+		"fideid": 507644,
+		"name": "Pirttimaki, Mika",
+		"country": "FIN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1728,
+		"rating_rapid": 1738,
+		"rating_blitz": 1729
 	},
 	{
 		"fideid": 65000056,
@@ -19295,40 +19295,6 @@
 		"rating_blitz": 1691
 	},
 	{
-		"fideid": 516678,
-		"name": "Haataja, Keijo",
-		"country": "FIN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1715,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 506370,
-		"name": "Marten, Marwan",
-		"country": "FIN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 1715,
-		"rating_rapid": 1741,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 505480,
 		"name": "Telenius, Kimmo",
 		"country": "FIN",
@@ -19360,6 +19326,23 @@
 		"flag": "i",
 		"rating_standard": 1714,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 506370,
+		"name": "Marten, Marwan",
+		"country": "FIN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1714,
+		"rating_rapid": 1741,
 		"rating_blitz": null
 	},
 	{
@@ -19514,6 +19497,23 @@
 		"rating_standard": 1707,
 		"rating_rapid": null,
 		"rating_blitz": 1647
+	},
+	{
+		"fideid": 516678,
+		"name": "Haataja, Keijo",
+		"country": "FIN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1705,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 514551,
@@ -19788,23 +19788,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 517593,
-		"name": "Oksanen, Maria",
-		"country": "FIN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1696,
-		"rating_rapid": 1587,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 510912,
 		"name": "Hiisio, Pasi",
 		"country": "FIN",
@@ -19819,6 +19802,23 @@
 		"flag": "i",
 		"rating_standard": 1695,
 		"rating_rapid": 1722,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 517593,
+		"name": "Oksanen, Maria",
+		"country": "FIN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1695,
+		"rating_rapid": 1587,
 		"rating_blitz": null
 	},
 	{
@@ -20264,23 +20264,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 517240,
-		"name": "Salmelin, Petri",
-		"country": "FIN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 1670,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 520454,
 		"name": "Hashemi, Ali",
 		"country": "FIN",
@@ -20638,6 +20621,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 517240,
+		"name": "Salmelin, Petri",
+		"country": "FIN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 1660,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 519650,
 		"name": "Kallunki, Karoliina",
 		"country": "FIN",
@@ -20910,23 +20910,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 504700,
-		"name": "Sjoskog, Tommy",
-		"country": "FIN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1649,
-		"rating_rapid": 1710,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 521337,
 		"name": "Airamaa, Alex",
 		"country": "FIN",
@@ -20992,6 +20975,23 @@
 		"flag": "",
 		"rating_standard": 1646,
 		"rating_rapid": 1718,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 504700,
+		"name": "Sjoskog, Tommy",
+		"country": "FIN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1646,
+		"rating_rapid": 1710,
 		"rating_blitz": null
 	},
 	{
@@ -22129,7 +22129,7 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
-		"rating_standard": 1575,
+		"rating_standard": 1574,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -22270,23 +22270,6 @@
 		"rating_blitz": 1731
 	},
 	{
-		"fideid": 55702090,
-		"name": "Arlovskaya, Ekaterina",
-		"country": "FIN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "w",
-		"rating_standard": 1555,
-		"rating_rapid": 1602,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 522848,
 		"name": "Narhi-Ratkovskaja, Maria",
 		"country": "FIN",
@@ -22302,6 +22285,23 @@
 		"rating_standard": 1555,
 		"rating_rapid": null,
 		"rating_blitz": 1512
+	},
+	{
+		"fideid": 55702090,
+		"name": "Arlovskaya, Ekaterina",
+		"country": "FIN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "w",
+		"rating_standard": 1554,
+		"rating_rapid": 1602,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 523348,
@@ -22351,7 +22351,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1551,
-		"rating_rapid": 1542,
+		"rating_rapid": 1597,
 		"rating_blitz": null
 	},
 	{
@@ -22576,6 +22576,23 @@
 		"rating_blitz": 1467
 	},
 	{
+		"fideid": 523151,
+		"name": "DAmato, Carolina",
+		"country": "FIN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1523,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 514039,
 		"name": "Luosto, Tuure",
 		"country": "FIN",
@@ -22589,23 +22606,6 @@
 		"birthday": 2004,
 		"flag": "i",
 		"rating_standard": 1523,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 523151,
-		"name": "DAmato, Carolina",
-		"country": "FIN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1522,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -22877,7 +22877,7 @@
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
-		"rating_standard": 1496,
+		"rating_standard": 1494,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -23030,7 +23030,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
-		"rating_standard": 1468,
+		"rating_standard": 1467,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -24017,7 +24017,7 @@
 		"birthday": 2013,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1490,
+		"rating_rapid": 1488,
 		"rating_blitz": null
 	},
 	{

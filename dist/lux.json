@@ -329,7 +329,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "FI",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -694,7 +694,7 @@
 		"flag": "",
 		"rating_standard": 2053,
 		"rating_rapid": 1867,
-		"rating_blitz": 1761
+		"rating_blitz": 1760
 	},
 	{
 		"fideid": 4001036,
@@ -1458,7 +1458,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1964,
-		"rating_rapid": 2001,
+		"rating_rapid": 2002,
 		"rating_blitz": 2042
 	},
 	{
@@ -1553,7 +1553,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "FT",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -1645,7 +1645,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1949,
-		"rating_rapid": 1827,
+		"rating_rapid": 1823,
 		"rating_blitz": 1825
 	},
 	{
@@ -2284,7 +2284,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "FI",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -2545,8 +2545,8 @@
 		"k": 40,
 		"birthday": 1999,
 		"flag": "",
-		"rating_standard": 1883,
-		"rating_rapid": 1857,
+		"rating_standard": 1882,
+		"rating_rapid": 1856,
 		"rating_blitz": null
 	},
 	{
@@ -2682,7 +2682,7 @@
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": 1876,
-		"rating_rapid": 1869,
+		"rating_rapid": 1866,
 		"rating_blitz": null
 	},
 	{
@@ -2784,7 +2784,7 @@
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": 1869,
-		"rating_rapid": 1776,
+		"rating_rapid": 1777,
 		"rating_blitz": null
 	},
 	{
@@ -2988,7 +2988,7 @@
 		"birthday": 1951,
 		"flag": "",
 		"rating_standard": 1855,
-		"rating_rapid": 1835,
+		"rating_rapid": 1836,
 		"rating_blitz": 1807
 	},
 	{
@@ -3158,7 +3158,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1841,
-		"rating_rapid": 1859,
+		"rating_rapid": 1857,
 		"rating_blitz": 1572
 	},
 	{
@@ -3277,7 +3277,7 @@
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": 1837,
-		"rating_rapid": 1868,
+		"rating_rapid": 1867,
 		"rating_blitz": null
 	},
 	{
@@ -3332,23 +3332,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4008243,
-		"name": "De Sousa Martinho, Vasco",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1833,
-		"rating_rapid": 1643,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 20668660,
 		"name": "Sabotic, Rameza",
 		"country": "LUX",
@@ -3380,6 +3363,23 @@
 		"flag": "",
 		"rating_standard": 1833,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4008243,
+		"name": "De Sousa Martinho, Vasco",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1832,
+		"rating_rapid": 1643,
 		"rating_blitz": null
 	},
 	{
@@ -3519,23 +3519,6 @@
 		"rating_blitz": 1899
 	},
 	{
-		"fideid": 4006151,
-		"name": "Reding, Sevda",
-		"country": "LUX",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1820,
-		"rating_rapid": 1853,
-		"rating_blitz": 1550
-	},
-	{
 		"fideid": 4004850,
 		"name": "Weber, Alexis",
 		"country": "LUX",
@@ -3570,6 +3553,23 @@
 		"rating_blitz": 1773
 	},
 	{
+		"fideid": 4006151,
+		"name": "Reding, Sevda",
+		"country": "LUX",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1819,
+		"rating_rapid": 1852,
+		"rating_blitz": 1550
+	},
+	{
 		"fideid": 4004469,
 		"name": "Fixmer, Eric",
 		"country": "LUX",
@@ -3582,7 +3582,7 @@
 		"k": 20,
 		"birthday": 1970,
 		"flag": "",
-		"rating_standard": 1819,
+		"rating_standard": 1818,
 		"rating_rapid": 1791,
 		"rating_blitz": 1807
 	},
@@ -3740,23 +3740,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 652080072,
-		"name": "Chateau, Karel",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1805,
-		"rating_rapid": 1681,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4003683,
 		"name": "Stencel, Milan",
 		"country": "LUX",
@@ -3805,6 +3788,23 @@
 		"flag": "i",
 		"rating_standard": 1805,
 		"rating_rapid": 1776,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 652080072,
+		"name": "Chateau, Karel",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1804,
+		"rating_rapid": 1681,
 		"rating_blitz": null
 	},
 	{
@@ -4127,7 +4127,7 @@
 		"birthday": 1961,
 		"flag": "",
 		"rating_standard": 1792,
-		"rating_rapid": 1783,
+		"rating_rapid": 1782,
 		"rating_blitz": null
 	},
 	{
@@ -4161,7 +4161,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1790,
-		"rating_rapid": 1834,
+		"rating_rapid": 1830,
 		"rating_blitz": 1843
 	},
 	{
@@ -4488,23 +4488,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4007697,
-		"name": "Dutang, Emilien",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1772,
-		"rating_rapid": 1740,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4003519,
 		"name": "Hirsch, Hugo",
 		"country": "LUX",
@@ -4519,6 +4502,23 @@
 		"flag": "i",
 		"rating_standard": 1772,
 		"rating_rapid": 1775,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4007697,
+		"name": "Dutang, Emilien",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1771,
+		"rating_rapid": 1739,
 		"rating_blitz": null
 	},
 	{
@@ -4552,7 +4552,7 @@
 		"birthday": 1958,
 		"flag": "",
 		"rating_standard": 1770,
-		"rating_rapid": 1747,
+		"rating_rapid": 1743,
 		"rating_blitz": 1836
 	},
 	{
@@ -4636,7 +4636,7 @@
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
-		"rating_standard": 1767,
+		"rating_standard": 1766,
 		"rating_rapid": 1714,
 		"rating_blitz": 1481
 	},
@@ -4807,7 +4807,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": 1753,
-		"rating_rapid": 1727,
+		"rating_rapid": 1725,
 		"rating_blitz": null
 	},
 	{
@@ -4943,7 +4943,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1743,
-		"rating_rapid": 1721,
+		"rating_rapid": 1719,
 		"rating_blitz": null
 	},
 	{
@@ -5185,23 +5185,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4007484,
-		"name": "Esmer, Hamza",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1723,
-		"rating_rapid": 1881,
-		"rating_blitz": 1910
-	},
-	{
 		"fideid": 4002849,
 		"name": "Linster, Bernard",
 		"country": "LUX",
@@ -5253,6 +5236,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4007484,
+		"name": "Esmer, Hamza",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1713,
+		"rating_rapid": 1881,
+		"rating_blitz": 1910
+	},
+	{
 		"fideid": 4010108,
 		"name": "Kampa, Jan",
 		"country": "LUX",
@@ -5266,7 +5266,24 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1713,
-		"rating_rapid": 1671,
+		"rating_rapid": 1670,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4008693,
+		"name": "Ahmed, Fares",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1712,
+		"rating_rapid": 1805,
 		"rating_blitz": null
 	},
 	{
@@ -5335,23 +5352,6 @@
 		"flag": "",
 		"rating_standard": 1709,
 		"rating_rapid": 1707,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 4008693,
-		"name": "Ahmed, Fares",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1708,
-		"rating_rapid": 1807,
 		"rating_blitz": null
 	},
 	{
@@ -5440,21 +5440,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4003357,
-		"name": "Agovic, Esad",
+		"fideid": 4007379,
+		"name": "Plard, Thierry",
 		"country": "LUX",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 15,
 		"k": 20,
-		"birthday": 1958,
+		"birthday": 1960,
 		"flag": "",
-		"rating_standard": 1693,
-		"rating_rapid": 1734,
-		"rating_blitz": null
+		"rating_standard": 1695,
+		"rating_rapid": 1491,
+		"rating_blitz": 1522
 	},
 	{
 		"fideid": 4005783,
@@ -5471,6 +5471,23 @@
 		"flag": "",
 		"rating_standard": 1693,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4003357,
+		"name": "Agovic, Esad",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1692,
+		"rating_rapid": 1731,
 		"rating_blitz": null
 	},
 	{
@@ -5525,40 +5542,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4007379,
-		"name": "Plard, Thierry",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 15,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1690,
-		"rating_rapid": 1490,
-		"rating_blitz": 1525
-	},
-	{
-		"fideid": 4008200,
-		"name": "Lebedev, Petr",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1689,
-		"rating_rapid": 1814,
-		"rating_blitz": 1663
-	},
-	{
 		"fideid": 4005660,
 		"name": "Winkin, Laurent",
 		"country": "LUX",
@@ -5574,6 +5557,23 @@
 		"rating_standard": 1689,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4008200,
+		"name": "Lebedev, Petr",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1688,
+		"rating_rapid": 1810,
+		"rating_blitz": 1663
 	},
 	{
 		"fideid": 4001877,
@@ -5606,7 +5606,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1685,
-		"rating_rapid": 1858,
+		"rating_rapid": 1859,
 		"rating_blitz": 1502
 	},
 	{
@@ -5746,40 +5746,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 42141834,
-		"name": "Basinas, Athanasios",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1680,
-		"rating_rapid": 1709,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 4006909,
-		"name": "Brittner, Laurent",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1680,
-		"rating_rapid": 1720,
-		"rating_blitz": 1455
-	},
-	{
 		"fideid": 4004507,
 		"name": "Mouzoun, Abdelkader",
 		"country": "LUX",
@@ -5795,6 +5761,23 @@
 		"rating_standard": 1680,
 		"rating_rapid": 1679,
 		"rating_blitz": 1651
+	},
+	{
+		"fideid": 4006909,
+		"name": "Brittner, Laurent",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1679,
+		"rating_rapid": 1720,
+		"rating_blitz": 1455
 	},
 	{
 		"fideid": 4002830,
@@ -5831,23 +5814,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4009908,
-		"name": "Burkel, Augustin",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1677,
-		"rating_rapid": 1591,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4004825,
 		"name": "Haillu, Daniel",
 		"country": "LUX",
@@ -5880,6 +5846,23 @@
 		"rating_standard": 1675,
 		"rating_rapid": null,
 		"rating_blitz": 1720
+	},
+	{
+		"fideid": 42141834,
+		"name": "Basinas, Athanasios",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1675,
+		"rating_rapid": 1700,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4005937,
@@ -5929,7 +5912,7 @@
 		"birthday": 1982,
 		"flag": "",
 		"rating_standard": 1674,
-		"rating_rapid": 1674,
+		"rating_rapid": 1673,
 		"rating_blitz": 1646
 	},
 	{
@@ -6100,6 +6083,23 @@
 		"flag": "i",
 		"rating_standard": 1653,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4009908,
+		"name": "Burkel, Augustin",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1652,
+		"rating_rapid": 1587,
 		"rating_blitz": null
 	},
 	{
@@ -6392,6 +6392,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4007409,
+		"name": "Pleimling, Luc",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 1617,
+		"rating_rapid": 1730,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 4001460,
 		"name": "Diesel, Carlo",
 		"country": "LUX",
@@ -6406,23 +6423,6 @@
 		"flag": "i",
 		"rating_standard": 1616,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 4007409,
-		"name": "Pleimling, Luc",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1615,
-		"rating_rapid": 1730,
 		"rating_blitz": null
 	},
 	{
@@ -6457,7 +6457,7 @@
 		"flag": "",
 		"rating_standard": 1609,
 		"rating_rapid": 1587,
-		"rating_blitz": 1526
+		"rating_blitz": 1525
 	},
 	{
 		"fideid": 4009940,
@@ -6473,7 +6473,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1608,
-		"rating_rapid": 1684,
+		"rating_rapid": 1683,
 		"rating_blitz": null
 	},
 	{
@@ -6489,8 +6489,8 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1606,
-		"rating_rapid": 1703,
+		"rating_standard": 1605,
+		"rating_rapid": 1704,
 		"rating_blitz": 1620
 	},
 	{
@@ -6528,8 +6528,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4008855,
-		"name": "Neven, Paul",
+		"fideid": 4010230,
+		"name": "Schanck, Alain",
 		"country": "LUX",
 		"sex": "M",
 		"title": "",
@@ -6538,10 +6538,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2002,
+		"birthday": 1981,
 		"flag": "",
 		"rating_standard": 1602,
-		"rating_rapid": 1724,
+		"rating_rapid": 1541,
 		"rating_blitz": null
 	},
 	{
@@ -6557,13 +6557,13 @@
 		"k": 20,
 		"birthday": 1963,
 		"flag": "",
-		"rating_standard": 1600,
+		"rating_standard": 1601,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4010230,
-		"name": "Schanck, Alain",
+		"fideid": 4008855,
+		"name": "Neven, Paul",
 		"country": "LUX",
 		"sex": "M",
 		"title": "",
@@ -6572,10 +6572,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1981,
+		"birthday": 2002,
 		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": 1541,
+		"rating_standard": 1601,
+		"rating_rapid": 1724,
 		"rating_blitz": null
 	},
 	{
@@ -6625,8 +6625,8 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
-		"rating_standard": 1599,
-		"rating_rapid": 1585,
+		"rating_standard": 1598,
+		"rating_rapid": 1563,
 		"rating_blitz": null
 	},
 	{
@@ -6642,7 +6642,7 @@
 		"k": 40,
 		"birthday": 1972,
 		"flag": "",
-		"rating_standard": 1597,
+		"rating_standard": 1596,
 		"rating_rapid": 1663,
 		"rating_blitz": null
 	},
@@ -6681,21 +6681,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4007395,
-		"name": "Solovev, Nikolai",
+		"fideid": 4008316,
+		"name": "Weymeschkirch, Sascha",
 		"country": "LUX",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
-		"birthday": 2016,
+		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1584,
-		"rating_rapid": 1641,
-		"rating_blitz": 1780
+		"rating_standard": 1585,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 4007573,
@@ -6713,6 +6713,23 @@
 		"rating_standard": 1582,
 		"rating_rapid": 1719,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 4007395,
+		"name": "Solovev, Nikolai",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1582,
+		"rating_rapid": 1636,
+		"rating_blitz": 1780
 	},
 	{
 		"fideid": 4007867,
@@ -6744,25 +6761,8 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1573,
-		"rating_rapid": 1443,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 4008316,
-		"name": "Weymeschkirch, Sascha",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1573,
-		"rating_rapid": null,
+		"rating_standard": 1574,
+		"rating_rapid": 1467,
 		"rating_blitz": null
 	},
 	{
@@ -6779,7 +6779,7 @@
 		"birthday": 2005,
 		"flag": "i",
 		"rating_standard": 1572,
-		"rating_rapid": 1668,
+		"rating_rapid": 1667,
 		"rating_blitz": 1654
 	},
 	{
@@ -6834,23 +6834,6 @@
 		"rating_blitz": 1609
 	},
 	{
-		"fideid": 4009231,
-		"name": "Oliveira Mazza, Samuel",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1561,
-		"rating_rapid": 1484,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 4007050,
 		"name": "Schreiner, Kevin",
 		"country": "LUX",
@@ -6865,6 +6848,23 @@
 		"flag": "i",
 		"rating_standard": 1561,
 		"rating_rapid": 1590,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4009231,
+		"name": "Oliveira Mazza, Samuel",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1560,
+		"rating_rapid": 1484,
 		"rating_blitz": null
 	},
 	{
@@ -6931,8 +6931,25 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1540,
+		"rating_standard": 1541,
 		"rating_rapid": 1592,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4008014,
+		"name": "Reddy, Handyalu Kiran",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1536,
+		"rating_rapid": 1565,
 		"rating_blitz": null
 	},
 	{
@@ -6950,6 +6967,23 @@
 		"flag": "",
 		"rating_standard": 1534,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 4007840,
+		"name": "Guzdziol, Olaf",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1524,
+		"rating_rapid": 1407,
 		"rating_blitz": null
 	},
 	{
@@ -7016,26 +7050,9 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1517,
-		"rating_rapid": 1596,
-		"rating_blitz": 1407
-	},
-	{
-		"fideid": 4007840,
-		"name": "Guzdziol, Olaf",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 9,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1513,
-		"rating_rapid": 1407,
-		"rating_blitz": null
+		"rating_standard": 1518,
+		"rating_rapid": 1591,
+		"rating_blitz": 1425
 	},
 	{
 		"fideid": 4007220,
@@ -7050,7 +7067,7 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1510,
+		"rating_standard": 1511,
 		"rating_rapid": 1612,
 		"rating_blitz": null
 	},
@@ -7101,7 +7118,7 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1489,
+		"rating_standard": 1487,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7118,26 +7135,9 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1481,
+		"rating_standard": 1480,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 4007000,
-		"name": "Capun, Ian",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1475,
-		"rating_rapid": 1823,
-		"rating_blitz": 1551
 	},
 	{
 		"fideid": 4005619,
@@ -7157,8 +7157,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 4008014,
-		"name": "Reddy, Handyalu Kiran",
+		"fideid": 4007000,
+		"name": "Capun, Ian",
 		"country": "LUX",
 		"sex": "M",
 		"title": "",
@@ -7167,11 +7167,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1455,
-		"rating_rapid": 1626,
-		"rating_blitz": null
+		"rating_standard": 1459,
+		"rating_rapid": 1824,
+		"rating_blitz": 1551
 	},
 	{
 		"fideid": 4006054,
@@ -7220,25 +7220,8 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1440,
+		"rating_standard": 1439,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 4007662,
-		"name": "Manikandan, Advaith",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1440,
-		"rating_rapid": 1460,
 		"rating_blitz": null
 	},
 	{
@@ -7293,6 +7276,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 4007662,
+		"name": "Manikandan, Advaith",
+		"country": "LUX",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1420,
+		"rating_rapid": 1444,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 4006186,
 		"name": "Gargani, Giuseppe",
 		"country": "LUX",
@@ -7306,23 +7306,6 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": 1419,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 4009045,
-		"name": "Aevskiy, Dmitriy",
-		"country": "LUX",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1416,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7356,8 +7339,8 @@
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
-		"rating_standard": 1409,
-		"rating_rapid": 1520,
+		"rating_standard": 1402,
+		"rating_rapid": 1524,
 		"rating_blitz": null
 	},
 	{
@@ -7476,7 +7459,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1514,
+		"rating_rapid": 1513,
 		"rating_blitz": null
 	},
 	{
@@ -7510,7 +7493,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1486,
+		"rating_rapid": 1485,
 		"rating_blitz": null
 	},
 	{
@@ -7561,7 +7544,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1509,
+		"rating_rapid": 1511,
 		"rating_blitz": null
 	},
 	{
@@ -7697,7 +7680,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1745,
+		"rating_rapid": 1744,
 		"rating_blitz": null
 	},
 	{
@@ -7765,7 +7748,7 @@
 		"birthday": 1957,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1437,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -7833,7 +7816,7 @@
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1475,
+		"rating_rapid": 1476,
 		"rating_blitz": null
 	},
 	{
@@ -7884,7 +7867,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1753,
+		"rating_rapid": 1754,
 		"rating_blitz": null
 	},
 	{
@@ -7901,7 +7884,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1484,
+		"rating_rapid": 1491,
 		"rating_blitz": null
 	},
 	{
@@ -7952,7 +7935,7 @@
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1580,
+		"rating_rapid": 1581,
 		"rating_blitz": null
 	},
 	{
@@ -7969,7 +7952,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1740,
+		"rating_rapid": 1739,
 		"rating_blitz": 1618
 	},
 	{
@@ -7986,7 +7969,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1537,
+		"rating_rapid": 1538,
 		"rating_blitz": null
 	},
 	{
@@ -8020,7 +8003,7 @@
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1432,
+		"rating_rapid": 1429,
 		"rating_blitz": null
 	},
 	{
@@ -8071,7 +8054,7 @@
 		"birthday": 2014,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1679,
+		"rating_rapid": 1683,
 		"rating_blitz": null
 	},
 	{
@@ -8088,7 +8071,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1764,
+		"rating_rapid": 1758,
 		"rating_blitz": 1416
 	},
 	{
@@ -8105,8 +8088,8 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1415,
-		"rating_blitz": 1435
+		"rating_rapid": 1416,
+		"rating_blitz": 1434
 	},
 	{
 		"fideid": 4009630,
@@ -8139,7 +8122,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1687,
+		"rating_rapid": 1686,
 		"rating_blitz": null
 	},
 	{
@@ -8156,7 +8139,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1858,
+		"rating_rapid": 1859,
 		"rating_blitz": null
 	},
 	{
@@ -8207,7 +8190,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1520,
+		"rating_rapid": 1521,
 		"rating_blitz": null
 	},
 	{
@@ -8309,7 +8292,7 @@
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1731,
+		"rating_rapid": 1729,
 		"rating_blitz": null
 	},
 	{
@@ -8344,6 +8327,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1472
+		"rating_blitz": 1470
 	}
 ]
