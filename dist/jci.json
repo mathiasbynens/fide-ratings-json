@@ -82,7 +82,7 @@
 		"flag": "",
 		"rating_standard": 2077,
 		"rating_rapid": 1949,
-		"rating_blitz": 1964
+		"rating_blitz": 2013
 	},
 	{
 		"fideid": 1126768,
@@ -96,7 +96,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1983,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2075,
 		"rating_rapid": 2061,
 		"rating_blitz": 1993
@@ -232,7 +232,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1968,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1918,
 		"rating_rapid": null,
 		"rating_blitz": 1914
@@ -263,13 +263,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": 1875,
 		"rating_rapid": null,
 		"rating_blitz": 1973
+	},
+	{
+		"fideid": 15600157,
+		"name": "Mazurkiewicz, Marcin",
+		"country": "JCI",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 1975,
+		"flag": "",
+		"rating_standard": 1868,
+		"rating_rapid": null,
+		"rating_blitz": 1926
 	},
 	{
 		"fideid": 15600149,
@@ -399,11 +416,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
-		"rating_standard": 1770,
+		"rating_standard": 1755,
 		"rating_rapid": null,
 		"rating_blitz": 1733
 	},
@@ -501,7 +518,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
@@ -688,11 +705,11 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 20,
 		"k": 20,
 		"birthday": 1977,
 		"flag": "w",
-		"rating_standard": 1579,
+		"rating_standard": 1577,
 		"rating_rapid": 1610,
 		"rating_blitz": 1629
 	},
@@ -725,7 +742,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1523,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -763,23 +780,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1725
-	},
-	{
-		"fideid": 15600157,
-		"name": "Mazurkiewicz, Marcin",
-		"country": "JCI",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1926
 	},
 	{
 		"fideid": 15600530,

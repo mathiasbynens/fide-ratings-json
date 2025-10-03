@@ -25,7 +25,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
@@ -76,12 +76,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 7,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 2334,
-		"rating_rapid": 2281,
+		"rating_standard": 2343,
+		"rating_rapid": 2308,
 		"rating_blitz": 2248
 	},
 	{
@@ -153,23 +153,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7611625,
-		"name": "Fandi,Mazen.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 2307,
-		"rating_rapid": 2158,
-		"rating_blitz": 1987
-	},
-	{
 		"fideid": 7600070,
 		"name": "Al-Khateeb, Ahmed",
 		"country": "SYR",
@@ -185,6 +168,23 @@
 		"rating_standard": 2306,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7611625,
+		"name": "Fandi,Mazen.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 2303,
+		"rating_rapid": 2158,
+		"rating_blitz": 1986
 	},
 	{
 		"fideid": 7600682,
@@ -425,23 +425,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 146242580,
-		"name": "Rifai, Abdulkader",
-		"country": "SYR",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "i",
-		"rating_standard": 2213,
-		"rating_rapid": 2178,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7601611,
 		"name": "Haj-Bakkor, Mohamed",
 		"country": "SYR",
@@ -457,6 +440,23 @@
 		"rating_standard": 2199,
 		"rating_rapid": 2169,
 		"rating_blitz": 2101
+	},
+	{
+		"fideid": 146242580,
+		"name": "Rifai, Abdulkader",
+		"country": "SYR",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 2198,
+		"rating_rapid": 2178,
+		"rating_blitz": 2227
 	},
 	{
 		"fideid": 7600984,
@@ -977,11 +977,11 @@
 		"w_title": "",
 		"o_title": "FI,NA",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
-		"rating_standard": 2097,
+		"rating_standard": 2098,
 		"rating_rapid": 2177,
 		"rating_blitz": 2063
 	},
@@ -994,7 +994,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 20,
 		"birthday": 1979,
 		"flag": "",
@@ -1130,7 +1130,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1989,
 		"flag": "",
@@ -1419,7 +1419,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AIM",
-		"games": 0,
+		"games": 1,
 		"k": 20,
 		"birthday": 1975,
 		"flag": "",
@@ -1849,8 +1849,25 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 1992,
-		"rating_rapid": 1910,
-		"rating_blitz": 1917
+		"rating_rapid": 1909,
+		"rating_blitz": 1919
+	},
+	{
+		"fideid": 7603266,
+		"name": "Yaghy,Ritta.",
+		"country": "SYR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "w",
+		"rating_standard": 1991,
+		"rating_rapid": 1969,
+		"rating_blitz": 1834
 	},
 	{
 		"fideid": 7607393,
@@ -1885,23 +1902,6 @@
 		"rating_standard": 1990,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7603266,
-		"name": "Yaghy,Ritta.",
-		"country": "SYR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "w",
-		"rating_standard": 1990,
-		"rating_rapid": 1969,
-		"rating_blitz": 1834
 	},
 	{
 		"fideid": 7600712,
@@ -2055,6 +2055,23 @@
 		"rating_standard": 1981,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7619472,
+		"name": "Alhaj,Mohamad Saleh Ahmad.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1981,
+		"rating_rapid": null,
+		"rating_blitz": 1814
 	},
 	{
 		"fideid": 7605714,
@@ -2448,23 +2465,6 @@
 		"rating_blitz": 1934
 	},
 	{
-		"fideid": 7619472,
-		"name": "Alhaj,Mohamad Saleh Ahmad.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1959,
-		"rating_rapid": null,
-		"rating_blitz": 1814
-	},
-	{
 		"fideid": 7606222,
 		"name": "Tobal, Elias",
 		"country": "SYR",
@@ -2601,6 +2601,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7608632,
+		"name": "Hivyar,Kharfan.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 1950,
+		"rating_rapid": 1900,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7602383,
 		"name": "Nor, Barnya",
 		"country": "SYR",
@@ -2633,23 +2650,6 @@
 		"rating_standard": 1949,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7612648,
-		"name": "Mulhem,Laith.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1948,
-		"rating_rapid": 1923,
-		"rating_blitz": 1630
 	},
 	{
 		"fideid": 7602235,
@@ -2813,7 +2813,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -3005,7 +3005,7 @@
 		"birthday": 1993,
 		"flag": "i",
 		"rating_standard": 1930,
-		"rating_rapid": 1960,
+		"rating_rapid": 1976,
 		"rating_blitz": null
 	},
 	{
@@ -3128,21 +3128,21 @@
 		"rating_blitz": 1872
 	},
 	{
-		"fideid": 7608632,
-		"name": "Hivyar,Kharfan.",
+		"fideid": 7612648,
+		"name": "Mulhem,Laith.",
 		"country": "SYR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 14,
 		"k": 40,
-		"birthday": 1995,
+		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1923,
-		"rating_rapid": 1900,
-		"rating_blitz": null
+		"rating_rapid": 1924,
+		"rating_blitz": 1698
 	},
 	{
 		"fideid": 7601603,
@@ -3298,23 +3298,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7604645,
-		"name": "Feras, Alharash",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1913,
-		"rating_rapid": 1924,
-		"rating_blitz": 1960
-	},
-	{
 		"fideid": 7600950,
 		"name": "Algildah, Nibal",
 		"country": "SYR",
@@ -3330,6 +3313,23 @@
 		"rating_standard": 1911,
 		"rating_rapid": 1922,
 		"rating_blitz": 1921
+	},
+	{
+		"fideid": 7608420,
+		"name": "Mero,Aghiad.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1911,
+		"rating_rapid": 2054,
+		"rating_blitz": 2020
 	},
 	{
 		"fideid": 7600658,
@@ -3445,7 +3445,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1996,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1906,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -3515,7 +3515,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1899,
-		"rating_rapid": 2018,
+		"rating_rapid": 2015,
 		"rating_blitz": 1937
 	},
 	{
@@ -3553,6 +3553,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7604645,
+		"name": "Feras, Alharash",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 1894,
+		"rating_rapid": 1908,
+		"rating_blitz": 1976
+	},
+	{
+		"fideid": 7618018,
+		"name": "Katrib,Ahmad.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1893,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7610831,
 		"name": "Alkhairat,Wahib.",
 		"country": "SYR",
@@ -3570,23 +3604,6 @@
 		"rating_blitz": 1832
 	},
 	{
-		"fideid": 7618018,
-		"name": "Katrib,Ahmad.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1892,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7607156,
 		"name": "AlDakhlAllah Emad",
 		"country": "SYR",
@@ -3600,7 +3617,7 @@
 		"birthday": 1973,
 		"flag": "i",
 		"rating_standard": 1889,
-		"rating_rapid": 1953,
+		"rating_rapid": 1952,
 		"rating_blitz": 1896
 	},
 	{
@@ -3840,23 +3857,6 @@
 		"rating_standard": 1877,
 		"rating_rapid": 1728,
 		"rating_blitz": 1803
-	},
-	{
-		"fideid": 7608420,
-		"name": "Mero,Aghiad.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1877,
-		"rating_rapid": 2033,
-		"rating_blitz": 2020
 	},
 	{
 		"fideid": 7605838,
@@ -4195,7 +4195,7 @@
 		"birthday": "",
 		"flag": "i",
 		"rating_standard": 1857,
-		"rating_rapid": 1817,
+		"rating_rapid": 1770,
 		"rating_blitz": 1857
 	},
 	{
@@ -4811,6 +4811,23 @@
 		"rating_blitz": 1677
 	},
 	{
+		"fideid": 7605390,
+		"name": "Mounif, Saab",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1812,
+		"rating_rapid": 1705,
+		"rating_blitz": 1744
+	},
+	{
 		"fideid": 7605420,
 		"name": "Mohamad,Alsairafi",
 		"country": "SYR",
@@ -4959,8 +4976,8 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1801,
-		"rating_rapid": 1655,
+		"rating_standard": 1803,
+		"rating_rapid": 1647,
 		"rating_blitz": null
 	},
 	{
@@ -5015,23 +5032,6 @@
 		"rating_blitz": 1738
 	},
 	{
-		"fideid": 150104472,
-		"name": "Arhimow, Mohamed Salem",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1798,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7606109,
 		"name": "bashar , alshater",
 		"country": "SYR",
@@ -5064,6 +5064,23 @@
 		"rating_standard": 1798,
 		"rating_rapid": null,
 		"rating_blitz": 1741
+	},
+	{
+		"fideid": 150104472,
+		"name": "Arhimow, Mohamed Salem",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1797,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 7616147,
@@ -5113,7 +5130,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": 1793,
-		"rating_rapid": 1815,
+		"rating_rapid": 1814,
 		"rating_blitz": 1830
 	},
 	{
@@ -5132,23 +5149,6 @@
 		"rating_standard": 1792,
 		"rating_rapid": 1757,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7605390,
-		"name": "Mounif, Saab",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": "",
-		"flag": "i",
-		"rating_standard": 1792,
-		"rating_rapid": 1705,
-		"rating_blitz": 1744
 	},
 	{
 		"fideid": 7604270,
@@ -5737,12 +5737,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 16,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1748,
-		"rating_rapid": 1743,
+		"rating_standard": 1749,
+		"rating_rapid": 1742,
 		"rating_blitz": 1735
 	},
 	{
@@ -5916,6 +5916,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7619677,
+		"name": "Tuma Halebi,Bilal.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1732,
+		"rating_rapid": null,
+		"rating_blitz": 1742
+	},
+	{
 		"fideid": 7606397,
 		"name": "Alsamman,Muhammed Samir.",
 		"country": "SYR",
@@ -5984,23 +6001,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7619456,
-		"name": "Jreikh,M.Ghaith.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1729,
-		"rating_rapid": null,
-		"rating_blitz": 1604
-	},
-	{
 		"fideid": 7614853,
 		"name": "Kafa,marah.",
 		"country": "SYR",
@@ -6052,6 +6052,23 @@
 		"rating_blitz": 1688
 	},
 	{
+		"fideid": 7619456,
+		"name": "Jreikh,M.Ghaith.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1724,
+		"rating_rapid": null,
+		"rating_blitz": 1602
+	},
+	{
 		"fideid": 7609248,
 		"name": "Najjoum, Samer.",
 		"country": "SYR",
@@ -6067,6 +6084,23 @@
 		"rating_standard": 1722,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7612354,
+		"name": "Alali, Tammam",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1721,
+		"rating_rapid": 1587,
+		"rating_blitz": 1526
 	},
 	{
 		"fideid": 7613482,
@@ -6118,23 +6152,6 @@
 		"rating_standard": 1720,
 		"rating_rapid": null,
 		"rating_blitz": 1856
-	},
-	{
-		"fideid": 7612354,
-		"name": "Alali, Tammam",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1716,
-		"rating_rapid": 1587,
-		"rating_blitz": 1526
 	},
 	{
 		"fideid": 7604319,
@@ -6494,6 +6511,23 @@
 		"rating_blitz": 1789
 	},
 	{
+		"fideid": 7611412,
+		"name": "Mahfoud,Mayyar.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1687,
+		"rating_rapid": 1860,
+		"rating_blitz": 1782
+	},
+	{
 		"fideid": 7601778,
 		"name": "Kurdi, Yaman ramsi",
 		"country": "SYR",
@@ -6596,23 +6630,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7610580,
-		"name": "Sarhan, Amro",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": 1676,
-		"rating_rapid": 1573,
-		"rating_blitz": 1581
-	},
-	{
 		"fideid": 7610807,
 		"name": "AlAtrash,Kareem.",
 		"country": "SYR",
@@ -6664,23 +6681,6 @@
 		"rating_blitz": 1672
 	},
 	{
-		"fideid": 7611412,
-		"name": "Mahfoud,Mayyar.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1668,
-		"rating_rapid": null,
-		"rating_blitz": 1785
-	},
-	{
 		"fideid": 7609566,
 		"name": "Alhabib, Sedra.",
 		"country": "SYR",
@@ -6711,7 +6711,7 @@
 		"birthday": 1973,
 		"flag": "i",
 		"rating_standard": 1663,
-		"rating_rapid": 1706,
+		"rating_rapid": 1708,
 		"rating_blitz": 1705
 	},
 	{
@@ -6868,23 +6868,6 @@
 		"rating_blitz": 1571
 	},
 	{
-		"fideid": 7612893,
-		"name": "Shehada, Ali",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "i",
-		"rating_standard": 1644,
-		"rating_rapid": 1817,
-		"rating_blitz": 1666
-	},
-	{
 		"fideid": 7614730,
 		"name": "Diab,Khalil.",
 		"country": "SYR",
@@ -6898,7 +6881,7 @@
 		"birthday": 1996,
 		"flag": "i",
 		"rating_standard": 1643,
-		"rating_rapid": 1598,
+		"rating_rapid": 1601,
 		"rating_blitz": 1743
 	},
 	{
@@ -6932,23 +6915,6 @@
 		"birthday": 2006,
 		"flag": "wi",
 		"rating_standard": 1640,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 7619766,
-		"name": "Tuma Halebi,Tarik.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1638,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7055,6 +7021,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7610580,
+		"name": "Sarhan, Amro",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1627,
+		"rating_rapid": 1573,
+		"rating_blitz": 1581
+	},
+	{
 		"fideid": 7612303,
 		"name": "Alajati,Abdl Alrahman.",
 		"country": "SYR",
@@ -7069,7 +7052,7 @@
 		"flag": "",
 		"rating_standard": 1623,
 		"rating_rapid": 1463,
-		"rating_blitz": 1501
+		"rating_blitz": 1506
 	},
 	{
 		"fideid": 7611137,
@@ -7157,6 +7140,23 @@
 		"rating_blitz": 1534
 	},
 	{
+		"fideid": 7619766,
+		"name": "Tuma Halebi,Tarik.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1612,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7608454,
 		"name": "Alnahhas,Abdullah",
 		"country": "SYR",
@@ -7174,6 +7174,23 @@
 		"rating_blitz": 1716
 	},
 	{
+		"fideid": 7612893,
+		"name": "Shehada, Ali",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1606,
+		"rating_rapid": 1817,
+		"rating_blitz": 1666
+	},
+	{
 		"fideid": 7611773,
 		"name": "Zeiti,Jaafar.",
 		"country": "SYR",
@@ -7189,23 +7206,6 @@
 		"rating_standard": 1602,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7619677,
-		"name": "Tuma Halebi,Bilal.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1601,
-		"rating_rapid": null,
-		"rating_blitz": 1742
 	},
 	{
 		"fideid": 7604351,
@@ -7271,9 +7271,9 @@
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
-		"rating_standard": 1597,
+		"rating_standard": 1596,
 		"rating_rapid": 1593,
-		"rating_blitz": 1598
+		"rating_blitz": 1597
 	},
 	{
 		"fideid": 7608519,
@@ -7361,23 +7361,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7615850,
-		"name": "Sari Shekfeh",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1586,
-		"rating_rapid": 1588,
-		"rating_blitz": 1521
-	},
-	{
 		"fideid": 7603649,
 		"name": "Tawel,Ihab.",
 		"country": "SYR",
@@ -7463,6 +7446,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7620543,
+		"name": "Aswad,Mohamad.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1578,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7610742,
 		"name": "Waaez,Abdul Rahman.",
 		"country": "SYR",
@@ -7508,7 +7508,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1966,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1575,
 		"rating_rapid": 1545,
 		"rating_blitz": null
@@ -7545,7 +7545,7 @@
 		"flag": "i",
 		"rating_standard": 1574,
 		"rating_rapid": 1473,
-		"rating_blitz": 1539
+		"rating_blitz": 1540
 	},
 	{
 		"fideid": 138188909,
@@ -7563,6 +7563,23 @@
 		"rating_standard": 1574,
 		"rating_rapid": 1587,
 		"rating_blitz": 1582
+	},
+	{
+		"fideid": 7615850,
+		"name": "Sari Shekfeh",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1574,
+		"rating_rapid": 1621,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 7610530,
@@ -7594,7 +7611,7 @@
 		"k": 20,
 		"birthday": 1978,
 		"flag": "",
-		"rating_standard": 1572,
+		"rating_standard": 1570,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7684,23 +7701,6 @@
 		"rating_blitz": 1611
 	},
 	{
-		"fideid": 7607075,
-		"name": "Aljundi Ammar",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 1550,
-		"rating_rapid": 1564,
-		"rating_blitz": 1654
-	},
-	{
 		"fideid": 7611404,
 		"name": "Mahfoud,Ibrahem.",
 		"country": "SYR",
@@ -7713,9 +7713,9 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "i",
-		"rating_standard": 1549,
-		"rating_rapid": null,
-		"rating_blitz": 1633
+		"rating_standard": 1548,
+		"rating_rapid": 1548,
+		"rating_blitz": 1653
 	},
 	{
 		"fideid": 7616945,
@@ -7732,7 +7732,7 @@
 		"flag": "i",
 		"rating_standard": 1546,
 		"rating_rapid": 1498,
-		"rating_blitz": 1508
+		"rating_blitz": 1509
 	},
 	{
 		"fideid": 7612494,
@@ -7760,11 +7760,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1546,
+		"rating_standard": 1543,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7786,6 +7786,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7607075,
+		"name": "Aljundi Ammar",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 1541,
+		"rating_rapid": 1564,
+		"rating_blitz": 1659
+	},
+	{
 		"fideid": 7613407,
 		"name": "Wakkaf,Jina.",
 		"country": "SYR",
@@ -7801,23 +7818,6 @@
 		"rating_standard": 1540,
 		"rating_rapid": null,
 		"rating_blitz": 1440
-	},
-	{
-		"fideid": 7612940,
-		"name": "Alokla,Jad.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1538,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 7612060,
@@ -7851,6 +7851,23 @@
 		"flag": "i",
 		"rating_standard": 1537,
 		"rating_rapid": 1493,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7612940,
+		"name": "Alokla,Jad.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "i",
+		"rating_standard": 1537,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -7905,23 +7922,6 @@
 		"rating_blitz": 1565
 	},
 	{
-		"fideid": 7610289,
-		"name": "Rafeaa,Ameer.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1532,
-		"rating_rapid": 1470,
-		"rating_blitz": 1434
-	},
-	{
 		"fideid": 7613008,
 		"name": "Makhoul,Senthia.",
 		"country": "SYR",
@@ -7971,23 +7971,6 @@
 		"rating_standard": 1530,
 		"rating_rapid": null,
 		"rating_blitz": 1414
-	},
-	{
-		"fideid": 7606893,
-		"name": "Rafea,Hamza",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1526,
-		"rating_rapid": 1599,
-		"rating_blitz": 1557
 	},
 	{
 		"fideid": 7611552,
@@ -8041,23 +8024,6 @@
 		"rating_blitz": 1452
 	},
 	{
-		"fideid": 7611862,
-		"name": "Haj Kasem,Mohamad Kasem.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1514,
-		"rating_rapid": 1478,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7613288,
 		"name": "Hasseino,Aya.",
 		"country": "SYR",
@@ -8072,6 +8038,23 @@
 		"flag": "wi",
 		"rating_standard": 1514,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7619278,
+		"name": "Almolhem,Mohammad Haydar.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1513,
+		"rating_rapid": 1514,
 		"rating_blitz": null
 	},
 	{
@@ -8126,6 +8109,57 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7606893,
+		"name": "Rafea,Hamza",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1505,
+		"rating_rapid": 1602,
+		"rating_blitz": 1557
+	},
+	{
+		"fideid": 7611862,
+		"name": "Haj Kasem,Mohamad Kasem.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1499,
+		"rating_rapid": 1468,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7618824,
+		"name": "Khlif,Qais.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 1499,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7609540,
 		"name": "Shamsi Basha,Mohamad Fateh",
 		"country": "SYR",
@@ -8141,23 +8175,6 @@
 		"rating_standard": 1499,
 		"rating_rapid": 1495,
 		"rating_blitz": 1514
-	},
-	{
-		"fideid": 7618824,
-		"name": "Khlif,Qais.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 1498,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 7613172,
@@ -8194,6 +8211,23 @@
 		"rating_blitz": 1484
 	},
 	{
+		"fideid": 7614438,
+		"name": "Hadi Abazid",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": 1488,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7601891,
 		"name": "Khatib, Houssen",
 		"country": "SYR",
@@ -8228,23 +8262,6 @@
 		"rating_blitz": 1510
 	},
 	{
-		"fideid": 7614438,
-		"name": "Hadi Abazid",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": 1479,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7614519,
 		"name": "Obada Outabachi",
 		"country": "SYR",
@@ -8275,6 +8292,23 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": 1476,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7620497,
+		"name": "Kassar,Yaman.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1475,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -8381,23 +8415,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7611617,
-		"name": "Bou Hamdan,Hani.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1456,
-		"rating_rapid": 1572,
-		"rating_blitz": 1500
-	},
-	{
 		"fideid": 7611145,
 		"name": "Kenian,Arsen.",
 		"country": "SYR",
@@ -8410,9 +8427,26 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1453,
+		"rating_standard": 1454,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7612214,
+		"name": "Alshami,Wissam.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1449,
+		"rating_rapid": 1467,
+		"rating_blitz": 1556
 	},
 	{
 		"fideid": 7604670,
@@ -8432,6 +8466,23 @@
 		"rating_blitz": 1445
 	},
 	{
+		"fideid": 7611617,
+		"name": "Bou Hamdan,Hani.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1445,
+		"rating_rapid": 1559,
+		"rating_blitz": 1500
+	},
+	{
 		"fideid": 7613792,
 		"name": "Tawil,Charbel.",
 		"country": "SYR",
@@ -8444,7 +8495,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1443,
+		"rating_standard": 1444,
 		"rating_rapid": 1595,
 		"rating_blitz": null
 	},
@@ -8462,8 +8513,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1441,
-		"rating_rapid": 1518,
-		"rating_blitz": 1508
+		"rating_rapid": 1474,
+		"rating_blitz": 1522
 	},
 	{
 		"fideid": 7607245,
@@ -8517,8 +8568,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7612214,
-		"name": "Alshami,Wissam.",
+		"fideid": 7611544,
+		"name": "Albabbili,Aghiad.",
 		"country": "SYR",
 		"sex": "M",
 		"title": "",
@@ -8526,12 +8577,29 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
-		"birthday": 2015,
+		"k": 20,
+		"birthday": 1978,
 		"flag": "",
-		"rating_standard": 1432,
-		"rating_rapid": 1439,
-		"rating_blitz": 1582
+		"rating_standard": 1431,
+		"rating_rapid": 1580,
+		"rating_blitz": 1513
+	},
+	{
+		"fideid": 7615906,
+		"name": "Safi,Carol.",
+		"country": "SYR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1431,
+		"rating_rapid": 1428,
+		"rating_blitz": 1564
 	},
 	{
 		"fideid": 7614551,
@@ -8542,30 +8610,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1431,
-		"rating_rapid": 1426,
+		"rating_standard": 1430,
+		"rating_rapid": null,
 		"rating_blitz": 1441
-	},
-	{
-		"fideid": 7611544,
-		"name": "Albabbili,Aghiad.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1431,
-		"rating_rapid": 1580,
-		"rating_blitz": 1513
 	},
 	{
 		"fideid": 7610394,
@@ -8602,23 +8653,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7615906,
-		"name": "Safi,Carol.",
-		"country": "SYR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1419,
-		"rating_rapid": null,
-		"rating_blitz": 1563
-	},
-	{
 		"fideid": 150095391,
 		"name": "Al Deib, Alaa",
 		"country": "SYR",
@@ -8634,6 +8668,23 @@
 		"rating_standard": 1417,
 		"rating_rapid": 1562,
 		"rating_blitz": 1467
+	},
+	{
+		"fideid": 7610289,
+		"name": "Rafeaa,Ameer.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1415,
+		"rating_rapid": 1429,
+		"rating_blitz": 1434
 	},
 	{
 		"fideid": 7608292,
@@ -8738,6 +8789,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7616902,
+		"name": "Hamad,Ali.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1406,
+		"rating_rapid": 1426,
+		"rating_blitz": 1450
+	},
+	{
 		"fideid": 7611706,
 		"name": "Ibrahim,Ibrahim.",
 		"country": "SYR",
@@ -8749,8 +8817,8 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1406,
+		"flag": "i",
+		"rating_standard": 1405,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -8955,7 +9023,7 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1667,
+		"rating_rapid": 1654,
 		"rating_blitz": null
 	},
 	{
@@ -9018,7 +9086,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -9197,6 +9265,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7620136,
+		"name": "Alhasan,Modar.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 19,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1696,
+		"rating_blitz": 1572
+	},
+	{
 		"fideid": 7618131,
 		"name": "Alhomsi,Daeb.",
 		"country": "SYR",
@@ -9211,6 +9296,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1846,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7620489,
+		"name": "Alhousni,Amr.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1699,
 		"rating_blitz": null
 	},
 	{
@@ -9245,6 +9347,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1612,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7616376,
+		"name": "Aljaffan,Hadi.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1566,
 		"rating_blitz": null
 	},
 	{
@@ -9367,6 +9486,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7615825,
+		"name": "Almasri,Laith.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1492,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7617739,
 		"name": "Almasri,Wasim.",
 		"country": "SYR",
@@ -9384,23 +9520,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7619278,
-		"name": "Almolhem,Mohammad Haydar.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1505,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7613814,
 		"name": "Almoussa,Mazen.",
 		"country": "SYR",
@@ -9409,12 +9528,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1456,
+		"rating_rapid": 1469,
 		"rating_blitz": 1457
 	},
 	{
@@ -9477,7 +9596,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
@@ -9494,7 +9613,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
@@ -9511,7 +9630,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1985,
 		"flag": "w",
@@ -9618,7 +9737,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1468,
+		"rating_rapid": 1467,
 		"rating_blitz": null
 	},
 	{
@@ -9673,6 +9792,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7615396,
+		"name": "Asaker,Karam.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1445,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7606664,
 		"name": "Atef,Alsebai",
 		"country": "SYR",
@@ -9715,7 +9851,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1998,
 		"flag": "",
@@ -9749,12 +9885,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 4,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1448,
+		"rating_rapid": 1403,
 		"rating_blitz": null
 	},
 	{
@@ -9822,7 +9958,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1444,
+		"rating_rapid": 1443,
 		"rating_blitz": null
 	},
 	{
@@ -9992,8 +10128,8 @@
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1590,
-		"rating_blitz": 1599
+		"rating_rapid": 1583,
+		"rating_blitz": 1600
 	},
 	{
 		"fideid": 7611846,
@@ -10038,12 +10174,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1895,
+		"rating_rapid": 1841,
 		"rating_blitz": null
 	},
 	{
@@ -10058,27 +10194,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1434,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7616902,
-		"name": "Hamad,Ali.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1426,
-		"rating_blitz": 1450
 	},
 	{
 		"fideid": 7614268,
@@ -10157,12 +10276,46 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1537,
+		"rating_rapid": 1536,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7619502,
+		"name": "Issa,Jad.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1624,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7619510,
+		"name": "Issa,Laya.",
+		"country": "SYR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1659,
 		"rating_blitz": null
 	},
 	{
@@ -10483,7 +10636,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1987,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1674,
 		"rating_blitz": 1683
@@ -10519,7 +10672,7 @@
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1674,
+		"rating_rapid": 1673,
 		"rating_blitz": 1621
 	},
 	{
@@ -10537,7 +10690,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1768,
-		"rating_blitz": 2037
+		"rating_blitz": 1998
 	},
 	{
 		"fideid": 7611803,
@@ -10599,7 +10752,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
@@ -10842,7 +10995,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1470,
+		"rating_rapid": 1471,
 		"rating_blitz": 1475
 	},
 	{
@@ -10982,23 +11135,6 @@
 		"rating_blitz": 1570
 	},
 	{
-		"fideid": 7620136,
-		"name": "Alhasan,Modar.",
-		"country": "SYR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1675
-	},
-	{
 		"fideid": 7609485,
 		"name": "Alhomsi,Mohamed Moaz.",
 		"country": "SYR",
@@ -11041,13 +11177,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1448
+		"rating_blitz": 1450
 	},
 	{
 		"fideid": 7602588,
@@ -11092,8 +11228,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
@@ -11116,6 +11252,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1525
+	},
+	{
+		"fideid": 7619707,
+		"name": "Ammar,Sam.",
+		"country": "SYR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1496
 	},
 	{
 		"fideid": 7615450,
@@ -11200,7 +11353,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1565
+		"rating_blitz": 1569
 	},
 	{
 		"fideid": 7607709,
@@ -11302,7 +11455,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1448
+		"rating_blitz": 1449
 	},
 	{
 		"fideid": 7611870,
