@@ -847,7 +847,7 @@
 		"flag": "",
 		"rating_standard": 2311,
 		"rating_rapid": 2274,
-		"rating_blitz": 2332
+		"rating_blitz": 2333
 	},
 	{
 		"fideid": 14600790,
@@ -1666,23 +1666,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14600676,
-		"name": "Furlan, Miha",
-		"country": "SLO",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 2240,
-		"rating_rapid": 2271,
-		"rating_blitz": 2323
-	},
-	{
 		"fideid": 14601842,
 		"name": "Grilc, Simon",
 		"country": "SLO",
@@ -1698,6 +1681,23 @@
 		"rating_standard": 2240,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14600676,
+		"name": "Furlan, Miha",
+		"country": "SLO",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 2239,
+		"rating_rapid": 2271,
+		"rating_blitz": 2323
 	},
 	{
 		"fideid": 14600269,
@@ -3667,7 +3667,7 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 2131,
+		"rating_standard": 2130,
 		"rating_rapid": 2029,
 		"rating_blitz": 2058
 	},
@@ -4012,6 +4012,23 @@
 		"rating_blitz": 2121
 	},
 	{
+		"fideid": 14605511,
+		"name": "Vidic, Teja",
+		"country": "SLO",
+		"sex": "F",
+		"title": "WIM",
+		"w_title": "WIM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "w",
+		"rating_standard": 2120,
+		"rating_rapid": 2117,
+		"rating_blitz": 2088
+	},
+	{
 		"fideid": 14606429,
 		"name": "Virtic, Franc Ml.",
 		"country": "SLO",
@@ -4044,23 +4061,6 @@
 		"rating_standard": 2119,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14605511,
-		"name": "Vidic, Teja",
-		"country": "SLO",
-		"sex": "F",
-		"title": "WIM",
-		"w_title": "WIM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "w",
-		"rating_standard": 2119,
-		"rating_rapid": 2117,
-		"rating_blitz": 2088
 	},
 	{
 		"fideid": 14602695,
@@ -4403,6 +4403,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14643740,
+		"name": "Keber, Aljosa",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2102,
+		"rating_rapid": 2149,
+		"rating_blitz": 2024
+	},
+	{
 		"fideid": 14602687,
 		"name": "Skoberne, Renato",
 		"country": "SLO",
@@ -4418,23 +4435,6 @@
 		"rating_standard": 2102,
 		"rating_rapid": null,
 		"rating_blitz": 2099
-	},
-	{
-		"fideid": 14643740,
-		"name": "Keber, Aljosa",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2101,
-		"rating_rapid": 2149,
-		"rating_blitz": 2024
 	},
 	{
 		"fideid": 14603810,
@@ -6256,23 +6256,6 @@
 		"rating_blitz": 2018
 	},
 	{
-		"fideid": 14613832,
-		"name": "Gasparac, Gregor",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 2030,
-		"rating_rapid": 2079,
-		"rating_blitz": 2119
-	},
-	{
 		"fideid": 14612267,
 		"name": "Sajovic, Marko",
 		"country": "SLO",
@@ -6288,6 +6271,23 @@
 		"rating_standard": 2030,
 		"rating_rapid": 1882,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14613832,
+		"name": "Gasparac, Gregor",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 2029,
+		"rating_rapid": 2079,
+		"rating_blitz": 2119
 	},
 	{
 		"fideid": 14604868,
@@ -7952,7 +7952,7 @@
 		"birthday": 1951,
 		"flag": "i",
 		"rating_standard": 1985,
-		"rating_rapid": 1816,
+		"rating_rapid": 1817,
 		"rating_blitz": 1929
 	},
 	{
@@ -8327,7 +8327,24 @@
 		"flag": "",
 		"rating_standard": 1979,
 		"rating_rapid": 1836,
-		"rating_blitz": 1880
+		"rating_blitz": 1881
+	},
+	{
+		"fideid": 14644231,
+		"name": "Danicic, Anze",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1978,
+		"rating_rapid": 1752,
+		"rating_blitz": 1944
 	},
 	{
 		"fideid": 14119960,
@@ -8398,6 +8415,23 @@
 		"rating_blitz": 2027
 	},
 	{
+		"fideid": 14600498,
+		"name": "Srebrnic, Vojko",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 5,
+		"k": 20,
+		"birthday": 1948,
+		"flag": "",
+		"rating_standard": 1978,
+		"rating_rapid": 2093,
+		"rating_blitz": 1987
+	},
+	{
 		"fideid": 14627647,
 		"name": "Tompa, Gasper",
 		"country": "SLO",
@@ -8413,23 +8447,6 @@
 		"rating_standard": 1978,
 		"rating_rapid": 1960,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14644231,
-		"name": "Danicic, Anze",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1977,
-		"rating_rapid": 1752,
-		"rating_blitz": 1944
 	},
 	{
 		"fideid": 14605040,
@@ -8500,23 +8517,6 @@
 		"rating_blitz": 1895
 	},
 	{
-		"fideid": 14600498,
-		"name": "Srebrnic, Vojko",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 5,
-		"k": 20,
-		"birthday": 1948,
-		"flag": "",
-		"rating_standard": 1977,
-		"rating_rapid": 2093,
-		"rating_blitz": 1987
-	},
-	{
 		"fideid": 14604515,
 		"name": "Bilbija, Istok",
 		"country": "SLO",
@@ -8532,23 +8532,6 @@
 		"rating_standard": 1975,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14654946,
-		"name": "Krstic, David",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1975,
-		"rating_rapid": 1978,
-		"rating_blitz": 2008
 	},
 	{
 		"fideid": 14609320,
@@ -8632,12 +8615,12 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1974,
-		"rating_rapid": 2027,
+		"rating_rapid": 2028,
 		"rating_blitz": 1966
 	},
 	{
-		"fideid": 14601532,
-		"name": "Juhant, Igor",
+		"fideid": 14654946,
+		"name": "Krstic, David",
 		"country": "SLO",
 		"sex": "M",
 		"title": "",
@@ -8645,12 +8628,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 1966,
+		"k": 40,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1973,
-		"rating_rapid": 1984,
-		"rating_blitz": 1955
+		"rating_standard": 1974,
+		"rating_rapid": 1978,
+		"rating_blitz": 2008
 	},
 	{
 		"fideid": 14601974,
@@ -8755,6 +8738,23 @@
 		"rating_blitz": 1995
 	},
 	{
+		"fideid": 14601532,
+		"name": "Juhant, Igor",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1972,
+		"rating_rapid": 1984,
+		"rating_blitz": 1955
+	},
+	{
 		"fideid": 14602180,
 		"name": "Kodela, Marko",
 		"country": "SLO",
@@ -8769,7 +8769,7 @@
 		"flag": "i",
 		"rating_standard": 1972,
 		"rating_rapid": 1839,
-		"rating_blitz": 1838
+		"rating_blitz": 1837
 	},
 	{
 		"fideid": 14607107,
@@ -8836,7 +8836,7 @@
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1971,
-		"rating_rapid": 1981,
+		"rating_rapid": 1982,
 		"rating_blitz": 1920
 	},
 	{
@@ -9362,7 +9362,7 @@
 		"k": 20,
 		"birthday": 1949,
 		"flag": "",
-		"rating_standard": 1961,
+		"rating_standard": 1962,
 		"rating_rapid": 2169,
 		"rating_blitz": 2146
 	},
@@ -10145,7 +10145,7 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1945,
-		"rating_rapid": 1881,
+		"rating_rapid": 1880,
 		"rating_blitz": 1838
 	},
 	{
@@ -10489,6 +10489,23 @@
 		"rating_blitz": 1858
 	},
 	{
+		"fideid": 14647303,
+		"name": "Skarlovnik, Aljaz",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1935,
+		"rating_rapid": 1811,
+		"rating_blitz": 1813
+	},
+	{
 		"fideid": 14605643,
 		"name": "Ursic, Jakob",
 		"country": "SLO",
@@ -10555,23 +10572,6 @@
 		"rating_standard": 1934,
 		"rating_rapid": 2009,
 		"rating_blitz": 2059
-	},
-	{
-		"fideid": 14647303,
-		"name": "Skarlovnik, Aljaz",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1934,
-		"rating_rapid": 1811,
-		"rating_blitz": 1813
 	},
 	{
 		"fideid": 14615851,
@@ -10860,7 +10860,7 @@
 		"flag": "",
 		"rating_standard": 1929,
 		"rating_rapid": 2129,
-		"rating_blitz": 2083
+		"rating_blitz": 2084
 	},
 	{
 		"fideid": 14605155,
@@ -11441,6 +11441,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14656230,
+		"name": "Konopatskyi, Aleksandr",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1916,
+		"rating_rapid": 1824,
+		"rating_blitz": 1932
+	},
+	{
 		"fideid": 14624958,
 		"name": "Rolih, Miran",
 		"country": "SLO",
@@ -11455,24 +11472,7 @@
 		"flag": "",
 		"rating_standard": 1916,
 		"rating_rapid": 1832,
-		"rating_blitz": 1923
-	},
-	{
-		"fideid": 14656230,
-		"name": "Konopatskyi, Aleksandr",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1915,
-		"rating_rapid": 1824,
-		"rating_blitz": 1931
+		"rating_blitz": 1924
 	},
 	{
 		"fideid": 14602229,
@@ -12223,23 +12223,6 @@
 		"rating_blitz": 1875
 	},
 	{
-		"fideid": 14641429,
-		"name": "Babarovic, Fran",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1901,
-		"rating_rapid": 1833,
-		"rating_blitz": 1601
-	},
-	{
 		"fideid": 14611767,
 		"name": "Bajo, Igor",
 		"country": "SLO",
@@ -12291,6 +12274,23 @@
 		"rating_blitz": 1938
 	},
 	{
+		"fideid": 14641429,
+		"name": "Babarovic, Fran",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1899,
+		"rating_rapid": 1833,
+		"rating_blitz": 1601
+	},
+	{
 		"fideid": 14605031,
 		"name": "Grobovsek, Ivan",
 		"country": "SLO",
@@ -12306,23 +12306,6 @@
 		"rating_standard": 1899,
 		"rating_rapid": 1896,
 		"rating_blitz": 1930
-	},
-	{
-		"fideid": 14643804,
-		"name": "Kovacec, Tilen",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1899,
-		"rating_rapid": 1855,
-		"rating_blitz": 1715
 	},
 	{
 		"fideid": 14602970,
@@ -12529,6 +12512,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14643804,
+		"name": "Kovacec, Tilen",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1895,
+		"rating_rapid": 1855,
+		"rating_blitz": 1715
+	},
+	{
 		"fideid": 14606011,
 		"name": "Topic, Jelena",
 		"country": "SLO",
@@ -12716,6 +12716,23 @@
 		"rating_blitz": 1927
 	},
 	{
+		"fideid": 14641003,
+		"name": "Vaupot, Kajetan",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1891,
+		"rating_rapid": 2047,
+		"rating_blitz": 1918
+	},
+	{
 		"fideid": 14620243,
 		"name": "Janko, Roman",
 		"country": "SLO",
@@ -12748,23 +12765,6 @@
 		"rating_standard": 1890,
 		"rating_rapid": 2044,
 		"rating_blitz": 1946
-	},
-	{
-		"fideid": 14641003,
-		"name": "Vaupot, Kajetan",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1890,
-		"rating_rapid": 2047,
-		"rating_blitz": 1918
 	},
 	{
 		"fideid": 14608740,
@@ -13107,23 +13107,6 @@
 		"rating_blitz": 1823
 	},
 	{
-		"fideid": 14602423,
-		"name": "Spelec, Darko",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1959,
-		"flag": "",
-		"rating_standard": 1882,
-		"rating_rapid": 1931,
-		"rating_blitz": 1881
-	},
-	{
 		"fideid": 14646196,
 		"name": "Svab, Robert",
 		"country": "SLO",
@@ -13207,6 +13190,23 @@
 		"rating_standard": 1881,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14602423,
+		"name": "Spelec, Darko",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": 1881,
+		"rating_rapid": 1931,
+		"rating_blitz": 1881
 	},
 	{
 		"fideid": 14602890,
@@ -13953,8 +13953,25 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1865,
-		"rating_rapid": 1856,
-		"rating_blitz": 1935
+		"rating_rapid": 1857,
+		"rating_blitz": 1936
+	},
+	{
+		"fideid": 14646064,
+		"name": "Dimnik, Miha",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1864,
+		"rating_rapid": 2009,
+		"rating_blitz": 1897
 	},
 	{
 		"fideid": 14605724,
@@ -14005,7 +14022,7 @@
 		"flag": "",
 		"rating_standard": 1864,
 		"rating_rapid": 1917,
-		"rating_blitz": 1954
+		"rating_blitz": 1955
 	},
 	{
 		"fideid": 14604140,
@@ -14057,23 +14074,6 @@
 		"rating_standard": 1864,
 		"rating_rapid": 1910,
 		"rating_blitz": 1899
-	},
-	{
-		"fideid": 14646064,
-		"name": "Dimnik, Miha",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1863,
-		"rating_rapid": 2009,
-		"rating_blitz": 1897
 	},
 	{
 		"fideid": 14601443,
@@ -14552,23 +14552,6 @@
 		"rating_blitz": 1799
 	},
 	{
-		"fideid": 14645440,
-		"name": "Sever, Gasper",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1856,
-		"rating_rapid": 1944,
-		"rating_blitz": 1811
-	},
-	{
 		"fideid": 14604248,
 		"name": "Usenicnik, Matej",
 		"country": "SLO",
@@ -14635,6 +14618,23 @@
 		"rating_standard": 1855,
 		"rating_rapid": 1805,
 		"rating_blitz": 2031
+	},
+	{
+		"fideid": 14645440,
+		"name": "Sever, Gasper",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1855,
+		"rating_rapid": 1944,
+		"rating_blitz": 1816
 	},
 	{
 		"fideid": 14633280,
@@ -14858,6 +14858,23 @@
 		"rating_blitz": 1796
 	},
 	{
+		"fideid": 14650215,
+		"name": "Zagorsek, Nejc",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1851,
+		"rating_rapid": 1949,
+		"rating_blitz": 1974
+	},
+	{
 		"fideid": 14614308,
 		"name": "Rajkovic, Nikola",
 		"country": "SLO",
@@ -14873,23 +14890,6 @@
 		"rating_standard": 1850,
 		"rating_rapid": 1867,
 		"rating_blitz": 1875
-	},
-	{
-		"fideid": 14650215,
-		"name": "Zagorsek, Nejc",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1850,
-		"rating_rapid": 1949,
-		"rating_blitz": 1974
 	},
 	{
 		"fideid": 14606739,
@@ -14977,23 +14977,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 12966460,
-		"name": "Klasinc, Kristjan",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 1848,
-		"rating_rapid": 1934,
-		"rating_blitz": 1841
-	},
-	{
 		"fideid": 14640422,
 		"name": "Timagina, Sofia",
 		"country": "SLO",
@@ -15009,6 +14992,23 @@
 		"rating_standard": 1848,
 		"rating_rapid": 1776,
 		"rating_blitz": 1588
+	},
+	{
+		"fideid": 12966460,
+		"name": "Klasinc, Kristjan",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "",
+		"rating_standard": 1847,
+		"rating_rapid": 1934,
+		"rating_blitz": 1841
 	},
 	{
 		"fideid": 14638240,
@@ -15538,6 +15538,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14606917,
+		"name": "Arlic, Nejc",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1838,
+		"rating_rapid": 1819,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14637650,
 		"name": "Berk Zupanc, Marko",
 		"country": "SLO",
@@ -15623,23 +15640,6 @@
 		"rating_blitz": 1770
 	},
 	{
-		"fideid": 14606917,
-		"name": "Arlic, Nejc",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1837,
-		"rating_rapid": 1819,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14606771,
 		"name": "Benko, Bostjan",
 		"country": "SLO",
@@ -15671,7 +15671,7 @@
 		"flag": "",
 		"rating_standard": 1837,
 		"rating_rapid": 1862,
-		"rating_blitz": 1884
+		"rating_blitz": 1885
 	},
 	{
 		"fideid": 14632470,
@@ -15723,6 +15723,23 @@
 		"rating_standard": 1837,
 		"rating_rapid": 1825,
 		"rating_blitz": 1836
+	},
+	{
+		"fideid": 14635488,
+		"name": "Perme, Martin",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1837,
+		"rating_rapid": 1783,
+		"rating_blitz": 1899
 	},
 	{
 		"fideid": 14648059,
@@ -15810,23 +15827,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14635488,
-		"name": "Perme, Martin",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1836,
-		"rating_rapid": 1783,
-		"rating_blitz": 1899
-	},
-	{
 		"fideid": 14615797,
 		"name": "Selic, Jernej",
 		"country": "SLO",
@@ -15861,6 +15861,23 @@
 		"rating_blitz": 1961
 	},
 	{
+		"fideid": 14635569,
+		"name": "Brgan, Niko",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1835,
+		"rating_rapid": 2001,
+		"rating_blitz": 2053
+	},
+	{
 		"fideid": 14666987,
 		"name": "Skube, Zan",
 		"country": "SLO",
@@ -15876,23 +15893,6 @@
 		"rating_standard": 1835,
 		"rating_rapid": 1855,
 		"rating_blitz": 1973
-	},
-	{
-		"fideid": 14635569,
-		"name": "Brgan, Niko",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1834,
-		"rating_rapid": 2001,
-		"rating_blitz": 2053
 	},
 	{
 		"fideid": 14652498,
@@ -16218,6 +16218,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14604817,
+		"name": "Poglajen, Franc",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1829,
+		"rating_rapid": 1854,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14626233,
 		"name": "Savanovic, Mirko",
 		"country": "SLO",
@@ -16284,23 +16301,6 @@
 		"rating_standard": 1828,
 		"rating_rapid": 1800,
 		"rating_blitz": 1821
-	},
-	{
-		"fideid": 14604817,
-		"name": "Poglajen, Franc",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1828,
-		"rating_rapid": 1854,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 14615134,
@@ -16401,7 +16401,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1824,
-		"rating_rapid": 1846,
+		"rating_rapid": 1848,
 		"rating_blitz": 1847
 	},
 	{
@@ -16762,6 +16762,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14655993,
+		"name": "Mihic, Peter",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1817,
+		"rating_rapid": 1819,
+		"rating_blitz": 1983
+	},
+	{
 		"fideid": 14608006,
 		"name": "Lazarevic, Djordje",
 		"country": "SLO",
@@ -16845,23 +16862,6 @@
 		"rating_standard": 1815,
 		"rating_rapid": 1769,
 		"rating_blitz": 1694
-	},
-	{
-		"fideid": 14655993,
-		"name": "Mihic, Peter",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1815,
-		"rating_rapid": 1819,
-		"rating_blitz": 1979
 	},
 	{
 		"fideid": 14607379,
@@ -17102,23 +17102,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14671085,
-		"name": "Korosec, Blaz",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1811,
-		"rating_rapid": 1820,
-		"rating_blitz": 1690
-	},
-	{
 		"fideid": 14605309,
 		"name": "Licina, Tomaz",
 		"country": "SLO",
@@ -17151,6 +17134,23 @@
 		"rating_standard": 1810,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14671085,
+		"name": "Korosec, Blaz",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1809,
+		"rating_rapid": 1820,
+		"rating_blitz": 1690
 	},
 	{
 		"fideid": 14635003,
@@ -17459,6 +17459,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14626195,
+		"name": "Zlatanovic, Marcus",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1804,
+		"rating_rapid": 1735,
+		"rating_blitz": 1788
+	},
+	{
 		"fideid": 14624486,
 		"name": "Suljanovic, Zuhdija",
 		"country": "SLO",
@@ -17474,23 +17491,6 @@
 		"rating_standard": 1803,
 		"rating_rapid": 1873,
 		"rating_blitz": 1896
-	},
-	{
-		"fideid": 14626195,
-		"name": "Zlatanovic, Marcus",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1803,
-		"rating_rapid": 1735,
-		"rating_blitz": 1788
 	},
 	{
 		"fideid": 14622785,
@@ -17898,7 +17898,7 @@
 		"flag": "w",
 		"rating_standard": 1794,
 		"rating_rapid": 1711,
-		"rating_blitz": 1764
+		"rating_blitz": 1765
 	},
 	{
 		"fideid": 14607948,
@@ -18003,6 +18003,23 @@
 		"rating_blitz": 1800
 	},
 	{
+		"fideid": 14622157,
+		"name": "Srimf, Silvester",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1792,
+		"rating_rapid": 1773,
+		"rating_blitz": 1853
+	},
+	{
 		"fideid": 14604655,
 		"name": "Volcansek, Joze",
 		"country": "SLO",
@@ -18034,7 +18051,7 @@
 		"flag": "i",
 		"rating_standard": 1792,
 		"rating_rapid": 1778,
-		"rating_blitz": 1867
+		"rating_blitz": 1868
 	},
 	{
 		"fideid": 14612046,
@@ -18120,23 +18137,6 @@
 		"rating_standard": 1791,
 		"rating_rapid": 1731,
 		"rating_blitz": 1797
-	},
-	{
-		"fideid": 14622157,
-		"name": "Srimf, Silvester",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1791,
-		"rating_rapid": 1773,
-		"rating_blitz": 1853
 	},
 	{
 		"fideid": 14606038,
@@ -18254,7 +18254,7 @@
 		"birthday": 1962,
 		"flag": "w",
 		"rating_standard": 1788,
-		"rating_rapid": 1710,
+		"rating_rapid": 1711,
 		"rating_blitz": 1780
 	},
 	{
@@ -18305,7 +18305,7 @@
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": 1787,
-		"rating_rapid": 1779,
+		"rating_rapid": 1780,
 		"rating_blitz": 1830
 	},
 	{
@@ -18734,6 +18734,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14637774,
+		"name": "Vodnik, Val",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1778,
+		"rating_rapid": 1919,
+		"rating_blitz": 1804
+	},
+	{
 		"fideid": 14624559,
 		"name": "Gabrijan, Timotej",
 		"country": "SLO",
@@ -18834,23 +18851,6 @@
 		"rating_standard": 1776,
 		"rating_rapid": 1801,
 		"rating_blitz": 1779
-	},
-	{
-		"fideid": 14637774,
-		"name": "Vodnik, Val",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1776,
-		"rating_rapid": 1919,
-		"rating_blitz": 1804
 	},
 	{
 		"fideid": 14605961,
@@ -19057,6 +19057,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14655896,
+		"name": "Usaj, Benjamin",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1772,
+		"rating_rapid": 1658,
+		"rating_blitz": 1628
+	},
+	{
 		"fideid": 14606151,
 		"name": "Bajraktarevic, Bajro",
 		"country": "SLO",
@@ -19089,23 +19106,6 @@
 		"rating_standard": 1771,
 		"rating_rapid": 1788,
 		"rating_blitz": 1755
-	},
-	{
-		"fideid": 14655896,
-		"name": "Usaj, Benjamin",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1771,
-		"rating_rapid": 1658,
-		"rating_blitz": 1628
 	},
 	{
 		"fideid": 14648237,
@@ -19378,6 +19378,23 @@
 		"rating_standard": 1764,
 		"rating_rapid": 1773,
 		"rating_blitz": 1841
+	},
+	{
+		"fideid": 14660466,
+		"name": "Hudoklin, Jurij",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1764,
+		"rating_rapid": 1741,
+		"rating_blitz": 1861
 	},
 	{
 		"fideid": 14646668,
@@ -19822,23 +19839,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14647044,
-		"name": "Lazar, Ivan",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1953,
-		"flag": "",
-		"rating_standard": 1755,
-		"rating_rapid": 1786,
-		"rating_blitz": 1784
-	},
-	{
 		"fideid": 14629100,
 		"name": "Pisek, Matija",
 		"country": "SLO",
@@ -19888,6 +19888,40 @@
 		"rating_standard": 1754,
 		"rating_rapid": 1920,
 		"rating_blitz": 1812
+	},
+	{
+		"fideid": 14647044,
+		"name": "Lazar, Ivan",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1953,
+		"flag": "",
+		"rating_standard": 1754,
+		"rating_rapid": 1786,
+		"rating_blitz": 1784
+	},
+	{
+		"fideid": 14661454,
+		"name": "Lipuscek, Lev",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1754,
+		"rating_rapid": 1576,
+		"rating_blitz": 1692
 	},
 	{
 		"fideid": 14623889,
@@ -20043,23 +20077,6 @@
 		"rating_blitz": 1817
 	},
 	{
-		"fideid": 14660466,
-		"name": "Hudoklin, Jurij",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1749,
-		"rating_rapid": 1741,
-		"rating_blitz": 1861
-	},
-	{
 		"fideid": 14620413,
 		"name": "Jovic, Ivan",
 		"country": "SLO",
@@ -20211,23 +20228,6 @@
 		"rating_standard": 1746,
 		"rating_rapid": 1724,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14661454,
-		"name": "Lipuscek, Lev",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1746,
-		"rating_rapid": 1576,
-		"rating_blitz": 1692
 	},
 	{
 		"fideid": 14631601,
@@ -20429,7 +20429,7 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1742,
+		"rating_standard": 1743,
 		"rating_rapid": 1890,
 		"rating_blitz": 1944
 	},
@@ -20553,6 +20553,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14649535,
+		"name": "Hlebec, Jure",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1737,
+		"rating_rapid": 1680,
+		"rating_blitz": 1787
+	},
+	{
 		"fideid": 14644096,
 		"name": "Radez, Pavel",
 		"country": "SLO",
@@ -20602,23 +20619,6 @@
 		"rating_standard": 1736,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14649535,
-		"name": "Hlebec, Jure",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1736,
-		"rating_rapid": 1680,
-		"rating_blitz": 1787
 	},
 	{
 		"fideid": 14611910,
@@ -21926,8 +21926,8 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1702,
-		"rating_rapid": 1710,
-		"rating_blitz": 1570
+		"rating_rapid": 1709,
+		"rating_blitz": 1629
 	},
 	{
 		"fideid": 14607930,
@@ -21964,6 +21964,23 @@
 		"rating_blitz": 1711
 	},
 	{
+		"fideid": 14670658,
+		"name": "Hribar, Izak",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1699,
+		"rating_rapid": 1757,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14615576,
 		"name": "Nabernik, Ales",
 		"country": "SLO",
@@ -21995,23 +22012,6 @@
 		"flag": "i",
 		"rating_standard": 1699,
 		"rating_rapid": 1667,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14670658,
-		"name": "Hribar, Izak",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1698,
-		"rating_rapid": 1758,
 		"rating_blitz": null
 	},
 	{
@@ -22168,6 +22168,23 @@
 		"rating_blitz": 1613
 	},
 	{
+		"fideid": 14662558,
+		"name": "Gorse Pihler, Miha",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1696,
+		"rating_rapid": 1747,
+		"rating_blitz": 1853
+	},
+	{
 		"fideid": 14635259,
 		"name": "Krupenko, Katja",
 		"country": "SLO",
@@ -22219,23 +22236,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14662558,
-		"name": "Gorse Pihler, Miha",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1695,
-		"rating_rapid": 1747,
-		"rating_blitz": 1853
-	},
-	{
 		"fideid": 14637243,
 		"name": "Stampar, Ljubo",
 		"country": "SLO",
@@ -22270,6 +22270,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 55606563,
+		"name": "Vinogradov, Ilia",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1603,
+		"rating_blitz": 1633
+	},
+	{
 		"fideid": 14612607,
 		"name": "Erazem, Franc",
 		"country": "SLO",
@@ -22302,23 +22319,6 @@
 		"rating_standard": 1694,
 		"rating_rapid": 1636,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 55606563,
-		"name": "Vinogradov, Ilia",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1694,
-		"rating_rapid": 1603,
-		"rating_blitz": 1633
 	},
 	{
 		"fideid": 14611520,
@@ -22369,7 +22369,7 @@
 		"flag": "",
 		"rating_standard": 1692,
 		"rating_rapid": 1900,
-		"rating_blitz": 1825
+		"rating_blitz": 1844
 	},
 	{
 		"fideid": 14610256,
@@ -22542,6 +22542,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14660148,
+		"name": "Borovinsek, Anej",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1688,
+		"rating_rapid": 1728,
+		"rating_blitz": 1839
+	},
+	{
 		"fideid": 14664330,
 		"name": "Cesnik, Sebastjan",
 		"country": "SLO",
@@ -22661,23 +22678,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14660148,
-		"name": "Borovinsek, Anej",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1685,
-		"rating_rapid": 1728,
-		"rating_blitz": 1838
-	},
-	{
 		"fideid": 14640376,
 		"name": "Cedilnik, Branko",
 		"country": "SLO",
@@ -22710,23 +22710,6 @@
 		"rating_standard": 1685,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14638223,
-		"name": "Javornik, Lina",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1684,
-		"rating_rapid": 1767,
-		"rating_blitz": 1696
 	},
 	{
 		"fideid": 14613948,
@@ -22865,6 +22848,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14638223,
+		"name": "Javornik, Lina",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1683,
+		"rating_rapid": 1767,
+		"rating_blitz": 1696
+	},
+	{
 		"fideid": 14650894,
 		"name": "Kasman, Rudolf",
 		"country": "SLO",
@@ -22882,6 +22882,23 @@
 		"rating_blitz": 1536
 	},
 	{
+		"fideid": 14621169,
+		"name": "Milicevic, David",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1683,
+		"rating_rapid": 1696,
+		"rating_blitz": 1770
+	},
+	{
 		"fideid": 14643600,
 		"name": "Zupan, Mirko",
 		"country": "SLO",
@@ -22897,23 +22914,6 @@
 		"rating_standard": 1683,
 		"rating_rapid": 1786,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14621169,
-		"name": "Milicevic, David",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1682,
-		"rating_rapid": 1696,
-		"rating_blitz": 1770
 	},
 	{
 		"fideid": 14610930,
@@ -22996,7 +22996,7 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 1679,
+		"rating_standard": 1678,
 		"rating_rapid": 1854,
 		"rating_blitz": 1892
 	},
@@ -23290,6 +23290,23 @@
 		"rating_blitz": 1684
 	},
 	{
+		"fideid": 14648440,
+		"name": "Krevh, Hana",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1673,
+		"rating_rapid": 1723,
+		"rating_blitz": 1650
+	},
+	{
 		"fideid": 14608294,
 		"name": "Povse, Tim",
 		"country": "SLO",
@@ -23307,23 +23324,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14648440,
-		"name": "Krevh, Hana",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1672,
-		"rating_rapid": 1723,
-		"rating_blitz": 1650
-	},
-	{
 		"fideid": 14613727,
 		"name": "Subotic, Boris",
 		"country": "SLO",
@@ -23339,6 +23339,23 @@
 		"rating_standard": 1672,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14655454,
+		"name": "Kartashov, Nikita",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1671,
+		"rating_rapid": 1766,
+		"rating_blitz": 1807
 	},
 	{
 		"fideid": 14613662,
@@ -23390,40 +23407,6 @@
 		"rating_standard": 1671,
 		"rating_rapid": 1593,
 		"rating_blitz": 1656
-	},
-	{
-		"fideid": 14652510,
-		"name": "Fajfar, Anton",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1670,
-		"rating_rapid": 1783,
-		"rating_blitz": 1842
-	},
-	{
-		"fideid": 14655454,
-		"name": "Kartashov, Nikita",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1670,
-		"rating_rapid": 1766,
-		"rating_blitz": 1807
 	},
 	{
 		"fideid": 14612704,
@@ -23509,6 +23492,23 @@
 		"rating_standard": 1669,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14652510,
+		"name": "Fajfar, Anton",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1669,
+		"rating_rapid": 1783,
+		"rating_blitz": 1842
 	},
 	{
 		"fideid": 14611783,
@@ -23795,7 +23795,7 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1657,
+		"rating_standard": 1658,
 		"rating_rapid": 1862,
 		"rating_blitz": 1840
 	},
@@ -23953,6 +23953,23 @@
 		"rating_blitz": 1608
 	},
 	{
+		"fideid": 14673266,
+		"name": "Genc, Gregor",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1653,
+		"rating_rapid": 1676,
+		"rating_blitz": 1798
+	},
+	{
 		"fideid": 14652900,
 		"name": "Klaric, Blaz",
 		"country": "SLO",
@@ -24018,7 +24035,24 @@
 		"flag": "",
 		"rating_standard": 1653,
 		"rating_rapid": 1950,
-		"rating_blitz": 1775
+		"rating_blitz": 1776
+	},
+	{
+		"fideid": 14632764,
+		"name": "Vicic, Maks",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1653,
+		"rating_rapid": 1706,
+		"rating_blitz": 1675
 	},
 	{
 		"fideid": 73006270,
@@ -24053,23 +24087,6 @@
 		"rating_standard": 1652,
 		"rating_rapid": null,
 		"rating_blitz": 1650
-	},
-	{
-		"fideid": 14673266,
-		"name": "Genc, Gregor",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1652,
-		"rating_rapid": 1676,
-		"rating_blitz": 1794
 	},
 	{
 		"fideid": 14659913,
@@ -24174,6 +24191,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14654873,
+		"name": "Veber, Tibor",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1649,
+		"rating_rapid": 1687,
+		"rating_blitz": 1655
+	},
+	{
+		"fideid": 14659980,
+		"name": "Daic, Jakob",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1648,
+		"rating_rapid": 1503,
+		"rating_blitz": 1567
+	},
+	{
 		"fideid": 14637839,
 		"name": "Klander, Ales",
 		"country": "SLO",
@@ -24240,23 +24291,6 @@
 		"rating_standard": 1647,
 		"rating_rapid": 1843,
 		"rating_blitz": 1874
-	},
-	{
-		"fideid": 14659980,
-		"name": "Daic, Jakob",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1646,
-		"rating_rapid": 1503,
-		"rating_blitz": 1567
 	},
 	{
 		"fideid": 14651548,
@@ -24327,23 +24361,6 @@
 		"rating_blitz": 1599
 	},
 	{
-		"fideid": 14632764,
-		"name": "Vicic, Maks",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1643,
-		"rating_rapid": 1706,
-		"rating_blitz": 1675
-	},
-	{
 		"fideid": 14653036,
 		"name": "Rojs, Lan",
 		"country": "SLO",
@@ -24376,23 +24393,6 @@
 		"rating_standard": 1641,
 		"rating_rapid": 1635,
 		"rating_blitz": 1644
-	},
-	{
-		"fideid": 14654873,
-		"name": "Veber, Tibor",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1641,
-		"rating_rapid": 1687,
-		"rating_blitz": 1656
 	},
 	{
 		"fideid": 14614871,
@@ -24480,6 +24480,23 @@
 		"rating_blitz": 1712
 	},
 	{
+		"fideid": 14644436,
+		"name": "Malnar, Patrick Jakob",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1639,
+		"rating_rapid": 1595,
+		"rating_blitz": 1576
+	},
+	{
 		"fideid": 14637693,
 		"name": "Opara, Matej",
 		"country": "SLO",
@@ -24565,23 +24582,6 @@
 		"rating_blitz": 1795
 	},
 	{
-		"fideid": 14652897,
-		"name": "Babic, Matija",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1637,
-		"rating_rapid": 1557,
-		"rating_blitz": 1637
-	},
-	{
 		"fideid": 14633639,
 		"name": "Ster, Branko",
 		"country": "SLO",
@@ -24597,6 +24597,23 @@
 		"rating_standard": 1637,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14652897,
+		"name": "Babic, Matija",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1636,
+		"rating_rapid": 1557,
+		"rating_blitz": 1637
 	},
 	{
 		"fideid": 14671212,
@@ -24731,7 +24748,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1631,
-		"rating_rapid": 1531,
+		"rating_rapid": 1530,
 		"rating_blitz": null
 	},
 	{
@@ -24769,23 +24786,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14628201,
-		"name": "Luznik Robba, Jaka",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1630,
-		"rating_rapid": 1609,
-		"rating_blitz": 1600
-	},
-	{
 		"fideid": 14618982,
 		"name": "Tome, Jakob",
 		"country": "SLO",
@@ -24801,6 +24801,23 @@
 		"rating_standard": 1630,
 		"rating_rapid": 1663,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14628201,
+		"name": "Luznik Robba, Jaka",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1629,
+		"rating_rapid": 1609,
+		"rating_blitz": 1600
 	},
 	{
 		"fideid": 14617765,
@@ -24866,7 +24883,7 @@
 		"k": 40,
 		"birthday": 1979,
 		"flag": "",
-		"rating_standard": 1626,
+		"rating_standard": 1627,
 		"rating_rapid": null,
 		"rating_blitz": 1796
 	},
@@ -25143,23 +25160,6 @@
 		"rating_blitz": 1628
 	},
 	{
-		"fideid": 14656361,
-		"name": "Moseeva, Anna",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "w",
-		"rating_standard": 1618,
-		"rating_rapid": 1617,
-		"rating_blitz": 1551
-	},
-	{
 		"fideid": 14616947,
 		"name": "Piciga, Aleksander",
 		"country": "SLO",
@@ -25175,6 +25175,23 @@
 		"rating_standard": 1618,
 		"rating_rapid": 1611,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14656361,
+		"name": "Moseeva, Anna",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "w",
+		"rating_standard": 1617,
+		"rating_rapid": 1617,
+		"rating_blitz": 1551
 	},
 	{
 		"fideid": 14639769,
@@ -25226,6 +25243,23 @@
 		"rating_standard": 1615,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14653273,
+		"name": "Janezic, Jozef",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "",
+		"rating_standard": 1614,
+		"rating_rapid": 1715,
+		"rating_blitz": 1827
 	},
 	{
 		"fideid": 14653524,
@@ -25311,23 +25345,6 @@
 		"rating_standard": 1613,
 		"rating_rapid": 1626,
 		"rating_blitz": 1591
-	},
-	{
-		"fideid": 14653273,
-		"name": "Janezic, Jozef",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "",
-		"rating_standard": 1612,
-		"rating_rapid": 1715,
-		"rating_blitz": 1827
 	},
 	{
 		"fideid": 14656809,
@@ -25466,6 +25483,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14650967,
+		"name": "Kodric, Rene",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1608,
+		"rating_rapid": 1591,
+		"rating_blitz": 1609
+	},
+	{
 		"fideid": 14668289,
 		"name": "Lipuscek, Janus",
 		"country": "SLO",
@@ -25479,7 +25513,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1608,
-		"rating_rapid": 1492,
+		"rating_rapid": 1506,
 		"rating_blitz": 1535
 	},
 	{
@@ -25532,23 +25566,6 @@
 		"rating_standard": 1607,
 		"rating_rapid": 1452,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14650967,
-		"name": "Kodric, Rene",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1607,
-		"rating_rapid": 1591,
-		"rating_blitz": 1608
 	},
 	{
 		"fideid": 14656108,
@@ -25653,23 +25670,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14644487,
-		"name": "Krosel, Gregor",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1605,
-		"rating_rapid": 1493,
-		"rating_blitz": 1548
-	},
-	{
 		"fideid": 14637790,
 		"name": "Pockaj, Janez",
 		"country": "SLO",
@@ -25685,6 +25685,23 @@
 		"rating_standard": 1605,
 		"rating_rapid": 1621,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14644487,
+		"name": "Krosel, Gregor",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1604,
+		"rating_rapid": 1493,
+		"rating_blitz": 1554
 	},
 	{
 		"fideid": 73009504,
@@ -25836,8 +25853,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1597,
-		"rating_rapid": 1581,
-		"rating_blitz": 1443
+		"rating_rapid": 1580,
+		"rating_blitz": 1436
 	},
 	{
 		"fideid": 14672227,
@@ -25925,6 +25942,23 @@
 		"rating_blitz": 1565
 	},
 	{
+		"fideid": 14653052,
+		"name": "Kaiser, Maksim",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1592,
+		"rating_rapid": 1758,
+		"rating_blitz": 1641
+	},
+	{
 		"fideid": 14632250,
 		"name": "Brilej, Drago",
 		"country": "SLO",
@@ -25955,7 +25989,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1591,
-		"rating_rapid": 1673,
+		"rating_rapid": 1674,
 		"rating_blitz": 1506
 	},
 	{
@@ -25988,7 +26022,7 @@
 		"k": 20,
 		"birthday": 1980,
 		"flag": "",
-		"rating_standard": 1590,
+		"rating_standard": 1591,
 		"rating_rapid": 1616,
 		"rating_blitz": 1608
 	},
@@ -26007,7 +26041,7 @@
 		"flag": "",
 		"rating_standard": 1590,
 		"rating_rapid": 1663,
-		"rating_blitz": 1665
+		"rating_blitz": 1662
 	},
 	{
 		"fideid": 14654440,
@@ -26095,6 +26129,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14656248,
+		"name": "Markota Jakopin, Luka",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1588,
+		"rating_rapid": 1665,
+		"rating_blitz": 1712
+	},
+	{
+		"fideid": 14659816,
+		"name": "Premerl, Ana Kaja",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1587,
+		"rating_rapid": 1478,
+		"rating_blitz": 1428
+	},
+	{
 		"fideid": 14671573,
 		"name": "Gaberscek, Maj",
 		"country": "SLO",
@@ -26127,23 +26195,6 @@
 		"rating_standard": 1586,
 		"rating_rapid": 1444,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14659816,
-		"name": "Premerl, Ana Kaja",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1586,
-		"rating_rapid": 1478,
-		"rating_blitz": 1428
 	},
 	{
 		"fideid": 14625458,
@@ -26414,7 +26465,7 @@
 		"birthday": 2009,
 		"flag": "i",
 		"rating_standard": 1580,
-		"rating_rapid": 1527,
+		"rating_rapid": 1528,
 		"rating_blitz": 1673
 	},
 	{
@@ -26433,40 +26484,6 @@
 		"rating_standard": 1580,
 		"rating_rapid": 1551,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14656248,
-		"name": "Markota Jakopin, Luka",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1580,
-		"rating_rapid": 1665,
-		"rating_blitz": 1712
-	},
-	{
-		"fideid": 14653052,
-		"name": "Kaiser, Maksim",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1579,
-		"rating_rapid": 1758,
-		"rating_blitz": 1641
 	},
 	{
 		"fideid": 14605180,
@@ -26517,7 +26534,7 @@
 		"flag": "w",
 		"rating_standard": 1578,
 		"rating_rapid": 1737,
-		"rating_blitz": 1757
+		"rating_blitz": 1758
 	},
 	{
 		"fideid": 14632861,
@@ -26758,23 +26775,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14680947,
-		"name": "Konjicek Polic, Masa",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1571,
-		"rating_rapid": 1493,
-		"rating_blitz": 1448
-	},
-	{
 		"fideid": 14614332,
 		"name": "Suligoj, Nejc",
 		"country": "SLO",
@@ -26826,6 +26826,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14680947,
+		"name": "Konjicek Polic, Masa",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1569,
+		"rating_rapid": 1491,
+		"rating_blitz": 1448
+	},
+	{
 		"fideid": 14632187,
 		"name": "Posavec, Zvone",
 		"country": "SLO",
@@ -26841,23 +26858,6 @@
 		"rating_standard": 1569,
 		"rating_rapid": 1576,
 		"rating_blitz": 1626
-	},
-	{
-		"fideid": 14644134,
-		"name": "Purisic, Radenko",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "",
-		"rating_standard": 1569,
-		"rating_rapid": 1670,
-		"rating_blitz": 1671
 	},
 	{
 		"fideid": 14613360,
@@ -26892,6 +26892,23 @@
 		"rating_standard": 1568,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14644134,
+		"name": "Purisic, Radenko",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1568,
+		"rating_rapid": 1670,
+		"rating_blitz": 1671
 	},
 	{
 		"fideid": 14652064,
@@ -26979,23 +26996,6 @@
 		"rating_blitz": 1504
 	},
 	{
-		"fideid": 14672197,
-		"name": "Svab, Stas",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1564,
-		"rating_rapid": 1513,
-		"rating_blitz": 1679
-	},
-	{
 		"fideid": 14624095,
 		"name": "Knavs, Peter",
 		"country": "SLO",
@@ -27011,6 +27011,23 @@
 		"rating_standard": 1563,
 		"rating_rapid": 1523,
 		"rating_blitz": 1481
+	},
+	{
+		"fideid": 14672197,
+		"name": "Svab, Stas",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1563,
+		"rating_rapid": 1513,
+		"rating_blitz": 1679
 	},
 	{
 		"fideid": 14628791,
@@ -27115,6 +27132,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14663112,
+		"name": "Fabjancic, Lenart",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1558,
+		"rating_rapid": 1581,
+		"rating_blitz": 1614
+	},
+	{
+		"fideid": 14644916,
+		"name": "Heric, Lucka",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1557,
+		"rating_rapid": 1553,
+		"rating_blitz": 1430
+	},
+	{
 		"fideid": 14630524,
 		"name": "Krulej, Marko",
 		"country": "SLO",
@@ -27163,7 +27214,7 @@
 		"flag": "i",
 		"rating_standard": 1557,
 		"rating_rapid": 1603,
-		"rating_blitz": 1530
+		"rating_blitz": 1544
 	},
 	{
 		"fideid": 14652420,
@@ -27178,43 +27229,9 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1557,
+		"rating_standard": 1556,
 		"rating_rapid": 1616,
 		"rating_blitz": 1585
-	},
-	{
-		"fideid": 14644916,
-		"name": "Heric, Lucka",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1556,
-		"rating_rapid": 1553,
-		"rating_blitz": 1430
-	},
-	{
-		"fideid": 14663112,
-		"name": "Fabjancic, Lenart",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1555,
-		"rating_rapid": 1581,
-		"rating_blitz": 1614
 	},
 	{
 		"fideid": 14672243,
@@ -27319,6 +27336,23 @@
 		"rating_blitz": 1538
 	},
 	{
+		"fideid": 14643812,
+		"name": "Levanic, Anej",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": 1550,
+		"rating_rapid": 1453,
+		"rating_blitz": 1698
+	},
+	{
 		"fideid": 14625202,
 		"name": "Pecnik, Maj",
 		"country": "SLO",
@@ -27336,23 +27370,6 @@
 		"rating_blitz": 1558
 	},
 	{
-		"fideid": 14650932,
-		"name": "Herega, Nastja",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1548,
-		"rating_rapid": 1463,
-		"rating_blitz": 1471
-	},
-	{
 		"fideid": 14650274,
 		"name": "Osojnik, Brin",
 		"country": "SLO",
@@ -27368,6 +27385,23 @@
 		"rating_standard": 1548,
 		"rating_rapid": 1676,
 		"rating_blitz": 1618
+	},
+	{
+		"fideid": 14650932,
+		"name": "Herega, Nastja",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1547,
+		"rating_rapid": 1462,
+		"rating_blitz": 1471
 	},
 	{
 		"fideid": 14634449,
@@ -27625,40 +27659,6 @@
 		"rating_blitz": 1712
 	},
 	{
-		"fideid": 14679736,
-		"name": "Smodis, Jaka",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": null,
-		"rating_blitz": 1427
-	},
-	{
-		"fideid": 14668181,
-		"name": "Vezjak, David",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": 1625,
-		"rating_blitz": 1567
-	},
-	{
 		"fideid": 14627779,
 		"name": "Gjuran, Stanko",
 		"country": "SLO",
@@ -27710,6 +27710,23 @@
 		"rating_blitz": 1652
 	},
 	{
+		"fideid": 14679736,
+		"name": "Smodis, Jaka",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1539,
+		"rating_rapid": null,
+		"rating_blitz": 1427
+	},
+	{
 		"fideid": 14636174,
 		"name": "Averyanov, Nikita",
 		"country": "SLO",
@@ -27727,23 +27744,6 @@
 		"rating_blitz": 1576
 	},
 	{
-		"fideid": 73012882,
-		"name": "Klajnsek, Aljan",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1538,
-		"rating_rapid": 1461,
-		"rating_blitz": 1568
-	},
-	{
 		"fideid": 14622882,
 		"name": "Debevec, Katarina",
 		"country": "SLO",
@@ -27759,6 +27759,23 @@
 		"rating_standard": 1537,
 		"rating_rapid": 1535,
 		"rating_blitz": 1632
+	},
+	{
+		"fideid": 73012882,
+		"name": "Klajnsek, Aljan",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1537,
+		"rating_rapid": 1461,
+		"rating_blitz": 1568
 	},
 	{
 		"fideid": 14623340,
@@ -27790,9 +27807,26 @@
 		"k": 20,
 		"birthday": 1959,
 		"flag": "",
-		"rating_standard": 1535,
+		"rating_standard": 1536,
 		"rating_rapid": 1625,
 		"rating_blitz": 1728
+	},
+	{
+		"fideid": 14668181,
+		"name": "Vezjak, David",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1536,
+		"rating_rapid": 1624,
+		"rating_blitz": 1567
 	},
 	{
 		"fideid": 14653826,
@@ -27825,7 +27859,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1534,
-		"rating_rapid": 1619,
+		"rating_rapid": 1618,
 		"rating_blitz": 1558
 	},
 	{
@@ -27965,23 +27999,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14641208,
-		"name": "Lapajne Melink, Jakob",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1526,
-		"rating_rapid": 1540,
-		"rating_blitz": 1653
-	},
-	{
 		"fideid": 14676036,
 		"name": "Laznik Zalaznik, Patrick",
 		"country": "SLO",
@@ -28016,23 +28033,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14659689,
-		"name": "Kosmrlj, Aleksej",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1524,
-		"rating_rapid": 1686,
-		"rating_blitz": 1560
-	},
-	{
 		"fideid": 14640490,
 		"name": "Vidmar, Beatrika",
 		"country": "SLO",
@@ -28048,6 +28048,23 @@
 		"rating_standard": 1524,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14641208,
+		"name": "Lapajne Melink, Jakob",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1523,
+		"rating_rapid": 1540,
+		"rating_blitz": 1653
 	},
 	{
 		"fideid": 14676125,
@@ -28149,7 +28166,7 @@
 		"flag": "",
 		"rating_standard": 1520,
 		"rating_rapid": 1661,
-		"rating_blitz": 1599
+		"rating_blitz": 1605
 	},
 	{
 		"fideid": 14610264,
@@ -28186,6 +28203,23 @@
 		"rating_blitz": 1542
 	},
 	{
+		"fideid": 14658518,
+		"name": "Kaloh, Frida",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": 1516,
+		"rating_rapid": null,
+		"rating_blitz": 1498
+	},
+	{
 		"fideid": 14653699,
 		"name": "Mazi Petric, Tisa",
 		"country": "SLO",
@@ -28201,6 +28235,23 @@
 		"rating_standard": 1516,
 		"rating_rapid": 1435,
 		"rating_blitz": 1559
+	},
+	{
+		"fideid": 14673762,
+		"name": "Mazi, Majda",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1959,
+		"flag": "wi",
+		"rating_standard": 1516,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14630125,
@@ -28237,21 +28288,21 @@
 		"rating_blitz": 1546
 	},
 	{
-		"fideid": 14658518,
-		"name": "Kaloh, Frida",
+		"fideid": 14656981,
+		"name": "Gombosi, Roland",
 		"country": "SLO",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
-		"birthday": 2017,
-		"flag": "w",
+		"birthday": 1979,
+		"flag": "",
 		"rating_standard": 1515,
-		"rating_rapid": null,
-		"rating_blitz": 1485
+		"rating_rapid": 1647,
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 73008044,
@@ -28269,23 +28320,6 @@
 		"rating_standard": 1515,
 		"rating_rapid": 1604,
 		"rating_blitz": 1530
-	},
-	{
-		"fideid": 14656981,
-		"name": "Gombosi, Roland",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1514,
-		"rating_rapid": 1647,
-		"rating_blitz": 1570
 	},
 	{
 		"fideid": 14638851,
@@ -28356,6 +28390,23 @@
 		"rating_blitz": 1527
 	},
 	{
+		"fideid": 14661470,
+		"name": "Izlakar, Filip",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1511,
+		"rating_rapid": 1685,
+		"rating_blitz": 1470
+	},
+	{
 		"fideid": 14655322,
 		"name": "Soba, Franc",
 		"country": "SLO",
@@ -28407,6 +28458,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14659689,
+		"name": "Kosmrlj, Aleksej",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1510,
+		"rating_rapid": 1686,
+		"rating_blitz": 1560
+	},
+	{
 		"fideid": 14626616,
 		"name": "Kramberger, Janez",
 		"country": "SLO",
@@ -28437,7 +28505,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1510,
-		"rating_rapid": 1537,
+		"rating_rapid": 1538,
 		"rating_blitz": 1660
 	},
 	{
@@ -28458,6 +28526,23 @@
 		"rating_blitz": 1621
 	},
 	{
+		"fideid": 14672308,
+		"name": "Korez, Nika",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1508,
+		"rating_rapid": 1495,
+		"rating_blitz": 1456
+	},
+	{
 		"fideid": 14652412,
 		"name": "Cokl Volmajer, Klemen",
 		"country": "SLO",
@@ -28472,24 +28557,7 @@
 		"flag": "",
 		"rating_standard": 1506,
 		"rating_rapid": 1672,
-		"rating_blitz": 1625
-	},
-	{
-		"fideid": 14672308,
-		"name": "Korez, Nika",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1506,
-		"rating_rapid": 1495,
-		"rating_blitz": 1454
+		"rating_blitz": 1629
 	},
 	{
 		"fideid": 14614014,
@@ -28509,6 +28577,23 @@
 		"rating_blitz": 1443
 	},
 	{
+		"fideid": 14673207,
+		"name": "Bajde, Zan",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1504,
+		"rating_rapid": 1577,
+		"rating_blitz": 1660
+	},
+	{
 		"fideid": 14619199,
 		"name": "Drobnic, Rok",
 		"country": "SLO",
@@ -28524,6 +28609,23 @@
 		"rating_standard": 1502,
 		"rating_rapid": 1550,
 		"rating_blitz": 1545
+	},
+	{
+		"fideid": 14679329,
+		"name": "Kebe, Jonatan",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1502,
+		"rating_rapid": 1476,
+		"rating_blitz": 1531
 	},
 	{
 		"fideid": 14652552,
@@ -28557,24 +28659,7 @@
 		"flag": "",
 		"rating_standard": 1501,
 		"rating_rapid": 1513,
-		"rating_blitz": 1608
-	},
-	{
-		"fideid": 14673207,
-		"name": "Bajde, Zan",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1500,
-		"rating_rapid": 1577,
-		"rating_blitz": 1660
+		"rating_blitz": 1614
 	},
 	{
 		"fideid": 14641020,
@@ -28591,7 +28676,7 @@
 		"flag": "",
 		"rating_standard": 1500,
 		"rating_rapid": 1697,
-		"rating_blitz": 1656
+		"rating_blitz": 1655
 	},
 	{
 		"fideid": 14627256,
@@ -28641,7 +28726,7 @@
 		"birthday": 2009,
 		"flag": "wi",
 		"rating_standard": 1500,
-		"rating_rapid": 1418,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -28727,7 +28812,7 @@
 		"flag": "i",
 		"rating_standard": 1496,
 		"rating_rapid": 1623,
-		"rating_blitz": 1495
+		"rating_blitz": 1546
 	},
 	{
 		"fideid": 14639645,
@@ -28762,23 +28847,6 @@
 		"rating_standard": 1495,
 		"rating_rapid": 1570,
 		"rating_blitz": 1512
-	},
-	{
-		"fideid": 14652846,
-		"name": "Rantasa, Miha",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1495,
-		"rating_rapid": 1597,
-		"rating_blitz": 1513
 	},
 	{
 		"fideid": 14643839,
@@ -28883,6 +28951,23 @@
 		"rating_blitz": 1591
 	},
 	{
+		"fideid": 14652846,
+		"name": "Rantasa, Miha",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1491,
+		"rating_rapid": 1597,
+		"rating_blitz": 1513
+	},
+	{
 		"fideid": 14652633,
 		"name": "Slak, Peter",
 		"country": "SLO",
@@ -28913,7 +28998,7 @@
 		"birthday": 2010,
 		"flag": "i",
 		"rating_standard": 1489,
-		"rating_rapid": 1544,
+		"rating_rapid": 1545,
 		"rating_blitz": 1519
 	},
 	{
@@ -28951,6 +29036,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14659956,
+		"name": "Tesar, Jakob",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1486,
+		"rating_rapid": 1653,
+		"rating_blitz": 1688
+	},
+	{
 		"fideid": 14635763,
 		"name": "Zorko, Lana",
 		"country": "SLO",
@@ -28985,8 +29087,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14661470,
-		"name": "Izlakar, Filip",
+		"fideid": 14641798,
+		"name": "Jelenic, Jalen",
 		"country": "SLO",
 		"sex": "M",
 		"title": "",
@@ -28995,28 +29097,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1484,
-		"rating_rapid": 1685,
-		"rating_blitz": 1470
-	},
-	{
-		"fideid": 14659956,
-		"name": "Tesar, Jakob",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1484,
-		"rating_rapid": 1653,
-		"rating_blitz": 1688
+		"rating_standard": 1483,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14637944,
@@ -29065,23 +29150,6 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "i",
-		"rating_standard": 1482,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14641798,
-		"name": "Jelenic, Jalen",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
 		"rating_standard": 1482,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -29206,23 +29274,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14671123,
-		"name": "Kamensek, Tristan",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1476,
-		"rating_rapid": 1564,
-		"rating_blitz": 1528
-	},
-	{
 		"fideid": 14638053,
 		"name": "Mavrek, Gal Gabriel",
 		"country": "SLO",
@@ -29240,21 +29291,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14643812,
-		"name": "Levanic, Anej",
+		"fideid": 14671123,
+		"name": "Kamensek, Tristan",
 		"country": "SLO",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
+		"birthday": 2017,
+		"flag": "",
 		"rating_standard": 1475,
-		"rating_rapid": 1453,
-		"rating_blitz": 1698
+		"rating_rapid": 1564,
+		"rating_blitz": 1528
 	},
 	{
 		"fideid": 14641100,
@@ -29376,21 +29427,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14673762,
-		"name": "Mazi, Majda",
+		"fideid": 14644380,
+		"name": "Glavac, Rozle",
 		"country": "SLO",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1959,
-		"flag": "wi",
-		"rating_standard": 1469,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1468,
+		"rating_rapid": 1516,
+		"rating_blitz": 1503
 	},
 	{
 		"fideid": 14610833,
@@ -29559,7 +29610,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1463,
-		"rating_rapid": null,
+		"rating_rapid": 1420,
 		"rating_blitz": 1413
 	},
 	{
@@ -29578,23 +29629,6 @@
 		"rating_standard": 1463,
 		"rating_rapid": 1496,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14644436,
-		"name": "Malnar, Patrick Jakob",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1462,
-		"rating_rapid": 1595,
-		"rating_blitz": 1522
 	},
 	{
 		"fideid": 14618672,
@@ -29648,40 +29682,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14643898,
-		"name": "Strnad, Kaja",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "wi",
-		"rating_standard": 1460,
-		"rating_rapid": 1498,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14659468,
-		"name": "Vercic, Martin",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1460,
-		"rating_rapid": 1642,
-		"rating_blitz": 1789
-	},
-	{
 		"fideid": 14651203,
 		"name": "Horvat, Arandjela",
 		"country": "SLO",
@@ -29697,6 +29697,23 @@
 		"rating_standard": 1459,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14659468,
+		"name": "Vercic, Martin",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1459,
+		"rating_rapid": 1642,
+		"rating_blitz": 1789
 	},
 	{
 		"fideid": 14629593,
@@ -29767,23 +29784,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14666189,
-		"name": "Cunder, Rudi",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1455,
-		"rating_rapid": 1483,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14639599,
 		"name": "Sertelj Kiani Nia",
 		"country": "SLO",
@@ -29799,6 +29799,23 @@
 		"rating_standard": 1455,
 		"rating_rapid": 1448,
 		"rating_blitz": 1657
+	},
+	{
+		"fideid": 14666189,
+		"name": "Cunder, Rudi",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1454,
+		"rating_rapid": 1483,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14626004,
@@ -29899,7 +29916,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1446,
-		"rating_rapid": 1588,
+		"rating_rapid": 1590,
 		"rating_blitz": 1640
 	},
 	{
@@ -29952,23 +29969,6 @@
 		"rating_standard": 1443,
 		"rating_rapid": 1483,
 		"rating_blitz": 1471
-	},
-	{
-		"fideid": 14679329,
-		"name": "Kebe, Jonatan",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1442,
-		"rating_rapid": 1476,
-		"rating_blitz": 1531
 	},
 	{
 		"fideid": 14642298,
@@ -30036,6 +30036,23 @@
 		"flag": "i",
 		"rating_standard": 1440,
 		"rating_rapid": 1601,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14643898,
+		"name": "Strnad, Kaja",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "wi",
+		"rating_standard": 1440,
+		"rating_rapid": 1498,
 		"rating_blitz": null
 	},
 	{
@@ -30122,23 +30139,6 @@
 		"rating_standard": 1437,
 		"rating_rapid": 1468,
 		"rating_blitz": 1458
-	},
-	{
-		"fideid": 14644380,
-		"name": "Glavac, Rozle",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1434,
-		"rating_rapid": 1516,
-		"rating_blitz": 1503
 	},
 	{
 		"fideid": 14628066,
@@ -30243,23 +30243,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14642883,
-		"name": "Zlebic, Eva",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1429,
-		"rating_rapid": 1406,
-		"rating_blitz": 1520
-	},
-	{
 		"fideid": 14655306,
 		"name": "Jakob, Quentin",
 		"country": "SLO",
@@ -30292,6 +30275,23 @@
 		"rating_standard": 1428,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14642883,
+		"name": "Zlebic, Eva",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1428,
+		"rating_rapid": 1406,
+		"rating_blitz": 1520
 	},
 	{
 		"fideid": 14638207,
@@ -30532,23 +30532,6 @@
 		"rating_blitz": 1447
 	},
 	{
-		"fideid": 14656264,
-		"name": "Williams, Thomas",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1415,
-		"rating_rapid": 1590,
-		"rating_blitz": 1569
-	},
-	{
 		"fideid": 14630010,
 		"name": "Kitak, Luka",
 		"country": "SLO",
@@ -30598,6 +30581,23 @@
 		"rating_standard": 1413,
 		"rating_rapid": 1467,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14656264,
+		"name": "Williams, Thomas",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1413,
+		"rating_rapid": 1590,
+		"rating_blitz": 1569
 	},
 	{
 		"fideid": 14638339,
@@ -30682,6 +30682,23 @@
 		"flag": "i",
 		"rating_standard": 1402,
 		"rating_rapid": 1437,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14660440,
+		"name": "Vendramin, Veno",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": 1402,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -31225,7 +31242,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1535,
+		"rating_rapid": 1534,
 		"rating_blitz": null
 	},
 	{
@@ -31260,7 +31277,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1784,
-		"rating_blitz": 1722
+		"rating_blitz": 1723
 	},
 	{
 		"fideid": 14628775,
@@ -31837,7 +31854,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1488,
+		"rating_rapid": 1487,
 		"rating_blitz": null
 	},
 	{
@@ -32466,8 +32483,8 @@
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1480,
-		"rating_blitz": 1467
+		"rating_rapid": 1482,
+		"rating_blitz": 1469
 	},
 	{
 		"fideid": 14667738,
@@ -33486,7 +33503,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1465,
+		"rating_rapid": 1464,
 		"rating_blitz": 1497
 	},
 	{
@@ -33505,6 +33522,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1444,
 		"rating_blitz": 1462
+	},
+	{
+		"fideid": 14666960,
+		"name": "Crnigoj, Tobija",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1451,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14674432,
@@ -33590,6 +33624,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1757,
 		"rating_blitz": 1606
+	},
+	{
+		"fideid": 14660300,
+		"name": "Curhalek, Mia",
+		"country": "SLO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1407,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14672944,
@@ -33691,7 +33742,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1655,
-		"rating_blitz": 1731
+		"rating_blitz": 1732
 	},
 	{
 		"fideid": 14655241,
@@ -33843,7 +33894,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1433,
+		"rating_rapid": 1432,
 		"rating_blitz": null
 	},
 	{
@@ -33889,12 +33940,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 7,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1435,
+		"rating_rapid": 1406,
 		"rating_blitz": null
 	},
 	{
@@ -34170,23 +34221,6 @@
 		"rating_blitz": 1621
 	},
 	{
-		"fideid": 14656124,
-		"name": "Doutlik, Mak",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1403,
-		"rating_blitz": 1622
-	},
-	{
 		"fideid": 14678926,
 		"name": "Dragicevic, Igor",
 		"country": "SLO",
@@ -34319,7 +34353,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1602,
+		"rating_rapid": 1601,
 		"rating_blitz": 1685
 	},
 	{
@@ -34399,12 +34433,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 14,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1644,
+		"rating_rapid": 1487,
 		"rating_blitz": null
 	},
 	{
@@ -34455,7 +34489,7 @@
 		"birthday": 1960,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1457,
+		"rating_rapid": 1456,
 		"rating_blitz": 1407
 	},
 	{
@@ -34506,7 +34540,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1465,
+		"rating_rapid": 1464,
 		"rating_blitz": null
 	},
 	{
@@ -34711,6 +34745,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1420,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14673568,
+		"name": "Filipic, Nejc",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1481,
 		"rating_blitz": null
 	},
 	{
@@ -35696,7 +35747,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1561,
+		"rating_rapid": 1560,
 		"rating_blitz": null
 	},
 	{
@@ -35747,7 +35798,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1475,
+		"rating_rapid": 1474,
 		"rating_blitz": null
 	},
 	{
@@ -35832,7 +35883,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1443,
+		"rating_rapid": 1442,
 		"rating_blitz": null
 	},
 	{
@@ -36597,7 +36648,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1462,
+		"rating_rapid": 1461,
 		"rating_blitz": null
 	},
 	{
@@ -36751,7 +36802,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1559,
-		"rating_blitz": 1611
+		"rating_blitz": 1617
 	},
 	{
 		"fideid": 14640511,
@@ -37243,7 +37294,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1528,
+		"rating_rapid": 1529,
 		"rating_blitz": null
 	},
 	{
@@ -38569,7 +38620,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1467,
+		"rating_rapid": 1466,
 		"rating_blitz": null
 	},
 	{
@@ -39202,23 +39253,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14635437,
-		"name": "Kosir, Ziga",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1534,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14624583,
 		"name": "Kosir, Ziga",
 		"country": "SLO",
@@ -39233,6 +39267,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1426,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14635437,
+		"name": "Kosir, Ziga",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1534,
 		"rating_blitz": null
 	},
 	{
@@ -40014,7 +40065,7 @@
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1480,
+		"rating_rapid": 1479,
 		"rating_blitz": 1608
 	},
 	{
@@ -40545,6 +40596,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14678594,
+		"name": "Lenic, Lev",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1407,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14678586,
 		"name": "Lenic, Olivia",
 		"country": "SLO",
@@ -40644,7 +40712,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1464,
-		"rating_blitz": 1405
+		"rating_blitz": 1404
 	},
 	{
 		"fideid": 14634910,
@@ -40800,23 +40868,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14664607,
-		"name": "Loncarevic, Ana",
-		"country": "SLO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1401,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14641070,
 		"name": "Loncarevic, Jovo",
 		"country": "SLO",
@@ -40916,23 +40967,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1447,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14658151,
-		"name": "Lovsin, Bor",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1477,
 		"rating_blitz": null
 	},
 	{
@@ -41086,7 +41120,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1856,
-		"rating_blitz": 1878
+		"rating_blitz": 1879
 	},
 	{
 		"fideid": 14645017,
@@ -41324,7 +41358,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1564,
-		"rating_blitz": 1559
+		"rating_blitz": 1558
 	},
 	{
 		"fideid": 14656760,
@@ -41425,7 +41459,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1546,
+		"rating_rapid": 1547,
 		"rating_blitz": 1511
 	},
 	{
@@ -42191,7 +42225,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1460,
-		"rating_blitz": 1436
+		"rating_blitz": 1454
 	},
 	{
 		"fideid": 14638061,
@@ -42326,7 +42360,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1485,
+		"rating_rapid": 1482,
 		"rating_blitz": null
 	},
 	{
@@ -42634,23 +42668,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1786,
 		"rating_blitz": 1801
-	},
-	{
-		"fideid": 14665867,
-		"name": "Nevenkic, Marussig Svit",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1433,
-		"rating_blitz": 1504
 	},
 	{
 		"fideid": 14644444,
@@ -43069,12 +43086,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 24,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1500,
+		"rating_rapid": 1475,
 		"rating_blitz": null
 	},
 	{
@@ -44400,7 +44417,7 @@
 		"birthday": 1961,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1867,
+		"rating_rapid": 1866,
 		"rating_blitz": 1717
 	},
 	{
@@ -44978,7 +44995,7 @@
 		"birthday": 1967,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1767,
+		"rating_rapid": 1766,
 		"rating_blitz": null
 	},
 	{
@@ -45169,23 +45186,6 @@
 		"rating_blitz": 1708
 	},
 	{
-		"fideid": 14660636,
-		"name": "Ramoves Primozic, Vid",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1406,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14651351,
 		"name": "Randelovic, Nikolas",
 		"country": "SLO",
@@ -45194,12 +45194,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 14,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1458,
+		"rating_rapid": 1429,
 		"rating_blitz": null
 	},
 	{
@@ -46444,23 +46444,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14672286,
-		"name": "Simcic, Aneja",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1435,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14678128,
 		"name": "Simcic, Danijel",
 		"country": "SLO",
@@ -46826,12 +46809,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 9,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1555,
+		"rating_rapid": 1560,
 		"rating_blitz": 1450
 	},
 	{
@@ -47013,12 +46996,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 16,
+		"games": 19,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1567,
+		"rating_rapid": 1530,
 		"rating_blitz": 1519
 	},
 	{
@@ -47342,7 +47325,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1589,
-		"rating_blitz": 1637
+		"rating_blitz": 1638
 	},
 	{
 		"fideid": 14640600,
@@ -47715,7 +47698,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1434,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -47953,7 +47936,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1547,
+		"rating_rapid": 1546,
 		"rating_blitz": null
 	},
 	{
@@ -48195,23 +48178,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14656345,
-		"name": "Taljan, Anej",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1449,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14643944,
 		"name": "Tavcar, Gal",
 		"country": "SLO",
@@ -48346,6 +48312,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1589,
 		"rating_blitz": 1450
+	},
+	{
+		"fideid": 14656647,
+		"name": "Topic, Nikola",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1452,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14678713,
@@ -49589,6 +49572,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14665476,
+		"name": "Vreg, Jasa",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1506,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14660431,
 		"name": "Vucak, Vid",
 		"country": "SLO",
@@ -50005,12 +50005,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 8,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1497,
+		"rating_rapid": 1458,
 		"rating_blitz": null
 	},
 	{
@@ -51644,6 +51644,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1723
+	},
+	{
+		"fideid": 14656124,
+		"name": "Doutlik, Mak",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1622
 	},
 	{
 		"fideid": 14643294,
@@ -54638,6 +54655,23 @@
 		"rating_blitz": 1571
 	},
 	{
+		"fideid": 14665867,
+		"name": "Nevenkic, Marussig Svit",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1504
+	},
+	{
 		"fideid": 14651750,
 		"name": "Nocic, Ramiz",
 		"country": "SLO",
@@ -54907,7 +54941,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1526
+		"rating_blitz": 1533
 	},
 	{
 		"fideid": 14666880,
@@ -55250,23 +55284,6 @@
 		"rating_blitz": 1654
 	},
 	{
-		"fideid": 14675900,
-		"name": "Rac, Uros",
-		"country": "SLO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 14,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1468
-	},
-	{
 		"fideid": 14675390,
 		"name": "Rac, Uros",
 		"country": "SLO",
@@ -55282,6 +55299,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1558
+	},
+	{
+		"fideid": 14675900,
+		"name": "Rac, Uros",
+		"country": "SLO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1468
 	},
 	{
 		"fideid": 14647486,

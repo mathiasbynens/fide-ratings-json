@@ -2843,7 +2843,7 @@
 		"name": "Fernandes Barbosa, Gabriel",
 		"country": "SUI",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -2853,7 +2853,7 @@
 		"flag": "",
 		"rating_standard": 2210,
 		"rating_rapid": 2240,
-		"rating_blitz": 2094
+		"rating_blitz": 2095
 	},
 	{
 		"fideid": 1303732,
@@ -3244,7 +3244,7 @@
 		"flag": "",
 		"rating_standard": 2201,
 		"rating_rapid": 2075,
-		"rating_blitz": 2016
+		"rating_blitz": 2017
 	},
 	{
 		"fideid": 1303520,
@@ -3413,7 +3413,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 2194,
-		"rating_rapid": 2076,
+		"rating_rapid": 2077,
 		"rating_blitz": 2036
 	},
 	{
@@ -5208,7 +5208,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -5436,7 +5436,7 @@
 		"birthday": 1973,
 		"flag": "i",
 		"rating_standard": 2127,
-		"rating_rapid": 2058,
+		"rating_rapid": 2057,
 		"rating_blitz": 2091
 	},
 	{
@@ -7582,6 +7582,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1346865,
+		"name": "Artan, Tamir",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2071,
+		"rating_rapid": 2004,
+		"rating_blitz": 1943
+	},
+	{
 		"fideid": 1300938,
 		"name": "Hirzel, Rene",
 		"country": "SUI",
@@ -7614,23 +7631,6 @@
 		"rating_standard": 2071,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1346865,
-		"name": "Artan, Tamir",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2070,
-		"rating_rapid": 2004,
-		"rating_blitz": 1943
 	},
 	{
 		"fideid": 1316800,
@@ -8279,23 +8279,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34161589,
-		"name": "Tkhoruk, Roman",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 2062,
-		"rating_rapid": 1947,
-		"rating_blitz": 2058
-	},
-	{
 		"fideid": 1304682,
 		"name": "Eggenberger, Werner",
 		"country": "SUI",
@@ -8328,6 +8311,23 @@
 		"rating_standard": 2061,
 		"rating_rapid": 1984,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34161589,
+		"name": "Tkhoruk, Roman",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 2061,
+		"rating_rapid": 1947,
+		"rating_blitz": 2058
 	},
 	{
 		"fideid": 1301357,
@@ -8836,7 +8836,7 @@
 		"birthday": 1993,
 		"flag": "w",
 		"rating_standard": 2050,
-		"rating_rapid": 2072,
+		"rating_rapid": 2073,
 		"rating_blitz": 2070
 	},
 	{
@@ -9058,7 +9058,7 @@
 		"flag": "",
 		"rating_standard": 2045,
 		"rating_rapid": null,
-		"rating_blitz": 2001
+		"rating_blitz": 2002
 	},
 	{
 		"fideid": 1314262,
@@ -9197,23 +9197,6 @@
 		"rating_blitz": 2006
 	},
 	{
-		"fideid": 1303198,
-		"name": "Schild, Christophe",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NI,SI",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1977,
-		"flag": "",
-		"rating_standard": 2044,
-		"rating_rapid": 2043,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1347284,
 		"name": "Shahmammadli, Safkhan",
 		"country": "SUI",
@@ -9227,7 +9210,7 @@
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": 2044,
-		"rating_rapid": 1968,
+		"rating_rapid": 1969,
 		"rating_blitz": 1962
 	},
 	{
@@ -9279,6 +9262,23 @@
 		"flag": "",
 		"rating_standard": 2043,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1303198,
+		"name": "Schild, Christophe",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NI,SI",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 2043,
+		"rating_rapid": 2043,
 		"rating_blitz": null
 	},
 	{
@@ -9724,23 +9724,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14946084,
-		"name": "Selinga, Jan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 2036,
-		"rating_rapid": 1939,
-		"rating_blitz": 1939
-	},
-	{
 		"fideid": 1303368,
 		"name": "Brueggler, Ralph",
 		"country": "SUI",
@@ -9756,6 +9739,23 @@
 		"rating_standard": 2035,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14946084,
+		"name": "Selinga, Jan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 2035,
+		"rating_rapid": 1939,
+		"rating_blitz": 1939
 	},
 	{
 		"fideid": 1306448,
@@ -9924,7 +9924,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 2031,
-		"rating_rapid": 1938,
+		"rating_rapid": 1937,
 		"rating_blitz": null
 	},
 	{
@@ -11489,7 +11489,7 @@
 		"flag": "",
 		"rating_standard": 2012,
 		"rating_rapid": 1983,
-		"rating_blitz": 1992
+		"rating_blitz": 1991
 	},
 	{
 		"fideid": 1310550,
@@ -11590,7 +11590,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 2011,
-		"rating_rapid": 1875,
+		"rating_rapid": 1874,
 		"rating_blitz": null
 	},
 	{
@@ -12138,6 +12138,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1332350,
+		"name": "Pellicoro, Nathalie",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "w",
+		"rating_standard": 2003,
+		"rating_rapid": 1929,
+		"rating_blitz": 1981
+	},
+	{
 		"fideid": 1317822,
 		"name": "Berger, Vincent",
 		"country": "SUI",
@@ -12151,25 +12168,8 @@
 		"birthday": 1975,
 		"flag": "i",
 		"rating_standard": 2002,
-		"rating_rapid": 1876,
+		"rating_rapid": 1877,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1332350,
-		"name": "Pellicoro, Nathalie",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "w",
-		"rating_standard": 2002,
-		"rating_rapid": 1929,
-		"rating_blitz": 1981
 	},
 	{
 		"fideid": 1308882,
@@ -12492,7 +12492,7 @@
 		"flag": "i",
 		"rating_standard": 1998,
 		"rating_rapid": 1949,
-		"rating_blitz": 1872
+		"rating_blitz": 1871
 	},
 	{
 		"fideid": 1310836,
@@ -14651,7 +14651,7 @@
 		"flag": "i",
 		"rating_standard": 1975,
 		"rating_rapid": null,
-		"rating_blitz": 1964
+		"rating_blitz": 1963
 	},
 	{
 		"fideid": 1301772,
@@ -15215,6 +15215,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1348582,
+		"name": "Delangle, Alexander",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1969,
+		"rating_rapid": 1774,
+		"rating_blitz": 1918
+	},
+	{
 		"fideid": 1334557,
 		"name": "Heinsius, Thomas",
 		"country": "SUI",
@@ -15315,23 +15332,6 @@
 		"rating_standard": 1968,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1348582,
-		"name": "Delangle, Alexander",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1968,
-		"rating_rapid": 1774,
-		"rating_blitz": 1918
 	},
 	{
 		"fideid": 1307134,
@@ -15453,6 +15453,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1346563,
+		"name": "Gade, Niels Severin",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1967,
+		"rating_rapid": 1890,
+		"rating_blitz": 1687
+	},
+	{
 		"fideid": 1334689,
 		"name": "Janzek, Jurij",
 		"country": "SUI",
@@ -15555,23 +15572,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1346563,
-		"name": "Gade, Niels Severin",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1966,
-		"rating_rapid": 1890,
-		"rating_blitz": 1687
-	},
-	{
 		"fideid": 1305026,
 		"name": "Javet, Blaise",
 		"country": "SUI",
@@ -15587,6 +15587,23 @@
 		"rating_standard": 1966,
 		"rating_rapid": 1980,
 		"rating_blitz": 1956
+	},
+	{
+		"fideid": 1361694,
+		"name": "Romanovskyi, Ivan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1966,
+		"rating_rapid": 1842,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1310810,
@@ -15722,23 +15739,6 @@
 		"flag": "",
 		"rating_standard": 1965,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1361694,
-		"name": "Romanovskyi, Ivan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1965,
-		"rating_rapid": 1842,
 		"rating_blitz": null
 	},
 	{
@@ -17544,23 +17544,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1353152,
-		"name": "Jordan, Theodor",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1949,
-		"rating_rapid": 1904,
-		"rating_blitz": 2022
-	},
-	{
 		"fideid": 1312170,
 		"name": "Keller, Philipp",
 		"country": "SUI",
@@ -17593,6 +17576,40 @@
 		"rating_standard": 1949,
 		"rating_rapid": 1788,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1348710,
+		"name": "Pinelli, Gian",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1949,
+		"rating_rapid": 1725,
+		"rating_blitz": 1770
+	},
+	{
+		"fideid": 1353152,
+		"name": "Jordan, Theodor",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1948,
+		"rating_rapid": 1905,
+		"rating_blitz": 2022
 	},
 	{
 		"fideid": 1331566,
@@ -17659,8 +17676,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1948,
-		"rating_rapid": 1754,
-		"rating_blitz": 1640
+		"rating_rapid": 1753,
+		"rating_blitz": 1642
 	},
 	{
 		"fideid": 1322001,
@@ -17728,7 +17745,7 @@
 		"flag": "",
 		"rating_standard": 1947,
 		"rating_rapid": 1947,
-		"rating_blitz": 1875
+		"rating_blitz": 1876
 	},
 	{
 		"fideid": 1312499,
@@ -17763,23 +17780,6 @@
 		"rating_standard": 1947,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1348710,
-		"name": "Pinelli, Gian",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1947,
-		"rating_rapid": 1726,
-		"rating_blitz": 1770
 	},
 	{
 		"fideid": 1306731,
@@ -17847,23 +17847,6 @@
 		"flag": "i",
 		"rating_standard": 1947,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1348329,
-		"name": "Titov, Dmitrii",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1947,
-		"rating_rapid": 1878,
 		"rating_blitz": null
 	},
 	{
@@ -17949,6 +17932,23 @@
 		"flag": "",
 		"rating_standard": 1946,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1348329,
+		"name": "Titov, Dmitrii",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1946,
+		"rating_rapid": 1878,
 		"rating_blitz": null
 	},
 	{
@@ -19363,23 +19363,6 @@
 		"rating_blitz": 1926
 	},
 	{
-		"fideid": 1306740,
-		"name": "Moret, Jean-Paul",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1952,
-		"flag": "",
-		"rating_standard": 1935,
-		"rating_rapid": 1952,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1309285,
 		"name": "Tomal, Michael",
 		"country": "SUI",
@@ -19445,6 +19428,23 @@
 		"flag": "",
 		"rating_standard": 1934,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1306740,
+		"name": "Moret, Jean-Paul",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1952,
+		"flag": "",
+		"rating_standard": 1934,
+		"rating_rapid": 1952,
 		"rating_blitz": null
 	},
 	{
@@ -19737,23 +19737,6 @@
 		"rating_blitz": 2015
 	},
 	{
-		"fideid": 1318217,
-		"name": "Banderet, Bertrand",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1930,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1313533,
 		"name": "Buergi, Benjamin",
 		"country": "SUI",
@@ -19853,7 +19836,7 @@
 		"flag": "",
 		"rating_standard": 1930,
 		"rating_rapid": 1883,
-		"rating_blitz": 1873
+		"rating_blitz": 1872
 	},
 	{
 		"fideid": 1328760,
@@ -19869,6 +19852,23 @@
 		"birthday": 1959,
 		"flag": "i",
 		"rating_standard": 1930,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1318217,
+		"name": "Banderet, Bertrand",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1929,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -21080,23 +21080,6 @@
 		"rating_blitz": 1902
 	},
 	{
-		"fideid": 1336584,
-		"name": "Wenger,Arejou",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1918,
-		"rating_rapid": 1910,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1309315,
 		"name": "Camponovo, David",
 		"country": "SUI",
@@ -21199,8 +21182,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1344854,
-		"name": "Aegerter, Fabrice",
+		"fideid": 1336584,
+		"name": "Wenger,Arejou",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
@@ -21209,11 +21192,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1997,
+		"birthday": 2001,
 		"flag": "",
-		"rating_standard": 1916,
-		"rating_rapid": 1907,
-		"rating_blitz": 1882
+		"rating_standard": 1917,
+		"rating_rapid": 1909,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1304038,
@@ -21282,6 +21265,23 @@
 		"rating_standard": 1916,
 		"rating_rapid": 1828,
 		"rating_blitz": 1828
+	},
+	{
+		"fideid": 1344854,
+		"name": "Aegerter, Fabrice",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1915,
+		"rating_rapid": 1907,
+		"rating_blitz": 1882
 	},
 	{
 		"fideid": 1352067,
@@ -21454,6 +21454,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1312561,
+		"name": "Wolfseher, Roland",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1956,
+		"flag": "",
+		"rating_standard": 1915,
+		"rating_rapid": 1752,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1323172,
 		"name": "Bojic, Radoje",
 		"country": "SUI",
@@ -21553,23 +21570,6 @@
 		"flag": "i",
 		"rating_standard": 1914,
 		"rating_rapid": 1891,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1312561,
-		"name": "Wolfseher, Roland",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1956,
-		"flag": "",
-		"rating_standard": 1914,
-		"rating_rapid": 1752,
 		"rating_blitz": null
 	},
 	{
@@ -21947,6 +21947,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1346407,
+		"name": "Haas, Anthony",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1910,
+		"rating_rapid": 1878,
+		"rating_blitz": 1804
+	},
+	{
 		"fideid": 1313592,
 		"name": "Lienhard, Andreas",
 		"country": "SUI",
@@ -21961,6 +21978,23 @@
 		"flag": "",
 		"rating_standard": 1910,
 		"rating_rapid": 1892,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1330462,
+		"name": "Suter, Andreas, Dr.",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1910,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -22015,23 +22049,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1346407,
-		"name": "Haas, Anthony",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1909,
-		"rating_rapid": 1878,
-		"rating_blitz": 1804
-	},
-	{
 		"fideid": 1303872,
 		"name": "Mettraux, Jean",
 		"country": "SUI",
@@ -22064,23 +22081,6 @@
 		"rating_standard": 1909,
 		"rating_rapid": 1958,
 		"rating_blitz": 1914
-	},
-	{
-		"fideid": 1330462,
-		"name": "Suter, Andreas, Dr.",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1909,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 1309897,
@@ -22304,6 +22304,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1352458,
+		"name": "von Burg, Carl Alexander",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1907,
+		"rating_rapid": 1774,
+		"rating_blitz": 1800
+	},
+	{
 		"fideid": 16271211,
 		"name": "Bangerter, Daria",
 		"country": "SUI",
@@ -22387,23 +22404,6 @@
 		"rating_standard": 1906,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1352458,
-		"name": "von Burg, Carl Alexander",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1906,
-		"rating_rapid": 1774,
-		"rating_blitz": 1800
 	},
 	{
 		"fideid": 1332899,
@@ -22627,6 +22627,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1314254,
+		"name": "Ahumada, Norberto",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": 1903,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1341871,
 		"name": "Estermann, Michail",
 		"country": "SUI",
@@ -22763,40 +22780,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1314254,
-		"name": "Ahumada, Norberto",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": 1902,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1354272,
-		"name": "Cendan, Jeremy",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1902,
-		"rating_rapid": null,
-		"rating_blitz": 1656
-	},
-	{
 		"fideid": 1307142,
 		"name": "Eschmann, Pascal",
 		"country": "SUI",
@@ -22916,6 +22899,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1301152,
+		"name": "Sudan, Georges",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1952,
+		"flag": "",
+		"rating_standard": 1902,
+		"rating_rapid": 2024,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1324942,
 		"name": "Suter, Christian",
 		"country": "SUI",
@@ -23018,23 +23018,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1301152,
-		"name": "Sudan, Georges",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1952,
-		"flag": "",
-		"rating_standard": 1901,
-		"rating_rapid": 2024,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1303287,
 		"name": "Budakovic, Dragan",
 		"country": "SUI",
@@ -23050,6 +23033,23 @@
 		"rating_standard": 1900,
 		"rating_rapid": 1904,
 		"rating_blitz": 1941
+	},
+	{
+		"fideid": 1354272,
+		"name": "Cendan, Jeremy",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1900,
+		"rating_rapid": null,
+		"rating_blitz": 1656
 	},
 	{
 		"fideid": 1336819,
@@ -23511,6 +23511,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1335723,
+		"name": "Avaria, Diego",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 1896,
+		"rating_rapid": 1834,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1344102,
+		"name": "Bangerter, Ena",
+		"country": "SUI",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1896,
+		"rating_rapid": 1702,
+		"rating_blitz": 1711
+	},
+	{
 		"fideid": 1304089,
 		"name": "Berger, Stefan",
 		"country": "SUI",
@@ -23730,40 +23764,6 @@
 		"rating_standard": 1896,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1335723,
-		"name": "Avaria, Diego",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": 1895,
-		"rating_rapid": 1833,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1344102,
-		"name": "Bangerter, Ena",
-		"country": "SUI",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1895,
-		"rating_rapid": 1702,
-		"rating_blitz": 1711
 	},
 	{
 		"fideid": 1352644,
@@ -24361,6 +24361,23 @@
 		"rating_blitz": 1830
 	},
 	{
+		"fideid": 1363611,
+		"name": "Cheles, Nicusor",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1890,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1347683,
 		"name": "Christen, Michael",
 		"country": "SUI",
@@ -24599,23 +24616,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1363611,
-		"name": "Cheles, Nicusor",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1889,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1363824,
 		"name": "Djurdjevic, Marko",
 		"country": "SUI",
@@ -24698,7 +24698,7 @@
 		"flag": "",
 		"rating_standard": 1889,
 		"rating_rapid": 1932,
-		"rating_blitz": 1883
+		"rating_blitz": 1884
 	},
 	{
 		"fideid": 1329979,
@@ -26414,8 +26414,25 @@
 		"birthday": 1988,
 		"flag": "",
 		"rating_standard": 1873,
-		"rating_rapid": 1770,
+		"rating_rapid": 1769,
 		"rating_blitz": 1815
+	},
+	{
+		"fideid": 1312294,
+		"name": "Bilat, Michel",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1940,
+		"flag": "",
+		"rating_standard": 1873,
+		"rating_rapid": 1964,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1342991,
@@ -26569,23 +26586,6 @@
 		"rating_standard": 1872,
 		"rating_rapid": 1726,
 		"rating_blitz": 1679
-	},
-	{
-		"fideid": 1312294,
-		"name": "Bilat, Michel",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1940,
-		"flag": "",
-		"rating_standard": 1872,
-		"rating_rapid": 1964,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 1351567,
@@ -26838,23 +26838,6 @@
 		"k": 20,
 		"birthday": 1948,
 		"flag": "i",
-		"rating_standard": 1870,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1361287,
-		"name": "Bovet, David",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1989,
-		"flag": "",
 		"rating_standard": 1870,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -27196,6 +27179,23 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1869,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1361287,
+		"name": "Bovet, David",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1868,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -27843,7 +27843,7 @@
 		"flag": "",
 		"rating_standard": 1864,
 		"rating_rapid": null,
-		"rating_blitz": 1725
+		"rating_blitz": 1726
 	},
 	{
 		"fideid": 1308602,
@@ -28475,6 +28475,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1367218,
+		"name": "Revelly, Alain",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1860,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1328085,
 		"name": "Seiler, Yannick",
 		"country": "SUI",
@@ -28572,23 +28589,6 @@
 		"k": 20,
 		"birthday": 1983,
 		"flag": "i",
-		"rating_standard": 1859,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1367218,
-		"name": "Revelly, Alain",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1960,
-		"flag": "",
 		"rating_standard": 1859,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -28730,6 +28730,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1359266,
+		"name": "Palairet, Alexander",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1858,
+		"rating_rapid": 1892,
+		"rating_blitz": 1863
+	},
+	{
 		"fideid": 1315595,
 		"name": "Pfister, Andreas",
 		"country": "SUI",
@@ -28866,23 +28883,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1359266,
-		"name": "Palairet, Alexander",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1857,
-		"rating_rapid": 1891,
-		"rating_blitz": 1863
-	},
-	{
 		"fideid": 1345214,
 		"name": "Sijbring, Henk",
 		"country": "SUI",
@@ -28985,6 +28985,23 @@
 		"rating_blitz": 1787
 	},
 	{
+		"fideid": 1344269,
+		"name": "Breeuwer, Pieter",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1855,
+		"rating_rapid": 1726,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1318390,
 		"name": "Dubois, Claude",
 		"country": "SUI",
@@ -29033,23 +29050,6 @@
 		"flag": "i",
 		"rating_standard": 1855,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1344269,
-		"name": "Breeuwer, Pieter",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1854,
-		"rating_rapid": 1726,
 		"rating_blitz": null
 	},
 	{
@@ -29291,6 +29291,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1356615,
+		"name": "Mogasale, Chetan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1853,
+		"rating_rapid": 1658,
+		"rating_blitz": 1638
+	},
+	{
 		"fideid": 1335979,
 		"name": "Schmid, Albert",
 		"country": "SUI",
@@ -29391,23 +29408,6 @@
 		"rating_standard": 1852,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1356615,
-		"name": "Mogasale, Chetan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 8,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1852,
-		"rating_rapid": 1658,
-		"rating_blitz": 1638
 	},
 	{
 		"fideid": 1365002,
@@ -29899,8 +29899,25 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1848,
-		"rating_rapid": 1720,
+		"rating_rapid": 1721,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34167501,
+		"name": "Liakh, Artem",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1848,
+		"rating_rapid": 1582,
+		"rating_blitz": 1608
 	},
 	{
 		"fideid": 1346059,
@@ -29988,23 +30005,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1355937,
-		"name": "Candelier, Lucas",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1847,
-		"rating_rapid": 1857,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1314947,
 		"name": "Demetz, Stefan",
 		"country": "SUI",
@@ -30073,23 +30073,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34167501,
-		"name": "Liakh, Artem",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1847,
-		"rating_rapid": 1582,
-		"rating_blitz": 1608
-	},
-	{
 		"fideid": 1339796,
 		"name": "Mohr, Bernhard",
 		"country": "SUI",
@@ -30139,6 +30122,23 @@
 		"rating_standard": 1847,
 		"rating_rapid": 1803,
 		"rating_blitz": 1912
+	},
+	{
+		"fideid": 1355937,
+		"name": "Candelier, Lucas",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1846,
+		"rating_rapid": 1857,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1304518,
@@ -30257,23 +30257,6 @@
 		"flag": "i",
 		"rating_standard": 1845,
 		"rating_rapid": 1873,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1368370,
-		"name": "Bertolotto, Aurelien",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1845,
-		"rating_rapid": 1771,
 		"rating_blitz": null
 	},
 	{
@@ -30410,6 +30393,23 @@
 		"flag": "",
 		"rating_standard": 1845,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1368370,
+		"name": "Bertolotto, Aurelien",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1844,
+		"rating_rapid": 1771,
 		"rating_blitz": null
 	},
 	{
@@ -30834,7 +30834,7 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1841,
-		"rating_rapid": 1776,
+		"rating_rapid": 1777,
 		"rating_blitz": 1711
 	},
 	{
@@ -30900,23 +30900,6 @@
 		"games": 1,
 		"k": 40,
 		"birthday": 1975,
-		"flag": "",
-		"rating_standard": 1840,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1334670,
-		"name": "Gaemperli, Ramon",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1840,
 		"rating_rapid": null,
@@ -31076,6 +31059,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1334670,
+		"name": "Gaemperli, Ramon",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1839,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1315102,
 		"name": "Giger, Bruno",
 		"country": "SUI",
@@ -31192,7 +31192,7 @@
 		"flag": "",
 		"rating_standard": 1838,
 		"rating_rapid": null,
-		"rating_blitz": 1747
+		"rating_blitz": 1746
 	},
 	{
 		"fideid": 1307274,
@@ -31515,7 +31515,7 @@
 		"flag": "",
 		"rating_standard": 1836,
 		"rating_rapid": 1839,
-		"rating_blitz": 1881
+		"rating_blitz": 1882
 	},
 	{
 		"fideid": 1312235,
@@ -31567,23 +31567,6 @@
 		"rating_standard": 1836,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 34171584,
-		"name": "Filimonov, Arsenii",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1835,
-		"rating_rapid": 1809,
-		"rating_blitz": 1667
 	},
 	{
 		"fideid": 1331345,
@@ -31703,6 +31686,23 @@
 		"rating_standard": 1834,
 		"rating_rapid": 1743,
 		"rating_blitz": 1753
+	},
+	{
+		"fideid": 34171584,
+		"name": "Filimonov, Arsenii",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1834,
+		"rating_rapid": 1809,
+		"rating_blitz": 1667
 	},
 	{
 		"fideid": 1336614,
@@ -31839,23 +31839,6 @@
 		"rating_standard": 1834,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 651084821,
-		"name": "Aeschbacher, Gregoire",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1833,
-		"rating_rapid": 1852,
-		"rating_blitz": 1693
 	},
 	{
 		"fideid": 1312820,
@@ -32043,6 +32026,23 @@
 		"rating_standard": 1833,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 651084821,
+		"name": "Aeschbacher, Gregoire",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1832,
+		"rating_rapid": 1850,
+		"rating_blitz": 1692
 	},
 	{
 		"fideid": 1313975,
@@ -32266,23 +32266,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1367927,
-		"name": "Letac, Loig",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1830,
-		"rating_rapid": 1753,
-		"rating_blitz": 1726
-	},
-	{
 		"fideid": 1333038,
 		"name": "Mampilly, Alexander",
 		"country": "SUI",
@@ -32366,6 +32349,23 @@
 		"rating_standard": 1829,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1367927,
+		"name": "Letac, Loig",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1829,
+		"rating_rapid": 1754,
+		"rating_blitz": 1724
 	},
 	{
 		"fideid": 1333267,
@@ -32487,23 +32487,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1303554,
-		"name": "Bosson, Jean-Claude",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "",
-		"rating_standard": 1827,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1333941,
 		"name": "Bruhin, Michael",
 		"country": "SUI",
@@ -32572,20 +32555,37 @@
 		"rating_blitz": 1854
 	},
 	{
-		"fideid": 1334603,
-		"name": "Devos, David",
+		"fideid": 1303554,
+		"name": "Bosson, Jean-Claude",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1977,
+		"games": 1,
+		"k": 20,
+		"birthday": 1947,
 		"flag": "",
 		"rating_standard": 1826,
-		"rating_rapid": 1743,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1335430,
+		"name": "Eggel, Xavier",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1826,
+		"rating_rapid": 1873,
 		"rating_blitz": null
 	},
 	{
@@ -32708,20 +32708,37 @@
 		"rating_blitz": 1766
 	},
 	{
-		"fideid": 1335430,
-		"name": "Eggel, Xavier",
+		"fideid": 1308645,
+		"name": "Chauvin, Denis",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1980,
+		"games": 0,
+		"k": 20,
+		"birthday": 1951,
 		"flag": "",
 		"rating_standard": 1825,
-		"rating_rapid": 1873,
+		"rating_rapid": 1953,
+		"rating_blitz": 1923
+	},
+	{
+		"fideid": 1334603,
+		"name": "Devos, David",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 1825,
+		"rating_rapid": 1743,
 		"rating_blitz": null
 	},
 	{
@@ -32926,6 +32943,23 @@
 		"flag": "",
 		"rating_standard": 1824,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1356127,
+		"name": "Schaer, Bryan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1824,
+		"rating_rapid": 1698,
 		"rating_blitz": null
 	},
 	{
@@ -33184,23 +33218,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1356127,
-		"name": "Schaer, Bryan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1822,
-		"rating_rapid": 1698,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1327526,
 		"name": "Schneider, Franck",
 		"country": "SUI",
@@ -33284,23 +33301,6 @@
 		"rating_standard": 1821,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1308645,
-		"name": "Chauvin, Denis",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "",
-		"rating_standard": 1821,
-		"rating_rapid": 1953,
-		"rating_blitz": 1923
 	},
 	{
 		"fideid": 1320670,
@@ -34697,6 +34697,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 134179204,
+		"name": "Laffely, Sacha",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1810,
+		"rating_rapid": 1836,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1324535,
 		"name": "Pecorini, Jean-Marc",
 		"country": "SUI",
@@ -34725,6 +34742,23 @@
 		"games": 1,
 		"k": 40,
 		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1810,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1325868,
+		"name": "Wehrle, Ferdi",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1942,
 		"flag": "",
 		"rating_standard": 1810,
 		"rating_rapid": null,
@@ -34796,23 +34830,6 @@
 		"flag": "i",
 		"rating_standard": 1809,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 134179204,
-		"name": "Laffely, Sacha",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1809,
-		"rating_rapid": 1836,
 		"rating_blitz": null
 	},
 	{
@@ -34915,23 +34932,6 @@
 		"flag": "i",
 		"rating_standard": 1809,
 		"rating_rapid": 1807,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1325868,
-		"name": "Wehrle, Ferdi",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1942,
-		"flag": "",
-		"rating_standard": 1809,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -35377,6 +35377,23 @@
 		"rating_blitz": 1834
 	},
 	{
+		"fideid": 134178780,
+		"name": "Van Bogaert, Olivier",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1806,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1350200,
 		"name": "Bourban, Karel",
 		"country": "SUI",
@@ -35428,8 +35445,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1339990,
-		"name": "Kuenzler, Timothee",
+		"fideid": 1336827,
+		"name": "Kwiatkowski,Antoni",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
@@ -35438,11 +35455,11 @@
 		"foa_title": "",
 		"games": 1,
 		"k": 20,
-		"birthday": 1994,
+		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1805,
-		"rating_rapid": 1773,
-		"rating_blitz": null
+		"rating_rapid": 1665,
+		"rating_blitz": 1744
 	},
 	{
 		"fideid": 1359959,
@@ -35456,6 +35473,23 @@
 		"games": 5,
 		"k": 40,
 		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1805,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1312340,
+		"name": "Steiner, Philippe",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1955,
 		"flag": "",
 		"rating_standard": 1805,
 		"rating_rapid": null,
@@ -35494,40 +35528,6 @@
 		"rating_standard": 1804,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1336827,
-		"name": "Kwiatkowski,Antoni",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1804,
-		"rating_rapid": 1665,
-		"rating_blitz": 1744
-	},
-	{
-		"fideid": 1338080,
-		"name": "Lovey, Fabrice",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1804,
-		"rating_rapid": 1750,
-		"rating_blitz": 1818
 	},
 	{
 		"fideid": 1310771,
@@ -35598,23 +35598,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1312340,
-		"name": "Steiner, Philippe",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1955,
-		"flag": "",
-		"rating_standard": 1804,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1368524,
 		"name": "Valsecchi, Luca",
 		"country": "SUI",
@@ -35632,23 +35615,6 @@
 		"rating_blitz": 1846
 	},
 	{
-		"fideid": 134178780,
-		"name": "Van Bogaert, Olivier",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1804,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1336703,
 		"name": "Dueck,Maximilian",
 		"country": "SUI",
@@ -35662,8 +35628,8 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1803,
-		"rating_rapid": 1702,
-		"rating_blitz": 1854
+		"rating_rapid": 1700,
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 1321471,
@@ -35681,6 +35647,40 @@
 		"rating_standard": 1803,
 		"rating_rapid": 1914,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1339990,
+		"name": "Kuenzler, Timothee",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1803,
+		"rating_rapid": 1773,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1338080,
+		"name": "Lovey, Fabrice",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1803,
+		"rating_rapid": 1750,
+		"rating_blitz": 1813
 	},
 	{
 		"fideid": 1333046,
@@ -35904,6 +35904,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1357689,
+		"name": "Gwerder, Simon",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1801,
+		"rating_rapid": 1685,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1334700,
 		"name": "Luethi, Walter",
 		"country": "SUI",
@@ -36023,23 +36040,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1357689,
-		"name": "Gwerder, Simon",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1800,
-		"rating_rapid": 1684,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1364952,
 		"name": "Ondrouschek, Hendrik",
 		"country": "SUI",
@@ -36105,7 +36105,7 @@
 		"flag": "",
 		"rating_standard": 1800,
 		"rating_rapid": 1709,
-		"rating_blitz": 1642
+		"rating_blitz": 1641
 	},
 	{
 		"fideid": 1308203,
@@ -36665,7 +36665,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1795,
-		"rating_rapid": 1756,
+		"rating_rapid": 1757,
 		"rating_blitz": 1727
 	},
 	{
@@ -37791,6 +37791,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1326384,
+		"name": "Mares, Otakar SUI",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1784,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1319647,
 		"name": "Paliwoda, Felix",
 		"country": "SUI",
@@ -37978,23 +37995,6 @@
 		"rating_blitz": 1877
 	},
 	{
-		"fideid": 1326384,
-		"name": "Mares, Otakar SUI",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1783,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1335642,
 		"name": "Raimondi, Patrice",
 		"country": "SUI",
@@ -38114,6 +38114,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1372750,
+		"name": "Petitpierre, Fabricio",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1782,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1319574,
 		"name": "Riopelle, Jeffrey",
 		"country": "SUI",
@@ -38199,23 +38216,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1343181,
-		"name": "Boss, Stefan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1781,
-		"rating_rapid": 1812,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1325884,
 		"name": "Buntschu, Kurt",
 		"country": "SUI",
@@ -38284,23 +38284,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1372750,
-		"name": "Petitpierre, Fabricio",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 1781,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1334085,
 		"name": "Ruettimann, Eric",
 		"country": "SUI",
@@ -38352,6 +38335,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1343181,
+		"name": "Boss, Stefan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1780,
+		"rating_rapid": 1812,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1309994,
 		"name": "Claude, Roger Daniel",
 		"country": "SUI",
@@ -38398,6 +38398,23 @@
 		"k": 20,
 		"birthday": 1941,
 		"flag": "i",
+		"rating_standard": 1780,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1308416,
+		"name": "Kraehenbuehl, Jean",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1934,
+		"flag": "",
 		"rating_standard": 1780,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -38500,23 +38517,6 @@
 		"k": 40,
 		"birthday": 1957,
 		"flag": "i",
-		"rating_standard": 1779,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1308416,
-		"name": "Kraehenbuehl, Jean",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1934,
-		"flag": "",
 		"rating_standard": 1779,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -38721,6 +38721,23 @@
 		"k": 40,
 		"birthday": 1976,
 		"flag": "i",
+		"rating_standard": 1777,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1364626,
+		"name": "Zwahlen, Christoph",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "",
 		"rating_standard": 1777,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -39185,23 +39202,6 @@
 		"rating_blitz": 1787
 	},
 	{
-		"fideid": 1364626,
-		"name": "Zwahlen, Christoph",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1962,
-		"flag": "",
-		"rating_standard": 1773,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1363530,
 		"name": "Andreetta, Cesare",
 		"country": "SUI",
@@ -39355,23 +39355,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1344188,
-		"name": "Boillat, Maxime",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1771,
-		"rating_rapid": 1755,
-		"rating_blitz": 1739
-	},
-	{
 		"fideid": 1309412,
 		"name": "Chevalley, Jean-Claude",
 		"country": "SUI",
@@ -39423,23 +39406,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1361279,
-		"name": "Schneggenburger, Miguel",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1771,
-		"rating_rapid": 1782,
-		"rating_blitz": 1730
-	},
-	{
 		"fideid": 1330772,
 		"name": "Simic, Bosko",
 		"country": "SUI",
@@ -39474,6 +39440,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1344188,
+		"name": "Boillat, Maxime",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1770,
+		"rating_rapid": 1755,
+		"rating_blitz": 1740
+	},
+	{
 		"fideid": 1339982,
 		"name": "Burger, Raphael",
 		"country": "SUI",
@@ -39487,7 +39470,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1770,
-		"rating_rapid": 1632,
+		"rating_rapid": 1631,
 		"rating_blitz": 1647
 	},
 	{
@@ -39539,23 +39522,6 @@
 		"flag": "",
 		"rating_standard": 1770,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1346164,
-		"name": "Ghisla, Ireneo",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1770,
-		"rating_rapid": 1687,
 		"rating_blitz": null
 	},
 	{
@@ -39627,6 +39593,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1361279,
+		"name": "Schneggenburger, Miguel",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1770,
+		"rating_rapid": 1782,
+		"rating_blitz": 1730
+	},
+	{
 		"fideid": 1309064,
 		"name": "Tonini, Stefano",
 		"country": "SUI",
@@ -39692,6 +39675,23 @@
 		"flag": "",
 		"rating_standard": 1769,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1346164,
+		"name": "Ghisla, Ireneo",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1769,
+		"rating_rapid": 1687,
 		"rating_blitz": null
 	},
 	{
@@ -39950,6 +39950,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1311220,
+		"name": "Svendsen, Hannelore",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1960,
+		"flag": "w",
+		"rating_standard": 1768,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1335111,
 		"name": "Bayraktar, Yusuf",
 		"country": "SUI",
@@ -40001,6 +40018,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1324144,
+		"name": "Faessler, Peter",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1944,
+		"flag": "",
+		"rating_standard": 1767,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1319396,
 		"name": "Fredj, Nizar",
 		"country": "SUI",
@@ -40016,6 +40050,23 @@
 		"rating_standard": 1767,
 		"rating_rapid": 1768,
 		"rating_blitz": 1755
+	},
+	{
+		"fideid": 1315056,
+		"name": "Galerne, Rene",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 1,
+		"k": 20,
+		"birthday": 1961,
+		"flag": "",
+		"rating_standard": 1767,
+		"rating_rapid": 1780,
+		"rating_blitz": 1771
 	},
 	{
 		"fideid": 1334859,
@@ -40049,6 +40100,23 @@
 		"flag": "i",
 		"rating_standard": 1767,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1354124,
+		"name": "Levrat, Christian",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 1767,
+		"rating_rapid": 1842,
 		"rating_blitz": null
 	},
 	{
@@ -40120,40 +40188,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1324144,
-		"name": "Faessler, Peter",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 1944,
-		"flag": "",
-		"rating_standard": 1766,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1315056,
-		"name": "Galerne, Rene",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 1,
-		"k": 20,
-		"birthday": 1961,
-		"flag": "",
-		"rating_standard": 1766,
-		"rating_rapid": 1780,
-		"rating_blitz": 1771
-	},
-	{
 		"fideid": 1328557,
 		"name": "Giananti, Andrea",
 		"country": "SUI",
@@ -40222,8 +40256,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1354124,
-		"name": "Levrat, Christian",
+		"fideid": 1350030,
+		"name": "Mebarek, Khalil",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
@@ -40231,12 +40265,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 1,
-		"k": 20,
-		"birthday": 1970,
+		"k": 40,
+		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1766,
-		"rating_rapid": 1842,
-		"rating_blitz": null
+		"rating_rapid": 1785,
+		"rating_blitz": 1824
 	},
 	{
 		"fideid": 1348760,
@@ -40307,40 +40341,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1311220,
-		"name": "Svendsen, Hannelore",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "w",
-		"rating_standard": 1766,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1362127,
-		"name": "Bernhard, Simon",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1765,
-		"rating_rapid": 1863,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1339486,
 		"name": "Gadgil, Vinayak",
 		"country": "SUI",
@@ -40373,23 +40373,6 @@
 		"rating_standard": 1765,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1350030,
-		"name": "Mebarek, Khalil",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 1765,
-		"rating_rapid": 1785,
-		"rating_blitz": 1824
 	},
 	{
 		"fideid": 1360221,
@@ -40474,6 +40457,23 @@
 		"flag": "",
 		"rating_standard": 1764,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1362127,
+		"name": "Bernhard, Simon",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1764,
+		"rating_rapid": 1863,
 		"rating_blitz": null
 	},
 	{
@@ -40630,21 +40630,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1365681,
-		"name": "Clarke Alexander",
+		"fideid": 1317393,
+		"name": "Ehrsam, Andreas",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
-		"birthday": 1987,
+		"birthday": 1960,
 		"flag": "",
 		"rating_standard": 1763,
-		"rating_rapid": 1738,
-		"rating_blitz": 1758
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1324519,
@@ -40664,6 +40664,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1369555,
+		"name": "Guillaume, Michel",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1763,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1337858,
 		"name": "Krieger, Hanspeter",
 		"country": "SUI",
@@ -40678,23 +40695,6 @@
 		"flag": "i",
 		"rating_standard": 1763,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1313487,
-		"name": "Putallaz, Jean-Christophe",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "",
-		"rating_standard": 1763,
-		"rating_rapid": 1796,
 		"rating_blitz": null
 	},
 	{
@@ -40749,6 +40749,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1365681,
+		"name": "Clarke Alexander",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": 1762,
+		"rating_rapid": 1738,
+		"rating_blitz": 1758
+	},
+	{
 		"fideid": 1355201,
 		"name": "De Pietro, Luca",
 		"country": "SUI",
@@ -40800,23 +40817,6 @@
 		"rating_blitz": 1746
 	},
 	{
-		"fideid": 1369555,
-		"name": "Guillaume, Michel",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1762,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1323482,
 		"name": "Muheim, Roland",
 		"country": "SUI",
@@ -40831,6 +40831,23 @@
 		"flag": "i",
 		"rating_standard": 1762,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1313487,
+		"name": "Putallaz, Jean-Christophe",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1762,
+		"rating_rapid": 1796,
 		"rating_blitz": null
 	},
 	{
@@ -40881,23 +40898,6 @@
 		"birthday": 2002,
 		"flag": "i",
 		"rating_standard": 1762,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1317393,
-		"name": "Ehrsam, Andreas",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1761,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -41106,6 +41106,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1363786,
+		"name": "Boesch, Roman",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1759,
+		"rating_rapid": 1753,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 4667034,
 		"name": "Britschgi, Carmen",
 		"country": "SUI",
@@ -41188,6 +41205,23 @@
 		"flag": "i",
 		"rating_standard": 1759,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1364243,
+		"name": "Kononiuk,Yaroslav",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1759,
+		"rating_rapid": 1698,
 		"rating_blitz": null
 	},
 	{
@@ -41293,23 +41327,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1350145,
-		"name": "Rouiller, Leonard",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1759,
-		"rating_rapid": 1654,
-		"rating_blitz": 1691
-	},
-	{
 		"fideid": 1302671,
 		"name": "Schaerrer, Heinz",
 		"country": "SUI",
@@ -41395,23 +41412,6 @@
 		"rating_blitz": 1509
 	},
 	{
-		"fideid": 1364243,
-		"name": "Kononiuk,Yaroslav",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1758,
-		"rating_rapid": 1698,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1324527,
 		"name": "Pecorini, Anthony",
 		"country": "SUI",
@@ -41427,6 +41427,23 @@
 		"rating_standard": 1758,
 		"rating_rapid": 1717,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1350145,
+		"name": "Rouiller, Leonard",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1758,
+		"rating_rapid": 1654,
+		"rating_blitz": 1690
 	},
 	{
 		"fideid": 1374036,
@@ -41511,23 +41528,6 @@
 		"flag": "",
 		"rating_standard": 1757,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1363786,
-		"name": "Boesch, Roman",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1757,
-		"rating_rapid": 1753,
 		"rating_blitz": null
 	},
 	{
@@ -41646,7 +41646,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1756,
-		"rating_rapid": 1536,
+		"rating_rapid": 1539,
 		"rating_blitz": null
 	},
 	{
@@ -41837,23 +41837,6 @@
 		"rating_blitz": 1753
 	},
 	{
-		"fideid": 1341650,
-		"name": "Chockalingam, Vishak",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1755,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1368842,
 		"name": "Jansen, Bert",
 		"country": "SUI",
@@ -41933,6 +41916,23 @@
 		"games": 1,
 		"k": 20,
 		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1754,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1341650,
+		"name": "Chockalingam, Vishak",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1754,
 		"rating_rapid": null,
@@ -42245,6 +42245,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1301241,
+		"name": "Michel, Jean-claude",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": 1752,
+		"rating_rapid": 1751,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1330748,
 		"name": "Schreiber, Robert",
 		"country": "SUI",
@@ -42327,23 +42344,6 @@
 		"flag": "",
 		"rating_standard": 1751,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1301241,
-		"name": "Michel, Jean-claude",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1959,
-		"flag": "",
-		"rating_standard": 1751,
-		"rating_rapid": 1751,
 		"rating_blitz": null
 	},
 	{
@@ -42704,6 +42704,23 @@
 		"rating_blitz": 1788
 	},
 	{
+		"fideid": 1370200,
+		"name": "Sandoz, Pierre",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": 1748,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1319787,
 		"name": "Brandenberger, Walter",
 		"country": "SUI",
@@ -42891,23 +42908,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1370200,
-		"name": "Sandoz, Pierre",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 1959,
-		"flag": "",
-		"rating_standard": 1747,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1308068,
 		"name": "Stieger, Hartmut",
 		"country": "SUI",
@@ -43008,23 +43008,6 @@
 		"rating_standard": 1746,
 		"rating_rapid": null,
 		"rating_blitz": 1789
-	},
-	{
-		"fideid": 1350005,
-		"name": "Belet, Yves",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1746,
-		"rating_rapid": 1707,
-		"rating_blitz": 1688
 	},
 	{
 		"fideid": 1369202,
@@ -43163,6 +43146,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1350005,
+		"name": "Belet, Yves",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1745,
+		"rating_rapid": 1707,
+		"rating_blitz": 1689
+	},
+	{
+		"fideid": 1331914,
+		"name": "Corbat, Philippe (19925)",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "",
+		"rating_standard": 1745,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1328816,
 		"name": "Hammerschmidt, Walter",
 		"country": "SUI",
@@ -43175,6 +43192,23 @@
 		"k": 20,
 		"birthday": 1960,
 		"flag": "i",
+		"rating_standard": 1745,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1312421,
+		"name": "Huggler, Andreas",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1946,
+		"flag": "",
 		"rating_standard": 1745,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -43248,23 +43282,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1331914,
-		"name": "Corbat, Philippe (19925)",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "",
-		"rating_standard": 1744,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1363620,
 		"name": "Delaquis, Gianluca",
 		"country": "SUI",
@@ -43279,23 +43296,6 @@
 		"flag": "",
 		"rating_standard": 1744,
 		"rating_rapid": 1849,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1312421,
-		"name": "Huggler, Andreas",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1946,
-		"flag": "",
-		"rating_standard": 1744,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -43469,23 +43469,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1337394,
-		"name": "Haerdi,Heinz",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1743,
-		"rating_rapid": 1793,
-		"rating_blitz": 1761
-	},
-	{
 		"fideid": 1317660,
 		"name": "Dorsaz, Cyril",
 		"country": "SUI",
@@ -43500,6 +43483,23 @@
 		"flag": "",
 		"rating_standard": 1742,
 		"rating_rapid": 1801,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1334530,
+		"name": "Eichenberger, Lothar",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1742,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -43552,6 +43552,23 @@
 		"rating_standard": 1742,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1337394,
+		"name": "Haerdi,Heinz",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1742,
+		"rating_rapid": 1793,
+		"rating_blitz": 1761
 	},
 	{
 		"fideid": 1357883,
@@ -43639,23 +43656,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1334530,
-		"name": "Eichenberger, Lothar",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 1741,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1354060,
 		"name": "Loetscher, Alexis",
 		"country": "SUI",
@@ -43707,23 +43707,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1362097,
-		"name": "Schaefer, Gion",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1741,
-		"rating_rapid": 1661,
-		"rating_blitz": 1764
-	},
-	{
 		"fideid": 1366190,
 		"name": "Blasko Azzola, Manuel",
 		"country": "SUI",
@@ -43741,23 +43724,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1340190,
-		"name": "Gendre, Arthur",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1740,
-		"rating_rapid": 1630,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1317504,
 		"name": "Maier, Hansjoerg",
 		"country": "SUI",
@@ -43770,23 +43736,6 @@
 		"k": 40,
 		"birthday": 1956,
 		"flag": "i",
-		"rating_standard": 1740,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1312022,
-		"name": "Nawrocki, Bronislaw",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1944,
-		"flag": "",
 		"rating_standard": 1740,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -43809,8 +43758,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1343815,
-		"name": "Stepanians, Markus",
+		"fideid": 1362097,
+		"name": "Schaefer, Gion",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
@@ -43818,12 +43767,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 1959,
+		"k": 40,
+		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1740,
-		"rating_rapid": null,
-		"rating_blitz": 1781
+		"rating_rapid": 1661,
+		"rating_blitz": 1764
 	},
 	{
 		"fideid": 1357239,
@@ -43877,6 +43826,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1312022,
+		"name": "Nawrocki, Bronislaw",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1944,
+		"flag": "",
+		"rating_standard": 1739,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1363204,
+		"name": "Niederberger, Lenny",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1739,
+		"rating_rapid": 1702,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1359606,
 		"name": "Schorno, Wim",
 		"country": "SUI",
@@ -43894,25 +43877,8 @@
 		"rating_blitz": 1675
 	},
 	{
-		"fideid": 1340840,
-		"name": "Silardi, Christian",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1739,
-		"rating_rapid": 1852,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1325264,
-		"name": "Tai, Ai-Kiun",
+		"fideid": 1343815,
+		"name": "Stepanians, Markus",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
@@ -43920,12 +43886,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
-		"birthday": 1950,
+		"k": 20,
+		"birthday": 1959,
 		"flag": "",
 		"rating_standard": 1739,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1781
 	},
 	{
 		"fideid": 1352229,
@@ -43943,6 +43909,23 @@
 		"rating_standard": 1738,
 		"rating_rapid": null,
 		"rating_blitz": 1735
+	},
+	{
+		"fideid": 1340190,
+		"name": "Gendre, Arthur",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1738,
+		"rating_rapid": 1630,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1339494,
@@ -43979,6 +43962,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1340840,
+		"name": "Silardi, Christian",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1738,
+		"rating_rapid": 1852,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1317601,
 		"name": "Sturm, Martin",
 		"country": "SUI",
@@ -43991,6 +43991,23 @@
 		"k": 40,
 		"birthday": 1944,
 		"flag": "i",
+		"rating_standard": 1738,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1325264,
+		"name": "Tai, Ai-Kiun",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1950,
+		"flag": "",
 		"rating_standard": 1738,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -44115,23 +44132,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1304569,
-		"name": "Lavanchy, Marc-Henri",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1943,
-		"flag": "",
-		"rating_standard": 1737,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1310968,
 		"name": "Lepcsenyi, Tibor",
 		"country": "SUI",
@@ -44163,7 +44163,7 @@
 		"flag": "i",
 		"rating_standard": 1737,
 		"rating_rapid": null,
-		"rating_blitz": 1725
+		"rating_blitz": 1724
 	},
 	{
 		"fideid": 1322460,
@@ -44251,6 +44251,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1304569,
+		"name": "Lavanchy, Marc-Henri",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1943,
+		"flag": "",
+		"rating_standard": 1736,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1357735,
 		"name": "Linder, Ernst",
 		"country": "SUI",
@@ -44265,23 +44282,6 @@
 		"flag": "",
 		"rating_standard": 1736,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1363204,
-		"name": "Niederberger, Lenny",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1736,
-		"rating_rapid": 1702,
 		"rating_blitz": null
 	},
 	{
@@ -44421,6 +44421,23 @@
 		"rating_blitz": 1819
 	},
 	{
+		"fideid": 1316770,
+		"name": "Ulmann, Olivier",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1735,
+		"rating_rapid": 1790,
+		"rating_blitz": 1843
+	},
+	{
 		"fideid": 1337122,
 		"name": "Vogelsanger,Nicolas",
 		"country": "SUI",
@@ -44506,6 +44523,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1322974,
+		"name": "Kopp, Guenter",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1734,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1335243,
 		"name": "Mikic, Sacha",
 		"country": "SUI",
@@ -44535,6 +44569,23 @@
 		"k": 20,
 		"birthday": 2005,
 		"flag": "i",
+		"rating_standard": 1734,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1315692,
+		"name": "Rudin, Erich",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1947,
+		"flag": "",
 		"rating_standard": 1734,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -44574,23 +44625,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1322974,
-		"name": "Kopp, Guenter",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "",
-		"rating_standard": 1733,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1301144,
 		"name": "Krug, Harald",
 		"country": "SUI",
@@ -44623,57 +44657,6 @@
 		"rating_standard": 1733,
 		"rating_rapid": 1856,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1315692,
-		"name": "Rudin, Erich",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "",
-		"rating_standard": 1733,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1361791,
-		"name": "Schmidts, Fabian",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1992,
-		"flag": "",
-		"rating_standard": 1733,
-		"rating_rapid": null,
-		"rating_blitz": 1631
-	},
-	{
-		"fideid": 1316770,
-		"name": "Ulmann, Olivier",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1733,
-		"rating_rapid": 1790,
-		"rating_blitz": 1843
 	},
 	{
 		"fideid": 1313100,
@@ -44727,8 +44710,8 @@
 		"rating_blitz": 1648
 	},
 	{
-		"fideid": 1372424,
-		"name": "Venetz, Elias",
+		"fideid": 1361791,
+		"name": "Schmidts, Fabian",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
@@ -44737,11 +44720,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1997,
+		"birthday": 1992,
 		"flag": "",
 		"rating_standard": 1732,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1631
 	},
 	{
 		"fideid": 1364138,
@@ -44846,23 +44829,6 @@
 		"rating_blitz": 1701
 	},
 	{
-		"fideid": 1364375,
-		"name": "Thorens, Johan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1731,
-		"rating_rapid": 1704,
-		"rating_blitz": 1563
-	},
-	{
 		"fideid": 1347950,
 		"name": "Tramacere, Dean",
 		"country": "SUI",
@@ -44875,6 +44841,23 @@
 		"k": 40,
 		"birthday": 1993,
 		"flag": "i",
+		"rating_standard": 1731,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1372424,
+		"name": "Venetz, Elias",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
 		"rating_standard": 1731,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -44897,21 +44880,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1351320,
-		"name": "Gramling, Lionel",
+		"fideid": 1314807,
+		"name": "Bonferroni, Carlo",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2014,
+		"games": 5,
+		"k": 20,
+		"birthday": 1957,
 		"flag": "",
 		"rating_standard": 1730,
-		"rating_rapid": 1670,
-		"rating_blitz": null
+		"rating_rapid": 1889,
+		"rating_blitz": 1781
 	},
 	{
 		"fideid": 1317717,
@@ -44965,6 +44948,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1364375,
+		"name": "Thorens, Johan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1730,
+		"rating_rapid": 1703,
+		"rating_blitz": 1562
+	},
+	{
 		"fideid": 1340085,
 		"name": "Zeller, Michael",
 		"country": "SUI",
@@ -44999,21 +44999,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1314807,
-		"name": "Bonferroni, Carlo",
+		"fideid": 1351320,
+		"name": "Gramling, Lionel",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1957,
+		"games": 2,
+		"k": 40,
+		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1729,
-		"rating_rapid": 1889,
-		"rating_blitz": 1781
+		"rating_rapid": 1670,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1315277,
@@ -45557,24 +45557,7 @@
 		"flag": "",
 		"rating_standard": 1725,
 		"rating_rapid": 1544,
-		"rating_blitz": 1733
-	},
-	{
-		"fideid": 1360264,
-		"name": "Orel, Erol",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 1725,
-		"rating_rapid": 1718,
-		"rating_blitz": 1789
+		"rating_blitz": 1734
 	},
 	{
 		"fideid": 1340832,
@@ -45611,21 +45594,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1311719,
-		"name": "Ait Benbrahim, Mohamed",
+		"fideid": 1357492,
+		"name": "Bachmann, Daniel",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 5,
 		"k": 20,
-		"birthday": 1965,
+		"birthday": 1978,
 		"flag": "",
 		"rating_standard": 1724,
-		"rating_rapid": null,
-		"rating_blitz": 1760
+		"rating_rapid": 1786,
+		"rating_blitz": 1668
 	},
 	{
 		"fideid": 1326260,
@@ -45730,6 +45713,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1360264,
+		"name": "Orel, Erol",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1724,
+		"rating_rapid": 1718,
+		"rating_blitz": 1789
+	},
+	{
 		"fideid": 1333330,
 		"name": "Pecorini, Bryan",
 		"country": "SUI",
@@ -45798,21 +45798,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1357492,
-		"name": "Bachmann, Daniel",
+		"fideid": 1311719,
+		"name": "Ait Benbrahim, Mohamed",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "",
 		"games": 5,
 		"k": 20,
-		"birthday": 1978,
+		"birthday": 1965,
 		"flag": "",
 		"rating_standard": 1723,
-		"rating_rapid": 1786,
-		"rating_blitz": 1668
+		"rating_rapid": null,
+		"rating_blitz": 1760
 	},
 	{
 		"fideid": 1338234,
@@ -46036,23 +46036,6 @@
 		"rating_blitz": 1787
 	},
 	{
-		"fideid": 1364146,
-		"name": "Zumbrunn, Simon",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1721,
-		"rating_rapid": null,
-		"rating_blitz": 1808
-	},
-	{
 		"fideid": 1354302,
 		"name": "Belmadani, Naim",
 		"country": "SUI",
@@ -46153,6 +46136,23 @@
 		"rating_standard": 1720,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1364146,
+		"name": "Zumbrunn, Simon",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1720,
+		"rating_rapid": null,
+		"rating_blitz": 1808
 	},
 	{
 		"fideid": 1326252,
@@ -46325,6 +46325,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1317423,
+		"name": "Funk, Kurt",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1950,
+		"flag": "",
+		"rating_standard": 1718,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1301039,
 		"name": "Gotti, Nicola",
 		"country": "SUI",
@@ -46336,23 +46353,6 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1718,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1374206,
-		"name": "Hugelshofer, Martin",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1949,
 		"flag": "",
 		"rating_standard": 1718,
 		"rating_rapid": null,
@@ -46407,6 +46407,23 @@
 		"flag": "",
 		"rating_standard": 1717,
 		"rating_rapid": 1755,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1374206,
+		"name": "Hugelshofer, Martin",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1949,
+		"flag": "",
+		"rating_standard": 1717,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -46490,23 +46507,6 @@
 		"k": 40,
 		"birthday": 1956,
 		"flag": "i",
-		"rating_standard": 1716,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1317423,
-		"name": "Funk, Kurt",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1950,
-		"flag": "",
 		"rating_standard": 1716,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -47107,6 +47107,23 @@
 		"rating_blitz": 1726
 	},
 	{
+		"fideid": 1317482,
+		"name": "Loeffler, Helmut",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1709,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1352865,
 		"name": "Lopez Barreto, Bruno",
 		"country": "SUI",
@@ -47374,23 +47391,6 @@
 		"k": 40,
 		"birthday": 2004,
 		"flag": "i",
-		"rating_standard": 1707,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1317482,
-		"name": "Loeffler, Helmut",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
 		"rating_standard": 1707,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -47957,6 +47957,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1355406,
+		"name": "Broennimann, Pascal",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1701,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1305700,
 		"name": "Kesselring, Rene",
 		"country": "SUI",
@@ -48057,23 +48074,6 @@
 		"rating_standard": 1700,
 		"rating_rapid": 1670,
 		"rating_blitz": 1772
-	},
-	{
-		"fideid": 1355406,
-		"name": "Broennimann, Pascal",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1700,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 1315811,
@@ -48178,40 +48178,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1369253,
-		"name": "Bucher, Rene",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1698,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1361945,
-		"name": "Fokina, Nika",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1698,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1323423,
 		"name": "Lachat, Martin",
 		"country": "SUI",
@@ -48289,6 +48255,23 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
+		"k": 40,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1697,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1369253,
+		"name": "Bucher, Rene",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
 		"k": 40,
 		"birthday": 1960,
 		"flag": "",
@@ -48416,23 +48399,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1310461,
-		"name": "Devaud, Thierry",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1696,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1357069,
 		"name": "Favey, Theo",
 		"country": "SUI",
@@ -48518,6 +48484,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1309803,
+		"name": "Suwendo, Poedjo",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1942,
+		"flag": "",
+		"rating_standard": 1696,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1342886,
 		"name": "Wehrli, Mauro",
 		"country": "SUI",
@@ -48532,6 +48515,23 @@
 		"flag": "i",
 		"rating_standard": 1696,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1361449,
+		"name": "Burri, Nicolas",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": 1695,
+		"rating_rapid": 1710,
 		"rating_blitz": null
 	},
 	{
@@ -48552,6 +48552,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1310461,
+		"name": "Devaud, Thierry",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1361945,
+		"name": "Fokina, Nika",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1695,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1332481,
 		"name": "Hanzal, Alex",
 		"country": "SUI",
@@ -48567,6 +48601,23 @@
 		"rating_standard": 1695,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1344919,
+		"name": "Jaggy, Enzo",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1682,
+		"rating_blitz": 1762
 	},
 	{
 		"fideid": 1362321,
@@ -48722,6 +48773,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1329790,
+		"name": "Steinmann, Peter",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 1694,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1319752,
 		"name": "Adam, Peter",
 		"country": "SUI",
@@ -48753,23 +48821,6 @@
 		"flag": "",
 		"rating_standard": 1693,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1361449,
-		"name": "Burri, Nicolas",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": 1693,
-		"rating_rapid": 1709,
 		"rating_blitz": null
 	},
 	{
@@ -48870,43 +48921,9 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1693,
+		"rating_standard": 1692,
 		"rating_rapid": null,
 		"rating_blitz": 1574
-	},
-	{
-		"fideid": 1329790,
-		"name": "Steinmann, Peter",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": 1693,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1344919,
-		"name": "Jaggy, Enzo",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1692,
-		"rating_rapid": 1682,
-		"rating_blitz": 1762
 	},
 	{
 		"fideid": 1353985,
@@ -48939,23 +48956,6 @@
 		"birthday": 1961,
 		"flag": "",
 		"rating_standard": 1692,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1309803,
-		"name": "Suwendo, Poedjo",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1942,
-		"flag": "",
-		"rating_standard": 1691,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -49164,6 +49164,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1323857,
+		"name": "Enderli, Roland",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1688,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1351656,
 		"name": "Jegge, Arthur",
 		"country": "SUI",
@@ -49278,23 +49295,6 @@
 		"k": 40,
 		"birthday": 1996,
 		"flag": "i",
-		"rating_standard": 1687,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1323857,
-		"name": "Enderli, Roland",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
 		"rating_standard": 1687,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -49467,7 +49467,7 @@
 		"flag": "",
 		"rating_standard": 1685,
 		"rating_rapid": null,
-		"rating_blitz": 1544
+		"rating_blitz": 1545
 	},
 	{
 		"fideid": 1331523,
@@ -49567,6 +49567,23 @@
 		"k": 40,
 		"birthday": 1949,
 		"flag": "i",
+		"rating_standard": 1684,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1362917,
+		"name": "Schmidlin, Christian",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1969,
+		"flag": "",
 		"rating_standard": 1684,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -49742,6 +49759,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1352741,
+		"name": "Gong, Yansheng",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1681,
+		"rating_rapid": 1675,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1348574,
 		"name": "Greiner, Gabriel",
 		"country": "SUI",
@@ -49844,6 +49878,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1320157,
+		"name": "Zimmermann, Stefan SUI",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1681,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1332376,
 		"name": "Berger, George",
 		"country": "SUI",
@@ -49858,23 +49909,6 @@
 		"flag": "",
 		"rating_standard": 1680,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1352741,
-		"name": "Gong, Yansheng",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1680,
-		"rating_rapid": 1675,
 		"rating_blitz": null
 	},
 	{
@@ -49912,6 +49946,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1368494,
+		"name": "Papageorgiou Martinella, Ilios",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1680,
+		"rating_rapid": 1666,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1344897,
 		"name": "Pedroli, Igor",
 		"country": "SUI",
@@ -49929,21 +49980,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1357395,
-		"name": "Baisse, Rose",
+		"fideid": 1320653,
+		"name": "Balsiger, Matthias",
 		"country": "SUI",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
+		"games": 0,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "",
 		"rating_standard": 1679,
-		"rating_rapid": 1638,
-		"rating_blitz": 1646
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1354337,
@@ -49963,23 +50014,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1349112,
-		"name": "Isler, Manuel",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1679,
-		"rating_rapid": 1542,
-		"rating_blitz": 1639
-	},
-	{
 		"fideid": 1361856,
 		"name": "Spichty, Martin",
 		"country": "SUI",
@@ -49997,21 +50031,21 @@
 		"rating_blitz": 1827
 	},
 	{
-		"fideid": 1320157,
-		"name": "Zimmermann, Stefan SUI",
+		"fideid": 1357395,
+		"name": "Baisse, Rose",
 		"country": "SUI",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1679,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1678,
+		"rating_rapid": 1639,
+		"rating_blitz": 1647
 	},
 	{
 		"fideid": 1314793,
@@ -50061,40 +50095,6 @@
 		"birthday": 1960,
 		"flag": "wi",
 		"rating_standard": 1678,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1362372,
-		"name": "Pachet, Noah",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1678,
-		"rating_rapid": 1626,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1320653,
-		"name": "Balsiger, Matthias",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 1677,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -50150,6 +50150,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1362372,
+		"name": "Pachet, Noah",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1677,
+		"rating_rapid": 1625,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1347012,
 		"name": "Stark, Jeremias",
 		"country": "SUI",
@@ -50201,6 +50218,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1349112,
+		"name": "Isler, Manuel",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1676,
+		"rating_rapid": 1542,
+		"rating_blitz": 1639
+	},
+	{
 		"fideid": 1342088,
 		"name": "Thillaivasan, Alexander",
 		"country": "SUI",
@@ -50233,6 +50267,23 @@
 		"rating_standard": 1675,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1368125,
+		"name": "Barros, Gustavo",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1675,
+		"rating_rapid": null,
+		"rating_blitz": 1681
 	},
 	{
 		"fideid": 1325051,
@@ -50354,40 +50405,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1368125,
-		"name": "Barros, Gustavo",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1674,
-		"rating_rapid": null,
-		"rating_blitz": 1681
-	},
-	{
-		"fideid": 1351451,
-		"name": "Christen, Mathis",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1674,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1352083,
 		"name": "Hickey, Jose",
 		"country": "SUI",
@@ -50439,6 +50456,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1351451,
+		"name": "Christen, Mathis",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1673,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1306880,
 		"name": "Dintheer, Urs",
 		"country": "SUI",
@@ -50471,23 +50505,6 @@
 		"rating_standard": 1673,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1320041,
-		"name": "Wild, Beat",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1953,
-		"flag": "",
-		"rating_standard": 1673,
-		"rating_rapid": 1745,
-		"rating_blitz": 1634
 	},
 	{
 		"fideid": 1351311,
@@ -50573,6 +50590,23 @@
 		"rating_standard": 1672,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1320041,
+		"name": "Wild, Beat",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1953,
+		"flag": "",
+		"rating_standard": 1672,
+		"rating_rapid": 1745,
+		"rating_blitz": 1633
 	},
 	{
 		"fideid": 1355759,
@@ -50827,7 +50861,7 @@
 		"flag": "i",
 		"rating_standard": 1668,
 		"rating_rapid": 1671,
-		"rating_blitz": 1768
+		"rating_blitz": 1767
 	},
 	{
 		"fideid": 1364588,
@@ -50864,23 +50898,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1368494,
-		"name": "Papageorgiou Martinella, Ilios",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1668,
-		"rating_rapid": 1665,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1301721,
 		"name": "Reichelmeier, Rudolf",
 		"country": "SUI",
@@ -50893,23 +50910,6 @@
 		"k": 40,
 		"birthday": 1943,
 		"flag": "i",
-		"rating_standard": 1668,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1362917,
-		"name": "Schmidlin, Christian",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1969,
-		"flag": "",
 		"rating_standard": 1668,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -51459,6 +51459,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1364251,
+		"name": "Miesenberger, Arne",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1662,
+		"rating_rapid": 1709,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1347144,
 		"name": "Newsome, Max",
 		"country": "SUI",
@@ -51680,23 +51697,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1373315,
-		"name": "Sasikaran, Sarwin",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1659,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1342940,
 		"name": "Schmidt, Timo",
 		"country": "SUI",
@@ -51748,6 +51748,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1366785,
+		"name": "Miro Hoppe, Nils",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1658,
+		"rating_rapid": 1785,
+		"rating_blitz": 1701
+	},
+	{
 		"fideid": 1356879,
 		"name": "Racalbuto, Anthony",
 		"country": "SUI",
@@ -51760,6 +51777,23 @@
 		"k": 40,
 		"birthday": 1992,
 		"flag": "i",
+		"rating_standard": 1658,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1373315,
+		"name": "Sasikaran, Sarwin",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
 		"rating_standard": 1658,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -51779,23 +51813,6 @@
 		"flag": "i",
 		"rating_standard": 1657,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1364251,
-		"name": "Miesenberger, Arne",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1657,
-		"rating_rapid": 1708,
 		"rating_blitz": null
 	},
 	{
@@ -51848,23 +51865,6 @@
 		"rating_standard": 1656,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1366785,
-		"name": "Miro Hoppe, Nils",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1656,
-		"rating_rapid": 1785,
-		"rating_blitz": 1701
 	},
 	{
 		"fideid": 1357174,
@@ -52122,6 +52122,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1301136,
+		"name": "Juchler, Celine",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "w",
+		"rating_standard": 1653,
+		"rating_rapid": 1729,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1336185,
 		"name": "Liembd,Kurt",
 		"country": "SUI",
@@ -52207,23 +52224,6 @@
 		"rating_blitz": 1724
 	},
 	{
-		"fideid": 1301136,
-		"name": "Juchler, Celine",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "w",
-		"rating_standard": 1651,
-		"rating_rapid": 1729,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1367510,
 		"name": "Mazzeo, Luigi",
 		"country": "SUI",
@@ -52256,23 +52256,6 @@
 		"rating_standard": 1651,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1352237,
-		"name": "Saranbaatar, Telmen",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1651,
-		"rating_rapid": 1534,
-		"rating_blitz": 1544
 	},
 	{
 		"fideid": 1333402,
@@ -52530,6 +52513,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1352237,
+		"name": "Saranbaatar, Telmen",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1648,
+		"rating_rapid": 1534,
+		"rating_blitz": 1544
+	},
+	{
 		"fideid": 1339907,
 		"name": "Virovets, Lev",
 		"country": "SUI",
@@ -52700,23 +52700,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1365517,
-		"name": "Daghe Pierre",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1646,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1332953,
 		"name": "Duelli-Loher, Karl",
 		"country": "SUI",
@@ -52836,20 +52819,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1355899,
-		"name": "Bartlome, Dimitri",
+		"fideid": 1365517,
+		"name": "Daghe Pierre",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
-		"birthday": 2002,
+		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1645,
-		"rating_rapid": 1744,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -52952,6 +52935,40 @@
 		"flag": "w",
 		"rating_standard": 1645,
 		"rating_rapid": 1642,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1355899,
+		"name": "Bartlome, Dimitri",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1644,
+		"rating_rapid": 1744,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1317644,
+		"name": "Bonvin, Claude-Alain",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "",
+		"rating_standard": 1644,
+		"rating_rapid": 1728,
 		"rating_blitz": null
 	},
 	{
@@ -53088,23 +53105,6 @@
 		"flag": "",
 		"rating_standard": 1643,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1317644,
-		"name": "Bonvin, Claude-Alain",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "",
-		"rating_standard": 1643,
-		"rating_rapid": 1728,
 		"rating_blitz": null
 	},
 	{
@@ -53703,23 +53703,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1360752,
-		"name": "Groux, Mathias",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 1636,
-		"rating_rapid": 1771,
-		"rating_blitz": 1680
-	},
-	{
 		"fideid": 1366505,
 		"name": "Levrat, Thibault",
 		"country": "SUI",
@@ -53754,23 +53737,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1353527,
-		"name": "Frachebourg, Quentin",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1635,
-		"rating_rapid": 1626,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1326279,
 		"name": "Gollut, Florian",
 		"country": "SUI",
@@ -53786,6 +53752,23 @@
 		"rating_standard": 1635,
 		"rating_rapid": 1685,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1360752,
+		"name": "Groux, Mathias",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1635,
+		"rating_rapid": 1770,
+		"rating_blitz": 1680
 	},
 	{
 		"fideid": 1329405,
@@ -53819,6 +53802,23 @@
 		"flag": "",
 		"rating_standard": 1634,
 		"rating_rapid": 1802,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1353527,
+		"name": "Frachebourg, Quentin",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1634,
+		"rating_rapid": 1626,
 		"rating_blitz": null
 	},
 	{
@@ -53873,20 +53873,20 @@
 		"rating_blitz": 1810
 	},
 	{
-		"fideid": 1368559,
-		"name": "Hajduk, Mariia",
+		"fideid": 1366041,
+		"name": "Keller, Mike",
 		"country": "SUI",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
-		"birthday": 1991,
-		"flag": "w",
+		"birthday": 2010,
+		"flag": "",
 		"rating_standard": 1633,
-		"rating_rapid": 1603,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -53975,6 +53975,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1368559,
+		"name": "Hajduk, Mariia",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "w",
+		"rating_standard": 1632,
+		"rating_rapid": 1602,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1356399,
 		"name": "Harte, Bernd",
 		"country": "SUI",
@@ -54003,23 +54020,6 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1944,
-		"flag": "",
-		"rating_standard": 1632,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1366041,
-		"name": "Keller, Mike",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1632,
 		"rating_rapid": null,
@@ -54107,8 +54107,8 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1632,
-		"rating_rapid": 1471,
-		"rating_blitz": 1415
+		"rating_rapid": 1470,
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 1343793,
@@ -54434,23 +54434,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1360841,
-		"name": "Betrisey, Claude",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1627,
-		"rating_rapid": 1651,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1327712,
 		"name": "Boschung, Jean-Daniel",
 		"country": "SUI",
@@ -54570,23 +54553,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1331922,
-		"name": "Dellenbach, Jean-Paul",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "",
-		"rating_standard": 1625,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1346784,
 		"name": "Eugster, Marco",
 		"country": "SUI",
@@ -54702,6 +54668,23 @@
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": 1625,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1331922,
+		"name": "Dellenbach, Jean-Paul",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "",
+		"rating_standard": 1624,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -54876,6 +54859,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1373366,
+		"name": "Doz, Marco",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1623,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1366289,
 		"name": "Guggisberg, Sebastian",
 		"country": "SUI",
@@ -54910,23 +54910,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1307010,
-		"name": "Muehlemann, Walter",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1943,
-		"flag": "",
-		"rating_standard": 1623,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1342363,
 		"name": "Mueller, Nick",
 		"country": "SUI",
@@ -54942,6 +54925,23 @@
 		"rating_standard": 1623,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 652051005,
+		"name": "Palmieri Maltsev, Leonard",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1623,
+		"rating_rapid": 1489,
+		"rating_blitz": 1513
 	},
 	{
 		"fideid": 1356836,
@@ -54961,23 +54961,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1359029,
-		"name": "Siegel, Felix",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1623,
-		"rating_rapid": 1500,
-		"rating_blitz": 1576
-	},
-	{
 		"fideid": 1372769,
 		"name": "Torlakovic, Ivan",
 		"country": "SUI",
@@ -54995,40 +54978,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 652051005,
-		"name": "Palmieri Maltsev, Leonard",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1622,
-		"rating_rapid": 1489,
-		"rating_blitz": 1533
-	},
-	{
-		"fideid": 1358170,
-		"name": "Udech, Timon",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1622,
-		"rating_rapid": null,
-		"rating_blitz": 1689
-	},
-	{
 		"fideid": 1361635,
 		"name": "Weekes, Jayden",
 		"country": "SUI",
@@ -55041,24 +54990,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1622,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1373366,
-		"name": "Doz, Marco",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1621,
+		"rating_standard": 1623,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -55144,7 +55076,7 @@
 		"birthday": 1965,
 		"flag": "w",
 		"rating_standard": 1620,
-		"rating_rapid": 1436,
+		"rating_rapid": 1439,
 		"rating_blitz": null
 	},
 	{
@@ -55250,6 +55182,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1358170,
+		"name": "Udech, Timon",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1620,
+		"rating_rapid": null,
+		"rating_blitz": 1689
+	},
+	{
 		"fideid": 1338226,
 		"name": "Unal, Daniel",
 		"country": "SUI",
@@ -55352,23 +55301,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1333690,
-		"name": "Schlegel, Thomas",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "",
-		"rating_standard": 1618,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1333950,
 		"name": "Flury, Walter",
 		"country": "SUI",
@@ -55415,6 +55347,23 @@
 		"k": 40,
 		"birthday": 1996,
 		"flag": "i",
+		"rating_standard": 1617,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1333690,
+		"name": "Schlegel, Thomas",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "",
 		"rating_standard": 1617,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -55485,6 +55434,23 @@
 		"flag": "",
 		"rating_standard": 1616,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1306600,
+		"name": "Mochfek, Mahmoud",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 1616,
+		"rating_rapid": 1612,
 		"rating_blitz": null
 	},
 	{
@@ -55573,21 +55539,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1306600,
-		"name": "Mochfek, Mahmoud",
+		"fideid": 1360841,
+		"name": "Betrisey, Claude",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 1,
 		"k": 40,
-		"birthday": 1962,
+		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1615,
-		"rating_rapid": 1611,
+		"rating_standard": 1614,
+		"rating_rapid": 1640,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1347179,
+		"name": "Bujes, Aurelien",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1614,
+		"rating_rapid": 1697,
+		"rating_blitz": 1808
 	},
 	{
 		"fideid": 1328697,
@@ -55624,23 +55607,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1347179,
-		"name": "Bujes, Aurelien",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1613,
-		"rating_rapid": 1697,
-		"rating_blitz": 1808
-	},
-	{
 		"fideid": 1351532,
 		"name": "Carnevale-Arella, Loic",
 		"country": "SUI",
@@ -55655,6 +55621,23 @@
 		"flag": "",
 		"rating_standard": 1613,
 		"rating_rapid": 1575,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1367471,
+		"name": "Khusainau, Dzmitry",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1613,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -55722,7 +55705,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1612,
-		"rating_rapid": 1510,
+		"rating_rapid": 1509,
 		"rating_blitz": null
 	},
 	{
@@ -55874,6 +55857,23 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "i",
+		"rating_standard": 1611,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1307010,
+		"name": "Muehlemann, Walter",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1943,
+		"flag": "",
 		"rating_standard": 1611,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -56083,23 +56083,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1367471,
-		"name": "Khusainau, Dzmitry",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 1608,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1363727,
 		"name": "Rossi, Patrick",
 		"country": "SUI",
@@ -56130,6 +56113,23 @@
 		"birthday": 1978,
 		"flag": "wi",
 		"rating_standard": 1608,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1374214,
+		"name": "Arm, Paul",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1936,
+		"flag": "",
+		"rating_standard": 1607,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -56182,6 +56182,23 @@
 		"flag": "",
 		"rating_standard": 1607,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 54754879,
+		"name": "Ruiz Servent, Marti",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1607,
+		"rating_rapid": 1612,
 		"rating_blitz": null
 	},
 	{
@@ -56270,23 +56287,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 54754879,
-		"name": "Ruiz Servent, Marti",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1606,
-		"rating_rapid": 1612,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1357018,
 		"name": "Szakolczai, Adam",
 		"country": "SUI",
@@ -56372,6 +56372,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1359029,
+		"name": "Siegel, Felix",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1604,
+		"rating_rapid": 1500,
+		"rating_blitz": 1579
+	},
+	{
 		"fideid": 1362526,
 		"name": "Thuering, Yannik",
 		"country": "SUI",
@@ -56385,23 +56402,6 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1604,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1374214,
-		"name": "Arm, Paul",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1936,
-		"flag": "",
-		"rating_standard": 1603,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -56525,6 +56525,23 @@
 		"rating_blitz": 1570
 	},
 	{
+		"fideid": 1353799,
+		"name": "Luethi, Evan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1602,
+		"rating_rapid": 1554,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1338633,
 		"name": "Pilz, Sebastian",
 		"country": "SUI",
@@ -56593,23 +56610,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 527027007,
-		"name": "Shama, Oleksandr",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1602,
-		"rating_rapid": 1565,
-		"rating_blitz": 1613
-	},
-	{
 		"fideid": 1360876,
 		"name": "Zumstein, Patrick",
 		"country": "SUI",
@@ -56661,38 +56661,21 @@
 		"rating_blitz": 1668
 	},
 	{
-		"fideid": 1353799,
-		"name": "Luethi, Evan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1601,
-		"rating_rapid": 1554,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 134179198,
-		"name": "Mapanao, Dionisio",
+		"fideid": 527027007,
+		"name": "Shama, Oleksandr",
 		"country": "SUI",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 2,
-		"k": 20,
-		"birthday": 1964,
+		"games": 3,
+		"k": 40,
+		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": 1552,
-		"rating_blitz": 1561
+		"rating_standard": 1601,
+		"rating_rapid": 1566,
+		"rating_blitz": 1612
 	},
 	{
 		"fideid": 1338595,
@@ -56710,6 +56693,23 @@
 		"rating_standard": 1599,
 		"rating_rapid": 1571,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 134179198,
+		"name": "Mapanao, Dionisio",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 2,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1599,
+		"rating_rapid": 1552,
+		"rating_blitz": 1561
 	},
 	{
 		"fideid": 1324691,
@@ -56743,23 +56743,6 @@
 		"flag": "",
 		"rating_standard": 1598,
 		"rating_rapid": 1587,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1351958,
-		"name": "Zimmermann, Stephan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": 1597,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -56809,6 +56792,23 @@
 		"k": 40,
 		"birthday": 1956,
 		"flag": "i",
+		"rating_standard": 1596,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1351958,
+		"name": "Zimmermann, Stephan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1970,
+		"flag": "",
 		"rating_standard": 1596,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -56882,23 +56882,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1348507,
-		"name": "Schaumberger, Lilly",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1595,
-		"rating_rapid": 1624,
-		"rating_blitz": 1520
-	},
-	{
 		"fideid": 1327950,
 		"name": "Goldie, Eva",
 		"country": "SUI",
@@ -56948,6 +56931,23 @@
 		"rating_standard": 1594,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1348507,
+		"name": "Schaumberger, Lilly",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1594,
+		"rating_rapid": 1624,
+		"rating_blitz": 1519
 	},
 	{
 		"fideid": 1352610,
@@ -57001,6 +57001,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1334158,
+		"name": "Gertsch, Heinz",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1947,
+		"flag": "i",
+		"rating_standard": 1593,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1362488,
 		"name": "Koehler, Noe",
 		"country": "SUI",
@@ -57047,6 +57064,23 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "i",
+		"rating_standard": 1593,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1307525,
+		"name": "Sprenger, Paul",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1944,
+		"flag": "",
 		"rating_standard": 1593,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -57137,23 +57171,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1364596,
-		"name": "Guyot, Maurice",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1592,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1338722,
 		"name": "Richter, Benjamin",
 		"country": "SUI",
@@ -57182,23 +57199,6 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1592,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1307525,
-		"name": "Sprenger, Paul",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1944,
 		"flag": "",
 		"rating_standard": 1592,
 		"rating_rapid": null,
@@ -57254,6 +57254,23 @@
 		"rating_standard": 1591,
 		"rating_rapid": null,
 		"rating_blitz": 1584
+	},
+	{
+		"fideid": 1364596,
+		"name": "Guyot, Maurice",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1591,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1325507,
@@ -57477,23 +57494,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1351460,
-		"name": "Zvoristeanu, Remo",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1589,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1340476,
 		"name": "Bruessow, Johanna",
 		"country": "SUI",
@@ -57506,23 +57506,6 @@
 		"k": 20,
 		"birthday": 2005,
 		"flag": "wi",
-		"rating_standard": 1588,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1334158,
-		"name": "Gertsch, Heinz",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "i",
 		"rating_standard": 1588,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -57715,6 +57698,23 @@
 		"rating_blitz": 1608
 	},
 	{
+		"fideid": 1351460,
+		"name": "Zvoristeanu, Remo",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1587,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1346920,
 		"name": "Jakob, Dominic",
 		"country": "SUI",
@@ -57745,7 +57745,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1586,
-		"rating_rapid": 1578,
+		"rating_rapid": 1579,
 		"rating_blitz": 1552
 	},
 	{
@@ -57798,6 +57798,23 @@
 		"rating_standard": 1585,
 		"rating_rapid": null,
 		"rating_blitz": 1517
+	},
+	{
+		"fideid": 1328891,
+		"name": "Cauderay, Philippe",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1950,
+		"flag": "",
+		"rating_standard": 1585,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1328808,
@@ -57970,6 +57987,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1346008,
+		"name": "Begdullayeva, Diana",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1582,
+		"rating_rapid": 1561,
+		"rating_blitz": 1593
+	},
+	{
 		"fideid": 1345710,
 		"name": "Dueck, Sebastian",
 		"country": "SUI",
@@ -58002,23 +58036,6 @@
 		"rating_standard": 1582,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1346008,
-		"name": "Begdullayeva, Diana",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1581,
-		"rating_rapid": 1561,
-		"rating_blitz": 1593
 	},
 	{
 		"fideid": 1343831,
@@ -58089,23 +58106,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1328891,
-		"name": "Cauderay, Philippe",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1950,
-		"flag": "",
-		"rating_standard": 1580,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1337084,
 		"name": "Stroo, Kees",
 		"country": "SUI",
@@ -58140,23 +58140,6 @@
 		"rating_blitz": 1685
 	},
 	{
-		"fideid": 1322079,
-		"name": "Kuich, Gero",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1942,
-		"flag": "",
-		"rating_standard": 1579,
-		"rating_rapid": 1584,
-		"rating_blitz": 1706
-	},
-	{
 		"fideid": 1355767,
 		"name": "Navarro, Bryan",
 		"country": "SUI",
@@ -58189,23 +58172,6 @@
 		"rating_standard": 1579,
 		"rating_rapid": 1667,
 		"rating_blitz": 1714
-	},
-	{
-		"fideid": 1362020,
-		"name": "Kenani, Stanley Onjezani",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1976,
-		"flag": "i",
-		"rating_standard": 1578,
-		"rating_rapid": 1669,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 1356755,
@@ -58270,23 +58236,6 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1949,
-		"flag": "",
-		"rating_standard": 1577,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1363395,
-		"name": "Eykher, Leo",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1577,
 		"rating_rapid": null,
@@ -58463,6 +58412,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1322079,
+		"name": "Kuich, Gero",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1942,
+		"flag": "",
+		"rating_standard": 1574,
+		"rating_rapid": 1583,
+		"rating_blitz": 1706
+	},
+	{
 		"fideid": 1361147,
 		"name": "Rathgeb, Ilja",
 		"country": "SUI",
@@ -58497,40 +58463,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1344056,
-		"name": "Bruessow, Oliver",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1573,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1337785,
-		"name": "Farner, Ruedi",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1573,
-		"rating_rapid": 1490,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1351788,
 		"name": "Jelicic, Adrien",
 		"country": "SUI",
@@ -58545,23 +58477,6 @@
 		"flag": "",
 		"rating_standard": 1573,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1350579,
-		"name": "Martin, Aaron",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": 1573,
-		"rating_rapid": 1485,
 		"rating_blitz": null
 	},
 	{
@@ -58633,6 +58548,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1350579,
+		"name": "Martin, Aaron",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": 1572,
+		"rating_rapid": 1485,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1363921,
 		"name": "Mueller, Yanik",
 		"country": "SUI",
@@ -58681,7 +58613,7 @@
 		"flag": "",
 		"rating_standard": 1571,
 		"rating_rapid": 1663,
-		"rating_blitz": 1694
+		"rating_blitz": 1693
 	},
 	{
 		"fideid": 1348680,
@@ -58718,6 +58650,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1343050,
+		"name": "Vrkljan, Petar",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1935,
+		"flag": "",
+		"rating_standard": 1571,
+		"rating_rapid": null,
+		"rating_blitz": 1731
+	},
+	{
 		"fideid": 1365436,
 		"name": "Balthesen Julian",
 		"country": "SUI",
@@ -58749,6 +58698,23 @@
 		"flag": "i",
 		"rating_standard": 1570,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1362020,
+		"name": "Kenani, Stanley Onjezani",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1976,
+		"flag": "i",
+		"rating_standard": 1570,
+		"rating_rapid": 1669,
 		"rating_blitz": null
 	},
 	{
@@ -58786,23 +58752,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1343050,
-		"name": "Vrkljan, Petar",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 1935,
-		"flag": "",
-		"rating_standard": 1570,
-		"rating_rapid": null,
-		"rating_blitz": 1731
-	},
-	{
 		"fideid": 1359851,
 		"name": "Camponovo, Daniele",
 		"country": "SUI",
@@ -58837,6 +58786,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1363905,
+		"name": "Kloter, Elijah",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1568,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1356259,
 		"name": "Salvadori, Daniele",
 		"country": "SUI",
@@ -58850,6 +58816,23 @@
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": 1568,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1344056,
+		"name": "Bruessow, Oliver",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1567,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -58869,23 +58852,6 @@
 		"rating_standard": 1567,
 		"rating_rapid": 1516,
 		"rating_blitz": 1560
-	},
-	{
-		"fideid": 1363905,
-		"name": "Kloter, Elijah",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1567,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 1361260,
@@ -59007,6 +58973,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1363395,
+		"name": "Eykher, Leo",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1565,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1352466,
 		"name": "Settegrana, Miro",
 		"country": "SUI",
@@ -59056,23 +59039,6 @@
 		"rating_standard": 1564,
 		"rating_rapid": 1537,
 		"rating_blitz": 1575
-	},
-	{
-		"fideid": 1349392,
-		"name": "Shahmammadli, Ramiz",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1564,
-		"rating_rapid": 1501,
-		"rating_blitz": 1440
 	},
 	{
 		"fideid": 1363573,
@@ -59160,6 +59126,23 @@
 		"rating_blitz": 1601
 	},
 	{
+		"fideid": 1337785,
+		"name": "Farner, Ruedi",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1561,
+		"rating_rapid": 1490,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1361309,
 		"name": "Gubler, Daniel",
 		"country": "SUI",
@@ -59228,6 +59211,23 @@
 		"rating_blitz": 1728
 	},
 	{
+		"fideid": 1353780,
+		"name": "Csonka, Huba",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1560,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1341987,
 		"name": "Rajendiram, Rajithan",
 		"country": "SUI",
@@ -59279,23 +59279,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1353780,
-		"name": "Csonka, Huba",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1559,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1337149,
 		"name": "Kurapov, Denis",
 		"country": "SUI",
@@ -59311,6 +59294,23 @@
 		"rating_standard": 1559,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1349392,
+		"name": "Shahmammadli, Ramiz",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1559,
+		"rating_rapid": 1507,
+		"rating_blitz": 1438
 	},
 	{
 		"fideid": 134112484,
@@ -59381,23 +59381,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1361643,
-		"name": "Nazarenus, Sofie",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1558,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1340379,
 		"name": "Umbach, Joel",
 		"country": "SUI",
@@ -59427,6 +59410,23 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
+		"rating_standard": 1557,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1361643,
+		"name": "Nazarenus, Sofie",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
 		"rating_standard": 1557,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -59568,6 +59568,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1371851,
+		"name": "Krivoviaz, Nina",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1554,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1361210,
 		"name": "Martin, Benoit",
 		"country": "SUI",
@@ -59701,23 +59718,6 @@
 		"flag": "i",
 		"rating_standard": 1551,
 		"rating_rapid": 1593,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1371851,
-		"name": "Krivoviaz, Nina",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1551,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -60180,23 +60180,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1339559,
-		"name": "Jagtiani, Philippe",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1975,
-		"flag": "i",
-		"rating_standard": 1543,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1338560,
 		"name": "Noel, Alienor",
 		"country": "SUI",
@@ -60328,8 +60311,25 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1540,
+		"rating_standard": 1541,
 		"rating_rapid": 1597,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1339559,
+		"name": "Jagtiani, Philippe",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1975,
+		"flag": "i",
+		"rating_standard": 1540,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -60554,6 +60554,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1376195,
+		"name": "Polymeris, Alex",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1939,
+		"flag": "",
+		"rating_standard": 1534,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1357905,
 		"name": "Seiler, Gerhard",
 		"country": "SUI",
@@ -60605,23 +60622,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1359231,
-		"name": "Moss, Robin",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1531,
-		"rating_rapid": 1623,
-		"rating_blitz": 1516
-	},
-	{
 		"fideid": 1353179,
 		"name": "Naef Schmid, Ianto",
 		"country": "SUI",
@@ -60633,23 +60633,6 @@
 		"games": 4,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1531,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1376195,
-		"name": "Polymeris, Alex",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 1939,
 		"flag": "",
 		"rating_standard": 1531,
 		"rating_rapid": null,
@@ -60690,6 +60673,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1359231,
+		"name": "Moss, Robin",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1530,
+		"rating_rapid": 1623,
+		"rating_blitz": 1516
+	},
+	{
 		"fideid": 1337750,
 		"name": "Buerki, Julian",
 		"country": "SUI",
@@ -60702,23 +60702,6 @@
 		"k": 40,
 		"birthday": 2003,
 		"flag": "i",
-		"rating_standard": 1529,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1350013,
-		"name": "Jenni, Didier",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 1963,
-		"flag": "",
 		"rating_standard": 1529,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -60775,23 +60758,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1356631,
-		"name": "Duquette, Edgar",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1527,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1359533,
 		"name": "Kwisda, Phinnaeus",
 		"country": "SUI",
@@ -60838,6 +60804,23 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "i",
+		"rating_standard": 1526,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1350013,
+		"name": "Jenni, Didier",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1963,
+		"flag": "",
 		"rating_standard": 1526,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -60958,7 +60941,24 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1525,
-		"rating_rapid": 1595,
+		"rating_rapid": 1596,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1356631,
+		"name": "Duquette, Edgar",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": 1524,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -61098,23 +61098,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1335880,
-		"name": "Lang, Gabriela",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1970,
-		"flag": "w",
-		"rating_standard": 1522,
-		"rating_rapid": 1518,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1361724,
 		"name": "Leone, Thomas",
 		"country": "SUI",
@@ -61200,6 +61183,23 @@
 		"rating_blitz": 1539
 	},
 	{
+		"fideid": 1335880,
+		"name": "Lang, Gabriela",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "w",
+		"rating_standard": 1521,
+		"rating_rapid": 1517,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1370960,
 		"name": "Dinerchtein, Elie",
 		"country": "SUI",
@@ -61234,6 +61234,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1365444,
+		"name": "Inescu Iulian",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": 1520,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1360663,
 		"name": "Sokol, Dennis",
 		"country": "SUI",
@@ -61247,7 +61264,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1520,
-		"rating_rapid": 1572,
+		"rating_rapid": 1560,
 		"rating_blitz": 1489
 	},
 	{
@@ -61268,40 +61285,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1363549,
-		"name": "Zorman, Sylvain",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 1520,
-		"rating_rapid": null,
-		"rating_blitz": 1494
-	},
-	{
-		"fideid": 1365444,
-		"name": "Inescu Iulian",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": 1519,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1338870,
 		"name": "Spichtig, Noe",
 		"country": "SUI",
@@ -61317,6 +61300,23 @@
 		"rating_standard": 1519,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1363549,
+		"name": "Zorman, Sylvain",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1519,
+		"rating_rapid": null,
+		"rating_blitz": 1494
 	},
 	{
 		"fideid": 1341294,
@@ -61536,7 +61536,7 @@
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": 1513,
-		"rating_rapid": 1477,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -61625,6 +61625,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1365878,
+		"name": "Sbraccia, Luigi",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1512,
+		"rating_rapid": 1530,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1345770,
+		"name": "Filli, Claude",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1960,
+		"flag": "",
+		"rating_standard": 1511,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1352180,
 		"name": "Fromm, Vincent",
 		"country": "SUI",
@@ -61671,25 +61705,8 @@
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
-		"rating_standard": 1509,
+		"rating_standard": 1510,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1365878,
-		"name": "Sbraccia, Luigi",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1509,
-		"rating_rapid": 1528,
 		"rating_blitz": null
 	},
 	{
@@ -61705,7 +61722,7 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1509,
+		"rating_standard": 1510,
 		"rating_rapid": 1561,
 		"rating_blitz": 1513
 	},
@@ -61761,6 +61778,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21082286,
+		"name": "Krokowski-Bednarz, Leon",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1506,
+		"rating_rapid": 1489,
+		"rating_blitz": 1521
+	},
+	{
 		"fideid": 1363956,
 		"name": "Posch, Jasmin",
 		"country": "SUI",
@@ -61810,23 +61844,6 @@
 		"rating_standard": 1505,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 21082286,
-		"name": "Krokowski-Bednarz, Leon",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1505,
-		"rating_rapid": 1489,
-		"rating_blitz": 1521
 	},
 	{
 		"fideid": 1324705,
@@ -61880,6 +61897,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1351842,
+		"name": "Peeters, Nino",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1504,
+		"rating_rapid": null,
+		"rating_blitz": 1532
+	},
+	{
 		"fideid": 1356607,
 		"name": "Mitri, Bogdan",
 		"country": "SUI",
@@ -61895,23 +61929,6 @@
 		"rating_standard": 1503,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 1351842,
-		"name": "Peeters, Nino",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1503,
-		"rating_rapid": null,
-		"rating_blitz": 1532
 	},
 	{
 		"fideid": 1306758,
@@ -62101,6 +62118,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1364090,
+		"name": "Vakonakis, Ioannis",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1977,
+		"flag": "i",
+		"rating_standard": 1500,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 51699133,
+		"name": "Ar, Kaan",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1498,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1343610,
 		"name": "Soghbatyan, Serge",
 		"country": "SUI",
@@ -62131,23 +62182,6 @@
 		"birthday": 1980,
 		"flag": "i",
 		"rating_standard": 1498,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 51699133,
-		"name": "Ar, Kaan",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1497,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -62186,23 +62220,6 @@
 		"rating_blitz": 1616
 	},
 	{
-		"fideid": 1364090,
-		"name": "Vakonakis, Ioannis",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1977,
-		"flag": "i",
-		"rating_standard": 1495,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1347454,
 		"name": "El Meligy, Mazin",
 		"country": "SUI",
@@ -62217,23 +62234,6 @@
 		"flag": "i",
 		"rating_standard": 1494,
 		"rating_rapid": 1470,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1345770,
-		"name": "Filli, Claude",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1494,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -62339,6 +62339,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1366378,
+		"name": "Ort, Marianne",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1953,
+		"flag": "w",
+		"rating_standard": 1491,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1334824,
 		"name": "Temir, Munara",
 		"country": "SUI",
@@ -62407,23 +62424,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1366378,
-		"name": "Ort, Marianne",
-		"country": "SUI",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1953,
-		"flag": "w",
-		"rating_standard": 1487,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1356577,
 		"name": "Morina, Luan",
 		"country": "SUI",
@@ -62458,23 +62458,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1351575,
-		"name": "Mansi, Vincent",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1485,
-		"rating_rapid": 1661,
-		"rating_blitz": 1595
-	},
-	{
 		"fideid": 1347934,
 		"name": "Rusticoni, Mathias",
 		"country": "SUI",
@@ -62505,24 +62488,7 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1485,
-		"rating_rapid": 1511,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1364707,
-		"name": "Arpagaus, Christian",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1484,
-		"rating_rapid": null,
+		"rating_rapid": 1510,
 		"rating_blitz": null
 	},
 	{
@@ -62543,21 +62509,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1344730,
-		"name": "Delay, Isabelle",
+		"fideid": 1351575,
+		"name": "Mansi, Vincent",
 		"country": "SUI",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "w",
+		"games": 1,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
 		"rating_standard": 1484,
-		"rating_rapid": 1543,
-		"rating_blitz": 1552
+		"rating_rapid": 1661,
+		"rating_blitz": 1595
+	},
+	{
+		"fideid": 1364707,
+		"name": "Arpagaus, Christian",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1483,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1342169,
@@ -62643,6 +62626,23 @@
 		"rating_standard": 1480,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1344730,
+		"name": "Delay, Isabelle",
+		"country": "SUI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "w",
+		"rating_standard": 1478,
+		"rating_rapid": 1544,
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 1364111,
@@ -62981,8 +62981,8 @@
 		"birthday": 1980,
 		"flag": "i",
 		"rating_standard": 1466,
-		"rating_rapid": 1440,
-		"rating_blitz": null
+		"rating_rapid": 1441,
+		"rating_blitz": 1400
 	},
 	{
 		"fideid": 1346024,
@@ -63053,6 +63053,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 1361376,
+		"name": "Doerendahl, Ralf",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1462,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 1340174,
 		"name": "Fellmann, Polina",
 		"country": "SUI",
@@ -63083,23 +63100,6 @@
 		"birthday": 2010,
 		"flag": "i",
 		"rating_standard": 1462,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 1361376,
-		"name": "Doerendahl, Ralf",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1461,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -63478,6 +63478,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 653080459,
+		"name": "Rosset, Ruben",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1441,
+		"rating_rapid": 1492,
+		"rating_blitz": 1519
+	},
+	{
 		"fideid": 1355694,
 		"name": "Salesse-Lavergne, Victor",
 		"country": "SUI",
@@ -63527,23 +63544,6 @@
 		"rating_standard": 1440,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 653080459,
-		"name": "Rosset, Ruben",
-		"country": "SUI",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1440,
-		"rating_rapid": 1493,
-		"rating_blitz": 1519
 	},
 	{
 		"fideid": 1332147,
@@ -63643,7 +63643,7 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1433,
+		"rating_standard": 1434,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -63746,6 +63746,23 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1429,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1361937,
+		"name": "Maire, Eric",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1428,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -63864,7 +63881,7 @@
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
-		"rating_standard": 1413,
+		"rating_standard": 1414,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -64783,7 +64800,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1578,
+		"rating_rapid": 1576,
 		"rating_blitz": null
 	},
 	{
@@ -64851,7 +64868,7 @@
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1832,
+		"rating_rapid": 1831,
 		"rating_blitz": null
 	},
 	{
@@ -64936,7 +64953,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1487,
+		"rating_rapid": 1485,
 		"rating_blitz": null
 	},
 	{
@@ -65021,7 +65038,7 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1549,
+		"rating_rapid": 1547,
 		"rating_blitz": null
 	},
 	{
@@ -65123,7 +65140,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1643,
+		"rating_rapid": 1649,
 		"rating_blitz": null
 	},
 	{
@@ -65242,7 +65259,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1479,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -65327,7 +65344,7 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1689,
+		"rating_rapid": 1688,
 		"rating_blitz": null
 	},
 	{
@@ -65871,7 +65888,7 @@
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1657,
+		"rating_rapid": 1658,
 		"rating_blitz": null
 	},
 	{
@@ -66092,7 +66109,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1432,
+		"rating_rapid": 1431,
 		"rating_blitz": null
 	},
 	{
@@ -66551,7 +66568,7 @@
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1574,
+		"rating_rapid": 1579,
 		"rating_blitz": null
 	},
 	{
@@ -66772,7 +66789,7 @@
 		"birthday": 1969,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 2064,
+		"rating_rapid": 2063,
 		"rating_blitz": null
 	},
 	{
@@ -67164,7 +67181,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1520,
-		"rating_blitz": 1469
+		"rating_blitz": 1470
 	},
 	{
 		"fideid": 1346423,
@@ -67623,7 +67640,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1722,
-		"rating_blitz": 1617
+		"rating_blitz": 1618
 	},
 	{
 		"fideid": 1362690,
@@ -67810,7 +67827,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1723,
-		"rating_blitz": 1651
+		"rating_blitz": 1652
 	},
 	{
 		"fideid": 1365142,
@@ -67911,7 +67928,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1524,
+		"rating_rapid": 1523,
 		"rating_blitz": null
 	},
 	{
@@ -67962,7 +67979,7 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1695,
+		"rating_rapid": 1696,
 		"rating_blitz": null
 	},
 	{
@@ -67996,7 +68013,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1451,
+		"rating_rapid": 1443,
 		"rating_blitz": null
 	},
 	{
@@ -68303,7 +68320,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1434,
-		"rating_blitz": 1623
+		"rating_blitz": 1625
 	},
 	{
 		"fideid": 1356089,
@@ -68370,7 +68387,7 @@
 		"birthday": 1965,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1413,
+		"rating_rapid": 1418,
 		"rating_blitz": null
 	},
 	{
@@ -68387,7 +68404,7 @@
 		"birthday": 1963,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1839,
+		"rating_rapid": 1838,
 		"rating_blitz": null
 	},
 	{
@@ -68416,12 +68433,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 14,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1670,
+		"rating_rapid": 1645,
 		"rating_blitz": null
 	},
 	{
@@ -68608,7 +68625,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1484,
+		"rating_rapid": 1483,
 		"rating_blitz": null
 	},
 	{
@@ -68778,7 +68795,7 @@
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1473,
+		"rating_rapid": 1474,
 		"rating_blitz": null
 	},
 	{
@@ -68813,7 +68830,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1503,
-		"rating_blitz": 1578
+		"rating_blitz": 1579
 	},
 	{
 		"fideid": 1326872,
@@ -68881,6 +68898,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1416,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1368427,
+		"name": "Shama, Igor",
+		"country": "SUI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1407,
 		"rating_blitz": null
 	},
 	{
@@ -68999,7 +69033,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1471,
+		"rating_rapid": 1459,
 		"rating_blitz": null
 	},
 	{
@@ -69028,12 +69062,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 9,
 		"k": 40,
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1806,
+		"rating_rapid": 1737,
 		"rating_blitz": 1779
 	},
 	{
@@ -69271,7 +69305,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1598,
+		"rating_rapid": 1600,
 		"rating_blitz": null
 	},
 	{
@@ -69288,7 +69322,7 @@
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1670,
+		"rating_rapid": 1671,
 		"rating_blitz": null
 	},
 	{
@@ -69798,7 +69832,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1713,
+		"rating_rapid": 1715,
 		"rating_blitz": null
 	},
 	{
@@ -70071,7 +70105,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1590
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 1364731,
@@ -70292,7 +70326,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1525
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 1354264,
@@ -70411,7 +70445,7 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1420
+		"rating_blitz": 1417
 	},
 	{
 		"fideid": 1353896,
@@ -70768,7 +70802,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1571
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 1360760,
@@ -70887,7 +70921,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1672
+		"rating_blitz": 1671
 	},
 	{
 		"fideid": 1353071,
@@ -71380,7 +71414,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1782
+		"rating_blitz": 1783
 	},
 	{
 		"fideid": 1355112,
@@ -71533,7 +71567,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1734
+		"rating_blitz": 1733
 	},
 	{
 		"fideid": 1337670,
@@ -71669,7 +71703,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1485
+		"rating_blitz": 1482
 	},
 	{
 		"fideid": 1375415,
