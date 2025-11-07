@@ -8,7 +8,7 @@
 		"w_title": "",
 		"o_title": "FT",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 10,
 		"birthday": 1983,
 		"flag": "",
@@ -25,11 +25,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 10,
 		"k": 10,
 		"birthday": 1994,
 		"flag": "",
-		"rating_standard": 2566,
+		"rating_standard": 2567,
 		"rating_rapid": 2567,
 		"rating_blitz": 2516
 	},
@@ -42,11 +42,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 9,
 		"k": 10,
 		"birthday": 1994,
 		"flag": "",
-		"rating_standard": 2543,
+		"rating_standard": 2548,
 		"rating_rapid": 2417,
 		"rating_blitz": 2399
 	},
@@ -195,13 +195,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 11,
 		"k": 10,
 		"birthday": 1971,
 		"flag": "",
-		"rating_standard": 2374,
+		"rating_standard": 2373,
 		"rating_rapid": 2414,
-		"rating_blitz": 2350
+		"rating_blitz": 2360
 	},
 	{
 		"fideid": 11602295,
@@ -399,13 +399,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 11,
 		"k": 10,
 		"birthday": 1979,
 		"flag": "",
-		"rating_standard": 2332,
+		"rating_standard": 2333,
 		"rating_rapid": 2339,
 		"rating_blitz": 2288
+	},
+	{
+		"fideid": 11602066,
+		"name": "Klimakovs, Sergejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 2330,
+		"rating_rapid": 2266,
+		"rating_blitz": 2197
 	},
 	{
 		"fideid": 11611731,
@@ -425,23 +442,6 @@
 		"rating_blitz": 2176
 	},
 	{
-		"fideid": 11602066,
-		"name": "Klimakovs, Sergejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": 2325,
-		"rating_rapid": 2266,
-		"rating_blitz": 2197
-	},
-	{
 		"fideid": 11601426,
 		"name": "Bernotas, Arturs",
 		"country": "LAT",
@@ -459,6 +459,23 @@
 		"rating_blitz": 2346
 	},
 	{
+		"fideid": 11618736,
+		"name": "Kuznecova, Marija",
+		"country": "LAT",
+		"sex": "F",
+		"title": "FM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 20,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 2314,
+		"rating_rapid": 2186,
+		"rating_blitz": 2253
+	},
+	{
 		"fideid": 11600047,
 		"name": "Lanka, Zigurds",
 		"country": "LAT",
@@ -467,7 +484,7 @@
 		"w_title": "",
 		"o_title": "FST",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 10,
 		"birthday": 1960,
 		"flag": "",
@@ -552,47 +569,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 10,
 		"birthday": 1961,
 		"flag": "",
 		"rating_standard": 2302,
 		"rating_rapid": 2353,
 		"rating_blitz": 2376
-	},
-	{
-		"fideid": 11617578,
-		"name": "Valdats, Reinis",
-		"country": "LAT",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 2302,
-		"rating_rapid": 2016,
-		"rating_blitz": 2107
-	},
-	{
-		"fideid": 11617519,
-		"name": "Tolmacevs,Artjoms",
-		"country": "LAT",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2298,
-		"rating_rapid": 2137,
-		"rating_blitz": 2170
 	},
 	{
 		"fideid": 11604557,
@@ -629,23 +612,6 @@
 		"rating_blitz": 2276
 	},
 	{
-		"fideid": 11618736,
-		"name": "Kuznecova, Marija",
-		"country": "LAT",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 2279,
-		"rating_rapid": 2186,
-		"rating_blitz": 2253
-	},
-	{
 		"fideid": 11601647,
 		"name": "Lavendelis, Egons",
 		"country": "LAT",
@@ -661,6 +627,23 @@
 		"rating_standard": 2279,
 		"rating_rapid": 2189,
 		"rating_blitz": 2100
+	},
+	{
+		"fideid": 11617519,
+		"name": "Tolmacevs,Artjoms",
+		"country": "LAT",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2273,
+		"rating_rapid": 2244,
+		"rating_blitz": 2118
 	},
 	{
 		"fideid": 11600438,
@@ -680,6 +663,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11617578,
+		"name": "Valdats, Reinis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 2261,
+		"rating_rapid": 2016,
+		"rating_blitz": 2107
+	},
+	{
 		"fideid": 11609710,
 		"name": "Germanovs, Georgijs",
 		"country": "LAT",
@@ -695,6 +695,23 @@
 		"rating_standard": 2260,
 		"rating_rapid": 2234,
 		"rating_blitz": 2399
+	},
+	{
+		"fideid": 11624078,
+		"name": "Paikens, Reinis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2257,
+		"rating_rapid": 2268,
+		"rating_blitz": 2324
 	},
 	{
 		"fideid": 11601990,
@@ -739,7 +756,7 @@
 		"w_title": "WGM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "w",
@@ -918,21 +935,21 @@
 		"rating_blitz": 2053
 	},
 	{
-		"fideid": 11624078,
-		"name": "Paikens, Reinis",
+		"fideid": 11603593,
+		"name": "Batashevs, Arsens",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2008,
+		"games": 7,
+		"k": 20,
+		"birthday": 2001,
 		"flag": "",
-		"rating_standard": 2231,
-		"rating_rapid": 2234,
-		"rating_blitz": 2284
+		"rating_standard": 2228,
+		"rating_rapid": 2160,
+		"rating_blitz": 2176
 	},
 	{
 		"fideid": 11600551,
@@ -969,21 +986,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11626348,
-		"name": "Muzis, Renars",
+		"fideid": 11616830,
+		"name": "Mierins, Emils Janis",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
+		"games": 7,
+		"k": 20,
+		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 2223,
-		"rating_rapid": 2153,
-		"rating_blitz": 2043
+		"rating_rapid": 2236,
+		"rating_blitz": 2171
 	},
 	{
 		"fideid": 11600152,
@@ -1031,7 +1048,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1991,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 2214,
 		"rating_rapid": 2128,
 		"rating_blitz": 2003
@@ -1051,7 +1068,7 @@
 		"flag": "i",
 		"rating_standard": 2213,
 		"rating_rapid": 2189,
-		"rating_blitz": 2202
+		"rating_blitz": 2201
 	},
 	{
 		"fideid": 11601850,
@@ -1079,7 +1096,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
@@ -1105,23 +1122,6 @@
 		"rating_blitz": 2192
 	},
 	{
-		"fideid": 11622075,
-		"name": "Adamovics, Aleksejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2204,
-		"rating_rapid": 2209,
-		"rating_blitz": 2137
-	},
-	{
 		"fideid": 11601930,
 		"name": "Teitelbaums, Aleksandrs",
 		"country": "LAT",
@@ -1137,23 +1137,6 @@
 		"rating_standard": 2204,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11603593,
-		"name": "Batashevs, Arsens",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 2202,
-		"rating_rapid": 2158,
-		"rating_blitz": 2176
 	},
 	{
 		"fideid": 11600772,
@@ -1173,23 +1156,6 @@
 		"rating_blitz": 2134
 	},
 	{
-		"fideid": 11616830,
-		"name": "Mierins, Emils Janis",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 2199,
-		"rating_rapid": 2197,
-		"rating_blitz": 2171
-	},
-	{
 		"fideid": 11600721,
 		"name": "Pashkov, Anatolij",
 		"country": "LAT",
@@ -1207,6 +1173,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11626348,
+		"name": "Muzis, Renars",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2193,
+		"rating_rapid": 2153,
+		"rating_blitz": 2043
+	},
+	{
 		"fideid": 11600250,
 		"name": "Rause, Olita",
 		"country": "LAT",
@@ -1222,23 +1205,6 @@
 		"rating_standard": 2192,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11614900,
-		"name": "Ter-Avetisjana, Agnesa Stepania",
-		"country": "LAT",
-		"sex": "F",
-		"title": "WIM",
-		"w_title": "WIM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 2190,
-		"rating_rapid": 2198,
-		"rating_blitz": 2128
 	},
 	{
 		"fideid": 11601523,
@@ -1436,7 +1402,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1982,
 		"flag": "",
@@ -1479,6 +1445,23 @@
 		"rating_blitz": 2211
 	},
 	{
+		"fideid": 11622598,
+		"name": "Platonovs, Nikolajs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 2165,
+		"rating_rapid": 2109,
+		"rating_blitz": 2063
+	},
+	{
 		"fideid": 11617489,
 		"name": "Savicevs, Arsenijs",
 		"country": "LAT",
@@ -1492,7 +1475,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 2164,
-		"rating_rapid": 2053,
+		"rating_rapid": 2103,
 		"rating_blitz": 2139
 	},
 	{
@@ -1640,13 +1623,13 @@
 		"w_title": "WGM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1984,
 		"flag": "w",
 		"rating_standard": 2153,
 		"rating_rapid": 2085,
-		"rating_blitz": 2107
+		"rating_blitz": 2086
 	},
 	{
 		"fideid": 11601639,
@@ -1921,6 +1904,23 @@
 		"rating_blitz": 2083
 	},
 	{
+		"fideid": 11614900,
+		"name": "Ter-Avetisjana, Agnesa Stepania",
+		"country": "LAT",
+		"sex": "F",
+		"title": "WIM",
+		"w_title": "WIM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 2110,
+		"rating_rapid": 2201,
+		"rating_blitz": 2128
+	},
+	{
 		"fideid": 11602996,
 		"name": "Mihalevica, Diana",
 		"country": "LAT",
@@ -1936,6 +1936,23 @@
 		"rating_standard": 2105,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11622075,
+		"name": "Adamovics, Aleksejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2103,
+		"rating_rapid": 2209,
+		"rating_blitz": 2137
 	},
 	{
 		"fideid": 11606029,
@@ -1972,23 +1989,6 @@
 		"rating_blitz": 1995
 	},
 	{
-		"fideid": 11622598,
-		"name": "Platonovs, Nikolajs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 2100,
-		"rating_rapid": 2105,
-		"rating_blitz": 2015
-	},
-	{
 		"fideid": 11602201,
 		"name": "Andrejevs, Jurijs",
 		"country": "LAT",
@@ -2019,8 +2019,8 @@
 		"birthday": 1956,
 		"flag": "",
 		"rating_standard": 2096,
-		"rating_rapid": 2039,
-		"rating_blitz": 1954
+		"rating_rapid": 2034,
+		"rating_blitz": 2005
 	},
 	{
 		"fideid": 11604514,
@@ -2038,23 +2038,6 @@
 		"rating_standard": 2096,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11629991,
-		"name": "Steiners, Emils",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 2096,
-		"rating_rapid": 2052,
-		"rating_blitz": 2115
 	},
 	{
 		"fideid": 11603860,
@@ -2397,6 +2380,23 @@
 		"rating_blitz": 2011
 	},
 	{
+		"fideid": 11603550,
+		"name": "Otikova, Elina",
+		"country": "LAT",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "w",
+		"rating_standard": 2064,
+		"rating_rapid": 1999,
+		"rating_blitz": 1999
+	},
+	{
 		"fideid": 11602678,
 		"name": "Ozolins, Ansis",
 		"country": "LAT",
@@ -2448,23 +2448,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11603550,
-		"name": "Otikova, Elina",
-		"country": "LAT",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "w",
-		"rating_standard": 2060,
-		"rating_rapid": 1999,
-		"rating_blitz": 1999
-	},
-	{
 		"fideid": 11603089,
 		"name": "Auzins, Artis",
 		"country": "LAT",
@@ -2478,7 +2461,7 @@
 		"birthday": 1974,
 		"flag": "i",
 		"rating_standard": 2059,
-		"rating_rapid": 1947,
+		"rating_rapid": 1996,
 		"rating_blitz": 1958
 	},
 	{
@@ -2529,8 +2512,8 @@
 		"birthday": 1990,
 		"flag": "",
 		"rating_standard": 2056,
-		"rating_rapid": 1948,
-		"rating_blitz": 1959
+		"rating_rapid": 1997,
+		"rating_blitz": 1969
 	},
 	{
 		"fideid": 11604069,
@@ -2601,23 +2584,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11605359,
-		"name": "Jekabsons, Ivars",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1962,
-		"flag": "",
-		"rating_standard": 2050,
-		"rating_rapid": 1834,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11601515,
 		"name": "Smirnov, Aleksandr",
 		"country": "LAT",
@@ -2652,6 +2618,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11605359,
+		"name": "Jekabsons, Ivars",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 2049,
+		"rating_rapid": 1834,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11620811,
+		"name": "Jeronovics, Toms",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 2049,
+		"rating_rapid": 2048,
+		"rating_blitz": 1864
+	},
+	{
 		"fideid": 11631953,
 		"name": "Stirna, Uldis",
 		"country": "LAT",
@@ -2667,6 +2667,23 @@
 		"rating_standard": 2048,
 		"rating_rapid": 1916,
 		"rating_blitz": 1963
+	},
+	{
+		"fideid": 11632674,
+		"name": "Beniosev, Daniel",
+		"country": "LAT",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 2046,
+		"rating_rapid": 2040,
+		"rating_blitz": 2101
 	},
 	{
 		"fideid": 11601973,
@@ -2711,30 +2728,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 2043,
-		"rating_rapid": 2139,
-		"rating_blitz": 2117
-	},
-	{
-		"fideid": 11622067,
-		"name": "Vasiljeva, Sofja",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 2043,
-		"rating_rapid": 2128,
-		"rating_blitz": 2009
+		"rating_rapid": 2052,
+		"rating_blitz": 2083
 	},
 	{
 		"fideid": 11603178,
@@ -2864,13 +2864,13 @@
 		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1984,
 		"flag": "w",
 		"rating_standard": 2030,
-		"rating_rapid": 2049,
-		"rating_blitz": 2060
+		"rating_rapid": 2053,
+		"rating_blitz": 2046
 	},
 	{
 		"fideid": 11624280,
@@ -2881,12 +2881,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 9,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 2028,
-		"rating_rapid": 2004,
+		"rating_standard": 2029,
+		"rating_rapid": 2026,
 		"rating_blitz": 1989
 	},
 	{
@@ -3090,8 +3090,8 @@
 		"birthday": 2000,
 		"flag": "i",
 		"rating_standard": 2011,
-		"rating_rapid": 2033,
-		"rating_blitz": 2060
+		"rating_rapid": 2062,
+		"rating_blitz": 2047
 	},
 	{
 		"fideid": 4199650,
@@ -3119,7 +3119,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
@@ -3136,12 +3136,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": 2008,
-		"rating_rapid": 2069,
+		"rating_rapid": 2023,
 		"rating_blitz": 2098
 	},
 	{
@@ -3247,6 +3247,23 @@
 		"rating_blitz": 1983
 	},
 	{
+		"fideid": 11622067,
+		"name": "Vasiljeva, Sofja",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 2004,
+		"rating_rapid": 2128,
+		"rating_blitz": 2009
+	},
+	{
 		"fideid": 11617705,
 		"name": "Kazoks, Aivars",
 		"country": "LAT",
@@ -3306,7 +3323,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
@@ -3332,23 +3349,6 @@
 		"rating_blitz": 1914
 	},
 	{
-		"fideid": 11617748,
-		"name": "Maklakova, Naomi",
-		"country": "LAT",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1995,
-		"rating_rapid": 1919,
-		"rating_blitz": 1863
-	},
-	{
 		"fideid": 11601922,
 		"name": "Romanovs, Valentins",
 		"country": "LAT",
@@ -3364,6 +3364,23 @@
 		"rating_standard": 1995,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11629991,
+		"name": "Steiners, Emils",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1995,
+		"rating_rapid": 2052,
+		"rating_blitz": 2115
 	},
 	{
 		"fideid": 11602830,
@@ -3515,7 +3532,7 @@
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": 1987,
-		"rating_rapid": 2029,
+		"rating_rapid": 2021,
 		"rating_blitz": 2085
 	},
 	{
@@ -3566,7 +3583,7 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1978,
-		"rating_rapid": 1970,
+		"rating_rapid": 1976,
 		"rating_blitz": 1926
 	},
 	{
@@ -3680,7 +3697,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "w",
@@ -3697,13 +3714,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1973,
-		"rating_rapid": 1984,
-		"rating_blitz": 1808
+		"rating_rapid": 1966,
+		"rating_blitz": 1837
 	},
 	{
 		"fideid": 11604042,
@@ -3723,21 +3740,21 @@
 		"rating_blitz": 1913
 	},
 	{
-		"fideid": 11620811,
-		"name": "Jeronovics, Toms",
+		"fideid": 11617748,
+		"name": "Maklakova, Naomi",
 		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1972,
-		"rating_rapid": 2026,
-		"rating_blitz": 1864
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1971,
+		"rating_rapid": 1988,
+		"rating_blitz": 1989
 	},
 	{
 		"fideid": 11602732,
@@ -3770,7 +3787,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1969,
-		"rating_rapid": 2033,
+		"rating_rapid": 1992,
 		"rating_blitz": 2046
 	},
 	{
@@ -3787,7 +3804,7 @@
 		"birthday": 1938,
 		"flag": "i",
 		"rating_standard": 1969,
-		"rating_rapid": 1875,
+		"rating_rapid": 1931,
 		"rating_blitz": 1950
 	},
 	{
@@ -3806,40 +3823,6 @@
 		"rating_standard": 1968,
 		"rating_rapid": 1924,
 		"rating_blitz": 1963
-	},
-	{
-		"fideid": 11625740,
-		"name": "Lisovskis, Dmitrijs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1968,
-		"rating_rapid": 2115,
-		"rating_blitz": 2165
-	},
-	{
-		"fideid": 11600500,
-		"name": "Lielmezs, Girts",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1977,
-		"flag": "",
-		"rating_standard": 1967,
-		"rating_rapid": 1852,
-		"rating_blitz": 1870
 	},
 	{
 		"fideid": 11603399,
@@ -3906,8 +3889,8 @@
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": 1965,
-		"rating_rapid": 1860,
-		"rating_blitz": 1895
+		"rating_rapid": 1866,
+		"rating_blitz": 1923
 	},
 	{
 		"fideid": 11601183,
@@ -3991,25 +3974,59 @@
 		"birthday": 1952,
 		"flag": "i",
 		"rating_standard": 1960,
-		"rating_rapid": 2025,
+		"rating_rapid": 1974,
 		"rating_blitz": 1981
 	},
 	{
-		"fideid": 11632674,
-		"name": "Beniosev, Daniel",
+		"fideid": 11600500,
+		"name": "Lielmezs, Girts",
 		"country": "LAT",
 		"sex": "M",
-		"title": "CM",
+		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 8,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 1959,
+		"rating_rapid": 1852,
+		"rating_blitz": 1888
+	},
+	{
+		"fideid": 11631899,
+		"name": "Filipovs, Sergejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1958,
 		"rating_rapid": 2040,
-		"rating_blitz": 2097
+		"rating_blitz": 1844
+	},
+	{
+		"fideid": 11625740,
+		"name": "Lisovskis, Dmitrijs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1958,
+		"rating_rapid": 2141,
+		"rating_blitz": 2165
 	},
 	{
 		"fideid": 11603216,
@@ -4046,23 +4063,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11607394,
-		"name": "Golsta, Ramona",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 10,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "w",
-		"rating_standard": 1954,
-		"rating_rapid": 1880,
-		"rating_blitz": 1868
-	},
-	{
 		"fideid": 11601906,
 		"name": "Gavrilovs, Dmitrijs",
 		"country": "LAT",
@@ -4078,23 +4078,6 @@
 		"rating_standard": 1953,
 		"rating_rapid": 1917,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11631899,
-		"name": "Filipovs, Sergejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1952,
-		"rating_rapid": 2027,
-		"rating_blitz": 1844
 	},
 	{
 		"fideid": 11602511,
@@ -4216,6 +4199,23 @@
 		"rating_blitz": 1985
 	},
 	{
+		"fideid": 11607394,
+		"name": "Golsta, Ramona",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 1,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "w",
+		"rating_standard": 1942,
+		"rating_rapid": 1880,
+		"rating_blitz": 1868
+	},
+	{
 		"fideid": 11623187,
 		"name": "Milovs, Daniels",
 		"country": "LAT",
@@ -4248,6 +4248,23 @@
 		"rating_standard": 1942,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11623683,
+		"name": "Gailevska, Milana",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1941,
+		"rating_rapid": 1863,
+		"rating_blitz": 1886
 	},
 	{
 		"fideid": 11604891,
@@ -4416,25 +4433,8 @@
 		"birthday": 1969,
 		"flag": "",
 		"rating_standard": 1934,
-		"rating_rapid": 2122,
-		"rating_blitz": 2112
-	},
-	{
-		"fideid": 11635452,
-		"name": "Lazars, Krisjanis",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1934,
-		"rating_rapid": 2057,
-		"rating_blitz": 2076
+		"rating_rapid": 2092,
+		"rating_blitz": 2137
 	},
 	{
 		"fideid": 11602570,
@@ -4467,7 +4467,7 @@
 		"birthday": 1940,
 		"flag": "i",
 		"rating_standard": 1933,
-		"rating_rapid": 1672,
+		"rating_rapid": 1684,
 		"rating_blitz": 1875
 	},
 	{
@@ -4637,7 +4637,7 @@
 		"birthday": 1969,
 		"flag": "i",
 		"rating_standard": 1926,
-		"rating_rapid": 1847,
+		"rating_rapid": 1833,
 		"rating_blitz": 1913
 	},
 	{
@@ -5043,7 +5043,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1985,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1914,
 		"rating_rapid": 2009,
 		"rating_blitz": 1770
@@ -5130,7 +5130,7 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1911,
-		"rating_rapid": 1988,
+		"rating_rapid": 1956,
 		"rating_blitz": 1869
 	},
 	{
@@ -5149,6 +5149,23 @@
 		"rating_standard": 1910,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11628545,
+		"name": "Matisons, Janis Mihaels",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1910,
+		"rating_rapid": 1871,
+		"rating_blitz": 1987
 	},
 	{
 		"fideid": 11600802,
@@ -5295,7 +5312,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1969,
 		"flag": "",
@@ -5338,6 +5355,23 @@
 		"rating_blitz": 1861
 	},
 	{
+		"fideid": 11600845,
+		"name": "Melderis, Uldis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1961,
+		"flag": "",
+		"rating_standard": 1900,
+		"rating_rapid": 2017,
+		"rating_blitz": 1867
+	},
+	{
 		"fideid": 11610794,
 		"name": "Feldmanis, Arturs",
 		"country": "LAT",
@@ -5351,7 +5385,7 @@
 		"birthday": 1983,
 		"flag": "i",
 		"rating_standard": 1899,
-		"rating_rapid": 1941,
+		"rating_rapid": 1968,
 		"rating_blitz": 1801
 	},
 	{
@@ -5389,23 +5423,6 @@
 		"rating_blitz": 1804
 	},
 	{
-		"fideid": 4668030,
-		"name": "Isakovs, Janis",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "",
-		"rating_standard": 1897,
-		"rating_rapid": 1902,
-		"rating_blitz": 1748
-	},
-	{
 		"fideid": 11600489,
 		"name": "Kazmins, Girts",
 		"country": "LAT",
@@ -5419,7 +5436,7 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": 1897,
-		"rating_rapid": 1855,
+		"rating_rapid": 1866,
 		"rating_blitz": 1924
 	},
 	{
@@ -5457,23 +5474,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11600845,
-		"name": "Melderis, Uldis",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1961,
-		"flag": "",
-		"rating_standard": 1895,
-		"rating_rapid": 2014,
-		"rating_blitz": 1890
-	},
-	{
 		"fideid": 11608625,
 		"name": "Strods, Kristaps Reinis",
 		"country": "LAT",
@@ -5491,8 +5491,8 @@
 		"rating_blitz": 1892
 	},
 	{
-		"fideid": 11628545,
-		"name": "Matisons, Janis Mihaels",
+		"fideid": 4668030,
+		"name": "Isakovs, Janis",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
@@ -5500,12 +5500,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 7,
-		"k": 40,
-		"birthday": 2008,
+		"k": 20,
+		"birthday": 1960,
 		"flag": "",
 		"rating_standard": 1892,
-		"rating_rapid": 1871,
-		"rating_blitz": 2075
+		"rating_rapid": 1902,
+		"rating_blitz": 1748
 	},
 	{
 		"fideid": 11604131,
@@ -5584,7 +5584,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -5695,6 +5695,23 @@
 		"rating_blitz": 1735
 	},
 	{
+		"fideid": 11602481,
+		"name": "Ni, Polina",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "FI,FA",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "w",
+		"rating_standard": 1884,
+		"rating_rapid": 1799,
+		"rating_blitz": 1756
+	},
+	{
 		"fideid": 11604743,
 		"name": "Stavickis, Isaks",
 		"country": "LAT",
@@ -5726,7 +5743,24 @@
 		"flag": "i",
 		"rating_standard": 1882,
 		"rating_rapid": 1792,
-		"rating_blitz": 1744
+		"rating_blitz": 1779
+	},
+	{
+		"fideid": 11636173,
+		"name": "Orlovskis, Jaroslavs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1882,
+		"rating_rapid": 1983,
+		"rating_blitz": 1949
 	},
 	{
 		"fideid": 11602554,
@@ -5754,12 +5788,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": 1881,
-		"rating_rapid": 1962,
+		"rating_rapid": 1945,
 		"rating_blitz": 1860
 	},
 	{
@@ -5899,6 +5933,23 @@
 		"rating_blitz": 1986
 	},
 	{
+		"fideid": 11635452,
+		"name": "Lazars, Krisjanis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1873,
+		"rating_rapid": 2081,
+		"rating_blitz": 2043
+	},
+	{
 		"fideid": 11604190,
 		"name": "Ivonins, Andis",
 		"country": "LAT",
@@ -5948,23 +5999,6 @@
 		"rating_standard": 1867,
 		"rating_rapid": 1807,
 		"rating_blitz": 1807
-	},
-	{
-		"fideid": 11602481,
-		"name": "Ni, Polina",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "FI,FA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "w",
-		"rating_standard": 1867,
-		"rating_rapid": 1799,
-		"rating_blitz": 1756
 	},
 	{
 		"fideid": 11609192,
@@ -6086,23 +6120,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11605642,
-		"name": "Burkevica, Ilze",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "w",
-		"rating_standard": 1862,
-		"rating_rapid": 1706,
-		"rating_blitz": 1733
-	},
-	{
 		"fideid": 11605065,
 		"name": "Novoksconovs, Vladimirs",
 		"country": "LAT",
@@ -6196,7 +6213,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AIM",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1993,
 		"flag": "",
@@ -6222,23 +6239,6 @@
 		"rating_blitz": 1797
 	},
 	{
-		"fideid": 11608013,
-		"name": "Vijups, Dans",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1857,
-		"rating_rapid": 1917,
-		"rating_blitz": 1799
-	},
-	{
 		"fideid": 11614854,
 		"name": "Rupais,Gustavs",
 		"country": "LAT",
@@ -6247,7 +6247,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -6264,12 +6264,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1855,
-		"rating_rapid": 1960,
+		"rating_rapid": 1945,
 		"rating_blitz": 2021
 	},
 	{
@@ -6286,7 +6286,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1855,
-		"rating_rapid": 2012,
+		"rating_rapid": 2011,
 		"rating_blitz": 2093
 	},
 	{
@@ -6422,8 +6422,8 @@
 		"birthday": 2002,
 		"flag": "i",
 		"rating_standard": 1851,
-		"rating_rapid": 1993,
-		"rating_blitz": 1957
+		"rating_rapid": 1989,
+		"rating_blitz": 1908
 	},
 	{
 		"fideid": 11604603,
@@ -6477,23 +6477,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11636173,
-		"name": "Orlovskis, Jaroslavs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1848,
-		"rating_rapid": 2016,
-		"rating_blitz": 1976
-	},
-	{
 		"fideid": 11603658,
 		"name": "Gatere, Liene",
 		"country": "LAT",
@@ -6507,7 +6490,7 @@
 		"birthday": 1984,
 		"flag": "wi",
 		"rating_standard": 1846,
-		"rating_rapid": 1740,
+		"rating_rapid": 1762,
 		"rating_blitz": 1786
 	},
 	{
@@ -6558,7 +6541,7 @@
 		"birthday": 1973,
 		"flag": "i",
 		"rating_standard": 1842,
-		"rating_rapid": 1888,
+		"rating_rapid": 1923,
 		"rating_blitz": 1907
 	},
 	{
@@ -6579,6 +6562,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11608013,
+		"name": "Vijups, Dans",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 9,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1841,
+		"rating_rapid": 1917,
+		"rating_blitz": 1799
+	},
+	{
 		"fideid": 11645296,
 		"name": "Vilemsons, Martins",
 		"country": "LAT",
@@ -6587,7 +6587,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1978,
 		"flag": "",
@@ -6643,7 +6643,7 @@
 		"birthday": 1956,
 		"flag": "i",
 		"rating_standard": 1840,
-		"rating_rapid": 1742,
+		"rating_rapid": 1759,
 		"rating_blitz": 1780
 	},
 	{
@@ -6723,7 +6723,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1969,
 		"flag": "",
@@ -6781,6 +6781,40 @@
 		"rating_standard": 1835,
 		"rating_rapid": 1834,
 		"rating_blitz": 1806
+	},
+	{
+		"fideid": 11605642,
+		"name": "Burkevica, Ilze",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "w",
+		"rating_standard": 1834,
+		"rating_rapid": 1706,
+		"rating_blitz": 1733
+	},
+	{
+		"fideid": 11635355,
+		"name": "Veitners, Pauls",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1834,
+		"rating_rapid": 1963,
+		"rating_blitz": 1925
 	},
 	{
 		"fideid": 11622660,
@@ -6899,7 +6933,7 @@
 		"flag": "wi",
 		"rating_standard": 1822,
 		"rating_rapid": 1798,
-		"rating_blitz": 1764
+		"rating_blitz": 1729
 	},
 	{
 		"fideid": 11609176,
@@ -6968,23 +7002,6 @@
 		"rating_standard": 1816,
 		"rating_rapid": 1769,
 		"rating_blitz": 1842
-	},
-	{
-		"fideid": 11618019,
-		"name": "Krasilnikova, Marija",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1814,
-		"rating_rapid": 1731,
-		"rating_blitz": 1628
 	},
 	{
 		"fideid": 11605170,
@@ -7085,7 +7102,7 @@
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1810,
-		"rating_rapid": 1959,
+		"rating_rapid": 1963,
 		"rating_blitz": 1856
 	},
 	{
@@ -7104,6 +7121,23 @@
 		"rating_standard": 1810,
 		"rating_rapid": 1589,
 		"rating_blitz": 1803
+	},
+	{
+		"fideid": 11605979,
+		"name": "Vernuks, Vjaceslavs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1809,
+		"rating_rapid": 1761,
+		"rating_blitz": 1676
 	},
 	{
 		"fideid": 11607238,
@@ -7170,7 +7204,7 @@
 		"birthday": 1981,
 		"flag": "i",
 		"rating_standard": 1805,
-		"rating_rapid": 1807,
+		"rating_rapid": 1838,
 		"rating_blitz": 1788
 	},
 	{
@@ -7289,7 +7323,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1797,
-		"rating_rapid": 1882,
+		"rating_rapid": 1873,
 		"rating_blitz": 1821
 	},
 	{
@@ -7340,25 +7374,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1794,
-		"rating_rapid": 1937,
+		"rating_rapid": 1980,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11605979,
-		"name": "Vernuks, Vjaceslavs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1794,
-		"rating_rapid": 1761,
-		"rating_blitz": 1676
 	},
 	{
 		"fideid": 11617314,
@@ -7395,23 +7412,6 @@
 		"rating_blitz": 1875
 	},
 	{
-		"fideid": 11623683,
-		"name": "Gailevska, Milana",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1792,
-		"rating_rapid": 1810,
-		"rating_blitz": 1878
-	},
-	{
 		"fideid": 11606835,
 		"name": "Aizstrauts, Arturs",
 		"country": "LAT",
@@ -7425,7 +7425,7 @@
 		"birthday": 2002,
 		"flag": "i",
 		"rating_standard": 1791,
-		"rating_rapid": 1858,
+		"rating_rapid": 1839,
 		"rating_blitz": 1750
 	},
 	{
@@ -7461,23 +7461,6 @@
 		"rating_standard": 1789,
 		"rating_rapid": 1729,
 		"rating_blitz": 1729
-	},
-	{
-		"fideid": 11635355,
-		"name": "Veitners, Pauls",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1789,
-		"rating_rapid": 2028,
-		"rating_blitz": 1915
 	},
 	{
 		"fideid": 11604867,
@@ -7578,7 +7561,7 @@
 		"birthday": 2002,
 		"flag": "i",
 		"rating_standard": 1786,
-		"rating_rapid": 1939,
+		"rating_rapid": 1918,
 		"rating_blitz": 1854
 	},
 	{
@@ -7610,10 +7593,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1958,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1785,
 		"rating_rapid": 1684,
 		"rating_blitz": 1656
+	},
+	{
+		"fideid": 11622989,
+		"name": "Ozolins,Kristaps",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1783,
+		"rating_rapid": 1855,
+		"rating_blitz": 1797
 	},
 	{
 		"fideid": 11605251,
@@ -7648,6 +7648,23 @@
 		"rating_standard": 1782,
 		"rating_rapid": 1840,
 		"rating_blitz": 1872
+	},
+	{
+		"fideid": 11618019,
+		"name": "Krasilnikova, Marija",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1780,
+		"rating_rapid": 1735,
+		"rating_blitz": 1628
 	},
 	{
 		"fideid": 11604280,
@@ -7752,6 +7769,23 @@
 		"rating_blitz": 1766
 	},
 	{
+		"fideid": 11631813,
+		"name": "Aliev, Arif",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1773,
+		"rating_rapid": 1640,
+		"rating_blitz": 1594
+	},
+	{
 		"fideid": 11605774,
 		"name": "Lacis, Edgars",
 		"country": "LAT",
@@ -7767,23 +7801,6 @@
 		"rating_standard": 1773,
 		"rating_rapid": 1818,
 		"rating_blitz": 1834
-	},
-	{
-		"fideid": 11629312,
-		"name": "Kantans, Ansis",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1772,
-		"rating_rapid": 1903,
-		"rating_blitz": 1775
 	},
 	{
 		"fideid": 11606053,
@@ -7835,23 +7852,6 @@
 		"rating_standard": 1770,
 		"rating_rapid": null,
 		"rating_blitz": 1815
-	},
-	{
-		"fideid": 11649470,
-		"name": "Jefimovs, Akims",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1769,
-		"rating_rapid": 1927,
-		"rating_blitz": 1642
 	},
 	{
 		"fideid": 11606231,
@@ -7935,25 +7935,8 @@
 		"birthday": 2010,
 		"flag": "i",
 		"rating_standard": 1765,
-		"rating_rapid": 1767,
+		"rating_rapid": 1789,
 		"rating_blitz": 1691
-	},
-	{
-		"fideid": 11633174,
-		"name": "Strekalovs, Ernests",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1765,
-		"rating_rapid": 1746,
-		"rating_blitz": 1779
 	},
 	{
 		"fideid": 11615680,
@@ -8177,6 +8160,23 @@
 		"rating_blitz": 1667
 	},
 	{
+		"fideid": 11629312,
+		"name": "Kantans, Ansis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1752,
+		"rating_rapid": 1903,
+		"rating_blitz": 1795
+	},
+	{
 		"fideid": 11617357,
 		"name": "Kurmatovs,Arturs",
 		"country": "LAT",
@@ -8277,6 +8277,23 @@
 		"rating_standard": 1750,
 		"rating_rapid": 1737,
 		"rating_blitz": 1699
+	},
+	{
+		"fideid": 11633174,
+		"name": "Strekalovs, Ernests",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1750,
+		"rating_rapid": 1861,
+		"rating_blitz": 1779
 	},
 	{
 		"fideid": 11600497,
@@ -8496,8 +8513,8 @@
 		"birthday": 1976,
 		"flag": "i",
 		"rating_standard": 1735,
-		"rating_rapid": 1712,
-		"rating_blitz": 1790
+		"rating_rapid": 1721,
+		"rating_blitz": 1816
 	},
 	{
 		"fideid": 11607769,
@@ -8515,23 +8532,6 @@
 		"rating_standard": 1734,
 		"rating_rapid": 1724,
 		"rating_blitz": 1867
-	},
-	{
-		"fideid": 11631813,
-		"name": "Aliev, Arif",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1733,
-		"rating_rapid": 1619,
-		"rating_blitz": 1594
 	},
 	{
 		"fideid": 11644257,
@@ -8576,12 +8576,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1732,
-		"rating_rapid": 1823,
+		"rating_rapid": 1830,
 		"rating_blitz": 1891
 	},
 	{
@@ -8598,7 +8598,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1732,
-		"rating_rapid": 1914,
+		"rating_rapid": 1968,
 		"rating_blitz": 1861
 	},
 	{
@@ -8627,7 +8627,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
@@ -8651,6 +8651,23 @@
 		"rating_standard": 1730,
 		"rating_rapid": 1720,
 		"rating_blitz": 1709
+	},
+	{
+		"fideid": 11649470,
+		"name": "Jefimovs, Akims",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1729,
+		"rating_rapid": 1954,
+		"rating_blitz": 1736
 	},
 	{
 		"fideid": 11604220,
@@ -8702,23 +8719,6 @@
 		"rating_standard": 1723,
 		"rating_rapid": 1756,
 		"rating_blitz": 1676
-	},
-	{
-		"fideid": 11622989,
-		"name": "Ozolins,Kristaps",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1723,
-		"rating_rapid": 1814,
-		"rating_blitz": 1809
 	},
 	{
 		"fideid": 11622903,
@@ -8797,7 +8797,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1981,
 		"flag": "",
@@ -8819,7 +8819,7 @@
 		"birthday": 1949,
 		"flag": "i",
 		"rating_standard": 1719,
-		"rating_rapid": 1474,
+		"rating_rapid": 1448,
 		"rating_blitz": 1609
 	},
 	{
@@ -8834,7 +8834,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1719,
 		"rating_rapid": 1734,
 		"rating_blitz": 1554
@@ -8972,7 +8972,7 @@
 		"birthday": 1939,
 		"flag": "",
 		"rating_standard": 1712,
-		"rating_rapid": 1775,
+		"rating_rapid": 1810,
 		"rating_blitz": null
 	},
 	{
@@ -9044,23 +9044,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11636440,
-		"name": "Aispurs, Gabriels",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1709,
-		"rating_rapid": 1720,
-		"rating_blitz": 1545
-	},
-	{
 		"fideid": 11606142,
 		"name": "Ovcinkins, Arsenijs",
 		"country": "LAT",
@@ -9072,7 +9055,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1709,
 		"rating_rapid": 1852,
 		"rating_blitz": 1725
@@ -9197,6 +9180,23 @@
 		"rating_blitz": 1708
 	},
 	{
+		"fideid": 11617292,
+		"name": "Mierina, Lauma",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1706,
+		"rating_rapid": 1886,
+		"rating_blitz": 1796
+	},
+	{
 		"fideid": 11614773,
 		"name": "Grinfelds, Martins",
 		"country": "LAT",
@@ -9227,7 +9227,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1704,
-		"rating_rapid": 1763,
+		"rating_rapid": 1768,
 		"rating_blitz": 1771
 	},
 	{
@@ -9681,7 +9681,7 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1953,
 		"flag": "",
@@ -9707,21 +9707,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11637951,
-		"name": "Gailums, Makss",
+		"fideid": 11640219,
+		"name": "Liepins, Arturs",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 18,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1679,
-		"rating_rapid": 1702,
-		"rating_blitz": 1594
+		"rating_standard": 1680,
+		"rating_rapid": 1650,
+		"rating_blitz": 1581
 	},
 	{
 		"fideid": 11643510,
@@ -9739,6 +9739,23 @@
 		"rating_standard": 1679,
 		"rating_rapid": 1711,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11641118,
+		"name": "Surunova, Gabriela",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1679,
+		"rating_rapid": 1615,
+		"rating_blitz": 1441
 	},
 	{
 		"fideid": 11602813,
@@ -9773,23 +9790,6 @@
 		"rating_standard": 1676,
 		"rating_rapid": 1578,
 		"rating_blitz": 1607
-	},
-	{
-		"fideid": 11654643,
-		"name": "Simanovs, Aleksejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1675,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11605936,
@@ -9860,23 +9860,6 @@
 		"rating_blitz": 1766
 	},
 	{
-		"fideid": 11640219,
-		"name": "Liepins, Arturs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1668,
-		"rating_rapid": 1691,
-		"rating_blitz": 1576
-	},
-	{
 		"fideid": 11616482,
 		"name": "Vuskans,Eduards",
 		"country": "LAT",
@@ -9945,23 +9928,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11640456,
-		"name": "Cuksts, Stefans",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1666,
-		"rating_rapid": 1616,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11625511,
 		"name": "Laimina, Alise",
 		"country": "LAT",
@@ -9975,7 +9941,7 @@
 		"birthday": 2009,
 		"flag": "w",
 		"rating_standard": 1666,
-		"rating_rapid": 1726,
+		"rating_rapid": 1737,
 		"rating_blitz": 1554
 	},
 	{
@@ -10026,7 +9992,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1665,
-		"rating_rapid": 1699,
+		"rating_rapid": 1737,
 		"rating_blitz": null
 	},
 	{
@@ -10072,7 +10038,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -10183,6 +10149,23 @@
 		"rating_blitz": 1689
 	},
 	{
+		"fideid": 11624825,
+		"name": "Pekarskis, Vsevolods",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1661,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11634081,
 		"name": "Romanovskis, Davis",
 		"country": "LAT",
@@ -10234,6 +10217,23 @@
 		"rating_blitz": 1600
 	},
 	{
+		"fideid": 11633034,
+		"name": "Iljins, Kirils",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1660,
+		"rating_rapid": 1879,
+		"rating_blitz": 1641
+	},
+	{
 		"fideid": 11607459,
 		"name": "Lokastovs, Daniils",
 		"country": "LAT",
@@ -10266,23 +10266,6 @@
 		"rating_standard": 1660,
 		"rating_rapid": 1600,
 		"rating_blitz": 1632
-	},
-	{
-		"fideid": 11617292,
-		"name": "Mierina, Lauma",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1659,
-		"rating_rapid": 1813,
-		"rating_blitz": 1806
 	},
 	{
 		"fideid": 11607971,
@@ -10378,29 +10361,29 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1655,
-		"rating_rapid": 1824,
-		"rating_blitz": 1734
+		"rating_rapid": 1843,
+		"rating_blitz": 1777
 	},
 	{
-		"fideid": 11636491,
-		"name": "Korzanova,  Anna",
+		"fideid": 11654643,
+		"name": "Simanovs, Aleksejs",
 		"country": "LAT",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 3,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
+		"birthday": 1978,
+		"flag": "",
 		"rating_standard": 1654,
-		"rating_rapid": 1511,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -10536,7 +10519,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1651,
-		"rating_rapid": 1773,
+		"rating_rapid": 1738,
 		"rating_blitz": 1705
 	},
 	{
@@ -10555,6 +10538,23 @@
 		"rating_standard": 1650,
 		"rating_rapid": 1654,
 		"rating_blitz": 1545
+	},
+	{
+		"fideid": 11636440,
+		"name": "Aispurs, Gabriels",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1649,
+		"rating_rapid": 1744,
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 11606622,
@@ -10659,6 +10659,23 @@
 		"rating_blitz": 1600
 	},
 	{
+		"fideid": 11640456,
+		"name": "Cuksts, Stefans",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1645,
+		"rating_rapid": 1616,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11604352,
 		"name": "Omuls, Peteris",
 		"country": "LAT",
@@ -10710,6 +10727,23 @@
 		"rating_blitz": 1611
 	},
 	{
+		"fideid": 11644010,
+		"name": "Ronzins, Grigorijs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1644,
+		"rating_rapid": 1557,
+		"rating_blitz": 1508
+	},
+	{
 		"fideid": 11620854,
 		"name": "Krumins, Janis",
 		"country": "LAT",
@@ -10723,7 +10757,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1643,
-		"rating_rapid": 1872,
+		"rating_rapid": 1873,
 		"rating_blitz": 1782
 	},
 	{
@@ -10761,6 +10795,23 @@
 		"rating_blitz": 1571
 	},
 	{
+		"fideid": 11650303,
+		"name": "Scerbakovs, Aleksejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1641,
+		"rating_rapid": 1507,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11616423,
 		"name": "Afanasjevs, Aleksandrs",
 		"country": "LAT",
@@ -10774,7 +10825,7 @@
 		"birthday": 1954,
 		"flag": "",
 		"rating_standard": 1640,
-		"rating_rapid": 1710,
+		"rating_rapid": 1729,
 		"rating_blitz": 1746
 	},
 	{
@@ -10786,12 +10837,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1640,
-		"rating_rapid": 1580,
+		"rating_rapid": 1610,
 		"rating_blitz": null
 	},
 	{
@@ -10820,7 +10871,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -10973,13 +11024,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1632,
-		"rating_rapid": 1764,
-		"rating_blitz": 1967
+		"rating_rapid": 1844,
+		"rating_blitz": 1885
 	},
 	{
 		"fideid": 11609915,
@@ -11033,23 +11084,6 @@
 		"rating_blitz": 1649
 	},
 	{
-		"fideid": 11600667,
-		"name": "Zvaunis, Maris",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "",
-		"rating_standard": 1632,
-		"rating_rapid": 1611,
-		"rating_blitz": 1627
-	},
-	{
 		"fideid": 11633670,
 		"name": "Eglitis, Roberts",
 		"country": "LAT",
@@ -11063,8 +11097,25 @@
 		"birthday": 1966,
 		"flag": "",
 		"rating_standard": 1631,
-		"rating_rapid": 1664,
-		"rating_blitz": 1680
+		"rating_rapid": 1694,
+		"rating_blitz": 1684
+	},
+	{
+		"fideid": 11637951,
+		"name": "Gailums, Makss",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1629,
+		"rating_rapid": 1650,
+		"rating_blitz": 1531
 	},
 	{
 		"fideid": 11619929,
@@ -11082,6 +11133,23 @@
 		"rating_standard": 1629,
 		"rating_rapid": 1641,
 		"rating_blitz": 1644
+	},
+	{
+		"fideid": 11634197,
+		"name": "Lazdina, Keitija",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1629,
+		"rating_rapid": 1667,
+		"rating_blitz": 1492
 	},
 	{
 		"fideid": 11605839,
@@ -11183,7 +11251,7 @@
 		"flag": "",
 		"rating_standard": 1626,
 		"rating_rapid": 1616,
-		"rating_blitz": 1562
+		"rating_blitz": 1574
 	},
 	{
 		"fideid": 11609109,
@@ -11211,12 +11279,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1626,
-		"rating_rapid": 1506,
+		"rating_rapid": 1486,
 		"rating_blitz": 1525
 	},
 	{
@@ -11254,23 +11322,6 @@
 		"rating_blitz": 1864
 	},
 	{
-		"fideid": 11625970,
-		"name": "Ivanisvili, Maksims",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1624,
-		"rating_rapid": 1644,
-		"rating_blitz": 1522
-	},
-	{
 		"fideid": 11611650,
 		"name": "Berzinsh, Markuss",
 		"country": "LAT",
@@ -11296,13 +11347,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1623,
-		"rating_rapid": 1818,
-		"rating_blitz": 1660
+		"rating_rapid": 1753,
+		"rating_blitz": 1693
 	},
 	{
 		"fideid": 11607360,
@@ -11347,13 +11398,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1621,
-		"rating_rapid": 1735,
-		"rating_blitz": 1648
+		"rating_rapid": 1658,
+		"rating_blitz": 1638
 	},
 	{
 		"fideid": 11605022,
@@ -11424,6 +11475,40 @@
 		"rating_blitz": 1514
 	},
 	{
+		"fideid": 11625970,
+		"name": "Ivanisvili, Maksims",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1619,
+		"rating_rapid": 1690,
+		"rating_blitz": 1480
+	},
+	{
+		"fideid": 11630426,
+		"name": "Petersons, Patriks",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1619,
+		"rating_rapid": 1523,
+		"rating_blitz": 1583
+	},
+	{
 		"fideid": 11609680,
 		"name": "Silins, Juris",
 		"country": "LAT",
@@ -11488,7 +11573,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1616,
-		"rating_rapid": 1666,
+		"rating_rapid": 1664,
 		"rating_blitz": 1628
 	},
 	{
@@ -11526,23 +11611,6 @@
 		"rating_blitz": 1616
 	},
 	{
-		"fideid": 11633034,
-		"name": "Iljins, Kirils",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1612,
-		"rating_rapid": 1835,
-		"rating_blitz": 1614
-	},
-	{
 		"fideid": 11636106,
 		"name": "Fulss, Eriks",
 		"country": "LAT",
@@ -11577,23 +11645,6 @@
 		"rating_blitz": 1698
 	},
 	{
-		"fideid": 11632070,
-		"name": "Mierina, Liva",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1611,
-		"rating_rapid": 1531,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11602775,
 		"name": "Rogulis, Uldis",
 		"country": "LAT",
@@ -11624,7 +11675,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1611,
-		"rating_rapid": 1878,
+		"rating_rapid": 1864,
 		"rating_blitz": 1759
 	},
 	{
@@ -11675,7 +11726,7 @@
 		"birthday": 1947,
 		"flag": "",
 		"rating_standard": 1607,
-		"rating_rapid": 1516,
+		"rating_rapid": 1521,
 		"rating_blitz": 1517
 	},
 	{
@@ -11781,23 +11832,6 @@
 		"rating_blitz": 1523
 	},
 	{
-		"fideid": 11635568,
-		"name": "Petersons, Franks",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1604,
-		"rating_rapid": 1482,
-		"rating_blitz": 1437
-	},
-	{
 		"fideid": 11604611,
 		"name": "Andzans, Maris",
 		"country": "LAT",
@@ -11857,7 +11891,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
@@ -11883,21 +11917,21 @@
 		"rating_blitz": 1627
 	},
 	{
-		"fideid": 11634197,
-		"name": "Lazdina, Keitija",
+		"fideid": 11625430,
+		"name": "Lusts, Ricards Martins",
 		"country": "LAT",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
+		"birthday": 2011,
+		"flag": "",
 		"rating_standard": 1600,
-		"rating_rapid": 1536,
-		"rating_blitz": 1568
+		"rating_rapid": 1658,
+		"rating_blitz": 1688
 	},
 	{
 		"fideid": 11635835,
@@ -11913,7 +11947,7 @@
 		"birthday": 2015,
 		"flag": "i",
 		"rating_standard": 1599,
-		"rating_rapid": 1628,
+		"rating_rapid": 1578,
 		"rating_blitz": 1567
 	},
 	{
@@ -11925,29 +11959,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1599,
-		"rating_rapid": 1650,
-		"rating_blitz": 1698
+		"rating_rapid": 1636,
+		"rating_blitz": 1717
 	},
 	{
-		"fideid": 11650303,
-		"name": "Scerbakovs, Aleksejs",
+		"fideid": 11636491,
+		"name": "Korzanova,  Anna",
 		"country": "LAT",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 6,
 		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1599,
-		"rating_rapid": 1507,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1597,
+		"rating_rapid": 1511,
 		"rating_blitz": null
 	},
 	{
@@ -11964,8 +11998,8 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1597,
-		"rating_rapid": 1572,
-		"rating_blitz": null
+		"rating_rapid": 1547,
+		"rating_blitz": 1568
 	},
 	{
 		"fideid": 11609125,
@@ -11983,23 +12017,6 @@
 		"rating_standard": 1596,
 		"rating_rapid": 1536,
 		"rating_blitz": 1617
-	},
-	{
-		"fideid": 11625430,
-		"name": "Lusts, Ricards Martins",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1596,
-		"rating_rapid": 1716,
-		"rating_blitz": 1694
 	},
 	{
 		"fideid": 11604344,
@@ -12053,6 +12070,23 @@
 		"rating_blitz": 1540
 	},
 	{
+		"fideid": 11600667,
+		"name": "Zvaunis, Maris",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "",
+		"rating_standard": 1595,
+		"rating_rapid": 1611,
+		"rating_blitz": 1659
+	},
+	{
 		"fideid": 11619015,
 		"name": "Lasmanis, Reinis",
 		"country": "LAT",
@@ -12078,13 +12112,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1594,
-		"rating_rapid": 1844,
-		"rating_blitz": 1788
+		"rating_rapid": 1867,
+		"rating_blitz": 1795
 	},
 	{
 		"fideid": 11619821,
@@ -12153,23 +12187,6 @@
 		"rating_standard": 1591,
 		"rating_rapid": 1641,
 		"rating_blitz": 1575
-	},
-	{
-		"fideid": 11631880,
-		"name": "Tronenkova, Vilhelmine",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1591,
-		"rating_rapid": 1447,
-		"rating_blitz": 1565
 	},
 	{
 		"fideid": 11605995,
@@ -12257,21 +12274,21 @@
 		"rating_blitz": 1705
 	},
 	{
-		"fideid": 11624825,
-		"name": "Pekarskis, Vsevolods",
+		"fideid": 11640200,
+		"name": "Grigorenko, Vladislavs",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1589,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1615,
+		"rating_blitz": 1644
 	},
 	{
 		"fideid": 11607505,
@@ -12316,29 +12333,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1588,
-		"rating_rapid": 1461,
-		"rating_blitz": 1402
-	},
-	{
-		"fideid": 11633964,
-		"name": "Varpins, Valters",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1588,
-		"rating_rapid": 1485,
+		"rating_rapid": 1497,
 		"rating_blitz": null
 	},
 	{
@@ -12372,8 +12372,25 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1587,
-		"rating_rapid": 1435,
+		"rating_rapid": 1412,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11631805,
+		"name": "Aliev, Iskander",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1585,
+		"rating_rapid": 1702,
+		"rating_blitz": 1524
 	},
 	{
 		"fideid": 11616547,
@@ -12418,7 +12435,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -12543,7 +12560,7 @@
 		"flag": "wi",
 		"rating_standard": 1581,
 		"rating_rapid": 1612,
-		"rating_blitz": 1641
+		"rating_blitz": 1623
 	},
 	{
 		"fideid": 11607955,
@@ -12578,6 +12595,23 @@
 		"rating_standard": 1580,
 		"rating_rapid": 1576,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11624957,
+		"name": "Ozolins, Roberts",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1578,
+		"rating_rapid": 1698,
+		"rating_blitz": 1606
 	},
 	{
 		"fideid": 11629932,
@@ -12699,23 +12733,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11630426,
-		"name": "Petersons, Patriks",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1573,
-		"rating_rapid": 1547,
-		"rating_blitz": 1593
-	},
-	{
 		"fideid": 11647817,
 		"name": "Sahins, Berke",
 		"country": "LAT",
@@ -12763,8 +12780,8 @@
 		"birthday": 1939,
 		"flag": "w",
 		"rating_standard": 1572,
-		"rating_rapid": 1597,
-		"rating_blitz": 1529
+		"rating_rapid": 1598,
+		"rating_blitz": 1523
 	},
 	{
 		"fideid": 11615052,
@@ -12797,7 +12814,7 @@
 		"birthday": 2011,
 		"flag": "wi",
 		"rating_standard": 1571,
-		"rating_rapid": 1699,
+		"rating_rapid": 1718,
 		"rating_blitz": 1608
 	},
 	{
@@ -13016,7 +13033,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1954,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1567,
 		"rating_rapid": 1596,
 		"rating_blitz": 1569
@@ -13039,6 +13056,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11635568,
+		"name": "Petersons, Franks",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1566,
+		"rating_rapid": 1541,
+		"rating_blitz": 1450
+	},
+	{
 		"fideid": 11645369,
 		"name": "Grigors, Germans",
 		"country": "LAT",
@@ -13053,7 +13087,7 @@
 		"flag": "",
 		"rating_standard": 1564,
 		"rating_rapid": 1424,
-		"rating_blitz": 1556
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 11628855,
@@ -13070,24 +13104,7 @@
 		"flag": "i",
 		"rating_standard": 1564,
 		"rating_rapid": 1731,
-		"rating_blitz": 1712
-	},
-	{
-		"fideid": 11640200,
-		"name": "Grigorenko, Vladislavs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1563,
-		"rating_rapid": 1617,
-		"rating_blitz": 1619
+		"rating_blitz": 1752
 	},
 	{
 		"fideid": 11610972,
@@ -13175,23 +13192,6 @@
 		"rating_blitz": 1511
 	},
 	{
-		"fideid": 11646225,
-		"name": "Surums, Edmunds",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1561,
-		"rating_rapid": 1551,
-		"rating_blitz": 1478
-	},
-	{
 		"fideid": 11618078,
 		"name": "Krasilnikovs, Aleksandrs",
 		"country": "LAT",
@@ -13217,13 +13217,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1559,
-		"rating_rapid": 1617,
-		"rating_blitz": 1484
+		"rating_rapid": 1548,
+		"rating_blitz": 1538
 	},
 	{
 		"fideid": 11640170,
@@ -13239,8 +13239,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1559,
-		"rating_rapid": 1757,
-		"rating_blitz": 1602
+		"rating_rapid": 1769,
+		"rating_blitz": 1559
 	},
 	{
 		"fideid": 11630779,
@@ -13251,7 +13251,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -13328,23 +13328,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11624957,
-		"name": "Ozolins, Roberts",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1556,
-		"rating_rapid": 1698,
-		"rating_blitz": 1606
-	},
-	{
 		"fideid": 11645172,
 		"name": "Afanasjevs, Zahars",
 		"country": "LAT",
@@ -13358,7 +13341,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1555,
-		"rating_rapid": 1705,
+		"rating_rapid": 1713,
 		"rating_blitz": 1720
 	},
 	{
@@ -13455,30 +13438,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1554,
 		"rating_rapid": null,
 		"rating_blitz": 1577
-	},
-	{
-		"fideid": 11631805,
-		"name": "Aliev, Iskander",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1551,
-		"rating_rapid": 1621,
-		"rating_blitz": 1524
 	},
 	{
 		"fideid": 11610344,
@@ -13532,6 +13498,23 @@
 		"rating_blitz": 1598
 	},
 	{
+		"fideid": 11635517,
+		"name": "Lusis, Kristers",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1550,
+		"rating_rapid": 1562,
+		"rating_blitz": 1415
+	},
+	{
 		"fideid": 11613432,
 		"name": "Dirzininkas, Andris",
 		"country": "LAT",
@@ -13562,7 +13545,7 @@
 		"birthday": 2007,
 		"flag": "w",
 		"rating_standard": 1549,
-		"rating_rapid": 1501,
+		"rating_rapid": 1611,
 		"rating_blitz": 1470
 	},
 	{
@@ -13579,8 +13562,8 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1549,
-		"rating_rapid": 1715,
-		"rating_blitz": 1633
+		"rating_rapid": 1777,
+		"rating_blitz": 1649
 	},
 	{
 		"fideid": 11609222,
@@ -13598,23 +13581,6 @@
 		"rating_standard": 1549,
 		"rating_rapid": 1551,
 		"rating_blitz": 1489
-	},
-	{
-		"fideid": 11629304,
-		"name": "Kantans, Jekabs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1548,
-		"rating_rapid": 1615,
-		"rating_blitz": 1563
 	},
 	{
 		"fideid": 11622172,
@@ -13651,21 +13617,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11615923,
-		"name": "Fjodorovs, Sergejs",
+		"fideid": 11629304,
+		"name": "Kantans, Jekabs",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2008,
+		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1547,
-		"rating_rapid": 1486,
-		"rating_blitz": 1492
+		"rating_rapid": 1615,
+		"rating_blitz": 1669
+	},
+	{
+		"fideid": 11635134,
+		"name": "Luksevics, Aksels",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1547,
+		"rating_rapid": 1699,
+		"rating_blitz": 1555
 	},
 	{
 		"fideid": 11634146,
@@ -13681,7 +13664,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1547,
-		"rating_rapid": 1551,
+		"rating_rapid": 1602,
 		"rating_blitz": 1511
 	},
 	{
@@ -13693,7 +13676,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -13753,6 +13736,23 @@
 		"rating_blitz": 1574
 	},
 	{
+		"fideid": 11633131,
+		"name": "Abols, Ernests",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1544,
+		"rating_rapid": 1661,
+		"rating_blitz": 1430
+	},
+	{
 		"fideid": 11616385,
 		"name": "Kezberis,Markuss",
 		"country": "LAT",
@@ -13795,12 +13795,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1542,
-		"rating_rapid": 1766,
+		"rating_rapid": 1843,
 		"rating_blitz": 1642
 	},
 	{
@@ -13834,8 +13834,8 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1542,
-		"rating_rapid": 1592,
-		"rating_blitz": 1699
+		"rating_rapid": 1607,
+		"rating_blitz": 1747
 	},
 	{
 		"fideid": 11646845,
@@ -13853,40 +13853,6 @@
 		"rating_standard": 1541,
 		"rating_rapid": 1551,
 		"rating_blitz": 1584
-	},
-	{
-		"fideid": 11643447,
-		"name": "Jakabsone, Tifanija Bella",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1539,
-		"rating_rapid": 1630,
-		"rating_blitz": 1532
-	},
-	{
-		"fideid": 11633131,
-		"name": "Abols, Ernests",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1538,
-		"rating_rapid": 1589,
-		"rating_blitz": 1430
 	},
 	{
 		"fideid": 11628014,
@@ -13923,23 +13889,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11651261,
-		"name": "Platinska, Magdalina",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1538,
-		"rating_rapid": 1500,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11618523,
 		"name": "Sigats, Tomass",
 		"country": "LAT",
@@ -13954,6 +13903,23 @@
 		"flag": "i",
 		"rating_standard": 1538,
 		"rating_rapid": 1545,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11633964,
+		"name": "Varpins, Valters",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1538,
+		"rating_rapid": 1485,
 		"rating_blitz": null
 	},
 	{
@@ -14008,6 +13974,23 @@
 		"rating_blitz": 1478
 	},
 	{
+		"fideid": 11633468,
+		"name": "Fjodorovs, Dmitrijs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1535,
+		"rating_rapid": 1628,
+		"rating_blitz": 1442
+	},
+	{
 		"fideid": 11630159,
 		"name": "Sarsuns, Stanislavs",
 		"country": "LAT",
@@ -14033,13 +14016,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1534,
 		"rating_rapid": 1579,
-		"rating_blitz": 1542
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 11633484,
@@ -14050,7 +14033,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -14076,23 +14059,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11635134,
-		"name": "Luksevics, Aksels",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1534,
-		"rating_rapid": 1699,
-		"rating_blitz": 1555
-	},
-	{
 		"fideid": 11629681,
 		"name": "Spiridovska, Renata",
 		"country": "LAT",
@@ -14107,24 +14073,24 @@
 		"flag": "w",
 		"rating_standard": 1534,
 		"rating_rapid": 1512,
-		"rating_blitz": 1425
+		"rating_blitz": 1441
 	},
 	{
-		"fideid": 11633468,
-		"name": "Fjodorovs, Dmitrijs",
+		"fideid": 11645458,
+		"name": "Strekalovs, Rinalds",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 5,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1533,
-		"rating_rapid": 1628,
-		"rating_blitz": 1442
+		"rating_rapid": 1400,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11615435,
@@ -14174,8 +14140,8 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1531,
-		"rating_rapid": 1604,
-		"rating_blitz": 1422
+		"rating_rapid": 1612,
+		"rating_blitz": 1428
 	},
 	{
 		"fideid": 11629100,
@@ -14225,7 +14191,7 @@
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": 1530,
-		"rating_rapid": 1453,
+		"rating_rapid": 1496,
 		"rating_blitz": 1403
 	},
 	{
@@ -14293,7 +14259,7 @@
 		"birthday": 1953,
 		"flag": "i",
 		"rating_standard": 1529,
-		"rating_rapid": 1504,
+		"rating_rapid": 1486,
 		"rating_blitz": 1451
 	},
 	{
@@ -14314,6 +14280,23 @@
 		"rating_blitz": 1428
 	},
 	{
+		"fideid": 11644176,
+		"name": "Slepovs, Marians",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1529,
+		"rating_rapid": 1521,
+		"rating_blitz": 1464
+	},
+	{
 		"fideid": 11608412,
 		"name": "Vasilkovs, Aleksandrs",
 		"country": "LAT",
@@ -14327,7 +14310,7 @@
 		"birthday": 1969,
 		"flag": "",
 		"rating_standard": 1529,
-		"rating_rapid": 1607,
+		"rating_rapid": 1609,
 		"rating_blitz": 1597
 	},
 	{
@@ -14339,12 +14322,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1528,
-		"rating_rapid": 1650,
+		"rating_rapid": 1664,
 		"rating_blitz": 1608
 	},
 	{
@@ -14373,13 +14356,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1527,
 		"rating_rapid": 1511,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11646225,
+		"name": "Surums, Edmunds",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1527,
+		"rating_rapid": 1568,
+		"rating_blitz": 1478
 	},
 	{
 		"fideid": 11633166,
@@ -14395,8 +14395,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1526,
-		"rating_rapid": 1747,
-		"rating_blitz": 1594
+		"rating_rapid": 1728,
+		"rating_blitz": 1556
 	},
 	{
 		"fideid": 11618949,
@@ -14467,23 +14467,6 @@
 		"rating_blitz": 1697
 	},
 	{
-		"fideid": 11635517,
-		"name": "Lusis, Kristers",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1524,
-		"rating_rapid": 1562,
-		"rating_blitz": 1415
-	},
-	{
 		"fideid": 11610492,
 		"name": "Sergejevs, Germans",
 		"country": "LAT",
@@ -14501,21 +14484,21 @@
 		"rating_blitz": 1535
 	},
 	{
-		"fideid": 11642440,
-		"name": "Kirstuks, Regnars",
+		"fideid": 11615923,
+		"name": "Fjodorovs, Sergejs",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 1,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1523,
-		"rating_rapid": 1515,
-		"rating_blitz": 1434
+		"rating_rapid": 1486,
+		"rating_blitz": 1492
 	},
 	{
 		"fideid": 11611138,
@@ -14569,6 +14552,40 @@
 		"rating_blitz": 1490
 	},
 	{
+		"fideid": 11643447,
+		"name": "Jakabsone, Tifanija Bella",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1521,
+		"rating_rapid": 1633,
+		"rating_blitz": 1532
+	},
+	{
+		"fideid": 11631880,
+		"name": "Tronenkova, Vilhelmine",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1521,
+		"rating_rapid": 1492,
+		"rating_blitz": 1565
+	},
+	{
 		"fideid": 11631007,
 		"name": "Vitums Jaunzems, Gusts",
 		"country": "LAT",
@@ -14582,7 +14599,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1521,
-		"rating_rapid": 1583,
+		"rating_rapid": 1597,
 		"rating_blitz": 1602
 	},
 	{
@@ -14617,7 +14634,7 @@
 		"flag": "",
 		"rating_standard": 1520,
 		"rating_rapid": 1643,
-		"rating_blitz": 1498
+		"rating_blitz": 1503
 	},
 	{
 		"fideid": 11639407,
@@ -14637,23 +14654,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11621176,
-		"name": "Liepina, Daniela Nikola",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1519,
-		"rating_rapid": 1757,
-		"rating_blitz": 1599
-	},
-	{
 		"fideid": 11621893,
 		"name": "Pukite, Elza",
 		"country": "LAT",
@@ -14669,23 +14669,6 @@
 		"rating_standard": 1519,
 		"rating_rapid": 1490,
 		"rating_blitz": 1487
-	},
-	{
-		"fideid": 11651822,
-		"name": "Gilba, Janis Arturs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1518,
-		"rating_rapid": 1485,
-		"rating_blitz": 1454
 	},
 	{
 		"fideid": 11607947,
@@ -14718,7 +14701,7 @@
 		"birthday": 1957,
 		"flag": "",
 		"rating_standard": 1518,
-		"rating_rapid": 1548,
+		"rating_rapid": 1503,
 		"rating_blitz": 1461
 	},
 	{
@@ -14730,7 +14713,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -14753,7 +14736,7 @@
 		"flag": "i",
 		"rating_standard": 1518,
 		"rating_rapid": 1500,
-		"rating_blitz": 1644
+		"rating_blitz": 1646
 	},
 	{
 		"fideid": 11643714,
@@ -14764,7 +14747,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -14781,30 +14764,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1518,
 		"rating_rapid": 1525,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11639881,
-		"name": "Boleiko, Augusts",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1517,
-		"rating_rapid": 1515,
-		"rating_blitz": 1559
 	},
 	{
 		"fideid": 11646004,
@@ -14815,7 +14781,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
@@ -14832,13 +14798,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1516,
-		"rating_rapid": 1785,
-		"rating_blitz": 1577
+		"rating_rapid": 1722,
+		"rating_blitz": 1532
 	},
 	{
 		"fideid": 11636831,
@@ -14873,6 +14839,40 @@
 		"rating_standard": 1516,
 		"rating_rapid": 1432,
 		"rating_blitz": 1791
+	},
+	{
+		"fideid": 11642440,
+		"name": "Kirstuks, Regnars",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1514,
+		"rating_rapid": 1519,
+		"rating_blitz": 1580
+	},
+	{
+		"fideid": 11648120,
+		"name": "Smalijs, Vladimirs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1514,
+		"rating_rapid": 1510,
+		"rating_blitz": 1403
 	},
 	{
 		"fideid": 11613670,
@@ -14934,12 +14934,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1512,
-		"rating_rapid": 1586,
+		"rating_rapid": 1648,
 		"rating_blitz": 1566
 	},
 	{
@@ -15024,8 +15024,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1511,
-		"rating_rapid": 1558,
-		"rating_blitz": 1445
+		"rating_rapid": 1542,
+		"rating_blitz": 1463
 	},
 	{
 		"fideid": 11624086,
@@ -15058,8 +15058,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1511,
-		"rating_rapid": 1571,
-		"rating_blitz": 1513
+		"rating_rapid": null,
+		"rating_blitz": 1517
 	},
 	{
 		"fideid": 11625473,
@@ -15160,7 +15160,7 @@
 		"birthday": 1947,
 		"flag": "i",
 		"rating_standard": 1509,
-		"rating_rapid": 1551,
+		"rating_rapid": 1585,
 		"rating_blitz": 1698
 	},
 	{
@@ -15177,8 +15177,8 @@
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": 1508,
-		"rating_rapid": null,
-		"rating_blitz": 1420
+		"rating_rapid": 1412,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11635479,
@@ -15228,8 +15228,8 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1507,
-		"rating_rapid": 1473,
-		"rating_blitz": 1496
+		"rating_rapid": 1532,
+		"rating_blitz": 1488
 	},
 	{
 		"fideid": 11644109,
@@ -15245,8 +15245,25 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1507,
-		"rating_rapid": 1709,
-		"rating_blitz": 1562
+		"rating_rapid": 1737,
+		"rating_blitz": 1649
+	},
+	{
+		"fideid": 11651261,
+		"name": "Platinska, Magdalina",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1507,
+		"rating_rapid": 1557,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 11627000,
@@ -15291,12 +15308,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1506,
-		"rating_rapid": 1402,
+		"rating_rapid": 1456,
 		"rating_blitz": 1544
 	},
 	{
@@ -15313,8 +15330,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1506,
-		"rating_rapid": 1732,
-		"rating_blitz": 1617
+		"rating_rapid": 1756,
+		"rating_blitz": 1708
 	},
 	{
 		"fideid": 11639822,
@@ -15334,6 +15351,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11639881,
+		"name": "Boleiko, Augusts",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1504,
+		"rating_rapid": 1515,
+		"rating_blitz": 1559
+	},
+	{
+		"fideid": 11649194,
+		"name": "Daugavins, Krisjanis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1504,
+		"rating_rapid": 1481,
+		"rating_blitz": 1547
+	},
+	{
 		"fideid": 11606703,
 		"name": "Erenpreiss, Pauls",
 		"country": "LAT",
@@ -15349,6 +15400,23 @@
 		"rating_standard": 1504,
 		"rating_rapid": null,
 		"rating_blitz": 1555
+	},
+	{
+		"fideid": 11651822,
+		"name": "Gilba, Janis Arturs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1504,
+		"rating_rapid": 1505,
+		"rating_blitz": 1454
 	},
 	{
 		"fideid": 11611812,
@@ -15466,7 +15534,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1499,
-		"rating_rapid": 1410,
+		"rating_rapid": 1429,
 		"rating_blitz": 1468
 	},
 	{
@@ -15670,7 +15738,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1492,
-		"rating_rapid": 1589,
+		"rating_rapid": 1603,
 		"rating_blitz": null
 	},
 	{
@@ -15759,23 +15827,6 @@
 		"rating_blitz": 1492
 	},
 	{
-		"fideid": 11638230,
-		"name": "Kalnins, Eduards",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1487,
-		"rating_rapid": 1518,
-		"rating_blitz": 1517
-	},
-	{
 		"fideid": 11626968,
 		"name": "Skreitule, Undine",
 		"country": "LAT",
@@ -15808,6 +15859,23 @@
 		"rating_standard": 1486,
 		"rating_rapid": 1402,
 		"rating_blitz": 1497
+	},
+	{
+		"fideid": 11638230,
+		"name": "Kalnins, Eduards",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1485,
+		"rating_rapid": 1518,
+		"rating_blitz": 1517
 	},
 	{
 		"fideid": 11610484,
@@ -15942,8 +16010,8 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1482,
-		"rating_rapid": 1600,
-		"rating_blitz": 1581
+		"rating_rapid": 1583,
+		"rating_blitz": 1619
 	},
 	{
 		"fideid": 11616210,
@@ -15977,24 +16045,7 @@
 		"flag": "",
 		"rating_standard": 1482,
 		"rating_rapid": 1578,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11648600,
-		"name": "Luse, Elizabete Anna",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1481,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1536
 	},
 	{
 		"fideid": 68400071,
@@ -16027,7 +16078,7 @@
 		"birthday": 2014,
 		"flag": "i",
 		"rating_standard": 1480,
-		"rating_rapid": 1579,
+		"rating_rapid": 1531,
 		"rating_blitz": 1456
 	},
 	{
@@ -16039,7 +16090,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -16096,23 +16147,6 @@
 		"flag": "",
 		"rating_standard": 1477,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11647280,
-		"name": "Jazvinskis, Aleksejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1477,
-		"rating_rapid": 1468,
 		"rating_blitz": null
 	},
 	{
@@ -16265,7 +16299,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1473,
-		"rating_rapid": 1697,
+		"rating_rapid": 1629,
 		"rating_blitz": null
 	},
 	{
@@ -16328,7 +16362,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -16351,7 +16385,7 @@
 		"flag": "i",
 		"rating_standard": 1471,
 		"rating_rapid": 1492,
-		"rating_blitz": 1436
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11609052,
@@ -16388,40 +16422,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11644176,
-		"name": "Slepovs, Marians",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1470,
-		"rating_rapid": 1550,
-		"rating_blitz": 1470
-	},
-	{
-		"fideid": 11646195,
-		"name": "Antonevics, Normunds",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1469,
-		"rating_rapid": 1417,
-		"rating_blitz": 1419
-	},
-	{
 		"fideid": 11646373,
 		"name": "Bakass, Artjoms",
 		"country": "LAT",
@@ -16430,12 +16430,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1469,
-		"rating_rapid": 1513,
+		"rating_rapid": 1620,
 		"rating_blitz": null
 	},
 	{
@@ -16452,8 +16452,8 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1469,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1684,
+		"rating_blitz": 1411
 	},
 	{
 		"fideid": 11639903,
@@ -16486,7 +16486,7 @@
 		"birthday": 1973,
 		"flag": "",
 		"rating_standard": 1468,
-		"rating_rapid": 1638,
+		"rating_rapid": 1666,
 		"rating_blitz": null
 	},
 	{
@@ -16503,7 +16503,7 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1468,
-		"rating_rapid": 1611,
+		"rating_rapid": 1605,
 		"rating_blitz": 1596
 	},
 	{
@@ -16566,29 +16566,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": 1467,
-		"rating_rapid": 1545,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11635525,
-		"name": "Mence, Jasmina",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1467,
-		"rating_rapid": null,
+		"rating_rapid": 1524,
 		"rating_blitz": null
 	},
 	{
@@ -16643,6 +16626,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11652381,
+		"name": "Ambainis, Krisjanis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1466,
+		"rating_rapid": 1580,
+		"rating_blitz": 1446
+	},
+	{
 		"fideid": 11639440,
 		"name": "Morozovs, Nikita",
 		"country": "LAT",
@@ -16694,6 +16694,23 @@
 		"rating_blitz": 1510
 	},
 	{
+		"fideid": 11640243,
+		"name": "Krumins, Francis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1465,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11632364,
 		"name": "Visnakova, Anna",
 		"country": "LAT",
@@ -16702,13 +16719,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1465,
-		"rating_rapid": 1611,
-		"rating_blitz": 1507
+		"rating_rapid": 1653,
+		"rating_blitz": 1509
 	},
 	{
 		"fideid": 11639636,
@@ -16770,7 +16787,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -16804,7 +16821,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "w",
@@ -16827,6 +16844,40 @@
 		"flag": "i",
 		"rating_standard": 1463,
 		"rating_rapid": 1433,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11621176,
+		"name": "Liepina, Daniela Nikola",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1463,
+		"rating_rapid": 1603,
+		"rating_blitz": 1599
+	},
+	{
+		"fideid": 11635525,
+		"name": "Mence, Jasmina",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1463,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -16889,12 +16940,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1461,
-		"rating_rapid": null,
+		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
 	{
@@ -16932,6 +16983,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11643404,
+		"name": "Deme, Alekss",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1459,
+		"rating_rapid": 1442,
+		"rating_blitz": 1440
+	},
+	{
 		"fideid": 11632330,
 		"name": "Jutans, Raivo",
 		"country": "LAT",
@@ -16960,7 +17028,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1458,
 		"rating_rapid": 1477,
 		"rating_blitz": 1539
@@ -17068,6 +17136,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11647280,
+		"name": "Jazvinskis, Aleksejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1455,
+		"rating_rapid": 1500,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11616172,
 		"name": "Parhomenko,Igors",
 		"country": "LAT",
@@ -17127,7 +17212,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -17195,7 +17280,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -17319,8 +17404,25 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1447,
-		"rating_rapid": 1530,
+		"rating_rapid": 1598,
 		"rating_blitz": 1590
+	},
+	{
+		"fideid": 11651288,
+		"name": "Jazvinskis, Mihails",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1447,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11641258,
@@ -17338,6 +17440,23 @@
 		"rating_standard": 1447,
 		"rating_rapid": 1520,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11632070,
+		"name": "Mierina, Liva",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1447,
+		"rating_rapid": 1505,
+		"rating_blitz": 1491
 	},
 	{
 		"fideid": 11610948,
@@ -17387,25 +17506,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1445,
-		"rating_rapid": 1447,
+		"rating_rapid": 1425,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11639253,
-		"name": "Liscovs, Augusts",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 15,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1445,
-		"rating_rapid": null,
-		"rating_blitz": 1508
 	},
 	{
 		"fideid": 11645512,
@@ -17459,6 +17561,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11639253,
+		"name": "Liscovs, Augusts",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1442,
+		"rating_rapid": 1521,
+		"rating_blitz": 1505
+	},
+	{
 		"fideid": 11619570,
 		"name": "Labecka, Maria",
 		"country": "LAT",
@@ -17473,6 +17592,23 @@
 		"flag": "wi",
 		"rating_standard": 1441,
 		"rating_rapid": 1560,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11648600,
+		"name": "Luse, Elizabete Anna",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1441,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -17518,30 +17654,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1440,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11640472,
-		"name": "Molcanovs, Jevgenijs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": 1439,
-		"rating_rapid": 1592,
-		"rating_blitz": 1465
 	},
 	{
 		"fideid": 11630990,
@@ -17557,8 +17676,25 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1438,
-		"rating_rapid": 1635,
+		"rating_rapid": 1605,
 		"rating_blitz": 1417
+	},
+	{
+		"fideid": 11632429,
+		"name": "Jeparovs, Nikita",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1438,
+		"rating_rapid": 1493,
+		"rating_blitz": 1485
 	},
 	{
 		"fideid": 11630442,
@@ -17603,7 +17739,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -17625,7 +17761,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1438,
-		"rating_rapid": 1584,
+		"rating_rapid": 1590,
 		"rating_blitz": 1473
 	},
 	{
@@ -17663,21 +17799,21 @@
 		"rating_blitz": 1497
 	},
 	{
-		"fideid": 11632429,
-		"name": "Jeparovs, Nikita",
+		"fideid": 11646195,
+		"name": "Antonevics, Normunds",
 		"country": "LAT",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1436,
-		"rating_rapid": 1493,
-		"rating_blitz": 1485
+		"rating_rapid": 1417,
+		"rating_blitz": 1419
 	},
 	{
 		"fideid": 11633778,
@@ -17688,12 +17824,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1435,
-		"rating_rapid": 1532,
+		"rating_rapid": 1466,
 		"rating_blitz": 1536
 	},
 	{
@@ -17708,7 +17844,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1984,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1434,
 		"rating_rapid": 1539,
 		"rating_blitz": 1441
@@ -17727,7 +17863,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1434,
-		"rating_rapid": 1556,
+		"rating_rapid": 1521,
 		"rating_blitz": 1497
 	},
 	{
@@ -17816,23 +17952,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11648120,
-		"name": "Smalijs, Vladimirs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1432,
-		"rating_rapid": 1459,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11611871,
 		"name": "Valeine, Ieva",
 		"country": "LAT",
@@ -17914,7 +18033,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1431,
-		"rating_rapid": 1658,
+		"rating_rapid": 1640,
 		"rating_blitz": 1458
 	},
 	{
@@ -17986,23 +18105,6 @@
 		"rating_blitz": 1447
 	},
 	{
-		"fideid": 11652381,
-		"name": "Ambainis, Krisjanis",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1426,
-		"rating_rapid": 1569,
-		"rating_blitz": 1446
-	},
-	{
 		"fideid": 11636343,
 		"name": "Cehovals, Grigorijs",
 		"country": "LAT",
@@ -18011,7 +18113,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -18113,7 +18215,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -18154,6 +18256,23 @@
 		"rating_standard": 1421,
 		"rating_rapid": 1499,
 		"rating_blitz": 1525
+	},
+	{
+		"fideid": 11642530,
+		"name": "Sergejevs, Roberts",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1421,
+		"rating_rapid": 1445,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11635991,
@@ -18203,7 +18322,7 @@
 		"birthday": 1960,
 		"flag": "",
 		"rating_standard": 1420,
-		"rating_rapid": 1483,
+		"rating_rapid": 1499,
 		"rating_blitz": null
 	},
 	{
@@ -18220,8 +18339,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1420,
-		"rating_rapid": 1449,
-		"rating_blitz": 1557
+		"rating_rapid": 1436,
+		"rating_blitz": 1496
 	},
 	{
 		"fideid": 11629320,
@@ -18292,6 +18411,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11647876,
+		"name": "Legzdina, Frida",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1416,
+		"rating_rapid": null,
+		"rating_blitz": 1500
+	},
+	{
 		"fideid": 11621630,
 		"name": "Taskans, Adrians",
 		"country": "LAT",
@@ -18317,13 +18453,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1415,
-		"rating_rapid": 1414,
-		"rating_blitz": null
+		"rating_rapid": 1466,
+		"rating_blitz": 1448
 	},
 	{
 		"fideid": 11609729,
@@ -18354,7 +18490,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1415,
 		"rating_rapid": null,
 		"rating_blitz": 1496
@@ -18373,7 +18509,7 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 1414,
-		"rating_rapid": 1514,
+		"rating_rapid": 1504,
 		"rating_blitz": null
 	},
 	{
@@ -18428,23 +18564,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11650044,
-		"name": "Jefimova, Marija",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "w",
-		"rating_standard": 1412,
-		"rating_rapid": 1478,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11639555,
 		"name": "Steinberga, Anete",
 		"country": "LAT",
@@ -18475,7 +18594,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1411,
-		"rating_rapid": 1425,
+		"rating_rapid": 1432,
 		"rating_blitz": null
 	},
 	{
@@ -18581,40 +18700,6 @@
 		"rating_blitz": 1404
 	},
 	{
-		"fideid": 11643366,
-		"name": "Ugrjumovs, Nikita",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1408,
-		"rating_rapid": null,
-		"rating_blitz": 1479
-	},
-	{
-		"fideid": 11633000,
-		"name": "Apinis, Madars Andrejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": 1407,
-		"rating_rapid": 1401,
-		"rating_blitz": 1566
-	},
-	{
 		"fideid": 11633530,
 		"name": "Frolovs, Nikita",
 		"country": "LAT",
@@ -18647,23 +18732,6 @@
 		"rating_standard": 1406,
 		"rating_rapid": null,
 		"rating_blitz": 1413
-	},
-	{
-		"fideid": 11640464,
-		"name": "Cukste, Sofija",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1405,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11626453,
@@ -18730,7 +18798,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1404,
-		"rating_rapid": 1428,
+		"rating_rapid": null,
 		"rating_blitz": 1509
 	},
 	{
@@ -18751,6 +18819,23 @@
 		"rating_blitz": 1504
 	},
 	{
+		"fideid": 11638354,
+		"name": "Avads, Aimans",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1402,
+		"rating_rapid": 1425,
+		"rating_blitz": 1410
+	},
+	{
 		"fideid": 11632470,
 		"name": "Fridmans, Ilja",
 		"country": "LAT",
@@ -18759,12 +18844,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1402,
-		"rating_rapid": 1624,
+		"rating_rapid": 1493,
 		"rating_blitz": 1411
 	},
 	{
@@ -18785,6 +18870,23 @@
 		"rating_blitz": 1476
 	},
 	{
+		"fideid": 11633000,
+		"name": "Apinis, Madars Andrejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1401,
+		"rating_rapid": 1431,
+		"rating_blitz": 1566
+	},
+	{
 		"fideid": 11622920,
 		"name": "Zakis, Janis",
 		"country": "LAT",
@@ -18800,6 +18902,23 @@
 		"rating_standard": 1401,
 		"rating_rapid": 1707,
 		"rating_blitz": 1511
+	},
+	{
+		"fideid": 11635851,
+		"name": "Abeltins, Artis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 41,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1417,
+		"rating_blitz": 1538
 	},
 	{
 		"fideid": 11630507,
@@ -18849,7 +18968,7 @@
 		"birthday": 1964,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1489,
+		"rating_rapid": 1490,
 		"rating_blitz": null
 	},
 	{
@@ -18919,23 +19038,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1738,
 		"rating_blitz": 1656
-	},
-	{
-		"fideid": 11641762,
-		"name": "Aile, Paula",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 17,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1434,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11610530,
@@ -19116,7 +19218,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -19190,23 +19292,6 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1433,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11649240,
-		"name": "Ananjevs, Savelijs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1417,
 		"rating_blitz": null
 	},
 	{
@@ -19371,12 +19456,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 3,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1488,
+		"rating_rapid": 1511,
 		"rating_blitz": null
 	},
 	{
@@ -19652,23 +19737,6 @@
 		"rating_blitz": 1710
 	},
 	{
-		"fideid": 11638354,
-		"name": "Avads, Aimans",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1425,
-		"rating_blitz": 1410
-	},
-	{
 		"fideid": 11608250,
 		"name": "Avenina, Maija",
 		"country": "LAT",
@@ -19864,7 +19932,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1957,
 		"flag": "",
@@ -19898,7 +19966,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1952,
 		"flag": "",
@@ -19952,7 +20020,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1515,
 		"rating_blitz": null
@@ -20141,7 +20209,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1441,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -20204,7 +20272,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -20221,7 +20289,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -20502,23 +20570,6 @@
 		"rating_blitz": 1616
 	},
 	{
-		"fideid": 11644303,
-		"name": "Beniosev, David",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1469,
-		"rating_blitz": 1510
-	},
-	{
 		"fideid": 11615109,
 		"name": "Benkis,Maris",
 		"country": "LAT",
@@ -20629,7 +20680,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
@@ -20646,7 +20697,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
@@ -20666,7 +20717,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1672,
 		"rating_blitz": null
@@ -20731,7 +20782,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 7,
 		"k": 20,
 		"birthday": 1956,
 		"flag": "",
@@ -20751,7 +20802,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1465,
 		"rating_blitz": null
@@ -20788,40 +20839,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1562,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11632658,
-		"name": "Berzins, Mihails",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 20,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1406,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11638320,
-		"name": "Berzins, Ricards",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1411,
 		"rating_blitz": null
 	},
 	{
@@ -20972,7 +20989,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1620,
 		"rating_blitz": 1650
@@ -21003,12 +21020,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 7,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1459,
+		"rating_rapid": 1449,
 		"rating_blitz": null
 	},
 	{
@@ -21114,6 +21131,23 @@
 		"rating_blitz": 1550
 	},
 	{
+		"fideid": 11653000,
+		"name": "Bitinieks, Dainis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1455,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11630272,
 		"name": "Blinds,Gustavs",
 		"country": "LAT",
@@ -21122,12 +21156,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1619,
+		"rating_rapid": 1603,
 		"rating_blitz": 1581
 	},
 	{
@@ -21144,25 +21178,8 @@
 		"birthday": 1974,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1671,
+		"rating_rapid": 1664,
 		"rating_blitz": 1747
-	},
-	{
-		"fideid": 11645911,
-		"name": "Blums, Eduards",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1429,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11631465,
@@ -21258,7 +21275,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -21275,7 +21292,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1990,
 		"flag": "",
@@ -21433,7 +21450,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1488,
+		"rating_rapid": 1471,
 		"rating_blitz": null
 	},
 	{
@@ -21547,12 +21564,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 6,
 		"k": 20,
 		"birthday": 1967,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1582,
+		"rating_rapid": 1616,
 		"rating_blitz": 1624
 	},
 	{
@@ -21734,12 +21751,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 7,
 		"k": 40,
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1495,
+		"rating_rapid": 1421,
 		"rating_blitz": null
 	},
 	{
@@ -21785,7 +21802,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1994,
 		"flag": "",
@@ -21802,7 +21819,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1964,
 		"flag": "",
@@ -21853,12 +21870,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1941,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1496,
+		"rating_rapid": 1481,
 		"rating_blitz": 1663
 	},
 	{
@@ -21904,7 +21921,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1955,
 		"flag": "",
@@ -21927,6 +21944,40 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1543,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11656107,
+		"name": "Caupals-Poruks, Romans",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1538,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11650796,
+		"name": "Ceicans, Maksims",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1499,
 		"rating_blitz": null
 	},
 	{
@@ -21998,6 +22049,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11636386,
+		"name": "Chirkova, Anna",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 31,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1401,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11626194,
 		"name": "Chuhan, Li",
 		"country": "LAT",
@@ -22028,7 +22096,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1549,
+		"rating_rapid": 1589,
 		"rating_blitz": null
 	},
 	{
@@ -22159,10 +22227,10 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1580,
 		"rating_blitz": null
@@ -22193,7 +22261,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -22423,6 +22491,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11652020,
+		"name": "Dansins, Daniils",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1425,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11646284,
 		"name": "Daragans, Dmitrijs",
 		"country": "LAT",
@@ -22437,6 +22522,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1415,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11647469,
+		"name": "Daragans, Mihails",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1552,
 		"rating_blitz": null
 	},
 	{
@@ -22491,23 +22593,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11649194,
-		"name": "Daugavins, Krisjanis",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1527,
-		"rating_blitz": 1617
-	},
-	{
 		"fideid": 11652691,
 		"name": "Davidjuks, Timofejs",
 		"country": "LAT",
@@ -22516,12 +22601,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 20,
+		"games": 7,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1460,
+		"rating_rapid": 1483,
 		"rating_blitz": 1474
 	},
 	{
@@ -22567,7 +22652,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1966,
 		"flag": "",
@@ -22627,23 +22712,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11643404,
-		"name": "Deme, Alekss",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1452,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11617136,
 		"name": "Denevics, Daniels",
 		"country": "LAT",
@@ -22689,7 +22757,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1401,
 		"rating_blitz": null
@@ -22856,7 +22924,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1948,
 		"flag": "",
@@ -23060,12 +23128,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1553,
+		"rating_rapid": 1568,
 		"rating_blitz": 1639
 	},
 	{
@@ -23290,6 +23358,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11646381,
+		"name": "Eglitis, Rudolfs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1420,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11617160,
 		"name": "Eihvalds, Daniels",
 		"country": "LAT",
@@ -23443,6 +23528,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11652268,
+		"name": "Ezerins, Ernests",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1449,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11610204,
 		"name": "Ezerins, Tomass",
 		"country": "LAT",
@@ -23502,12 +23604,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 51,
+		"games": 13,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1497,
+		"rating_rapid": 1495,
 		"rating_blitz": 1443
 	},
 	{
@@ -23590,9 +23692,26 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1971,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1591,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11648872,
+		"name": "Firksere, Amelija",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1450,
 		"rating_blitz": null
 	},
 	{
@@ -23621,7 +23740,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -23899,7 +24018,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1510,
-		"rating_blitz": 1463
+		"rating_blitz": 1513
 	},
 	{
 		"fideid": 11623888,
@@ -23970,6 +24089,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11652594,
+		"name": "Galaganovs, Vladislavs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1470,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11648805,
 		"name": "Galperns, Levijs",
 		"country": "LAT",
@@ -23978,7 +24114,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -23995,7 +24131,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -24276,6 +24412,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11652608,
+		"name": "Golovacs, Romans",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 21,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1415,
+		"rating_blitz": 1413
+	},
+	{
 		"fideid": 11648341,
 		"name": "Golubevs, Nikita",
 		"country": "LAT",
@@ -24301,12 +24454,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1588,
+		"rating_rapid": 1450,
 		"rating_blitz": null
 	},
 	{
@@ -24471,7 +24624,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1984,
 		"flag": "",
@@ -24692,7 +24845,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -24709,10 +24862,10 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1983,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1401,
 		"rating_blitz": null
@@ -24786,6 +24939,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11645580,
+		"name": "Grinfelds, Eduards",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1416,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11628065,
 		"name": "Griskevica, Alise Aleksandra",
 		"country": "LAT",
@@ -24811,7 +24981,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -24930,12 +25100,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 20,
 		"birthday": 2001,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1604,
+		"rating_rapid": 1582,
 		"rating_blitz": null
 	},
 	{
@@ -24947,7 +25117,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1946,
 		"flag": "",
@@ -24964,7 +25134,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 20,
 		"birthday": 1972,
 		"flag": "",
@@ -25055,7 +25225,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1612,
-		"rating_blitz": 1703
+		"rating_blitz": 1673
 	},
 	{
 		"fideid": 11643803,
@@ -25168,13 +25338,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 1,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1484,
-		"rating_blitz": null
+		"rating_rapid": 1463,
+		"rating_blitz": 1420
 	},
 	{
 		"fideid": 11605707,
@@ -25219,12 +25389,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1954,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1482,
+		"rating_rapid": 1475,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11656271,
+		"name": "Hans, Olafs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1444,
 		"rating_blitz": null
 	},
 	{
@@ -25287,12 +25474,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 20,
 		"k": 20,
 		"birthday": 1952,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1693,
+		"rating_rapid": 1620,
 		"rating_blitz": null
 	},
 	{
@@ -25406,7 +25593,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -25423,7 +25610,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -25562,7 +25749,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1571,
 		"rating_blitz": 1719
@@ -25789,6 +25976,23 @@
 		"rating_blitz": 1501
 	},
 	{
+		"fideid": 11636513,
+		"name": "Jalcins, Alans Sedats",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1517,
+		"rating_blitz": 1490
+	},
+	{
 		"fideid": 11616156,
 		"name": "Jaldovs,Dmitrijs",
 		"country": "LAT",
@@ -25814,12 +26018,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1407,
+		"rating_rapid": 1419,
 		"rating_blitz": null
 	},
 	{
@@ -25882,7 +26086,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2000,
 		"flag": "",
@@ -25956,6 +26160,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1429,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11650044,
+		"name": "Jefimova, Marija",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1549,
 		"rating_blitz": null
 	},
 	{
@@ -26052,12 +26273,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 2,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1495,
+		"rating_rapid": 1455,
 		"rating_blitz": null
 	},
 	{
@@ -26174,7 +26395,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1949,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1539,
 		"rating_blitz": null
@@ -26290,7 +26511,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "",
@@ -26364,23 +26585,6 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1485,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11623675,
-		"name": "Jurmalis, Teofils",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1406,
 		"rating_blitz": null
 	},
 	{
@@ -26656,6 +26860,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11655585,
+		"name": "Kalnberzins, Jekabs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1438,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11639920,
 		"name": "Kalnciems, Roberts",
 		"country": "LAT",
@@ -26715,30 +26936,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1869,
-		"rating_blitz": 1821
-	},
-	{
-		"fideid": 11607718,
-		"name": "Kalnins, Normunds",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1931,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1882,
-		"rating_blitz": null
+		"rating_rapid": 1872,
+		"rating_blitz": 1799
 	},
 	{
 		"fideid": 11612037,
@@ -26756,6 +26960,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1738,
 		"rating_blitz": 1626
+	},
+	{
+		"fideid": 11607718,
+		"name": "Kalnins, Normunds",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1931,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1882,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11638516,
@@ -27259,12 +27480,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1962,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1808,
+		"rating_rapid": 1769,
 		"rating_blitz": 1744
 	},
 	{
@@ -27378,12 +27599,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 4,
 		"k": 20,
 		"birthday": 1947,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1539,
+		"rating_rapid": 1516,
 		"rating_blitz": null
 	},
 	{
@@ -27514,7 +27735,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -27548,7 +27769,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
@@ -27588,6 +27809,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1423,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11652322,
+		"name": "Kiselovs, Eriks",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -27667,7 +27905,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1950,
 		"flag": "",
@@ -27769,7 +28007,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -27922,7 +28160,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -27956,12 +28194,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 3,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1530,
+		"rating_rapid": 1502,
 		"rating_blitz": null
 	},
 	{
@@ -27990,12 +28228,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 6,
 		"k": 20,
 		"birthday": 1957,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1694,
+		"rating_rapid": 1706,
 		"rating_blitz": null
 	},
 	{
@@ -28041,13 +28279,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 6,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1516,
-		"rating_blitz": 1506
+		"rating_rapid": 1525,
+		"rating_blitz": 1508
 	},
 	{
 		"fideid": 11622326,
@@ -28364,12 +28602,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 7,
 		"k": 20,
 		"birthday": 1946,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1596,
+		"rating_rapid": 1628,
 		"rating_blitz": null
 	},
 	{
@@ -28534,12 +28772,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 3,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1483,
+		"rating_rapid": 1468,
 		"rating_blitz": null
 	},
 	{
@@ -28636,12 +28874,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 6,
 		"k": 20,
 		"birthday": 1948,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1565,
+		"rating_rapid": 1583,
 		"rating_blitz": null
 	},
 	{
@@ -28653,12 +28891,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1478,
+		"rating_rapid": 1460,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11642211,
+		"name": "Kozulins, Kristaps",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1473,
 		"rating_blitz": null
 	},
 	{
@@ -28755,7 +29010,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -28823,12 +29078,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 6,
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1473,
+		"rating_rapid": 1490,
 		"rating_blitz": null
 	},
 	{
@@ -28908,12 +29163,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1427,
+		"rating_rapid": 1451,
 		"rating_blitz": null
 	},
 	{
@@ -28925,12 +29180,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 6,
 		"k": 40,
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1692,
+		"rating_rapid": 1560,
 		"rating_blitz": null
 	},
 	{
@@ -29240,23 +29495,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11612975,
-		"name": "Kurpniece, Viktorija",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1415,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11612274,
 		"name": "Kurpnieks,Marcis",
 		"country": "LAT",
@@ -29435,7 +29673,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
@@ -29508,7 +29746,7 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1481,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -29554,7 +29792,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1969,
 		"flag": "",
@@ -29713,6 +29951,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1499,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11647914,
+		"name": "Lase, Karlina",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1449,
 		"rating_blitz": null
 	},
 	{
@@ -30183,7 +30438,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -30285,10 +30540,10 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 1982,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1436,
 		"rating_blitz": 1451
@@ -30308,6 +30563,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1430,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11652446,
+		"name": "Linitis, Mikelis",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1559,
 		"rating_blitz": null
 	},
 	{
@@ -30379,6 +30651,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11641770,
+		"name": "Locs, Valters",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1589,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11610808,
 		"name": "Lodzins, Davis",
 		"country": "LAT",
@@ -30404,7 +30693,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1984,
 		"flag": "",
@@ -30659,7 +30948,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1944,
 		"flag": "",
@@ -30676,12 +30965,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1499,
+		"rating_rapid": 1493,
 		"rating_blitz": null
 	},
 	{
@@ -30693,12 +30982,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1501,
+		"rating_rapid": 1491,
 		"rating_blitz": 1575
 	},
 	{
@@ -30764,7 +31053,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1677,
 		"rating_blitz": null
@@ -30863,7 +31152,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -30988,7 +31277,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1910,
-		"rating_blitz": 1861
+		"rating_blitz": 1828
 	},
 	{
 		"fideid": 11621001,
@@ -31118,12 +31407,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1709,
+		"rating_rapid": 1731,
 		"rating_blitz": null
 	},
 	{
@@ -31203,12 +31492,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1526,
+		"rating_rapid": 1512,
 		"rating_blitz": null
 	},
 	{
@@ -31226,23 +31515,6 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1453,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11651113,
-		"name": "Merke, Lineta",
-		"country": "LAT",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1473,
 		"rating_blitz": null
 	},
 	{
@@ -31373,10 +31645,10 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1436,
 		"rating_blitz": null
@@ -31396,23 +31668,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1649,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11653337,
-		"name": "Mihejevs, Ervins",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1439,
 		"rating_blitz": null
 	},
 	{
@@ -31548,8 +31803,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1481,
-		"rating_blitz": null
+		"rating_rapid": 1506,
+		"rating_blitz": 1474
 	},
 	{
 		"fideid": 11627077,
@@ -31567,6 +31822,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1593,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11640472,
+		"name": "Molcanovs, Jevgenijs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1592,
+		"rating_blitz": 1465
 	},
 	{
 		"fideid": 11619031,
@@ -31665,7 +31937,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1770,
 		"rating_blitz": null
@@ -31699,7 +31971,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1759,
 		"rating_blitz": null
@@ -31883,7 +32155,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1948,
 		"flag": "",
@@ -32036,13 +32308,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1652,
-		"rating_blitz": 1534
+		"rating_blitz": 1555
 	},
 	{
 		"fideid": 11619228,
@@ -32059,6 +32331,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1815,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11646764,
+		"name": "Neliuss, Kaspars",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1421,
 		"rating_blitz": null
 	},
 	{
@@ -32147,23 +32436,6 @@
 		"rating_blitz": 1695
 	},
 	{
-		"fideid": 11622741,
-		"name": "Nikolajevs, Andrejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1617,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11615290,
 		"name": "Nikolajevs, Andrejs",
 		"country": "LAT",
@@ -32178,6 +32450,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1795,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11622741,
+		"name": "Nikolajevs, Andrejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1617,
 		"rating_blitz": null
 	},
 	{
@@ -32589,6 +32878,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11650486,
+		"name": "Ostrinski, Emily",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1428,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11651458,
 		"name": "Ostups, Artis",
 		"country": "LAT",
@@ -32614,7 +32920,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
@@ -32699,12 +33005,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1408,
+		"rating_rapid": 1416,
 		"rating_blitz": null
 	},
 	{
@@ -32784,7 +33090,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -32903,7 +33209,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -33005,13 +33311,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
 		"birthday": 1952,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1913,
-		"rating_blitz": 1660
+		"rating_rapid": 1923,
+		"rating_blitz": 1628
 	},
 	{
 		"fideid": 11632038,
@@ -33063,6 +33369,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1671,
 		"rating_blitz": 1659
+	},
+	{
+		"fideid": 11635185,
+		"name": "Paulsons, Eriks Eduards",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1422,
+		"rating_blitz": 1519
 	},
 	{
 		"fideid": 11629053,
@@ -33226,13 +33549,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 5,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1483,
-		"rating_blitz": null
+		"rating_rapid": 1466,
+		"rating_blitz": 1496
 	},
 	{
 		"fideid": 11615842,
@@ -33447,7 +33770,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
@@ -33600,12 +33923,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 4,
 		"k": 20,
 		"birthday": 1944,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1586,
+		"rating_rapid": 1554,
 		"rating_blitz": null
 	},
 	{
@@ -33745,6 +34068,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11654805,
+		"name": "Plume, Teodors",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1560,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11614978,
 		"name": "Plume,Gunars",
 		"country": "LAT",
@@ -33807,7 +34147,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1988,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1470,
 		"rating_blitz": null
@@ -33828,6 +34168,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1760,
 		"rating_blitz": 1750
+	},
+	{
+		"fideid": 11649313,
+		"name": "Policane, Patricija",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1442,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11621982,
@@ -34059,12 +34416,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 14,
 		"k": 20,
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1770,
+		"rating_rapid": 1762,
 		"rating_blitz": null
 	},
 	{
@@ -34144,12 +34501,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 2,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1488,
+		"rating_rapid": 1465,
 		"rating_blitz": null
 	},
 	{
@@ -34314,7 +34671,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 1952,
 		"flag": "",
@@ -34484,7 +34841,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -34620,12 +34977,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1425,
+		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
 	{
@@ -34807,10 +35164,10 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1416,
 		"rating_blitz": null
@@ -34830,7 +35187,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1491,
-		"rating_blitz": 1426
+		"rating_blitz": 1430
 	},
 	{
 		"fideid": 11618256,
@@ -35113,13 +35470,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1484,
-		"rating_blitz": 1412
+		"rating_rapid": 1459,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11637684,
@@ -35181,30 +35538,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1402,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11644010,
-		"name": "Ronzins, Grigorijs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1557,
-		"rating_blitz": 1508
 	},
 	{
 		"fideid": 11632089,
@@ -35320,7 +35660,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1980,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1575,
 		"rating_blitz": null
@@ -35373,7 +35713,7 @@
 		"birthday": 1950,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1417,
+		"rating_rapid": 1404,
 		"rating_blitz": null
 	},
 	{
@@ -35470,12 +35810,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 1,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1423,
+		"rating_rapid": 1403,
 		"rating_blitz": null
 	},
 	{
@@ -35490,7 +35830,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1987,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1446,
 		"rating_blitz": null
@@ -35776,12 +36116,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1536,
+		"rating_rapid": 1526,
 		"rating_blitz": 1402
 	},
 	{
@@ -36014,10 +36354,10 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1430,
 		"rating_blitz": null
@@ -36122,23 +36462,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1419,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11647094,
-		"name": "Selickis, Maksims",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1448,
 		"rating_blitz": null
 	},
 	{
@@ -36278,23 +36601,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11642530,
-		"name": "Sergejevs, Roberts",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1445,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11619970,
 		"name": "Sermulis, Rihards",
 		"country": "LAT",
@@ -36325,7 +36631,7 @@
 		"birthday": 1950,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1540,
+		"rating_rapid": 1517,
 		"rating_blitz": null
 	},
 	{
@@ -36354,7 +36660,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
@@ -36405,12 +36711,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1461,
+		"rating_rapid": 1437,
 		"rating_blitz": 1427
 	},
 	{
@@ -36507,12 +36813,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 6,
 		"k": 20,
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1608,
+		"rating_rapid": 1613,
 		"rating_blitz": null
 	},
 	{
@@ -36584,23 +36890,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11649844,
-		"name": "Silins, Andrejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1432,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11620200,
 		"name": "Silins, Andrejs",
 		"country": "LAT",
@@ -36616,6 +36905,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1567,
 		"rating_blitz": 1489
+	},
+	{
+		"fideid": 11649844,
+		"name": "Silins, Andrejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1432,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11634936,
@@ -36714,7 +37020,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1989,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1662,
 		"rating_blitz": null
@@ -37176,7 +37482,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1748,
-		"rating_blitz": 1597
+		"rating_blitz": 1617
 	},
 	{
 		"fideid": 11609907,
@@ -37442,12 +37748,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1481,
+		"rating_rapid": 1497,
 		"rating_blitz": null
 	},
 	{
@@ -37459,7 +37765,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -37544,13 +37850,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 16,
+		"games": 14,
 		"k": 20,
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1926,
-		"rating_blitz": 1737
+		"rating_rapid": 1945,
+		"rating_blitz": 1730
 	},
 	{
 		"fideid": 11614056,
@@ -37719,7 +38025,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1666,
+		"rating_rapid": 1643,
 		"rating_blitz": 1666
 	},
 	{
@@ -37734,7 +38040,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1933,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1602,
 		"rating_blitz": null
@@ -37799,12 +38105,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1943,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1711,
+		"rating_rapid": 1681,
 		"rating_blitz": null
 	},
 	{
@@ -37816,7 +38122,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -37969,30 +38275,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1527,
+		"rating_rapid": 1456,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11645458,
-		"name": "Strekalovs, Rinalds",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1417,
-		"rating_blitz": 1424
 	},
 	{
 		"fideid": 11620790,
@@ -38023,7 +38312,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1992,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1451,
 		"rating_blitz": null
@@ -38054,12 +38343,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1978,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1640,
+		"rating_rapid": 1667,
 		"rating_blitz": 1679
 	},
 	{
@@ -38122,12 +38411,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 7,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1449,
+		"rating_rapid": 1479,
 		"rating_blitz": null
 	},
 	{
@@ -38258,7 +38547,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -38282,6 +38571,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1524,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11639520,
+		"name": "Subins, Sergejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1679,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 11623306,
@@ -38318,21 +38624,21 @@
 		"rating_blitz": 1897
 	},
 	{
-		"fideid": 11641118,
-		"name": "Surunova, Gabriela",
+		"fideid": 11645423,
+		"name": "Supe, Emilija",
 		"country": "LAT",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 5,
 		"k": 40,
-		"birthday": 2016,
+		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1516,
-		"rating_blitz": 1446
+		"rating_rapid": 1404,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11619422,
@@ -38400,6 +38706,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1435,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11652977,
+		"name": "Sviklis, Markuss",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1546,
 		"rating_blitz": null
 	},
 	{
@@ -38479,7 +38802,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 21,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -38564,7 +38887,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -38581,12 +38904,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1557,
+		"rating_rapid": 1569,
 		"rating_blitz": null
 	},
 	{
@@ -38638,6 +38961,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1417,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11631937,
+		"name": "Tisens, Tamirs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1692,
 		"rating_blitz": null
 	},
 	{
@@ -38720,7 +39060,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1983,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1718,
 		"rating_blitz": null
@@ -38734,7 +39074,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 1972,
 		"flag": "",
@@ -38853,13 +39193,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 6,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1424,
+		"rating_rapid": 1420,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11643366,
+		"name": "Ugrjumovs, Nikita",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 96,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1426,
+		"rating_blitz": 1479
 	},
 	{
 		"fideid": 11610719,
@@ -39012,7 +39369,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1659,
-		"rating_blitz": 1627
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 11610999,
@@ -39108,7 +39465,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1979,
 		"flag": "",
@@ -39533,7 +39890,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -39553,7 +39910,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1437,
 		"rating_blitz": null
@@ -39686,7 +40043,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1942,
 		"flag": "",
@@ -39924,7 +40281,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -40043,7 +40400,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1959,
 		"flag": "",
@@ -40290,23 +40647,6 @@
 		"rating_blitz": 1505
 	},
 	{
-		"fideid": 11646616,
-		"name": "Zaharovs, Ruslans",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1433,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11624914,
 		"name": "Zaicevs, Olegs",
 		"country": "LAT",
@@ -40406,23 +40746,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1522,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11633816,
-		"name": "Zalygin, Mihail",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 13,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1431,
 		"rating_blitz": null
 	},
 	{
@@ -40893,7 +41216,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -40932,7 +41255,7 @@
 		"birthday": 1962,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1481,
+		"rating_rapid": 1459,
 		"rating_blitz": null
 	},
 	{
@@ -41267,7 +41590,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1973,
 		"flag": "",
@@ -41291,6 +41614,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1536
+	},
+	{
+		"fideid": 11644303,
+		"name": "Beniosev, David",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1484
 	},
 	{
 		"fideid": 11640278,
@@ -41325,6 +41665,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1472
+	},
+	{
+		"fideid": 11632658,
+		"name": "Berzins, Mihails",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1500
 	},
 	{
 		"fideid": 11612070,
@@ -41403,13 +41760,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
+		"games": 7,
+		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1416
+		"rating_blitz": 1426
 	},
 	{
 		"fideid": 11654120,
@@ -41471,13 +41828,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 9,
 		"k": 20,
 		"birthday": 1941,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1558
+		"rating_blitz": 1559
 	},
 	{
 		"fideid": 11630124,
@@ -41495,6 +41852,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1662
+	},
+	{
+		"fideid": 11647779,
+		"name": "Daruda, Mikaela",
+		"country": "LAT",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1444
 	},
 	{
 		"fideid": 11631147,
@@ -41667,6 +42041,23 @@
 		"rating_blitz": 1596
 	},
 	{
+		"fideid": 11656204,
+		"name": "Geraskins, Artjoms",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1627
+	},
+	{
 		"fideid": 11631821,
 		"name": "Gerdts, Viktors",
 		"country": "LAT",
@@ -41709,13 +42100,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 9,
 		"k": 20,
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1711
+		"rating_blitz": 1742
 	},
 	{
 		"fideid": 11612053,
@@ -41750,23 +42141,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1555
-	},
-	{
-		"fideid": 11652608,
-		"name": "Golovacs, Romans",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1479
 	},
 	{
 		"fideid": 11650532,
@@ -41981,13 +42355,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 4,
 		"k": 20,
 		"birthday": 1975,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1550
+		"rating_blitz": 1515
 	},
 	{
 		"fideid": 11641738,
@@ -41998,7 +42372,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1954,
 		"flag": "",
@@ -42015,13 +42389,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1888
+		"rating_blitz": 1898
 	},
 	{
 		"fideid": 11648066,
@@ -42296,6 +42670,23 @@
 		"rating_blitz": 1459
 	},
 	{
+		"fideid": 11652330,
+		"name": "Malcevs, Timofejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1542
+	},
+	{
 		"fideid": 11628073,
 		"name": "Markss, Lauris",
 		"country": "LAT",
@@ -42375,7 +42766,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1973,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1543
@@ -42447,23 +42838,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1687
-	},
-	{
-		"fideid": 11655771,
-		"name": "Minajlo, Glebs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1424
 	},
 	{
 		"fideid": 11643420,
@@ -42568,6 +42942,23 @@
 		"rating_blitz": 1625
 	},
 	{
+		"fideid": 11652934,
+		"name": "Ozols, Viesturs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1436
+	},
+	{
 		"fideid": 11642599,
 		"name": "Paberze, Alina",
 		"country": "LAT",
@@ -42619,6 +43010,23 @@
 		"rating_blitz": 1427
 	},
 	{
+		"fideid": 11656174,
+		"name": "Parpiev, Zafar",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1548
+	},
+	{
 		"fideid": 11650079,
 		"name": "Pashayev, Zahid",
 		"country": "LAT",
@@ -42653,23 +43061,6 @@
 		"rating_blitz": 1403
 	},
 	{
-		"fideid": 11635185,
-		"name": "Paulsons, Eriks Eduards",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1519
-	},
-	{
 		"fideid": 11654104,
 		"name": "Pavlovs, Dmitrijs",
 		"country": "LAT",
@@ -42684,7 +43075,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1471
+		"rating_blitz": 1484
 	},
 	{
 		"fideid": 11654139,
@@ -42780,7 +43171,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -42848,7 +43239,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
@@ -43163,23 +43554,6 @@
 		"rating_blitz": 1703
 	},
 	{
-		"fideid": 11639520,
-		"name": "Subins, Sergejs",
-		"country": "LAT",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1987,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1518
-	},
-	{
 		"fideid": 11611154,
 		"name": "Sulcs,Edvins",
 		"country": "LAT",
@@ -43212,6 +43586,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1693
+	},
+	{
+		"fideid": 11654899,
+		"name": "Suvorovs, Matvejs",
+		"country": "LAT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1542
 	},
 	{
 		"fideid": 11637820,
@@ -43256,13 +43647,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 6,
 		"k": 20,
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1495
+		"rating_blitz": 1504
 	},
 	{
 		"fideid": 11646543,
@@ -43358,13 +43749,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 15,
+		"games": 7,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1476
+		"rating_blitz": 1473
 	},
 	{
 		"fideid": 11650842,
@@ -43494,13 +43885,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 40,
+		"games": 8,
+		"k": 20,
 		"birthday": 1990,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1465
+		"rating_blitz": 1409
 	},
 	{
 		"fideid": 11644230,

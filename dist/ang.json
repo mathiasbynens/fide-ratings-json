@@ -153,23 +153,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 10100091,
-		"name": "Soares, Erikson Roberto Mauricio",
-		"country": "ANG",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "i",
-		"rating_standard": 2140,
-		"rating_rapid": 2166,
-		"rating_blitz": 2166
-	},
-	{
 		"fideid": 10100431,
 		"name": "Oliveira, Luciano",
 		"country": "ANG",
@@ -204,6 +187,23 @@
 		"rating_blitz": 2025
 	},
 	{
+		"fideid": 10100091,
+		"name": "Soares, Erikson Roberto Mauricio",
+		"country": "ANG",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "",
+		"rating_standard": 2133,
+		"rating_rapid": 2166,
+		"rating_blitz": 2166
+	},
+	{
 		"fideid": 10115102,
 		"name": "Santos, Luther",
 		"country": "ANG",
@@ -212,7 +212,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
@@ -235,7 +235,7 @@
 		"flag": "",
 		"rating_standard": 2114,
 		"rating_rapid": 2130,
-		"rating_blitz": 2084
+		"rating_blitz": 2100
 	},
 	{
 		"fideid": 10101209,
@@ -286,7 +286,7 @@
 		"flag": "",
 		"rating_standard": 2091,
 		"rating_rapid": 2256,
-		"rating_blitz": 2227
+		"rating_blitz": 2212
 	},
 	{
 		"fideid": 10107592,
@@ -317,7 +317,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1966,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2084,
 		"rating_rapid": 2188,
 		"rating_blitz": 2155
@@ -606,7 +606,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1967,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2028,
 		"rating_rapid": 2099,
 		"rating_blitz": 2097
@@ -623,10 +623,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1972,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2026,
 		"rating_rapid": 1993,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 10105921,
+		"name": "Filipe, Marcio",
+		"country": "ANG",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 2021,
+		"rating_rapid": 2089,
+		"rating_blitz": 1946
 	},
 	{
 		"fideid": 10100245,
@@ -659,8 +676,8 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 2014,
-		"rating_rapid": 1852,
-		"rating_blitz": 2014
+		"rating_rapid": 1910,
+		"rating_blitz": 2190
 	},
 	{
 		"fideid": 10111140,
@@ -748,23 +765,6 @@
 		"rating_blitz": 1963
 	},
 	{
-		"fideid": 10105921,
-		"name": "Filipe, Marcio",
-		"country": "ANG",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1997,
-		"rating_rapid": 2089,
-		"rating_blitz": 1989
-	},
-	{
 		"fideid": 10109846,
 		"name": "Da Costa, Joaquim",
 		"country": "ANG",
@@ -790,7 +790,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -844,7 +844,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1992,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1988,
 		"rating_rapid": 2106,
 		"rating_blitz": 2054
@@ -897,8 +897,8 @@
 		"birthday": 2000,
 		"flag": "i",
 		"rating_standard": 1980,
-		"rating_rapid": 2019,
-		"rating_blitz": 1974
+		"rating_rapid": 2015,
+		"rating_blitz": 1954
 	},
 	{
 		"fideid": 10101179,
@@ -912,7 +912,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1966,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1973,
 		"rating_rapid": null,
 		"rating_blitz": 1926
@@ -997,10 +997,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1983,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1965,
 		"rating_rapid": 2048,
 		"rating_blitz": 1969
+	},
+	{
+		"fideid": 10100156,
+		"name": "Campos, Eugenio",
+		"country": "ANG",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1975,
+		"flag": "",
+		"rating_standard": 1963,
+		"rating_rapid": 2178,
+		"rating_blitz": 2143
 	},
 	{
 		"fideid": 10100903,
@@ -1031,7 +1048,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1984,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1963,
 		"rating_rapid": 1961,
 		"rating_blitz": 1980
@@ -1052,23 +1069,6 @@
 		"rating_standard": 1963,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 10100156,
-		"name": "Campos, Eugenio",
-		"country": "ANG",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "",
-		"rating_standard": 1961,
-		"rating_rapid": 2178,
-		"rating_blitz": 2143
 	},
 	{
 		"fideid": 10116966,
@@ -1116,7 +1116,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1974,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1958,
 		"rating_rapid": null,
 		"rating_blitz": 1953
@@ -1203,8 +1203,8 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1954,
-		"rating_rapid": 1788,
-		"rating_blitz": 1943
+		"rating_rapid": 1773,
+		"rating_blitz": 1968
 	},
 	{
 		"fideid": 10100237,
@@ -1317,7 +1317,7 @@
 		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
@@ -1521,7 +1521,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
@@ -1677,7 +1677,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1974,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1915,
 		"rating_rapid": 1922,
 		"rating_blitz": 1975
@@ -1711,7 +1711,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1980,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1912,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1745,7 +1745,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1985,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1909,
 		"rating_rapid": null,
 		"rating_blitz": 1890
@@ -1762,7 +1762,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1977,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1908,
 		"rating_rapid": 1936,
 		"rating_blitz": 1920
@@ -2068,7 +2068,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1888,
 		"rating_rapid": 1844,
 		"rating_blitz": 1835
@@ -2085,7 +2085,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1988,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1888,
 		"rating_rapid": null,
 		"rating_blitz": 1879
@@ -2337,11 +2337,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 1,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
-		"rating_standard": 1877,
+		"rating_standard": 1878,
 		"rating_rapid": 1755,
 		"rating_blitz": 1782
 	},
@@ -2408,7 +2408,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1875,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2442,7 +2442,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1966,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1873,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2459,7 +2459,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1990,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1872,
 		"rating_rapid": 1854,
 		"rating_blitz": 1850
@@ -2476,7 +2476,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1978,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1872,
 		"rating_rapid": null,
 		"rating_blitz": 1840
@@ -2544,7 +2544,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1986,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1869,
 		"rating_rapid": 1973,
 		"rating_blitz": 1911
@@ -2646,10 +2646,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1864,
-		"rating_rapid": 1910,
-		"rating_blitz": 1968
+		"rating_rapid": 1976,
+		"rating_blitz": 2016
 	},
 	{
 		"fideid": 10114068,
@@ -2833,7 +2833,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1971,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1857,
 		"rating_rapid": null,
 		"rating_blitz": 1841
@@ -3209,7 +3209,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": 1833,
-		"rating_rapid": 1838,
+		"rating_rapid": 1839,
 		"rating_blitz": 1823
 	},
 	{
@@ -3445,7 +3445,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1821,
 		"rating_rapid": 1860,
 		"rating_blitz": 1894
@@ -3683,7 +3683,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1999,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1816,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -3802,7 +3802,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1812,
 		"rating_rapid": 1790,
 		"rating_blitz": 1838
@@ -3853,7 +3853,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1972,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1811,
 		"rating_rapid": 1797,
 		"rating_blitz": 1771
@@ -4057,7 +4057,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1999,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1806,
 		"rating_rapid": null,
 		"rating_blitz": 1826
@@ -4244,7 +4244,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1983,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1797,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -4278,7 +4278,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1797,
 		"rating_rapid": 1737,
 		"rating_blitz": 1721
@@ -4482,7 +4482,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1790,
 		"rating_rapid": null,
 		"rating_blitz": 1831
@@ -4513,7 +4513,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -4618,7 +4618,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1788,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -4805,7 +4805,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1780,
 		"rating_rapid": null,
 		"rating_blitz": 1731
@@ -5009,7 +5009,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1773,
 		"rating_rapid": 1819,
 		"rating_blitz": 1687
@@ -5315,7 +5315,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1762,
 		"rating_rapid": null,
 		"rating_blitz": 1826
@@ -5397,7 +5397,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "w",
@@ -5757,7 +5757,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1747,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -5791,7 +5791,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1989,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1746,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -5961,7 +5961,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1996,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1742,
 		"rating_rapid": null,
 		"rating_blitz": 1756
@@ -6097,7 +6097,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1997,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1736,
 		"rating_rapid": null,
 		"rating_blitz": 1791
@@ -7168,7 +7168,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1695,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7406,7 +7406,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1993,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1682,
 		"rating_rapid": 1761,
 		"rating_blitz": 1733
@@ -7593,7 +7593,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1677,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7695,7 +7695,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1670,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -8766,7 +8766,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1969,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1613,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -8800,7 +8800,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1609,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -8950,7 +8950,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
@@ -9021,7 +9021,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2003,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1589,
 		"rating_rapid": 1623,
 		"rating_blitz": 1662
@@ -9072,7 +9072,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1586,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -9086,7 +9086,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -9341,7 +9341,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -9834,7 +9834,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "w",
@@ -9854,7 +9854,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1490,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10975,7 +10975,7 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1972,
+		"birthday": 1976,
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
