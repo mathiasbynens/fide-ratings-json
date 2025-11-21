@@ -2805,23 +2805,6 @@
 		"rating_blitz": 2263
 	},
 	{
-		"fideid": 14114224,
-		"name": "Golubka, Petro",
-		"country": "UKR",
-		"sex": "M",
-		"title": "GM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 10,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 2389,
-		"rating_rapid": 2423,
-		"rating_blitz": 2442
-	},
-	{
 		"fideid": 14103834,
 		"name": "Strelnikov, Oleg",
 		"country": "UKR",
@@ -3610,7 +3593,7 @@
 		"sex": "M",
 		"title": "IM",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 10,
@@ -33870,7 +33853,7 @@
 		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NI",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -42651,23 +42634,6 @@
 		"rating_standard": 1915,
 		"rating_rapid": 1886,
 		"rating_blitz": 1734
-	},
-	{
-		"fideid": 34134751,
-		"name": "Pokotaiev, Vladyslav",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "i",
-		"rating_standard": 1915,
-		"rating_rapid": 1909,
-		"rating_blitz": 1841
 	},
 	{
 		"fideid": 529009480,
@@ -68728,7 +68694,7 @@
 		"flag": "",
 		"rating_standard": 1726,
 		"rating_rapid": 1740,
-		"rating_blitz": 1732
+		"rating_blitz": 1731
 	},
 	{
 		"fideid": 14169002,
@@ -71843,7 +71809,7 @@
 	},
 	{
 		"fideid": 34177990,
-		"name": "Shygin, Daniil",
+		"name": "Shyhin, Daniil",
 		"country": "UKR",
 		"sex": "M",
 		"title": "",
@@ -84368,7 +84334,7 @@
 		"flag": "w",
 		"rating_standard": 1592,
 		"rating_rapid": 1574,
-		"rating_blitz": 1647
+		"rating_blitz": 1441
 	},
 	{
 		"fideid": 34160566,
@@ -96611,23 +96577,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14187710,
-		"name": "Adamchuk, Dmytro",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1826,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14195917,
 		"name": "Adamchuk, Dmytro",
 		"country": "UKR",
@@ -96642,6 +96591,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1612,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14187710,
+		"name": "Adamchuk, Dmytro",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1995,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1826,
 		"rating_blitz": null
 	},
 	{
@@ -124352,7 +124318,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1508,
-		"rating_blitz": 1492
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 14151804,
@@ -125035,23 +125001,6 @@
 		"rating_blitz": 1966
 	},
 	{
-		"fideid": 34155198,
-		"name": "Ivanov, Maksym",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1542,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34137505,
 		"name": "Ivanov, Maksym",
 		"country": "UKR",
@@ -125066,6 +125015,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1522,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34155198,
+		"name": "Ivanov, Maksym",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1542,
 		"rating_blitz": null
 	},
 	{
@@ -128245,7 +128211,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1420,
-		"rating_blitz": 1482
+		"rating_blitz": 1407
 	},
 	{
 		"fideid": 14176386,
@@ -131333,13 +131299,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
+		"games": 5,
+		"k": 20,
 		"birthday": 1993,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1666,
-		"rating_blitz": 1713
+		"rating_rapid": 1651,
+		"rating_blitz": 1723
 	},
 	{
 		"fideid": 34115498,
@@ -131631,23 +131597,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34182268,
-		"name": "Kohut, Ivan",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1692,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 148105463,
 		"name": "Kohut, Ivan",
 		"country": "UKR",
@@ -131663,6 +131612,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1533,
 		"rating_blitz": 1574
+	},
+	{
+		"fideid": 34182268,
+		"name": "Kohut, Ivan",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1692,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34171185,
@@ -133022,7 +132988,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1447,
-		"rating_blitz": null
+		"rating_blitz": 1472
 	},
 	{
 		"fideid": 529019559,
@@ -135065,23 +135031,6 @@
 		"rating_blitz": 1568
 	},
 	{
-		"fideid": 34140786,
-		"name": "Kotskovych, Vasyl",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1557,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14172500,
 		"name": "Kotskovych, Vasyl",
 		"country": "UKR",
@@ -135097,6 +135046,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1694,
 		"rating_blitz": 1693
+	},
+	{
+		"fideid": 34140786,
+		"name": "Kotskovych, Vasyl",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1557,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34129960,
@@ -135167,23 +135133,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 529022096,
-		"name": "Koval, Andrii",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1665,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34176560,
 		"name": "Koval, Andrii",
 		"country": "UKR",
@@ -135198,6 +135147,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1459,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 529022096,
+		"name": "Koval, Andrii",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1665,
 		"rating_blitz": null
 	},
 	{
@@ -137224,23 +137190,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34123261,
-		"name": "Kravchuk, Volodymyr",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1782,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14192314,
 		"name": "Kravchuk, Volodymyr",
 		"country": "UKR",
@@ -137256,6 +137205,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1771,
 		"rating_blitz": 1845
+	},
+	{
+		"fideid": 34123261,
+		"name": "Kravchuk, Volodymyr",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1782,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34135448,
@@ -137428,23 +137394,6 @@
 		"rating_blitz": 1882
 	},
 	{
-		"fideid": 14188090,
-		"name": "Krayniuk, Nikolay",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1941,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1877,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34146750,
 		"name": "Krayniuk, Nikolay",
 		"country": "UKR",
@@ -137459,6 +137408,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1714,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14188090,
+		"name": "Krayniuk, Nikolay",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1941,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1877,
 		"rating_blitz": null
 	},
 	{
@@ -138975,23 +138941,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34132520,
-		"name": "Kukharuk, Oleksandr",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1636,
-		"rating_blitz": 1555
-	},
-	{
 		"fideid": 14166119,
 		"name": "Kukharuk, Oleksandr",
 		"country": "UKR",
@@ -139007,6 +138956,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1821,
 		"rating_blitz": 1808
+	},
+	{
+		"fideid": 34132520,
+		"name": "Kukharuk, Oleksandr",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1636,
+		"rating_blitz": 1555
 	},
 	{
 		"fideid": 34183884,
@@ -140675,23 +140641,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 529007933,
-		"name": "Kuzmin, Oleksandr",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1446,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34154531,
 		"name": "Kuzmin, Oleksandr",
 		"country": "UKR",
@@ -140706,6 +140655,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1475,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 529007933,
+		"name": "Kuzmin, Oleksandr",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1446,
 		"rating_blitz": null
 	},
 	{
@@ -142766,23 +142732,6 @@
 		"rating_blitz": 1637
 	},
 	{
-		"fideid": 14167492,
-		"name": "Lemak, Mykhaylo",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1952,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1789,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14177129,
 		"name": "Lemak, Mykhaylo",
 		"country": "UKR",
@@ -142797,6 +142746,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1440,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14167492,
+		"name": "Lemak, Mykhaylo",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1952,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1789,
 		"rating_blitz": null
 	},
 	{
@@ -145877,23 +145843,6 @@
 		"rating_blitz": 1652
 	},
 	{
-		"fideid": 529019931,
-		"name": "Lutsyk, Oleksandr",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1811,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 529006406,
 		"name": "Lutsyk, Oleksandr",
 		"country": "UKR",
@@ -145908,6 +145857,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1597,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 529019931,
+		"name": "Lutsyk, Oleksandr",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1811,
 		"rating_blitz": null
 	},
 	{
@@ -151946,23 +151912,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 34142207,
-		"name": "Mishchuk, Pavlo",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1665,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 529028728,
 		"name": "Mishchuk, Pavlo",
 		"country": "UKR",
@@ -151977,6 +151926,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1526,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34142207,
+		"name": "Mishchuk, Pavlo",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1665,
 		"rating_blitz": null
 	},
 	{
@@ -153694,7 +153660,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1434,
-		"rating_blitz": null
+		"rating_blitz": 1505
 	},
 	{
 		"fideid": 34185801,
@@ -154938,23 +154904,6 @@
 		"rating_blitz": 1786
 	},
 	{
-		"fideid": 34122320,
-		"name": "Naumenko, Daniil",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1468,
-		"rating_blitz": 1540
-	},
-	{
 		"fideid": 529026458,
 		"name": "Naumenko, Daniil",
 		"country": "UKR",
@@ -154970,6 +154919,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1425,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 34122320,
+		"name": "Naumenko, Daniil",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1468,
+		"rating_blitz": 1540
 	},
 	{
 		"fideid": 34149082,
@@ -173009,23 +172975,6 @@
 		"rating_blitz": 1957
 	},
 	{
-		"fideid": 34190546,
-		"name": "Savchuk, Bohdan",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1439,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34189840,
 		"name": "Savchuk, Bohdan",
 		"country": "UKR",
@@ -173041,6 +172990,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1551,
 		"rating_blitz": 1707
+	},
+	{
+		"fideid": 34190546,
+		"name": "Savchuk, Bohdan",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1439,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14143690,
@@ -180503,7 +180469,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1503,
-		"rating_blitz": null
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 14166526,
@@ -185657,23 +185623,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14176408,
-		"name": "Tatarenkov, Mykhaylo",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1950,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1870,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14177145,
 		"name": "Tatarenkov, Mykhaylo",
 		"country": "UKR",
@@ -185689,6 +185638,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1667,
 		"rating_blitz": 1612
+	},
+	{
+		"fideid": 14176408,
+		"name": "Tatarenkov, Mykhaylo",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1950,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1870,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14164736,
@@ -186742,7 +186708,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1550,
-		"rating_blitz": 1525
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 34195181,
@@ -191284,23 +191250,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 529008140,
-		"name": "Vasyliev, Mykola",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1439,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34163921,
 		"name": "Vasyliev, Mykola",
 		"country": "UKR",
@@ -191316,6 +191265,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1409,
 		"rating_blitz": 1481
+	},
+	{
+		"fideid": 529008140,
+		"name": "Vasyliev, Mykola",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1439,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 34153918,
@@ -193205,7 +193171,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 529015308,
+		"fideid": 34181660,
 		"name": "Voloshchuk, Andrii",
 		"country": "UKR",
 		"sex": "M",
@@ -193213,12 +193179,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
-		"birthday": 1981,
-		"flag": "",
+		"birthday": 2009,
+		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1623,
+		"rating_rapid": 1465,
 		"rating_blitz": null
 	},
 	{
@@ -193239,7 +193205,7 @@
 		"rating_blitz": 1830
 	},
 	{
-		"fideid": 34181660,
+		"fideid": 529015308,
 		"name": "Voloshchuk, Andrii",
 		"country": "UKR",
 		"sex": "M",
@@ -193247,12 +193213,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
+		"birthday": 1981,
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1465,
+		"rating_rapid": 1623,
 		"rating_blitz": null
 	},
 	{
@@ -193817,23 +193783,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 529028876,
-		"name": "Vovk, Oleksandr",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1633,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 529023459,
 		"name": "Vovk, Oleksandr",
 		"country": "UKR",
@@ -193849,6 +193798,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1493,
 		"rating_blitz": 1586
+	},
+	{
+		"fideid": 529028876,
+		"name": "Vovk, Oleksandr",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1633,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14142961,
@@ -196911,23 +196877,6 @@
 		"rating_blitz": 1795
 	},
 	{
-		"fideid": 34190554,
-		"name": "Yurchenko, Andrii",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1521,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 34181598,
 		"name": "Yurchenko, Andrii",
 		"country": "UKR",
@@ -196942,6 +196891,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1485,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 34190554,
+		"name": "Yurchenko, Andrii",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1521,
 		"rating_blitz": null
 	},
 	{
@@ -202521,23 +202487,6 @@
 		"rating_blitz": 1667
 	},
 	{
-		"fideid": 34116010,
-		"name": "Butko, Anatoly",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1828
-	},
-	{
 		"fideid": 34150331,
 		"name": "Butko, Anatoly",
 		"country": "UKR",
@@ -202553,6 +202502,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1864
+	},
+	{
+		"fideid": 34116010,
+		"name": "Butko, Anatoly",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1828
 	},
 	{
 		"fideid": 14176050,
@@ -203250,6 +203216,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1942
+	},
+	{
+		"fideid": 529000017,
+		"name": "Divonko, Dariia",
+		"country": "UKR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1458
 	},
 	{
 		"fideid": 14190753,
@@ -206414,23 +206397,6 @@
 		"rating_blitz": 1930
 	},
 	{
-		"fideid": 34148213,
-		"name": "Ivanov, Denys",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1712
-	},
-	{
 		"fideid": 34147799,
 		"name": "Ivanov, Denys",
 		"country": "UKR",
@@ -206446,6 +206412,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1648
+	},
+	{
+		"fideid": 34148213,
+		"name": "Ivanov, Denys",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1712
 	},
 	{
 		"fideid": 34155759,
@@ -206482,23 +206465,6 @@
 		"rating_blitz": 1663
 	},
 	{
-		"fideid": 34150358,
-		"name": "Ivanovsky, Vitaly",
-		"country": "UKR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1882
-	},
-	{
 		"fideid": 34116036,
 		"name": "Ivanovsky, Vitaly",
 		"country": "UKR",
@@ -206514,6 +206480,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1849
+	},
+	{
+		"fideid": 34150358,
+		"name": "Ivanovsky, Vitaly",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1882
 	},
 	{
 		"fideid": 529024889,
@@ -208826,6 +208809,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1573
+	},
+	{
+		"fideid": 529015774,
+		"name": "Kruglov, Egor",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1449
 	},
 	{
 		"fideid": 34146695,
@@ -212160,6 +212160,23 @@
 		"rating_blitz": 1846
 	},
 	{
+		"fideid": 529003784,
+		"name": "Mykytiuk, Arsen",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1444
+	},
+	{
 		"fideid": 34187286,
 		"name": "Myleiko, Oleg",
 		"country": "UKR",
@@ -214640,6 +214657,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1435
+	},
+	{
+		"fideid": 34174044,
+		"name": "Popazov, Artem",
+		"country": "UKR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1448
 	},
 	{
 		"fideid": 529002729,
@@ -218042,23 +218076,6 @@
 		"rating_blitz": 1822
 	},
 	{
-		"fideid": 34119558,
-		"name": "Smerteniuk, Oleksandra",
-		"country": "UKR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1427
-	},
-	{
 		"fideid": 14160250,
 		"name": "Smetyuh, Andriy",
 		"country": "UKR",
@@ -220556,6 +220573,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1518
+	},
+	{
+		"fideid": 529023963,
+		"name": "Vodolazskay, Sofia",
+		"country": "UKR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1404
 	},
 	{
 		"fideid": 34110550,

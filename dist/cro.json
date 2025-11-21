@@ -1585,7 +1585,7 @@
 		"name": "Grgantov, Marin",
 		"country": "CRO",
 		"sex": "M",
-		"title": "CM",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -2658,7 +2658,7 @@
 		"sex": "M",
 		"title": "IM",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "FT",
 		"foa_title": "",
 		"games": 12,
 		"k": 10,
@@ -58497,23 +58497,6 @@
 		"rating_blitz": 1717
 	},
 	{
-		"fideid": 14536048,
-		"name": "Alaber, Maja",
-		"country": "CRO",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "wi",
-		"rating_standard": 1662,
-		"rating_rapid": 1710,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 79308848,
 		"name": "Basic, Marko",
 		"country": "CRO",
@@ -58529,6 +58512,23 @@
 		"rating_standard": 1662,
 		"rating_rapid": 1659,
 		"rating_blitz": 1619
+	},
+	{
+		"fideid": 14536048,
+		"name": "Grskovic, Maja",
+		"country": "CRO",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "wi",
+		"rating_standard": 1662,
+		"rating_rapid": 1710,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 79311709,
@@ -77636,7 +77636,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1523,
-		"rating_blitz": null
+		"rating_blitz": 1473
 	},
 	{
 		"fideid": 79308392,
@@ -82039,7 +82039,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1428,
-		"rating_blitz": 1517
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14579707,
@@ -85100,23 +85100,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1495
-	},
-	{
-		"fideid": 79328890,
-		"name": "Adamovic, Alex",
-		"country": "CRO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1505
 	},
 	{
 		"fideid": 79324886,
@@ -92208,6 +92191,23 @@
 		"rating_blitz": 1408
 	},
 	{
+		"fideid": 79305628,
+		"name": "Percic Debeljuh, Marin",
+		"country": "CRO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1535
+	},
+	{
 		"fideid": 14586649,
 		"name": "Peresin, Marin",
 		"country": "CRO",
@@ -94265,23 +94265,6 @@
 		"rating_blitz": 1646
 	},
 	{
-		"fideid": 79325866,
-		"name": "Stefanac, Luka",
-		"country": "CRO",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1550
-	},
-	{
 		"fideid": 14565765,
 		"name": "Stefanac, Luka",
 		"country": "CRO",
@@ -94297,6 +94280,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1531
+	},
+	{
+		"fideid": 79325866,
+		"name": "Stefanac, Luka",
+		"country": "CRO",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 14557614,
