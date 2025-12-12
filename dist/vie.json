@@ -769,7 +769,7 @@
 		"name": "Nguyen Hong Nhung",
 		"country": "VIE",
 		"sex": "F",
-		"title": "WFM",
+		"title": "FM",
 		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
@@ -953,7 +953,7 @@
 	},
 	{
 		"fideid": 12401501,
-		"name": "Bao, Khoa",
+		"name": "Bao Khoa",
 		"country": "VIE",
 		"sex": "M",
 		"title": "IM",
@@ -1891,7 +1891,7 @@
 		"name": "Vo Hoang Quan",
 		"country": "VIE",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -2228,7 +2228,7 @@
 	},
 	{
 		"fideid": 12400440,
-		"name": "Nguyen, Ha Phuong",
+		"name": "Nguyen Ha Phuong",
 		"country": "VIE",
 		"sex": "M",
 		"title": "FM",
@@ -3384,7 +3384,7 @@
 	},
 	{
 		"fideid": 12402192,
-		"name": "Le, Thanh Tai",
+		"name": "Le Thanh Tai",
 		"country": "VIE",
 		"sex": "M",
 		"title": "CM",
@@ -6818,7 +6818,7 @@
 	},
 	{
 		"fideid": 12423149,
-		"name": "Cao, Thanh Danh",
+		"name": "Cao Thanh Danh",
 		"country": "VIE",
 		"sex": "M",
 		"title": "",
@@ -8467,7 +8467,7 @@
 	},
 	{
 		"fideid": 12426768,
-		"name": "Ngo, Minh Hang",
+		"name": "Ngo Minh Hang",
 		"country": "VIE",
 		"sex": "F",
 		"title": "",
@@ -8895,8 +8895,8 @@
 		"name": "Huynh Phuc Minh Phuong",
 		"country": "VIE",
 		"sex": "F",
-		"title": "",
-		"w_title": "",
+		"title": "WCM",
+		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
 		"games": 11,
@@ -13420,7 +13420,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
@@ -30396,23 +30396,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 12415278,
-		"name": "Dang Minh Anh",
-		"country": "VIE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "wi",
-		"rating_standard": null,
-		"rating_rapid": 1605,
-		"rating_blitz": 1539
-	},
-	{
 		"fideid": 12458619,
 		"name": "Dang Minh Anh",
 		"country": "VIE",
@@ -30428,6 +30411,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1451,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 12415278,
+		"name": "Dang Minh Anh",
+		"country": "VIE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1605,
+		"rating_blitz": 1539
 	},
 	{
 		"fideid": 12472859,
@@ -33813,23 +33813,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 12412295,
-		"name": "Le Minh Kha",
-		"country": "VIE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1603,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 12448214,
 		"name": "Le Minh Kha",
 		"country": "VIE",
@@ -33847,8 +33830,8 @@
 		"rating_blitz": 1551
 	},
 	{
-		"fideid": 12455270,
-		"name": "Le Minh Khoi",
+		"fideid": 12412295,
+		"name": "Le Minh Kha",
 		"country": "VIE",
 		"sex": "M",
 		"title": "",
@@ -33857,11 +33840,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2014,
-		"flag": "",
+		"birthday": 2004,
+		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1641,
-		"rating_blitz": 1505
+		"rating_rapid": 1603,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 12489476,
@@ -33879,6 +33862,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1474,
 		"rating_blitz": 1475
+	},
+	{
+		"fideid": 12455270,
+		"name": "Le Minh Khoi",
+		"country": "VIE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1641,
+		"rating_blitz": 1505
 	},
 	{
 		"fideid": 12450448,
@@ -35887,23 +35887,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 12493163,
-		"name": "Nguyen Bao Minh",
-		"country": "VIE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1587,
-		"rating_blitz": 1649
-	},
-	{
 		"fideid": 12467553,
 		"name": "Nguyen Bao Minh",
 		"country": "VIE",
@@ -35919,6 +35902,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1593,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 12493163,
+		"name": "Nguyen Bao Minh",
+		"country": "VIE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1587,
+		"rating_blitz": 1649
 	},
 	{
 		"fideid": 12487244,
@@ -35938,23 +35938,6 @@
 		"rating_blitz": 1448
 	},
 	{
-		"fideid": 12445134,
-		"name": "Nguyen Binh Minh",
-		"country": "VIE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1635,
-		"rating_blitz": 1583
-	},
-	{
 		"fideid": 12451797,
 		"name": "Nguyen Binh Minh",
 		"country": "VIE",
@@ -35970,6 +35953,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1476,
 		"rating_blitz": 1459
+	},
+	{
+		"fideid": 12445134,
+		"name": "Nguyen Binh Minh",
+		"country": "VIE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1635,
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 12476102,
@@ -36754,23 +36754,6 @@
 		"rating_blitz": 1544
 	},
 	{
-		"fideid": 12435449,
-		"name": "Nguyen Hoang Quan",
-		"country": "VIE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1626,
-		"rating_blitz": 1566
-	},
-	{
 		"fideid": 561002577,
 		"name": "Nguyen Hoang Quan",
 		"country": "VIE",
@@ -36786,6 +36769,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1523,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 12435449,
+		"name": "Nguyen Hoang Quan",
+		"country": "VIE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1626,
+		"rating_blitz": 1566
 	},
 	{
 		"fideid": 12438766,
@@ -37111,23 +37111,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 12459283,
-		"name": "Nguyen Khanh Van",
-		"country": "VIE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1483,
-		"rating_blitz": 1583
-	},
-	{
 		"fideid": 12489700,
 		"name": "Nguyen Khanh Van",
 		"country": "VIE",
@@ -37143,6 +37126,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1479,
 		"rating_blitz": 1589
+	},
+	{
+		"fideid": 12459283,
+		"name": "Nguyen Khanh Van",
+		"country": "VIE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1483,
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 12476161,
@@ -38369,23 +38369,6 @@
 		"rating_blitz": 1676
 	},
 	{
-		"fideid": 12458287,
-		"name": "Nguyen Phuc Khang",
-		"country": "VIE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1476,
-		"rating_blitz": 1477
-	},
-	{
 		"fideid": 12455784,
 		"name": "Nguyen Phuc Khang",
 		"country": "VIE",
@@ -38401,6 +38384,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1720,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 12458287,
+		"name": "Nguyen Phuc Khang",
+		"country": "VIE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1476,
+		"rating_blitz": 1477
 	},
 	{
 		"fideid": 12477796,
@@ -47855,23 +47855,6 @@
 		"rating_blitz": 1676
 	},
 	{
-		"fideid": 12469254,
-		"name": "Nguyen Tuan Kiet",
-		"country": "VIE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1431
-	},
-	{
 		"fideid": 12473103,
 		"name": "Nguyen Tuan Kiet",
 		"country": "VIE",
@@ -47887,6 +47870,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1559
+	},
+	{
+		"fideid": 12469254,
+		"name": "Nguyen Tuan Kiet",
+		"country": "VIE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1431
 	},
 	{
 		"fideid": 12462004,
