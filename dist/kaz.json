@@ -5852,7 +5852,7 @@
 		"name": "Zharas, Aldiyar",
 		"country": "KAZ",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -25211,6 +25211,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 447049170,
+		"name": "Maratuly, Yerassyl",
+		"country": "KAZ",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1707,
+		"rating_rapid": 1760,
+		"rating_blitz": 1582
+	},
+	{
 		"fideid": 13748866,
 		"name": "Momyn, Madina",
 		"country": "KAZ",
@@ -25226,23 +25243,6 @@
 		"rating_standard": 1707,
 		"rating_rapid": 1787,
 		"rating_blitz": 1856
-	},
-	{
-		"fideid": 447049170,
-		"name": "Mubarak, Yerassyl",
-		"country": "KAZ",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1707,
-		"rating_rapid": 1760,
-		"rating_blitz": 1582
 	},
 	{
 		"fideid": 13740407,
@@ -67514,7 +67514,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
@@ -75997,7 +75997,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
@@ -85891,7 +85891,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
@@ -88026,23 +88026,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13792555,
-		"name": "Aliyev, Ali",
-		"country": "KAZ",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1466,
-		"rating_blitz": 1425
-	},
-	{
 		"fideid": 447008547,
 		"name": "Aliyev, Ali",
 		"country": "KAZ",
@@ -88058,6 +88041,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1432,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13792555,
+		"name": "Aliyev, Ali",
+		"country": "KAZ",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1466,
+		"rating_blitz": 1425
 	},
 	{
 		"fideid": 447095849,
@@ -104533,7 +104533,7 @@
 		"rating_blitz": 1739
 	},
 	{
-		"fideid": 13764519,
+		"fideid": 13713892,
 		"name": "Kim, Valeriy",
 		"country": "KAZ",
 		"sex": "M",
@@ -104543,11 +104543,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1943,
+		"birthday": 1948,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1470,
-		"rating_blitz": null
+		"rating_rapid": 1629,
+		"rating_blitz": 1898
 	},
 	{
 		"fideid": 13766279,
@@ -104567,7 +104567,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13713892,
+		"fideid": 13764519,
 		"name": "Kim, Valeriy",
 		"country": "KAZ",
 		"sex": "M",
@@ -104577,11 +104577,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1948,
+		"birthday": 1943,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1629,
-		"rating_blitz": 1898
+		"rating_rapid": 1470,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 557010781,
@@ -105624,7 +105624,7 @@
 		"fideid": 13788329,
 		"name": "Kozhaberlina, Zamira",
 		"country": "KAZ",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
@@ -105632,7 +105632,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1712,
 		"rating_blitz": 1472
@@ -110041,23 +110041,6 @@
 		"rating_blitz": 1572
 	},
 	{
-		"fideid": 13709356,
-		"name": "Medvedev, Aleksandr",
-		"country": "KAZ",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": "",
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1693,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 447069635,
 		"name": "Medvedev, Aleksandr",
 		"country": "KAZ",
@@ -110072,6 +110055,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1558,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13709356,
+		"name": "Medvedev, Aleksandr",
+		"country": "KAZ",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": "",
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1693,
 		"rating_blitz": null
 	},
 	{
@@ -123114,23 +123114,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13789643,
-		"name": "Suleymenov, Kanat",
-		"country": "KAZ",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1510,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13779850,
 		"name": "Suleymenov, Kanat",
 		"country": "KAZ",
@@ -123145,6 +123128,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1409,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13789643,
+		"name": "Suleymenov, Kanat",
+		"country": "KAZ",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1510,
 		"rating_blitz": null
 	},
 	{
@@ -129625,23 +129625,6 @@
 		"rating_blitz": 1497
 	},
 	{
-		"fideid": 13710354,
-		"name": "Zhakiyanov, Galym",
-		"country": "KAZ",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1905,
-		"rating_blitz": 2097
-	},
-	{
 		"fideid": 447049944,
 		"name": "Zhakiyanov, Galym",
 		"country": "KAZ",
@@ -129657,6 +129640,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1765,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13710354,
+		"name": "Zhakiyanov, Galym",
+		"country": "KAZ",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1905,
+		"rating_blitz": 2097
 	},
 	{
 		"fideid": 447070099,
@@ -139199,7 +139199,7 @@
 		"fideid": 447005971,
 		"name": "Krykbaeva, Ayanat",
 		"country": "KAZ",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
@@ -139207,7 +139207,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1505
