@@ -8,11 +8,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 9,
 		"k": 10,
 		"birthday": 1999,
 		"flag": "",
-		"rating_standard": 2492,
+		"rating_standard": 2487,
 		"rating_rapid": 2361,
 		"rating_blitz": 2478
 	},
@@ -59,7 +59,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 10,
 		"birthday": 1985,
 		"flag": "",
@@ -280,11 +280,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 2266,
+		"rating_standard": 2268,
 		"rating_rapid": 2217,
 		"rating_blitz": 2346
 	},
@@ -340,40 +340,6 @@
 		"rating_blitz": 2258
 	},
 	{
-		"fideid": 14000121,
-		"name": "Grigoryan, Karen",
-		"country": "TKM",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1954,
-		"flag": "",
-		"rating_standard": 2236,
-		"rating_rapid": 2043,
-		"rating_blitz": 2121
-	},
-	{
-		"fideid": 14004020,
-		"name": "Halynyazov, Vepaly",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 2229,
-		"rating_rapid": 2011,
-		"rating_blitz": 2042
-	},
-	{
 		"fideid": 14002990,
 		"name": "Kakabayev, Mergen",
 		"country": "TKM",
@@ -382,13 +348,47 @@
 		"w_title": "",
 		"o_title": "FT,FA",
 		"foa_title": "",
-		"games": 0,
+		"games": 12,
 		"k": 20,
 		"birthday": 1997,
 		"flag": "",
-		"rating_standard": 2223,
+		"rating_standard": 2229,
 		"rating_rapid": 2264,
 		"rating_blitz": 2338
+	},
+	{
+		"fideid": 14004135,
+		"name": "Kurbandurdyyev, Shageldi",
+		"country": "TKM",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2229,
+		"rating_rapid": 2031,
+		"rating_blitz": 2160
+	},
+	{
+		"fideid": 14000121,
+		"name": "Grigoryan, Karen",
+		"country": "TKM",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 10,
+		"birthday": 1954,
+		"flag": "",
+		"rating_standard": 2225,
+		"rating_rapid": 2043,
+		"rating_blitz": 2121
 	},
 	{
 		"fideid": 14000873,
@@ -518,13 +518,30 @@
 		"w_title": "",
 		"o_title": "FA",
 		"foa_title": "",
-		"games": 0,
+		"games": 16,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
-		"rating_standard": 2197,
+		"rating_standard": 2198,
 		"rating_rapid": 2167,
 		"rating_blitz": 2433
+	},
+	{
+		"fideid": 14004020,
+		"name": "Halynyazov, Vepaly",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 2194,
+		"rating_rapid": 2011,
+		"rating_blitz": 2042
 	},
 	{
 		"fideid": 14001624,
@@ -556,26 +573,9 @@
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
-		"rating_standard": 2185,
-		"rating_rapid": 2143,
-		"rating_blitz": 2196
-	},
-	{
-		"fideid": 14004135,
-		"name": "Kurbandurdyyev, Shageldi",
-		"country": "TKM",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2182,
-		"rating_rapid": 2032,
-		"rating_blitz": 2161
+		"rating_standard": 2184,
+		"rating_rapid": 2204,
+		"rating_blitz": 2273
 	},
 	{
 		"fideid": 14000610,
@@ -678,6 +678,23 @@
 		"rating_standard": 2176,
 		"rating_rapid": 2138,
 		"rating_blitz": 2190
+	},
+	{
+		"fideid": 14004259,
+		"name": "Shohradova, Leyla",
+		"country": "TKM",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 2174,
+		"rating_rapid": 2037,
+		"rating_blitz": 2069
 	},
 	{
 		"fideid": 14000725,
@@ -867,6 +884,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14004801,
+		"name": "Saryyev, Azym",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2145,
+		"rating_rapid": 1974,
+		"rating_blitz": 1956
+	},
+	{
 		"fideid": 14000598,
 		"name": "Atabayev, Aydogdy",
 		"country": "TKM",
@@ -1037,23 +1071,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14004259,
-		"name": "Shohradova, Leyla",
-		"country": "TKM",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 2120,
-		"rating_rapid": 2037,
-		"rating_blitz": 2069
-	},
-	{
 		"fideid": 14001152,
 		"name": "Kurbanov, Charygeldy",
 		"country": "TKM",
@@ -1122,23 +1139,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14004801,
-		"name": "Saryyev, Azym",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2106,
-		"rating_rapid": 1974,
-		"rating_blitz": 1956
-	},
-	{
 		"fideid": 14000059,
 		"name": "Geldiyeva, Mahri",
 		"country": "TKM",
@@ -1150,10 +1150,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1973,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 2101,
 		"rating_rapid": 2043,
-		"rating_blitz": 1959
+		"rating_blitz": 1968
 	},
 	{
 		"fideid": 14003716,
@@ -1188,23 +1188,6 @@
 		"rating_standard": 2098,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14004089,
-		"name": "Shohradova, Lala",
-		"country": "TKM",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": 2095,
-		"rating_rapid": 1978,
-		"rating_blitz": 2085
 	},
 	{
 		"fideid": 14003112,
@@ -1292,6 +1275,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14004089,
+		"name": "Shohradova, Lala",
+		"country": "TKM",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 2089,
+		"rating_rapid": 1978,
+		"rating_blitz": 2084
+	},
+	{
+		"fideid": 14006545,
+		"name": "Charyyev, Ilhan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2086,
+		"rating_rapid": 2020,
+		"rating_blitz": 2204
+	},
+	{
 		"fideid": 14003058,
 		"name": "Kazimov, Farhan",
 		"country": "TKM",
@@ -1343,6 +1360,23 @@
 		"rating_blitz": 2127
 	},
 	{
+		"fideid": 14005441,
+		"name": "Bayramov, Serdar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2076,
+		"rating_rapid": 1953,
+		"rating_blitz": 2088
+	},
+	{
 		"fideid": 14000547,
 		"name": "Myratgulyyev, Shohratguly",
 		"country": "TKM",
@@ -1375,23 +1409,6 @@
 		"rating_standard": 2069,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14006545,
-		"name": "Charyyev, Ilhan",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2069,
-		"rating_rapid": 2020,
-		"rating_blitz": 2205
 	},
 	{
 		"fideid": 14000733,
@@ -1428,6 +1445,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14004836,
+		"name": "Seyitmyradov, Serdar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 2067,
+		"rating_rapid": 2054,
+		"rating_blitz": 2137
+	},
+	{
 		"fideid": 14000490,
 		"name": "Orakov, Artuk",
 		"country": "TKM",
@@ -1459,7 +1493,7 @@
 		"flag": "i",
 		"rating_standard": 2064,
 		"rating_rapid": 2113,
-		"rating_blitz": 2059
+		"rating_blitz": 2060
 	},
 	{
 		"fideid": 14000466,
@@ -1494,23 +1528,6 @@
 		"rating_standard": 2060,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14004836,
-		"name": "Seyitmyradov, Serdar",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 2060,
-		"rating_rapid": 2054,
-		"rating_blitz": 2137
 	},
 	{
 		"fideid": 14000300,
@@ -1581,23 +1598,6 @@
 		"rating_blitz": 1918
 	},
 	{
-		"fideid": 14006480,
-		"name": "Rejepova, Jahan",
-		"country": "TKM",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 2051,
-		"rating_rapid": 1970,
-		"rating_blitz": 1984
-	},
-	{
 		"fideid": 14001098,
 		"name": "Huseynov, Murad",
 		"country": "TKM",
@@ -1613,23 +1613,6 @@
 		"rating_standard": 2047,
 		"rating_rapid": 2093,
 		"rating_blitz": 1989
-	},
-	{
-		"fideid": 14003503,
-		"name": "Kuryazov, Zafar",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 2047,
-		"rating_rapid": null,
-		"rating_blitz": 1993
 	},
 	{
 		"fideid": 14001314,
@@ -1683,6 +1666,23 @@
 		"rating_blitz": 1981
 	},
 	{
+		"fideid": 14005794,
+		"name": "Rustemov, Gurbanmyrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 2036,
+		"rating_rapid": 1956,
+		"rating_blitz": 1910
+	},
+	{
 		"fideid": 14004291,
 		"name": "Myradov, Maksat",
 		"country": "TKM",
@@ -1692,7 +1692,7 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": 2035,
@@ -1819,6 +1819,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14003503,
+		"name": "Kuryazov, Zafar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 2020,
+		"rating_rapid": null,
+		"rating_blitz": 1993
+	},
+	{
 		"fideid": 14001110,
 		"name": "Tiunov, Vladimir",
 		"country": "TKM",
@@ -1901,7 +1918,7 @@
 		"flag": "",
 		"rating_standard": 2014,
 		"rating_rapid": 2008,
-		"rating_blitz": 1818
+		"rating_blitz": 1817
 	},
 	{
 		"fideid": 14000660,
@@ -1987,23 +2004,6 @@
 		"rating_standard": 2005,
 		"rating_rapid": 1874,
 		"rating_blitz": 1984
-	},
-	{
-		"fideid": 14005441,
-		"name": "Bayramov, Serdar",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2004,
-		"rating_rapid": 1954,
-		"rating_blitz": 2088
 	},
 	{
 		"fideid": 14000377,
@@ -2125,6 +2125,23 @@
 		"rating_blitz": 1959
 	},
 	{
+		"fideid": 14006480,
+		"name": "Rejepova, Jahan",
+		"country": "TKM",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1985,
+		"rating_rapid": 1970,
+		"rating_blitz": 1984
+	},
+	{
 		"fideid": 14004585,
 		"name": "Jumadurdyev, Ashir",
 		"country": "TKM",
@@ -2153,7 +2170,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1981,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2227,23 +2244,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14005794,
-		"name": "Rustemov, Gurbanmyrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1978,
-		"rating_rapid": 1956,
-		"rating_blitz": 1911
-	},
-	{
 		"fideid": 14002248,
 		"name": "Ovezova, Mengli",
 		"country": "TKM",
@@ -2275,7 +2275,7 @@
 		"flag": "i",
 		"rating_standard": 1975,
 		"rating_rapid": null,
-		"rating_blitz": 1994
+		"rating_blitz": 1993
 	},
 	{
 		"fideid": 14001519,
@@ -2397,6 +2397,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14003805,
+		"name": "Annageldiyev, Azatgeldi",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1966,
+		"rating_rapid": 1937,
+		"rating_blitz": 2019
+	},
+	{
 		"fideid": 14004011,
 		"name": "Saburov, Geldimyrat",
 		"country": "TKM",
@@ -2429,6 +2446,23 @@
 		"rating_standard": 1959,
 		"rating_rapid": null,
 		"rating_blitz": 1914
+	},
+	{
+		"fideid": 14003120,
+		"name": "Yalkanov, Serdar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1959,
+		"rating_rapid": 1925,
+		"rating_blitz": 1916
 	},
 	{
 		"fideid": 14000687,
@@ -2482,21 +2516,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14003120,
-		"name": "Yalkanov, Serdar",
+		"fideid": 14006553,
+		"name": "Gaybullayev, Sanjar",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NA",
+		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1956,
-		"rating_rapid": 1925,
-		"rating_blitz": 1916
+		"rating_rapid": 2030,
+		"rating_blitz": 1979
 	},
 	{
 		"fideid": 14000512,
@@ -2547,7 +2581,24 @@
 		"flag": "i",
 		"rating_standard": 1954,
 		"rating_rapid": 1818,
-		"rating_blitz": 1736
+		"rating_blitz": 1735
+	},
+	{
+		"fideid": 14003864,
+		"name": "Ezizova, Bagul",
+		"country": "TKM",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1952,
+		"rating_rapid": 1793,
+		"rating_blitz": 1874
 	},
 	{
 		"fideid": 14000784,
@@ -2567,21 +2618,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14003864,
-		"name": "Ezizova, Bagul",
+		"fideid": 14005921,
+		"name": "Bayrambayeva, Ogulsuray",
 		"country": "TKM",
 		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
 		"foa_title": "",
-		"games": 0,
+		"games": 17,
 		"k": 20,
-		"birthday": 2006,
+		"birthday": 2003,
 		"flag": "w",
-		"rating_standard": 1951,
-		"rating_rapid": 1793,
-		"rating_blitz": 1875
+		"rating_standard": 1945,
+		"rating_rapid": 1847,
+		"rating_blitz": 2004
 	},
 	{
 		"fideid": 14004763,
@@ -2599,23 +2650,6 @@
 		"rating_standard": 1945,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14003805,
-		"name": "Annageldiyev, Azatgeldi",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1944,
-		"rating_rapid": 1937,
-		"rating_blitz": 2018
 	},
 	{
 		"fideid": 14001861,
@@ -2720,23 +2754,6 @@
 		"rating_blitz": 1917
 	},
 	{
-		"fideid": 14006731,
-		"name": "Artykov, Ahmet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1934,
-		"rating_rapid": 1764,
-		"rating_blitz": 1883
-	},
-	{
 		"fideid": 14005506,
 		"name": "Hojagulyyev,Ovezdurdy",
 		"country": "TKM",
@@ -2771,21 +2788,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14006642,
-		"name": "Seyilhanova, Gulmira",
+		"fideid": 14005239,
+		"name": "Yalkanova, Jennet",
 		"country": "TKM",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 16,
 		"k": 40,
-		"birthday": 2008,
+		"birthday": 2009,
 		"flag": "w",
-		"rating_standard": 1930,
-		"rating_rapid": 1893,
-		"rating_blitz": 1854
+		"rating_standard": 1931,
+		"rating_rapid": 1868,
+		"rating_blitz": 1773
 	},
 	{
 		"fideid": 14002450,
@@ -2822,23 +2839,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14005921,
-		"name": "Bayrambayeva, Ogulsuray",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "w",
-		"rating_standard": 1926,
-		"rating_rapid": 1847,
-		"rating_blitz": 2005
-	},
-	{
 		"fideid": 14003783,
 		"name": "Odayeva , Bibihanapya",
 		"country": "TKM",
@@ -2854,23 +2854,6 @@
 		"rating_standard": 1926,
 		"rating_rapid": 1891,
 		"rating_blitz": 1917
-	},
-	{
-		"fideid": 14005239,
-		"name": "Yalkanova, Jennet",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1926,
-		"rating_rapid": 1868,
-		"rating_blitz": 1773
 	},
 	{
 		"fideid": 14001322,
@@ -2905,23 +2888,6 @@
 		"rating_standard": 1921,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14006553,
-		"name": "Gaybullayev, Sanjar",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1920,
-		"rating_rapid": 2030,
-		"rating_blitz": 1979
 	},
 	{
 		"fideid": 14000881,
@@ -3026,21 +2992,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14007568,
-		"name": "Agamyradova, Mahri",
+		"fideid": 14006642,
+		"name": "Seyilhanova, Gulmira",
 		"country": "TKM",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 17,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1911,
-		"rating_rapid": 1821,
-		"rating_blitz": 1881
+		"rating_standard": 1914,
+		"rating_rapid": 1892,
+		"rating_blitz": 1853
 	},
 	{
 		"fideid": 14007240,
@@ -3057,7 +3023,7 @@
 		"flag": "",
 		"rating_standard": 1909,
 		"rating_rapid": 1908,
-		"rating_blitz": 1856
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 14005522,
@@ -3077,6 +3043,23 @@
 		"rating_blitz": 1912
 	},
 	{
+		"fideid": 14006731,
+		"name": "Artykov, Ahmet",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1907,
+		"rating_rapid": 1764,
+		"rating_blitz": 1882
+	},
+	{
 		"fideid": 14005450,
 		"name": "Bazarov, Bayram",
 		"country": "TKM",
@@ -3094,6 +3077,23 @@
 		"rating_blitz": 1565
 	},
 	{
+		"fideid": 14010828,
+		"name": "Berdinyazov, Yazgeldi",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1904,
+		"rating_rapid": 1818,
+		"rating_blitz": 1824
+	},
+	{
 		"fideid": 14000342,
 		"name": "Annageldiyev, Ashirgeldi",
 		"country": "TKM",
@@ -3109,23 +3109,6 @@
 		"rating_standard": 1903,
 		"rating_rapid": null,
 		"rating_blitz": 1953
-	},
-	{
-		"fideid": 14010828,
-		"name": "Berdinyazov, Yazgeldi",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1903,
-		"rating_rapid": 1818,
-		"rating_blitz": 1824
 	},
 	{
 		"fideid": 14000849,
@@ -3176,7 +3159,7 @@
 		"flag": "i",
 		"rating_standard": 1895,
 		"rating_rapid": 1882,
-		"rating_blitz": 1840
+		"rating_blitz": 1839
 	},
 	{
 		"fideid": 14003384,
@@ -3196,6 +3179,23 @@
 		"rating_blitz": 1851
 	},
 	{
+		"fideid": 14001330,
+		"name": "Haitbaev, Hayrulla",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": 1889,
+		"rating_rapid": 1894,
+		"rating_blitz": 2021
+	},
+	{
 		"fideid": 14001063,
 		"name": "Esenov, Azat",
 		"country": "TKM",
@@ -3211,23 +3211,6 @@
 		"rating_standard": 1888,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14001330,
-		"name": "Haitbaev, Hayrulla",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": 1888,
-		"rating_rapid": 1894,
-		"rating_blitz": 2021
 	},
 	{
 		"fideid": 14004720,
@@ -3247,6 +3230,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14007568,
+		"name": "Agamyradova, Mahri",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1884,
+		"rating_rapid": 1821,
+		"rating_blitz": 1880
+	},
+	{
 		"fideid": 14008092,
 		"name": "Baltayev, Didar",
 		"country": "TKM",
@@ -3262,23 +3262,6 @@
 		"rating_standard": 1883,
 		"rating_rapid": 1867,
 		"rating_blitz": 2022
-	},
-	{
-		"fideid": 14005875,
-		"name": "Yusupov, Rauf",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1882,
-		"rating_rapid": 1777,
-		"rating_blitz": 1817
 	},
 	{
 		"fideid": 14002116,
@@ -3332,23 +3315,6 @@
 		"rating_blitz": 1827
 	},
 	{
-		"fideid": 14006766,
-		"name": "Batyrov, Alyhan",
-		"country": "TKM",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1879,
-		"rating_rapid": 1935,
-		"rating_blitz": 1871
-	},
-	{
 		"fideid": 14001802,
 		"name": "Babaliyev, Myrat",
 		"country": "TKM",
@@ -3366,6 +3332,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14005913,
+		"name": "Gubatayeva, Ayshe",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "w",
+		"rating_standard": 1878,
+		"rating_rapid": 1871,
+		"rating_blitz": 1825
+	},
+	{
 		"fideid": 14001845,
 		"name": "Isayeva, Aynur",
 		"country": "TKM",
@@ -3381,23 +3364,6 @@
 		"rating_standard": 1878,
 		"rating_rapid": null,
 		"rating_blitz": 1842
-	},
-	{
-		"fideid": 14007258,
-		"name": "Bayramova, Aya",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1877,
-		"rating_rapid": 1837,
-		"rating_blitz": 1895
 	},
 	{
 		"fideid": 14000997,
@@ -3434,6 +3400,23 @@
 		"rating_blitz": 1824
 	},
 	{
+		"fideid": 14007258,
+		"name": "Bayramova, Aya",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1876,
+		"rating_rapid": 1837,
+		"rating_blitz": 1895
+	},
+	{
 		"fideid": 14003236,
 		"name": "Isayeva, Enejan",
 		"country": "TKM",
@@ -3449,6 +3432,23 @@
 		"rating_standard": 1876,
 		"rating_rapid": 1871,
 		"rating_blitz": 1820
+	},
+	{
+		"fideid": 14010348,
+		"name": "Jorayev, Yunus",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1875,
+		"rating_rapid": 1725,
+		"rating_blitz": 1697
 	},
 	{
 		"fideid": 14003368,
@@ -3502,23 +3502,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14006820,
-		"name": "Muhamova, Arzygul",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1871,
-		"rating_rapid": 1660,
-		"rating_blitz": 1713
-	},
-	{
 		"fideid": 14003902,
 		"name": "Mekanova, Annagozel",
 		"country": "TKM",
@@ -3534,6 +3517,23 @@
 		"rating_standard": 1870,
 		"rating_rapid": 1863,
 		"rating_blitz": 1821
+	},
+	{
+		"fideid": 14005875,
+		"name": "Yusupov, Rauf",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1869,
+		"rating_rapid": 1777,
+		"rating_blitz": 1816
 	},
 	{
 		"fideid": 14011263,
@@ -3568,23 +3568,6 @@
 		"rating_standard": 1867,
 		"rating_rapid": 1632,
 		"rating_blitz": 1792
-	},
-	{
-		"fideid": 14005913,
-		"name": "Gubatayeva, Ayshe",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "w",
-		"rating_standard": 1867,
-		"rating_rapid": 1871,
-		"rating_blitz": 1826
 	},
 	{
 		"fideid": 14004674,
@@ -3635,7 +3618,7 @@
 		"flag": "",
 		"rating_standard": 1865,
 		"rating_rapid": 1822,
-		"rating_blitz": 1927
+		"rating_blitz": 1926
 	},
 	{
 		"fideid": 14004348,
@@ -3719,8 +3702,8 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1858,
-		"rating_rapid": 1771,
-		"rating_blitz": 1704
+		"rating_rapid": 1772,
+		"rating_blitz": 1703
 	},
 	{
 		"fideid": 14000962,
@@ -3774,6 +3757,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14006456,
+		"name": "Gurbangeldiyeva, Mahrijemal",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1851,
+		"rating_rapid": 1916,
+		"rating_blitz": 1755
+	},
+	{
 		"fideid": 14001551,
 		"name": "Niyazmetov, Hudoshukur",
 		"country": "TKM",
@@ -3782,30 +3782,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
-		"rating_standard": 1846,
+		"rating_standard": 1847,
 		"rating_rapid": 1968,
 		"rating_blitz": 1893
 	},
 	{
-		"fideid": 14015862,
-		"name": "Ybrayymov Agajan",
+		"fideid": 14006537,
+		"name": "Soyunova, Nurana",
 		"country": "TKM",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 12,
 		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1844,
-		"rating_rapid": 1548,
-		"rating_blitz": 1601
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1845,
+		"rating_rapid": 1711,
+		"rating_blitz": 1665
 	},
 	{
 		"fideid": 14004496,
@@ -3823,6 +3823,23 @@
 		"rating_standard": 1843,
 		"rating_rapid": null,
 		"rating_blitz": 1984
+	},
+	{
+		"fideid": 14015862,
+		"name": "Ybrayymov Agajan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1843,
+		"rating_rapid": 1548,
+		"rating_blitz": 1600
 	},
 	{
 		"fideid": 14003961,
@@ -3859,6 +3876,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14006766,
+		"name": "Batyrov, Alyhan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1839,
+		"rating_rapid": 1935,
+		"rating_blitz": 1870
+	},
+	{
 		"fideid": 14007185,
 		"name": "Maksadov, Ysmayyl",
 		"country": "TKM",
@@ -3890,7 +3924,7 @@
 		"flag": "",
 		"rating_standard": 1838,
 		"rating_rapid": 1903,
-		"rating_blitz": 1866
+		"rating_blitz": 1865
 	},
 	{
 		"fideid": 14008688,
@@ -3907,7 +3941,41 @@
 		"flag": "",
 		"rating_standard": 1837,
 		"rating_rapid": 1785,
-		"rating_blitz": 1886
+		"rating_blitz": 1885
+	},
+	{
+		"fideid": 14006448,
+		"name": "Arazmedova, Enesh",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1836,
+		"rating_rapid": 1860,
+		"rating_blitz": 1905
+	},
+	{
+		"fideid": 14006820,
+		"name": "Muhamova, Arzygul",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1834,
+		"rating_rapid": 1660,
+		"rating_blitz": 1712
 	},
 	{
 		"fideid": 14001446,
@@ -3978,40 +4046,6 @@
 		"rating_blitz": 1768
 	},
 	{
-		"fideid": 14010348,
-		"name": "Jorayev, Yunus",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1828,
-		"rating_rapid": 1725,
-		"rating_blitz": 1698
-	},
-	{
-		"fideid": 14003759,
-		"name": "Ezizov, Muhammet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1826,
-		"rating_rapid": 1805,
-		"rating_blitz": 1924
-	},
-	{
 		"fideid": 14001837,
 		"name": "Amanmuradow, Atajan",
 		"country": "TKM",
@@ -4029,6 +4063,23 @@
 		"rating_blitz": 1857
 	},
 	{
+		"fideid": 14003759,
+		"name": "Ezizov, Muhammet",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1825,
+		"rating_rapid": 1805,
+		"rating_blitz": 1923
+	},
+	{
 		"fideid": 14003392,
 		"name": "Matyakubova, Yulduz",
 		"country": "TKM",
@@ -4044,23 +4095,6 @@
 		"rating_standard": 1824,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14007983,
-		"name": "Avliyakuliyev, Maksat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1823,
-		"rating_rapid": 1904,
-		"rating_blitz": 1949
 	},
 	{
 		"fideid": 14003929,
@@ -4111,24 +4145,7 @@
 		"flag": "",
 		"rating_standard": 1821,
 		"rating_rapid": 1793,
-		"rating_blitz": 1690
-	},
-	{
-		"fideid": 14006456,
-		"name": "Gurbangeldiyeva, Mahrijemal",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1820,
-		"rating_rapid": 1916,
-		"rating_blitz": 1756
+		"rating_blitz": 1688
 	},
 	{
 		"fideid": 14003880,
@@ -4148,23 +4165,6 @@
 		"rating_blitz": 1889
 	},
 	{
-		"fideid": 14006448,
-		"name": "Arazmedova, Enesh",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1815,
-		"rating_rapid": 1860,
-		"rating_blitz": 1906
-	},
-	{
 		"fideid": 14003457,
 		"name": "Ezizov, Jumamuhammet",
 		"country": "TKM",
@@ -4180,23 +4180,6 @@
 		"rating_standard": 1813,
 		"rating_rapid": 1780,
 		"rating_blitz": 1792
-	},
-	{
-		"fideid": 14006243,
-		"name": "Hamrakulyyev, Osman",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1813,
-		"rating_rapid": 1731,
-		"rating_blitz": 1781
 	},
 	{
 		"fideid": 14001683,
@@ -4216,6 +4199,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14006243,
+		"name": "Hamrakulyyev, Osman",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1812,
+		"rating_rapid": 1731,
+		"rating_blitz": 1781
+	},
+	{
 		"fideid": 14006367,
 		"name": "Ishankulyyev, Begmyrat",
 		"country": "TKM",
@@ -4231,40 +4231,6 @@
 		"rating_standard": 1811,
 		"rating_rapid": 1702,
 		"rating_blitz": 1708
-	},
-	{
-		"fideid": 14010267,
-		"name": "Gubatayev, Alihan",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1808,
-		"rating_rapid": 1804,
-		"rating_blitz": 1628
-	},
-	{
-		"fideid": 14006537,
-		"name": "Soyunova, Nurana",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1808,
-		"rating_rapid": 1711,
-		"rating_blitz": 1670
 	},
 	{
 		"fideid": 14001870,
@@ -4284,6 +4250,40 @@
 		"rating_blitz": 1819
 	},
 	{
+		"fideid": 14010267,
+		"name": "Gubatayev, Alihan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1806,
+		"rating_rapid": 1804,
+		"rating_blitz": 1626
+	},
+	{
+		"fideid": 14007223,
+		"name": "Kabehanov, Serdar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1804,
+		"rating_rapid": 1871,
+		"rating_blitz": 1739
+	},
+	{
 		"fideid": 14006812,
 		"name": "Ismailov, Omarbek",
 		"country": "TKM",
@@ -4298,11 +4298,11 @@
 		"flag": "",
 		"rating_standard": 1803,
 		"rating_rapid": 1797,
-		"rating_blitz": 1900
+		"rating_blitz": 1899
 	},
 	{
-		"fideid": 14007223,
-		"name": "Kabehanov, Serdar",
+		"fideid": 14010356,
+		"name": "Haljykov, Begmuhammet",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
@@ -4311,11 +4311,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2007,
+		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1802,
-		"rating_rapid": 1871,
-		"rating_blitz": 1739
+		"rating_standard": 1801,
+		"rating_rapid": 1704,
+		"rating_blitz": 1683
 	},
 	{
 		"fideid": 14005310,
@@ -4352,23 +4352,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14010356,
-		"name": "Haljykov, Begmuhammet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1800,
-		"rating_rapid": 1704,
-		"rating_blitz": 1683
-	},
-	{
 		"fideid": 14004593,
 		"name": "Kakayev, Begench",
 		"country": "TKM",
@@ -4381,7 +4364,7 @@
 		"k": 40,
 		"birthday": 1990,
 		"flag": "i",
-		"rating_standard": 1798,
+		"rating_standard": 1799,
 		"rating_rapid": null,
 		"rating_blitz": 1880
 	},
@@ -4420,6 +4403,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14007983,
+		"name": "Avliyakuliyev, Maksat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1795,
+		"rating_rapid": 1905,
+		"rating_blitz": 1947
+	},
+	{
 		"fideid": 14004712,
 		"name": "Nurmuradov, Suleyman",
 		"country": "TKM",
@@ -4446,12 +4446,29 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1792,
 		"rating_rapid": 1818,
 		"rating_blitz": 1842
+	},
+	{
+		"fideid": 14006936,
+		"name": "Annageldiyev, Salyh",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1790,
+		"rating_rapid": 1696,
+		"rating_blitz": 1613
 	},
 	{
 		"fideid": 14004240,
@@ -4468,7 +4485,7 @@
 		"flag": "w",
 		"rating_standard": 1790,
 		"rating_rapid": 1824,
-		"rating_blitz": 1819
+		"rating_blitz": 1817
 	},
 	{
 		"fideid": 14006928,
@@ -4500,9 +4517,9 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1789,
+		"rating_standard": 1788,
 		"rating_rapid": 1688,
-		"rating_blitz": 1693
+		"rating_blitz": 1692
 	},
 	{
 		"fideid": 14011239,
@@ -4517,7 +4534,7 @@
 		"k": 40,
 		"birthday": 1985,
 		"flag": "",
-		"rating_standard": 1789,
+		"rating_standard": 1788,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -4587,7 +4604,24 @@
 		"flag": "",
 		"rating_standard": 1781,
 		"rating_rapid": 1793,
-		"rating_blitz": 1861
+		"rating_blitz": 1860
+	},
+	{
+		"fideid": 14013169,
+		"name": "Hupbyyeva, Dilber",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1780,
+		"rating_rapid": 1698,
+		"rating_blitz": 1751
 	},
 	{
 		"fideid": 14002914,
@@ -4706,7 +4740,7 @@
 		"flag": "",
 		"rating_standard": 1774,
 		"rating_rapid": 1719,
-		"rating_blitz": 1719
+		"rating_blitz": 1717
 	},
 	{
 		"fideid": 14007215,
@@ -4718,29 +4752,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1772,
 		"rating_rapid": 1819,
 		"rating_blitz": 1834
-	},
-	{
-		"fideid": 14013169,
-		"name": "Hupbyyeva, Dilber",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1771,
-		"rating_rapid": 1698,
-		"rating_blitz": 1754
 	},
 	{
 		"fideid": 14004690,
@@ -4774,7 +4791,7 @@
 		"flag": "",
 		"rating_standard": 1765,
 		"rating_rapid": 1664,
-		"rating_blitz": 1640
+		"rating_blitz": 1639
 	},
 	{
 		"fideid": 14003775,
@@ -4862,23 +4879,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14007460,
-		"name": "Merdanov, Myrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1754,
-		"rating_rapid": 1644,
-		"rating_blitz": 1802
-	},
-	{
 		"fideid": 14011867,
 		"name": "Bashov Mekan",
 		"country": "TKM",
@@ -4964,6 +4964,57 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14010402,
+		"name": "Bayrambayev, Suleyman",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1749,
+		"rating_rapid": 1836,
+		"rating_blitz": 1977
+	},
+	{
+		"fideid": 14008726,
+		"name": "Jorayev, Abdulla",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1749,
+		"rating_rapid": 1721,
+		"rating_blitz": 1829
+	},
+	{
+		"fideid": 14007460,
+		"name": "Merdanov, Myrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1748,
+		"rating_rapid": 1643,
+		"rating_blitz": 1800
+	},
+	{
 		"fideid": 14006499,
 		"name": "Semenderova, Aylar",
 		"country": "TKM",
@@ -4978,24 +5029,7 @@
 		"flag": "w",
 		"rating_standard": 1748,
 		"rating_rapid": 1677,
-		"rating_blitz": 1707
-	},
-	{
-		"fideid": 14014165,
-		"name": "Bagtyyarov, Ziyaddin",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1747,
-		"rating_rapid": 1651,
-		"rating_blitz": 1772
+		"rating_blitz": 1706
 	},
 	{
 		"fideid": 14003953,
@@ -5015,6 +5049,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14014165,
+		"name": "Bagtyyarov, Ziyaddin",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1746,
+		"rating_rapid": 1651,
+		"rating_blitz": 1771
+	},
+	{
 		"fideid": 14006987,
 		"name": "Baygeldiyev, Muhammetnur",
 		"country": "TKM",
@@ -5028,7 +5079,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1746,
-		"rating_rapid": 1773,
+		"rating_rapid": 1772,
 		"rating_blitz": 1719
 	},
 	{
@@ -5046,7 +5097,7 @@
 		"flag": "",
 		"rating_standard": 1743,
 		"rating_rapid": 1825,
-		"rating_blitz": 1707
+		"rating_blitz": 1706
 	},
 	{
 		"fideid": 14003481,
@@ -5134,23 +5185,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14010593,
-		"name": "Bahtiyarova Jeren",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1734,
-		"rating_rapid": 1626,
-		"rating_blitz": 1569
-	},
-	{
 		"fideid": 14004046,
 		"name": "Geldymuradov, Mekan",
 		"country": "TKM",
@@ -5160,7 +5194,7 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": 1734,
@@ -5176,13 +5210,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "w",
-		"rating_standard": 1732,
+		"rating_standard": 1733,
 		"rating_rapid": 1759,
-		"rating_blitz": 1659
+		"rating_blitz": 1658
+	},
+	{
+		"fideid": 14010593,
+		"name": "Bahtiyarova Jeren",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1732,
+		"rating_rapid": 1626,
+		"rating_blitz": 1569
 	},
 	{
 		"fideid": 14019540,
@@ -5202,23 +5253,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14007320,
-		"name": "Myradov, Resulmyrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1730,
-		"rating_rapid": 1590,
-		"rating_blitz": 1698
-	},
-	{
 		"fideid": 14005204,
 		"name": "Tokgayeva,Aygul",
 		"country": "TKM",
@@ -5233,7 +5267,7 @@
 		"flag": "w",
 		"rating_standard": 1729,
 		"rating_rapid": 1756,
-		"rating_blitz": 1857
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 14001713,
@@ -5267,7 +5301,24 @@
 		"flag": "",
 		"rating_standard": 1727,
 		"rating_rapid": 1674,
-		"rating_blitz": 1773
+		"rating_blitz": 1772
+	},
+	{
+		"fideid": 14007290,
+		"name": "Karyagdyyev, Alihan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1725,
+		"rating_rapid": 1704,
+		"rating_blitz": 1716
 	},
 	{
 		"fideid": 14005247,
@@ -5321,23 +5372,6 @@
 		"rating_blitz": 1859
 	},
 	{
-		"fideid": 14008726,
-		"name": "Jorayev, Abdulla",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1717,
-		"rating_rapid": 1721,
-		"rating_blitz": 1831
-	},
-	{
 		"fideid": 14004879,
 		"name": "Shukurov, Eziz",
 		"country": "TKM",
@@ -5367,9 +5401,9 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1714,
+		"rating_standard": 1715,
 		"rating_rapid": 1626,
-		"rating_blitz": 1602
+		"rating_blitz": 1601
 	},
 	{
 		"fideid": 14005190,
@@ -5457,23 +5491,6 @@
 		"rating_blitz": 1546
 	},
 	{
-		"fideid": 14007290,
-		"name": "Karyagdyyev, Alihan",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1709,
-		"rating_rapid": 1704,
-		"rating_blitz": 1716
-	},
-	{
 		"fideid": 14005255,
 		"name": "Jumayeva, Selbi",
 		"country": "TKM",
@@ -5489,6 +5506,23 @@
 		"rating_standard": 1708,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14007320,
+		"name": "Myradov, Resulmyrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1708,
+		"rating_rapid": 1589,
+		"rating_blitz": 1698
 	},
 	{
 		"fideid": 14003660,
@@ -5537,9 +5571,43 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1704,
+		"rating_standard": 1705,
 		"rating_rapid": 1578,
-		"rating_blitz": 1546
+		"rating_blitz": 1545
+	},
+	{
+		"fideid": 14008068,
+		"name": "Bahramkulyyev, Muhammet",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1704,
+		"rating_rapid": 1589,
+		"rating_blitz": 1672
+	},
+	{
+		"fideid": 14004178,
+		"name": "Isayev, Maksat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1704,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14003490,
@@ -5555,40 +5623,6 @@
 		"birthday": 1978,
 		"flag": "",
 		"rating_standard": 1704,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14008068,
-		"name": "Bahramkulyyev, Muhammet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1703,
-		"rating_rapid": 1589,
-		"rating_blitz": 1673
-	},
-	{
-		"fideid": 14004178,
-		"name": "Isayev, Maksat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 1703,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5712,23 +5746,6 @@
 		"rating_blitz": 1678
 	},
 	{
-		"fideid": 14006936,
-		"name": "Annageldiyev, Salyh",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1691,
-		"rating_rapid": 1696,
-		"rating_blitz": 1613
-	},
-	{
 		"fideid": 14011700,
 		"name": "Artykov, Begench",
 		"country": "TKM",
@@ -5763,6 +5780,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14013649,
+		"name": "Ustayev, Bashim",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 1690,
+		"rating_rapid": null,
+		"rating_blitz": 1728
+	},
+	{
 		"fideid": 14002515,
 		"name": "Begliyev, Ovezgeldy",
 		"country": "TKM",
@@ -5778,6 +5812,23 @@
 		"rating_standard": 1689,
 		"rating_rapid": 1813,
 		"rating_blitz": 1739
+	},
+	{
+		"fideid": 14013460,
+		"name": "Ereshov Kakajan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1689,
+		"rating_rapid": 1657,
+		"rating_blitz": 1770
 	},
 	{
 		"fideid": 14004860,
@@ -5797,23 +5848,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14013649,
-		"name": "Ustayev, Bashim",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": 1689,
-		"rating_rapid": null,
-		"rating_blitz": 1728
-	},
-	{
 		"fideid": 14012014,
 		"name": "Ahmedov Mukam",
 		"country": "TKM",
@@ -5829,23 +5863,6 @@
 		"rating_standard": 1688,
 		"rating_rapid": 1666,
 		"rating_blitz": 1698
-	},
-	{
-		"fideid": 14013460,
-		"name": "Ereshov Kakajan",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1688,
-		"rating_rapid": 1657,
-		"rating_blitz": 1770
 	},
 	{
 		"fideid": 14008025,
@@ -5913,7 +5930,7 @@
 		"flag": "w",
 		"rating_standard": 1686,
 		"rating_rapid": 1734,
-		"rating_blitz": 1653
+		"rating_blitz": 1654
 	},
 	{
 		"fideid": 14012502,
@@ -5930,7 +5947,7 @@
 		"flag": "",
 		"rating_standard": 1685,
 		"rating_rapid": 1725,
-		"rating_blitz": 1678
+		"rating_blitz": 1676
 	},
 	{
 		"fideid": 14013592,
@@ -5964,7 +5981,7 @@
 		"flag": "",
 		"rating_standard": 1682,
 		"rating_rapid": 1829,
-		"rating_blitz": 1814
+		"rating_blitz": 1813
 	},
 	{
 		"fideid": 14008769,
@@ -5981,7 +5998,7 @@
 		"flag": "w",
 		"rating_standard": 1682,
 		"rating_rapid": 1674,
-		"rating_blitz": 1721
+		"rating_blitz": 1720
 	},
 	{
 		"fideid": 14014360,
@@ -6115,43 +6132,26 @@
 		"k": 40,
 		"birthday": 1964,
 		"flag": "",
-		"rating_standard": 1672,
+		"rating_standard": 1671,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14010402,
-		"name": "Bayrambayev, Suleyman",
+		"fideid": 14011069,
+		"name": "Reimova Oguljan",
 		"country": "TKM",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1672,
-		"rating_rapid": 1836,
-		"rating_blitz": 1977
-	},
-	{
-		"fideid": 14014270,
-		"name": "Atayev, Omar",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1671,
-		"rating_rapid": 1452,
-		"rating_blitz": 1597
+		"birthday": 1995,
+		"flag": "w",
+		"rating_standard": 1669,
+		"rating_rapid": 1704,
+		"rating_blitz": 1747
 	},
 	{
 		"fideid": 14014190,
@@ -6185,41 +6185,7 @@
 		"flag": "",
 		"rating_standard": 1668,
 		"rating_rapid": 1561,
-		"rating_blitz": 1754
-	},
-	{
-		"fideid": 14011069,
-		"name": "Reimova Oguljan",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "w",
-		"rating_standard": 1668,
-		"rating_rapid": 1704,
-		"rating_blitz": 1747
-	},
-	{
-		"fideid": 14004933,
-		"name": "Yakubov, Myrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1953,
-		"flag": "",
-		"rating_standard": 1664,
-		"rating_rapid": 1664,
-		"rating_blitz": 1687
+		"rating_blitz": 1753
 	},
 	{
 		"fideid": 14007550,
@@ -6239,6 +6205,23 @@
 		"rating_blitz": 1669
 	},
 	{
+		"fideid": 14014742,
+		"name": "Charyyev Abdulla",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1662,
+		"rating_rapid": 1553,
+		"rating_blitz": 1413
+	},
+	{
 		"fideid": 14013312,
 		"name": "Orazbayev Shahruh",
 		"country": "TKM",
@@ -6253,7 +6236,7 @@
 		"flag": "",
 		"rating_standard": 1662,
 		"rating_rapid": 1782,
-		"rating_blitz": 1666
+		"rating_blitz": 1667
 	},
 	{
 		"fideid": 14015684,
@@ -6270,7 +6253,7 @@
 		"flag": "w",
 		"rating_standard": 1662,
 		"rating_rapid": 1641,
-		"rating_blitz": 1662
+		"rating_blitz": 1661
 	},
 	{
 		"fideid": 14005751,
@@ -6307,6 +6290,23 @@
 		"rating_blitz": 1789
 	},
 	{
+		"fideid": 14004933,
+		"name": "Yakubov, Myrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1953,
+		"flag": "",
+		"rating_standard": 1660,
+		"rating_rapid": 1665,
+		"rating_blitz": 1687
+	},
+	{
 		"fideid": 14010437,
 		"name": "Annayev, Davut",
 		"country": "TKM",
@@ -6338,7 +6338,7 @@
 		"flag": "",
 		"rating_standard": 1656,
 		"rating_rapid": 1580,
-		"rating_blitz": 1684
+		"rating_blitz": 1683
 	},
 	{
 		"fideid": 14011115,
@@ -6355,7 +6355,7 @@
 		"flag": "",
 		"rating_standard": 1655,
 		"rating_rapid": 1557,
-		"rating_blitz": 1635
+		"rating_blitz": 1637
 	},
 	{
 		"fideid": 14005328,
@@ -6426,6 +6426,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14009730,
+		"name": "Suvanova, Jeren",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1652,
+		"rating_rapid": null,
+		"rating_blitz": 1490
+	},
+	{
 		"fideid": 14010445,
 		"name": "Saryyev, Ygtyyar",
 		"country": "TKM",
@@ -6460,23 +6477,6 @@
 		"rating_blitz": 1597
 	},
 	{
-		"fideid": 14009730,
-		"name": "Suvanova, Jeren",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1651,
-		"rating_rapid": null,
-		"rating_blitz": 1492
-	},
-	{
 		"fideid": 14009854,
 		"name": "Yegenkuliyev, Burhan",
 		"country": "TKM",
@@ -6491,7 +6491,7 @@
 		"flag": "",
 		"rating_standard": 1651,
 		"rating_rapid": 1564,
-		"rating_blitz": 1662
+		"rating_blitz": 1661
 	},
 	{
 		"fideid": 14007029,
@@ -6505,27 +6505,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1650,
 		"rating_rapid": 1526,
 		"rating_blitz": 1614
-	},
-	{
-		"fideid": 14009471,
-		"name": "Rahmedova, Jasmin",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1650,
-		"rating_rapid": 1605,
-		"rating_blitz": 1530
 	},
 	{
 		"fideid": 14016559,
@@ -6542,7 +6525,24 @@
 		"flag": "",
 		"rating_standard": 1645,
 		"rating_rapid": 1592,
-		"rating_blitz": 1644
+		"rating_blitz": 1643
+	},
+	{
+		"fideid": 14006510,
+		"name": "Iminova, Zalina",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1643,
+		"rating_rapid": 1691,
+		"rating_blitz": 1712
 	},
 	{
 		"fideid": 14013215,
@@ -6560,23 +6560,6 @@
 		"rating_standard": 1642,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14006510,
-		"name": "Iminova, Zalina",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1642,
-		"rating_rapid": 1691,
-		"rating_blitz": 1700
 	},
 	{
 		"fideid": 14009170,
@@ -6610,7 +6593,24 @@
 		"flag": "",
 		"rating_standard": 1640,
 		"rating_rapid": 1588,
-		"rating_blitz": 1614
+		"rating_blitz": 1613
+	},
+	{
+		"fideid": 14009471,
+		"name": "Rahmedova, Jasmin",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1637,
+		"rating_rapid": 1605,
+		"rating_blitz": 1523
 	},
 	{
 		"fideid": 14007487,
@@ -6630,6 +6630,23 @@
 		"rating_blitz": 1561
 	},
 	{
+		"fideid": 14012499,
+		"name": "Charyyev Charyhekim",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1636,
+		"rating_rapid": 1679,
+		"rating_blitz": 1835
+	},
+	{
 		"fideid": 14004925,
 		"name": "Yagshigulyev, Shohrat",
 		"country": "TKM",
@@ -6645,23 +6662,6 @@
 		"rating_standard": 1635,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14012499,
-		"name": "Charyyev Charyhekim",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1633,
-		"rating_rapid": 1682,
-		"rating_blitz": 1834
 	},
 	{
 		"fideid": 14004755,
@@ -6698,40 +6698,6 @@
 		"rating_blitz": 1690
 	},
 	{
-		"fideid": 14013231,
-		"name": "Hemrayev Ilshat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1630,
-		"rating_rapid": 1568,
-		"rating_blitz": 1671
-	},
-	{
-		"fideid": 14005581,
-		"name": "Nazarmyradov , Ovlaguly",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1626,
-		"rating_rapid": 1625,
-		"rating_blitz": 1637
-	},
-	{
 		"fideid": 14016524,
 		"name": "Berdiyev Davut",
 		"country": "TKM",
@@ -6766,6 +6732,23 @@
 		"rating_blitz": 1678
 	},
 	{
+		"fideid": 14005581,
+		"name": "Nazarmyradov , Ovlaguly",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1625,
+		"rating_rapid": 1625,
+		"rating_blitz": 1637
+	},
+	{
 		"fideid": 14005271,
 		"name": "Matyakubova, Mehriban",
 		"country": "TKM",
@@ -6783,6 +6766,23 @@
 		"rating_blitz": 1713
 	},
 	{
+		"fideid": 14008700,
+		"name": "Janbekov, Ahmet",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1623,
+		"rating_rapid": 1611,
+		"rating_blitz": 1684
+	},
+	{
 		"fideid": 14007304,
 		"name": "Yusupov, Riza",
 		"country": "TKM",
@@ -6794,7 +6794,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1623,
 		"rating_rapid": 1665,
 		"rating_blitz": 1693
@@ -6812,7 +6812,7 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
-		"rating_standard": 1621,
+		"rating_standard": 1620,
 		"rating_rapid": 1567,
 		"rating_blitz": 1528
 	},
@@ -6832,6 +6832,23 @@
 		"rating_standard": 1620,
 		"rating_rapid": 1557,
 		"rating_blitz": 1787
+	},
+	{
+		"fideid": 14006049,
+		"name": "Ovganov.Abdyrahym",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1619,
+		"rating_rapid": 1492,
+		"rating_blitz": 1710
 	},
 	{
 		"fideid": 14015668,
@@ -6866,23 +6883,6 @@
 		"rating_standard": 1617,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14009536,
-		"name": "Ruslanova, Dunya",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1612,
-		"rating_rapid": 1668,
-		"rating_blitz": 1757
 	},
 	{
 		"fideid": 14011093,
@@ -6953,21 +6953,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14009790,
-		"name": "Vepayeva, Lale",
+		"fideid": 14013231,
+		"name": "Hemrayev Ilshat",
 		"country": "TKM",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1607,
-		"rating_rapid": 1650,
-		"rating_blitz": 1632
+		"flag": "",
+		"rating_standard": 1606,
+		"rating_rapid": 1568,
+		"rating_blitz": 1670
 	},
 	{
 		"fideid": 14005042,
@@ -6987,6 +6987,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14009536,
+		"name": "Ruslanova, Dunya",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1605,
+		"rating_rapid": 1666,
+		"rating_blitz": 1757
+	},
+	{
+		"fideid": 14014270,
+		"name": "Atayev, Omar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1604,
+		"rating_rapid": 1452,
+		"rating_blitz": 1598
+	},
+	{
 		"fideid": 14009048,
 		"name": "Muhammedov, Selim",
 		"country": "TKM",
@@ -7001,7 +7035,24 @@
 		"flag": "",
 		"rating_standard": 1604,
 		"rating_rapid": 1503,
-		"rating_blitz": 1654
+		"rating_blitz": 1653
+	},
+	{
+		"fideid": 14007088,
+		"name": "Japarov Azimgeldi",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1603,
+		"rating_rapid": 1717,
+		"rating_blitz": 1683
 	},
 	{
 		"fideid": 14004909,
@@ -7035,7 +7086,7 @@
 		"flag": "",
 		"rating_standard": 1601,
 		"rating_rapid": 1745,
-		"rating_blitz": 1771
+		"rating_blitz": 1770
 	},
 	{
 		"fideid": 14010127,
@@ -7072,6 +7123,23 @@
 		"rating_blitz": 1652
 	},
 	{
+		"fideid": 14010160,
+		"name": "Huseyinova Humay",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1600,
+		"rating_rapid": 1507,
+		"rating_blitz": 1565
+	},
+	{
 		"fideid": 14010933,
 		"name": "Kurbannazarova, Mahriban",
 		"country": "TKM",
@@ -7086,7 +7154,7 @@
 		"flag": "w",
 		"rating_standard": 1600,
 		"rating_rapid": 1507,
-		"rating_blitz": 1517
+		"rating_blitz": 1516
 	},
 	{
 		"fideid": 14003686,
@@ -7120,7 +7188,7 @@
 		"flag": "",
 		"rating_standard": 1597,
 		"rating_rapid": 1476,
-		"rating_blitz": 1527
+		"rating_blitz": 1528
 	},
 	{
 		"fideid": 14019671,
@@ -7205,7 +7273,7 @@
 		"flag": "i",
 		"rating_standard": 1594,
 		"rating_rapid": 1594,
-		"rating_blitz": 1624
+		"rating_blitz": 1623
 	},
 	{
 		"fideid": 14005867,
@@ -7290,41 +7358,24 @@
 		"flag": "i",
 		"rating_standard": 1589,
 		"rating_rapid": 1751,
-		"rating_blitz": 1745
+		"rating_blitz": 1744
 	},
 	{
-		"fideid": 14007088,
-		"name": "Japarov Azimgeldi",
+		"fideid": 14009790,
+		"name": "Vepayeva, Lale",
 		"country": "TKM",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
-		"birthday": 2009,
-		"flag": "",
+		"birthday": 2015,
+		"flag": "w",
 		"rating_standard": 1589,
-		"rating_rapid": 1717,
-		"rating_blitz": 1683
-	},
-	{
-		"fideid": 14007932,
-		"name": "Atalyyev, Ovez",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1587,
-		"rating_rapid": 1466,
-		"rating_blitz": 1462
+		"rating_rapid": 1647,
+		"rating_blitz": 1632
 	},
 	{
 		"fideid": 14009269,
@@ -7339,7 +7390,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1587,
+		"rating_standard": 1588,
 		"rating_rapid": 1727,
 		"rating_blitz": 1721
 	},
@@ -7358,7 +7409,7 @@
 		"flag": "w",
 		"rating_standard": 1586,
 		"rating_rapid": 1651,
-		"rating_blitz": 1565
+		"rating_blitz": 1561
 	},
 	{
 		"fideid": 14007576,
@@ -7375,7 +7426,7 @@
 		"flag": "w",
 		"rating_standard": 1584,
 		"rating_rapid": 1497,
-		"rating_blitz": 1514
+		"rating_blitz": 1513
 	},
 	{
 		"fideid": 14016419,
@@ -7392,7 +7443,7 @@
 		"flag": "",
 		"rating_standard": 1584,
 		"rating_rapid": 1578,
-		"rating_blitz": 1645
+		"rating_blitz": 1644
 	},
 	{
 		"fideid": 14014424,
@@ -7412,23 +7463,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14008700,
-		"name": "Janbekov, Ahmet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1583,
-		"rating_rapid": 1611,
-		"rating_blitz": 1685
-	},
-	{
 		"fideid": 14007495,
 		"name": "Serdarova, Pervana",
 		"country": "TKM",
@@ -7443,7 +7477,7 @@
 		"flag": "w",
 		"rating_standard": 1583,
 		"rating_rapid": 1610,
-		"rating_blitz": 1575
+		"rating_blitz": 1573
 	},
 	{
 		"fideid": 14008785,
@@ -7463,23 +7497,6 @@
 		"rating_blitz": 1761
 	},
 	{
-		"fideid": 14006049,
-		"name": "Ovganov.Abdyrahym",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1582,
-		"rating_rapid": 1492,
-		"rating_blitz": 1711
-	},
-	{
 		"fideid": 14010330,
 		"name": "Jorayev, Gurbanmyrat",
 		"country": "TKM",
@@ -7494,7 +7511,7 @@
 		"flag": "",
 		"rating_standard": 1581,
 		"rating_rapid": 1538,
-		"rating_blitz": 1568
+		"rating_blitz": 1569
 	},
 	{
 		"fideid": 14006979,
@@ -7511,7 +7528,7 @@
 		"flag": "",
 		"rating_standard": 1580,
 		"rating_rapid": null,
-		"rating_blitz": 1466
+		"rating_blitz": 1470
 	},
 	{
 		"fideid": 14008718,
@@ -7525,10 +7542,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1579,
 		"rating_rapid": 1577,
-		"rating_blitz": 1629
+		"rating_blitz": 1628
 	},
 	{
 		"fideid": 14003678,
@@ -7565,8 +7582,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14009099,
-		"name": "Muhammetberdiyeva, Jumasoltan",
+		"fideid": 14013150,
+		"name": "Saparmyradova, Sahra",
 		"country": "TKM",
 		"sex": "F",
 		"title": "",
@@ -7575,11 +7592,28 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1578,
-		"rating_rapid": 1519,
-		"rating_blitz": 1558
+		"rating_rapid": 1579,
+		"rating_blitz": 1578
+	},
+	{
+		"fideid": 14012251,
+		"name": "Bayramalyyev Shyhmammet",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14010470,
@@ -7596,41 +7630,24 @@
 		"flag": "",
 		"rating_standard": 1577,
 		"rating_rapid": 1595,
-		"rating_blitz": 1652
+		"rating_blitz": 1651
 	},
 	{
-		"fideid": 14013150,
-		"name": "Saparmyradova, Sahra",
+		"fideid": 14009099,
+		"name": "Muhammetberdiyeva, Jumasoltan",
 		"country": "TKM",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1577,
-		"rating_rapid": 1579,
-		"rating_blitz": 1589
-	},
-	{
-		"fideid": 14012251,
-		"name": "Bayramalyyev Shyhmammet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1576,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1515,
+		"rating_blitz": 1556
 	},
 	{
 		"fideid": 14014890,
@@ -7647,7 +7664,24 @@
 		"flag": "",
 		"rating_standard": 1576,
 		"rating_rapid": 1422,
-		"rating_blitz": 1546
+		"rating_blitz": 1548
+	},
+	{
+		"fideid": 14016702,
+		"name": "Sapayev Yhlas",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1575,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14011107,
@@ -7667,6 +7701,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14003031,
+		"name": "Otuzov, Begmurad",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "FI",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1574,
+		"rating_rapid": null,
+		"rating_blitz": 1591
+	},
+	{
 		"fideid": 14016354,
 		"name": "Ovshukov Nurberdi",
 		"country": "TKM",
@@ -7684,23 +7735,6 @@
 		"rating_blitz": 1549
 	},
 	{
-		"fideid": 14016702,
-		"name": "Sapayev Yhlas",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1574,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14008220,
 		"name": "Charykulyyeva, Gunesh",
 		"country": "TKM",
@@ -7714,8 +7748,8 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1573,
-		"rating_rapid": 1545,
-		"rating_blitz": 1508
+		"rating_rapid": 1546,
+		"rating_blitz": 1494
 	},
 	{
 		"fideid": 14014882,
@@ -7752,23 +7786,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14003031,
-		"name": "Otuzov, Begmurad",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "FI",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1573,
-		"rating_rapid": null,
-		"rating_blitz": 1591
-	},
-	{
 		"fideid": 14011948,
 		"name": "Nobatova Emine",
 		"country": "TKM",
@@ -7800,7 +7817,7 @@
 		"flag": "i",
 		"rating_standard": 1572,
 		"rating_rapid": 1521,
-		"rating_blitz": 1705
+		"rating_blitz": 1704
 	},
 	{
 		"fideid": 14017245,
@@ -7831,7 +7848,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1570,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7868,7 +7885,7 @@
 		"flag": "",
 		"rating_standard": 1567,
 		"rating_rapid": null,
-		"rating_blitz": 1467
+		"rating_blitz": 1466
 	},
 	{
 		"fideid": 14008920,
@@ -7905,23 +7922,6 @@
 		"rating_blitz": 1606
 	},
 	{
-		"fideid": 14013339,
-		"name": "Hupbyyev Didar",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1563,
-		"rating_rapid": 1578,
-		"rating_blitz": 1568
-	},
-	{
 		"fideid": 14006804,
 		"name": "Ismailov, Muhammad",
 		"country": "TKM",
@@ -7931,11 +7931,11 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1563,
-		"rating_rapid": 1617,
+		"rating_rapid": 1618,
 		"rating_blitz": 1625
 	},
 	{
@@ -7973,23 +7973,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14010160,
-		"name": "Huseyinova Humay",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1559,
-		"rating_rapid": 1507,
-		"rating_blitz": 1567
-	},
-	{
 		"fideid": 14005131,
 		"name": "Azadova, Leyli",
 		"country": "TKM",
@@ -8005,6 +7988,23 @@
 		"rating_standard": 1557,
 		"rating_rapid": null,
 		"rating_blitz": 1797
+	},
+	{
+		"fideid": 14015307,
+		"name": "Atayev Selim",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1556,
+		"rating_rapid": 1482,
+		"rating_blitz": 1498
 	},
 	{
 		"fideid": 14019744,
@@ -8058,21 +8058,38 @@
 		"rating_blitz": 1638
 	},
 	{
-		"fideid": 14015307,
-		"name": "Atayev Selim",
+		"fideid": 14007932,
+		"name": "Atalyyev, Ovez",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1555,
-		"rating_rapid": 1483,
-		"rating_blitz": 1497
+		"rating_rapid": 1466,
+		"rating_blitz": 1462
+	},
+	{
+		"fideid": 14013339,
+		"name": "Hupbyyev Didar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1553,
+		"rating_rapid": 1578,
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 14016710,
@@ -8090,23 +8107,6 @@
 		"rating_standard": 1553,
 		"rating_rapid": 1523,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14010887,
-		"name": "Vepayeva, Bagul",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1553,
-		"rating_rapid": 1540,
-		"rating_blitz": 1655
 	},
 	{
 		"fideid": 14007231,
@@ -8143,21 +8143,21 @@
 		"rating_blitz": 1618
 	},
 	{
-		"fideid": 14012715,
-		"name": "Mustakova Kamila",
+		"fideid": 14007851,
+		"name": "Annagylyjov, Begli",
 		"country": "TKM",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 1983,
-		"flag": "wi",
+		"birthday": 2017,
+		"flag": "",
 		"rating_standard": 1550,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1551,
+		"rating_blitz": 1598
 	},
 	{
 		"fideid": 14020076,
@@ -8172,7 +8172,24 @@
 		"k": 40,
 		"birthday": 1958,
 		"flag": "",
-		"rating_standard": 1549,
+		"rating_standard": 1550,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14012715,
+		"name": "Mustakova Kamila",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1983,
+		"flag": "wi",
+		"rating_standard": 1550,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -8228,6 +8245,23 @@
 		"rating_blitz": 1434
 	},
 	{
+		"fideid": 14008556,
+		"name": "Gylyjov, Dovlet",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1546,
+		"rating_rapid": 1472,
+		"rating_blitz": 1567
+	},
+	{
 		"fideid": 14017296,
 		"name": "Kurbanova, Ejegul",
 		"country": "TKM",
@@ -8240,7 +8274,7 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1545,
+		"rating_standard": 1546,
 		"rating_rapid": 1442,
 		"rating_blitz": 1482
 	},
@@ -8257,9 +8291,9 @@
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
-		"rating_standard": 1544,
-		"rating_rapid": 1512,
-		"rating_blitz": 1682
+		"rating_standard": 1545,
+		"rating_rapid": 1511,
+		"rating_blitz": 1681
 	},
 	{
 		"fideid": 14013860,
@@ -8274,9 +8308,43 @@
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
-		"rating_standard": 1544,
+		"rating_standard": 1545,
 		"rating_rapid": 1659,
 		"rating_blitz": 1540
+	},
+	{
+		"fideid": 14010887,
+		"name": "Vepayeva, Bagul",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1545,
+		"rating_rapid": 1540,
+		"rating_blitz": 1654
+	},
+	{
+		"fideid": 14006960,
+		"name": "Myradov, Kerven",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1543,
+		"rating_rapid": 1589,
+		"rating_blitz": 1765
 	},
 	{
 		"fideid": 14011689,
@@ -8293,11 +8361,11 @@
 		"flag": "i",
 		"rating_standard": 1543,
 		"rating_rapid": null,
-		"rating_blitz": 1472
+		"rating_blitz": 1470
 	},
 	{
-		"fideid": 14006960,
-		"name": "Myradov, Kerven",
+		"fideid": 14012138,
+		"name": "Muradov Hangeldi",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
@@ -8306,28 +8374,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2019,
 		"flag": "",
 		"rating_standard": 1542,
-		"rating_rapid": 1589,
-		"rating_blitz": 1766
-	},
-	{
-		"fideid": 14020556,
-		"name": "Bayramgeldiyev, Abdyljelil",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": 1499,
-		"rating_blitz": 1526
+		"rating_rapid": 1569,
+		"rating_blitz": 1573
 	},
 	{
 		"fideid": 14011883,
@@ -8344,24 +8395,7 @@
 		"flag": "",
 		"rating_standard": 1541,
 		"rating_rapid": 1593,
-		"rating_blitz": 1647
-	},
-	{
-		"fideid": 14012138,
-		"name": "Muradov Hangeldi",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2019,
-		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": 1569,
-		"rating_blitz": 1571
+		"rating_blitz": 1643
 	},
 	{
 		"fideid": 14005077,
@@ -8381,23 +8415,6 @@
 		"rating_blitz": 1533
 	},
 	{
-		"fideid": 14008556,
-		"name": "Gylyjov, Dovlet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1540,
-		"rating_rapid": 1472,
-		"rating_blitz": 1566
-	},
-	{
 		"fideid": 14012375,
 		"name": "Pudakov Muhammetmyrat",
 		"country": "TKM",
@@ -8413,6 +8430,23 @@
 		"rating_standard": 1540,
 		"rating_rapid": 1709,
 		"rating_blitz": 1555
+	},
+	{
+		"fideid": 14016656,
+		"name": "Medeminjanov Yhlas",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1539,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14006944,
@@ -8449,23 +8483,6 @@
 		"rating_blitz": 1576
 	},
 	{
-		"fideid": 14016656,
-		"name": "Medeminjanov Yhlas",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1538,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14017202,
 		"name": "Bayramdurdyyev, Seyran",
 		"country": "TKM",
@@ -8477,6 +8494,23 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1537,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14011000,
+		"name": "Gylyjov Nejep",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1537,
 		"rating_rapid": null,
@@ -8517,23 +8551,6 @@
 		"rating_blitz": 1499
 	},
 	{
-		"fideid": 14014041,
-		"name": "Tokgayeva Emine",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1535,
-		"rating_rapid": 1473,
-		"rating_blitz": 1531
-	},
-	{
 		"fideid": 14007711,
 		"name": "Aganyyazov, Mekan",
 		"country": "TKM",
@@ -8547,7 +8564,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1533,
-		"rating_rapid": 1540,
+		"rating_rapid": 1539,
 		"rating_blitz": 1648
 	},
 	{
@@ -8565,7 +8582,7 @@
 		"flag": "",
 		"rating_standard": 1533,
 		"rating_rapid": 1490,
-		"rating_blitz": 1502
+		"rating_blitz": 1501
 	},
 	{
 		"fideid": 14011719,
@@ -8633,7 +8650,7 @@
 		"flag": "w",
 		"rating_standard": 1529,
 		"rating_rapid": 1439,
-		"rating_blitz": 1493
+		"rating_blitz": 1492
 	},
 	{
 		"fideid": 14007967,
@@ -8648,7 +8665,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1528,
+		"rating_standard": 1529,
 		"rating_rapid": 1486,
 		"rating_blitz": 1412
 	},
@@ -8681,10 +8698,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1527,
 		"rating_rapid": 1522,
-		"rating_blitz": 1624
+		"rating_blitz": 1623
 	},
 	{
 		"fideid": 14012642,
@@ -8701,41 +8718,7 @@
 		"flag": "i",
 		"rating_standard": 1527,
 		"rating_rapid": 1512,
-		"rating_blitz": 1534
-	},
-	{
-		"fideid": 14006120,
-		"name": "Meretmyradova, Leyli",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1526,
-		"rating_rapid": 1517,
-		"rating_blitz": 1478
-	},
-	{
-		"fideid": 14007347,
-		"name": "Charygeldiyeva, Enejan",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1525,
-		"rating_rapid": 1456,
-		"rating_blitz": 1453
+		"rating_blitz": 1527
 	},
 	{
 		"fideid": 14004640,
@@ -8768,25 +8751,25 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1525,
-		"rating_rapid": 1474,
-		"rating_blitz": 1485
+		"rating_rapid": 1473,
+		"rating_blitz": 1484
 	},
 	{
-		"fideid": 14007851,
-		"name": "Annagylyjov, Begli",
+		"fideid": 14020556,
+		"name": "Bayramgeldiyev, Abdyljelil",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1522,
-		"rating_rapid": 1551,
-		"rating_blitz": 1602
+		"rating_standard": 1524,
+		"rating_rapid": 1500,
+		"rating_blitz": 1525
 	},
 	{
 		"fideid": 14017377,
@@ -8871,7 +8854,41 @@
 		"flag": "",
 		"rating_standard": 1522,
 		"rating_rapid": 1498,
-		"rating_blitz": 1425
+		"rating_blitz": 1422
+	},
+	{
+		"fideid": 14006847,
+		"name": "Rejepmuradova, Dunyagozel",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1987,
+		"flag": "w",
+		"rating_standard": 1522,
+		"rating_rapid": 1546,
+		"rating_blitz": 1598
+	},
+	{
+		"fideid": 14010844,
+		"name": "Ashirova, Aysha",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1521,
+		"rating_rapid": 1524,
+		"rating_blitz": 1588
 	},
 	{
 		"fideid": 14010410,
@@ -8888,58 +8905,7 @@
 		"flag": "",
 		"rating_standard": 1521,
 		"rating_rapid": 1476,
-		"rating_blitz": 1634
-	},
-	{
-		"fideid": 14010844,
-		"name": "Ashirova, Aysha",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1520,
-		"rating_rapid": 1524,
-		"rating_blitz": 1588
-	},
-	{
-		"fideid": 14011000,
-		"name": "Gylyjov Nejep",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1519,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 14007924,
-		"name": "Atajanova, Mayagozel",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1518,
-		"rating_rapid": 1454,
-		"rating_blitz": 1441
+		"rating_blitz": 1635
 	},
 	{
 		"fideid": 14006383,
@@ -8970,10 +8936,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1517,
 		"rating_rapid": 1566,
-		"rating_blitz": 1549
+		"rating_blitz": 1548
 	},
 	{
 		"fideid": 14007037,
@@ -8993,8 +8959,8 @@
 		"rating_blitz": 1505
 	},
 	{
-		"fideid": 14011980,
-		"name": "Mirabov Dayanch",
+		"fideid": 14008122,
+		"name": "Bayjikov, Kerimberdi",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
@@ -9003,11 +8969,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2016,
+		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1515,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_standard": 1514,
+		"rating_rapid": 1517,
+		"rating_blitz": 1556
 	},
 	{
 		"fideid": 14008190,
@@ -9023,8 +8989,8 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1514,
-		"rating_rapid": 1577,
-		"rating_blitz": 1664
+		"rating_rapid": 1578,
+		"rating_blitz": 1663
 	},
 	{
 		"fideid": 14011190,
@@ -9041,7 +9007,7 @@
 		"flag": "",
 		"rating_standard": 1514,
 		"rating_rapid": 1588,
-		"rating_blitz": 1518
+		"rating_blitz": 1549
 	},
 	{
 		"fideid": 14019574,
@@ -9059,23 +9025,6 @@
 		"rating_standard": 1514,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14008122,
-		"name": "Bayjikov, Kerimberdi",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1513,
-		"rating_rapid": 1517,
-		"rating_blitz": 1556
 	},
 	{
 		"fideid": 14019230,
@@ -9112,23 +9061,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14018810,
-		"name": "Kakageldiyeva, Mahriban",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "w",
-		"rating_standard": 1513,
-		"rating_rapid": 1480,
-		"rating_blitz": 1493
-	},
-	{
 		"fideid": 14014840,
 		"name": "Sapardurdyyev, Azat",
 		"country": "TKM",
@@ -9143,7 +9075,7 @@
 		"flag": "",
 		"rating_standard": 1513,
 		"rating_rapid": 1471,
-		"rating_blitz": 1594
+		"rating_blitz": 1593
 	},
 	{
 		"fideid": 14009960,
@@ -9160,7 +9092,7 @@
 		"flag": "i",
 		"rating_standard": 1513,
 		"rating_rapid": null,
-		"rating_blitz": 1416
+		"rating_blitz": 1410
 	},
 	{
 		"fideid": 14005000,
@@ -9194,7 +9126,7 @@
 		"flag": "w",
 		"rating_standard": 1513,
 		"rating_rapid": 1416,
-		"rating_blitz": 1450
+		"rating_blitz": 1449
 	},
 	{
 		"fideid": 14007525,
@@ -9211,7 +9143,24 @@
 		"flag": "w",
 		"rating_standard": 1512,
 		"rating_rapid": 1445,
-		"rating_blitz": 1454
+		"rating_blitz": 1451
+	},
+	{
+		"fideid": 14015153,
+		"name": "Hallyyev Resulmyrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1511,
+		"rating_rapid": 1425,
+		"rating_blitz": 1412
 	},
 	{
 		"fideid": 14005883,
@@ -9222,7 +9171,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -9244,25 +9193,8 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1509,
-		"rating_rapid": 1553,
-		"rating_blitz": 1611
-	},
-	{
-		"fideid": 14006847,
-		"name": "Rejepmuradova, Dunyagozel",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1987,
-		"flag": "w",
-		"rating_standard": 1509,
-		"rating_rapid": 1546,
-		"rating_blitz": 1598
+		"rating_rapid": 1552,
+		"rating_blitz": 1610
 	},
 	{
 		"fideid": 14010607,
@@ -9279,7 +9211,7 @@
 		"flag": "w",
 		"rating_standard": 1509,
 		"rating_rapid": 1550,
-		"rating_blitz": 1654
+		"rating_blitz": 1653
 	},
 	{
 		"fideid": 14017407,
@@ -9333,6 +9265,23 @@
 		"rating_blitz": 1512
 	},
 	{
+		"fideid": 14006120,
+		"name": "Meretmyradova, Leyli",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1506,
+		"rating_rapid": 1517,
+		"rating_blitz": 1478
+	},
+	{
 		"fideid": 14004771,
 		"name": "Romanov, Kamil",
 		"country": "TKM",
@@ -9364,7 +9313,7 @@
 		"flag": "",
 		"rating_standard": 1506,
 		"rating_rapid": 1535,
-		"rating_blitz": 1449
+		"rating_blitz": 1448
 	},
 	{
 		"fideid": 14017423,
@@ -9384,6 +9333,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14007924,
+		"name": "Atajanova, Mayagozel",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1503,
+		"rating_rapid": 1454,
+		"rating_blitz": 1441
+	},
+	{
 		"fideid": 14007193,
 		"name": "Yagshymyradov, Bayrammyrat",
 		"country": "TKM",
@@ -9393,12 +9359,46 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1502,
+		"rating_standard": 1503,
 		"rating_rapid": 1627,
-		"rating_blitz": 1630
+		"rating_blitz": 1629
+	},
+	{
+		"fideid": 14008238,
+		"name": "Charyyeva, Anna",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": 1502,
+		"rating_rapid": 1465,
+		"rating_blitz": 1574
+	},
+	{
+		"fideid": 14011980,
+		"name": "Mirabov Dayanch",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1502,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14010453,
@@ -9449,28 +9449,28 @@
 		"flag": "",
 		"rating_standard": 1499,
 		"rating_rapid": 1440,
-		"rating_blitz": 1456
+		"rating_blitz": 1455
 	},
 	{
-		"fideid": 14008238,
-		"name": "Charyyeva, Anna",
+		"fideid": 14007347,
+		"name": "Charygeldiyeva, Enejan",
 		"country": "TKM",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1499,
-		"rating_rapid": 1465,
-		"rating_blitz": 1574
+		"rating_rapid": 1453,
+		"rating_blitz": 1452
 	},
 	{
-		"fideid": 14011433,
-		"name": "Arslanov Emin",
+		"fideid": 14014726,
+		"name": "Amanov, Guvanch",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
@@ -9479,11 +9479,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2016,
+		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1498,
-		"rating_rapid": 1414,
-		"rating_blitz": null
+		"rating_rapid": 1449,
+		"rating_blitz": 1631
 	},
 	{
 		"fideid": 14010020,
@@ -9499,7 +9499,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1498,
-		"rating_rapid": 1426,
+		"rating_rapid": 1427,
 		"rating_blitz": 1443
 	},
 	{
@@ -9520,8 +9520,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14014726,
-		"name": "Amanov, Guvanch",
+		"fideid": 14016583,
+		"name": "Ishankulyyev Nurmuhammet",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
@@ -9530,11 +9530,28 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1498,
+		"rating_rapid": 1439,
+		"rating_blitz": 1487
+	},
+	{
+		"fideid": 14011433,
+		"name": "Arslanov Emin",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1497,
-		"rating_rapid": 1449,
-		"rating_blitz": 1632
+		"rating_rapid": 1414,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14012618,
@@ -9548,10 +9565,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1497,
 		"rating_rapid": 1627,
-		"rating_blitz": 1638
+		"rating_blitz": 1632
 	},
 	{
 		"fideid": 14010666,
@@ -9602,7 +9619,7 @@
 		"flag": "",
 		"rating_standard": 1496,
 		"rating_rapid": 1420,
-		"rating_blitz": 1428
+		"rating_blitz": 1429
 	},
 	{
 		"fideid": 14011808,
@@ -9687,24 +9704,7 @@
 		"flag": "w",
 		"rating_standard": 1492,
 		"rating_rapid": null,
-		"rating_blitz": 1412
-	},
-	{
-		"fideid": 14016168,
-		"name": "Hupbyyeva, Dilnaz",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2019,
-		"flag": "w",
-		"rating_standard": 1490,
-		"rating_rapid": 1465,
-		"rating_blitz": 1401
+		"rating_blitz": 1411
 	},
 	{
 		"fideid": 14016672,
@@ -9741,23 +9741,6 @@
 		"rating_blitz": 1435
 	},
 	{
-		"fideid": 14008661,
-		"name": "Ibragimov, Seyran",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1489,
-		"rating_rapid": 1497,
-		"rating_blitz": 1436
-	},
-	{
 		"fideid": 14020106,
 		"name": "Jabbarov, Meylis",
 		"country": "TKM",
@@ -9789,7 +9772,7 @@
 		"flag": "",
 		"rating_standard": 1489,
 		"rating_rapid": 1416,
-		"rating_blitz": 1458
+		"rating_blitz": 1457
 	},
 	{
 		"fideid": 14014521,
@@ -9806,7 +9789,7 @@
 		"flag": "",
 		"rating_standard": 1488,
 		"rating_rapid": 1437,
-		"rating_blitz": 1486
+		"rating_blitz": 1484
 	},
 	{
 		"fideid": 14004194,
@@ -9860,6 +9843,23 @@
 		"rating_blitz": 1466
 	},
 	{
+		"fideid": 14003090,
+		"name": "Geldiyev, Geldimyrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1484,
+		"rating_rapid": 1487,
+		"rating_blitz": 1519
+	},
+	{
 		"fideid": 14013738,
 		"name": "Alymjanov, Mekan",
 		"country": "TKM",
@@ -9871,27 +9871,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1483,
 		"rating_rapid": 1441,
 		"rating_blitz": 1435
-	},
-	{
-		"fideid": 14003090,
-		"name": "Geldiyev, Geldimyrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1482,
-		"rating_rapid": 1487,
-		"rating_blitz": 1519
 	},
 	{
 		"fideid": 14018969,
@@ -9902,13 +9885,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
-		"rating_standard": 1482,
+		"rating_standard": 1483,
 		"rating_rapid": 1511,
-		"rating_blitz": 1504
+		"rating_blitz": 1503
 	},
 	{
 		"fideid": 14005298,
@@ -9925,7 +9908,7 @@
 		"flag": "w",
 		"rating_standard": 1482,
 		"rating_rapid": 1591,
-		"rating_blitz": 1540
+		"rating_blitz": 1539
 	},
 	{
 		"fideid": 14005972,
@@ -9959,7 +9942,7 @@
 		"flag": "",
 		"rating_standard": 1479,
 		"rating_rapid": 1437,
-		"rating_blitz": 1425
+		"rating_blitz": 1424
 	},
 	{
 		"fideid": 14015790,
@@ -9993,7 +9976,24 @@
 		"flag": "w",
 		"rating_standard": 1477,
 		"rating_rapid": 1483,
-		"rating_blitz": 1458
+		"rating_blitz": 1475
+	},
+	{
+		"fideid": 14008661,
+		"name": "Ibragimov, Seyran",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1477,
+		"rating_rapid": 1497,
+		"rating_blitz": 1434
 	},
 	{
 		"fideid": 14010291,
@@ -10010,7 +10010,7 @@
 		"flag": "",
 		"rating_standard": 1477,
 		"rating_rapid": 1633,
-		"rating_blitz": 1551
+		"rating_blitz": 1553
 	},
 	{
 		"fideid": 14020920,
@@ -10041,10 +10041,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1474,
 		"rating_rapid": 1551,
-		"rating_blitz": 1487
+		"rating_blitz": 1483
 	},
 	{
 		"fideid": 14018314,
@@ -10081,72 +10081,55 @@
 		"rating_blitz": 1525
 	},
 	{
-		"fideid": 14016583,
-		"name": "Ishankulyyev Nurmuhammet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1474,
-		"rating_rapid": 1439,
-		"rating_blitz": 1488
-	},
-	{
-		"fideid": 14009404,
-		"name": "Prohorov, Denis",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1472,
-		"rating_rapid": 1552,
-		"rating_blitz": 1550
-	},
-	{
-		"fideid": 14019426,
-		"name": "Batyrova Aynur",
+		"fideid": 14014041,
+		"name": "Tokgayeva Emine",
 		"country": "TKM",
 		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2013,
 		"flag": "w",
-		"rating_standard": 1471,
-		"rating_rapid": 1525,
-		"rating_blitz": 1483
+		"rating_standard": 1472,
+		"rating_rapid": 1473,
+		"rating_blitz": 1530
 	},
 	{
-		"fideid": 14007584,
-		"name": "Ishangulyyev,Ahmet",
+		"fideid": 14012073,
+		"name": "Isayeva Lachyn",
 		"country": "TKM",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 2013,
-		"flag": "",
+		"birthday": 2018,
+		"flag": "w",
+		"rating_standard": 1471,
+		"rating_rapid": null,
+		"rating_blitz": 1475
+	},
+	{
+		"fideid": 14007533,
+		"name": "Handovletova, Dinara",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
 		"rating_standard": 1470,
-		"rating_rapid": 1486,
-		"rating_blitz": 1507
+		"rating_rapid": 1411,
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 14013835,
@@ -10180,7 +10163,7 @@
 		"flag": "",
 		"rating_standard": 1468,
 		"rating_rapid": 1481,
-		"rating_blitz": 1502
+		"rating_blitz": 1523
 	},
 	{
 		"fideid": 14008971,
@@ -10231,7 +10214,7 @@
 		"flag": "",
 		"rating_standard": 1466,
 		"rating_rapid": 1400,
-		"rating_blitz": 1440
+		"rating_blitz": 1402
 	},
 	{
 		"fideid": 14006685,
@@ -10251,23 +10234,6 @@
 		"rating_blitz": 1675
 	},
 	{
-		"fideid": 14012073,
-		"name": "Isayeva Lachyn",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "w",
-		"rating_standard": 1465,
-		"rating_rapid": null,
-		"rating_blitz": 1475
-	},
-	{
 		"fideid": 14009080,
 		"name": "Muhammetberdiyev, Muhammetberdi",
 		"country": "TKM",
@@ -10285,21 +10251,21 @@
 		"rating_blitz": 1437
 	},
 	{
-		"fideid": 14006251,
-		"name": "Hamrakulyyev, Omar",
+		"fideid": 14019442,
+		"name": "Kakageldiyeva Nazli",
 		"country": "TKM",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2014,
-		"flag": "",
+		"birthday": 2018,
+		"flag": "w",
 		"rating_standard": 1464,
-		"rating_rapid": 1537,
-		"rating_blitz": 1605
+		"rating_rapid": 1402,
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 14006154,
@@ -10336,6 +10302,40 @@
 		"rating_blitz": 1401
 	},
 	{
+		"fideid": 14015315,
+		"name": "Azizov Alihan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1463,
+		"rating_rapid": 1560,
+		"rating_blitz": 1510
+	},
+	{
+		"fideid": 14006251,
+		"name": "Hamrakulyyev, Omar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1463,
+		"rating_rapid": 1537,
+		"rating_blitz": 1605
+	},
+	{
 		"fideid": 14013886,
 		"name": "Rustemova, Meryem",
 		"country": "TKM",
@@ -10351,23 +10351,6 @@
 		"rating_standard": 1463,
 		"rating_rapid": null,
 		"rating_blitz": 1519
-	},
-	{
-		"fideid": 14015315,
-		"name": "Azizov Alihan",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1462,
-		"rating_rapid": 1560,
-		"rating_blitz": 1510
 	},
 	{
 		"fideid": 14010364,
@@ -10401,7 +10384,7 @@
 		"flag": "i",
 		"rating_standard": 1461,
 		"rating_rapid": 1457,
-		"rating_blitz": 1597
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 14012383,
@@ -10438,23 +10421,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14017652,
-		"name": "Babayev Kerim",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1459,
-		"rating_rapid": 1450,
-		"rating_blitz": 1419
-	},
-	{
 		"fideid": 14018640,
 		"name": "Halnepesov Bayramdurdy",
 		"country": "TKM",
@@ -10489,23 +10455,6 @@
 		"rating_blitz": 1520
 	},
 	{
-		"fideid": 14013967,
-		"name": "Kakageldiyeva, Jennet",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1458,
-		"rating_rapid": 1569,
-		"rating_blitz": 1473
-	},
-	{
 		"fideid": 14016443,
 		"name": "Allanazarov Annanazar",
 		"country": "TKM",
@@ -10520,7 +10469,7 @@
 		"flag": "",
 		"rating_standard": 1457,
 		"rating_rapid": 1437,
-		"rating_blitz": 1462
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 14019493,
@@ -10540,6 +10489,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14009404,
+		"name": "Prohorov, Denis",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1457,
+		"rating_rapid": 1552,
+		"rating_blitz": 1548
+	},
+	{
+		"fideid": 14018950,
+		"name": "Meredov Omar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1456,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14009374,
 		"name": "Bayramova, Gunesh",
 		"country": "TKM",
@@ -10553,42 +10536,25 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1455,
-		"rating_rapid": 1504,
+		"rating_rapid": 1502,
 		"rating_blitz": 1606
 	},
 	{
-		"fideid": 14017229,
-		"name": "Gurbanov, Aymyrat",
+		"fideid": 14007584,
+		"name": "Ishangulyyev,Ahmet",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1455,
-		"rating_rapid": 1638,
-		"rating_blitz": 1544
-	},
-	{
-		"fideid": 14014084,
-		"name": "Orazova Sahra",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1455,
-		"rating_rapid": 1431,
-		"rating_blitz": 1415
+		"rating_standard": 1453,
+		"rating_rapid": 1487,
+		"rating_blitz": 1405
 	},
 	{
 		"fideid": 14009196,
@@ -10625,6 +10591,23 @@
 		"rating_blitz": 1465
 	},
 	{
+		"fideid": 14018594,
+		"name": "Kurayeva Leyli",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1452,
+		"rating_rapid": 1444,
+		"rating_blitz": 1512
+	},
+	{
 		"fideid": 14006200,
 		"name": "Ovganova, Fatmanur",
 		"country": "TKM",
@@ -10640,6 +10623,23 @@
 		"rating_standard": 1452,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14017229,
+		"name": "Gurbanov, Aymyrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1451,
+		"rating_rapid": 1638,
+		"rating_blitz": 1544
 	},
 	{
 		"fideid": 14017113,
@@ -10674,40 +10674,6 @@
 		"rating_standard": 1450,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14007533,
-		"name": "Handovletova, Dinara",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1450,
-		"rating_rapid": 1411,
-		"rating_blitz": 1454
-	},
-	{
-		"fideid": 14017431,
-		"name": "Isayev Myrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2019,
-		"flag": "",
-		"rating_standard": 1450,
-		"rating_rapid": 1451,
-		"rating_blitz": 1401
 	},
 	{
 		"fideid": 14017148,
@@ -10758,24 +10724,7 @@
 		"flag": "w",
 		"rating_standard": 1448,
 		"rating_rapid": 1483,
-		"rating_blitz": 1550
-	},
-	{
-		"fideid": 14019442,
-		"name": "Kakageldiyeva Nazli",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "w",
-		"rating_standard": 1448,
-		"rating_rapid": 1402,
-		"rating_blitz": 1413
+		"rating_blitz": 1549
 	},
 	{
 		"fideid": 14012723,
@@ -10829,6 +10778,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14019426,
+		"name": "Batyrova Aynur",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1447,
+		"rating_rapid": 1524,
+		"rating_blitz": 1482
+	},
+	{
 		"fideid": 14007452,
 		"name": "Onder, Muzaffer",
 		"country": "TKM",
@@ -10842,8 +10808,8 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1447,
-		"rating_rapid": 1540,
-		"rating_blitz": 1480
+		"rating_rapid": 1541,
+		"rating_blitz": 1478
 	},
 	{
 		"fideid": 14012154,
@@ -10857,10 +10823,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1447,
 		"rating_rapid": 1451,
-		"rating_blitz": 1490
+		"rating_blitz": 1488
 	},
 	{
 		"fideid": 34560742,
@@ -10880,23 +10846,6 @@
 		"rating_blitz": 1483
 	},
 	{
-		"fideid": 14007592,
-		"name": "Ishangulyyev, Muhammet",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1445,
-		"rating_rapid": 1559,
-		"rating_blitz": 1520
-	},
-	{
 		"fideid": 14009587,
 		"name": "Senakuliyeva, Sulgun",
 		"country": "TKM",
@@ -10914,6 +10863,23 @@
 		"rating_blitz": 1477
 	},
 	{
+		"fideid": 14016168,
+		"name": "Hupbyyeva, Dilnaz",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "w",
+		"rating_standard": 1443,
+		"rating_rapid": 1465,
+		"rating_blitz": 1401
+	},
+	{
 		"fideid": 14006030,
 		"name": "Meredov, Oraz",
 		"country": "TKM",
@@ -10926,9 +10892,43 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1442,
+		"rating_standard": 1443,
 		"rating_rapid": 1443,
-		"rating_blitz": 1519
+		"rating_blitz": 1508
+	},
+	{
+		"fideid": 14021250,
+		"name": "Ashyrmuhammedov, Ezizmuhammet",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1442,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14014289,
+		"name": "Borjakov, Arslan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1442,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 14017504,
@@ -10978,25 +10978,25 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1442,
-		"rating_rapid": 1519,
+		"rating_rapid": 1518,
 		"rating_blitz": 1592
 	},
 	{
-		"fideid": 14014173,
-		"name": "Azymov, Nurmuhammet",
+		"fideid": 14017431,
+		"name": "Isayev Myrat",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2019,
 		"flag": "",
 		"rating_standard": 1441,
-		"rating_rapid": 1559,
-		"rating_blitz": 1682
+		"rating_rapid": 1450,
+		"rating_blitz": 1403
 	},
 	{
 		"fideid": 14016605,
@@ -11013,7 +11013,7 @@
 		"flag": "",
 		"rating_standard": 1441,
 		"rating_rapid": null,
-		"rating_blitz": 1427
+		"rating_blitz": 1426
 	},
 	{
 		"fideid": 14014130,
@@ -11027,7 +11027,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1440,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11064,7 +11064,7 @@
 		"flag": "w",
 		"rating_standard": 1439,
 		"rating_rapid": null,
-		"rating_blitz": 1541
+		"rating_blitz": 1529
 	},
 	{
 		"fideid": 14015692,
@@ -11078,44 +11078,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1438,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14019809,
-		"name": "Berdimyradov, Didar",
+		"fideid": 14018810,
+		"name": "Kakageldiyeva, Mahriban",
 		"country": "TKM",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 2019,
-		"flag": "",
+		"birthday": 2017,
+		"flag": "w",
 		"rating_standard": 1438,
-		"rating_rapid": 1423,
-		"rating_blitz": 1426
-	},
-	{
-		"fideid": 14014327,
-		"name": "Gurbanmyradov, Maksat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1437,
-		"rating_rapid": null,
-		"rating_blitz": 1429
+		"rating_rapid": 1480,
+		"rating_blitz": 1493
 	},
 	{
 		"fideid": 14013673,
@@ -11169,23 +11152,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14006901,
-		"name": "Annanurova, Guljahan",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "wi",
-		"rating_standard": 1433,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14010631,
 		"name": "Garajayeva, Guller",
 		"country": "TKM",
@@ -11201,23 +11167,6 @@
 		"rating_standard": 1432,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 14018594,
-		"name": "Kurayeva Leyli",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1432,
-		"rating_rapid": 1424,
-		"rating_blitz": 1512
 	},
 	{
 		"fideid": 14009692,
@@ -11251,7 +11200,7 @@
 		"flag": "",
 		"rating_standard": 1431,
 		"rating_rapid": 1571,
-		"rating_blitz": 1515
+		"rating_blitz": 1514
 	},
 	{
 		"fideid": 14016435,
@@ -11285,7 +11234,7 @@
 		"flag": "",
 		"rating_standard": 1430,
 		"rating_rapid": null,
-		"rating_blitz": 1447
+		"rating_blitz": 1446
 	},
 	{
 		"fideid": 14007355,
@@ -11302,7 +11251,7 @@
 		"flag": "w",
 		"rating_standard": 1430,
 		"rating_rapid": 1486,
-		"rating_blitz": 1550
+		"rating_blitz": 1549
 	},
 	{
 		"fideid": 14003015,
@@ -11339,23 +11288,6 @@
 		"rating_blitz": 1795
 	},
 	{
-		"fideid": 14015749,
-		"name": "Garayev, Mergen",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1429,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14020874,
 		"name": "Gochyyev, Ilshat",
 		"country": "TKM",
@@ -11373,6 +11305,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14021188,
+		"name": "Kerimova, Zumrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1429,
+		"rating_rapid": 1493,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14009455,
+		"name": "Rahmanova, Mahri",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1429,
+		"rating_rapid": 1436,
+		"rating_blitz": 1418
+	},
+	{
 		"fideid": 14005166,
 		"name": "Amannazarov, Myratberdi",
 		"country": "TKM",
@@ -11385,6 +11351,23 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "i",
+		"rating_standard": 1428,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 14015749,
+		"name": "Garayev, Mergen",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
 		"rating_standard": 1428,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11421,7 +11404,7 @@
 		"flag": "",
 		"rating_standard": 1428,
 		"rating_rapid": null,
-		"rating_blitz": 1423
+		"rating_blitz": 1435
 	},
 	{
 		"fideid": 14013401,
@@ -11439,6 +11422,23 @@
 		"rating_standard": 1428,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 14009684,
+		"name": "Shamhalyan, Nerses",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1427,
+		"rating_rapid": null,
+		"rating_blitz": 1427
 	},
 	{
 		"fideid": 14009927,
@@ -11488,8 +11488,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1423,
-		"rating_rapid": 1500,
-		"rating_blitz": 1489
+		"rating_rapid": 1501,
+		"rating_blitz": 1516
 	},
 	{
 		"fideid": 14020149,
@@ -11591,7 +11591,7 @@
 		"flag": "",
 		"rating_standard": 1420,
 		"rating_rapid": 1483,
-		"rating_blitz": 1475
+		"rating_blitz": 1493
 	},
 	{
 		"fideid": 14015846,
@@ -11645,6 +11645,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14014327,
+		"name": "Gurbanmyradov, Maksat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1419,
+		"rating_rapid": null,
+		"rating_blitz": 1430
+	},
+	{
 		"fideid": 14009005,
 		"name": "Muhamadiyeva, Aliya",
 		"country": "TKM",
@@ -11693,7 +11710,24 @@
 		"flag": "w",
 		"rating_standard": 1417,
 		"rating_rapid": 1405,
-		"rating_blitz": 1408
+		"rating_blitz": 1407
+	},
+	{
+		"fideid": 14013967,
+		"name": "Kakageldiyeva, Jennet",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1416,
+		"rating_rapid": 1569,
+		"rating_blitz": 1474
 	},
 	{
 		"fideid": 14014254,
@@ -11727,7 +11761,24 @@
 		"flag": "w",
 		"rating_standard": 1415,
 		"rating_rapid": 1471,
-		"rating_blitz": 1439
+		"rating_blitz": 1441
+	},
+	{
+		"fideid": 14017652,
+		"name": "Babayev Kerim",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1415,
+		"rating_rapid": 1432,
+		"rating_blitz": 1401
 	},
 	{
 		"fideid": 14014300,
@@ -11741,7 +11792,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1415,
 		"rating_rapid": null,
 		"rating_blitz": 1422
@@ -11758,7 +11809,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1415,
 		"rating_rapid": 1546,
 		"rating_blitz": 1522
@@ -11812,7 +11863,7 @@
 		"flag": "",
 		"rating_standard": 1413,
 		"rating_rapid": 1454,
-		"rating_blitz": 1417
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 14008777,
@@ -11846,7 +11897,7 @@
 		"flag": "",
 		"rating_standard": 1412,
 		"rating_rapid": 1496,
-		"rating_blitz": 1503
+		"rating_blitz": 1502
 	},
 	{
 		"fideid": 14017172,
@@ -11860,10 +11911,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1410,
 		"rating_rapid": null,
-		"rating_blitz": 1440
+		"rating_blitz": 1438
 	},
 	{
 		"fideid": 14015390,
@@ -11883,6 +11934,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 14007410,
+		"name": "Penayev, Novruzali",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": 1410,
+		"rating_rapid": 1562,
+		"rating_blitz": 1591
+	},
+	{
 		"fideid": 14009510,
 		"name": "Rozyyev, Suleyman",
 		"country": "TKM",
@@ -11900,6 +11968,57 @@
 		"rating_blitz": 1436
 	},
 	{
+		"fideid": 14008823,
+		"name": "Kakageldiyev, Haknazar",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1409,
+		"rating_rapid": 1432,
+		"rating_blitz": 1505
+	},
+	{
+		"fideid": 14009161,
+		"name": "Narmedov, Aymyrat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1409,
+		"rating_rapid": null,
+		"rating_blitz": 1405
+	},
+	{
+		"fideid": 14012030,
+		"name": "Atamyradov Kerim",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1408,
+		"rating_rapid": 1504,
+		"rating_blitz": 1471
+	},
+	{
 		"fideid": 14016508,
 		"name": "Balkanov Alyhan",
 		"country": "TKM",
@@ -11912,43 +12031,26 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1407,
+		"rating_standard": 1408,
 		"rating_rapid": 1427,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14009455,
-		"name": "Rahmanova, Mahri",
-		"country": "TKM",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1407,
-		"rating_rapid": 1436,
-		"rating_blitz": 1418
-	},
-	{
-		"fideid": 14009684,
-		"name": "Shamhalyan, Nerses",
+		"fideid": 14014173,
+		"name": "Azymov, Nurmuhammet",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1406,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1559,
+		"rating_blitz": 1681
 	},
 	{
 		"fideid": 14017164,
@@ -11968,23 +12070,6 @@
 		"rating_blitz": 1403
 	},
 	{
-		"fideid": 14012030,
-		"name": "Atamyradov Kerim",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1404,
-		"rating_rapid": 1504,
-		"rating_blitz": 1473
-	},
-	{
 		"fideid": 14015706,
 		"name": "Annamammedov Haydar",
 		"country": "TKM",
@@ -11999,7 +12084,7 @@
 		"flag": "",
 		"rating_standard": 1403,
 		"rating_rapid": 1546,
-		"rating_blitz": 1437
+		"rating_blitz": 1436
 	},
 	{
 		"fideid": 14018241,
@@ -12016,7 +12101,7 @@
 		"flag": "",
 		"rating_standard": 1403,
 		"rating_rapid": 1404,
-		"rating_blitz": 1555
+		"rating_blitz": 1554
 	},
 	{
 		"fideid": 14017130,
@@ -12070,6 +12155,23 @@
 		"rating_blitz": 1452
 	},
 	{
+		"fideid": 14013541,
+		"name": "Muradov Guvanch",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1401,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 14007665,
 		"name": "Achyldyyeva, Lachin",
 		"country": "TKM",
@@ -12095,7 +12197,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -12146,7 +12248,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1985,
 		"flag": "",
@@ -12163,13 +12265,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1447,
-		"rating_blitz": 1580
+		"rating_blitz": 1582
 	},
 	{
 		"fideid": 14012448,
@@ -12180,13 +12282,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1436,
-		"rating_blitz": 1467
+		"rating_blitz": 1466
 	},
 	{
 		"fideid": 14007479,
@@ -12200,7 +12302,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1529,
 		"rating_blitz": 1507
@@ -12214,13 +12316,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1431,
-		"rating_blitz": 1438
+		"rating_blitz": 1437
 	},
 	{
 		"fideid": 14007975,
@@ -12237,7 +12339,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1607,
-		"rating_blitz": 1471
+		"rating_blitz": 1470
 	},
 	{
 		"fideid": 14014009,
@@ -12282,7 +12384,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
@@ -12299,7 +12401,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -12322,7 +12424,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1441,
-		"rating_blitz": 1498
+		"rating_blitz": 1496
 	},
 	{
 		"fideid": 14013827,
@@ -12356,7 +12458,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1498,
-		"rating_blitz": 1432
+		"rating_blitz": 1431
 	},
 	{
 		"fideid": 14013096,
@@ -12376,21 +12478,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14014742,
-		"name": "Charyyev Abdulla",
+		"fideid": 14019809,
+		"name": "Berdimyradov, Didar",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2019,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1553,
-		"rating_blitz": 1413
+		"rating_rapid": 1423,
+		"rating_blitz": 1427
 	},
 	{
 		"fideid": 14008270,
@@ -12401,13 +12503,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1547,
-		"rating_blitz": 1491
+		"rating_blitz": 1490
 	},
 	{
 		"fideid": 14006332,
@@ -12441,7 +12543,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1451,
-		"rating_blitz": 1487
+		"rating_blitz": 1486
 	},
 	{
 		"fideid": 14016087,
@@ -12458,7 +12560,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1516,
-		"rating_blitz": 1418
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 14008530,
@@ -12469,13 +12571,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1464,
-		"rating_blitz": 1425
+		"rating_rapid": 1463,
+		"rating_blitz": 1426
 	},
 	{
 		"fideid": 14011816,
@@ -12571,13 +12673,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1431,
-		"rating_blitz": 1489
+		"rating_blitz": 1488
+	},
+	{
+		"fideid": 14007592,
+		"name": "Ishangulyyev, Muhammet",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1559,
+		"rating_blitz": 1459
 	},
 	{
 		"fideid": 14012529,
@@ -12611,7 +12730,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1496,
-		"rating_blitz": 1456
+		"rating_blitz": 1448
 	},
 	{
 		"fideid": 14011255,
@@ -12673,30 +12792,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1405,
 		"rating_blitz": 1494
-	},
-	{
-		"fideid": 14021188,
-		"name": "Kerimova, Zumrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1493,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 14018020,
@@ -12707,7 +12809,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2019,
 		"flag": "",
@@ -12781,7 +12883,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1616,
-		"rating_blitz": 1487
+		"rating_blitz": 1486
 	},
 	{
 		"fideid": 14014378,
@@ -12815,7 +12917,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1456,
-		"rating_blitz": null
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 14018276,
@@ -12826,13 +12928,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1635,
-		"rating_blitz": 1503
+		"rating_blitz": 1502
 	},
 	{
 		"fideid": 14009218,
@@ -12848,8 +12950,8 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1414,
-		"rating_blitz": 1435
+		"rating_rapid": 1409,
+		"rating_blitz": 1434
 	},
 	{
 		"fideid": 14009226,
@@ -12886,6 +12988,23 @@
 		"rating_blitz": 1453
 	},
 	{
+		"fideid": 14014084,
+		"name": "Orazova Sahra",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1431,
+		"rating_blitz": 1422
+	},
+	{
 		"fideid": 14014394,
 		"name": "Ovezov, Eyyup",
 		"country": "TKM",
@@ -12894,7 +13013,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -12920,23 +13039,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 14007410,
-		"name": "Penayev, Novruzali",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1562,
-		"rating_blitz": 1591
-	},
-	{
 		"fideid": 14021102,
 		"name": "Rahmanov, Binyat",
 		"country": "TKM",
@@ -12945,7 +13047,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -13002,7 +13104,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1448,
-		"rating_blitz": 1402
+		"rating_blitz": 1401
 	},
 	{
 		"fideid": 14012871,
@@ -13018,8 +13120,8 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1412,
-		"rating_blitz": 1437
+		"rating_rapid": 1415,
+		"rating_blitz": 1436
 	},
 	{
 		"fideid": 14010178,
@@ -13104,7 +13206,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1594
+		"rating_blitz": 1593
 	},
 	{
 		"fideid": 14012006,
@@ -13132,13 +13234,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1538
+		"rating_blitz": 1528
 	},
 	{
 		"fideid": 14012022,
@@ -13175,6 +13277,23 @@
 		"rating_blitz": 1606
 	},
 	{
+		"fideid": 14016486,
+		"name": "Akyyev Umit",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1574
+	},
+	{
 		"fideid": 14018071,
 		"name": "Akyyeva Aybolek",
 		"country": "TKM",
@@ -13189,7 +13308,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1568
+		"rating_blitz": 1567
 	},
 	{
 		"fideid": 14010259,
@@ -13226,6 +13345,23 @@
 		"rating_blitz": 1746
 	},
 	{
+		"fideid": 14018403,
+		"name": "Amanov Murat",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1505
+	},
+	{
 		"fideid": 14017326,
 		"name": "Amanova, Guncha",
 		"country": "TKM",
@@ -13240,7 +13376,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1459
+		"rating_blitz": 1458
 	},
 	{
 		"fideid": 14020785,
@@ -13251,7 +13387,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -13308,7 +13444,24 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1429
+		"rating_blitz": 1428
+	},
+	{
+		"fideid": 14017954,
+		"name": "Annasahedova Aysha",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1778
 	},
 	{
 		"fideid": 14011565,
@@ -13566,6 +13719,23 @@
 		"rating_blitz": 1641
 	},
 	{
+		"fideid": 14016290,
+		"name": "Bashimov Dayanch",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1488
+	},
+	{
 		"fideid": 14012901,
 		"name": "Bashimov, Begmuhammet",
 		"country": "TKM",
@@ -13591,13 +13761,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1630
+	},
+	{
+		"fideid": 14016516,
+		"name": "Baymuradova Mehriban",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1527
 	},
 	{
 		"fideid": 14018225,
@@ -13611,10 +13798,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1449
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 14015722,
@@ -13693,7 +13880,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -13778,7 +13965,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -13796,7 +13983,7 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": null,
@@ -13880,13 +14067,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 5,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1489
+		"rating_blitz": 1403
 	},
 	{
 		"fideid": 14007428,
@@ -13923,6 +14110,23 @@
 		"rating_blitz": 1549
 	},
 	{
+		"fideid": 14012987,
+		"name": "Dovletov Muhammetnur",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1413
+	},
+	{
 		"fideid": 14010518,
 		"name": "Dovletsahatov, Serdar",
 		"country": "TKM",
@@ -13937,7 +14141,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1512
+		"rating_blitz": 1514
 	},
 	{
 		"fideid": 14012847,
@@ -13985,10 +14189,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1967,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1611
+		"rating_blitz": 1610
 	},
 	{
 		"fideid": 14011638,
@@ -14039,7 +14243,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1455
+		"rating_blitz": 1450
 	},
 	{
 		"fideid": 14015110,
@@ -14050,13 +14254,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1473
+		"rating_blitz": 1474
 	},
 	{
 		"fideid": 14011549,
@@ -14209,7 +14413,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1486
+		"rating_blitz": 1481
 	},
 	{
 		"fideid": 14008475,
@@ -14260,7 +14464,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1595
+		"rating_blitz": 1594
 	},
 	{
 		"fideid": 14014157,
@@ -14305,8 +14509,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": null,
@@ -14373,7 +14577,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -14424,13 +14628,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1413
+		"rating_blitz": 1416
 	},
 	{
 		"fideid": 14010283,
@@ -14501,23 +14705,6 @@
 		"rating_blitz": 1501
 	},
 	{
-		"fideid": 14015153,
-		"name": "Hallyyev Resulmyrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1413
-	},
-	{
 		"fideid": 14013010,
 		"name": "Hallyyev, Sanjar",
 		"country": "TKM",
@@ -14529,7 +14716,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1466
@@ -14566,7 +14753,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1433
+		"rating_blitz": 1418
 	},
 	{
 		"fideid": 14013762,
@@ -14645,7 +14832,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
@@ -14764,13 +14951,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2019,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1425
+		"rating_blitz": 1424
 	},
 	{
 		"fideid": 14017288,
@@ -14781,13 +14968,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1452
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 14011786,
@@ -14866,7 +15053,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -14909,21 +15096,38 @@
 		"rating_blitz": 1762
 	},
 	{
-		"fideid": 14008823,
-		"name": "Kakageldiyev, Haknazar",
+		"fideid": 14012545,
+		"name": "Kayumova Maral",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1425
+	},
+	{
+		"fideid": 14019264,
+		"name": "Ketdayev Seyitmyrat",
 		"country": "TKM",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 28,
+		"games": 0,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1505
+		"rating_blitz": 1509
 	},
 	{
 		"fideid": 14006758,
@@ -14954,10 +15158,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1981,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1614
+		"rating_blitz": 1611
 	},
 	{
 		"fideid": 14004631,
@@ -15019,7 +15223,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -15036,7 +15240,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -15070,7 +15274,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -15087,7 +15291,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -15104,7 +15308,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -15181,6 +15385,23 @@
 		"rating_blitz": 1405
 	},
 	{
+		"fideid": 14013975,
+		"name": "Mammetmyradova, Shagozel",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1428
+	},
+	{
 		"fideid": 14014556,
 		"name": "Mangushev, Ahmad",
 		"country": "TKM",
@@ -15243,10 +15464,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1472
+	},
+	{
+		"fideid": 14015544,
+		"name": "Muhammetberdiyeva Mahri",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1538
 	},
 	{
 		"fideid": 14020440,
@@ -15257,30 +15495,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1510
-	},
-	{
-		"fideid": 14009161,
-		"name": "Narmedov, Aymyrat",
-		"country": "TKM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1404
+		"rating_blitz": 1509
 	},
 	{
 		"fideid": 14011077,
@@ -15359,13 +15580,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1507
+		"rating_blitz": 1506
 	},
 	{
 		"fideid": 14011956,
@@ -15427,13 +15648,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1411
+		"rating_blitz": 1412
 	},
 	{
 		"fideid": 14016680,
@@ -15450,7 +15671,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1467
+		"rating_blitz": 1466
 	},
 	{
 		"fideid": 14010771,
@@ -15495,13 +15716,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1454
+		"rating_blitz": 1453
+	},
+	{
+		"fideid": 14014823,
+		"name": "Orazsahedov, Ayhan",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1445
 	},
 	{
 		"fideid": 14009340,
@@ -15580,13 +15818,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1564
+		"rating_blitz": 1563
+	},
+	{
+		"fideid": 14019175,
+		"name": "Pirkulyyeva Hatyja",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1588
 	},
 	{
 		"fideid": 14005611,
@@ -15620,7 +15875,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1429
+		"rating_blitz": 1428
 	},
 	{
 		"fideid": 14013134,
@@ -15638,6 +15893,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1456
+	},
+	{
+		"fideid": 14018411,
+		"name": "Rahymov Rahmanberdi",
+		"country": "TKM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1505
 	},
 	{
 		"fideid": 14013630,
@@ -15671,7 +15943,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1619
+		"rating_blitz": 1618
 	},
 	{
 		"fideid": 14015900,
@@ -15717,7 +15989,7 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "wi",
 		"rating_standard": null,
@@ -15739,7 +16011,24 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1571
+		"rating_blitz": 1568
+	},
+	{
+		"fideid": 14013789,
+		"name": "Sapardurdyyeva, Jennet",
+		"country": "TKM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 14010534,
@@ -15872,10 +16161,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1598
+		"rating_blitz": 1601
 	},
 	{
 		"fideid": 14018373,
@@ -15889,10 +16178,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1414
+		"rating_blitz": 1412
 	},
 	{
 		"fideid": 14004844,
@@ -16028,7 +16317,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1547
+		"rating_blitz": 1542
 	},
 	{
 		"fideid": 14007606,
@@ -16079,7 +16368,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1452
+		"rating_blitz": 1438
 	},
 	{
 		"fideid": 14009889,

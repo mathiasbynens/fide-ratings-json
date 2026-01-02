@@ -13,7 +13,7 @@
 		"birthday": 1965,
 		"flag": "i",
 		"rating_standard": 2218,
-		"rating_rapid": null,
+		"rating_rapid": 2223,
 		"rating_blitz": 2217
 	},
 	{
@@ -30,7 +30,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1759,
-		"rating_rapid": null,
+		"rating_rapid": 1767,
 		"rating_blitz": null
 	},
 	{
@@ -114,8 +114,8 @@
 		"k": 40,
 		"birthday": 2004,
 		"flag": "i",
-		"rating_standard": 1563,
-		"rating_rapid": null,
+		"rating_standard": 1565,
+		"rating_rapid": 1562,
 		"rating_blitz": null
 	},
 	{
@@ -132,7 +132,7 @@
 		"birthday": 2001,
 		"flag": "i",
 		"rating_standard": 1561,
-		"rating_rapid": null,
+		"rating_rapid": 1567,
 		"rating_blitz": null
 	},
 	{
@@ -200,7 +200,7 @@
 		"birthday": 2004,
 		"flag": "i",
 		"rating_standard": 1512,
-		"rating_rapid": null,
+		"rating_rapid": 1512,
 		"rating_blitz": 1505
 	},
 	{
@@ -246,12 +246,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 20,
 		"birthday": 1968,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1545,
+		"rating_rapid": 1531,
 		"rating_blitz": 1582
+	},
+	{
+		"fideid": 23800615,
+		"name": "Kim, Adrian Jr.",
+		"country": "ANT",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1845,
+		"rating_blitz": null
 	}
 ]

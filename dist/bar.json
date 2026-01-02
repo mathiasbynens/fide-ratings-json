@@ -25,13 +25,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 2289,
 		"rating_rapid": 2248,
-		"rating_blitz": 2231
+		"rating_blitz": 2253
 	},
 	{
 		"fideid": 11100516,
@@ -42,11 +42,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
-		"rating_standard": 2279,
+		"rating_standard": 2264,
 		"rating_rapid": 2225,
 		"rating_blitz": 2135
 	},
@@ -59,11 +59,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1989,
 		"flag": "",
-		"rating_standard": 2217,
+		"rating_standard": 2221,
 		"rating_rapid": 2202,
 		"rating_blitz": 2061
 	},
@@ -269,7 +269,7 @@
 		"flag": "i",
 		"rating_standard": 2029,
 		"rating_rapid": null,
-		"rating_blitz": 1987
+		"rating_blitz": 1984
 	},
 	{
 		"fideid": 11100150,
@@ -337,7 +337,7 @@
 		"flag": "i",
 		"rating_standard": 1998,
 		"rating_rapid": 1938,
-		"rating_blitz": 1980
+		"rating_blitz": 1996
 	},
 	{
 		"fideid": 11100290,
@@ -455,7 +455,7 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1955,
-		"rating_rapid": 1786,
+		"rating_rapid": 1785,
 		"rating_blitz": 1827
 	},
 	{
@@ -474,6 +474,23 @@
 		"rating_standard": 1947,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11101792,
+		"name": "Parsons, Justin",
+		"country": "BAR",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1944,
+		"rating_rapid": 1900,
+		"rating_blitz": 1925
 	},
 	{
 		"fideid": 11101326,
@@ -586,30 +603,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1957,
 		"flag": "",
-		"rating_standard": 1914,
+		"rating_standard": 1908,
 		"rating_rapid": 2031,
-		"rating_blitz": 1955
-	},
-	{
-		"fideid": 11101792,
-		"name": "Parsons, Justin",
-		"country": "BAR",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1910,
-		"rating_rapid": 1900,
-		"rating_blitz": 1907
+		"rating_blitz": 1929
 	},
 	{
 		"fideid": 11100257,
@@ -627,23 +627,6 @@
 		"rating_standard": 1907,
 		"rating_rapid": null,
 		"rating_blitz": 1856
-	},
-	{
-		"fideid": 11100303,
-		"name": "Yarde, Neil",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "i",
-		"rating_standard": 1898,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 11100052,
@@ -678,6 +661,23 @@
 		"rating_standard": 1890,
 		"rating_rapid": 1891,
 		"rating_blitz": 1893
+	},
+	{
+		"fideid": 11100303,
+		"name": "Yarde, Neil",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1886,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11101938,
@@ -816,6 +816,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11105950,
+		"name": "Sinckler, Mileke",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1851,
+		"rating_rapid": 1595,
+		"rating_blitz": 1525
+	},
+	{
+		"fideid": 11106654,
+		"name": "Clarke, Noah",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1848,
+		"rating_rapid": 1649,
+		"rating_blitz": 1663
+	},
+	{
 		"fideid": 11100478,
 		"name": "Hurley, Emmerson",
 		"country": "BAR",
@@ -850,40 +884,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11105186,
-		"name": "Reifer-Belle, Chanon",
-		"country": "BAR",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1834,
-		"rating_rapid": 1592,
-		"rating_blitz": 1727
-	},
-	{
-		"fideid": 11104627,
-		"name": "Roachford, Adam",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1826,
-		"rating_rapid": 1627,
-		"rating_blitz": 1645
-	},
-	{
 		"fideid": 11104600,
 		"name": "Wilson, Hannah",
 		"country": "BAR",
@@ -892,13 +892,13 @@
 		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 15,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
-		"rating_standard": 1826,
+		"rating_standard": 1834,
 		"rating_rapid": 1806,
-		"rating_blitz": 1762
+		"rating_blitz": 1837
 	},
 	{
 		"fideid": 11100443,
@@ -986,21 +986,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11105950,
-		"name": "Sinckler, Mileke",
+		"fideid": 11103841,
+		"name": "Rochester, Ronaldo",
 		"country": "BAR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
+		"games": 5,
+		"k": 20,
+		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 1814,
-		"rating_rapid": 1595,
-		"rating_blitz": 1543
+		"rating_rapid": 1693,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11100540,
@@ -1054,6 +1054,23 @@
 		"rating_blitz": 1843
 	},
 	{
+		"fideid": 11104627,
+		"name": "Roachford, Adam",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1796,
+		"rating_rapid": 1627,
+		"rating_blitz": 1651
+	},
+	{
 		"fideid": 11104678,
 		"name": "Bennett, Randy",
 		"country": "BAR",
@@ -1088,23 +1105,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7300450,
-		"name": "Figueroa, Julissa",
-		"country": "BAR",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "wi",
-		"rating_standard": 1790,
-		"rating_rapid": 1790,
-		"rating_blitz": 1835
-	},
-	{
 		"fideid": 11101601,
 		"name": "Elcock, Corie",
 		"country": "BAR",
@@ -1122,23 +1122,6 @@
 		"rating_blitz": 1787
 	},
 	{
-		"fideid": 11106883,
-		"name": "Little, Savion",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1788,
-		"rating_rapid": 1577,
-		"rating_blitz": 1540
-	},
-	{
 		"fideid": 11107170,
 		"name": "Harewood, Craig",
 		"country": "BAR",
@@ -1154,40 +1137,6 @@
 		"rating_standard": 1786,
 		"rating_rapid": null,
 		"rating_blitz": 1801
-	},
-	{
-		"fideid": 11103841,
-		"name": "Rochester, Ronaldo",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1785,
-		"rating_rapid": 1693,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11106654,
-		"name": "Clarke, Noah",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1783,
-		"rating_rapid": 1649,
-		"rating_blitz": 1650
 	},
 	{
 		"fideid": 11102519,
@@ -1258,6 +1207,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7300450,
+		"name": "Figueroa, Julissa",
+		"country": "BAR",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "w",
+		"rating_standard": 1761,
+		"rating_rapid": 1790,
+		"rating_blitz": 1835
+	},
+	{
+		"fideid": 11105186,
+		"name": "Reifer-Belle, Chanon",
+		"country": "BAR",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1761,
+		"rating_rapid": 1593,
+		"rating_blitz": 1566
+	},
+	{
 		"fideid": 11100508,
 		"name": "Areti, Muralidhar",
 		"country": "BAR",
@@ -1326,23 +1309,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11106972,
-		"name": "Farley, Jeremiah",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1739,
-		"rating_rapid": 1648,
-		"rating_blitz": 1649
-	},
-	{
 		"fideid": 11100079,
 		"name": "Barker, Michael",
 		"country": "BAR",
@@ -1377,6 +1343,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11105275,
+		"name": "Jaikaran, Aaron",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1721,
+		"rating_rapid": 1660,
+		"rating_blitz": 1635
+	},
+	{
 		"fideid": 11100940,
 		"name": "Maloney, Justin",
 		"country": "BAR",
@@ -1392,23 +1375,6 @@
 		"rating_standard": 1719,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 11105275,
-		"name": "Jaikaran, Aaron",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1714,
-		"rating_rapid": 1661,
-		"rating_blitz": 1669
 	},
 	{
 		"fideid": 11103876,
@@ -1507,7 +1473,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1983,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1697,
 		"rating_rapid": 1653,
 		"rating_blitz": null
@@ -1562,6 +1528,23 @@
 		"rating_standard": 1683,
 		"rating_rapid": null,
 		"rating_blitz": 1700
+	},
+	{
+		"fideid": 11106883,
+		"name": "Little, Savion",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1668,
+		"rating_rapid": 1577,
+		"rating_blitz": 1671
 	},
 	{
 		"fideid": 11101342,
@@ -1632,6 +1615,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11106972,
+		"name": "Farley, Jeremiah",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 17,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1647,
+		"rating_rapid": 1648,
+		"rating_blitz": 1713
+	},
+	{
 		"fideid": 11102217,
 		"name": "Mason, Oshara",
 		"country": "BAR",
@@ -1691,13 +1691,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 1959,
 		"flag": "",
 		"rating_standard": 1636,
 		"rating_rapid": 1837,
-		"rating_blitz": 1854
+		"rating_blitz": 1797
 	},
 	{
 		"fideid": 11102330,
@@ -1715,6 +1715,23 @@
 		"rating_standard": 1632,
 		"rating_rapid": 1594,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11106590,
+		"name": "Blackett, Amari",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1630,
+		"rating_rapid": 1652,
+		"rating_blitz": 1595
 	},
 	{
 		"fideid": 11102560,
@@ -1751,21 +1768,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11100168,
-		"name": "Harewood, Othneil",
+		"fideid": 11106921,
+		"name": "Stuart, Charis",
 		"country": "BAR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1952,
+		"games": 13,
+		"k": 40,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1622,
-		"rating_rapid": 1786,
-		"rating_blitz": 1779
+		"rating_standard": 1624,
+		"rating_rapid": 1515,
+		"rating_blitz": 1665
 	},
 	{
 		"fideid": 11102608,
@@ -1819,6 +1836,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11100168,
+		"name": "Harewood, Othneil",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1952,
+		"flag": "",
+		"rating_standard": 1615,
+		"rating_rapid": 1786,
+		"rating_blitz": 1779
+	},
+	{
 		"fideid": 11101318,
 		"name": "Waithe, Rohansonn",
 		"country": "BAR",
@@ -1870,21 +1904,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11106590,
-		"name": "Blackett, Amari",
+		"fideid": 11107251,
+		"name": "Cadogan, Dominic",
 		"country": "BAR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1607,
-		"rating_rapid": 1652,
-		"rating_blitz": 1566
+		"rating_standard": 1604,
+		"rating_rapid": null,
+		"rating_blitz": 1493
 	},
 	{
 		"fideid": 11103493,
@@ -1902,6 +1936,40 @@
 		"rating_standard": 1600,
 		"rating_rapid": 1592,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11103426,
+		"name": "Eversley, Kiarra",
+		"country": "BAR",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "w",
+		"rating_standard": 1598,
+		"rating_rapid": 1607,
+		"rating_blitz": 1599
+	},
+	{
+		"fideid": 11104651,
+		"name": "La Touche, Cyprian",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 1596,
+		"rating_rapid": 1683,
+		"rating_blitz": 1612
 	},
 	{
 		"fideid": 11103825,
@@ -1935,7 +2003,7 @@
 		"flag": "",
 		"rating_standard": 1593,
 		"rating_rapid": 1719,
-		"rating_blitz": 1688
+		"rating_blitz": 1662
 	},
 	{
 		"fideid": 11103230,
@@ -1989,6 +2057,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11106867,
+		"name": "Latchman, Caleb",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1585,
+		"rating_rapid": null,
+		"rating_blitz": 1523
+	},
+	{
 		"fideid": 11104538,
 		"name": "Prescod, Rory",
 		"country": "BAR",
@@ -2015,7 +2100,7 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1580,
@@ -2037,7 +2122,7 @@
 		"flag": "i",
 		"rating_standard": 1580,
 		"rating_rapid": 1595,
-		"rating_blitz": null
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 11103892,
@@ -2057,57 +2142,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11104651,
-		"name": "La Touche, Cyprian",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1962,
-		"flag": "",
-		"rating_standard": 1578,
-		"rating_rapid": 1683,
-		"rating_blitz": 1626
-	},
-	{
-		"fideid": 11103426,
-		"name": "Eversley, Kiarra",
-		"country": "BAR",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "w",
-		"rating_standard": 1575,
-		"rating_rapid": 1607,
-		"rating_blitz": 1574
-	},
-	{
-		"fideid": 11105291,
-		"name": "Reifer-Belle, Chaz",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1574,
-		"rating_rapid": 1477,
-		"rating_blitz": 1513
-	},
-	{
 		"fideid": 11106336,
 		"name": "Archer, Isaiah",
 		"country": "BAR",
@@ -2121,7 +2155,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1572,
-		"rating_rapid": 1548,
+		"rating_rapid": 1547,
 		"rating_blitz": null
 	},
 	{
@@ -2142,21 +2176,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11105690,
-		"name": "Springer, Leshay",
+		"fideid": 11105291,
+		"name": "Reifer-Belle, Chaz",
 		"country": "BAR",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1566,
-		"rating_rapid": null,
-		"rating_blitz": 1462
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1564,
+		"rating_rapid": 1495,
+		"rating_blitz": 1529
 	},
 	{
 		"fideid": 11103604,
@@ -2210,23 +2244,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11105658,
-		"name": "Herbert, Jaeda",
-		"country": "BAR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1550,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11102080,
 		"name": "Jones, Shaquan",
 		"country": "BAR",
@@ -2261,40 +2278,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11106948,
-		"name": "Greene, Christopher",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1543,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 11106921,
-		"name": "Stuart, Charis",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1542,
-		"rating_rapid": 1516,
-		"rating_blitz": 1481
-	},
-	{
 		"fideid": 11103191,
 		"name": "Bynoe, Dajmar",
 		"country": "BAR",
@@ -2312,21 +2295,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11106042,
-		"name": "Sparman, Alfred",
+		"fideid": 11105658,
+		"name": "Herbert, Jaeda",
 		"country": "BAR",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 1956,
-		"flag": "",
-		"rating_standard": 1530,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1529,
 		"rating_rapid": null,
-		"rating_blitz": 1437
+		"rating_blitz": null
 	},
 	{
 		"fideid": 11100966,
@@ -2361,6 +2344,40 @@
 		"rating_standard": 1529,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11106948,
+		"name": "Greene, Christopher",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1526,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11106042,
+		"name": "Sparman, Alfred",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1956,
+		"flag": "",
+		"rating_standard": 1526,
+		"rating_rapid": null,
+		"rating_blitz": 1432
 	},
 	{
 		"fideid": 11102594,
@@ -2414,6 +2431,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11105690,
+		"name": "Springer, Leshay",
+		"country": "BAR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1523,
+		"rating_rapid": null,
+		"rating_blitz": 1418
+	},
+	{
 		"fideid": 11103620,
 		"name": "Holder, Tyson",
 		"country": "BAR",
@@ -2429,6 +2463,23 @@
 		"rating_standard": 1521,
 		"rating_rapid": 1650,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11104970,
+		"name": "Mayers, Samara",
+		"country": "BAR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1516,
+		"rating_rapid": null,
+		"rating_blitz": 1423
 	},
 	{
 		"fideid": 11102322,
@@ -2448,6 +2499,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11106751,
+		"name": "Browne, Janiyah",
+		"country": "BAR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1508,
+		"rating_rapid": null,
+		"rating_blitz": 1443
+	},
+	{
 		"fideid": 11105836,
 		"name": "Williams, Kanye",
 		"country": "BAR",
@@ -2463,6 +2531,23 @@
 		"rating_standard": 1502,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 11106905,
+		"name": "Culpepper, Nathan",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1499,
+		"rating_rapid": null,
+		"rating_blitz": 1466
 	},
 	{
 		"fideid": 11103280,
@@ -2490,13 +2575,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1495,
+		"rating_standard": 1491,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1525
 	},
 	{
 		"fideid": 11105798,
@@ -2584,23 +2669,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11106751,
-		"name": "Browne, Janiyah",
-		"country": "BAR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1466,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 11104694,
 		"name": "Terence, Melvin",
 		"country": "BAR",
@@ -2610,7 +2678,7 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": 1465,
@@ -2631,6 +2699,23 @@
 		"birthday": 2006,
 		"flag": "wi",
 		"rating_standard": 1459,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11107600,
+		"name": "Coppin, Lukas",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1457,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -2669,23 +2754,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 11107391,
-		"name": "Singh, Aidan",
-		"country": "BAR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1449,
-		"rating_rapid": null,
-		"rating_blitz": 1526
-	},
-	{
 		"fideid": 11103221,
 		"name": "Jiang, Jennifer",
 		"country": "BAR",
@@ -2698,6 +2766,23 @@
 		"k": 40,
 		"birthday": 2001,
 		"flag": "wi",
+		"rating_standard": 1445,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 11105127,
+		"name": "Sargeant, Alex",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
 		"rating_standard": 1445,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2729,7 +2814,7 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": 1438,
@@ -2751,7 +2836,7 @@
 		"flag": "",
 		"rating_standard": 1434,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1433
 	},
 	{
 		"fideid": 11105828,
@@ -2890,6 +2975,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 11107391,
+		"name": "Singh, Aidan",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1403,
+		"rating_rapid": null,
+		"rating_blitz": 1433
+	},
+	{
+		"fideid": 11105585,
+		"name": "Culpepper, Kayla",
+		"country": "BAR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1402,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 11105763,
 		"name": "Chase, Carlos",
 		"country": "BAR",
@@ -2952,10 +3071,44 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1468
+	},
+	{
+		"fideid": 11107499,
+		"name": "Miller, Calmore",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1611
+	},
+	{
+		"fideid": 11107812,
+		"name": "Shepherd, Harry",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1456
 	},
 	{
 		"fideid": 11106034,
@@ -2969,9 +3122,26 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1424
+	},
+	{
+		"fideid": 11106786,
+		"name": "Toppin, Darren",
+		"country": "BAR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1609
 	}
 ]
