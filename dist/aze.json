@@ -8,11 +8,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 10,
 		"birthday": 1985,
 		"flag": "",
-		"rating_standard": 2730,
+		"rating_standard": 2727,
 		"rating_rapid": 2712,
 		"rating_blitz": 2632
 	},
@@ -127,7 +127,7 @@
 		"w_title": "",
 		"o_title": "FST",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 10,
 		"birthday": 1995,
 		"flag": "",
@@ -306,23 +306,6 @@
 		"rating_blitz": 2451
 	},
 	{
-		"fideid": 13413554,
-		"name": "Babazada, Khazar",
-		"country": "AZE",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 2507,
-		"rating_rapid": 2380,
-		"rating_blitz": 2420
-	},
-	{
 		"fideid": 13404938,
 		"name": "Gadimbayli, Abdulla",
 		"country": "AZE",
@@ -355,6 +338,23 @@
 		"rating_standard": 2502,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13413554,
+		"name": "Babazada, Khazar",
+		"country": "AZE",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 2500,
+		"rating_rapid": 2411,
+		"rating_blitz": 2406
 	},
 	{
 		"fideid": 13400665,
@@ -399,11 +399,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 10,
 		"k": 10,
 		"birthday": 1974,
 		"flag": "",
-		"rating_standard": 2486,
+		"rating_standard": 2479,
 		"rating_rapid": 2507,
 		"rating_blitz": 2509
 	},
@@ -438,25 +438,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 2472,
-		"rating_rapid": 2467,
-		"rating_blitz": 2478
-	},
-	{
-		"fideid": 13400304,
-		"name": "Mirzoev, Azer",
-		"country": "AZE",
-		"sex": "M",
-		"title": "GM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 2471,
-		"rating_rapid": 2524,
-		"rating_blitz": 2525
+		"rating_rapid": 2450,
+		"rating_blitz": 2472
 	},
 	{
 		"fideid": 13405209,
@@ -510,21 +493,38 @@
 		"rating_blitz": 2355
 	},
 	{
-		"fideid": 13402854,
-		"name": "Aghasiyev, Kamal",
+		"fideid": 13400304,
+		"name": "Mirzoev, Azer",
+		"country": "AZE",
+		"sex": "M",
+		"title": "GM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 36,
+		"k": 10,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 2448,
+		"rating_rapid": 2524,
+		"rating_blitz": 2525
+	},
+	{
+		"fideid": 13410814,
+		"name": "Manafov, Vugar",
 		"country": "AZE",
 		"sex": "M",
 		"title": "IM",
 		"w_title": "",
-		"o_title": "FT",
+		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 10,
-		"birthday": 1988,
-		"flag": "i",
+		"birthday": 2004,
+		"flag": "",
 		"rating_standard": 2441,
-		"rating_rapid": 2291,
-		"rating_blitz": 2133
+		"rating_rapid": 2400,
+		"rating_blitz": 2418
 	},
 	{
 		"fideid": 13410229,
@@ -540,25 +540,8 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 2438,
-		"rating_rapid": 2475,
-		"rating_blitz": 2383
-	},
-	{
-		"fideid": 13410814,
-		"name": "Manafov, Vugar",
-		"country": "AZE",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 2438,
-		"rating_rapid": 2396,
-		"rating_blitz": 2434
+		"rating_rapid": 2485,
+		"rating_blitz": 2380
 	},
 	{
 		"fideid": 13403052,
@@ -591,8 +574,8 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 2431,
-		"rating_rapid": 2334,
-		"rating_blitz": 2282
+		"rating_rapid": 2330,
+		"rating_blitz": 2335
 	},
 	{
 		"fideid": 13400401,
@@ -627,6 +610,23 @@
 		"rating_standard": 2429,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13402854,
+		"name": "Aghasiyev, Kamal",
+		"country": "AZE",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "FT",
+		"foa_title": "",
+		"games": 8,
+		"k": 10,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 2426,
+		"rating_rapid": 2291,
+		"rating_blitz": 2133
 	},
 	{
 		"fideid": 13400410,
@@ -705,12 +705,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 10,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 2421,
-		"rating_rapid": 2145,
+		"rating_rapid": 2134,
 		"rating_blitz": 2034
 	},
 	{
@@ -867,6 +867,23 @@
 		"rating_blitz": 2304
 	},
 	{
+		"fideid": 13404431,
+		"name": "Huseynov, Sabir",
+		"country": "AZE",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 10,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 2390,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13402579,
 		"name": "Mammadov, Ayaz",
 		"country": "AZE",
@@ -899,23 +916,6 @@
 		"rating_standard": 2390,
 		"rating_rapid": 2307,
 		"rating_blitz": 2276
-	},
-	{
-		"fideid": 13404431,
-		"name": "Huseynov, Sabir",
-		"country": "AZE",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 10,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 2389,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13400550,
@@ -969,23 +969,6 @@
 		"rating_blitz": 2360
 	},
 	{
-		"fideid": 13422316,
-		"name": "Davudov, Tunar",
-		"country": "AZE",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2370,
-		"rating_rapid": 2224,
-		"rating_blitz": 2174
-	},
-	{
 		"fideid": 13408771,
 		"name": "Mustafayev, Farid",
 		"country": "AZE",
@@ -994,7 +977,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
@@ -1016,8 +999,25 @@
 		"birthday": 2003,
 		"flag": "w",
 		"rating_standard": 2364,
-		"rating_rapid": 2230,
-		"rating_blitz": 2135
+		"rating_rapid": 2267,
+		"rating_blitz": 2217
+	},
+	{
+		"fideid": 13412620,
+		"name": "Aslanov, Umid",
+		"country": "AZE",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2362,
+		"rating_rapid": 2085,
+		"rating_blitz": 2079
 	},
 	{
 		"fideid": 13410547,
@@ -1071,21 +1071,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13440110,
-		"name": "Rustamov, Rustam",
+		"fideid": 13409980,
+		"name": "Aliyev, Ravan",
 		"country": "AZE",
 		"sex": "M",
-		"title": "FM",
+		"title": "IM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 9,
 		"k": 20,
-		"birthday": 2009,
+		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 2353,
-		"rating_rapid": 2219,
-		"rating_blitz": 2300
+		"rating_rapid": 2228,
+		"rating_blitz": 2328
 	},
 	{
 		"fideid": 13406396,
@@ -1103,6 +1103,23 @@
 		"rating_standard": 2351,
 		"rating_rapid": 2264,
 		"rating_blitz": 2198
+	},
+	{
+		"fideid": 13422316,
+		"name": "Davudov, Tunar",
+		"country": "AZE",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2349,
+		"rating_rapid": 2188,
+		"rating_blitz": 2291
 	},
 	{
 		"fideid": 13406388,
@@ -1164,11 +1181,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 2345,
+		"rating_standard": 2340,
 		"rating_rapid": 2227,
 		"rating_blitz": 2334
 	},
@@ -1241,23 +1258,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13412620,
-		"name": "Aslanov, Umid",
-		"country": "AZE",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2327,
-		"rating_rapid": 2090,
-		"rating_blitz": 2079
-	},
-	{
 		"fideid": 13400967,
 		"name": "Godjaev, Galib",
 		"country": "AZE",
@@ -1275,21 +1275,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13408712,
-		"name": "Mammadov, Sadig",
+		"fideid": 13406671,
+		"name": "Garayev, Kanan",
 		"country": "AZE",
 		"sex": "M",
 		"title": "IM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 10,
-		"birthday": 2003,
+		"birthday": 2002,
 		"flag": "",
-		"rating_standard": 2326,
-		"rating_rapid": 2205,
-		"rating_blitz": 2145
+		"rating_standard": 2324,
+		"rating_rapid": 2227,
+		"rating_blitz": 2226
 	},
 	{
 		"fideid": 13401092,
@@ -1309,6 +1309,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13408712,
+		"name": "Mammadov, Sadig",
+		"country": "AZE",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 2322,
+		"rating_rapid": 2205,
+		"rating_blitz": 2145
+	},
+	{
 		"fideid": 13412841,
 		"name": "Asgarov, Vugar",
 		"country": "AZE",
@@ -1324,6 +1341,23 @@
 		"rating_standard": 2321,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13440110,
+		"name": "Rustamov, Rustam",
+		"country": "AZE",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2320,
+		"rating_rapid": 2289,
+		"rating_blitz": 2278
 	},
 	{
 		"fideid": 13402048,
@@ -1375,40 +1409,6 @@
 		"rating_standard": 2319,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13409980,
-		"name": "Aliyev, Ravan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 2318,
-		"rating_rapid": 2210,
-		"rating_blitz": 2315
-	},
-	{
-		"fideid": 13408798,
-		"name": "Gasimov, Parviz",
-		"country": "AZE",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 10,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 2318,
-		"rating_rapid": 2238,
-		"rating_blitz": 2224
 	},
 	{
 		"fideid": 13411055,
@@ -1494,23 +1494,6 @@
 		"rating_standard": 2314,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13406671,
-		"name": "Garayev, Kanan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 2314,
-		"rating_rapid": 2227,
-		"rating_blitz": 2226
 	},
 	{
 		"fideid": 13400045,
@@ -1630,6 +1613,23 @@
 		"rating_standard": 2309,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13408798,
+		"name": "Gasimov, Parviz",
+		"country": "AZE",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 2309,
+		"rating_rapid": 2238,
+		"rating_blitz": 2224
 	},
 	{
 		"fideid": 13402315,
@@ -1768,23 +1768,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13452029,
-		"name": "Hamidov, Allahverdi",
-		"country": "AZE",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2298,
-		"rating_rapid": 2146,
-		"rating_blitz": 2337
-	},
-	{
 		"fideid": 13432621,
 		"name": "Ismayilov, Ganjali",
 		"country": "AZE",
@@ -1853,6 +1836,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13402463,
+		"name": "Sevdimaliyev, Urfan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "GM",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 2291,
+		"rating_rapid": 2286,
+		"rating_blitz": 2095
+	},
+	{
 		"fideid": 13400908,
 		"name": "Hasanov, Asif",
 		"country": "AZE",
@@ -1887,23 +1887,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13404474,
-		"name": "Nuri, Murad",
-		"country": "AZE",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 2289,
-		"rating_rapid": 2276,
-		"rating_blitz": 2207
-	},
-	{
 		"fideid": 13410890,
 		"name": "Rahimli, Elmir",
 		"country": "AZE",
@@ -1921,21 +1904,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13402463,
-		"name": "Sevdimaliyev, Urfan",
+		"fideid": 13452029,
+		"name": "Hamidov, Allahverdi",
 		"country": "AZE",
 		"sex": "M",
-		"title": "GM",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2287,
+		"rating_rapid": 2160,
+		"rating_blitz": 2337
+	},
+	{
+		"fideid": 13407716,
+		"name": "Hasanzade, Toghrul",
+		"country": "AZE",
+		"sex": "M",
+		"title": "IM",
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 8,
+		"games": 9,
 		"k": 10,
-		"birthday": 1989,
+		"birthday": 1997,
 		"flag": "",
-		"rating_standard": 2286,
-		"rating_rapid": 2286,
-		"rating_blitz": 2095
+		"rating_standard": 2287,
+		"rating_rapid": 2382,
+		"rating_blitz": 2204
 	},
 	{
 		"fideid": 13400703,
@@ -1955,6 +1955,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13423533,
+		"name": "Orujov, Farid",
+		"country": "AZE",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2283,
+		"rating_rapid": 2023,
+		"rating_blitz": 2073
+	},
+	{
 		"fideid": 13424491,
 		"name": "Alizada, Pasham",
 		"country": "AZE",
@@ -1963,11 +1980,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 2283,
+		"rating_standard": 2281,
 		"rating_rapid": 2114,
 		"rating_blitz": 2176
 	},
@@ -1987,23 +2004,6 @@
 		"rating_standard": 2280,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13407716,
-		"name": "Hasanzade, Toghrul",
-		"country": "AZE",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 9,
-		"k": 10,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 2278,
-		"rating_rapid": 2382,
-		"rating_blitz": 2204
 	},
 	{
 		"fideid": 13403320,
@@ -2057,21 +2057,55 @@
 		"rating_blitz": 2211
 	},
 	{
-		"fideid": 13419013,
-		"name": "Israilov, Agil",
+		"fideid": 13404474,
+		"name": "Nuri, Murad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 2273,
+		"rating_rapid": 2276,
+		"rating_blitz": 2207
+	},
+	{
+		"fideid": 13449214,
+		"name": "Garakhanov, Shamsi",
 		"country": "AZE",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 2273,
-		"rating_rapid": 2088,
-		"rating_blitz": 2061
+		"rating_standard": 2272,
+		"rating_rapid": 2079,
+		"rating_blitz": 2020
+	},
+	{
+		"fideid": 13419315,
+		"name": "Ughuzov, Ravan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2272,
+		"rating_rapid": 2139,
+		"rating_blitz": 2223
 	},
 	{
 		"fideid": 13400223,
@@ -2142,23 +2176,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13423533,
-		"name": "Orujov, Farid",
-		"country": "AZE",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 20,
-		"k": 20,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2262,
-		"rating_rapid": 2011,
-		"rating_blitz": 2073
-	},
-	{
 		"fideid": 13425811,
 		"name": "Azadaliyev, Jahandar",
 		"country": "AZE",
@@ -2227,23 +2244,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13419315,
-		"name": "Ughuzov, Ravan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2252,
-		"rating_rapid": 2139,
-		"rating_blitz": 2223
-	},
-	{
 		"fideid": 13417010,
 		"name": "Mehtipur, Ilham",
 		"country": "AZE",
@@ -2259,6 +2259,23 @@
 		"rating_standard": 2248,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13419013,
+		"name": "Israilov, Agil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2246,
+		"rating_rapid": 2088,
+		"rating_blitz": 2079
 	},
 	{
 		"fideid": 13401777,
@@ -2337,12 +2354,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 2240,
-		"rating_rapid": 2023,
+		"rating_rapid": 2022,
 		"rating_blitz": 2042
 	},
 	{
@@ -2363,23 +2380,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13400061,
-		"name": "Guliev, Logman",
-		"country": "AZE",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 2239,
-		"rating_rapid": 2053,
-		"rating_blitz": 2064
-	},
-	{
 		"fideid": 13402528,
 		"name": "Jafarli, Alizamin",
 		"country": "AZE",
@@ -2395,6 +2395,23 @@
 		"rating_standard": 2239,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13400061,
+		"name": "Guliev, Logman",
+		"country": "AZE",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1974,
+		"flag": "",
+		"rating_standard": 2238,
+		"rating_rapid": 2058,
+		"rating_blitz": 2046
 	},
 	{
 		"fideid": 13401491,
@@ -2431,23 +2448,6 @@
 		"rating_blitz": 2117
 	},
 	{
-		"fideid": 13449214,
-		"name": "Garakhanov, Shamsi",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 2232,
-		"rating_rapid": 2029,
-		"rating_blitz": 2005
-	},
-	{
 		"fideid": 13400959,
 		"name": "Alizadeh, Fikret",
 		"country": "AZE",
@@ -2482,23 +2482,6 @@
 		"rating_blitz": 2239
 	},
 	{
-		"fideid": 13402625,
-		"name": "Khalafova, Narmin",
-		"country": "AZE",
-		"sex": "F",
-		"title": "WGM",
-		"w_title": "WGM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "w",
-		"rating_standard": 2231,
-		"rating_rapid": 2097,
-		"rating_blitz": 2170
-	},
-	{
 		"fideid": 13400851,
 		"name": "Mamedov, Chingiz",
 		"country": "AZE",
@@ -2516,6 +2499,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13402625,
+		"name": "Khalafova, Narmin",
+		"country": "AZE",
+		"sex": "F",
+		"title": "WGM",
+		"w_title": "WGM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "w",
+		"rating_standard": 2228,
+		"rating_rapid": 2097,
+		"rating_blitz": 2170
+	},
+	{
 		"fideid": 13401149,
 		"name": "Davidov, Samir",
 		"country": "AZE",
@@ -2531,23 +2531,6 @@
 		"rating_standard": 2227,
 		"rating_rapid": 2221,
 		"rating_blitz": 2198
-	},
-	{
-		"fideid": 13402200,
-		"name": "Ahmadov, Fariz",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 2226,
-		"rating_rapid": 1996,
-		"rating_blitz": 2076
 	},
 	{
 		"fideid": 13400185,
@@ -2694,11 +2677,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 5,
 		"k": 20,
 		"birthday": 1987,
 		"flag": "",
-		"rating_standard": 2212,
+		"rating_standard": 2210,
 		"rating_rapid": 2117,
 		"rating_blitz": 2184
 	},
@@ -2870,7 +2853,7 @@
 		"flag": "w",
 		"rating_standard": 2196,
 		"rating_rapid": 2096,
-		"rating_blitz": 1907
+		"rating_blitz": 1922
 	},
 	{
 		"fideid": 13442724,
@@ -2904,7 +2887,7 @@
 		"flag": "i",
 		"rating_standard": 2194,
 		"rating_rapid": 2124,
-		"rating_blitz": 1983
+		"rating_blitz": 1967
 	},
 	{
 		"fideid": 13410210,
@@ -2975,6 +2958,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13402200,
+		"name": "Ahmadov, Fariz",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 2191,
+		"rating_rapid": 2012,
+		"rating_blitz": 2069
+	},
+	{
 		"fideid": 13422707,
 		"name": "Ismayilov, Orkhan Elburus",
 		"country": "AZE",
@@ -3007,23 +3007,6 @@
 		"rating_standard": 2187,
 		"rating_rapid": 2269,
 		"rating_blitz": 2342
-	},
-	{
-		"fideid": 13401106,
-		"name": "Huseynov, Shahin",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 2186,
-		"rating_rapid": 2055,
-		"rating_blitz": 2042
 	},
 	{
 		"fideid": 13400444,
@@ -3162,6 +3145,23 @@
 		"rating_blitz": 2150
 	},
 	{
+		"fideid": 13401106,
+		"name": "Huseynov, Shahin",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 2177,
+		"rating_rapid": 2037,
+		"rating_blitz": 2062
+	},
+	{
 		"fideid": 13425439,
 		"name": "Abdulkarimli, Eljan",
 		"country": "AZE",
@@ -3264,23 +3264,6 @@
 		"rating_blitz": 2104
 	},
 	{
-		"fideid": 13441906,
-		"name": "Ibrahimli, Suat",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 2170,
-		"rating_rapid": 2007,
-		"rating_blitz": 1983
-	},
-	{
 		"fideid": 13402374,
 		"name": "Aghasiyeva, Fidan",
 		"country": "AZE",
@@ -3315,6 +3298,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13441906,
+		"name": "Ibrahimli, Suat",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 2166,
+		"rating_rapid": 2007,
+		"rating_blitz": 1983
+	},
+	{
 		"fideid": 13400738,
 		"name": "Gurbanov, Bahruz",
 		"country": "AZE",
@@ -3340,12 +3340,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 16,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 2164,
-		"rating_rapid": 1930,
+		"rating_rapid": 1985,
 		"rating_blitz": 2069
 	},
 	{
@@ -3506,7 +3506,7 @@
 		"name": "Gurbanzade, Erkin",
 		"country": "AZE",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -3517,6 +3517,23 @@
 		"rating_standard": 2144,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13428721,
+		"name": "Isbatov, Kanan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 2144,
+		"rating_rapid": 1927,
+		"rating_blitz": 1884
 	},
 	{
 		"fideid": 13401440,
@@ -3595,12 +3612,12 @@
 		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 2136,
-		"rating_rapid": 1957,
+		"rating_rapid": 1948,
 		"rating_blitz": 1833
 	},
 	{
@@ -3617,23 +3634,6 @@
 		"birthday": 1985,
 		"flag": "wi",
 		"rating_standard": 2135,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13432613,
-		"name": "Garayev, Murad",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1977,
-		"flag": "",
-		"rating_standard": 2134,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -3669,7 +3669,7 @@
 		"flag": "i",
 		"rating_standard": 2131,
 		"rating_rapid": 2119,
-		"rating_blitz": 2003
+		"rating_blitz": 1957
 	},
 	{
 		"fideid": 13401289,
@@ -3687,6 +3687,23 @@
 		"rating_standard": 2128,
 		"rating_rapid": 2098,
 		"rating_blitz": 2081
+	},
+	{
+		"fideid": 13431781,
+		"name": "Huseynova, Lala",
+		"country": "AZE",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 2128,
+		"rating_rapid": 1908,
+		"rating_blitz": 2059
 	},
 	{
 		"fideid": 13400975,
@@ -3870,7 +3887,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1996,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2121,
 		"rating_rapid": 1996,
 		"rating_blitz": 2011
@@ -3891,23 +3908,6 @@
 		"rating_standard": 2120,
 		"rating_rapid": 2063,
 		"rating_blitz": 2067
-	},
-	{
-		"fideid": 13453424,
-		"name": "Azimov, Yasin",
-		"country": "AZE",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 2118,
-		"rating_rapid": 2056,
-		"rating_blitz": 2040
 	},
 	{
 		"fideid": 13401645,
@@ -3978,40 +3978,6 @@
 		"rating_blitz": 2085
 	},
 	{
-		"fideid": 13431781,
-		"name": "Huseynova, Lala",
-		"country": "AZE",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 2109,
-		"rating_rapid": 1930,
-		"rating_blitz": 1996
-	},
-	{
-		"fideid": 13402870,
-		"name": "Idrisov, Tabriz",
-		"country": "AZE",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 2108,
-		"rating_rapid": 2087,
-		"rating_blitz": 1887
-	},
-	{
 		"fideid": 13401874,
 		"name": "Samadli, Rustam",
 		"country": "AZE",
@@ -4057,7 +4023,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1985,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2106,
 		"rating_rapid": 2096,
 		"rating_blitz": 2064
@@ -4131,6 +4097,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13433369,
+		"name": "Baghirov, Orkhan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2102,
+		"rating_rapid": 2058,
+		"rating_blitz": 2038
+	},
+	{
 		"fideid": 13406019,
 		"name": "Jafarli, Babak",
 		"country": "AZE",
@@ -4146,23 +4129,6 @@
 		"rating_standard": 2102,
 		"rating_rapid": 2080,
 		"rating_blitz": 2196
-	},
-	{
-		"fideid": 13402099,
-		"name": "Musayev, Eldar",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": 2102,
-		"rating_rapid": 2116,
-		"rating_blitz": 2023
 	},
 	{
 		"fideid": 13401572,
@@ -4195,6 +4161,23 @@
 		"birthday": 1987,
 		"flag": "i",
 		"rating_standard": 2100,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13432613,
+		"name": "Garayev, Murad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 2099,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -4284,6 +4267,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13402870,
+		"name": "Idrisov, Tabriz",
+		"country": "AZE",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 2092,
+		"rating_rapid": 2087,
+		"rating_blitz": 1908
+	},
+	{
 		"fideid": 13400860,
 		"name": "Budagova, Lala",
 		"country": "AZE",
@@ -4318,21 +4318,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13450255,
-		"name": "Baghirov, Mahammad",
+		"fideid": 13402099,
+		"name": "Musayev, Eldar",
 		"country": "AZE",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
+		"games": 9,
+		"k": 20,
+		"birthday": 1985,
 		"flag": "",
-		"rating_standard": 2088,
-		"rating_rapid": 1972,
-		"rating_blitz": 2043
+		"rating_standard": 2087,
+		"rating_rapid": 2116,
+		"rating_blitz": 2023
 	},
 	{
 		"fideid": 13401742,
@@ -4369,6 +4369,23 @@
 		"rating_blitz": 1992
 	},
 	{
+		"fideid": 13450255,
+		"name": "Baghirov, Mahammad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2086,
+		"rating_rapid": 1959,
+		"rating_blitz": 2150
+	},
+	{
 		"fideid": 13401637,
 		"name": "Gurbanov, Sabukhi",
 		"country": "AZE",
@@ -4384,6 +4401,23 @@
 		"rating_standard": 2085,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13453424,
+		"name": "Azimov, Yasin",
+		"country": "AZE",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 2084,
+		"rating_rapid": 2056,
+		"rating_blitz": 2040
 	},
 	{
 		"fideid": 13416162,
@@ -4488,6 +4522,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13417304,
+		"name": "Gurbanov, Ismayil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 2077,
+		"rating_rapid": 2112,
+		"rating_blitz": 2151
+	},
+	{
+		"fideid": 13402986,
+		"name": "Babaev, Eldeniz",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 2076,
+		"rating_rapid": 1964,
+		"rating_blitz": 1972
+	},
+	{
 		"fideid": 13401351,
 		"name": "Babayev, Tural",
 		"country": "AZE",
@@ -4503,23 +4571,6 @@
 		"rating_standard": 2074,
 		"rating_rapid": 1949,
 		"rating_blitz": 2035
-	},
-	{
-		"fideid": 13433369,
-		"name": "Baghirov, Orkhan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2072,
-		"rating_rapid": 2058,
-		"rating_blitz": 2038
 	},
 	{
 		"fideid": 13415875,
@@ -4554,40 +4605,6 @@
 		"rating_standard": 2072,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13428721,
-		"name": "Isbatov, Kanan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 2071,
-		"rating_rapid": 1927,
-		"rating_blitz": 1912
-	},
-	{
-		"fideid": 13402986,
-		"name": "Babaev, Eldeniz",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 2068,
-		"rating_rapid": 1964,
-		"rating_blitz": 1972
 	},
 	{
 		"fideid": 13402021,
@@ -4638,7 +4655,7 @@
 		"flag": "",
 		"rating_standard": 2066,
 		"rating_rapid": 2030,
-		"rating_blitz": 1934
+		"rating_blitz": 1888
 	},
 	{
 		"fideid": 13402617,
@@ -4656,23 +4673,6 @@
 		"rating_standard": 2066,
 		"rating_rapid": 2155,
 		"rating_blitz": 2052
-	},
-	{
-		"fideid": 13456261,
-		"name": "Azizli, Nurlan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 2064,
-		"rating_rapid": 1915,
-		"rating_blitz": 1921
 	},
 	{
 		"fideid": 13404970,
@@ -4707,23 +4707,6 @@
 		"rating_standard": 2062,
 		"rating_rapid": 1974,
 		"rating_blitz": 1996
-	},
-	{
-		"fideid": 13417304,
-		"name": "Gurbanov, Ismayil",
-		"country": "AZE",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 2061,
-		"rating_rapid": 2112,
-		"rating_blitz": 2151
 	},
 	{
 		"fideid": 13400134,
@@ -5012,7 +4995,7 @@
 		"flag": "",
 		"rating_standard": 2047,
 		"rating_rapid": 1919,
-		"rating_blitz": 1932
+		"rating_blitz": 1890
 	},
 	{
 		"fideid": 13403443,
@@ -5181,7 +5164,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 2036,
-		"rating_rapid": 2018,
+		"rating_rapid": 1999,
 		"rating_blitz": 1922
 	},
 	{
@@ -5522,7 +5505,7 @@
 		"flag": "",
 		"rating_standard": 2015,
 		"rating_rapid": 2007,
-		"rating_blitz": 2114
+		"rating_blitz": 2127
 	},
 	{
 		"fideid": 13436503,
@@ -5533,7 +5516,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -5542,21 +5525,21 @@
 		"rating_blitz": 1659
 	},
 	{
-		"fideid": 13417509,
-		"name": "Gadimov, Emil",
+		"fideid": 13413953,
+		"name": "Zuqanov, Ali",
 		"country": "AZE",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 6,
 		"k": 20,
-		"birthday": 2004,
+		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 2014,
-		"rating_rapid": 2048,
-		"rating_blitz": 1951
+		"rating_standard": 2015,
+		"rating_rapid": 1788,
+		"rating_blitz": 2013
 	},
 	{
 		"fideid": 13417428,
@@ -5610,6 +5593,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13456261,
+		"name": "Azizli, Nurlan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 2008,
+		"rating_rapid": 1915,
+		"rating_blitz": 1921
+	},
+	{
+		"fideid": 13417509,
+		"name": "Gadimov, Emil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 2007,
+		"rating_rapid": 2048,
+		"rating_blitz": 1951
+	},
+	{
 		"fideid": 13408607,
 		"name": "Huseynzade, Jeyhun",
 		"country": "AZE",
@@ -5657,8 +5674,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 2005,
-		"rating_rapid": 1818,
-		"rating_blitz": 1875
+		"rating_rapid": 1840,
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 13400843,
@@ -5676,23 +5693,6 @@
 		"rating_standard": 2005,
 		"rating_rapid": 1989,
 		"rating_blitz": 1973
-	},
-	{
-		"fideid": 13413953,
-		"name": "Zuqanov, Ali",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2005,
-		"rating_rapid": 1788,
-		"rating_blitz": 2013
 	},
 	{
 		"fideid": 13477200,
@@ -5746,23 +5746,6 @@
 		"rating_blitz": 1945
 	},
 	{
-		"fideid": 13462687,
-		"name": "Ahmadli, Nihad",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 2002,
-		"rating_rapid": 1948,
-		"rating_blitz": 1802
-	},
-	{
 		"fideid": 13445308,
 		"name": "Jabbarova, Ulkar",
 		"country": "AZE",
@@ -5778,23 +5761,6 @@
 		"rating_standard": 2002,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13426001,
-		"name": "Gurbanov, Huseyn",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 2001,
-		"rating_rapid": 1942,
-		"rating_blitz": 1953
 	},
 	{
 		"fideid": 13435981,
@@ -5965,6 +5931,23 @@
 		"rating_standard": 1996,
 		"rating_rapid": 1936,
 		"rating_blitz": 2156
+	},
+	{
+		"fideid": 13426001,
+		"name": "Gurbanov, Huseyn",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1995,
+		"rating_rapid": 1942,
+		"rating_blitz": 1953
 	},
 	{
 		"fideid": 13429990,
@@ -6179,7 +6162,7 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -6271,6 +6254,40 @@
 		"rating_standard": 1978,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13423746,
+		"name": "Nuriyeva, Nurtan",
+		"country": "AZE",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1978,
+		"rating_rapid": 1853,
+		"rating_blitz": 1990
+	},
+	{
+		"fideid": 13431854,
+		"name": "Salimzade, Ali",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1978,
+		"rating_rapid": null,
+		"rating_blitz": 2011
 	},
 	{
 		"fideid": 13403672,
@@ -6389,7 +6406,7 @@
 		"flag": "",
 		"rating_standard": 1973,
 		"rating_rapid": 1964,
-		"rating_blitz": 1873
+		"rating_blitz": 1946
 	},
 	{
 		"fideid": 13418335,
@@ -6579,6 +6596,23 @@
 		"rating_blitz": 1935
 	},
 	{
+		"fideid": 13412396,
+		"name": "Nazarov, Umid",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1967,
+		"rating_rapid": 2004,
+		"rating_blitz": 1745
+	},
+	{
 		"fideid": 13415433,
 		"name": "Shahpalangov, Aydin",
 		"country": "AZE",
@@ -6594,23 +6628,6 @@
 		"rating_standard": 1965,
 		"rating_rapid": 1962,
 		"rating_blitz": 1907
-	},
-	{
-		"fideid": 13423746,
-		"name": "Nuriyeva, Nurtan",
-		"country": "AZE",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1964,
-		"rating_rapid": 1853,
-		"rating_blitz": 1990
 	},
 	{
 		"fideid": 13410237,
@@ -6679,23 +6696,6 @@
 		"rating_standard": 1960,
 		"rating_rapid": 1900,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13448692,
-		"name": "Hummatov, Safa",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1959,
-		"rating_rapid": 1833,
-		"rating_blitz": 1846
 	},
 	{
 		"fideid": 13402536,
@@ -6783,6 +6783,23 @@
 		"rating_blitz": 2092
 	},
 	{
+		"fideid": 13408704,
+		"name": "Mammadov, Ali",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1955,
+		"rating_rapid": 1739,
+		"rating_blitz": 1884
+	},
+	{
 		"fideid": 13456644,
 		"name": "Mammadov, Jamal",
 		"country": "AZE",
@@ -6797,24 +6814,7 @@
 		"flag": "",
 		"rating_standard": 1955,
 		"rating_rapid": 1851,
-		"rating_blitz": 1835
-	},
-	{
-		"fideid": 13437313,
-		"name": "Huseynova, Dinara",
-		"country": "AZE",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1954,
-		"rating_rapid": 1918,
-		"rating_blitz": 1918
+		"rating_blitz": 1809
 	},
 	{
 		"fideid": 13412426,
@@ -6893,13 +6893,47 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1951,
 		"rating_rapid": null,
 		"rating_blitz": 1781
+	},
+	{
+		"fideid": 13463594,
+		"name": "Allahverdi, Zahra",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1949,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13467697,
+		"name": "Rzazade, Hamza",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1949,
+		"rating_rapid": 1794,
+		"rating_blitz": 1895
 	},
 	{
 		"fideid": 13415549,
@@ -6934,23 +6968,6 @@
 		"rating_standard": 1948,
 		"rating_rapid": 1921,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13436597,
-		"name": "Mursalzade, Javad",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1948,
-		"rating_rapid": 1827,
-		"rating_blitz": 2019
 	},
 	{
 		"fideid": 13402013,
@@ -7106,23 +7123,6 @@
 		"rating_blitz": 1922
 	},
 	{
-		"fideid": 13401025,
-		"name": "Halafov, Ilgar",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1940,
-		"rating_rapid": 1815,
-		"rating_blitz": 1975
-	},
-	{
 		"fideid": 13421301,
 		"name": "Mehtizada, Murad",
 		"country": "AZE",
@@ -7223,6 +7223,23 @@
 		"rating_standard": 1937,
 		"rating_rapid": 1920,
 		"rating_blitz": 1920
+	},
+	{
+		"fideid": 13416502,
+		"name": "Abdulbaghiyev, Rufat",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1935,
+		"rating_rapid": 1961,
+		"rating_blitz": 1891
 	},
 	{
 		"fideid": 13409670,
@@ -7327,6 +7344,23 @@
 		"rating_blitz": 1947
 	},
 	{
+		"fideid": 13401025,
+		"name": "Halafov, Ilgar",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1931,
+		"rating_rapid": 1815,
+		"rating_blitz": 1975
+	},
+	{
 		"fideid": 13418351,
 		"name": "Huseynzade, Ali Vakil",
 		"country": "AZE",
@@ -7352,7 +7386,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
@@ -7444,23 +7478,6 @@
 		"rating_standard": 1927,
 		"rating_rapid": 1957,
 		"rating_blitz": 1941
-	},
-	{
-		"fideid": 13416502,
-		"name": "Abdulbaghiyev, Rufat",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1925,
-		"rating_rapid": 1968,
-		"rating_blitz": 1893
 	},
 	{
 		"fideid": 13424254,
@@ -7599,6 +7616,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13423797,
+		"name": "Shakaraliyev, Elchin",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1920,
+		"rating_rapid": 1846,
+		"rating_blitz": 1916
+	},
+	{
+		"fideid": 13436929,
+		"name": "Valiyeva, Asnad",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1920,
+		"rating_rapid": 1784,
+		"rating_blitz": 1731
+	},
+	{
 		"fideid": 13410970,
 		"name": "Aliyev, Rahim",
 		"country": "AZE",
@@ -7629,7 +7680,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1918,
-		"rating_rapid": 1977,
+		"rating_rapid": 1980,
 		"rating_blitz": 1785
 	},
 	{
@@ -7752,38 +7803,21 @@
 		"rating_blitz": 1871
 	},
 	{
-		"fideid": 13412396,
-		"name": "Nazarov, Umid",
+		"fideid": 13462687,
+		"name": "Ahmadli, Nihad",
 		"country": "AZE",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1912,
-		"rating_rapid": 1970,
-		"rating_blitz": 1783
-	},
-	{
-		"fideid": 13467697,
-		"name": "Rzazade, Hamza",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2009,
+		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1911,
-		"rating_rapid": 1794,
-		"rating_blitz": 1895
+		"rating_rapid": 1948,
+		"rating_blitz": 1802
 	},
 	{
 		"fideid": 13402927,
@@ -7854,23 +7888,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13408704,
-		"name": "Mammadov, Ali",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1909,
-		"rating_rapid": 1739,
-		"rating_blitz": 1884
-	},
-	{
 		"fideid": 13412868,
 		"name": "Gojayev, Kamal",
 		"country": "AZE",
@@ -7905,23 +7922,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13431854,
-		"name": "Salimzade, Ali",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1908,
-		"rating_rapid": null,
-		"rating_blitz": 2011
-	},
-	{
 		"fideid": 13418750,
 		"name": "Teymurov, Elnur",
 		"country": "AZE",
@@ -7937,6 +7937,40 @@
 		"rating_standard": 1908,
 		"rating_rapid": 1868,
 		"rating_blitz": 1848
+	},
+	{
+		"fideid": 13448692,
+		"name": "Hummatov, Safa",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1905,
+		"rating_rapid": 1833,
+		"rating_blitz": 1846
+	},
+	{
+		"fideid": 13437313,
+		"name": "Huseynova, Dinara",
+		"country": "AZE",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1905,
+		"rating_rapid": 1918,
+		"rating_blitz": 1918
 	},
 	{
 		"fideid": 13430211,
@@ -7964,7 +7998,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
@@ -8109,23 +8143,6 @@
 		"rating_blitz": 1866
 	},
 	{
-		"fideid": 13423797,
-		"name": "Shakaraliyev, Elchin",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1900,
-		"rating_rapid": 1846,
-		"rating_blitz": 1916
-	},
-	{
 		"fideid": 13402366,
 		"name": "Beydullayeva, Rafiga",
 		"country": "AZE",
@@ -8219,12 +8236,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1961,
 		"flag": "",
 		"rating_standard": 1895,
-		"rating_rapid": null,
+		"rating_rapid": 1856,
 		"rating_blitz": null
 	},
 	{
@@ -8260,23 +8277,6 @@
 		"rating_standard": 1894,
 		"rating_rapid": null,
 		"rating_blitz": 1862
-	},
-	{
-		"fideid": 13484850,
-		"name": "Shahverdiyev, Anar",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1894,
-		"rating_rapid": 1900,
-		"rating_blitz": 1680
 	},
 	{
 		"fideid": 13403419,
@@ -8381,23 +8381,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13463594,
-		"name": "Allahverdi, Zahra",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1887,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13413295,
 		"name": "Babayev, Ibrahim",
 		"country": "AZE",
@@ -8449,6 +8432,23 @@
 		"rating_blitz": 1832
 	},
 	{
+		"fideid": 13484850,
+		"name": "Shahverdiyev, Anar",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1887,
+		"rating_rapid": 1900,
+		"rating_blitz": 1680
+	},
+	{
 		"fideid": 13403079,
 		"name": "Valiyeva, Khayala",
 		"country": "AZE",
@@ -8464,6 +8464,23 @@
 		"rating_standard": 1887,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13418149,
+		"name": "Safarli, Ramzi",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1886,
+		"rating_rapid": 1778,
+		"rating_blitz": 1694
 	},
 	{
 		"fideid": 13402781,
@@ -8797,7 +8814,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1976,
 		"flag": "",
@@ -8905,7 +8922,7 @@
 		"flag": "w",
 		"rating_standard": 1873,
 		"rating_rapid": 1660,
-		"rating_blitz": 1704
+		"rating_blitz": 1720
 	},
 	{
 		"fideid": 13405349,
@@ -8974,6 +8991,23 @@
 		"rating_standard": 1870,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13461460,
+		"name": "Shirinov, Kanan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1870,
+		"rating_rapid": 1724,
+		"rating_blitz": 1705
 	},
 	{
 		"fideid": 13405365,
@@ -9222,30 +9256,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1862,
-		"rating_rapid": 1878,
-		"rating_blitz": 2014
-	},
-	{
-		"fideid": 13436929,
-		"name": "Valiyeva, Asnad",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1862,
-		"rating_rapid": 1784,
-		"rating_blitz": 1731
+		"rating_rapid": 1893,
+		"rating_blitz": 1959
 	},
 	{
 		"fideid": 13425803,
@@ -9401,6 +9418,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13446606,
+		"name": "Khanalizade, Elgun",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1858,
+		"rating_rapid": 1825,
+		"rating_blitz": 1743
+	},
+	{
 		"fideid": 13429191,
 		"name": "Mammadov, Ismayil",
 		"country": "AZE",
@@ -9465,8 +9499,8 @@
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1856,
-		"rating_rapid": 1920,
-		"rating_blitz": 1971
+		"rating_rapid": 1945,
+		"rating_blitz": 1960
 	},
 	{
 		"fideid": 13446347,
@@ -9477,7 +9511,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -9518,23 +9552,6 @@
 		"rating_standard": 1855,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13447912,
-		"name": "Mirzaliyeva, Fatima Eldar",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1855,
-		"rating_rapid": 1645,
-		"rating_blitz": 1539
 	},
 	{
 		"fideid": 13405535,
@@ -9670,7 +9687,7 @@
 		"flag": "i",
 		"rating_standard": 1850,
 		"rating_rapid": 1848,
-		"rating_blitz": 1824
+		"rating_blitz": 1826
 	},
 	{
 		"fideid": 13405594,
@@ -9749,7 +9766,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AIM",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -9824,23 +9841,6 @@
 		"rating_standard": 1845,
 		"rating_rapid": 1905,
 		"rating_blitz": 1827
-	},
-	{
-		"fideid": 13418149,
-		"name": "Safarli, Ramzi",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1845,
-		"rating_rapid": 1778,
-		"rating_blitz": 1694
 	},
 	{
 		"fideid": 13408518,
@@ -10089,7 +10089,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -10196,7 +10196,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1836,
-		"rating_rapid": 1864,
+		"rating_rapid": 1805,
 		"rating_blitz": 1748
 	},
 	{
@@ -10214,7 +10214,7 @@
 		"flag": "",
 		"rating_standard": 1835,
 		"rating_rapid": 1825,
-		"rating_blitz": 1659
+		"rating_blitz": 1711
 	},
 	{
 		"fideid": 13403370,
@@ -10228,27 +10228,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1989,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1835,
 		"rating_rapid": 1831,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13458175,
-		"name": "Kazimzade, Mahammad",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1834,
-		"rating_rapid": 1801,
-		"rating_blitz": 1778
 	},
 	{
 		"fideid": 13435671,
@@ -10472,23 +10455,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13469940,
-		"name": "Afandi, Sadagul",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1828,
-		"rating_rapid": 1566,
-		"rating_blitz": 1551
-	},
-	{
 		"fideid": 13406841,
 		"name": "Kalagirov, Ragib",
 		"country": "AZE",
@@ -10604,8 +10570,25 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": 1826,
-		"rating_rapid": 2074,
-		"rating_blitz": 2013
+		"rating_rapid": 2099,
+		"rating_blitz": 2008
+	},
+	{
+		"fideid": 13436597,
+		"name": "Mursalzade, Javad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1826,
+		"rating_rapid": 1877,
+		"rating_blitz": 2019
 	},
 	{
 		"fideid": 13467301,
@@ -10616,12 +10599,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1826,
-		"rating_rapid": 1796,
+		"rating_rapid": 1779,
 		"rating_blitz": null
 	},
 	{
@@ -10758,7 +10741,7 @@
 		"flag": "",
 		"rating_standard": 1823,
 		"rating_rapid": 1867,
-		"rating_blitz": 1716
+		"rating_blitz": 1709
 	},
 	{
 		"fideid": 13418912,
@@ -10776,23 +10759,6 @@
 		"rating_standard": 1823,
 		"rating_rapid": 1763,
 		"rating_blitz": 1763
-	},
-	{
-		"fideid": 13446606,
-		"name": "Khanalizade, Elgun",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1823,
-		"rating_rapid": 1815,
-		"rating_blitz": 1776
 	},
 	{
 		"fideid": 13432737,
@@ -10962,7 +10928,7 @@
 		"flag": "",
 		"rating_standard": 1818,
 		"rating_rapid": 1753,
-		"rating_blitz": null
+		"rating_blitz": 1811
 	},
 	{
 		"fideid": 13414623,
@@ -11012,7 +10978,7 @@
 		"birthday": 2001,
 		"flag": "i",
 		"rating_standard": 1817,
-		"rating_rapid": 1656,
+		"rating_rapid": 1702,
 		"rating_blitz": 1784
 	},
 	{
@@ -11131,8 +11097,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1815,
-		"rating_rapid": 1991,
-		"rating_blitz": 1934
+		"rating_rapid": 1973,
+		"rating_blitz": 2013
 	},
 	{
 		"fideid": 13405624,
@@ -11268,24 +11234,7 @@
 		"flag": "",
 		"rating_standard": 1812,
 		"rating_rapid": 1861,
-		"rating_blitz": 1804
-	},
-	{
-		"fideid": 13461460,
-		"name": "Shirinov, Kanan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1812,
-		"rating_rapid": 1723,
-		"rating_blitz": 1705
+		"rating_blitz": 1875
 	},
 	{
 		"fideid": 13403435,
@@ -11526,23 +11475,6 @@
 		"rating_blitz": 1829
 	},
 	{
-		"fideid": 13401165,
-		"name": "Guliyev, Khagani",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 1802,
-		"rating_rapid": null,
-		"rating_blitz": 1644
-	},
-	{
 		"fideid": 13467220,
 		"name": "Hasanzade, Jalal",
 		"country": "AZE",
@@ -11591,7 +11523,7 @@
 		"flag": "",
 		"rating_standard": 1801,
 		"rating_rapid": 1982,
-		"rating_blitz": 1880
+		"rating_blitz": 1970
 	},
 	{
 		"fideid": 13433601,
@@ -11874,7 +11806,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1980,
 		"flag": "",
@@ -12017,6 +11949,23 @@
 		"rating_standard": 1794,
 		"rating_rapid": 1785,
 		"rating_blitz": 1761
+	},
+	{
+		"fideid": 13447912,
+		"name": "Mirzaliyeva, Fatima Eldar",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1794,
+		"rating_rapid": 1645,
+		"rating_blitz": 1539
 	},
 	{
 		"fideid": 13418670,
@@ -12248,13 +12197,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1789,
 		"rating_rapid": 1514,
 		"rating_blitz": 1704
+	},
+	{
+		"fideid": 13401165,
+		"name": "Guliyev, Khagani",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": 1789,
+		"rating_rapid": null,
+		"rating_blitz": 1644
 	},
 	{
 		"fideid": 13410334,
@@ -12461,6 +12427,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13469940,
+		"name": "Afandi, Sadagul",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1784,
+		"rating_rapid": 1557,
+		"rating_blitz": 1599
+	},
+	{
 		"fideid": 13412647,
 		"name": "Aghalarov, Daim",
 		"country": "AZE",
@@ -12492,7 +12475,7 @@
 		"flag": "i",
 		"rating_standard": 1784,
 		"rating_rapid": 1605,
-		"rating_blitz": 1719
+		"rating_blitz": 1717
 	},
 	{
 		"fideid": 13404326,
@@ -12597,21 +12580,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13414224,
-		"name": "Tahirova, Sevil",
+		"fideid": 13458175,
+		"name": "Kazimzade, Mahammad",
 		"country": "AZE",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "w",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
 		"rating_standard": 1782,
-		"rating_rapid": 1709,
-		"rating_blitz": 1738
+		"rating_rapid": 1801,
+		"rating_blitz": 1778
 	},
 	{
 		"fideid": 13412655,
@@ -12695,7 +12678,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1780,
-		"rating_rapid": 1799,
+		"rating_rapid": 1742,
 		"rating_blitz": 1686
 	},
 	{
@@ -12707,13 +12690,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1780,
-		"rating_rapid": 1796,
-		"rating_blitz": 1857
+		"rating_rapid": 1772,
+		"rating_blitz": 1767
 	},
 	{
 		"fideid": 13415239,
@@ -12775,13 +12758,47 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1778,
 		"rating_rapid": null,
 		"rating_blitz": 1419
+	},
+	{
+		"fideid": 13445022,
+		"name": "Nasirova, Khana",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1778,
+		"rating_rapid": 1402,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13414224,
+		"name": "Tahirova, Sevil",
+		"country": "AZE",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "w",
+		"rating_standard": 1778,
+		"rating_rapid": 1740,
+		"rating_blitz": 1734
 	},
 	{
 		"fideid": 13409190,
@@ -12832,7 +12849,7 @@
 		"flag": "i",
 		"rating_standard": 1777,
 		"rating_rapid": 1646,
-		"rating_blitz": 1750
+		"rating_blitz": 1732
 	},
 	{
 		"fideid": 13404156,
@@ -12979,13 +12996,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1774,
-		"rating_rapid": 1826,
-		"rating_blitz": 1672
+		"rating_rapid": 1796,
+		"rating_blitz": 1732
 	},
 	{
 		"fideid": 13427571,
@@ -13013,13 +13030,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1773,
-		"rating_rapid": 1739,
-		"rating_blitz": 1739
+		"rating_rapid": 1809,
+		"rating_blitz": 1731
 	},
 	{
 		"fideid": 13443623,
@@ -13086,7 +13103,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1772,
-		"rating_rapid": 1692,
+		"rating_rapid": 1675,
 		"rating_blitz": 1555
 	},
 	{
@@ -13098,13 +13115,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1772,
-		"rating_rapid": 1692,
-		"rating_blitz": 1720
+		"rating_rapid": 1780,
+		"rating_blitz": 1777
 	},
 	{
 		"fideid": 13407201,
@@ -13319,7 +13336,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1993,
 		"flag": "",
@@ -13583,6 +13600,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13441930,
+		"name": "Mirzaliyeva, Leyla",
+		"country": "AZE",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1762,
+		"rating_rapid": 1669,
+		"rating_blitz": 1484
+	},
+	{
 		"fideid": 13415468,
 		"name": "Muradli, Omar",
 		"country": "AZE",
@@ -13642,7 +13676,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -13931,7 +13965,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -13948,12 +13982,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1755,
-		"rating_rapid": 1727,
+		"rating_rapid": 1733,
 		"rating_blitz": 1693
 	},
 	{
@@ -14229,6 +14263,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13475860,
+		"name": "Ganizada, Nurlan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1751,
+		"rating_rapid": 1758,
+		"rating_blitz": 1668
+	},
+	{
 		"fideid": 13491199,
 		"name": "Karimov, Isgandar",
 		"country": "AZE",
@@ -14237,7 +14288,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -14344,8 +14395,8 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1749,
-		"rating_rapid": 1606,
-		"rating_blitz": 1555
+		"rating_rapid": 1631,
+		"rating_blitz": 1554
 	},
 	{
 		"fideid": 13402919,
@@ -14407,7 +14458,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -14441,13 +14492,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1748,
-		"rating_rapid": 1701,
-		"rating_blitz": 1555
+		"rating_rapid": 1668,
+		"rating_blitz": 1547
 	},
 	{
 		"fideid": 13410474,
@@ -14618,23 +14669,6 @@
 		"rating_standard": 1744,
 		"rating_rapid": null,
 		"rating_blitz": 1684
-	},
-	{
-		"fideid": 13441930,
-		"name": "Mirzaliyeva, Leyla",
-		"country": "AZE",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1744,
-		"rating_rapid": 1669,
-		"rating_blitz": 1484
 	},
 	{
 		"fideid": 13401530,
@@ -14883,13 +14917,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": 1738,
-		"rating_rapid": 1619,
-		"rating_blitz": 1625
+		"rating_rapid": 1608,
+		"rating_blitz": 1618
 	},
 	{
 		"fideid": 13405829,
@@ -15026,6 +15060,23 @@
 		"rating_standard": 1737,
 		"rating_rapid": 1753,
 		"rating_blitz": 1751
+	},
+	{
+		"fideid": 13439316,
+		"name": "Mirzayev, Emil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1737,
+		"rating_rapid": 1728,
+		"rating_blitz": 1586
 	},
 	{
 		"fideid": 13475843,
@@ -15206,7 +15257,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -15325,7 +15376,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2003,
 		"flag": "",
@@ -15342,7 +15393,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -15402,6 +15453,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13407066,
+		"name": "Hajiyev, Teymur",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1728,
+		"rating_rapid": 1739,
+		"rating_blitz": 1769
+	},
+	{
 		"fideid": 13428012,
 		"name": "Huseynov, Vahid",
 		"country": "AZE",
@@ -15451,23 +15519,6 @@
 		"rating_standard": 1728,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13439316,
-		"name": "Mirzayev, Emil",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1728,
-		"rating_rapid": 1728,
-		"rating_blitz": 1586
 	},
 	{
 		"fideid": 13430130,
@@ -15521,23 +15572,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13407066,
-		"name": "Hajiyev, Teymur",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1726,
-		"rating_rapid": 1739,
-		"rating_blitz": 1769
-	},
-	{
 		"fideid": 13403230,
 		"name": "Hummatov, Hummat",
 		"country": "AZE",
@@ -15572,6 +15606,23 @@
 		"rating_blitz": 1666
 	},
 	{
+		"fideid": 13423029,
+		"name": "Israfilov, Emil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1726,
+		"rating_rapid": 1652,
+		"rating_blitz": 1646
+	},
+	{
 		"fideid": 13410903,
 		"name": "Rahimov, Hasan",
 		"country": "AZE",
@@ -15597,13 +15648,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1726,
-		"rating_rapid": 1635,
-		"rating_blitz": 1523
+		"rating_rapid": 1572,
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 13429590,
@@ -15773,7 +15824,7 @@
 		"flag": "",
 		"rating_standard": 1721,
 		"rating_rapid": 1759,
-		"rating_blitz": 1631
+		"rating_blitz": 1605
 	},
 	{
 		"fideid": 13414119,
@@ -16045,23 +16096,6 @@
 		"flag": "",
 		"rating_standard": 1715,
 		"rating_rapid": 1634,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13445022,
-		"name": "Nasirova, Khana",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1714,
-		"rating_rapid": 1402,
 		"rating_blitz": null
 	},
 	{
@@ -16379,13 +16413,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1708,
-		"rating_rapid": 1578,
-		"rating_blitz": 1508
+		"rating_rapid": 1611,
+		"rating_blitz": 1548
 	},
 	{
 		"fideid": 13418890,
@@ -16401,7 +16435,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1708,
-		"rating_rapid": 1709,
+		"rating_rapid": 1648,
 		"rating_blitz": 1728
 	},
 	{
@@ -16488,6 +16522,23 @@
 		"rating_standard": 1705,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13455567,
+		"name": "Humbatli, Leyla",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1705,
+		"rating_rapid": 1660,
+		"rating_blitz": 1724
 	},
 	{
 		"fideid": 13448790,
@@ -16668,13 +16719,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1703,
-		"rating_rapid": 1544,
-		"rating_blitz": 1488
+		"rating_rapid": 1556,
+		"rating_blitz": 1484
 	},
 	{
 		"fideid": 13410466,
@@ -17000,23 +17051,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13423029,
-		"name": "Israfilov, Emil",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1698,
-		"rating_rapid": 1609,
-		"rating_blitz": 1646
-	},
-	{
 		"fideid": 13408305,
 		"name": "Akbarov, Farid",
 		"country": "AZE",
@@ -17076,7 +17110,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -17195,7 +17229,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -17217,7 +17251,7 @@
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": 1695,
-		"rating_rapid": 1759,
+		"rating_rapid": 1746,
 		"rating_blitz": 1717
 	},
 	{
@@ -17625,7 +17659,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1688,
-		"rating_rapid": 1738,
+		"rating_rapid": 1671,
 		"rating_blitz": 1650
 	},
 	{
@@ -17712,6 +17746,23 @@
 		"rating_standard": 1687,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13420798,
+		"name": "Azimzada, Mahammad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1686,
+		"rating_rapid": 1740,
+		"rating_blitz": 1729
 	},
 	{
 		"fideid": 13408585,
@@ -17812,7 +17863,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1685,
-		"rating_rapid": 1706,
+		"rating_rapid": 1698,
 		"rating_blitz": 1844
 	},
 	{
@@ -17977,7 +18028,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -18190,23 +18241,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13475860,
-		"name": "Ganizada, Nurlan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1678,
-		"rating_rapid": 1758,
-		"rating_blitz": 1668
-	},
-	{
 		"fideid": 13420550,
 		"name": "Ismayil, Seljan",
 		"country": "AZE",
@@ -18402,12 +18436,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1676,
-		"rating_rapid": 1619,
+		"rating_rapid": 1679,
 		"rating_blitz": 1905
 	},
 	{
@@ -18443,23 +18477,6 @@
 		"rating_standard": 1675,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13473476,
-		"name": "Huseynov, Mikayil",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 13,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1675,
-		"rating_rapid": 1463,
-		"rating_blitz": 1544
 	},
 	{
 		"fideid": 13424734,
@@ -18632,21 +18649,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13469282,
-		"name": "Ahadzade, Yusif",
+		"fideid": 13463365,
+		"name": "Rahmanova, Nargiz",
 		"country": "AZE",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 9,
 		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1670,
-		"rating_rapid": 1815,
-		"rating_blitz": 1663
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1672,
+		"rating_rapid": 1747,
+		"rating_blitz": 1442
 	},
 	{
 		"fideid": 13468430,
@@ -19210,6 +19227,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13472771,
+		"name": "Konovalov, Daniel",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1663,
+		"rating_rapid": 1596,
+		"rating_blitz": 1589
+	},
+	{
 		"fideid": 13456920,
 		"name": "Abdullazade, Beyrak",
 		"country": "AZE",
@@ -19342,7 +19376,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1661,
-		"rating_rapid": 1521,
+		"rating_rapid": 1535,
 		"rating_blitz": 1487
 	},
 	{
@@ -19354,7 +19388,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -19444,7 +19478,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1659,
-		"rating_rapid": 1726,
+		"rating_rapid": 1703,
 		"rating_blitz": 1703
 	},
 	{
@@ -19497,6 +19531,23 @@
 		"rating_standard": 1658,
 		"rating_rapid": 1610,
 		"rating_blitz": 1649
+	},
+	{
+		"fideid": 13422774,
+		"name": "Bakikhanov, Fail",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1658,
+		"rating_rapid": 1552,
+		"rating_blitz": 1522
 	},
 	{
 		"fideid": 13477242,
@@ -20009,6 +20060,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13477706,
+		"name": "Javadov, Rufat",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1652,
+		"rating_rapid": 1507,
+		"rating_blitz": 1513
+	},
+	{
 		"fideid": 13404822,
 		"name": "Shavrugov, Elshad",
 		"country": "AZE",
@@ -20230,23 +20298,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13455567,
-		"name": "Humbatli, Leyla",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1649,
-		"rating_rapid": 1622,
-		"rating_blitz": 1724
-	},
-	{
 		"fideid": 13419870,
 		"name": "Huseynbayli, Huseyn",
 		"country": "AZE",
@@ -20396,25 +20447,25 @@
 		"birthday": 2013,
 		"flag": "i",
 		"rating_standard": 1646,
-		"rating_rapid": 1589,
+		"rating_rapid": 1677,
 		"rating_blitz": 1630
 	},
 	{
-		"fideid": 13420798,
-		"name": "Azimzada, Mahammad",
+		"fideid": 13473476,
+		"name": "Huseynov, Mikayil",
 		"country": "AZE",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
+		"birthday": 2015,
+		"flag": "",
 		"rating_standard": 1646,
-		"rating_rapid": 1740,
-		"rating_blitz": 1729
+		"rating_rapid": 1463,
+		"rating_blitz": 1544
 	},
 	{
 		"fideid": 13403249,
@@ -20672,6 +20723,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13456024,
+		"name": "Mammadli, Tahir",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1643,
+		"rating_rapid": 1699,
+		"rating_blitz": 1692
+	},
+	{
 		"fideid": 13423150,
 		"name": "Mammadov, Rashad",
 		"country": "AZE",
@@ -20703,7 +20771,7 @@
 		"flag": "",
 		"rating_standard": 1643,
 		"rating_rapid": 1651,
-		"rating_blitz": 1651
+		"rating_blitz": 1615
 	},
 	{
 		"fideid": 13455630,
@@ -20995,23 +21063,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13457497,
-		"name": "Ismayilov, Aliakbar",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1639,
-		"rating_rapid": 1643,
-		"rating_blitz": 1471
-	},
-	{
 		"fideid": 13441329,
 		"name": "Mammadov, Islam",
 		"country": "AZE",
@@ -21165,6 +21216,23 @@
 		"rating_blitz": 1633
 	},
 	{
+		"fideid": 13457497,
+		"name": "Ismayilov, Aliakbar",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1637,
+		"rating_rapid": 1541,
+		"rating_blitz": 1448
+	},
+	{
 		"fideid": 13408631,
 		"name": "Jafarli, Gandab",
 		"country": "AZE",
@@ -21190,7 +21258,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -21214,23 +21282,6 @@
 		"rating_standard": 1637,
 		"rating_rapid": 1426,
 		"rating_blitz": 1446
-	},
-	{
-		"fideid": 13463365,
-		"name": "Rahmanova, Nargiz",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1637,
-		"rating_rapid": 1747,
-		"rating_blitz": 1442
 	},
 	{
 		"fideid": 13418050,
@@ -21284,6 +21335,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13461443,
+		"name": "Eyvazov, Hasan Khagani",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1635,
+		"rating_rapid": 1487,
+		"rating_blitz": 1537
+	},
+	{
 		"fideid": 13427792,
 		"name": "Hajiyev, Musa",
 		"country": "AZE",
@@ -21299,23 +21367,6 @@
 		"rating_standard": 1635,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13456024,
-		"name": "Mammadli, Tahir",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1635,
-		"rating_rapid": 1612,
-		"rating_blitz": 1692
 	},
 	{
 		"fideid": 13424980,
@@ -21471,21 +21522,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13477706,
-		"name": "Javadov, Rufat",
+		"fideid": 13469282,
+		"name": "Ahadzade, Yusif",
 		"country": "AZE",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 8,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1632,
-		"rating_rapid": 1507,
-		"rating_blitz": 1513
+		"rating_standard": 1631,
+		"rating_rapid": 1815,
+		"rating_blitz": 1663
 	},
 	{
 		"fideid": 13468995,
@@ -21496,30 +21547,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1631,
-		"rating_rapid": 1557,
+		"rating_rapid": 1585,
 		"rating_blitz": 1477
-	},
-	{
-		"fideid": 13449907,
-		"name": "Hasanli, Aisha",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "wi",
-		"rating_standard": 1631,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13455664,
@@ -21615,12 +21649,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1630,
-		"rating_rapid": 1627,
+		"rating_rapid": 1683,
 		"rating_blitz": 1662
 	},
 	{
@@ -21726,23 +21760,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13472771,
-		"name": "Konovalov, Daniel",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1628,
-		"rating_rapid": 1620,
-		"rating_blitz": 1577
-	},
-	{
 		"fideid": 13434446,
 		"name": "Maharramli, Ali",
 		"country": "AZE",
@@ -21775,23 +21792,6 @@
 		"rating_standard": 1628,
 		"rating_rapid": 1649,
 		"rating_blitz": 1596
-	},
-	{
-		"fideid": 13420380,
-		"name": "Rzali, Leyla",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1628,
-		"rating_rapid": 1652,
-		"rating_blitz": 1673
 	},
 	{
 		"fideid": 13415271,
@@ -21947,23 +21947,6 @@
 		"rating_blitz": 1565
 	},
 	{
-		"fideid": 13455729,
-		"name": "Aghamirzayeva, Rena",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1624,
-		"rating_rapid": 1469,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13432850,
 		"name": "Maharramli, Sarkhan",
 		"country": "AZE",
@@ -22057,13 +22040,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1623,
-		"rating_rapid": 1639,
-		"rating_blitz": 1559
+		"rating_rapid": 1638,
+		"rating_blitz": 1551
 	},
 	{
 		"fideid": 13425285,
@@ -22168,6 +22151,23 @@
 		"rating_blitz": 1584
 	},
 	{
+		"fideid": 13455729,
+		"name": "Aghamirzayeva, Rena",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1622,
+		"rating_rapid": 1469,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13431560,
 		"name": "Alakbarli, Inji",
 		"country": "AZE",
@@ -22210,30 +22210,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1975,
 		"flag": "w",
 		"rating_standard": 1622,
 		"rating_rapid": null,
 		"rating_blitz": 1532
-	},
-	{
-		"fideid": 13422774,
-		"name": "Bakikhanov, Fail",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1621,
-		"rating_rapid": 1585,
-		"rating_blitz": 1522
 	},
 	{
 		"fideid": 13420453,
@@ -22336,6 +22319,40 @@
 		"rating_standard": 1620,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13420380,
+		"name": "Rzali, Leyla",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1620,
+		"rating_rapid": 1652,
+		"rating_blitz": 1673
+	},
+	{
+		"fideid": 13471104,
+		"name": "Garayev, Rahman",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1618,
+		"rating_rapid": 1526,
+		"rating_blitz": 1504
 	},
 	{
 		"fideid": 13425030,
@@ -22567,13 +22584,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1615,
-		"rating_rapid": 1547,
-		"rating_blitz": 1644
+		"rating_rapid": 1504,
+		"rating_blitz": 1671
 	},
 	{
 		"fideid": 13420526,
@@ -22759,7 +22776,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1612,
-		"rating_rapid": 1409,
+		"rating_rapid": 1434,
 		"rating_blitz": 1431
 	},
 	{
@@ -22776,7 +22793,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1612,
-		"rating_rapid": 1447,
+		"rating_rapid": 1415,
 		"rating_blitz": null
 	},
 	{
@@ -22912,7 +22929,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1611,
-		"rating_rapid": 1518,
+		"rating_rapid": 1478,
 		"rating_blitz": 1525
 	},
 	{
@@ -22965,23 +22982,6 @@
 		"rating_standard": 1611,
 		"rating_rapid": 1547,
 		"rating_blitz": 1629
-	},
-	{
-		"fideid": 13461443,
-		"name": "Eyvazov, Hasan Khagani",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1609,
-		"rating_rapid": 1496,
-		"rating_blitz": 1537
 	},
 	{
 		"fideid": 13454749,
@@ -23188,6 +23188,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13489232,
+		"name": "Mammadov, Ismayil Javid",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1608,
+		"rating_rapid": 1425,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13422944,
 		"name": "Mirzali, Malik",
 		"country": "AZE",
@@ -23388,7 +23405,7 @@
 		"birthday": 2000,
 		"flag": "i",
 		"rating_standard": 1605,
-		"rating_rapid": 1550,
+		"rating_rapid": 1731,
 		"rating_blitz": 1637
 	},
 	{
@@ -23474,24 +23491,7 @@
 		"flag": "",
 		"rating_standard": 1605,
 		"rating_rapid": 1886,
-		"rating_blitz": 1889
-	},
-	{
-		"fideid": 13439111,
-		"name": "Nurahmadli, Aylin",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1605,
-		"rating_rapid": 1435,
-		"rating_blitz": 1533
+		"rating_blitz": 1884
 	},
 	{
 		"fideid": 13425420,
@@ -23536,7 +23536,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -23553,7 +23553,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "",
@@ -23575,7 +23575,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1604,
-		"rating_rapid": 1478,
+		"rating_rapid": 1464,
 		"rating_blitz": 1486
 	},
 	{
@@ -23764,6 +23764,23 @@
 		"rating_standard": 1602,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13458582,
+		"name": "Humbatli, Khanimzar",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1602,
+		"rating_rapid": 1619,
+		"rating_blitz": 1428
 	},
 	{
 		"fideid": 13445766,
@@ -24182,7 +24199,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -24223,23 +24240,6 @@
 		"rating_standard": 1597,
 		"rating_rapid": 1621,
 		"rating_blitz": 1634
-	},
-	{
-		"fideid": 13484346,
-		"name": "Alizade, Isa",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1596,
-		"rating_rapid": 1436,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13432494,
@@ -24376,6 +24376,23 @@
 		"rating_standard": 1595,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13466615,
+		"name": "Jafarova, Shahane",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1595,
+		"rating_rapid": 1599,
+		"rating_blitz": 1601
 	},
 	{
 		"fideid": 13418394,
@@ -24680,8 +24697,8 @@
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": 1591,
-		"rating_rapid": 1607,
-		"rating_blitz": 1551
+		"rating_rapid": 1608,
+		"rating_blitz": 1580
 	},
 	{
 		"fideid": 13447106,
@@ -24973,6 +24990,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13435280,
+		"name": "Guliyeva, Aylin",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1589,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13489895,
 		"name": "Guliyeva, Sabina",
 		"country": "AZE",
@@ -25066,7 +25100,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1993,
 		"flag": "",
@@ -25344,7 +25378,7 @@
 		"flag": "",
 		"rating_standard": 1585,
 		"rating_rapid": 1675,
-		"rating_blitz": 1674
+		"rating_blitz": 1649
 	},
 	{
 		"fideid": 13423975,
@@ -25464,23 +25498,6 @@
 		"rating_standard": 1584,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13466615,
-		"name": "Jafarova, Shahane",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1584,
-		"rating_rapid": 1599,
-		"rating_blitz": 1601
 	},
 	{
 		"fideid": 13418378,
@@ -25653,6 +25670,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13464370,
+		"name": "Nadzhafov, Timur",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1582,
+		"rating_rapid": 1524,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13432788,
 		"name": "Namazov, Ilham",
 		"country": "AZE",
@@ -25729,7 +25763,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -25763,7 +25797,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -25802,7 +25836,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1580,
-		"rating_rapid": 1637,
+		"rating_rapid": 1711,
 		"rating_blitz": null
 	},
 	{
@@ -26010,6 +26044,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13439111,
+		"name": "Nurahmadli, Aylin",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1579,
+		"rating_rapid": 1435,
+		"rating_blitz": 1533
+	},
+	{
 		"fideid": 13413988,
 		"name": "Shahmuradov, Nihat",
 		"country": "AZE",
@@ -26057,7 +26108,7 @@
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": 1578,
-		"rating_rapid": 1753,
+		"rating_rapid": 1731,
 		"rating_blitz": 1652
 	},
 	{
@@ -26163,6 +26214,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13471236,
+		"name": "Poladli, Firuz",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13448412,
 		"name": "Salamov, Namig",
 		"country": "AZE",
@@ -26195,6 +26263,23 @@
 		"rating_standard": 1576,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13469002,
+		"name": "Akhundov, Davud",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1576,
+		"rating_rapid": null,
+		"rating_blitz": 1514
 	},
 	{
 		"fideid": 13425145,
@@ -26363,7 +26448,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1575,
-		"rating_rapid": 1514,
+		"rating_rapid": 1528,
 		"rating_blitz": 1546
 	},
 	{
@@ -26494,7 +26579,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -26551,23 +26636,6 @@
 		"flag": "i",
 		"rating_standard": 1573,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13464370,
-		"name": "Nadzhafov, Timur",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1573,
-		"rating_rapid": 1524,
 		"rating_blitz": null
 	},
 	{
@@ -26698,12 +26766,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1572,
-		"rating_rapid": 1561,
+		"rating_rapid": 1591,
 		"rating_blitz": 1539
 	},
 	{
@@ -26758,23 +26826,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13471104,
-		"name": "Garayev, Rahman",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1571,
-		"rating_rapid": 1526,
-		"rating_blitz": 1504
-	},
-	{
 		"fideid": 13466925,
 		"name": "Karimli, Parvin",
 		"country": "AZE",
@@ -26800,12 +26851,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1571,
-		"rating_rapid": 1534,
+		"rating_rapid": 1553,
 		"rating_blitz": 1589
 	},
 	{
@@ -26942,7 +26993,7 @@
 		"flag": "",
 		"rating_standard": 1570,
 		"rating_rapid": 1708,
-		"rating_blitz": 1657
+		"rating_blitz": 1629
 	},
 	{
 		"fideid": 13426435,
@@ -26979,21 +27030,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13435280,
-		"name": "Guliyeva, Aylin",
+		"fideid": 13452991,
+		"name": "Hasanli, Rauf",
 		"country": "AZE",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 5,
 		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
+		"birthday": 2011,
+		"flag": "",
 		"rating_standard": 1569,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1464,
+		"rating_blitz": 1482
 	},
 	{
 		"fideid": 13439448,
@@ -27028,23 +27079,6 @@
 		"rating_standard": 1569,
 		"rating_rapid": null,
 		"rating_blitz": 1518
-	},
-	{
-		"fideid": 13469002,
-		"name": "Akhundov, Davud",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1568,
-		"rating_rapid": null,
-		"rating_blitz": 1554
 	},
 	{
 		"fideid": 13473069,
@@ -27115,6 +27149,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13475932,
+		"name": "Tahirov, Yusif",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1568,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13424092,
 		"name": "Aghayeva, Gulsanam",
 		"country": "AZE",
@@ -27140,7 +27191,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -27183,23 +27234,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13464671,
-		"name": "Mammadrzayev, Renat",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1567,
-		"rating_rapid": 1498,
-		"rating_blitz": 1554
-	},
-	{
 		"fideid": 13419285,
 		"name": "Shahmarli, Ibrahim",
 		"country": "AZE",
@@ -27232,6 +27266,23 @@
 		"rating_standard": 1566,
 		"rating_rapid": 1524,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13474979,
+		"name": "Aliyeva, Ayla",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1566,
+		"rating_rapid": 1431,
+		"rating_blitz": 1464
 	},
 	{
 		"fideid": 13469819,
@@ -27574,23 +27625,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13478214,
-		"name": "Eyyubov, Raul",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1562,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13444786,
 		"name": "Fatullayev, Emin",
 		"country": "AZE",
@@ -27744,23 +27778,6 @@
 		"rating_blitz": 1528
 	},
 	{
-		"fideid": 13458582,
-		"name": "Humbatli, Khanimzar",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1561,
-		"rating_rapid": 1637,
-		"rating_blitz": 1428
-	},
-	{
 		"fideid": 13417274,
 		"name": "Ibrahimzade, Asmar",
 		"country": "AZE",
@@ -27825,7 +27842,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1561,
-		"rating_rapid": 1551,
+		"rating_rapid": 1580,
 		"rating_blitz": 1551
 	},
 	{
@@ -28296,7 +28313,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -28339,23 +28356,6 @@
 		"rating_blitz": 1473
 	},
 	{
-		"fideid": 13459341,
-		"name": "Ganbarli, Davud",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1556,
-		"rating_rapid": 1475,
-		"rating_blitz": 1432
-	},
-	{
 		"fideid": 13429213,
 		"name": "Husuyev, Nihad",
 		"country": "AZE",
@@ -28384,23 +28384,6 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1556,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13471236,
-		"name": "Poladli, Firuz",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1556,
 		"rating_rapid": null,
@@ -28534,13 +28517,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1555,
 		"rating_rapid": 1519,
 		"rating_blitz": 1493
+	},
+	{
+		"fideid": 13454854,
+		"name": "Karim, Abdullah",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1555,
+		"rating_rapid": 1482,
+		"rating_blitz": 1424
 	},
 	{
 		"fideid": 13435604,
@@ -28585,7 +28585,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -29044,7 +29044,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -29066,7 +29066,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1549,
-		"rating_rapid": 1525,
+		"rating_rapid": 1535,
 		"rating_blitz": null
 	},
 	{
@@ -29172,23 +29172,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13462555,
-		"name": "Afandiyev, Tamerlan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1548,
-		"rating_rapid": 1433,
-		"rating_blitz": 1401
-	},
-	{
 		"fideid": 13429655,
 		"name": "Aliyev, Shahin",
 		"country": "AZE",
@@ -29289,6 +29272,23 @@
 		"rating_standard": 1548,
 		"rating_rapid": 1488,
 		"rating_blitz": 1488
+	},
+	{
+		"fideid": 13477730,
+		"name": "Ismayilov, Rashid",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1548,
+		"rating_rapid": 1433,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13424416,
@@ -29797,7 +29797,7 @@
 		"birthday": 2001,
 		"flag": "i",
 		"rating_standard": 1544,
-		"rating_rapid": 1546,
+		"rating_rapid": 1510,
 		"rating_blitz": 1641
 	},
 	{
@@ -29962,7 +29962,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -29996,12 +29996,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1543,
-		"rating_rapid": 1513,
+		"rating_rapid": 1578,
 		"rating_blitz": 1595
 	},
 	{
@@ -30477,7 +30477,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1540,
-		"rating_rapid": 1444,
+		"rating_rapid": 1454,
 		"rating_blitz": null
 	},
 	{
@@ -30496,6 +30496,23 @@
 		"rating_standard": 1540,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13455753,
+		"name": "Safarli, Mahammad Elshan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1540,
+		"rating_rapid": 1516,
+		"rating_blitz": 1486
 	},
 	{
 		"fideid": 13445456,
@@ -30766,7 +30783,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1538,
-		"rating_rapid": 1498,
+		"rating_rapid": 1492,
 		"rating_blitz": null
 	},
 	{
@@ -30812,7 +30829,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -30853,23 +30870,6 @@
 		"rating_standard": 1538,
 		"rating_rapid": 1522,
 		"rating_blitz": 1483
-	},
-	{
-		"fideid": 13469525,
-		"name": "Mastiyeva, Mehin",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 7,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1538,
-		"rating_rapid": 1445,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13430904,
@@ -31067,7 +31067,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 2007,
 		"flag": "w",
@@ -31169,7 +31169,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -31186,7 +31186,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -31339,7 +31339,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -31465,23 +31465,6 @@
 		"rating_standard": 1534,
 		"rating_rapid": 1461,
 		"rating_blitz": 1445
-	},
-	{
-		"fideid": 13432796,
-		"name": "Abdullayev, Raul",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1533,
-		"rating_rapid": 1656,
-		"rating_blitz": 1609
 	},
 	{
 		"fideid": 13428977,
@@ -31739,6 +31722,23 @@
 		"rating_blitz": 1534
 	},
 	{
+		"fideid": 13474243,
+		"name": "Huseynov, Kemaleddin",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1532,
+		"rating_rapid": 1538,
+		"rating_blitz": 1449
+	},
+	{
 		"fideid": 13430645,
 		"name": "Muttalibov, Rashad",
 		"country": "AZE",
@@ -31770,7 +31770,7 @@
 		"flag": "",
 		"rating_standard": 1532,
 		"rating_rapid": 1457,
-		"rating_blitz": 1532
+		"rating_blitz": 1586
 	},
 	{
 		"fideid": 13471597,
@@ -31781,12 +31781,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1531,
 		"rating_rapid": 1411,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13484346,
+		"name": "Alizade, Isa",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1531,
+		"rating_rapid": 1441,
 		"rating_blitz": null
 	},
 	{
@@ -31798,7 +31815,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -31822,6 +31839,23 @@
 		"rating_standard": 1531,
 		"rating_rapid": 1422,
 		"rating_blitz": 1469
+	},
+	{
+		"fideid": 13493213,
+		"name": "Guliyeva, Ahu",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1531,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13424114,
@@ -31968,7 +32002,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
@@ -32094,23 +32128,6 @@
 		"rating_standard": 1530,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13463918,
-		"name": "Aliyev, Omar Rafig",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1529,
-		"rating_rapid": 1540,
-		"rating_blitz": 1530
 	},
 	{
 		"fideid": 13492284,
@@ -32631,7 +32648,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -32689,6 +32706,23 @@
 		"rating_standard": 1526,
 		"rating_rapid": 1546,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13464671,
+		"name": "Mammadrzayev, Renat",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1526,
+		"rating_rapid": 1498,
+		"rating_blitz": 1554
 	},
 	{
 		"fideid": 13485199,
@@ -32835,7 +32869,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -32869,7 +32903,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -32892,7 +32926,7 @@
 		"flag": "",
 		"rating_standard": 1525,
 		"rating_rapid": 1508,
-		"rating_blitz": 1538
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 13433660,
@@ -32941,6 +32975,23 @@
 		"k": 40,
 		"birthday": 1997,
 		"flag": "wi",
+		"rating_standard": 1524,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13482696,
+		"name": "Mammadsoy, Mahammad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
 		"rating_standard": 1524,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -33039,7 +33090,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -33328,12 +33379,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1520,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13469401,
+		"name": "Isbatov, Tahir",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1520,
+		"rating_rapid": 1488,
 		"rating_blitz": null
 	},
 	{
@@ -33349,6 +33417,23 @@
 		"k": 20,
 		"birthday": 2007,
 		"flag": "i",
+		"rating_standard": 1520,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13417347,
+		"name": "Najafov, Rufat",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
 		"rating_standard": 1520,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -33668,13 +33753,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1517,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13459341,
+		"name": "Ganbarli, Davud",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1517,
+		"rating_rapid": 1475,
+		"rating_blitz": 1432
 	},
 	{
 		"fideid": 13453033,
@@ -33692,23 +33794,6 @@
 		"rating_standard": 1517,
 		"rating_rapid": 1493,
 		"rating_blitz": 1545
-	},
-	{
-		"fideid": 13452991,
-		"name": "Hasanli, Rauf",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1517,
-		"rating_rapid": 1464,
-		"rating_blitz": 1482
 	},
 	{
 		"fideid": 13422430,
@@ -33838,7 +33923,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -33949,6 +34034,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13432796,
+		"name": "Abdullayev, Raul",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1515,
+		"rating_rapid": 1656,
+		"rating_blitz": 1609
+	},
+	{
 		"fideid": 13467972,
 		"name": "Aliyev, Murad",
 		"country": "AZE",
@@ -33991,7 +34093,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -34127,7 +34229,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -34314,7 +34416,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "w",
@@ -34403,6 +34505,23 @@
 		"k": 40,
 		"birthday": 1990,
 		"flag": "i",
+		"rating_standard": 1512,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13478214,
+		"name": "Eyyubov, Raul",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
 		"rating_standard": 1512,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -34646,6 +34765,23 @@
 		"rating_blitz": 1438
 	},
 	{
+		"fideid": 13465791,
+		"name": "Garaisali, Murad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1510,
+		"rating_rapid": 1656,
+		"rating_blitz": 1494
+	},
+	{
 		"fideid": 13465902,
 		"name": "Huseynov, Hazi",
 		"country": "AZE",
@@ -34748,23 +34884,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13469320,
-		"name": "Rustamli, Nazli",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "w",
-		"rating_standard": 1510,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13441868,
 		"name": "Salayev, Bayram",
 		"country": "AZE",
@@ -34850,23 +34969,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13456067,
-		"name": "Hasanov, Ramin",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1509,
-		"rating_rapid": 1457,
-		"rating_blitz": 1550
-	},
-	{
 		"fideid": 13458752,
 		"name": "Huseynov, Mirzali",
 		"country": "AZE",
@@ -34926,12 +35028,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": 1509,
-		"rating_rapid": 1561,
+		"rating_rapid": 1509,
 		"rating_blitz": null
 	},
 	{
@@ -35105,6 +35207,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13459139,
+		"name": "Dotto, Amir",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1508,
+		"rating_rapid": 1482,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13464345,
 		"name": "Hasanli, Narmin",
 		"country": "AZE",
@@ -35113,7 +35232,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -35137,23 +35256,6 @@
 		"rating_standard": 1508,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13451022,
-		"name": "Abdullayev, Ahmad",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1507,
-		"rating_rapid": 1514,
-		"rating_blitz": 1617
 	},
 	{
 		"fideid": 13452878,
@@ -35207,6 +35309,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13449907,
+		"name": "Hasanli, Aisha",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1507,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13435884,
 		"name": "Huseynov, Emil",
 		"country": "AZE",
@@ -35221,7 +35340,7 @@
 		"flag": "",
 		"rating_standard": 1507,
 		"rating_rapid": 1609,
-		"rating_blitz": 1432
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 13424874,
@@ -35334,12 +35453,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1506,
-		"rating_rapid": 1626,
+		"rating_rapid": 1654,
 		"rating_blitz": 1488
 	},
 	{
@@ -35513,21 +35632,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13473212,
-		"name": "Hasanbayova, Amina",
+		"fideid": 13456067,
+		"name": "Hasanov, Ramin",
 		"country": "AZE",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
+		"games": 10,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
 		"rating_standard": 1505,
-		"rating_rapid": 1470,
-		"rating_blitz": 1572
+		"rating_rapid": 1461,
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 13422650,
@@ -35562,6 +35681,23 @@
 		"rating_standard": 1505,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13448765,
+		"name": "Karimli, Ughur",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1505,
+		"rating_rapid": 1458,
+		"rating_blitz": 1501
 	},
 	{
 		"fideid": 13426583,
@@ -35647,6 +35783,23 @@
 		"rating_standard": 1504,
 		"rating_rapid": 1501,
 		"rating_blitz": 1513
+	},
+	{
+		"fideid": 13476688,
+		"name": "Mirzayev, Mahammad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1504,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13410512,
@@ -35759,7 +35912,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -35783,23 +35936,6 @@
 		"rating_standard": 1503,
 		"rating_rapid": 1609,
 		"rating_blitz": 1507
-	},
-	{
-		"fideid": 13417347,
-		"name": "Najafov, Rufat",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1503,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13438069,
@@ -35955,6 +36091,40 @@
 		"rating_blitz": 1479
 	},
 	{
+		"fideid": 13469320,
+		"name": "Rustamli, Nazli",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": 1502,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13451022,
+		"name": "Abdullayev, Ahmad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1501,
+		"rating_rapid": 1514,
+		"rating_blitz": 1617
+	},
+	{
 		"fideid": 13431935,
 		"name": "Abdullayeva, Sama",
 		"country": "AZE",
@@ -36065,7 +36235,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -36257,7 +36427,7 @@
 		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": 1500,
-		"rating_rapid": 1632,
+		"rating_rapid": 1640,
 		"rating_blitz": 1600
 	},
 	{
@@ -36558,7 +36728,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -36615,23 +36785,6 @@
 		"flag": "i",
 		"rating_standard": 1498,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13478320,
-		"name": "Gasimov, Mikayil",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1498,
-		"rating_rapid": 1404,
 		"rating_blitz": null
 	},
 	{
@@ -36881,7 +37034,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -36958,23 +37111,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13486390,
-		"name": "Eryighit, Fatih",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1496,
-		"rating_rapid": 1491,
-		"rating_blitz": 1455
-	},
-	{
 		"fideid": 13467875,
 		"name": "Gurbanov, Fazil",
 		"country": "AZE",
@@ -36992,21 +37128,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13474243,
-		"name": "Huseynov, Kemaleddin",
+		"fideid": 13470485,
+		"name": "Karimli, Angelina",
 		"country": "AZE",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 8,
 		"k": 40,
-		"birthday": 2018,
-		"flag": "",
+		"birthday": 2015,
+		"flag": "w",
 		"rating_standard": 1496,
-		"rating_rapid": 1536,
-		"rating_blitz": 1449
+		"rating_rapid": null,
+		"rating_blitz": 1441
 	},
 	{
 		"fideid": 13443976,
@@ -37374,7 +37510,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -37398,23 +37534,6 @@
 		"rating_standard": 1493,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13465791,
-		"name": "Garaisali, Murad",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1493,
-		"rating_rapid": 1606,
-		"rating_blitz": 1546
 	},
 	{
 		"fideid": 13419269,
@@ -37448,6 +37567,23 @@
 		"flag": "wi",
 		"rating_standard": 1493,
 		"rating_rapid": 1440,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13469525,
+		"name": "Mastiyeva, Mehin",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1493,
+		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
 	{
@@ -37791,6 +37927,23 @@
 		"rating_blitz": 1520
 	},
 	{
+		"fideid": 13463918,
+		"name": "Aliyev, Omar Rafig",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1490,
+		"rating_rapid": 1540,
+		"rating_blitz": 1530
+	},
+	{
 		"fideid": 13489593,
 		"name": "Gubatov, Movlud",
 		"country": "AZE",
@@ -37918,13 +38071,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1490,
-		"rating_rapid": 1513,
-		"rating_blitz": null
+		"rating_rapid": 1501,
+		"rating_blitz": 1432
 	},
 	{
 		"fideid": 13468588,
@@ -38165,6 +38318,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13468960,
+		"name": "Makhsudsoy, Mustafa",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1488,
+		"rating_rapid": 1481,
+		"rating_blitz": 1454
+	},
+	{
 		"fideid": 13436171,
 		"name": "Orujov, Khalig",
 		"country": "AZE",
@@ -38177,23 +38347,6 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "i",
-		"rating_standard": 1488,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13462865,
-		"name": "Piriyeva, Narin",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
 		"rating_standard": 1488,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -38471,6 +38624,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13478320,
+		"name": "Gasimov, Mikayil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1485,
+		"rating_rapid": 1404,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13474480,
 		"name": "Hajiyev, Fuad",
 		"country": "AZE",
@@ -38484,7 +38654,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1485,
-		"rating_rapid": 1401,
+		"rating_rapid": 1417,
 		"rating_blitz": 1471
 	},
 	{
@@ -38547,7 +38717,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -38588,23 +38758,6 @@
 		"rating_standard": 1484,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13481827,
-		"name": "Ibrahimli, Aykhan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1484,
-		"rating_rapid": null,
-		"rating_blitz": 1487
 	},
 	{
 		"fideid": 13466569,
@@ -38896,6 +39049,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13491873,
+		"name": "Imanli, Emil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1481,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13435930,
 		"name": "Jabbarov, Nihat",
 		"country": "AZE",
@@ -38911,23 +39081,6 @@
 		"rating_standard": 1481,
 		"rating_rapid": null,
 		"rating_blitz": 1481
-	},
-	{
-		"fideid": 13487485,
-		"name": "Sideifzada, Saida",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "w",
-		"rating_standard": 1481,
-		"rating_rapid": 1425,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13442554,
@@ -39525,6 +39678,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13476505,
+		"name": "Aghayev, Suad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1476,
+		"rating_rapid": 1426,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13427555,
 		"name": "Aliyeva, Leyli",
 		"country": "AZE",
@@ -39574,23 +39744,6 @@
 		"rating_standard": 1476,
 		"rating_rapid": 1508,
 		"rating_blitz": 1562
-	},
-	{
-		"fideid": 13470485,
-		"name": "Karimli, Angelina",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1476,
-		"rating_rapid": null,
-		"rating_blitz": 1441
 	},
 	{
 		"fideid": 13446509,
@@ -39775,6 +39928,23 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "i",
+		"rating_standard": 1474,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13475878,
+		"name": "Babazada, Nofal",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
 		"rating_standard": 1474,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -39967,6 +40137,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13473212,
+		"name": "Hasanbayova, Amina",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1472,
+		"rating_rapid": 1457,
+		"rating_blitz": 1563
+	},
+	{
 		"fideid": 13460897,
 		"name": "Huseynzade, Oktay",
 		"country": "AZE",
@@ -39998,7 +40185,7 @@
 		"flag": "",
 		"rating_standard": 1472,
 		"rating_rapid": 1573,
-		"rating_blitz": 1581
+		"rating_blitz": 1612
 	},
 	{
 		"fideid": 13441590,
@@ -40031,7 +40218,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1472,
-		"rating_rapid": 1432,
+		"rating_rapid": 1420,
 		"rating_blitz": 1470
 	},
 	{
@@ -40111,7 +40298,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
@@ -40630,6 +40817,23 @@
 		"rating_blitz": 1471
 	},
 	{
+		"fideid": 13462555,
+		"name": "Afandiyev, Tamerlan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1468,
+		"rating_rapid": 1433,
+		"rating_blitz": 1401
+	},
+	{
 		"fideid": 13474642,
 		"name": "Atayev, Nijat",
 		"country": "AZE",
@@ -40902,23 +41106,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13468960,
-		"name": "Makhsudsoy, Mustafa",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1467,
-		"rating_rapid": 1466,
-		"rating_blitz": 1454
-	},
-	{
 		"fideid": 13453297,
 		"name": "Mukhtarli, Vural",
 		"country": "AZE",
@@ -41033,23 +41220,6 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "i",
-		"rating_standard": 1466,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13476688,
-		"name": "Mirzayev, Mahammad",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
 		"rating_standard": 1466,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -41769,23 +41939,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13469401,
-		"name": "Isbatov, Tahir",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1462,
-		"rating_rapid": 1488,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13416863,
 		"name": "Khalilov, Araz",
 		"country": "AZE",
@@ -42058,6 +42211,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13481924,
+		"name": "Mammadov, Faraj",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1460,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13475789,
 		"name": "Mehtiyeva, Alsu",
 		"country": "AZE",
@@ -42262,6 +42432,23 @@
 		"rating_blitz": 1530
 	},
 	{
+		"fideid": 13456750,
+		"name": "Aghazada, Shukur",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1458,
+		"rating_rapid": 1461,
+		"rating_blitz": 1403
+	},
+	{
 		"fideid": 13480391,
 		"name": "Farzaliyev, Nijat",
 		"country": "AZE",
@@ -42432,21 +42619,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13476505,
-		"name": "Aghayev, Suad",
+		"fideid": 13485458,
+		"name": "Talehli, Ughur",
 		"country": "AZE",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2019,
 		"flag": "",
-		"rating_standard": 1457,
-		"rating_rapid": 1426,
-		"rating_blitz": 1419
+		"rating_standard": 1458,
+		"rating_rapid": 1433,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13448501,
@@ -42462,7 +42649,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1457,
-		"rating_rapid": 1574,
+		"rating_rapid": 1535,
 		"rating_blitz": null
 	},
 	{
@@ -42704,23 +42891,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13469380,
-		"name": "Ekici, Pamir Azer",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1455,
-		"rating_rapid": null,
-		"rating_blitz": 1469
-	},
-	{
 		"fideid": 13457349,
 		"name": "Hasan, Sani",
 		"country": "AZE",
@@ -42746,7 +42916,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -42882,7 +43052,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -43486,23 +43656,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13448765,
-		"name": "Karimli, Ughur",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1450,
-		"rating_rapid": 1458,
-		"rating_blitz": 1501
-	},
-	{
 		"fideid": 13446088,
 		"name": "Nurlu, Yusif",
 		"country": "AZE",
@@ -43707,23 +43860,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13455753,
-		"name": "Safarli, Mahammad Elshan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1449,
-		"rating_rapid": 1516,
-		"rating_blitz": 1486
-	},
-	{
 		"fideid": 13450395,
 		"name": "Shamsaliyev, Ismayil",
 		"country": "AZE",
@@ -43756,23 +43892,6 @@
 		"rating_standard": 1448,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13478230,
-		"name": "Gafarov, Rafael",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1448,
-		"rating_rapid": 1416,
-		"rating_blitz": 1429
 	},
 	{
 		"fideid": 13453220,
@@ -43907,7 +44026,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1448,
-		"rating_rapid": 1476,
+		"rating_rapid": 1498,
 		"rating_blitz": 1476
 	},
 	{
@@ -44079,23 +44198,6 @@
 		"rating_standard": 1447,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13474979,
-		"name": "Aliyeva, Ayla",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1446,
-		"rating_rapid": 1431,
-		"rating_blitz": 1464
 	},
 	{
 		"fideid": 13422804,
@@ -44633,12 +44735,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1444,
-		"rating_rapid": 1458,
+		"rating_rapid": 1409,
 		"rating_blitz": 1411
 	},
 	{
@@ -44846,6 +44948,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13487485,
+		"name": "Sideifzada, Saida",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "w",
+		"rating_standard": 1443,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13422685,
 		"name": "Yagubova, Leyla",
 		"country": "AZE",
@@ -45046,7 +45165,7 @@
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": 1441,
-		"rating_rapid": 1432,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -45160,13 +45279,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1440,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13478230,
+		"name": "Gafarov, Rafael",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1440,
+		"rating_rapid": null,
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 13450948,
@@ -45313,7 +45449,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -45347,7 +45483,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
@@ -45458,23 +45594,6 @@
 		"rating_blitz": 1522
 	},
 	{
-		"fideid": 13456750,
-		"name": "Aghazada, Shukur",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1438,
-		"rating_rapid": 1461,
-		"rating_blitz": 1403
-	},
-	{
 		"fideid": 13430327,
 		"name": "Ahmadov, Ughur",
 		"country": "AZE",
@@ -45490,6 +45609,23 @@
 		"rating_standard": 1438,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13486390,
+		"name": "Eryighit, Fatih",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1438,
+		"rating_rapid": 1491,
+		"rating_blitz": 1407
 	},
 	{
 		"fideid": 13478745,
@@ -45608,7 +45744,7 @@
 		"flag": "",
 		"rating_standard": 1438,
 		"rating_rapid": 1479,
-		"rating_blitz": null
+		"rating_blitz": 1556
 	},
 	{
 		"fideid": 13452150,
@@ -45626,23 +45762,6 @@
 		"rating_standard": 1438,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13470701,
-		"name": "Zeidguliyev, Zeid",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1438,
-		"rating_rapid": null,
-		"rating_blitz": 1454
 	},
 	{
 		"fideid": 13419447,
@@ -45704,7 +45823,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -45760,7 +45879,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1437,
-		"rating_rapid": 1569,
+		"rating_rapid": 1515,
 		"rating_blitz": null
 	},
 	{
@@ -45830,23 +45949,6 @@
 		"rating_standard": 1437,
 		"rating_rapid": 1402,
 		"rating_blitz": 1426
-	},
-	{
-		"fideid": 13485458,
-		"name": "Talehli, Ughur",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2019,
-		"flag": "",
-		"rating_standard": 1437,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13463802,
@@ -45951,23 +46053,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13481924,
-		"name": "Mammadov, Faraj",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1436,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13442023,
 		"name": "Poladzade, Abdulvahab",
 		"country": "AZE",
@@ -46053,6 +46138,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13463934,
+		"name": "Asgarov, Kamil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1435,
+		"rating_rapid": 1523,
+		"rating_blitz": 1532
+	},
+	{
 		"fideid": 13466194,
 		"name": "Gadirov, Yunis",
 		"country": "AZE",
@@ -46061,12 +46163,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1435,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13438778,
+		"name": "Gulmammadov, Ujal",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1435,
+		"rating_rapid": 1460,
 		"rating_blitz": null
 	},
 	{
@@ -46197,7 +46316,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -46512,23 +46631,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13477072,
-		"name": "Rahimova, Amira",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "w",
-		"rating_standard": 1431,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13433733,
 		"name": "Yaraliyeva, Nuray",
 		"country": "AZE",
@@ -46544,23 +46646,6 @@
 		"rating_standard": 1431,
 		"rating_rapid": 1411,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13463934,
-		"name": "Asgarov, Kamil",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 1430,
-		"rating_rapid": 1529,
-		"rating_blitz": 1532
 	},
 	{
 		"fideid": 13481436,
@@ -46886,23 +46971,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13484508,
-		"name": "Ahmadov, Omar",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1428,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13445600,
 		"name": "Alizada, Shamkhal",
 		"country": "AZE",
@@ -46945,7 +47013,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -47029,7 +47097,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
@@ -47209,6 +47277,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13470701,
+		"name": "Zeidguliyev, Zeid",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1427,
+		"rating_rapid": null,
+		"rating_blitz": 1454
+	},
+	{
 		"fideid": 13466666,
 		"name": "Abbasova, Fatima",
 		"country": "AZE",
@@ -47362,6 +47447,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13492446,
+		"name": "Mirzayev, Samir",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1426,
+		"rating_rapid": 1451,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13483439,
 		"name": "Pirizade, Yagub",
 		"country": "AZE",
@@ -47481,6 +47583,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13469380,
+		"name": "Ekici, Pamir Azer",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 2,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1424,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13460480,
 		"name": "Hajiyeva, Leyla",
 		"country": "AZE",
@@ -47528,7 +47647,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1424,
-		"rating_rapid": 1494,
+		"rating_rapid": 1522,
 		"rating_blitz": 1517
 	},
 	{
@@ -47574,7 +47693,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -47736,40 +47855,6 @@
 		"rating_blitz": 1468
 	},
 	{
-		"fideid": 13469991,
-		"name": "Rustamzade, Daniz",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1423,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13463217,
-		"name": "Sadigli, Nuray",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1423,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13444654,
 		"name": "Bandaliyev, Turan",
 		"country": "AZE",
@@ -47838,6 +47923,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13469991,
+		"name": "Rustamzade, Daniz",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1422,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13424556,
 		"name": "Valiyeva, Mehriban",
 		"country": "AZE",
@@ -47897,7 +47999,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
@@ -48246,6 +48348,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13481827,
+		"name": "Ibrahimli, Aykhan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1418,
+		"rating_rapid": null,
+		"rating_blitz": 1487
+	},
+	{
 		"fideid": 13469835,
 		"name": "Javadov, Murad Safar",
 		"country": "AZE",
@@ -48260,7 +48379,7 @@
 		"flag": "",
 		"rating_standard": 1418,
 		"rating_rapid": 1423,
-		"rating_blitz": 1419
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13455796,
@@ -48645,30 +48764,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1414,
-		"rating_rapid": 1503,
-		"rating_blitz": 1462
-	},
-	{
-		"fideid": 13484621,
-		"name": "Askarova, Sabina Fahraddin",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1414,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1585,
+		"rating_blitz": 1462
 	},
 	{
 		"fideid": 13457411,
@@ -48994,6 +49096,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13462865,
+		"name": "Piriyeva, Narin",
+		"country": "AZE",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1412,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13474871,
 		"name": "Sadigov, Ali",
 		"country": "AZE",
@@ -49155,7 +49274,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2019,
 		"flag": "",
@@ -49194,7 +49313,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1411,
-		"rating_rapid": 1498,
+		"rating_rapid": 1530,
 		"rating_blitz": null
 	},
 	{
@@ -49334,6 +49453,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13484508,
+		"name": "Ahmadov, Omar",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1409,
+		"rating_rapid": 1445,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13470213,
 		"name": "Hashimov, Mikael",
 		"country": "AZE",
@@ -49342,7 +49478,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -49427,7 +49563,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -49580,7 +49716,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -49891,7 +50027,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1404,
-		"rating_rapid": 1496,
+		"rating_rapid": 1561,
 		"rating_blitz": 1415
 	},
 	{
@@ -49920,7 +50056,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
@@ -50061,7 +50197,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1402,
-		"rating_rapid": 1491,
+		"rating_rapid": 1485,
 		"rating_blitz": 1465
 	},
 	{
@@ -50099,23 +50235,6 @@
 		"rating_blitz": 1458
 	},
 	{
-		"fideid": 13475720,
-		"name": "Mehdiyev, Ali",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1402,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13432745,
 		"name": "Mustafayev, Ismayil",
 		"country": "AZE",
@@ -50130,23 +50249,6 @@
 		"flag": "i",
 		"rating_standard": 1402,
 		"rating_rapid": 1498,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13469339,
-		"name": "Rustamli, Inji",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "w",
-		"rating_standard": 1402,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -50243,12 +50345,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1485,
+		"rating_rapid": 1411,
 		"rating_blitz": null
 	},
 	{
@@ -50335,6 +50437,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1411,
 		"rating_blitz": 1507
+	},
+	{
+		"fideid": 13486209,
+		"name": "Abdullayev, Farid",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1629,
+		"rating_blitz": 1548
 	},
 	{
 		"fideid": 13449664,
@@ -50430,13 +50549,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1481,
-		"rating_blitz": null
+		"rating_blitz": 1454
 	},
 	{
 		"fideid": 13456725,
@@ -50498,7 +50617,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
@@ -50524,23 +50643,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13425641,
-		"name": "Aghazada, Aykhan",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1546,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13458434,
 		"name": "Aghazada, Aykhan",
 		"country": "AZE",
@@ -50555,6 +50657,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1450,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13425641,
+		"name": "Aghazada, Aykhan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1546,
 		"rating_blitz": null
 	},
 	{
@@ -50668,7 +50787,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -50707,7 +50826,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1527,
+		"rating_rapid": 1519,
 		"rating_blitz": null
 	},
 	{
@@ -50736,7 +50855,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -50838,7 +50957,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -50855,7 +50974,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -50906,7 +51025,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -50923,7 +51042,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -50940,7 +51059,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -50977,7 +51096,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1465,
 		"rating_blitz": null
@@ -51150,23 +51269,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1466,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13463683,
-		"name": "Alizada, Said",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1449,
 		"rating_blitz": null
 	},
 	{
@@ -51535,12 +51637,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1464,
+		"rating_rapid": 1414,
 		"rating_blitz": null
 	},
 	{
@@ -51654,7 +51756,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
@@ -51799,23 +51901,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13459139,
-		"name": "Dotto, Amir",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1482,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13485296,
 		"name": "Dushdurov, Javad",
 		"country": "AZE",
@@ -51858,7 +51943,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -51969,6 +52054,23 @@
 		"rating_blitz": 1438
 	},
 	{
+		"fideid": 13490818,
+		"name": "Gafarli, Ziya",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1577,
+		"rating_blitz": 1592
+	},
+	{
 		"fideid": 13404741,
 		"name": "Gafarov, Joshgun",
 		"country": "AZE",
@@ -51997,7 +52099,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1449,
 		"rating_blitz": null
@@ -52062,7 +52164,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
@@ -52096,7 +52198,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -52113,12 +52215,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 4,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1574,
+		"rating_rapid": 1575,
 		"rating_blitz": null
 	},
 	{
@@ -52215,7 +52317,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1983,
 		"flag": "",
@@ -52292,40 +52394,6 @@
 		"rating_blitz": 1566
 	},
 	{
-		"fideid": 13475029,
-		"name": "Guliyeva, Leyla Israfil",
-		"country": "AZE",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1412,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13438778,
-		"name": "Gulmammadov, Ujal",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1488,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13468537,
 		"name": "Guluzada, Yusif",
 		"country": "AZE",
@@ -52385,7 +52453,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -52494,6 +52562,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1590,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13494244,
+		"name": "Hajiyev, Murad",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1486,
+		"rating_blitz": 1548
 	},
 	{
 		"fideid": 13451855,
@@ -52615,6 +52700,23 @@
 		"rating_blitz": 1642
 	},
 	{
+		"fideid": 13489291,
+		"name": "Hasanzade, Rovshan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1438,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13475070,
 		"name": "Hashimli, Oghuzkhan",
 		"country": "AZE",
@@ -52630,6 +52732,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1424,
 		"rating_blitz": 1462
+	},
+	{
+		"fideid": 13491032,
+		"name": "Hatamli, Ilgar",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1458,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13472976,
@@ -52776,12 +52895,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 4,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1480,
+		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
 	{
@@ -52883,7 +53002,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1454,
+		"rating_rapid": 1436,
 		"rating_blitz": null
 	},
 	{
@@ -53125,23 +53244,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13486110,
-		"name": "Islamov, Imran",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1404,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13413023,
 		"name": "Ismayilli, Ali Ariz",
 		"country": "AZE",
@@ -53184,7 +53286,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -53207,23 +53309,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1494,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13477730,
-		"name": "Ismayilov, Rashid",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1441,
 		"rating_blitz": null
 	},
 	{
@@ -53258,7 +53343,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1526,
-		"rating_blitz": 1540
+		"rating_blitz": 1503
 	},
 	{
 		"fideid": 13462784,
@@ -53337,7 +53422,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -53357,7 +53442,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1401,
 		"rating_blitz": null
@@ -53429,23 +53514,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1440,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13454854,
-		"name": "Karim, Abdullah",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1482,
-		"rating_blitz": 1424
 	},
 	{
 		"fideid": 13442520,
@@ -53524,13 +53592,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1663,
-		"rating_blitz": null
+		"rating_blitz": 1498
 	},
 	{
 		"fideid": 13435523,
@@ -53677,7 +53745,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -53711,12 +53779,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1980,
+		"rating_rapid": 1991,
 		"rating_blitz": 2035
 	},
 	{
@@ -53728,7 +53796,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -53779,13 +53847,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1506,
-		"rating_blitz": 1792
+		"rating_blitz": 1761
 	},
 	{
 		"fideid": 13408682,
@@ -54085,7 +54153,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -54153,7 +54221,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -54227,23 +54295,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1577,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13460978,
-		"name": "Mehdizade, Shahin",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1426,
 		"rating_blitz": null
 	},
 	{
@@ -54340,12 +54391,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1571,
+		"rating_rapid": 1531,
 		"rating_blitz": 1624
 	},
 	{
@@ -54383,6 +54434,23 @@
 		"rating_blitz": 1542
 	},
 	{
+		"fideid": 13494562,
+		"name": "Musa, Ismail",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1505,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13490958,
 		"name": "Musali, Murad",
 		"country": "AZE",
@@ -54391,12 +54459,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1483,
+		"rating_rapid": 1465,
 		"rating_blitz": null
 	},
 	{
@@ -54493,7 +54561,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
@@ -54510,12 +54578,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1501,
+		"rating_rapid": 1471,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13488775,
+		"name": "Nabiyev, Abdulla",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1471,
 		"rating_blitz": null
 	},
 	{
@@ -54561,7 +54646,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -54629,7 +54714,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
@@ -54910,23 +54995,6 @@
 		"rating_blitz": 1487
 	},
 	{
-		"fideid": 13490141,
-		"name": "Rashidli, Ali",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 13,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1419,
-		"rating_blitz": 1462
-	},
-	{
 		"fideid": 13474260,
 		"name": "Rasulov, Shahin",
 		"country": "AZE",
@@ -54935,7 +55003,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -55020,7 +55088,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
@@ -55156,13 +55224,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1520,
-		"rating_blitz": 1403
+		"rating_rapid": 1493,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13408178,
@@ -55360,7 +55428,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1989,
 		"flag": "",
@@ -55377,12 +55445,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1550,
+		"rating_rapid": 1572,
 		"rating_blitz": null
 	},
 	{
@@ -55428,7 +55496,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
@@ -55785,7 +55853,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -55887,30 +55955,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1480
-	},
-	{
-		"fideid": 13486209,
-		"name": "Abdullayev, Farid",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1548
 	},
 	{
 		"fideid": 13428020,
@@ -56040,7 +56091,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -56406,23 +56457,6 @@
 		"rating_blitz": 1503
 	},
 	{
-		"fideid": 13490818,
-		"name": "Gafarli, Ziya",
-		"country": "AZE",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1592
-	},
-	{
 		"fideid": 13457802,
 		"name": "Ganbarli, Nurgul",
 		"country": "AZE",
@@ -56584,13 +56618,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 0,
+		"games": 13,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1477
+		"rating_blitz": 1442
 	},
 	{
 		"fideid": 13482971,
@@ -56669,7 +56703,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 25,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -56788,10 +56822,10 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1417
@@ -56863,6 +56897,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1558
+	},
+	{
+		"fideid": 13493175,
+		"name": "Jabbarli, Ali Elkhan",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1473
 	},
 	{
 		"fideid": 13463896,
@@ -56984,6 +57035,23 @@
 		"rating_blitz": 1402
 	},
 	{
+		"fideid": 13443674,
+		"name": "Javadzade, Emil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1418
+	},
+	{
 		"fideid": 13457098,
 		"name": "Kadioghlu, Mustafa",
 		"country": "AZE",
@@ -57077,7 +57145,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -57247,7 +57315,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -57290,6 +57358,40 @@
 		"rating_blitz": 1529
 	},
 	{
+		"fideid": 13472658,
+		"name": "Mammadov, Mikayil",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1471
+	},
+	{
+		"fideid": 13478761,
+		"name": "Mammadov, Nijat",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1552
+	},
+	{
 		"fideid": 13488716,
 		"name": "Mammadzade, Kanan",
 		"country": "AZE",
@@ -57315,7 +57417,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -57434,7 +57536,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -57519,7 +57621,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -57579,6 +57681,23 @@
 		"rating_blitz": 1511
 	},
 	{
+		"fideid": 13490141,
+		"name": "Rashidli, Ali",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1452
+	},
+	{
 		"fideid": 13406612,
 		"name": "Rasulzada, Emin",
 		"country": "AZE",
@@ -57611,6 +57730,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1514
+	},
+	{
+		"fideid": 13481762,
+		"name": "Sadig, Farid",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1459
 	},
 	{
 		"fideid": 13416499,
@@ -57698,6 +57834,23 @@
 		"rating_blitz": 1570
 	},
 	{
+		"fideid": 13494260,
+		"name": "Shabanov, Royal",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1545
+	},
+	{
 		"fideid": 13489305,
 		"name": "Sharifov, Uzeyir",
 		"country": "AZE",
@@ -57723,7 +57876,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -57781,6 +57934,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1499
+	},
+	{
+		"fideid": 13490877,
+		"name": "Sultanov, Elchin",
+		"country": "AZE",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1984
 	},
 	{
 		"fideid": 13444018,
@@ -57893,7 +58063,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",

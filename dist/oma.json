@@ -1,22 +1,5 @@
 [
 	{
-		"fideid": 22000089,
-		"name": "Salim Mohammed, Salim Al Amri",
-		"country": "OMA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 2023,
-		"rating_rapid": 2022,
-		"rating_blitz": 1909
-	},
-	{
 		"fideid": 22000100,
 		"name": "Al Maashani, Amer",
 		"country": "OMA",
@@ -25,30 +8,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 15,
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
-		"rating_standard": 1989,
+		"rating_standard": 1994,
 		"rating_rapid": 2108,
 		"rating_blitz": 2131
 	},
 	{
-		"fideid": 22006230,
-		"name": "Al Busaidi, Hamood",
+		"fideid": 22000089,
+		"name": "Salim Mohammed, Salim Al Amri",
 		"country": "OMA",
 		"sex": "M",
-		"title": "CM",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 15,
 		"k": 20,
-		"birthday": 2005,
+		"birthday": 1989,
 		"flag": "",
-		"rating_standard": 1975,
-		"rating_rapid": 1988,
-		"rating_blitz": 2031
+		"rating_standard": 1980,
+		"rating_rapid": 2022,
+		"rating_blitz": 1894
 	},
 	{
 		"fideid": 22000046,
@@ -59,13 +42,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
-		"rating_standard": 1952,
+		"rating_standard": 1968,
 		"rating_rapid": 2032,
-		"rating_blitz": 2098
+		"rating_blitz": 2071
+	},
+	{
+		"fideid": 22006230,
+		"name": "Al Busaidi, Hamood",
+		"country": "OMA",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1955,
+		"rating_rapid": 1988,
+		"rating_blitz": 2031
 	},
 	{
 		"fideid": 22008144,
@@ -110,30 +110,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 14,
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
-		"rating_standard": 1908,
+		"rating_standard": 1895,
 		"rating_rapid": 1937,
-		"rating_blitz": 1968
-	},
-	{
-		"fideid": 22000542,
-		"name": "Al Maashani, Abdullah",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": 1886,
-		"rating_rapid": 1849,
-		"rating_blitz": 1872
+		"rating_blitz": 1901
 	},
 	{
 		"fideid": 22001271,
@@ -144,13 +127,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
-		"rating_standard": 1885,
+		"rating_standard": 1891,
 		"rating_rapid": 1796,
 		"rating_blitz": 1803
+	},
+	{
+		"fideid": 22000542,
+		"name": "Al Maashani, Abdullah",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1882,
+		"rating_rapid": 1849,
+		"rating_blitz": 1872
 	},
 	{
 		"fideid": 22006648,
@@ -161,13 +161,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 15,
 		"k": 20,
 		"birthday": 1993,
 		"flag": "",
-		"rating_standard": 1871,
+		"rating_standard": 1875,
 		"rating_rapid": 1892,
-		"rating_blitz": 1776
+		"rating_blitz": 1780
 	},
 	{
 		"fideid": 22000534,
@@ -187,23 +187,6 @@
 		"rating_blitz": 2051
 	},
 	{
-		"fideid": 22000070,
-		"name": "Said Ahmed Ali Jidal Fadhil",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "FA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 1848,
-		"rating_rapid": 1851,
-		"rating_blitz": 1864
-	},
-	{
 		"fideid": 22008128,
 		"name": "Al Darwashi, Anas",
 		"country": "OMA",
@@ -221,6 +204,23 @@
 		"rating_blitz": 1733
 	},
 	{
+		"fideid": 22006079,
+		"name": "Mohammed Al Ryami",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1829,
+		"rating_rapid": 1752,
+		"rating_blitz": 1729
+	},
+	{
 		"fideid": 22000062,
 		"name": "Salim Issa, Ali Shamas",
 		"country": "OMA",
@@ -236,6 +236,23 @@
 		"rating_standard": 1827,
 		"rating_rapid": 1964,
 		"rating_blitz": 1999
+	},
+	{
+		"fideid": 22000070,
+		"name": "Said Ahmed Ali Jidal Fadhil",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "FA",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1825,
+		"rating_rapid": 1851,
+		"rating_blitz": 1864
 	},
 	{
 		"fideid": 22001280,
@@ -272,40 +289,6 @@
 		"rating_blitz": 1801
 	},
 	{
-		"fideid": 22001921,
-		"name": "Al Masheki, Abdislam",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "i",
-		"rating_standard": 1811,
-		"rating_rapid": 1859,
-		"rating_blitz": 1869
-	},
-	{
-		"fideid": 22012958,
-		"name": "Al Hosni, Khalfan",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1810,
-		"rating_rapid": 1719,
-		"rating_blitz": 1742
-	},
-	{
 		"fideid": 22002103,
 		"name": "Hardan, Mohammed Said",
 		"country": "OMA",
@@ -340,6 +323,57 @@
 		"rating_blitz": 1797
 	},
 	{
+		"fideid": 22012958,
+		"name": "Al Hosni, Khalfan",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1809,
+		"rating_rapid": 1719,
+		"rating_blitz": 1806
+	},
+	{
+		"fideid": 22001921,
+		"name": "Al Masheki, Abdislam",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1809,
+		"rating_rapid": 1859,
+		"rating_blitz": 1877
+	},
+	{
+		"fideid": 22001506,
+		"name": "Al Balushi, Emad",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1806,
+		"rating_rapid": 1715,
+		"rating_blitz": 1653
+	},
+	{
 		"fideid": 22000380,
 		"name": "Al Amri, Mohammed A",
 		"country": "OMA",
@@ -355,40 +389,6 @@
 		"rating_standard": 1805,
 		"rating_rapid": 1796,
 		"rating_blitz": 1890
-	},
-	{
-		"fideid": 22001506,
-		"name": "Al Balushi, Emad",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1802,
-		"rating_rapid": 1715,
-		"rating_blitz": 1653
-	},
-	{
-		"fideid": 22001158,
-		"name": "Al Jabri, Rashid",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 1801,
-		"rating_rapid": 1727,
-		"rating_blitz": 1790
 	},
 	{
 		"fideid": 22000976,
@@ -408,6 +408,23 @@
 		"rating_blitz": 1777
 	},
 	{
+		"fideid": 22001158,
+		"name": "Al Jabri, Rashid",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1800,
+		"rating_rapid": 1727,
+		"rating_blitz": 1846
+	},
+	{
 		"fideid": 22002383,
 		"name": "Al maashani, Amer Ahmed",
 		"country": "OMA",
@@ -423,23 +440,6 @@
 		"rating_standard": 1800,
 		"rating_rapid": 1694,
 		"rating_blitz": 1641
-	},
-	{
-		"fideid": 22000054,
-		"name": "Al Ansi Amin",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 1799,
-		"rating_rapid": 1850,
-		"rating_blitz": 1945
 	},
 	{
 		"fideid": 22006613,
@@ -467,47 +467,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 5,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1791,
+		"rating_standard": 1794,
 		"rating_rapid": 1831,
-		"rating_blitz": 1809
-	},
-	{
-		"fideid": 22001140,
-		"name": "Al Maqbali, Faham Said",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": 1789,
-		"rating_rapid": 1814,
-		"rating_blitz": 1854
-	},
-	{
-		"fideid": 22006079,
-		"name": "Mohammed Al Ryami",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1788,
-		"rating_rapid": 1752,
-		"rating_blitz": 1722
+		"rating_blitz": 1795
 	},
 	{
 		"fideid": 22006427,
@@ -569,30 +535,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 1771,
+		"rating_standard": 1768,
 		"rating_rapid": 1702,
-		"rating_blitz": 1744
-	},
-	{
-		"fideid": 22008772,
-		"name": "Al Mamari, Said Ahmed",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 1769,
-		"rating_rapid": 1832,
-		"rating_blitz": 1829
+		"rating_blitz": 1719
 	},
 	{
 		"fideid": 22000950,
@@ -629,21 +578,55 @@
 		"rating_blitz": 1916
 	},
 	{
-		"fideid": 22000240,
-		"name": "Shamas Salim Ahmed",
+		"fideid": 22008772,
+		"name": "Al Mamari, Said Ahmed",
 		"country": "OMA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
-		"birthday": 1976,
+		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1761,
-		"rating_rapid": 1777,
-		"rating_blitz": 1849
+		"rating_rapid": 1832,
+		"rating_blitz": 1817
+	},
+	{
+		"fideid": 22001140,
+		"name": "Al Maqbali, Faham Said",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": 1761,
+		"rating_rapid": 1814,
+		"rating_blitz": 1823
+	},
+	{
+		"fideid": 22002260,
+		"name": "Fadhil, khalid Ali",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1761,
+		"rating_rapid": 1971,
+		"rating_blitz": 1729
 	},
 	{
 		"fideid": 22000429,
@@ -663,23 +646,6 @@
 		"rating_blitz": 1755
 	},
 	{
-		"fideid": 22002260,
-		"name": "Fadhil, khalid Ali",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1758,
-		"rating_rapid": 1971,
-		"rating_blitz": 1729
-	},
-	{
 		"fideid": 22008136,
 		"name": "Al Darwashi, Usama",
 		"country": "OMA",
@@ -688,13 +654,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1757,
 		"rating_rapid": 1723,
-		"rating_blitz": 1766
+		"rating_blitz": 1731
 	},
 	{
 		"fideid": 22001220,
@@ -729,6 +695,23 @@
 		"rating_standard": 1756,
 		"rating_rapid": 1680,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22000054,
+		"name": "Al Ansi Amin",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 1748,
+		"rating_rapid": 1850,
+		"rating_blitz": 1938
 	},
 	{
 		"fideid": 22000267,
@@ -780,6 +763,40 @@
 		"rating_standard": 1746,
 		"rating_rapid": 1712,
 		"rating_blitz": 1686
+	},
+	{
+		"fideid": 22017925,
+		"name": "Al Sabti, Abdul Malik",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1745,
+		"rating_rapid": 1659,
+		"rating_blitz": 1677
+	},
+	{
+		"fideid": 22000240,
+		"name": "Shamas Salim Ahmed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1745,
+		"rating_rapid": 1777,
+		"rating_blitz": 1849
 	},
 	{
 		"fideid": 22020209,
@@ -848,6 +865,40 @@
 		"rating_standard": 1738,
 		"rating_rapid": 1771,
 		"rating_blitz": 1771
+	},
+	{
+		"fideid": 22003380,
+		"name": "Al Sawafi, Abdul malik",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1736,
+		"rating_rapid": 1674,
+		"rating_blitz": 1645
+	},
+	{
+		"fideid": 22001000,
+		"name": "Al Makhamari, Ahmed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1735,
+		"rating_rapid": 1779,
+		"rating_blitz": 1648
 	},
 	{
 		"fideid": 22028315,
@@ -933,23 +984,6 @@
 		"rating_standard": 1727,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 22017925,
-		"name": "Al Sabti, Abdul Malik",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1726,
-		"rating_rapid": 1659,
-		"rating_blitz": 1677
 	},
 	{
 		"fideid": 22001115,
@@ -1071,38 +1105,38 @@
 		"rating_blitz": 1803
 	},
 	{
-		"fideid": 22001034,
-		"name": "Bait Said, Manaf Salim",
+		"fideid": 22004319,
+		"name": "Al Amri, Mahad",
 		"country": "OMA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1989,
+		"games": 14,
+		"k": 20,
+		"birthday": 1992,
 		"flag": "",
-		"rating_standard": 1715,
-		"rating_rapid": 1694,
-		"rating_blitz": 1780
+		"rating_standard": 1716,
+		"rating_rapid": 1795,
+		"rating_blitz": 1779
 	},
 	{
-		"fideid": 22001000,
-		"name": "Al Makhamari, Ahmed",
+		"fideid": 22001816,
+		"name": "Shimas, Said Issa",
 		"country": "OMA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
-		"birthday": 1986,
-		"flag": "i",
-		"rating_standard": 1712,
-		"rating_rapid": 1779,
-		"rating_blitz": 1647
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1713,
+		"rating_rapid": 1749,
+		"rating_blitz": 1778
 	},
 	{
 		"fideid": 22029486,
@@ -1258,23 +1292,6 @@
 		"rating_blitz": 1669
 	},
 	{
-		"fideid": 22004319,
-		"name": "Al Amri, Mahad",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "",
-		"rating_standard": 1707,
-		"rating_rapid": 1795,
-		"rating_blitz": 1783
-	},
-	{
 		"fideid": 22000291,
 		"name": "Al Ghafri, Wafia",
 		"country": "OMA",
@@ -1326,40 +1343,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22002227,
-		"name": "Bait Said, Salim Ahmed",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "i",
-		"rating_standard": 1704,
-		"rating_rapid": 1642,
-		"rating_blitz": 1641
-	},
-	{
-		"fideid": 22001336,
-		"name": "Al Balushi, Said",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1702,
-		"rating_rapid": 1654,
-		"rating_blitz": 1672
-	},
-	{
 		"fideid": 22008217,
 		"name": "Al Makhladi, Faisal",
 		"country": "OMA",
@@ -1377,38 +1360,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22007083,
-		"name": "Al Mamari, Imran",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "FA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1701,
-		"rating_rapid": 1635,
-		"rating_blitz": 1687
-	},
-	{
-		"fideid": 22001816,
-		"name": "Shimas, Said Issa",
+		"fideid": 22001336,
+		"name": "Al Balushi, Said",
 		"country": "OMA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
-		"birthday": 1990,
+		"birthday": 1997,
 		"flag": "",
-		"rating_standard": 1701,
-		"rating_rapid": 1749,
-		"rating_blitz": 1799
+		"rating_standard": 1700,
+		"rating_rapid": 1654,
+		"rating_blitz": 1672
 	},
 	{
 		"fideid": 22011137,
@@ -1436,30 +1402,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 13,
 		"k": 20,
 		"birthday": 1992,
 		"flag": "w",
 		"rating_standard": 1699,
 		"rating_rapid": 1681,
-		"rating_blitz": 1669
-	},
-	{
-		"fideid": 22003380,
-		"name": "Al Sawafi, Abdul malik",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1697,
-		"rating_rapid": 1674,
-		"rating_blitz": 1665
+		"rating_blitz": 1655
 	},
 	{
 		"fideid": 22006893,
@@ -1581,6 +1530,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 22002227,
+		"name": "Bait Said, Salim Ahmed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1694,
+		"rating_rapid": 1642,
+		"rating_blitz": 1641
+	},
+	{
 		"fideid": 22011366,
 		"name": "Al Jahwari, Basim",
 		"country": "OMA",
@@ -1628,8 +1594,8 @@
 		"birthday": 1979,
 		"flag": "",
 		"rating_standard": 1692,
-		"rating_rapid": 1741,
-		"rating_blitz": 1638
+		"rating_rapid": 1732,
+		"rating_blitz": 1654
 	},
 	{
 		"fideid": 22000712,
@@ -1674,13 +1640,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 20,
 		"birthday": 1987,
 		"flag": "",
-		"rating_standard": 1688,
+		"rating_standard": 1687,
 		"rating_rapid": 1684,
-		"rating_blitz": 1690
+		"rating_blitz": 1708
 	},
 	{
 		"fideid": 22002626,
@@ -1785,6 +1751,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 22007083,
+		"name": "Al Mamari, Imran",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "FA",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1681,
+		"rating_rapid": 1635,
+		"rating_blitz": 1681
+	},
+	{
 		"fideid": 22000933,
 		"name": "Al Mamari, Mohammed Saif",
 		"country": "OMA",
@@ -1816,24 +1799,7 @@
 		"flag": "",
 		"rating_standard": 1674,
 		"rating_rapid": 1670,
-		"rating_blitz": 1703
-	},
-	{
-		"fideid": 22015558,
-		"name": "Al Hasani, Thabit",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1672,
-		"rating_rapid": 1632,
-		"rating_blitz": 1676
+		"rating_blitz": 1694
 	},
 	{
 		"fideid": 22003690,
@@ -1870,23 +1836,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22010181,
-		"name": "Al Habsi, Sultan Mohamed",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1666,
-		"rating_rapid": 1715,
-		"rating_blitz": 1719
-	},
-	{
 		"fideid": 22004017,
 		"name": "Al Adawi, Abdullah",
 		"country": "OMA",
@@ -1902,23 +1851,6 @@
 		"rating_standard": 1665,
 		"rating_rapid": 1591,
 		"rating_blitz": 1635
-	},
-	{
-		"fideid": 22027297,
-		"name": "Al Amri, Al Azhar",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1665,
-		"rating_rapid": 1570,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 22001212,
@@ -1955,6 +1887,40 @@
 		"rating_blitz": 1735
 	},
 	{
+		"fideid": 22015558,
+		"name": "Al Hasani, Thabit",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1663,
+		"rating_rapid": 1632,
+		"rating_blitz": 1668
+	},
+	{
+		"fideid": 22001034,
+		"name": "Bait Said, Manaf Salim",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1663,
+		"rating_rapid": 1694,
+		"rating_blitz": 1801
+	},
+	{
 		"fideid": 22001417,
 		"name": "Fadhil, Salim Ahmed",
 		"country": "OMA",
@@ -1970,6 +1936,23 @@
 		"rating_standard": 1662,
 		"rating_rapid": 1746,
 		"rating_blitz": 1791
+	},
+	{
+		"fideid": 22010181,
+		"name": "Al Habsi, Sultan Mohamed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1660,
+		"rating_rapid": 1715,
+		"rating_blitz": 1719
 	},
 	{
 		"fideid": 22010890,
@@ -2037,7 +2020,7 @@
 		"flag": "i",
 		"rating_standard": 1657,
 		"rating_rapid": 1640,
-		"rating_blitz": 1689
+		"rating_blitz": 1669
 	},
 	{
 		"fideid": 22017950,
@@ -2057,23 +2040,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22002197,
-		"name": "Bait Said, Ali",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1977,
-		"flag": "i",
-		"rating_standard": 1656,
-		"rating_rapid": 1642,
-		"rating_blitz": 1707
-	},
-	{
 		"fideid": 22021264,
 		"name": "Al Hadidi, Abdullah",
 		"country": "OMA",
@@ -2089,23 +2055,6 @@
 		"rating_standard": 1654,
 		"rating_rapid": 1600,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 22012699,
-		"name": "Al Mamari, Mohammed",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1653,
-		"rating_rapid": 1668,
-		"rating_blitz": 1654
 	},
 	{
 		"fideid": 22006206,
@@ -2159,23 +2108,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22017933,
-		"name": "Al Sabti, Wadhah",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1648,
-		"rating_rapid": 1613,
-		"rating_blitz": 1466
-	},
-	{
 		"fideid": 22009116,
 		"name": "Al Maashani, Ali Salim",
 		"country": "OMA",
@@ -2227,21 +2159,55 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22001824,
-		"name": "Al Balushi, Salim",
+		"fideid": 22012699,
+		"name": "Al Mamari, Mohammed",
 		"country": "OMA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
-		"birthday": 1971,
+		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 1634,
-		"rating_rapid": 1704,
-		"rating_blitz": 1570
+		"rating_standard": 1639,
+		"rating_rapid": 1691,
+		"rating_blitz": 1654
+	},
+	{
+		"fideid": 22012524,
+		"name": "Al Yahmadi, Anas",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1639,
+		"rating_rapid": 1625,
+		"rating_blitz": 1642
+	},
+	{
+		"fideid": 22027297,
+		"name": "Al Amri, Al Azhar",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1635,
+		"rating_rapid": 1570,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 22020357,
@@ -2346,23 +2312,6 @@
 		"rating_blitz": 1626
 	},
 	{
-		"fideid": 22012524,
-		"name": "Al Yahmadi, Anas",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1629,
-		"rating_rapid": 1625,
-		"rating_blitz": 1642
-	},
-	{
 		"fideid": 22004025,
 		"name": "Al Aamri, Abdallah",
 		"country": "OMA",
@@ -2377,7 +2326,7 @@
 		"flag": "",
 		"rating_standard": 1628,
 		"rating_rapid": 1645,
-		"rating_blitz": null
+		"rating_blitz": 1604
 	},
 	{
 		"fideid": 22016678,
@@ -2412,23 +2361,6 @@
 		"rating_standard": 1628,
 		"rating_rapid": 1651,
 		"rating_blitz": 1618
-	},
-	{
-		"fideid": 22017887,
-		"name": "Al Sabti, Ahmed",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1628,
-		"rating_rapid": 1592,
-		"rating_blitz": 1631
 	},
 	{
 		"fideid": 22006109,
@@ -2476,10 +2408,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1996,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1622,
 		"rating_rapid": null,
 		"rating_blitz": 1605
+	},
+	{
+		"fideid": 22029591,
+		"name": "Al Shibli, Shahab Mohammed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1622,
+		"rating_rapid": 1454,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 22026789,
@@ -2567,6 +2516,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 22002197,
+		"name": "Bait Said, Ali",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 1615,
+		"rating_rapid": 1642,
+		"rating_blitz": 1707
+	},
+	{
 		"fideid": 22020322,
 		"name": "Jaboob, Musallam",
 		"country": "OMA",
@@ -2601,6 +2567,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 22001824,
+		"name": "Al Balushi, Salim",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "",
+		"rating_standard": 1611,
+		"rating_rapid": 1704,
+		"rating_blitz": 1586
+	},
+	{
 		"fideid": 22000275,
 		"name": "Al Raisi, Yasser Mansoor",
 		"country": "OMA",
@@ -2616,6 +2599,23 @@
 		"rating_standard": 1609,
 		"rating_rapid": 1581,
 		"rating_blitz": 1602
+	},
+	{
+		"fideid": 22017887,
+		"name": "Al Sabti, Ahmed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1608,
+		"rating_rapid": 1592,
+		"rating_blitz": 1631
 	},
 	{
 		"fideid": 22000992,
@@ -2822,6 +2822,23 @@
 		"rating_blitz": 1635
 	},
 	{
+		"fideid": 22000984,
+		"name": "Al Balushi, Rashid Ali",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1599,
+		"rating_rapid": 1736,
+		"rating_blitz": 1623
+	},
+	{
 		"fideid": 22002294,
 		"name": "Al Harrasi, Faisal Zahran",
 		"country": "OMA",
@@ -2871,6 +2888,23 @@
 		"rating_standard": 1597,
 		"rating_rapid": 1663,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22017933,
+		"name": "Al Sabti, Wadhah",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1596,
+		"rating_rapid": 1613,
+		"rating_blitz": 1466
 	},
 	{
 		"fideid": 22007172,
@@ -3077,23 +3111,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22027645,
-		"name": "Al Rawahy, Abdul Malik",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1583,
-		"rating_rapid": 1468,
-		"rating_blitz": 1454
-	},
-	{
 		"fideid": 22001190,
 		"name": "Al Siyabi, Amjad Thani",
 		"country": "OMA",
@@ -3111,6 +3128,23 @@
 		"rating_blitz": 1557
 	},
 	{
+		"fideid": 22018476,
+		"name": "Al Yousufi, Dawood",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1583,
+		"rating_rapid": 1461,
+		"rating_blitz": 1595
+	},
+	{
 		"fideid": 22024433,
 		"name": "Al Hadhrami, Wisam",
 		"country": "OMA",
@@ -3122,7 +3156,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1582,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -3179,23 +3213,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22000984,
-		"name": "Al Balushi, Rashid Ali",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": 1577,
-		"rating_rapid": 1736,
-		"rating_blitz": 1629
-	},
-	{
 		"fideid": 22024522,
 		"name": "Al Hadi, Hussain Khalid",
 		"country": "OMA",
@@ -3230,23 +3247,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22018476,
-		"name": "Al Yousufi, Dawood",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1576,
-		"rating_rapid": 1461,
-		"rating_blitz": 1586
-	},
-	{
 		"fideid": 22013059,
 		"name": "Al Mughaizwi, Muna",
 		"country": "OMA",
@@ -3255,13 +3255,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 1999,
 		"flag": "w",
 		"rating_standard": 1575,
 		"rating_rapid": 1457,
-		"rating_blitz": null
+		"rating_blitz": 1536
 	},
 	{
 		"fideid": 22009841,
@@ -3295,7 +3295,7 @@
 		"flag": "",
 		"rating_standard": 1573,
 		"rating_rapid": 1602,
-		"rating_blitz": 1517
+		"rating_blitz": 1506
 	},
 	{
 		"fideid": 22001484,
@@ -3363,7 +3363,7 @@
 		"flag": "i",
 		"rating_standard": 1570,
 		"rating_rapid": 1635,
-		"rating_blitz": 1618
+		"rating_blitz": 1639
 	},
 	{
 		"fideid": 22016538,
@@ -3398,6 +3398,23 @@
 		"rating_standard": 1565,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22027645,
+		"name": "Al Rawahy, Abdul Malik",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1564,
+		"rating_rapid": 1468,
+		"rating_blitz": 1454
 	},
 	{
 		"fideid": 22015132,
@@ -3621,6 +3638,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 22014306,
+		"name": "Al Sawafi, Abdulrhman",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1551,
+		"rating_rapid": 1654,
+		"rating_blitz": 1592
+	},
+	{
 		"fideid": 22011897,
 		"name": "Al Abri, Almoatasim",
 		"country": "OMA",
@@ -3653,6 +3687,23 @@
 		"rating_standard": 1550,
 		"rating_rapid": 1501,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22025197,
+		"name": "Al Hajri, Mohammed Badar",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1550,
+		"rating_rapid": 1512,
+		"rating_blitz": 1506
 	},
 	{
 		"fideid": 22006184,
@@ -3791,23 +3842,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22025197,
-		"name": "Al Hajri, Mohammed Badar",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1542,
-		"rating_rapid": 1512,
-		"rating_blitz": 1506
-	},
-	{
 		"fideid": 22016325,
 		"name": "Al Maqbali, Doaa",
 		"country": "OMA",
@@ -3890,7 +3924,7 @@
 		"flag": "i",
 		"rating_standard": 1540,
 		"rating_rapid": 1502,
-		"rating_blitz": 1578
+		"rating_blitz": 1596
 	},
 	{
 		"fideid": 22012320,
@@ -3955,7 +3989,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1539,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -4043,7 +4077,24 @@
 		"flag": "",
 		"rating_standard": 1535,
 		"rating_rapid": null,
-		"rating_blitz": 1667
+		"rating_blitz": 1646
+	},
+	{
+		"fideid": 22015370,
+		"name": "Al Maqbali, Saif",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1535,
+		"rating_rapid": 1616,
+		"rating_blitz": 1571
 	},
 	{
 		"fideid": 22027181,
@@ -4076,7 +4127,7 @@
 		"birthday": 2007,
 		"flag": "i",
 		"rating_standard": 1534,
-		"rating_rapid": 1562,
+		"rating_rapid": 1544,
 		"rating_blitz": null
 	},
 	{
@@ -4148,40 +4199,6 @@
 		"rating_blitz": 1513
 	},
 	{
-		"fideid": 22015370,
-		"name": "Al Maqbali, Saif",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1529,
-		"rating_rapid": 1616,
-		"rating_blitz": 1583
-	},
-	{
-		"fideid": 22014306,
-		"name": "Al Sawafi, Abdulrhman",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1529,
-		"rating_rapid": 1654,
-		"rating_blitz": 1537
-	},
-	{
 		"fideid": 22009809,
 		"name": "Fadhil, Ahmed Salim",
 		"country": "OMA",
@@ -4241,13 +4258,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1992,
 		"flag": "",
 		"rating_standard": 1527,
 		"rating_rapid": 1526,
-		"rating_blitz": null
+		"rating_blitz": 1547
 	},
 	{
 		"fideid": 22004114,
@@ -4479,13 +4496,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": 1512,
-		"rating_rapid": 1500,
-		"rating_blitz": 1510
+		"rating_rapid": 1505,
+		"rating_blitz": 1546
 	},
 	{
 		"fideid": 22028366,
@@ -4607,6 +4624,23 @@
 		"rating_blitz": 1504
 	},
 	{
+		"fideid": 22020039,
+		"name": "Al Shaqri, Said",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1508,
+		"rating_rapid": 1460,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 22011978,
 		"name": "Al Rawas, Salim Ahmed",
 		"country": "OMA",
@@ -4641,6 +4675,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 22030131,
+		"name": "Al Kalbani, Omar Khalid",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1506,
+		"rating_rapid": 1425,
+		"rating_blitz": 1531
+	},
+	{
 		"fideid": 22011331,
 		"name": "Al Madhani, Khlfan",
 		"country": "OMA",
@@ -4656,23 +4707,6 @@
 		"rating_standard": 1506,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 22013520,
-		"name": "Al Sabagh, Mohamed",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 40,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1506,
-		"rating_rapid": 1458,
-		"rating_blitz": 1454
 	},
 	{
 		"fideid": 22006370,
@@ -4739,8 +4773,8 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 1499,
-		"rating_rapid": 1552,
-		"rating_blitz": 1424
+		"rating_rapid": 1559,
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 22006869,
@@ -4771,7 +4805,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1986,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1495,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -4792,6 +4826,23 @@
 		"rating_standard": 1494,
 		"rating_rapid": 1482,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22006494,
+		"name": "Al Ghanami, Fuad",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1494,
+		"rating_rapid": 1503,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 22024441,
@@ -5063,7 +5114,7 @@
 		"flag": "",
 		"rating_standard": 1487,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1459
 	},
 	{
 		"fideid": 22008446,
@@ -5081,6 +5132,23 @@
 		"rating_standard": 1484,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22032290,
+		"name": "al Hinai, Al Qasim Mohamed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1483,
+		"rating_rapid": null,
+		"rating_blitz": 1526
 	},
 	{
 		"fideid": 22025278,
@@ -5183,6 +5251,40 @@
 		"rating_standard": 1476,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22033459,
+		"name": "Al Abri, Mohammed Ahmed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1475,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 22013520,
+		"name": "Al Sabagh, Mohamed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 5,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1475,
+		"rating_rapid": 1458,
+		"rating_blitz": 1454
 	},
 	{
 		"fideid": 22002618,
@@ -5383,7 +5485,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1467,
 		"rating_rapid": 1450,
 		"rating_blitz": 1478
@@ -5423,6 +5525,40 @@
 		"rating_blitz": 1452
 	},
 	{
+		"fideid": 22000313,
+		"name": "Al Ghafri, Alanoud",
+		"country": "OMA",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "w",
+		"rating_standard": 1465,
+		"rating_rapid": 1576,
+		"rating_blitz": 1501
+	},
+	{
+		"fideid": 22027114,
+		"name": "Al Mujaini, Mohammed Khalid",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1464,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 22009817,
 		"name": "Fadhil, Mohammed Salim Ahmed",
 		"country": "OMA",
@@ -5438,23 +5574,6 @@
 		"rating_standard": 1464,
 		"rating_rapid": 1439,
 		"rating_blitz": 1620
-	},
-	{
-		"fideid": 22014381,
-		"name": "Al Maamari, Abdulmalik",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1463,
-		"rating_rapid": 1520,
-		"rating_blitz": 1429
 	},
 	{
 		"fideid": 22025774,
@@ -5485,7 +5604,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1459,
 		"rating_rapid": 1603,
 		"rating_blitz": 1437
@@ -5542,23 +5661,6 @@
 		"rating_blitz": 1443
 	},
 	{
-		"fideid": 22000313,
-		"name": "Al Ghafri, Alanoud",
-		"country": "OMA",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "w",
-		"rating_standard": 1456,
-		"rating_rapid": 1576,
-		"rating_blitz": 1501
-	},
-	{
 		"fideid": 22010831,
 		"name": "Al Masqari, Mohammed",
 		"country": "OMA",
@@ -5593,6 +5695,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 22007431,
+		"name": "Al Bulushi, Omar",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1455,
+		"rating_rapid": 1416,
+		"rating_blitz": 1430
+	},
+	{
 		"fideid": 22027343,
 		"name": "Al Handasi, Khamis",
 		"country": "OMA",
@@ -5623,6 +5742,23 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": 1454,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 22027300,
+		"name": "Al Aamri, Al Fadhel",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1453,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5661,23 +5797,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22006494,
-		"name": "Al Ghanami, Fuad",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1451,
-		"rating_rapid": 1503,
-		"rating_blitz": 1543
-	},
-	{
 		"fideid": 22018832,
 		"name": "Al Hinai, Mazin",
 		"country": "OMA",
@@ -5710,23 +5829,6 @@
 		"rating_standard": 1450,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 22007431,
-		"name": "Al Bulushi, Omar",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1450,
-		"rating_rapid": 1416,
-		"rating_blitz": 1496
 	},
 	{
 		"fideid": 22015779,
@@ -5778,6 +5880,23 @@
 		"rating_standard": 1445,
 		"rating_rapid": null,
 		"rating_blitz": 1434
+	},
+	{
+		"fideid": 22010459,
+		"name": "Al Maani, Luqman",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1445,
+		"rating_rapid": 1602,
+		"rating_blitz": 1425
 	},
 	{
 		"fideid": 22021680,
@@ -5882,23 +6001,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22021043,
-		"name": "Al Kindi, Said",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1977,
-		"flag": "",
-		"rating_standard": 1438,
-		"rating_rapid": 1483,
-		"rating_blitz": 1409
-	},
-	{
 		"fideid": 22010963,
 		"name": "Al Madhani, Ahmed",
 		"country": "OMA",
@@ -5947,23 +6049,6 @@
 		"flag": "",
 		"rating_standard": 1436,
 		"rating_rapid": 1449,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 22020039,
-		"name": "Al Shaqri, Said",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 1436,
-		"rating_rapid": 1460,
 		"rating_blitz": null
 	},
 	{
@@ -6029,7 +6114,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1434,
 		"rating_rapid": 1424,
 		"rating_blitz": 1442
@@ -6137,23 +6222,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22017046,
-		"name": "Al Riyami, Saeed",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1428,
-		"rating_rapid": 1404,
-		"rating_blitz": 1503
-	},
-	{
 		"fideid": 22031405,
 		"name": "Al Hadhrami, Al Baraa Fahad",
 		"country": "OMA",
@@ -6168,23 +6236,6 @@
 		"flag": "",
 		"rating_standard": 1427,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 22030131,
-		"name": "Al Kalbani, Omar Khalid",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1427,
-		"rating_rapid": 1425,
 		"rating_blitz": null
 	},
 	{
@@ -6273,23 +6324,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22010459,
-		"name": "Al Maani, Luqman",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1424,
-		"rating_rapid": 1602,
-		"rating_blitz": 1464
-	},
-	{
 		"fideid": 22030727,
 		"name": "Al Nasiri, Dawoud Sulaiman",
 		"country": "OMA",
@@ -6305,6 +6339,23 @@
 		"rating_standard": 1421,
 		"rating_rapid": 1438,
 		"rating_blitz": 1418
+	},
+	{
+		"fideid": 22029362,
+		"name": "Al Hinai, Elias Younis",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1419,
+		"rating_rapid": 1522,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 22011498,
@@ -6339,6 +6390,23 @@
 		"rating_standard": 1413,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22014381,
+		"name": "Al Maamari, Abdulmalik",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1412,
+		"rating_rapid": 1520,
+		"rating_blitz": 1469
 	},
 	{
 		"fideid": 22007903,
@@ -7035,7 +7103,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1594,
-		"rating_blitz": null
+		"rating_blitz": 1446
 	},
 	{
 		"fideid": 22013164,
@@ -7341,23 +7409,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1507,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 22029362,
-		"name": "Al Hinai, Elias Younis",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1522,
 		"rating_blitz": null
 	},
 	{
@@ -7801,6 +7852,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1442,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 22021043,
+		"name": "Al Kindi, Said",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1483,
+		"rating_blitz": 1409
 	},
 	{
 		"fideid": 22030980,
@@ -8293,7 +8361,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1587,
-		"rating_blitz": null
+		"rating_blitz": 1471
 	},
 	{
 		"fideid": 22014870,
@@ -8576,12 +8644,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1774,
+		"rating_rapid": 1727,
 		"rating_blitz": 1588
 	},
 	{
@@ -8600,6 +8668,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1499,
 		"rating_blitz": 1531
+	},
+	{
+		"fideid": 22017046,
+		"name": "Al Riyami, Saeed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1404,
+		"rating_blitz": 1489
 	},
 	{
 		"fideid": 22030883,
@@ -8634,23 +8719,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1519,
 		"rating_blitz": 1488
-	},
-	{
-		"fideid": 22028250,
-		"name": "Al Saadi, Akram Said",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1407,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 22019600,
@@ -8854,23 +8922,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1514,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 22029591,
-		"name": "Al Shibli, Shahab Mohammed",
-		"country": "OMA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1454,
 		"rating_blitz": null
 	},
 	{
@@ -9571,6 +9622,23 @@
 		"rating_blitz": 1459
 	},
 	{
+		"fideid": 22033432,
+		"name": "Al Balushi, Abdul Sattar Ahmed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1552
+	},
+	{
 		"fideid": 22027785,
 		"name": "Al Balushi, Ahmed Juma",
 		"country": "OMA",
@@ -9639,6 +9707,23 @@
 		"rating_blitz": 1500
 	},
 	{
+		"fideid": 22033700,
+		"name": "Al Fahdi, Mohammed Talib",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1693
+	},
+	{
 		"fideid": 22001301,
 		"name": "Al Fazari, Nezar Gharib",
 		"country": "OMA",
@@ -9690,6 +9775,23 @@
 		"rating_blitz": 1488
 	},
 	{
+		"fideid": 22029133,
+		"name": "Al Gheithy, Al Haitham",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1417
+	},
+	{
 		"fideid": 22028153,
 		"name": "Al Hadidi, Ahmed saif",
 		"country": "OMA",
@@ -9718,7 +9820,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1610
@@ -10160,7 +10262,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1987,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1446
@@ -10319,6 +10421,23 @@
 		"rating_blitz": 1488
 	},
 	{
+		"fideid": 22033025,
+		"name": "Al Shuaili, Wahb",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1526
+	},
+	{
 		"fideid": 22028919,
 		"name": "Al Siyabi, Ghassan",
 		"country": "OMA",
@@ -10364,10 +10483,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1466
+	},
+	{
+		"fideid": 22027610,
+		"name": "Al Zadjali, Omar Abdul Hameed",
+		"country": "OMA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1730
 	},
 	{
 		"fideid": 22001018,
