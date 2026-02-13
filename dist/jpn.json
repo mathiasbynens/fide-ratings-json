@@ -387,7 +387,7 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": 2157,
-		"rating_rapid": 2078,
+		"rating_rapid": 2079,
 		"rating_blitz": 2223
 	},
 	{
@@ -998,7 +998,7 @@
 		"k": 20,
 		"birthday": 1982,
 		"flag": "",
-		"rating_standard": 2032,
+		"rating_standard": 2033,
 		"rating_rapid": 1992,
 		"rating_blitz": 1961
 	},
@@ -1202,7 +1202,7 @@
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
-		"rating_standard": 2016,
+		"rating_standard": 2015,
 		"rating_rapid": 2008,
 		"rating_blitz": null
 	},
@@ -2207,7 +2207,7 @@
 		"flag": "",
 		"rating_standard": 1900,
 		"rating_rapid": 1838,
-		"rating_blitz": 1786
+		"rating_blitz": 1785
 	},
 	{
 		"fideid": 7004680,
@@ -2358,7 +2358,7 @@
 		"k": 20,
 		"birthday": 1982,
 		"flag": "",
-		"rating_standard": 1891,
+		"rating_standard": 1890,
 		"rating_rapid": 1831,
 		"rating_blitz": 1831
 	},
@@ -3230,6 +3230,23 @@
 		"rating_blitz": 1772
 	},
 	{
+		"fideid": 7005636,
+		"name": "Araki, Dai",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1843,
+		"rating_rapid": 1786,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7002165,
 		"name": "Kishikawa, Kazuma",
 		"country": "JPN",
@@ -3242,6 +3259,23 @@
 		"k": 40,
 		"birthday": 1993,
 		"flag": "i",
+		"rating_standard": 1843,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 39906078,
+		"name": "Ng, Alexander PN",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
 		"rating_standard": 1843,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -3279,40 +3313,6 @@
 		"rating_standard": 1842,
 		"rating_rapid": 1852,
 		"rating_blitz": 1830
-	},
-	{
-		"fideid": 7005636,
-		"name": "Araki, Dai",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1842,
-		"rating_rapid": 1786,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 39906078,
-		"name": "Ng, Alexander PN",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1842,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 7002807,
@@ -3464,7 +3464,7 @@
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": 1833,
-		"rating_rapid": 1814,
+		"rating_rapid": 1815,
 		"rating_blitz": null
 	},
 	{
@@ -3519,23 +3519,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7003765,
-		"name": "Summerville, Nathan",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": 1825,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7002971,
 		"name": "Kimura, Ryota",
 		"country": "JPN",
@@ -3553,8 +3536,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7000090,
-		"name": "Hakamada, Eiji",
+		"fideid": 7003765,
+		"name": "Summerville, Nathan",
 		"country": "JPN",
 		"sex": "M",
 		"title": "",
@@ -3563,9 +3546,9 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1948,
-		"flag": "i",
-		"rating_standard": 1823,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1824,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -3582,9 +3565,26 @@
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
-		"rating_standard": 1823,
+		"rating_standard": 1824,
 		"rating_rapid": 1862,
 		"rating_blitz": 1816
+	},
+	{
+		"fideid": 7000090,
+		"name": "Hakamada, Eiji",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1948,
+		"flag": "i",
+		"rating_standard": 1823,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1272084,
@@ -3701,9 +3701,9 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1810,
-		"rating_rapid": 1738,
-		"rating_blitz": 1836
+		"rating_standard": 1809,
+		"rating_rapid": 1739,
+		"rating_blitz": 1840
 	},
 	{
 		"fideid": 7004320,
@@ -3721,23 +3721,6 @@
 		"rating_standard": 1809,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7002238,
-		"name": "Kinoshita, Kanako",
-		"country": "JPN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "w",
-		"rating_standard": 1807,
-		"rating_rapid": 1801,
-		"rating_blitz": 1749
 	},
 	{
 		"fideid": 7003250,
@@ -3772,6 +3755,23 @@
 		"rating_standard": 1807,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7002238,
+		"name": "Kinoshita, Kanako",
+		"country": "JPN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "w",
+		"rating_standard": 1806,
+		"rating_rapid": 1801,
+		"rating_blitz": 1750
 	},
 	{
 		"fideid": 7005547,
@@ -3825,23 +3825,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7002173,
-		"name": "Sugita, Kei",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1800,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7003013,
 		"name": "Tomii, Yoshikatsu",
 		"country": "JPN",
@@ -3873,6 +3856,23 @@
 		"flag": "w",
 		"rating_standard": 1799,
 		"rating_rapid": 1820,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7002173,
+		"name": "Sugita, Kei",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1798,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -4216,23 +4216,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7002394,
-		"name": "Clark, Domenic",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 1777,
-		"rating_rapid": null,
-		"rating_blitz": 1801
-	},
-	{
 		"fideid": 7005300,
 		"name": "Ono, Tadashi",
 		"country": "JPN",
@@ -4250,6 +4233,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7002394,
+		"name": "Clark, Domenic",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1776,
+		"rating_rapid": null,
+		"rating_blitz": 1801
+	},
+	{
 		"fideid": 7005156,
 		"name": "Hasegawa, Yuki",
 		"country": "JPN",
@@ -4265,6 +4265,23 @@
 		"rating_standard": 1768,
 		"rating_rapid": 1716,
 		"rating_blitz": 1681
+	},
+	{
+		"fideid": 7000154,
+		"name": "Ogasa, Seiichi",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1954,
+		"flag": "",
+		"rating_standard": 1768,
+		"rating_rapid": 1793,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 7007477,
@@ -4318,23 +4335,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7000154,
-		"name": "Ogasa, Seiichi",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1954,
-		"flag": "",
-		"rating_standard": 1767,
-		"rating_rapid": 1793,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7001622,
 		"name": "Sakakibara, Yuta",
 		"country": "JPN",
@@ -4364,8 +4364,8 @@
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
-		"rating_standard": 1767,
-		"rating_rapid": 1746,
+		"rating_standard": 1766,
+		"rating_rapid": 1740,
 		"rating_blitz": null
 	},
 	{
@@ -4420,23 +4420,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7004451,
-		"name": "Okayama, Ryota",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": 1764,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7002793,
 		"name": "Sonomoto, Shinji",
 		"country": "JPN",
@@ -4471,6 +4454,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7004451,
+		"name": "Okayama, Ryota",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": 1762,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7007078,
 		"name": "Nakanishi, Yuuma",
 		"country": "JPN",
@@ -4485,6 +4485,40 @@
 		"flag": "",
 		"rating_standard": 1761,
 		"rating_rapid": 1714,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7006594,
+		"name": "Onuma, Kota",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1760,
+		"rating_rapid": 1827,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7004931,
+		"name": "Bhatia, Praveen",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1759,
+		"rating_rapid": 1754,
 		"rating_blitz": null
 	},
 	{
@@ -4522,40 +4556,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7004931,
-		"name": "Bhatia, Praveen",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1758,
-		"rating_rapid": 1754,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 7006594,
-		"name": "Onuma, Kota",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1758,
-		"rating_rapid": 1827,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7002254,
 		"name": "Nakamura, Masaki",
 		"country": "JPN",
@@ -4587,7 +4587,7 @@
 		"flag": "",
 		"rating_standard": 1757,
 		"rating_rapid": 1860,
-		"rating_blitz": 1569
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 7003439,
@@ -4675,6 +4675,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7002181,
+		"name": "Kojima, Natsumi",
+		"country": "JPN",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "w",
+		"rating_standard": 1750,
+		"rating_rapid": 1771,
+		"rating_blitz": 1830
+	},
+	{
 		"fideid": 7005474,
 		"name": "Yamamoto, Tomohiro",
 		"country": "JPN",
@@ -4724,23 +4741,6 @@
 		"rating_standard": 1749,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7002181,
-		"name": "Kojima, Natsumi",
-		"country": "JPN",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "w",
-		"rating_standard": 1749,
-		"rating_rapid": 1771,
-		"rating_blitz": 1830
 	},
 	{
 		"fideid": 7005938,
@@ -5146,7 +5146,7 @@
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
-		"rating_standard": 1730,
+		"rating_standard": 1729,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5231,8 +5231,25 @@
 		"k": 40,
 		"birthday": 1990,
 		"flag": "",
-		"rating_standard": 1721,
+		"rating_standard": 1722,
 		"rating_rapid": 1762,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7003501,
+		"name": "Takayasu, Melody",
+		"country": "JPN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "w",
+		"rating_standard": 1721,
+		"rating_rapid": 1828,
 		"rating_blitz": null
 	},
 	{
@@ -5250,23 +5267,6 @@
 		"flag": "i",
 		"rating_standard": 1721,
 		"rating_rapid": 1723,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 7003501,
-		"name": "Takayasu, Melody",
-		"country": "JPN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "w",
-		"rating_standard": 1720,
-		"rating_rapid": 1828,
 		"rating_blitz": null
 	},
 	{
@@ -5508,6 +5508,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7002327,
+		"name": "Koyama, Nobuyuki",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": 1708,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7005342,
 		"name": "Minami, Kazuki",
 		"country": "JPN",
@@ -5538,23 +5555,6 @@
 		"birthday": 1989,
 		"flag": "i",
 		"rating_standard": 1708,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 7002327,
-		"name": "Koyama, Nobuyuki",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1707,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5606,7 +5606,7 @@
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1706,
-		"rating_rapid": 1774,
+		"rating_rapid": 1770,
 		"rating_blitz": null
 	},
 	{
@@ -5690,7 +5690,7 @@
 		"k": 40,
 		"birthday": 1998,
 		"flag": "",
-		"rating_standard": 1702,
+		"rating_standard": 1701,
 		"rating_rapid": 1644,
 		"rating_blitz": null
 	},
@@ -5848,6 +5848,23 @@
 		"rating_blitz": 1668
 	},
 	{
+		"fideid": 8641919,
+		"name": "Tang, Yichen",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1690,
+		"rating_rapid": 1654,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7005539,
 		"name": "Nakashima, Yujin",
 		"country": "JPN",
@@ -5928,7 +5945,7 @@
 		"k": 20,
 		"birthday": 1992,
 		"flag": "",
-		"rating_standard": 1682,
+		"rating_standard": 1683,
 		"rating_rapid": 1702,
 		"rating_blitz": null
 	},
@@ -5947,23 +5964,6 @@
 		"flag": "i",
 		"rating_standard": 1680,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 8641919,
-		"name": "Tang, Yichen",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1680,
-		"rating_rapid": 1654,
 		"rating_blitz": null
 	},
 	{
@@ -6030,7 +6030,7 @@
 		"k": 20,
 		"birthday": 1993,
 		"flag": "w",
-		"rating_standard": 1673,
+		"rating_standard": 1674,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -6047,7 +6047,7 @@
 		"k": 40,
 		"birthday": 1982,
 		"flag": "",
-		"rating_standard": 1671,
+		"rating_standard": 1672,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -6103,6 +6103,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7003862,
+		"name": "Misawa, Yuki",
+		"country": "JPN",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "w",
+		"rating_standard": 1665,
+		"rating_rapid": 1716,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7006608,
 		"name": "Sasaki, Kaishi",
 		"country": "JPN",
@@ -6116,24 +6133,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1665,
-		"rating_rapid": 1698,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 7003862,
-		"name": "Misawa, Yuki",
-		"country": "JPN",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "w",
-		"rating_standard": 1664,
-		"rating_rapid": 1716,
+		"rating_rapid": 1697,
 		"rating_blitz": null
 	},
 	{
@@ -6171,23 +6171,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7003188,
-		"name": "Yamagami, Hiroki",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1661,
-		"rating_rapid": 1799,
-		"rating_blitz": 1744
-	},
-	{
 		"fideid": 7007728,
 		"name": "Watanabe, Keisuke",
 		"country": "JPN",
@@ -6203,6 +6186,23 @@
 		"rating_standard": 1660,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7003188,
+		"name": "Yamagami, Hiroki",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1660,
+		"rating_rapid": 1800,
+		"rating_blitz": 1744
 	},
 	{
 		"fideid": 7004958,
@@ -6409,21 +6409,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7006519,
-		"name": "Niori, Toma",
+		"fideid": 7005350,
+		"name": "Takase, Hayato",
 		"country": "JPN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1640,
-		"rating_rapid": 1811,
-		"rating_blitz": 1505
+		"rating_rapid": 1647,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 7006934,
@@ -6443,6 +6443,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7006519,
+		"name": "Niori, Toma",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1639,
+		"rating_rapid": 1812,
+		"rating_blitz": 1452
+	},
+	{
 		"fideid": 3229157,
 		"name": "Oka, Tsukasa",
 		"country": "JPN",
@@ -6460,23 +6477,6 @@
 		"rating_blitz": 1578
 	},
 	{
-		"fideid": 7005350,
-		"name": "Takase, Hayato",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 1638,
-		"rating_rapid": 1647,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7006110,
 		"name": "Gokita, Kensei",
 		"country": "JPN",
@@ -6490,7 +6490,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1632,
-		"rating_rapid": 1676,
+		"rating_rapid": 1677,
 		"rating_blitz": null
 	},
 	{
@@ -6524,7 +6524,7 @@
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": 1631,
-		"rating_rapid": 1574,
+		"rating_rapid": 1605,
 		"rating_blitz": null
 	},
 	{
@@ -6592,7 +6592,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1627,
-		"rating_rapid": 1569,
+		"rating_rapid": 1567,
 		"rating_blitz": 1648
 	},
 	{
@@ -6678,7 +6678,7 @@
 		"flag": "",
 		"rating_standard": 1622,
 		"rating_rapid": 1934,
-		"rating_blitz": 1681
+		"rating_blitz": 1663
 	},
 	{
 		"fideid": 365105373,
@@ -6694,7 +6694,7 @@
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": 1621,
-		"rating_rapid": 1715,
+		"rating_rapid": 1716,
 		"rating_blitz": null
 	},
 	{
@@ -6715,6 +6715,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 2812130,
+		"name": "Takahashi, Saera",
+		"country": "JPN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "w",
+		"rating_standard": 1619,
+		"rating_rapid": 1740,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7007132,
 		"name": "Shi, Xiaoyun",
 		"country": "JPN",
@@ -6729,23 +6746,6 @@
 		"flag": "wi",
 		"rating_standard": 1618,
 		"rating_rapid": 1599,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 2812130,
-		"name": "Takahashi, Saera",
-		"country": "JPN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "w",
-		"rating_standard": 1618,
-		"rating_rapid": 1740,
 		"rating_blitz": null
 	},
 	{
@@ -6831,7 +6831,7 @@
 		"flag": "",
 		"rating_standard": 1605,
 		"rating_rapid": 1490,
-		"rating_blitz": 1501
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 7006888,
@@ -6885,23 +6885,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7004214,
-		"name": "Matsumoto, Shinji",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1954,
-		"flag": "",
-		"rating_standard": 1602,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7003854,
 		"name": "Truter, Ray",
 		"country": "JPN",
@@ -6931,6 +6914,23 @@
 		"k": 40,
 		"birthday": 2002,
 		"flag": "i",
+		"rating_standard": 1601,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7004214,
+		"name": "Matsumoto, Shinji",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1954,
+		"flag": "",
 		"rating_standard": 1601,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7033,7 +7033,7 @@
 		"k": 40,
 		"birthday": 1999,
 		"flag": "",
-		"rating_standard": 1591,
+		"rating_standard": 1590,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7055,23 +7055,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7006039,
-		"name": "Nukui, Michitaka",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1962,
-		"flag": "",
-		"rating_standard": 1587,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7004630,
 		"name": "Dadok, Adrian",
 		"country": "JPN",
@@ -7084,6 +7067,23 @@
 		"k": 40,
 		"birthday": 1993,
 		"flag": "i",
+		"rating_standard": 1585,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7006039,
+		"name": "Nukui, Michitaka",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "",
 		"rating_standard": 1585,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7102,7 +7102,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1583,
-		"rating_rapid": 1617,
+		"rating_rapid": 1607,
 		"rating_blitz": null
 	},
 	{
@@ -7171,7 +7171,7 @@
 		"flag": "",
 		"rating_standard": 1570,
 		"rating_rapid": null,
-		"rating_blitz": 1705
+		"rating_blitz": 1704
 	},
 	{
 		"fideid": 7006616,
@@ -7254,7 +7254,7 @@
 		"k": 40,
 		"birthday": 1957,
 		"flag": "",
-		"rating_standard": 1550,
+		"rating_standard": 1549,
 		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
@@ -7272,7 +7272,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1547,
-		"rating_rapid": 1546,
+		"rating_rapid": 1547,
 		"rating_blitz": 1636
 	},
 	{
@@ -7359,23 +7359,6 @@
 		"rating_standard": 1534,
 		"rating_rapid": 1573,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7007175,
-		"name": "Okubo, Sui",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1534,
-		"rating_rapid": 1550,
-		"rating_blitz": 1510
 	},
 	{
 		"fideid": 7006438,
@@ -7526,7 +7509,7 @@
 		"k": 40,
 		"birthday": 1965,
 		"flag": "",
-		"rating_standard": 1518,
+		"rating_standard": 1520,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7595,7 +7578,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1504,
-		"rating_rapid": 1538,
+		"rating_rapid": 1537,
 		"rating_blitz": null
 	},
 	{
@@ -7696,8 +7679,8 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1487,
-		"rating_rapid": 1453,
+		"rating_standard": 1489,
+		"rating_rapid": 1454,
 		"rating_blitz": null
 	},
 	{
@@ -7730,9 +7713,9 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1478,
-		"rating_rapid": 1539,
-		"rating_blitz": 1479
+		"rating_standard": 1477,
+		"rating_rapid": 1538,
+		"rating_blitz": 1504
 	},
 	{
 		"fideid": 7004460,
@@ -7750,6 +7733,23 @@
 		"rating_standard": 1475,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7007175,
+		"name": "Okubo, Sui",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1475,
+		"rating_rapid": 1505,
+		"rating_blitz": 1457
 	},
 	{
 		"fideid": 66606519,
@@ -7786,23 +7786,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7006446,
-		"name": "Tsuboi, Mashu",
-		"country": "JPN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1448,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7002599,
 		"name": "Osaka, Shota",
 		"country": "JPN",
@@ -7815,6 +7798,23 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "i",
+		"rating_standard": 1447,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7006446,
+		"name": "Tsuboi, Mashu",
+		"country": "JPN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
 		"rating_standard": 1447,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7866,7 +7866,7 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1429,
+		"rating_standard": 1428,
 		"rating_rapid": 1502,
 		"rating_blitz": null
 	},
@@ -8105,7 +8105,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1426,
+		"rating_rapid": 1427,
 		"rating_blitz": null
 	},
 	{
@@ -8122,7 +8122,7 @@
 		"birthday": 1995,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1740,
+		"rating_rapid": 1741,
 		"rating_blitz": null
 	},
 	{
@@ -8173,8 +8173,8 @@
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1453,
-		"rating_blitz": 1428
+		"rating_rapid": 1450,
+		"rating_blitz": 1430
 	},
 	{
 		"fideid": 7005431,
@@ -8292,8 +8292,8 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1503,
-		"rating_blitz": 1438
+		"rating_rapid": 1502,
+		"rating_blitz": 1437
 	},
 	{
 		"fideid": 7007663,
@@ -8462,7 +8462,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1577,
+		"rating_rapid": 1578,
 		"rating_blitz": null
 	},
 	{
@@ -8496,7 +8496,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1672,
+		"rating_rapid": 1671,
 		"rating_blitz": 1645
 	},
 	{
@@ -8513,7 +8513,7 @@
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1631,
+		"rating_rapid": 1632,
 		"rating_blitz": null
 	},
 	{
@@ -8802,7 +8802,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1842,
+		"rating_rapid": 1843,
 		"rating_blitz": null
 	},
 	{
@@ -8836,7 +8836,7 @@
 		"birthday": 1975,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1505,
+		"rating_rapid": 1533,
 		"rating_blitz": null
 	},
 	{
@@ -8870,8 +8870,8 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1416,
-		"rating_blitz": 1424
+		"rating_rapid": 1415,
+		"rating_blitz": 1423
 	},
 	{
 		"fideid": 7006136,
@@ -8887,7 +8887,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1524,
+		"rating_rapid": 1471,
 		"rating_blitz": null
 	},
 	{
