@@ -8,7 +8,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
@@ -25,7 +25,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
@@ -119,23 +119,6 @@
 		"rating_blitz": 1808
 	},
 	{
-		"fideid": 24111627,
-		"name": "Strovskiy, Mikhail",
-		"country": "TOG",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 1815,
-		"rating_rapid": 1963,
-		"rating_blitz": 1831
-	},
-	{
 		"fideid": 21200041,
 		"name": "Kouevi, Mawuvi Koue",
 		"country": "TOG",
@@ -166,7 +149,7 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": 1787,
-		"rating_rapid": 1805,
+		"rating_rapid": 1784,
 		"rating_blitz": 1723
 	},
 	{
@@ -185,6 +168,23 @@
 		"rating_standard": 1787,
 		"rating_rapid": 1828,
 		"rating_blitz": 1732
+	},
+	{
+		"fideid": 24111627,
+		"name": "Strovskiy, Mikhail",
+		"country": "TOG",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1786,
+		"rating_rapid": 1963,
+		"rating_blitz": 1831
 	},
 	{
 		"fideid": 21202222,
@@ -302,7 +302,7 @@
 		"birthday": 1974,
 		"flag": "",
 		"rating_standard": 1721,
-		"rating_rapid": 1676,
+		"rating_rapid": 1697,
 		"rating_blitz": 1721
 	},
 	{
@@ -336,7 +336,7 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1721,
-		"rating_rapid": 1855,
+		"rating_rapid": 1814,
 		"rating_blitz": 1807
 	},
 	{
@@ -355,6 +355,23 @@
 		"rating_standard": 1719,
 		"rating_rapid": 1644,
 		"rating_blitz": 1755
+	},
+	{
+		"fideid": 21204845,
+		"name": "Tuyizere, Benoit",
+		"country": "TOG",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1713,
+		"rating_rapid": 1481,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 21200718,
@@ -425,23 +442,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21204845,
-		"name": "Tuyizere, Benoit",
-		"country": "TOG",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1688,
-		"rating_rapid": 1481,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21204667,
 		"name": "Amediame, Jacques",
 		"country": "TOG",
@@ -472,7 +472,7 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": 1669,
-		"rating_rapid": 1760,
+		"rating_rapid": 1743,
 		"rating_blitz": 1710
 	},
 	{
@@ -540,7 +540,7 @@
 		"birthday": 1978,
 		"flag": "",
 		"rating_standard": 1637,
-		"rating_rapid": 1562,
+		"rating_rapid": 1560,
 		"rating_blitz": 1656
 	},
 	{
@@ -557,7 +557,7 @@
 		"birthday": 2004,
 		"flag": "i",
 		"rating_standard": 1636,
-		"rating_rapid": 1611,
+		"rating_rapid": 1598,
 		"rating_blitz": null
 	},
 	{
@@ -625,7 +625,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1589,
-		"rating_rapid": 1544,
+		"rating_rapid": 1555,
 		"rating_blitz": 1614
 	},
 	{
@@ -659,7 +659,7 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1582,
-		"rating_rapid": 1524,
+		"rating_rapid": 1554,
 		"rating_blitz": 1520
 	},
 	{
@@ -994,12 +994,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1407,
+		"rating_rapid": 1404,
 		"rating_blitz": null
 	},
 	{
@@ -1051,6 +1051,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1659,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21205485,
+		"name": "Akakpo, Kossi Arnold",
+		"country": "TOG",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1560,
 		"rating_blitz": null
 	},
 	{
@@ -1113,12 +1130,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1592,
+		"rating_rapid": 1622,
 		"rating_blitz": 1612
 	},
 	{
@@ -1130,7 +1147,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
@@ -1249,7 +1266,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
@@ -1334,7 +1351,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
@@ -1388,7 +1405,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1977,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1785,
 		"rating_blitz": null
@@ -1422,7 +1439,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1995,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1420,
 		"rating_blitz": null
@@ -1453,7 +1470,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
@@ -1487,12 +1504,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 4,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1631,
+		"rating_rapid": 1611,
 		"rating_blitz": null
 	},
 	{
@@ -1575,7 +1592,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1528,
 		"rating_blitz": null
@@ -1606,12 +1623,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1633,
+		"rating_rapid": 1713,
 		"rating_blitz": null
 	},
 	{
@@ -1674,7 +1691,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",

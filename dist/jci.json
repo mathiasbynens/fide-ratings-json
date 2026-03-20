@@ -82,7 +82,7 @@
 		"flag": "",
 		"rating_standard": 2084,
 		"rating_rapid": 2061,
-		"rating_blitz": 1993
+		"rating_blitz": 1997
 	},
 	{
 		"fideid": 67600280,
@@ -269,7 +269,7 @@
 		"flag": "",
 		"rating_standard": 1875,
 		"rating_rapid": null,
-		"rating_blitz": 1973
+		"rating_blitz": 1964
 	},
 	{
 		"fideid": 15600149,
@@ -287,6 +287,23 @@
 		"rating_standard": 1863,
 		"rating_rapid": 1840,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 15600157,
+		"name": "Mazurkiewicz, Marcin",
+		"country": "JCI",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1975,
+		"flag": "",
+		"rating_standard": 1854,
+		"rating_rapid": null,
+		"rating_blitz": 1926
 	},
 	{
 		"fideid": 15600718,
@@ -340,23 +357,6 @@
 		"rating_blitz": 1844
 	},
 	{
-		"fideid": 15600157,
-		"name": "Mazurkiewicz, Marcin",
-		"country": "JCI",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1975,
-		"flag": "",
-		"rating_standard": 1832,
-		"rating_rapid": null,
-		"rating_blitz": 1926
-	},
-	{
 		"fideid": 15600467,
 		"name": "Girard, George",
 		"country": "JCI",
@@ -399,13 +399,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 1787,
 		"rating_rapid": null,
-		"rating_blitz": 1733
+		"rating_blitz": 1741
 	},
 	{
 		"fideid": 67601499,
@@ -490,7 +490,7 @@
 		"flag": "",
 		"rating_standard": 1727,
 		"rating_rapid": null,
-		"rating_blitz": 1709
+		"rating_blitz": 1721
 	},
 	{
 		"fideid": 67601251,
@@ -552,7 +552,7 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "w",
@@ -592,7 +592,7 @@
 		"flag": "w",
 		"rating_standard": 1648,
 		"rating_rapid": 1728,
-		"rating_blitz": 1647
+		"rating_blitz": 1633
 	},
 	{
 		"fideid": 15600262,
@@ -603,13 +603,13 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 9,
 		"k": 20,
 		"birthday": 1977,
 		"flag": "w",
-		"rating_standard": 1628,
+		"rating_standard": 1627,
 		"rating_rapid": 1610,
-		"rating_blitz": 1629
+		"rating_blitz": 1633
 	},
 	{
 		"fideid": 15600360,
@@ -773,13 +773,98 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1967,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1725
+		"rating_blitz": 1708
+	},
+	{
+		"fideid": 15600785,
+		"name": "Bungu, Esthu",
+		"country": "JCI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1613
+	},
+	{
+		"fideid": 15600777,
+		"name": "Deveney, Paul",
+		"country": "JCI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1615
+	},
+	{
+		"fideid": 15600726,
+		"name": "Durant, Zena",
+		"country": "JCI",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1963,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1610
+	},
+	{
+		"fideid": 15600807,
+		"name": "Johnson, Martyn",
+		"country": "JCI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1773
+	},
+	{
+		"fideid": 15600793,
+		"name": "Lara, Dennis de la cruz",
+		"country": "JCI",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1688
 	},
 	{
 		"fideid": 15600530,

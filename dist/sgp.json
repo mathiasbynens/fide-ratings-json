@@ -8,11 +8,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 10,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 2584,
+		"rating_standard": 2589,
 		"rating_rapid": 2526,
 		"rating_blitz": 2483
 	},
@@ -29,7 +29,7 @@
 		"k": 10,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 2496,
+		"rating_standard": 2509,
 		"rating_rapid": 2425,
 		"rating_blitz": 2471
 	},
@@ -161,7 +161,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 18,
+		"games": 0,
 		"k": 20,
 		"birthday": 2009,
 		"flag": "",
@@ -212,12 +212,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 10,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 2386,
-		"rating_rapid": 2235,
+		"rating_standard": 2371,
+		"rating_rapid": 2221,
 		"rating_blitz": 2232
 	},
 	{
@@ -229,11 +229,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 10,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 2348,
+		"rating_standard": 2353,
 		"rating_rapid": 2277,
 		"rating_blitz": 2323
 	},
@@ -297,7 +297,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2015,
 		"flag": "",
@@ -329,7 +329,7 @@
 		"sex": "M",
 		"title": "FM",
 		"w_title": "",
-		"o_title": "FI",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -459,23 +459,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5201322,
-		"name": "Paciencia, Enrique",
-		"country": "SGP",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1967,
-		"flag": "",
-		"rating_standard": 2265,
-		"rating_rapid": 2171,
-		"rating_blitz": 2203
-	},
-	{
 		"fideid": 5800897,
 		"name": "Yeo, Min Yang Evan",
 		"country": "SGP",
@@ -561,6 +544,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5201322,
+		"name": "Paciencia, Enrique",
+		"country": "SGP",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1967,
+		"flag": "",
+		"rating_standard": 2253,
+		"rating_rapid": 2171,
+		"rating_blitz": 2203
+	},
+	{
 		"fideid": 5804809,
 		"name": "Lee, Jun Wei",
 		"country": "SGP",
@@ -627,6 +627,23 @@
 		"rating_standard": 2245,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 25996045,
+		"name": "Sreekarthika Velmurugan",
+		"country": "SGP",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 2244,
+		"rating_rapid": 1993,
+		"rating_blitz": 1972
 	},
 	{
 		"fideid": 5800820,
@@ -799,23 +816,6 @@
 		"rating_blitz": 2129
 	},
 	{
-		"fideid": 8602425,
-		"name": "Gong, Qianyun",
-		"country": "SGP",
-		"sex": "F",
-		"title": "WGM",
-		"w_title": "WGM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "w",
-		"rating_standard": 2228,
-		"rating_rapid": 2134,
-		"rating_blitz": 2220
-	},
-	{
 		"fideid": 5800285,
 		"name": "Chong, David",
 		"country": "SGP",
@@ -884,13 +884,30 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5801664,
+		"name": "Foo, Zhi Rong Benjamin",
+		"country": "SGP",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 2205,
+		"rating_rapid": 2183,
+		"rating_blitz": 2152
+	},
+	{
 		"fideid": 5800102,
 		"name": "Lim, Hoon Cheng",
 		"country": "SGP",
 		"sex": "M",
 		"title": "FM",
 		"w_title": "",
-		"o_title": "FT",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -969,21 +986,21 @@
 		"rating_blitz": 2132
 	},
 	{
-		"fideid": 5801664,
-		"name": "Foo, Zhi Rong Benjamin",
+		"fideid": 8602425,
+		"name": "Gong, Qianyun",
 		"country": "SGP",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
+		"sex": "F",
+		"title": "WGM",
+		"w_title": "WGM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 8,
 		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 2197,
-		"rating_rapid": 2183,
-		"rating_blitz": 2152
+		"birthday": 1985,
+		"flag": "w",
+		"rating_standard": 2198,
+		"rating_rapid": 2134,
+		"rating_blitz": 2220
 	},
 	{
 		"fideid": 5800684,
@@ -1094,7 +1111,7 @@
 		"sex": "M",
 		"title": "FM",
 		"w_title": "",
-		"o_title": "NI",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -1136,7 +1153,7 @@
 		"flag": "i",
 		"rating_standard": 2175,
 		"rating_rapid": 2124,
-		"rating_blitz": 2163
+		"rating_blitz": 2167
 	},
 	{
 		"fideid": 5804906,
@@ -1258,23 +1275,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 25996045,
-		"name": "Sreekarthika Velmurugan",
-		"country": "SGP",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 2156,
-		"rating_rapid": 1993,
-		"rating_blitz": 1972
-	},
-	{
 		"fideid": 5801672,
 		"name": "Koh, Jonathan",
 		"country": "SGP",
@@ -1385,13 +1385,30 @@
 		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "w",
-		"rating_standard": 2105,
-		"rating_rapid": 2030,
-		"rating_blitz": 2027
+		"rating_standard": 2112,
+		"rating_rapid": 2024,
+		"rating_blitz": 2045
+	},
+	{
+		"fideid": 5833655,
+		"name": "Vijay, Rege",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2111,
+		"rating_rapid": 1991,
+		"rating_blitz": 1903
 	},
 	{
 		"fideid": 5821304,
@@ -1479,23 +1496,6 @@
 		"rating_blitz": 2179
 	},
 	{
-		"fideid": 5824605,
-		"name": "Rice, Leah",
-		"country": "SGP",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 2082,
-		"rating_rapid": 1881,
-		"rating_blitz": 1946
-	},
-	{
 		"fideid": 5800811,
 		"name": "Wee, Zhen Yang",
 		"country": "SGP",
@@ -1581,23 +1581,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5833655,
-		"name": "Vijay, Rege",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2075,
-		"rating_rapid": 1993,
-		"rating_blitz": 1903
-	},
-	{
 		"fideid": 5802040,
 		"name": "Wee, Chu En Kelvin",
 		"country": "SGP",
@@ -1664,23 +1647,6 @@
 		"rating_standard": 2071,
 		"rating_rapid": 2065,
 		"rating_blitz": 2059
-	},
-	{
-		"fideid": 5832020,
-		"name": "Sung, Tze Shyan Evin",
-		"country": "SGP",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 2071,
-		"rating_rapid": 1979,
-		"rating_blitz": 1736
 	},
 	{
 		"fideid": 5801249,
@@ -1785,6 +1751,23 @@
 		"rating_blitz": 1943
 	},
 	{
+		"fideid": 5806585,
+		"name": "Hng, Mei-Xian Eunice",
+		"country": "SGP",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "w",
+		"rating_standard": 2054,
+		"rating_rapid": 1953,
+		"rating_blitz": 2055
+	},
+	{
 		"fideid": 5701724,
 		"name": "Chow, Mon Ben",
 		"country": "SGP",
@@ -1878,30 +1861,13 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 2046,
-		"rating_rapid": 1859,
+		"rating_rapid": 1881,
 		"rating_blitz": 1876
-	},
-	{
-		"fideid": 5806585,
-		"name": "Hng, Mei-Xian Eunice",
-		"country": "SGP",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "w",
-		"rating_standard": 2044,
-		"rating_rapid": 1895,
-		"rating_blitz": 2043
 	},
 	{
 		"fideid": 5802490,
@@ -1921,23 +1887,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5828678,
-		"name": "Sanjay, Vasu",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 2042,
-		"rating_rapid": 1964,
-		"rating_blitz": 1819
-	},
-	{
 		"fideid": 5801214,
 		"name": "Wee, Chun Jie Eugene",
 		"country": "SGP",
@@ -1953,23 +1902,6 @@
 		"rating_standard": 2042,
 		"rating_rapid": 1974,
 		"rating_blitz": 2016
-	},
-	{
-		"fideid": 14200473,
-		"name": "Khegay, Anjela",
-		"country": "SGP",
-		"sex": "F",
-		"title": "WIM",
-		"w_title": "WIM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "w",
-		"rating_standard": 2039,
-		"rating_rapid": null,
-		"rating_blitz": 2168
 	},
 	{
 		"fideid": 5805279,
@@ -2023,6 +1955,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5832020,
+		"name": "Sung, Tze Shyan Evin",
+		"country": "SGP",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 2031,
+		"rating_rapid": 1979,
+		"rating_blitz": 1736
+	},
+	{
+		"fideid": 5828678,
+		"name": "Sanjay, Vasu",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 2030,
+		"rating_rapid": 2016,
+		"rating_blitz": 1819
+	},
+	{
 		"fideid": 5801869,
 		"name": "Tan, Kia Hua",
 		"country": "SGP",
@@ -2057,8 +2023,25 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5836816,
-		"name": "Leong, Jyuin Pang Alexx Xander",
+		"fideid": 5824605,
+		"name": "Rice, Leah",
+		"country": "SGP",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 2029,
+		"rating_rapid": 1881,
+		"rating_blitz": 1946
+	},
+	{
+		"fideid": 6008623,
+		"name": "Bonnet, Gabriel Misa Jean",
 		"country": "SGP",
 		"sex": "M",
 		"title": "",
@@ -2067,11 +2050,11 @@
 		"foa_title": "",
 		"games": 9,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 2026,
-		"rating_rapid": 1731,
-		"rating_blitz": 1666
+		"rating_standard": 2025,
+		"rating_rapid": 1862,
+		"rating_blitz": 2007
 	},
 	{
 		"fideid": 5800544,
@@ -2125,6 +2108,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5827701,
+		"name": "Wong, Yen-Hsiu Elliot",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 2019,
+		"rating_rapid": 1993,
+		"rating_blitz": 1941
+	},
+	{
 		"fideid": 5806283,
 		"name": "Phan, Stefanus Kf",
 		"country": "SGP",
@@ -2138,8 +2138,25 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 2018,
-		"rating_rapid": 1945,
+		"rating_rapid": 1915,
 		"rating_blitz": 1909
+	},
+	{
+		"fideid": 14200473,
+		"name": "Khegay, Anjela",
+		"country": "SGP",
+		"sex": "F",
+		"title": "WIM",
+		"w_title": "WIM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "w",
+		"rating_standard": 2013,
+		"rating_rapid": null,
+		"rating_blitz": 2168
 	},
 	{
 		"fideid": 5805678,
@@ -2150,12 +2167,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 2013,
-		"rating_rapid": 2059,
+		"rating_rapid": 2054,
 		"rating_blitz": 2027
 	},
 	{
@@ -2261,6 +2278,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5825733,
+		"name": "Lee, Jing Xi Jonathan",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2002,
+		"rating_rapid": 2037,
+		"rating_blitz": 1979
+	},
+	{
+		"fideid": 5836816,
+		"name": "Leong, Jyuin Pang Alexx Xander",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2002,
+		"rating_rapid": 1731,
+		"rating_blitz": 1666
+	},
+	{
 		"fideid": 5801281,
 		"name": "Khor, Yu Keat Andrew",
 		"country": "SGP",
@@ -2291,7 +2342,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 2001,
-		"rating_rapid": 1986,
+		"rating_rapid": 2046,
 		"rating_blitz": 1658
 	},
 	{
@@ -2320,13 +2371,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1994,
-		"rating_rapid": 1872,
-		"rating_blitz": 1899
+		"rating_rapid": 1896,
+		"rating_blitz": 1854
 	},
 	{
 		"fideid": 5800595,
@@ -2369,7 +2420,7 @@
 		"sex": "F",
 		"title": "WCM",
 		"w_title": "WCM",
-		"o_title": "NI",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -2410,7 +2461,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1990,
-		"rating_rapid": 1810,
+		"rating_rapid": 1837,
 		"rating_blitz": 1738
 	},
 	{
@@ -2601,6 +2652,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33369780,
+		"name": "Vedant Nayudu",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1975,
+		"rating_rapid": 1717,
+		"rating_blitz": 1769
+	},
+	{
 		"fideid": 5802342,
 		"name": "Muhd, Haikal",
 		"country": "SGP",
@@ -2737,23 +2805,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6008623,
-		"name": "Bonnet, Gabriel Misa Jean",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 14,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1967,
-		"rating_rapid": 1862,
-		"rating_blitz": 2007
-	},
-	{
 		"fideid": 5801818,
 		"name": "Ong, Chong Hao Nathanael",
 		"country": "SGP",
@@ -2786,6 +2837,23 @@
 		"rating_standard": 1966,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5833531,
+		"name": "Chan, Jing Fong Joash",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1964,
+		"rating_rapid": 1977,
+		"rating_blitz": 1889
 	},
 	{
 		"fideid": 5807204,
@@ -2822,38 +2890,21 @@
 		"rating_blitz": 1902
 	},
 	{
-		"fideid": 5833531,
-		"name": "Chan, Jing Fong Joash",
+		"fideid": 5819660,
+		"name": "Fang, Kun",
 		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1961,
-		"rating_rapid": 1977,
-		"rating_blitz": 1889
-	},
-	{
-		"fideid": 33369780,
-		"name": "Vedant Nayudu",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 17,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1958,
-		"rating_rapid": 1717,
-		"rating_blitz": 1769
+		"games": 9,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1959,
+		"rating_rapid": 1917,
+		"rating_blitz": 1822
 	},
 	{
 		"fideid": 72900180,
@@ -2870,7 +2921,7 @@
 		"flag": "",
 		"rating_standard": 1957,
 		"rating_rapid": 1909,
-		"rating_blitz": 2034
+		"rating_blitz": 2007
 	},
 	{
 		"fideid": 5817994,
@@ -2907,23 +2958,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5819660,
-		"name": "Fang, Kun",
-		"country": "SGP",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1954,
-		"rating_rapid": 1915,
-		"rating_blitz": 1822
-	},
-	{
 		"fideid": 129057499,
 		"name": "Tan, Jimmy",
 		"country": "SGP",
@@ -2954,8 +2988,25 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1951,
-		"rating_rapid": 1755,
+		"rating_rapid": 1682,
 		"rating_blitz": 1738
+	},
+	{
+		"fideid": 5813344,
+		"name": "Pang, Khai Jie Ryan",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1951,
+		"rating_rapid": 1955,
+		"rating_blitz": 1883
 	},
 	{
 		"fideid": 5816815,
@@ -3024,23 +3075,6 @@
 		"rating_standard": 1941,
 		"rating_rapid": 1944,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5833884,
-		"name": "Gnanasekar, Jai Adithya",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1941,
-		"rating_rapid": 1900,
-		"rating_blitz": 1661
 	},
 	{
 		"fideid": 5805880,
@@ -3145,23 +3179,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5825733,
-		"name": "Lee, Jing Xi Jonathan",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1928,
-		"rating_rapid": 2003,
-		"rating_blitz": 1979
-	},
-	{
 		"fideid": 5801494,
 		"name": "Neo, Xiuwen Christabel",
 		"country": "SGP",
@@ -3177,6 +3194,23 @@
 		"rating_standard": 1928,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5833884,
+		"name": "Gnanasekar, Jai Adithya",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1927,
+		"rating_rapid": 1900,
+		"rating_blitz": 1661
 	},
 	{
 		"fideid": 5800625,
@@ -3209,7 +3243,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1921,
-		"rating_rapid": 1717,
+		"rating_rapid": 1683,
 		"rating_blitz": 1571
 	},
 	{
@@ -3281,23 +3315,6 @@
 		"rating_blitz": 1876
 	},
 	{
-		"fideid": 5812380,
-		"name": "Cheok, Oliver",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1917,
-		"rating_rapid": 1936,
-		"rating_blitz": 1826
-	},
-	{
 		"fideid": 5800978,
 		"name": "Lim, Shuyu Christine",
 		"country": "SGP",
@@ -3313,23 +3330,6 @@
 		"rating_standard": 1917,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5813344,
-		"name": "Pang, Khai Jie Ryan",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1917,
-		"rating_rapid": 1880,
-		"rating_blitz": 1870
 	},
 	{
 		"fideid": 5800609,
@@ -3400,23 +3400,6 @@
 		"rating_blitz": 1873
 	},
 	{
-		"fideid": 5827701,
-		"name": "Wong, Yen-Hsiu Elliot",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1915,
-		"rating_rapid": 1934,
-		"rating_blitz": 1941
-	},
-	{
 		"fideid": 5801001,
 		"name": "Lo, Yin Ling Melissa",
 		"country": "SGP",
@@ -3432,6 +3415,23 @@
 		"rating_standard": 1914,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5812380,
+		"name": "Cheok, Oliver",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1911,
+		"rating_rapid": 1936,
+		"rating_blitz": 1826
 	},
 	{
 		"fideid": 5807280,
@@ -3553,6 +3553,23 @@
 		"rating_blitz": 1805
 	},
 	{
+		"fideid": 5835828,
+		"name": "Liew, Tze Yu",
+		"country": "SGP",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1897,
+		"rating_rapid": 1858,
+		"rating_blitz": 1720
+	},
+	{
 		"fideid": 5823293,
 		"name": "Yeo, Klaus Lucas",
 		"country": "SGP",
@@ -3566,7 +3583,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1897,
-		"rating_rapid": 1808,
+		"rating_rapid": 1885,
 		"rating_blitz": 1898
 	},
 	{
@@ -3935,30 +3952,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1874,
-		"rating_rapid": 1782,
-		"rating_blitz": 1867
-	},
-	{
-		"fideid": 5829453,
-		"name": "Dhanesh, Venkata Narayanaswamy",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1873,
-		"rating_rapid": 1762,
-		"rating_blitz": 1721
+		"rating_rapid": 1785,
+		"rating_blitz": 1874
 	},
 	{
 		"fideid": 5805465,
@@ -3976,6 +3976,23 @@
 		"rating_standard": 1872,
 		"rating_rapid": 1814,
 		"rating_blitz": 1783
+	},
+	{
+		"fideid": 5829453,
+		"name": "Dhanesh, Venkata Narayanaswamy",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "AFM",
+		"games": 5,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1869,
+		"rating_rapid": 1747,
+		"rating_blitz": 1739
 	},
 	{
 		"fideid": 5800374,
@@ -4080,23 +4097,6 @@
 		"rating_blitz": 1858
 	},
 	{
-		"fideid": 5839963,
-		"name": "Wang, Leonardo Xirui",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 13,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1865,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5820669,
 		"name": "Koh, Wei Le Gladys",
 		"country": "SGP",
@@ -4148,6 +4148,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5809576,
+		"name": "Teo, Hong Ming",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1862,
+		"rating_rapid": 1865,
+		"rating_blitz": 1865
+	},
+	{
 		"fideid": 5801427,
 		"name": "Ho, En Tian Mark",
 		"country": "SGP",
@@ -4163,23 +4180,6 @@
 		"rating_standard": 1861,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5809576,
-		"name": "Teo, Hong Ming",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1861,
-		"rating_rapid": 1819,
-		"rating_blitz": 1865
 	},
 	{
 		"fideid": 5800463,
@@ -4212,7 +4212,7 @@
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1859,
-		"rating_rapid": 1849,
+		"rating_rapid": 1857,
 		"rating_blitz": 1970
 	},
 	{
@@ -4244,10 +4244,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1853,
 		"rating_rapid": 1768,
 		"rating_blitz": 1713
+	},
+	{
+		"fideid": 5839963,
+		"name": "Wang, Leonardo Xirui",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1853,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5805341,
@@ -4318,6 +4335,23 @@
 		"rating_blitz": 1790
 	},
 	{
+		"fideid": 5833639,
+		"name": "Yu, Bei Hao",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1849,
+		"rating_rapid": 1802,
+		"rating_blitz": 1509
+	},
+	{
 		"fideid": 5833728,
 		"name": "Wu, Chenyu",
 		"country": "SGP",
@@ -4326,12 +4360,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1848,
-		"rating_rapid": 1658,
+		"rating_rapid": 1777,
 		"rating_blitz": 1734
 	},
 	{
@@ -4539,23 +4573,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 35068601,
-		"name": "Saravanan Durga",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 17,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "w",
-		"rating_standard": 1833,
-		"rating_rapid": 1753,
-		"rating_blitz": 1723
-	},
-	{
 		"fideid": 5804043,
 		"name": "Arjun, Vairavan",
 		"country": "SGP",
@@ -4581,7 +4598,7 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "ACM",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -4603,7 +4620,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1829,
-		"rating_rapid": 1786,
+		"rating_rapid": 1809,
 		"rating_blitz": 1694
 	},
 	{
@@ -4654,7 +4671,7 @@
 		"birthday": 1960,
 		"flag": "i",
 		"rating_standard": 1827,
-		"rating_rapid": 1852,
+		"rating_rapid": 1831,
 		"rating_blitz": 1921
 	},
 	{
@@ -4690,23 +4707,6 @@
 		"rating_standard": 1824,
 		"rating_rapid": 1765,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5835828,
-		"name": "Liew, Tze Yu",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1823,
-		"rating_rapid": 1848,
-		"rating_blitz": 1720
 	},
 	{
 		"fideid": 5834856,
@@ -4756,7 +4756,7 @@
 		"birthday": "",
 		"flag": "",
 		"rating_standard": 1821,
-		"rating_rapid": 1771,
+		"rating_rapid": 1803,
 		"rating_blitz": 1823
 	},
 	{
@@ -4809,23 +4809,6 @@
 		"rating_standard": 1821,
 		"rating_rapid": 1803,
 		"rating_blitz": 1862
-	},
-	{
-		"fideid": 5833639,
-		"name": "Yu, Bei Hao",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1821,
-		"rating_rapid": 1802,
-		"rating_blitz": 1509
 	},
 	{
 		"fideid": 5823544,
@@ -4938,13 +4921,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1813,
-		"rating_rapid": 1710,
-		"rating_blitz": 1624
+		"rating_rapid": 1862,
+		"rating_blitz": 1648
 	},
 	{
 		"fideid": 5817650,
@@ -5125,7 +5108,7 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
@@ -5147,7 +5130,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1804,
-		"rating_rapid": 1535,
+		"rating_rapid": 1587,
 		"rating_blitz": null
 	},
 	{
@@ -5202,23 +5185,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5840325,
-		"name": "Raman, Kanav",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1802,
-		"rating_rapid": 1720,
-		"rating_blitz": 1521
-	},
-	{
 		"fideid": 5804060,
 		"name": "Foo, Andrea",
 		"country": "SGP",
@@ -5234,6 +5200,23 @@
 		"rating_standard": 1799,
 		"rating_rapid": null,
 		"rating_blitz": 1789
+	},
+	{
+		"fideid": 35068601,
+		"name": "Saravanan Durga",
+		"country": "SGP",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "w",
+		"rating_standard": 1799,
+		"rating_rapid": 1753,
+		"rating_blitz": 1723
 	},
 	{
 		"fideid": 5808880,
@@ -5321,23 +5304,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5836352,
-		"name": "Wee, Yu Heng Lucas John",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1796,
-		"rating_rapid": 1746,
-		"rating_blitz": 1687
-	},
-	{
 		"fideid": 5829852,
 		"name": "Karl, Sutanto",
 		"country": "SGP",
@@ -5346,7 +5312,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -5403,7 +5369,7 @@
 		"flag": "",
 		"rating_standard": 1791,
 		"rating_rapid": 1728,
-		"rating_blitz": 1771
+		"rating_blitz": 1768
 	},
 	{
 		"fideid": 5802580,
@@ -5487,7 +5453,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1787,
-		"rating_rapid": 1791,
+		"rating_rapid": 1817,
 		"rating_blitz": 1595
 	},
 	{
@@ -5538,8 +5504,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1782,
-		"rating_rapid": 1848,
-		"rating_blitz": 1786
+		"rating_rapid": 1832,
+		"rating_blitz": 1814
 	},
 	{
 		"fideid": 5825296,
@@ -5627,6 +5593,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5836352,
+		"name": "Wee, Yu Heng Lucas John",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1779,
+		"rating_rapid": 1734,
+		"rating_blitz": 1687
+	},
+	{
 		"fideid": 5802938,
 		"name": "Lim, Tze Wei",
 		"country": "SGP",
@@ -5708,7 +5691,7 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": 1775,
-		"rating_rapid": 1576,
+		"rating_rapid": 1577,
 		"rating_blitz": 1735
 	},
 	{
@@ -5746,21 +5729,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5856116,
-		"name": "Manjunathan Janani, Yokgan",
+		"fideid": 5840325,
+		"name": "Raman, Kanav",
 		"country": "SGP",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 6,
 		"k": 40,
-		"birthday": 2016,
+		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1774,
-		"rating_rapid": 1739,
-		"rating_blitz": 1606
+		"rating_standard": 1772,
+		"rating_rapid": 1720,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 5819881,
@@ -5829,6 +5812,23 @@
 		"rating_standard": 1765,
 		"rating_rapid": 1705,
 		"rating_blitz": 1711
+	},
+	{
+		"fideid": 5800331,
+		"name": "Conan, Wong",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1763,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5804728,
@@ -5929,7 +5929,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1759,
-		"rating_rapid": 1722,
+		"rating_rapid": 1793,
 		"rating_blitz": 1556
 	},
 	{
@@ -5961,23 +5961,6 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1756,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 5800331,
-		"name": "Conan, Wong",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": "",
 		"flag": "",
 		"rating_standard": 1756,
 		"rating_rapid": null,
@@ -6058,7 +6041,7 @@
 		"sex": "F",
 		"title": "WCM",
 		"w_title": "WCM",
-		"o_title": "NI",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -6092,7 +6075,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI,FA",
+		"o_title": "FA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -6128,12 +6111,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1751,
-		"rating_rapid": 1592,
+		"rating_rapid": 1648,
 		"rating_blitz": 1511
 	},
 	{
@@ -6167,7 +6150,7 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1750,
-		"rating_rapid": 1607,
+		"rating_rapid": 1597,
 		"rating_blitz": 1581
 	},
 	{
@@ -6177,7 +6160,7 @@
 		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI,FA",
+		"o_title": "FA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -6262,12 +6245,12 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "DI",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1744,
 		"rating_rapid": 1746,
 		"rating_blitz": 1786
@@ -6422,7 +6405,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1741,
-		"rating_rapid": 1793,
+		"rating_rapid": 1831,
 		"rating_blitz": 1775
 	},
 	{
@@ -6475,23 +6458,6 @@
 		"rating_standard": 1738,
 		"rating_rapid": 1678,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5836506,
-		"name": "Timothy, Gerard Lopez",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1736,
-		"rating_rapid": 1716,
-		"rating_blitz": 1664
 	},
 	{
 		"fideid": 5824842,
@@ -6575,7 +6541,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1731,
-		"rating_rapid": 1696,
+		"rating_rapid": 1736,
 		"rating_blitz": 1588
 	},
 	{
@@ -6594,6 +6560,23 @@
 		"rating_standard": 1731,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5866618,
+		"name": "Ting, Peng Chee Gideon",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1730,
+		"rating_rapid": 1628,
+		"rating_blitz": 1665
 	},
 	{
 		"fideid": 5802024,
@@ -6621,7 +6604,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -6643,7 +6626,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1729,
-		"rating_rapid": 1689,
+		"rating_rapid": 1755,
 		"rating_blitz": 1656
 	},
 	{
@@ -6919,6 +6902,23 @@
 		"rating_blitz": 1767
 	},
 	{
+		"fideid": 5836506,
+		"name": "Timothy, Gerard Lopez",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1716,
+		"rating_rapid": 1758,
+		"rating_blitz": 1664
+	},
+	{
 		"fideid": 5813042,
 		"name": "You, Xinyu Tom",
 		"country": "SGP",
@@ -7055,6 +7055,23 @@
 		"rating_blitz": 1786
 	},
 	{
+		"fideid": 5819075,
+		"name": "Agarwal, Madhav",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 3,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1710,
+		"rating_rapid": 1824,
+		"rating_blitz": 1751
+	},
+	{
 		"fideid": 5828139,
 		"name": "Suryavarman, Chandrasekar",
 		"country": "SGP",
@@ -7102,7 +7119,7 @@
 		"birthday": 2013,
 		"flag": "i",
 		"rating_standard": 1707,
-		"rating_rapid": 1506,
+		"rating_rapid": 1562,
 		"rating_blitz": 1561
 	},
 	{
@@ -7136,7 +7153,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1707,
-		"rating_rapid": 1811,
+		"rating_rapid": 1815,
 		"rating_blitz": 1564
 	},
 	{
@@ -7153,7 +7170,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1705,
-		"rating_rapid": 1598,
+		"rating_rapid": 1609,
 		"rating_blitz": 1579
 	},
 	{
@@ -7208,23 +7225,6 @@
 		"rating_blitz": 1526
 	},
 	{
-		"fideid": 5866618,
-		"name": "Ting, Peng Chee Gideon",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1704,
-		"rating_rapid": 1628,
-		"rating_blitz": 1665
-	},
-	{
 		"fideid": 5808952,
 		"name": "Tay, Zhi Sheng Jacob",
 		"country": "SGP",
@@ -7272,25 +7272,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1701,
-		"rating_rapid": 1789,
+		"rating_rapid": 1788,
 		"rating_blitz": 1805
-	},
-	{
-		"fideid": 5819075,
-		"name": "Agarwal, Madhav",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1700,
-		"rating_rapid": 1806,
-		"rating_blitz": 1728
 	},
 	{
 		"fideid": 5806186,
@@ -7357,7 +7340,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1696,
-		"rating_rapid": 1870,
+		"rating_rapid": 1846,
 		"rating_blitz": 1672
 	},
 	{
@@ -7376,6 +7359,23 @@
 		"rating_standard": 1696,
 		"rating_rapid": 1627,
 		"rating_blitz": 1636
+	},
+	{
+		"fideid": 5800528,
+		"name": "Mooi, Kok Onn Osric",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 4,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1725,
+		"rating_blitz": 1753
 	},
 	{
 		"fideid": 5802598,
@@ -7425,7 +7425,7 @@
 		"birthday": 1974,
 		"flag": "i",
 		"rating_standard": 1693,
-		"rating_rapid": 1647,
+		"rating_rapid": 1618,
 		"rating_blitz": null
 	},
 	{
@@ -7437,13 +7437,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AIM",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1693,
-		"rating_rapid": 1959,
-		"rating_blitz": 1987
+		"rating_rapid": 1890,
+		"rating_blitz": 1982
 	},
 	{
 		"fideid": 5220149,
@@ -7471,7 +7471,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -7599,23 +7599,6 @@
 		"rating_blitz": 1625
 	},
 	{
-		"fideid": 5800528,
-		"name": "Mooi, Kok Onn Osric",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 3,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1687,
-		"rating_rapid": 1718,
-		"rating_blitz": 1753
-	},
-	{
 		"fideid": 5866782,
 		"name": "Chua, Zhuojun Dason",
 		"country": "SGP",
@@ -7667,6 +7650,23 @@
 		"rating_blitz": 1622
 	},
 	{
+		"fideid": 5857651,
+		"name": "Zhang, Yunyi",
+		"country": "SGP",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": 1682,
+		"rating_rapid": 1595,
+		"rating_blitz": 1615
+	},
+	{
 		"fideid": 5839165,
 		"name": "Yong, Hock Hee",
 		"country": "SGP",
@@ -7680,7 +7680,7 @@
 		"birthday": 2012,
 		"flag": "i",
 		"rating_standard": 1681,
-		"rating_rapid": 1763,
+		"rating_rapid": 1752,
 		"rating_blitz": null
 	},
 	{
@@ -7690,7 +7690,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI",
+		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -7820,6 +7820,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5820090,
+		"name": "Law, Dominic",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1673,
+		"rating_rapid": 1808,
+		"rating_blitz": 1655
+	},
+	{
 		"fideid": 5819296,
 		"name": "Lim, Kai Jun",
 		"country": "SGP",
@@ -7886,6 +7903,23 @@
 		"rating_standard": 1672,
 		"rating_rapid": 1564,
 		"rating_blitz": 1646
+	},
+	{
+		"fideid": 5837367,
+		"name": "Seah, Shin Yi",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 1,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1671,
+		"rating_rapid": 1438,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5806445,
@@ -7973,23 +8007,6 @@
 		"rating_blitz": 1407
 	},
 	{
-		"fideid": 5835810,
-		"name": "Sophie, Judith Supatra",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1669,
-		"rating_rapid": 1606,
-		"rating_blitz": 1655
-	},
-	{
 		"fideid": 5830451,
 		"name": "Koh, Jin Keat Jed",
 		"country": "SGP",
@@ -8058,21 +8075,21 @@
 		"rating_blitz": 1631
 	},
 	{
-		"fideid": 5820090,
-		"name": "Law, Dominic",
+		"fideid": 5856116,
+		"name": "Manjunathan Janani, Yokgan",
 		"country": "SGP",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
-		"k": 20,
-		"birthday": 2001,
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
 		"flag": "",
-		"rating_standard": 1666,
-		"rating_rapid": 1808,
-		"rating_blitz": 1655
+		"rating_standard": 1665,
+		"rating_rapid": 1739,
+		"rating_blitz": 1606
 	},
 	{
 		"fideid": 5828511,
@@ -8109,38 +8126,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 88156362,
-		"name": "Medhansh Veer Potluri",
+		"fideid": 5835810,
+		"name": "Sophie, Judith Supatra",
 		"country": "SGP",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 16,
+		"games": 8,
 		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1661,
-		"rating_rapid": 1659,
-		"rating_blitz": 1593
-	},
-	{
-		"fideid": 5837367,
-		"name": "Seah, Shin Yi",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 2,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1661,
-		"rating_rapid": 1438,
-		"rating_blitz": null
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1660,
+		"rating_rapid": 1593,
+		"rating_blitz": 1655
 	},
 	{
 		"fideid": 5826276,
@@ -8207,7 +8207,7 @@
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": 1657,
-		"rating_rapid": 1561,
+		"rating_rapid": 1544,
 		"rating_blitz": 1553
 	},
 	{
@@ -8224,8 +8224,25 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1656,
-		"rating_rapid": 1884,
+		"rating_rapid": 1833,
 		"rating_blitz": 1800
+	},
+	{
+		"fideid": 88156362,
+		"name": "Medhansh Veer Potluri",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1656,
+		"rating_rapid": 1688,
+		"rating_blitz": 1593
 	},
 	{
 		"fideid": 5803810,
@@ -8292,7 +8309,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1655,
-		"rating_rapid": 1550,
+		"rating_rapid": 1564,
 		"rating_blitz": 1403
 	},
 	{
@@ -8309,7 +8326,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1654,
-		"rating_rapid": 1698,
+		"rating_rapid": 1722,
 		"rating_blitz": 1599
 	},
 	{
@@ -8372,12 +8389,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1652,
-		"rating_rapid": 1693,
+		"rating_rapid": 1761,
 		"rating_blitz": 1557
 	},
 	{
@@ -8413,6 +8430,23 @@
 		"rating_standard": 1651,
 		"rating_rapid": 1579,
 		"rating_blitz": 1597
+	},
+	{
+		"fideid": 6015620,
+		"name": "Wu, Haoyang",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1650,
+		"rating_rapid": 1576,
+		"rating_blitz": 1599
 	},
 	{
 		"fideid": 5824060,
@@ -8466,23 +8500,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6015620,
-		"name": "Wu, Haoyang",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1648,
-		"rating_rapid": 1576,
-		"rating_blitz": 1599
-	},
-	{
 		"fideid": 5815053,
 		"name": "Saajid",
 		"country": "SGP",
@@ -8497,7 +8514,7 @@
 		"flag": "",
 		"rating_standard": 1647,
 		"rating_rapid": 1686,
-		"rating_blitz": 1614
+		"rating_blitz": 1556
 	},
 	{
 		"fideid": 5821509,
@@ -8525,12 +8542,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1646,
-		"rating_rapid": 1723,
+		"rating_rapid": 1727,
 		"rating_blitz": null
 	},
 	{
@@ -8565,7 +8582,7 @@
 		"flag": "",
 		"rating_standard": 1646,
 		"rating_rapid": 1604,
-		"rating_blitz": 1553
+		"rating_blitz": 1585
 	},
 	{
 		"fideid": 5862469,
@@ -8583,6 +8600,23 @@
 		"rating_standard": 1646,
 		"rating_rapid": 1762,
 		"rating_blitz": 1806
+	},
+	{
+		"fideid": 5832632,
+		"name": "Zhang, Zixuan",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1646,
+		"rating_rapid": 1605,
+		"rating_blitz": 1497
 	},
 	{
 		"fideid": 5850150,
@@ -8610,12 +8644,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1644,
-		"rating_rapid": 1668,
+		"rating_rapid": 1694,
 		"rating_blitz": 1580
 	},
 	{
@@ -8700,7 +8734,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1641,
-		"rating_rapid": 1646,
+		"rating_rapid": 1624,
 		"rating_blitz": 1592
 	},
 	{
@@ -8752,7 +8786,7 @@
 		"flag": "",
 		"rating_standard": 1639,
 		"rating_rapid": 1439,
-		"rating_blitz": 1537
+		"rating_blitz": 1524
 	},
 	{
 		"fideid": 5837626,
@@ -8797,12 +8831,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1964,
 		"flag": "",
 		"rating_standard": 1639,
-		"rating_rapid": 1588,
+		"rating_rapid": 1582,
 		"rating_blitz": 1574
 	},
 	{
@@ -8848,7 +8882,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1974,
 		"flag": "",
@@ -8865,13 +8899,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1638,
 		"rating_rapid": 1552,
 		"rating_blitz": 1456
+	},
+	{
+		"fideid": 5806500,
+		"name": "Wong, Shyun Fwu Aldrin",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 10,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 1638,
+		"rating_rapid": 1588,
+		"rating_blitz": 1783
 	},
 	{
 		"fideid": 5804663,
@@ -8959,23 +9010,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5857074,
-		"name": "Arul Thevar, Kethes",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1633,
-		"rating_rapid": 1620,
-		"rating_blitz": 1586
-	},
-	{
 		"fideid": 5823463,
 		"name": "Manan, Agarwal",
 		"country": "SGP",
@@ -9057,7 +9091,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1633,
-		"rating_rapid": 1553,
+		"rating_rapid": 1505,
 		"rating_blitz": 1545
 	},
 	{
@@ -9091,7 +9125,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1631,
-		"rating_rapid": 1625,
+		"rating_rapid": 1576,
 		"rating_blitz": 1456
 	},
 	{
@@ -9110,23 +9144,6 @@
 		"rating_standard": 1630,
 		"rating_rapid": 1608,
 		"rating_blitz": 1646
-	},
-	{
-		"fideid": 5806500,
-		"name": "Wong, Shyun Fwu Aldrin",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 2,
-		"k": 20,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": 1629,
-		"rating_rapid": 1582,
-		"rating_blitz": 1783
 	},
 	{
 		"fideid": 5833540,
@@ -9205,7 +9222,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -9261,7 +9278,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1627,
-		"rating_rapid": 1675,
+		"rating_rapid": 1755,
 		"rating_blitz": 1529
 	},
 	{
@@ -9282,23 +9299,6 @@
 		"rating_blitz": 1628
 	},
 	{
-		"fideid": 5857651,
-		"name": "Zhang, Yunyi",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "w",
-		"rating_standard": 1627,
-		"rating_rapid": 1660,
-		"rating_blitz": 1615
-	},
-	{
 		"fideid": 88166333,
 		"name": "Gautham Bharadwaj",
 		"country": "SGP",
@@ -9307,7 +9307,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -9324,7 +9324,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1972,
 		"flag": "",
@@ -9365,6 +9365,23 @@
 		"rating_standard": 1624,
 		"rating_rapid": 1710,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5857074,
+		"name": "Arul Thevar, Kethes",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1623,
+		"rating_rapid": 1620,
+		"rating_blitz": 1586
 	},
 	{
 		"fideid": 5813670,
@@ -9414,7 +9431,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1622,
-		"rating_rapid": 1579,
+		"rating_rapid": 1634,
 		"rating_blitz": null
 	},
 	{
@@ -9446,7 +9463,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1621,
 		"rating_rapid": 1408,
 		"rating_blitz": 1498
@@ -9469,38 +9486,21 @@
 		"rating_blitz": 1672
 	},
 	{
-		"fideid": 5828961,
-		"name": "Chen, Ziyi Claire",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1619,
-		"rating_rapid": 1633,
-		"rating_blitz": 1639
-	},
-	{
-		"fideid": 5832632,
-		"name": "Zhang, Zixuan",
+		"fideid": 5847508,
+		"name": "Tan, Yishun Edison",
 		"country": "SGP",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
-		"games": 0,
+		"foa_title": "AGM",
+		"games": 7,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 1983,
 		"flag": "",
-		"rating_standard": 1619,
-		"rating_rapid": 1605,
-		"rating_blitz": 1497
+		"rating_standard": 1618,
+		"rating_rapid": 1486,
+		"rating_blitz": 1498
 	},
 	{
 		"fideid": 5833582,
@@ -9511,12 +9511,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1617,
-		"rating_rapid": 1689,
+		"rating_rapid": 1733,
 		"rating_blitz": null
 	},
 	{
@@ -9568,7 +9568,7 @@
 		"flag": "",
 		"rating_standard": 1615,
 		"rating_rapid": 1772,
-		"rating_blitz": 1422
+		"rating_blitz": 1476
 	},
 	{
 		"fideid": 6013180,
@@ -9584,8 +9584,25 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1615,
-		"rating_rapid": 1626,
+		"rating_rapid": 1673,
 		"rating_blitz": 1659
+	},
+	{
+		"fideid": 5833612,
+		"name": "Chong, Yong Qian",
+		"country": "SGP",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1613,
+		"rating_rapid": 1619,
+		"rating_blitz": 1470
 	},
 	{
 		"fideid": 5834228,
@@ -9596,12 +9613,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1613,
-		"rating_rapid": 1544,
+		"rating_rapid": 1539,
 		"rating_blitz": 1509
 	},
 	{
@@ -9618,7 +9635,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1613,
-		"rating_rapid": 1531,
+		"rating_rapid": 1500,
 		"rating_blitz": 1438
 	},
 	{
@@ -9673,6 +9690,23 @@
 		"rating_blitz": 1557
 	},
 	{
+		"fideid": 5877598,
+		"name": "Bin Baharudin, Muhammad Danial",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1609,
+		"rating_rapid": 1544,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5821312,
 		"name": "Lai, Chi Yoong Ethan",
 		"country": "SGP",
@@ -9703,7 +9737,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1609,
-		"rating_rapid": 1614,
+		"rating_rapid": 1662,
 		"rating_blitz": 1548
 	},
 	{
@@ -9841,6 +9875,23 @@
 		"rating_standard": 1606,
 		"rating_rapid": 1616,
 		"rating_blitz": 1594
+	},
+	{
+		"fideid": 5828961,
+		"name": "Chen, Ziyi Claire",
+		"country": "SGP",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1605,
+		"rating_rapid": 1633,
+		"rating_blitz": 1639
 	},
 	{
 		"fideid": 5823048,
@@ -10098,23 +10149,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5833612,
-		"name": "Chong, Yong Qian",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1596,
-		"rating_rapid": 1619,
-		"rating_blitz": 1470
-	},
-	{
 		"fideid": 5808391,
 		"name": "Chua, Yong Da Irwin",
 		"country": "SGP",
@@ -10264,7 +10298,7 @@
 		"birthday": 2009,
 		"flag": "i",
 		"rating_standard": 1593,
-		"rating_rapid": 1809,
+		"rating_rapid": 1730,
 		"rating_blitz": 1636
 	},
 	{
@@ -10281,7 +10315,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1593,
-		"rating_rapid": 1521,
+		"rating_rapid": 1538,
 		"rating_blitz": 1416
 	},
 	{
@@ -10332,7 +10366,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1591,
-		"rating_rapid": 1648,
+		"rating_rapid": 1649,
 		"rating_blitz": 1472
 	},
 	{
@@ -10417,7 +10451,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1589,
-		"rating_rapid": 1544,
+		"rating_rapid": 1560,
 		"rating_blitz": 1597
 	},
 	{
@@ -10451,7 +10485,7 @@
 		"birthday": 2012,
 		"flag": "i",
 		"rating_standard": 1588,
-		"rating_rapid": 1754,
+		"rating_rapid": 1746,
 		"rating_blitz": 1522
 	},
 	{
@@ -10463,7 +10497,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -10485,7 +10519,7 @@
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": 1586,
-		"rating_rapid": null,
+		"rating_rapid": 1557,
 		"rating_blitz": 1441
 	},
 	{
@@ -10803,12 +10837,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1580,
-		"rating_rapid": 1666,
+		"rating_rapid": 1670,
 		"rating_blitz": 1527
 	},
 	{
@@ -10825,7 +10859,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1578,
-		"rating_rapid": 1506,
+		"rating_rapid": 1551,
 		"rating_blitz": 1437
 	},
 	{
@@ -10863,38 +10897,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5838169,
-		"name": "Ng, Ernest Kai Yao",
+		"fideid": 5835844,
+		"name": "Arin, Chaudhary",
 		"country": "SGP",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 5,
 		"k": 40,
-		"birthday": 2006,
+		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1576,
-		"rating_rapid": 1492,
-		"rating_blitz": 1486
-	},
-	{
-		"fideid": 5839327,
-		"name": "Tham, Ming Cher",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1576,
-		"rating_rapid": 1806,
-		"rating_blitz": 1810
+		"rating_standard": 1574,
+		"rating_rapid": 1618,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 5811929,
@@ -10939,13 +10956,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1572,
 		"rating_rapid": 1725,
-		"rating_blitz": 1715
+		"rating_blitz": 1657
 	},
 	{
 		"fideid": 5844258,
@@ -10963,6 +10980,23 @@
 		"rating_standard": 1572,
 		"rating_rapid": 1469,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5854911,
+		"name": "Tay, Cameron",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1572,
+		"rating_rapid": 1567,
+		"rating_blitz": 1513
 	},
 	{
 		"fideid": 5825385,
@@ -11012,7 +11046,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1571,
-		"rating_rapid": 1607,
+		"rating_rapid": 1688,
 		"rating_blitz": null
 	},
 	{
@@ -11029,7 +11063,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1571,
-		"rating_rapid": 1549,
+		"rating_rapid": 1554,
 		"rating_blitz": 1554
 	},
 	{
@@ -11092,12 +11126,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1570,
-		"rating_rapid": 1489,
+		"rating_rapid": 1531,
 		"rating_blitz": null
 	},
 	{
@@ -11129,10 +11163,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": "",
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1569,
-		"rating_rapid": 1551,
-		"rating_blitz": 1567
+		"rating_rapid": 1621,
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 5806844,
@@ -11150,6 +11184,23 @@
 		"rating_standard": 1569,
 		"rating_rapid": null,
 		"rating_blitz": 1789
+	},
+	{
+		"fideid": 5838169,
+		"name": "Ng, Ernest Kai Yao",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1569,
+		"rating_rapid": 1492,
+		"rating_blitz": 1486
 	},
 	{
 		"fideid": 5827566,
@@ -11177,12 +11228,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1567,
-		"rating_rapid": 1540,
+		"rating_rapid": 1573,
 		"rating_blitz": 1485
 	},
 	{
@@ -11199,7 +11250,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1567,
-		"rating_rapid": 1527,
+		"rating_rapid": 1570,
 		"rating_blitz": 1570
 	},
 	{
@@ -11311,31 +11362,14 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI,NA",
-		"foa_title": "AIM",
+		"o_title": "NA",
+		"foa_title": "AGM",
 		"games": 0,
 		"k": 40,
 		"birthday": 1991,
 		"flag": "i",
 		"rating_standard": 1564,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 5811767,
-		"name": "Kumaran, Somasundaram",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 7,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1563,
-		"rating_rapid": 1455,
 		"rating_blitz": null
 	},
 	{
@@ -11352,7 +11386,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1563,
-		"rating_rapid": 1653,
+		"rating_rapid": 1621,
 		"rating_blitz": 1420
 	},
 	{
@@ -11422,23 +11456,6 @@
 		"rating_standard": 1560,
 		"rating_rapid": 1555,
 		"rating_blitz": 1592
-	},
-	{
-		"fideid": 5837790,
-		"name": "Chong, Rui Ying Isabella",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 6,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1560,
-		"rating_rapid": 1425,
-		"rating_blitz": 1492
 	},
 	{
 		"fideid": 5819245,
@@ -11539,7 +11556,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1558,
-		"rating_rapid": 1627,
+		"rating_rapid": 1672,
 		"rating_blitz": 1419
 	},
 	{
@@ -11704,7 +11721,7 @@
 		"w_title": "",
 		"o_title": "FA",
 		"foa_title": "AFM",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -11760,7 +11777,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1553,
-		"rating_rapid": 1604,
+		"rating_rapid": 1617,
 		"rating_blitz": 1615
 	},
 	{
@@ -11815,6 +11832,23 @@
 		"rating_blitz": 1580
 	},
 	{
+		"fideid": 5839327,
+		"name": "Tham, Ming Cher",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1552,
+		"rating_rapid": 1789,
+		"rating_blitz": 1810
+	},
+	{
 		"fideid": 5839459,
 		"name": "Arunprasad, Krithik",
 		"country": "SGP",
@@ -11823,7 +11857,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -11925,12 +11959,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1550,
-		"rating_rapid": null,
+		"rating_rapid": 1576,
 		"rating_blitz": 1478
 	},
 	{
@@ -12015,7 +12049,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1548,
-		"rating_rapid": 1470,
+		"rating_rapid": 1417,
 		"rating_blitz": 1428
 	},
 	{
@@ -12027,12 +12061,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1548,
-		"rating_rapid": 1671,
+		"rating_rapid": 1539,
 		"rating_blitz": 1688
 	},
 	{
@@ -12066,7 +12100,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1547,
-		"rating_rapid": 1573,
+		"rating_rapid": 1661,
 		"rating_blitz": 1470
 	},
 	{
@@ -12083,7 +12117,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1547,
-		"rating_rapid": 1578,
+		"rating_rapid": 1620,
 		"rating_blitz": null
 	},
 	{
@@ -12185,7 +12219,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1545,
-		"rating_rapid": 1412,
+		"rating_rapid": 1436,
 		"rating_blitz": 1503
 	},
 	{
@@ -12299,7 +12333,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
@@ -12321,7 +12355,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1542,
-		"rating_rapid": 1425,
+		"rating_rapid": 1436,
 		"rating_blitz": 1507
 	},
 	{
@@ -12372,7 +12406,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1540,
-		"rating_rapid": 1498,
+		"rating_rapid": 1526,
 		"rating_blitz": 1499
 	},
 	{
@@ -12410,6 +12444,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5860415,
+		"name": "Maheshwari, Savya",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1540,
+		"rating_rapid": 1499,
+		"rating_blitz": 1515
+	},
+	{
 		"fideid": 5837545,
 		"name": "Yap, Jin Cheng",
 		"country": "SGP",
@@ -12425,6 +12476,23 @@
 		"rating_standard": 1540,
 		"rating_rapid": 1714,
 		"rating_blitz": 1688
+	},
+	{
+		"fideid": 5837790,
+		"name": "Chong, Rui Ying Isabella",
+		"country": "SGP",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 3,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1539,
+		"rating_rapid": 1425,
+		"rating_blitz": 1492
 	},
 	{
 		"fideid": 5870283,
@@ -12503,12 +12571,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1538,
-		"rating_rapid": 1624,
+		"rating_rapid": 1598,
 		"rating_blitz": 1509
 	},
 	{
@@ -12557,7 +12625,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1537,
 		"rating_rapid": 1434,
 		"rating_blitz": null
@@ -12610,7 +12678,7 @@
 		"birthday": 1998,
 		"flag": "i",
 		"rating_standard": 1536,
-		"rating_rapid": 1565,
+		"rating_rapid": 1595,
 		"rating_blitz": 1502
 	},
 	{
@@ -12644,7 +12712,7 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": 1535,
-		"rating_rapid": 1565,
+		"rating_rapid": 1561,
 		"rating_blitz": null
 	},
 	{
@@ -12690,7 +12758,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -12763,7 +12831,7 @@
 		"birthday": 2004,
 		"flag": "i",
 		"rating_standard": 1534,
-		"rating_rapid": 1562,
+		"rating_rapid": 1625,
 		"rating_blitz": 1523
 	},
 	{
@@ -12894,7 +12962,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -12951,7 +13019,7 @@
 		"flag": "i",
 		"rating_standard": 1529,
 		"rating_rapid": 1746,
-		"rating_blitz": 1673
+		"rating_blitz": 1720
 	},
 	{
 		"fideid": 5839793,
@@ -13052,7 +13120,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1527,
-		"rating_rapid": 1435,
+		"rating_rapid": 1498,
 		"rating_blitz": 1521
 	},
 	{
@@ -13071,23 +13139,6 @@
 		"rating_standard": 1527,
 		"rating_rapid": 1520,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5821673,
-		"name": "Low, Hei Yuet Cheryl",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": 1526,
-		"rating_rapid": 1610,
-		"rating_blitz": 1528
 	},
 	{
 		"fideid": 5837774,
@@ -13139,6 +13190,23 @@
 		"rating_standard": 1525,
 		"rating_rapid": 1537,
 		"rating_blitz": 1435
+	},
+	{
+		"fideid": 5821673,
+		"name": "Low, Hei Yuet Cheryl",
+		"country": "SGP",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1525,
+		"rating_rapid": 1610,
+		"rating_blitz": 1528
 	},
 	{
 		"fideid": 5807735,
@@ -13203,7 +13271,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1982,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1524,
 		"rating_rapid": 1609,
 		"rating_blitz": 1490
@@ -13273,7 +13341,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1524,
-		"rating_rapid": 1695,
+		"rating_rapid": 1699,
 		"rating_blitz": 1655
 	},
 	{
@@ -13341,7 +13409,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1523,
-		"rating_rapid": 1458,
+		"rating_rapid": 1482,
 		"rating_blitz": null
 	},
 	{
@@ -13392,7 +13460,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1523,
-		"rating_rapid": 1642,
+		"rating_rapid": 1590,
 		"rating_blitz": null
 	},
 	{
@@ -13477,25 +13545,8 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1521,
-		"rating_rapid": 1422,
+		"rating_rapid": 1429,
 		"rating_blitz": 1598
-	},
-	{
-		"fideid": 5811473,
-		"name": "Lim, Heng Lip James",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1955,
-		"flag": "",
-		"rating_standard": 1521,
-		"rating_rapid": 1436,
-		"rating_blitz": 1548
 	},
 	{
 		"fideid": 5864909,
@@ -13543,7 +13594,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1521,
 		"rating_rapid": 1605,
 		"rating_blitz": 1473
@@ -13613,8 +13664,25 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1520,
-		"rating_rapid": 1661,
+		"rating_rapid": 1645,
 		"rating_blitz": 1497
+	},
+	{
+		"fideid": 5811767,
+		"name": "Kumaran, Somasundaram",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 3,
+		"k": 40,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1519,
+		"rating_rapid": 1475,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5830613,
@@ -13668,6 +13736,23 @@
 		"rating_blitz": 1789
 	},
 	{
+		"fideid": 5811473,
+		"name": "Lim, Heng Lip James",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 20,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1518,
+		"rating_rapid": 1436,
+		"rating_blitz": 1548
+	},
+	{
 		"fideid": 5827116,
 		"name": "Oh, Xu Jie Dawson",
 		"country": "SGP",
@@ -13717,23 +13802,6 @@
 		"rating_standard": 1517,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5860415,
-		"name": "Maheshwari, Savya",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1517,
-		"rating_rapid": 1499,
-		"rating_blitz": 1515
 	},
 	{
 		"fideid": 5844657,
@@ -13851,7 +13919,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1516,
-		"rating_rapid": 1616,
+		"rating_rapid": 1554,
 		"rating_blitz": 1490
 	},
 	{
@@ -13868,7 +13936,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1516,
-		"rating_rapid": 1482,
+		"rating_rapid": 1474,
 		"rating_blitz": null
 	},
 	{
@@ -13902,7 +13970,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1515,
-		"rating_rapid": 1688,
+		"rating_rapid": 1722,
 		"rating_blitz": 1556
 	},
 	{
@@ -13923,23 +13991,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5835844,
-		"name": "Arin, Chaudhary",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1514,
-		"rating_rapid": 1571,
-		"rating_blitz": 1518
-	},
-	{
 		"fideid": 5836280,
 		"name": "Hong, Cheng Hou",
 		"country": "SGP",
@@ -13955,23 +14006,6 @@
 		"rating_standard": 1514,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5851092,
-		"name": "Vishwakarthi, Vikram",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 12,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1514,
-		"rating_rapid": 1708,
-		"rating_blitz": 1467
 	},
 	{
 		"fideid": 39931668,
@@ -14055,7 +14089,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1511,
-		"rating_rapid": 1635,
+		"rating_rapid": 1657,
 		"rating_blitz": 1524
 	},
 	{
@@ -14101,7 +14135,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -14159,6 +14193,23 @@
 		"rating_standard": 1510,
 		"rating_rapid": 1541,
 		"rating_blitz": 1430
+	},
+	{
+		"fideid": 5831237,
+		"name": "Chua, Peng-Qui Terrence",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1975,
+		"flag": "",
+		"rating_standard": 1509,
+		"rating_rapid": 1586,
+		"rating_blitz": 1629
 	},
 	{
 		"fideid": 5845122,
@@ -14223,27 +14274,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1509,
 		"rating_rapid": 1442,
 		"rating_blitz": 1405
-	},
-	{
-		"fideid": 5831237,
-		"name": "Chua, Peng-Qui Terrence",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "",
-		"rating_standard": 1508,
-		"rating_rapid": 1559,
-		"rating_blitz": 1629
 	},
 	{
 		"fideid": 5851149,
@@ -14259,7 +14293,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1508,
-		"rating_rapid": 1438,
+		"rating_rapid": 1510,
 		"rating_blitz": null
 	},
 	{
@@ -14412,7 +14446,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1505,
-		"rating_rapid": 1501,
+		"rating_rapid": 1532,
 		"rating_blitz": null
 	},
 	{
@@ -14616,7 +14650,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1503,
-		"rating_rapid": 1507,
+		"rating_rapid": 1509,
 		"rating_blitz": null
 	},
 	{
@@ -14648,9 +14682,9 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1503,
-		"rating_rapid": 1659,
+		"rating_rapid": 1667,
 		"rating_blitz": 1503
 	},
 	{
@@ -14730,7 +14764,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -14786,7 +14820,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1500,
-		"rating_rapid": 1445,
+		"rating_rapid": 1500,
 		"rating_blitz": 1466
 	},
 	{
@@ -15028,23 +15062,6 @@
 		"rating_blitz": 1436
 	},
 	{
-		"fideid": 5854911,
-		"name": "Tay, Cameron",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1496,
-		"rating_rapid": 1643,
-		"rating_blitz": 1513
-	},
-	{
 		"fideid": 5812739,
 		"name": "Gan, Shao Hng Gabriel",
 		"country": "SGP",
@@ -15194,7 +15211,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1494,
-		"rating_rapid": null,
+		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
@@ -15317,6 +15334,23 @@
 		"rating_blitz": 1515
 	},
 	{
+		"fideid": 5851092,
+		"name": "Vishwakarthi, Vikram",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1492,
+		"rating_rapid": 1604,
+		"rating_blitz": 1467
+	},
+	{
 		"fideid": 5855047,
 		"name": "Cheng, Lin Yi Nathan",
 		"country": "SGP",
@@ -15330,7 +15364,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1491,
-		"rating_rapid": 1523,
+		"rating_rapid": 1537,
 		"rating_blitz": 1530
 	},
 	{
@@ -15359,7 +15393,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "w",
@@ -15534,7 +15568,7 @@
 		"birthday": 2013,
 		"flag": "i",
 		"rating_standard": 1489,
-		"rating_rapid": null,
+		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
@@ -15568,7 +15602,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1489,
-		"rating_rapid": 1537,
+		"rating_rapid": 1563,
 		"rating_blitz": 1528
 	},
 	{
@@ -15657,23 +15691,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5848237,
-		"name": "Tan, Dezheng Daniel",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1488,
-		"rating_rapid": 1413,
-		"rating_blitz": 1490
-	},
-	{
 		"fideid": 5863198,
 		"name": "Dupin, Simon Jeremy Eric",
 		"country": "SGP",
@@ -15699,7 +15716,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1963,
 		"flag": "",
@@ -15823,7 +15840,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1486,
-		"rating_rapid": 1470,
+		"rating_rapid": 1428,
 		"rating_blitz": null
 	},
 	{
@@ -16056,13 +16073,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1483,
 		"rating_rapid": 1521,
 		"rating_blitz": 1615
+	},
+	{
+		"fideid": 5838312,
+		"name": "Tan, Asher Teng En",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1483,
+		"rating_rapid": 1543,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5839378,
@@ -16112,7 +16146,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1482,
-		"rating_rapid": 1535,
+		"rating_rapid": 1523,
 		"rating_blitz": null
 	},
 	{
@@ -16158,12 +16192,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": 1482,
-		"rating_rapid": null,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -16333,7 +16367,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1480,
-		"rating_rapid": 1532,
+		"rating_rapid": 1544,
 		"rating_blitz": null
 	},
 	{
@@ -16422,6 +16456,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5851084,
+		"name": "Vishwakarthi, Vihaan",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1478,
+		"rating_rapid": 1660,
+		"rating_blitz": 1500
+	},
+	{
 		"fideid": 5835615,
 		"name": "Lim, Kai En Joel",
 		"country": "SGP",
@@ -16507,23 +16558,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5851084,
-		"name": "Vishwakarthi, Vihaan",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1476,
-		"rating_rapid": 1622,
-		"rating_blitz": 1500
-	},
-	{
 		"fideid": 5825431,
 		"name": "Yang, Xin Yue",
 		"country": "SGP",
@@ -16600,12 +16634,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1474,
-		"rating_rapid": 1515,
+		"rating_rapid": 1488,
 		"rating_blitz": null
 	},
 	{
@@ -16622,8 +16656,25 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1473,
-		"rating_rapid": 1424,
+		"rating_rapid": null,
 		"rating_blitz": 1511
+	},
+	{
+		"fideid": 5848237,
+		"name": "Tan, Dezheng Daniel",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1473,
+		"rating_rapid": 1426,
+		"rating_blitz": 1490
 	},
 	{
 		"fideid": 129057882,
@@ -16736,7 +16787,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -17115,7 +17166,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1466,
-		"rating_rapid": 1560,
+		"rating_rapid": 1513,
 		"rating_blitz": 1523
 	},
 	{
@@ -17127,7 +17178,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
@@ -17200,7 +17251,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1465,
-		"rating_rapid": null,
+		"rating_rapid": 1482,
 		"rating_blitz": null
 	},
 	{
@@ -17263,7 +17314,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -17331,7 +17382,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
@@ -17450,7 +17501,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
@@ -17620,7 +17671,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -17727,7 +17778,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1457,
-		"rating_rapid": 1467,
+		"rating_rapid": 1558,
 		"rating_blitz": 1459
 	},
 	{
@@ -17807,7 +17858,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -17977,7 +18028,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -18169,7 +18220,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1448,
-		"rating_rapid": 1671,
+		"rating_rapid": 1736,
 		"rating_blitz": null
 	},
 	{
@@ -18237,7 +18288,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1447,
-		"rating_rapid": 1559,
+		"rating_rapid": 1539,
 		"rating_blitz": 1430
 	},
 	{
@@ -18256,23 +18307,6 @@
 		"rating_standard": 1447,
 		"rating_rapid": 1411,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 40110729,
-		"name": "Rajendran, I",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1447,
-		"rating_rapid": null,
-		"rating_blitz": 1491
 	},
 	{
 		"fideid": 5816939,
@@ -18305,7 +18339,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1447,
-		"rating_rapid": 1442,
+		"rating_rapid": 1491,
 		"rating_blitz": 1456
 	},
 	{
@@ -18356,7 +18390,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1446,
-		"rating_rapid": 1457,
+		"rating_rapid": 1462,
 		"rating_blitz": null
 	},
 	{
@@ -18598,6 +18632,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5860962,
+		"name": "Ng, Shin Sheng Hayden",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1443,
+		"rating_rapid": 1565,
+		"rating_blitz": 1440
+	},
+	{
 		"fideid": 5825890,
 		"name": "Vaishnav, Muralidharan",
 		"country": "SGP",
@@ -18645,7 +18696,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1442,
-		"rating_rapid": 1520,
+		"rating_rapid": 1511,
 		"rating_blitz": null
 	},
 	{
@@ -18674,7 +18725,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1977,
 		"flag": "",
@@ -18714,7 +18765,7 @@
 		"flag": "i",
 		"rating_standard": 1440,
 		"rating_rapid": 1470,
-		"rating_blitz": 1403
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5828937,
@@ -18785,23 +18836,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5838312,
-		"name": "Tan, Asher Teng En",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": 1439,
-		"rating_rapid": 1543,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 6220916,
 		"name": "Tan, Luke Shao Min",
 		"country": "SGP",
@@ -18866,7 +18900,7 @@
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1437,
-		"rating_rapid": 1407,
+		"rating_rapid": null,
 		"rating_blitz": 1428
 	},
 	{
@@ -18938,6 +18972,23 @@
 		"rating_blitz": 1477
 	},
 	{
+		"fideid": 5835410,
+		"name": "Galang, Alvin Marallag",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 3,
+		"k": 40,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1435,
+		"rating_rapid": 1485,
+		"rating_blitz": 1513
+	},
+	{
 		"fideid": 5825300,
 		"name": "Ho, Yuxi Jasper",
 		"country": "SGP",
@@ -19006,23 +19057,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5864208,
-		"name": "Tan, Kah Choon Connery",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1435,
-		"rating_rapid": 1427,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5836778,
 		"name": "Daryl, Emerald Raj Sandrasegaran",
 		"country": "SGP",
@@ -19053,7 +19087,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1434,
-		"rating_rapid": 1457,
+		"rating_rapid": 1443,
 		"rating_blitz": null
 	},
 	{
@@ -19223,7 +19257,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1430,
-		"rating_rapid": 1439,
+		"rating_rapid": 1427,
 		"rating_blitz": 1428
 	},
 	{
@@ -19257,25 +19291,8 @@
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": 1429,
-		"rating_rapid": 1418,
+		"rating_rapid": 1405,
 		"rating_blitz": 1435
-	},
-	{
-		"fideid": 5850550,
-		"name": "Liow, Ying Xiang Lucas",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1429,
-		"rating_rapid": 1403,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 5848709,
@@ -19463,23 +19480,6 @@
 		"rating_standard": 1425,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5860962,
-		"name": "Ng, Shin Sheng Hayden",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1425,
-		"rating_rapid": null,
-		"rating_blitz": 1440
 	},
 	{
 		"fideid": 5855578,
@@ -19677,7 +19677,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -19820,23 +19820,6 @@
 		"rating_standard": 1420,
 		"rating_rapid": 1400,
 		"rating_blitz": 1411
-	},
-	{
-		"fideid": 5835410,
-		"name": "Galang, Alvin Marallag",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1419,
-		"rating_rapid": 1485,
-		"rating_blitz": 1513
 	},
 	{
 		"fideid": 5838223,
@@ -20000,7 +19983,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
@@ -20051,12 +20034,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1415,
-		"rating_rapid": null,
+		"rating_rapid": 1418,
 		"rating_blitz": null
 	},
 	{
@@ -20141,7 +20124,7 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1413,
-		"rating_rapid": 1420,
+		"rating_rapid": null,
 		"rating_blitz": 1456
 	},
 	{
@@ -20158,7 +20141,7 @@
 		"birthday": 1977,
 		"flag": "i",
 		"rating_standard": 1413,
-		"rating_rapid": 1535,
+		"rating_rapid": 1511,
 		"rating_blitz": 1417
 	},
 	{
@@ -20315,6 +20298,23 @@
 		"rating_blitz": 1480
 	},
 	{
+		"fideid": 40110729,
+		"name": "Rajendran, I",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1409,
+		"rating_rapid": null,
+		"rating_blitz": 1491
+	},
+	{
 		"fideid": 5876818,
 		"name": "Lim, Wei Shen",
 		"country": "SGP",
@@ -20447,7 +20447,7 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1406,
-		"rating_rapid": 1514,
+		"rating_rapid": 1481,
 		"rating_blitz": null
 	},
 	{
@@ -20672,6 +20672,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5864208,
+		"name": "Tan, Kah Choon Connery",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1401,
+		"rating_rapid": 1407,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5850550,
+		"name": "Liow, Ying Xiang Lucas",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1400,
+		"rating_rapid": 1403,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5843014,
 		"name": "Abhinarayan Arun",
 		"country": "SGP",
@@ -20748,7 +20782,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -20788,6 +20822,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1549,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5839823,
+		"name": "Amolik, Aditya",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1467,
 		"rating_blitz": null
 	},
 	{
@@ -20901,12 +20952,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1534,
+		"rating_rapid": 1561,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5886449,
+		"name": "Ang, Khai Jing Tristan",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1453,
 		"rating_blitz": null
 	},
 	{
@@ -20969,7 +21037,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
@@ -21006,7 +21074,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1468,
 		"rating_blitz": null
@@ -21057,7 +21125,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1983,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1467,
 		"rating_blitz": null
@@ -21139,7 +21207,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -21190,7 +21258,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
@@ -21213,6 +21281,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1541,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5883520,
+		"name": "Balamurugan, Sharan",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1542,
 		"rating_blitz": null
 	},
 	{
@@ -21284,23 +21369,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5877598,
-		"name": "Bin Baharudin, Muhammad Danial",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1544,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5841232,
 		"name": "Bin, Sultan Muhammad Farid",
 		"country": "SGP",
@@ -21326,7 +21394,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -21360,7 +21428,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -21615,12 +21683,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1570,
+		"rating_rapid": 1530,
 		"rating_blitz": null
 	},
 	{
@@ -21700,7 +21768,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -21870,12 +21938,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1464,
+		"rating_rapid": 1460,
 		"rating_blitz": null
 	},
 	{
@@ -22040,13 +22108,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1491,
-		"rating_blitz": 1644
+		"rating_rapid": 1496,
+		"rating_blitz": 1634
 	},
 	{
 		"fideid": 5876699,
@@ -22125,7 +22193,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -22295,7 +22363,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -22315,7 +22383,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1442,
 		"rating_blitz": null
@@ -22329,7 +22397,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -22346,7 +22414,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1980,
 		"flag": "",
@@ -22369,6 +22437,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1509,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5888522,
+		"name": "Chong, Niel",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1734,
 		"rating_blitz": null
 	},
 	{
@@ -22720,7 +22805,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -22907,7 +22992,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -22958,12 +23043,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1454,
+		"rating_rapid": 1465,
 		"rating_blitz": null
 	},
 	{
@@ -23014,7 +23099,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1490,
+		"rating_rapid": 1491,
 		"rating_blitz": null
 	},
 	{
@@ -23032,6 +23117,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1643,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5877989,
+		"name": "Eu, Jun Lei Andrew",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1523,
 		"rating_blitz": null
 	},
 	{
@@ -23117,6 +23219,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1680,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5877890,
+		"name": "Finlayson, Dylan Jorge",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1624,
 		"rating_blitz": null
 	},
 	{
@@ -23383,7 +23502,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -23405,7 +23524,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1690,
+		"rating_rapid": 1656,
 		"rating_blitz": null
 	},
 	{
@@ -23468,7 +23587,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -23502,7 +23621,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -23587,7 +23706,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -23661,23 +23780,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1568,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 5868211,
-		"name": "Goh, Jia Rui",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1420,
 		"rating_blitz": null
 	},
 	{
@@ -23774,7 +23876,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -23876,12 +23978,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 4,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1509,
+		"rating_rapid": 1497,
 		"rating_blitz": 1460
 	},
 	{
@@ -23978,7 +24080,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -24063,7 +24165,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 1974,
 		"flag": "",
@@ -24168,7 +24270,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1993,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1616,
 		"rating_blitz": 1670
@@ -24531,6 +24633,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5885400,
+		"name": "Hor, Stanton",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1730,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5830249,
 		"name": "Hu, Runda Steven",
 		"country": "SGP",
@@ -24596,6 +24715,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1410,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5858143,
+		"name": "Hwang, Kai Feng Alexander",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1500,
 		"rating_blitz": null
 	},
 	{
@@ -24709,7 +24845,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -24786,23 +24922,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5884209,
-		"name": "Ji, Zichun",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1463,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5845718,
 		"name": "Jiang, Kaiyuan",
 		"country": "SGP",
@@ -24845,7 +24964,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -25007,6 +25126,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5860369,
+		"name": "Kannan, Pranav",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1409,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5883695,
 		"name": "Kao, Teddi",
 		"country": "SGP",
@@ -25015,29 +25151,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 4,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1631,
+		"rating_rapid": 1599,
 		"rating_blitz": 1712
 	},
 	{
-		"fideid": 5867908,
-		"name": "Kao, Ying Chen",
+		"fideid": 5884918,
+		"name": "Karthikeyan, Nishaanth",
 		"country": "SGP",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1423,
+		"rating_rapid": 1422,
 		"rating_blitz": null
 	},
 	{
@@ -25262,23 +25398,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5863015,
-		"name": "Koh, Dunxiang Javier",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1440,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5860350,
 		"name": "Koh, Dylan",
 		"country": "SGP",
@@ -25440,7 +25559,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
@@ -25500,6 +25619,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5884780,
+		"name": "Kom, Jun Yu",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1471,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5862264,
 		"name": "Kong, Liang Jie Samuel",
 		"country": "SGP",
@@ -25542,12 +25678,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1533,
+		"rating_rapid": 1537,
 		"rating_blitz": 1484
 	},
 	{
@@ -25566,6 +25702,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1480,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5838754,
+		"name": "Kua, Tian Long Gary",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1525,
+		"rating_blitz": 1473
 	},
 	{
 		"fideid": 5847028,
@@ -25681,7 +25834,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1995,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1526,
 		"rating_blitz": 1440
@@ -25786,6 +25939,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1547,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5827620,
+		"name": "Lau, Ian Kai Ethan",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1601,
 		"rating_blitz": null
 	},
 	{
@@ -26038,7 +26208,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1985,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1500,
 		"rating_blitz": null
@@ -26058,6 +26228,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1604,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5868637,
+		"name": "Lee, George",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1495,
 		"rating_blitz": null
 	},
 	{
@@ -26120,12 +26307,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1409,
+		"rating_rapid": 1406,
 		"rating_blitz": null
 	},
 	{
@@ -26154,12 +26341,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
 		"birthday": 2003,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1545,
+		"rating_rapid": 1580,
 		"rating_blitz": 1465
 	},
 	{
@@ -26177,6 +26364,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1431,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5884128,
+		"name": "Lee, Kai Ping Samuel",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1588,
 		"rating_blitz": null
 	},
 	{
@@ -26324,7 +26528,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -26375,7 +26579,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -26415,6 +26619,40 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1425,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5869544,
+		"name": "Leong, Nathan Elon",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1436,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5871042,
+		"name": "Leong, Xin Yu Evan",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1544,
 		"rating_blitz": null
 	},
 	{
@@ -26613,13 +26851,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1418,
-		"rating_blitz": 1486
+		"rating_rapid": 1425,
+		"rating_blitz": 1515
 	},
 	{
 		"fideid": 5843600,
@@ -26715,12 +26953,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 1999,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1447,
+		"rating_rapid": 1425,
 		"rating_blitz": null
 	},
 	{
@@ -27242,7 +27480,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -27276,7 +27514,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -27378,10 +27616,10 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 1982,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1445,
 		"rating_blitz": null
@@ -27523,6 +27761,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5854776,
+		"name": "Liu, Shaochen",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1432,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5864020,
 		"name": "Liu, Weilie",
 		"country": "SGP",
@@ -27531,12 +27786,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 13,
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1508,
+		"rating_rapid": 1513,
 		"rating_blitz": 1600
 	},
 	{
@@ -27555,23 +27810,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1463,
 		"rating_blitz": 1482
-	},
-	{
-		"fideid": 5869722,
-		"name": "Loh, Asher",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1454,
-		"rating_blitz": 1538
 	},
 	{
 		"fideid": 5820944,
@@ -27616,12 +27854,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 4,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1464,
+		"rating_rapid": 1403,
 		"rating_blitz": null
 	},
 	{
@@ -27650,12 +27888,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1414,
+		"rating_rapid": 1452,
 		"rating_blitz": 1421
 	},
 	{
@@ -27693,6 +27931,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5882702,
+		"name": "Loh, Philip",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1974,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1434,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5871840,
 		"name": "Loh, Terence",
 		"country": "SGP",
@@ -27724,6 +27979,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1528,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5847532,
+		"name": "Lok, Zavier Cho Rui",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1411,
 		"rating_blitz": null
 	},
 	{
@@ -28058,7 +28330,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -28146,7 +28418,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1980,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1476,
 		"rating_blitz": null
@@ -28211,7 +28483,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -28282,7 +28554,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1993,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1973,
 		"rating_blitz": null
@@ -28296,7 +28568,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -28313,7 +28585,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -28415,12 +28687,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 2,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1478,
+		"rating_rapid": 1443,
 		"rating_blitz": null
 	},
 	{
@@ -28432,12 +28704,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1466,
+		"rating_rapid": 1560,
 		"rating_blitz": null
 	},
 	{
@@ -28687,12 +28959,12 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "ACM",
-		"games": 5,
+		"games": 4,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1441,
+		"rating_rapid": 1415,
 		"rating_blitz": null
 	},
 	{
@@ -28840,12 +29112,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1568,
+		"rating_rapid": 1560,
 		"rating_blitz": null
 	},
 	{
@@ -28874,7 +29146,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -28942,12 +29214,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1524,
+		"rating_rapid": 1531,
 		"rating_blitz": null
 	},
 	{
@@ -29197,13 +29469,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 5,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1444,
-		"rating_blitz": null
+		"rating_rapid": 1429,
+		"rating_blitz": 1578
 	},
 	{
 		"fideid": 5857694,
@@ -29265,7 +29537,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
@@ -29367,12 +29639,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1576,
+		"rating_rapid": 1547,
 		"rating_blitz": null
 	},
 	{
@@ -29384,12 +29656,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1649,
+		"rating_rapid": 1643,
 		"rating_blitz": null
 	},
 	{
@@ -29418,12 +29690,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1477,
+		"rating_rapid": 1406,
 		"rating_blitz": 1436
 	},
 	{
@@ -29546,6 +29818,23 @@
 		"rating_blitz": 1450
 	},
 	{
+		"fideid": 5887836,
+		"name": "Ong, Junqi",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1676,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5811856,
 		"name": "Ong, Kai Zachary",
 		"country": "SGP",
@@ -29622,7 +29911,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -29758,12 +30047,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1629,
+		"rating_rapid": 1661,
 		"rating_blitz": null
 	},
 	{
@@ -30005,6 +30294,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5868866,
+		"name": "Pham, Duy Hung Lucas",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1421,
+		"rating_blitz": 1405
+	},
+	{
 		"fideid": 5853664,
 		"name": "Phang, Bao Jun Lucas",
 		"country": "SGP",
@@ -30013,12 +30319,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1437,
+		"rating_rapid": 1431,
 		"rating_blitz": null
 	},
 	{
@@ -30036,6 +30342,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1430,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5874378,
+		"name": "Phoa, Ezra",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1499,
 		"rating_blitz": null
 	},
 	{
@@ -30064,7 +30387,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1997,
 		"flag": "w",
@@ -30149,7 +30472,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -30186,7 +30509,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1509,
 		"rating_blitz": null
@@ -30268,12 +30591,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1408,
+		"rating_rapid": 1409,
 		"rating_blitz": null
 	},
 	{
@@ -30375,7 +30698,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1538,
+		"rating_rapid": 1535,
 		"rating_blitz": null
 	},
 	{
@@ -30404,7 +30727,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
@@ -30532,23 +30855,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5877253,
-		"name": "Ramirez, Dione Albert",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 16,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1466,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5822696,
 		"name": "Randhir, Bansal",
 		"country": "SGP",
@@ -30608,7 +30914,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
@@ -30659,12 +30965,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1446,
+		"rating_rapid": 1419,
 		"rating_blitz": 1419
 	},
 	{
@@ -30682,6 +30988,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1420,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5879302,
+		"name": "Robinson, Kaidon",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1547,
 		"rating_blitz": null
 	},
 	{
@@ -30985,7 +31308,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1645,
 		"rating_blitz": null
@@ -31016,7 +31339,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -31169,30 +31492,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 17,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1741,
+		"rating_rapid": 1811,
 		"rating_blitz": 1768
-	},
-	{
-		"fideid": 5876630,
-		"name": "Shi, En Qi Hannah",
-		"country": "SGP",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1412,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 5855349,
@@ -31322,13 +31628,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1485,
-		"rating_blitz": 1455
+		"rating_rapid": 1457,
+		"rating_blitz": 1458
 	},
 	{
 		"fideid": 5839947,
@@ -31492,12 +31798,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1471,
+		"rating_rapid": 1454,
 		"rating_blitz": null
 	},
 	{
@@ -31645,12 +31951,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1403,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5868971,
+		"name": "Suwandi, Ronald",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1446,
 		"rating_blitz": null
 	},
 	{
@@ -31662,7 +31985,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -31909,6 +32232,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5886791,
+		"name": "Tan, Hong Rui Edmund",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1616,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5884462,
 		"name": "Tan, Hoong Guan Taren",
 		"country": "SGP",
@@ -31917,13 +32257,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 7,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1676,
-		"rating_blitz": null
+		"rating_rapid": 1634,
+		"rating_blitz": 1638
 	},
 	{
 		"fideid": 5846005,
@@ -32257,13 +32597,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1744,
-		"rating_blitz": null
+		"rating_rapid": 1686,
+		"rating_blitz": 1527
 	},
 	{
 		"fideid": 5836727,
@@ -32325,13 +32665,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1445,
-		"rating_blitz": 1411
+		"rating_rapid": 1422,
+		"rating_blitz": 1499
 	},
 	{
 		"fideid": 5869366,
@@ -32521,23 +32861,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5847508,
-		"name": "Tan, Yishun Edison",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AGM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1462,
-		"rating_blitz": 1498
-	},
-	{
 		"fideid": 5879604,
 		"name": "Tan, Yong Jun Russell",
 		"country": "SGP",
@@ -32580,12 +32903,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1436,
+		"rating_rapid": 1412,
 		"rating_blitz": null
 	},
 	{
@@ -32597,7 +32920,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -32784,12 +33107,12 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "AFM",
-		"games": 0,
+		"games": 6,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1568,
+		"rating_rapid": 1588,
 		"rating_blitz": 1528
 	},
 	{
@@ -32835,12 +33158,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 20,
 		"birthday": 2001,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1510,
+		"rating_rapid": 1509,
 		"rating_blitz": null
 	},
 	{
@@ -32920,7 +33243,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -33158,7 +33481,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -33192,12 +33515,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 2,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1419,
+		"rating_rapid": 1442,
 		"rating_blitz": null
 	},
 	{
@@ -33226,7 +33549,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -33413,13 +33736,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 14,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1490,
-		"rating_blitz": 1727
+		"rating_rapid": 1597,
+		"rating_blitz": 1644
 	},
 	{
 		"fideid": 5872928,
@@ -33447,12 +33770,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1636,
+		"rating_rapid": 1647,
 		"rating_blitz": 1496
 	},
 	{
@@ -33481,7 +33804,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -33541,20 +33864,20 @@
 		"rating_blitz": 1428
 	},
 	{
-		"fideid": 5877113,
-		"name": "Tze, Wei Zun Ayden",
+		"fideid": 5875170,
+		"name": "Tran, Pham Quang Minh",
 		"country": "SGP",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 12,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1488,
+		"rating_rapid": 1431,
 		"rating_blitz": null
 	},
 	{
@@ -33838,7 +34161,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -33906,12 +34229,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AIM",
-		"games": 0,
+		"games": 8,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1464,
+		"rating_rapid": 1586,
 		"rating_blitz": 1563
 	},
 	{
@@ -34025,7 +34348,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -34368,7 +34691,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1472,
 		"rating_blitz": null
@@ -34467,13 +34790,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1551,
-		"rating_blitz": 1415
+		"rating_rapid": 1561,
+		"rating_blitz": 1414
 	},
 	{
 		"fideid": 5860822,
@@ -34501,12 +34824,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1618,
+		"rating_rapid": 1628,
 		"rating_blitz": null
 	},
 	{
@@ -34542,6 +34865,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1504,
 		"rating_blitz": 1533
+	},
+	{
+		"fideid": 5882516,
+		"name": "Wu, Qizhi Ian",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1481,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5814316,
@@ -34637,12 +34977,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1438,
+		"rating_rapid": 1423,
 		"rating_blitz": null
 	},
 	{
@@ -34722,7 +35062,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
@@ -34807,7 +35147,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -34848,6 +35188,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1679,
 		"rating_blitz": 1561
+	},
+	{
+		"fideid": 5867932,
+		"name": "Yap, Tristan Hao Ran",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1467,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5843383,
@@ -34926,7 +35283,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -34960,12 +35317,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1874,
+		"rating_rapid": 1865,
 		"rating_blitz": null
 	},
 	{
@@ -35113,12 +35470,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1571,
+		"rating_rapid": 1642,
 		"rating_blitz": 1498
 	},
 	{
@@ -35266,7 +35623,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -35479,23 +35836,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5841526,
-		"name": "Zhang, Alaric You Wei",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1436,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5851017,
 		"name": "Zhang, Enrui",
 		"country": "SGP",
@@ -35606,12 +35946,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 5,
+		"games": 7,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1544,
+		"rating_rapid": 1545,
 		"rating_blitz": 1505
 	},
 	{
@@ -35834,6 +36174,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1666
+	},
+	{
+		"fideid": 5856680,
+		"name": "Ang, You Jun",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1467
 	},
 	{
 		"fideid": 5805805,
@@ -36176,6 +36533,23 @@
 		"rating_blitz": 1679
 	},
 	{
+		"fideid": 5842760,
+		"name": "Jovellano, Alwyn Johann Hernandez",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1412
+	},
+	{
 		"fideid": 129112474,
 		"name": "Kajen, Rasanayagam Sivasayan",
 		"country": "SGP",
@@ -36204,7 +36578,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1453
@@ -36259,23 +36633,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1407
-	},
-	{
-		"fideid": 5838754,
-		"name": "Kua, Tian Long Gary",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1473
 	},
 	{
 		"fideid": 5822467,
@@ -36337,7 +36694,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1997,
 		"flag": "",
@@ -36482,6 +36839,23 @@
 		"rating_blitz": 1522
 	},
 	{
+		"fideid": 5869722,
+		"name": "Loh, Asher",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1538
+	},
+	{
 		"fideid": 5839475,
 		"name": "Loo, Louie Jun Xi",
 		"country": "SGP",
@@ -36541,7 +36915,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -36711,13 +37085,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 6,
 		"k": 20,
 		"birthday": 1967,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1607
+		"rating_blitz": 1620
 	},
 	{
 		"fideid": 5808111,
@@ -36735,40 +37109,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1790
-	},
-	{
-		"fideid": 5855705,
-		"name": "Pau, Yu Zhe",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1418
-	},
-	{
-		"fideid": 5868866,
-		"name": "Pham, Duy Hung Lucas",
-		"country": "SGP",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1405
 	},
 	{
 		"fideid": 5820839,
@@ -37143,6 +37483,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1500
+	},
+	{
+		"fideid": 5883164,
+		"name": "Yang, Xuanming Xavier",
+		"country": "SGP",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1662
 	},
 	{
 		"fideid": 5841291,
