@@ -46,7 +46,7 @@
 		"k": 10,
 		"birthday": 1972,
 		"flag": "",
-		"rating_standard": 2434,
+		"rating_standard": 2431,
 		"rating_rapid": 2549,
 		"rating_blitz": 2431
 	},
@@ -63,7 +63,7 @@
 		"k": 10,
 		"birthday": 1984,
 		"flag": "",
-		"rating_standard": 2417,
+		"rating_standard": 2418,
 		"rating_rapid": 2465,
 		"rating_blitz": 2430
 	},
@@ -80,7 +80,7 @@
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
-		"rating_standard": 2344,
+		"rating_standard": 2351,
 		"rating_rapid": 2237,
 		"rating_blitz": 2329
 	},
@@ -97,9 +97,9 @@
 		"k": 20,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 2335,
+		"rating_standard": 2328,
 		"rating_rapid": 2208,
-		"rating_blitz": 2147
+		"rating_blitz": 2146
 	},
 	{
 		"fideid": 6900062,
@@ -148,26 +148,9 @@
 		"k": 20,
 		"birthday": 1989,
 		"flag": "",
-		"rating_standard": 2191,
+		"rating_standard": 2181,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 2218151,
-		"name": "Gomez Anadon, Daniel",
-		"country": "AND",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": 2177,
-		"rating_rapid": 2164,
-		"rating_blitz": 2136
 	},
 	{
 		"fideid": 22270728,
@@ -182,9 +165,26 @@
 		"k": 20,
 		"birthday": 1992,
 		"flag": "",
-		"rating_standard": 2172,
+		"rating_standard": 2177,
 		"rating_rapid": 2133,
 		"rating_blitz": 2154
+	},
+	{
+		"fideid": 2218151,
+		"name": "Gomez Anadon, Daniel",
+		"country": "AND",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 2169,
+		"rating_rapid": 2164,
+		"rating_blitz": 2135
 	},
 	{
 		"fideid": 6900763,
@@ -204,6 +204,40 @@
 		"rating_blitz": 2100
 	},
 	{
+		"fideid": 2222744,
+		"name": "Gonzalez Garcia, Marc",
+		"country": "AND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 2137,
+		"rating_rapid": 2098,
+		"rating_blitz": 2146
+	},
+	{
+		"fideid": 2274477,
+		"name": "Luke Brezmes, Cristofer",
+		"country": "AND",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 2125,
+		"rating_rapid": 2131,
+		"rating_blitz": 2054
+	},
+	{
 		"fideid": 4617738,
 		"name": "Fassnacht, Peter",
 		"country": "AND",
@@ -221,23 +255,6 @@
 		"rating_blitz": 2159
 	},
 	{
-		"fideid": 2222744,
-		"name": "Gonzalez Garcia, Marc",
-		"country": "AND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 2112,
-		"rating_rapid": 2098,
-		"rating_blitz": 2146
-	},
-	{
 		"fideid": 6900089,
 		"name": "Jose Queralto, Daniel",
 		"country": "AND",
@@ -253,23 +270,6 @@
 		"rating_standard": 2108,
 		"rating_rapid": 2200,
 		"rating_blitz": 2102
-	},
-	{
-		"fideid": 2274477,
-		"name": "Luke Brezmes, Cristofer",
-		"country": "AND",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 2104,
-		"rating_rapid": 2131,
-		"rating_blitz": 2054
 	},
 	{
 		"fideid": 6900143,
@@ -323,23 +323,6 @@
 		"rating_blitz": 2086
 	},
 	{
-		"fideid": 6900305,
-		"name": "Ribera Baztan, Jose",
-		"country": "AND",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 2057,
-		"rating_rapid": 2062,
-		"rating_blitz": 2006
-	},
-	{
 		"fideid": 6900496,
 		"name": "Fontbona, Marc",
 		"country": "AND",
@@ -353,8 +336,25 @@
 		"birthday": 1990,
 		"flag": "i",
 		"rating_standard": 2054,
-		"rating_rapid": 2031,
+		"rating_rapid": 2032,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 6900305,
+		"name": "Ribera Baztan, Jose",
+		"country": "AND",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 2046,
+		"rating_rapid": 2062,
+		"rating_blitz": 2006
 	},
 	{
 		"fideid": 6900020,
@@ -382,13 +382,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 1,
 		"k": 20,
 		"birthday": 1974,
 		"flag": "",
-		"rating_standard": 2036,
+		"rating_standard": 2029,
 		"rating_rapid": 1928,
-		"rating_blitz": 1896
+		"rating_blitz": 1898
+	},
+	{
+		"fideid": 22200355,
+		"name": "Zamora Beamud, Andres",
+		"country": "AND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 2020,
+		"rating_rapid": 1953,
+		"rating_blitz": 1935
 	},
 	{
 		"fideid": 32096577,
@@ -442,23 +459,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 22200355,
-		"name": "Zamora Beamud, Andres",
-		"country": "AND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 1991,
-		"rating_rapid": 1953,
-		"rating_blitz": 1935
-	},
-	{
 		"fideid": 6900160,
 		"name": "Cots Paltor, Jordi",
 		"country": "AND",
@@ -467,11 +467,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
-		"rating_standard": 1987,
+		"rating_standard": 1985,
 		"rating_rapid": 2031,
 		"rating_blitz": null
 	},
@@ -501,13 +501,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 12,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1976,
-		"rating_rapid": 2004,
-		"rating_blitz": 1763
+		"rating_standard": 1980,
+		"rating_rapid": 2005,
+		"rating_blitz": 1762
 	},
 	{
 		"fideid": 6900453,
@@ -589,7 +589,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1953,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1938,
 		"rating_rapid": 1965,
 		"rating_blitz": 2032
@@ -654,13 +654,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1912,
 		"rating_rapid": 1910,
 		"rating_blitz": 1945
+	},
+	{
+		"fideid": 6901476,
+		"name": "SINFREU SOBRE, David",
+		"country": "AND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": 1910,
+		"rating_rapid": 1876,
+		"rating_blitz": 1859
 	},
 	{
 		"fideid": 6900780,
@@ -675,26 +692,9 @@
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
-		"rating_standard": 1910,
+		"rating_standard": 1909,
 		"rating_rapid": 1883,
 		"rating_blitz": 1844
-	},
-	{
-		"fideid": 6901476,
-		"name": "SINFREU SOBRE, David",
-		"country": "AND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 1906,
-		"rating_rapid": 1876,
-		"rating_blitz": 1859
 	},
 	{
 		"fideid": 6900330,
@@ -708,7 +708,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1956,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1905,
 		"rating_rapid": 1930,
 		"rating_blitz": 1927
@@ -726,9 +726,26 @@
 		"k": 20,
 		"birthday": 1974,
 		"flag": "",
-		"rating_standard": 1891,
+		"rating_standard": 1882,
 		"rating_rapid": 1865,
 		"rating_blitz": 1848
+	},
+	{
+		"fideid": 6901760,
+		"name": "Furman, Dzianis",
+		"country": "AND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1877,
+		"rating_rapid": 1769,
+		"rating_blitz": 1762
 	},
 	{
 		"fideid": 6900445,
@@ -773,12 +790,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "w",
-		"rating_standard": 1843,
-		"rating_rapid": 1855,
+		"rating_standard": 1844,
+		"rating_rapid": 1856,
 		"rating_blitz": 1871
 	},
 	{
@@ -799,23 +816,6 @@
 		"rating_blitz": 1836
 	},
 	{
-		"fideid": 22249303,
-		"name": "Rechi Montes, Xavier",
-		"country": "AND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 1838,
-		"rating_rapid": 1845,
-		"rating_blitz": 1902
-	},
-	{
 		"fideid": 2204282,
 		"name": "Muratet Carmona, Julia",
 		"country": "AND",
@@ -828,9 +828,26 @@
 		"k": 20,
 		"birthday": 1995,
 		"flag": "w",
-		"rating_standard": 1837,
+		"rating_standard": 1839,
 		"rating_rapid": 1856,
 		"rating_blitz": 1822
+	},
+	{
+		"fideid": 22249303,
+		"name": "Rechi Montes, Xavier",
+		"country": "AND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1835,
+		"rating_rapid": 1845,
+		"rating_blitz": 1827
 	},
 	{
 		"fideid": 6900119,
@@ -867,6 +884,23 @@
 		"rating_blitz": 1837
 	},
 	{
+		"fideid": 6900232,
+		"name": "Rechi Montes, Aritz",
+		"country": "AND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1813,
+		"rating_rapid": 1692,
+		"rating_blitz": 1736
+	},
+	{
 		"fideid": 6900526,
 		"name": "Gras Travesset, Ferran",
 		"country": "AND",
@@ -901,40 +935,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6901760,
-		"name": "Furman, Dzianis",
-		"country": "AND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1799,
-		"rating_rapid": 1769,
-		"rating_blitz": 1762
-	},
-	{
-		"fideid": 22227172,
-		"name": "Muratet Carmona, Alexandra",
-		"country": "AND",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "IA",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "w",
-		"rating_standard": 1799,
-		"rating_rapid": 1754,
-		"rating_blitz": 1766
-	},
-	{
 		"fideid": 6900321,
 		"name": "Gomez Abad, Antonio",
 		"country": "AND",
@@ -952,21 +952,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6900232,
-		"name": "Rechi Montes, Aritz",
+		"fideid": 22227172,
+		"name": "Muratet Carmona, Alexandra",
 		"country": "AND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "IA",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1794,
-		"rating_rapid": 1692,
-		"rating_blitz": 1736
+		"games": 2,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "w",
+		"rating_standard": 1792,
+		"rating_rapid": 1754,
+		"rating_blitz": 1766
 	},
 	{
 		"fideid": 6900429,
@@ -1020,6 +1020,23 @@
 		"rating_blitz": 1869
 	},
 	{
+		"fideid": 6901328,
+		"name": "Barragan Sevilla, Manel",
+		"country": "AND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 1749,
+		"rating_rapid": 1714,
+		"rating_blitz": 1739
+	},
+	{
 		"fideid": 6900798,
 		"name": "Alcon Llosada, Jaume",
 		"country": "AND",
@@ -1054,23 +1071,6 @@
 		"rating_blitz": 1771
 	},
 	{
-		"fideid": 6901328,
-		"name": "Barragan Sevilla, Manel",
-		"country": "AND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": 1737,
-		"rating_rapid": 1714,
-		"rating_blitz": 1739
-	},
-	{
 		"fideid": 32096593,
 		"name": "Henderson, Matthew Franklin",
 		"country": "AND",
@@ -1085,7 +1085,7 @@
 		"flag": "i",
 		"rating_standard": 1729,
 		"rating_rapid": 1696,
-		"rating_blitz": 1680
+		"rating_blitz": 1682
 	},
 	{
 		"fideid": 6900410,
@@ -1096,13 +1096,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1977,
 		"flag": "",
 		"rating_standard": 1725,
 		"rating_rapid": null,
-		"rating_blitz": 1749
+		"rating_blitz": 1748
 	},
 	{
 		"fideid": 6900054,
@@ -1136,7 +1136,7 @@
 		"flag": "",
 		"rating_standard": 1714,
 		"rating_rapid": 1666,
-		"rating_blitz": 1606
+		"rating_blitz": 1607
 	},
 	{
 		"fideid": 6901115,
@@ -1154,6 +1154,23 @@
 		"rating_standard": 1707,
 		"rating_rapid": 1647,
 		"rating_blitz": 1647
+	},
+	{
+		"fideid": 6901336,
+		"name": "Real Puigdollers, Silvia",
+		"country": "AND",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "w",
+		"rating_standard": 1705,
+		"rating_rapid": 1752,
+		"rating_blitz": 1768
 	},
 	{
 		"fideid": 6900720,
@@ -1190,23 +1207,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6901336,
-		"name": "Real Puigdollers, Silvia",
-		"country": "AND",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "w",
-		"rating_standard": 1700,
-		"rating_rapid": 1752,
-		"rating_blitz": 1773
-	},
-	{
 		"fideid": 6900267,
 		"name": "Jansat Mir, Arnau",
 		"country": "AND",
@@ -1232,17 +1232,17 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 2,
 		"k": 20,
 		"birthday": 1953,
 		"flag": "",
-		"rating_standard": 1672,
+		"rating_standard": 1659,
 		"rating_rapid": 1578,
 		"rating_blitz": 1696
 	},
 	{
-		"fideid": 6900097,
-		"name": "Montoliu Montes, Joaquim",
+		"fideid": 6900380,
+		"name": "Filipowicz, Luc",
 		"country": "AND",
 		"sex": "M",
 		"title": "",
@@ -1250,12 +1250,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 1,
-		"k": 20,
-		"birthday": 1992,
+		"k": 40,
+		"birthday": 1958,
 		"flag": "",
-		"rating_standard": 1627,
-		"rating_rapid": 1631,
-		"rating_blitz": 1627
+		"rating_standard": 1629,
+		"rating_rapid": 1454,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 6900283,
@@ -1273,23 +1273,6 @@
 		"rating_standard": 1622,
 		"rating_rapid": 1640,
 		"rating_blitz": 1640
-	},
-	{
-		"fideid": 6900380,
-		"name": "Filipowicz, Luc",
-		"country": "AND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1958,
-		"flag": "",
-		"rating_standard": 1620,
-		"rating_rapid": 1454,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 6900100,
@@ -1324,6 +1307,23 @@
 		"rating_standard": 1616,
 		"rating_rapid": 1516,
 		"rating_blitz": 1599
+	},
+	{
+		"fideid": 6900097,
+		"name": "Montoliu Montes, Joaquim",
+		"country": "AND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "",
+		"rating_standard": 1607,
+		"rating_rapid": 1630,
+		"rating_blitz": 1627
 	},
 	{
 		"fideid": 6900682,
@@ -1374,7 +1374,7 @@
 		"flag": "i",
 		"rating_standard": 1567,
 		"rating_rapid": 1500,
-		"rating_blitz": 1523
+		"rating_blitz": 1524
 	},
 	{
 		"fideid": 6901131,
@@ -1391,7 +1391,7 @@
 		"flag": "wi",
 		"rating_standard": 1558,
 		"rating_rapid": 1506,
-		"rating_blitz": 1501
+		"rating_blitz": 1499
 	},
 	{
 		"fideid": 32099630,
@@ -1402,13 +1402,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "w",
 		"rating_standard": 1538,
 		"rating_rapid": null,
-		"rating_blitz": 1521
+		"rating_blitz": 1520
 	},
 	{
 		"fideid": 6901085,
@@ -1487,11 +1487,11 @@
 		"w_title": "",
 		"o_title": "FA",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "w",
-		"rating_standard": 1474,
+		"rating_standard": 1468,
 		"rating_rapid": 1420,
 		"rating_blitz": 1423
 	},
@@ -1538,11 +1538,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
+		"games": 1,
+		"k": 20,
 		"birthday": 2003,
 		"flag": "w",
-		"rating_standard": 1410,
+		"rating_standard": 1404,
 		"rating_rapid": null,
 		"rating_blitz": 1660
 	},
@@ -1561,7 +1561,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1628,
-		"rating_blitz": 1625
+		"rating_blitz": 1626
 	},
 	{
 		"fideid": 6901530,

@@ -17,23 +17,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 24613959,
-		"name": "Stratonowitsch, Andre",
-		"country": "SEY",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 2173,
-		"rating_rapid": 2083,
-		"rating_blitz": 2137
-	},
-	{
 		"fideid": 9800042,
 		"name": "Kimende, Ralph",
 		"country": "SEY",
@@ -49,6 +32,23 @@
 		"rating_standard": 2166,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 24613959,
+		"name": "Stratonowitsch, Andre",
+		"country": "SEY",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 2162,
+		"rating_rapid": 2083,
+		"rating_blitz": 2137
 	},
 	{
 		"fideid": 9800050,
@@ -76,11 +76,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
-		"rating_standard": 2026,
+		"rating_standard": 2027,
 		"rating_rapid": 1994,
 		"rating_blitz": 2103
 	},
@@ -284,7 +284,7 @@
 		"k": 40,
 		"birthday": 1971,
 		"flag": "",
-		"rating_standard": 1545,
+		"rating_standard": 1546,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -371,7 +371,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1610,
-		"rating_blitz": 1570
+		"rating_blitz": 1569
 	},
 	{
 		"fideid": 9800433,
@@ -405,6 +405,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1699
+		"rating_blitz": 1698
 	}
 ]
