@@ -251,7 +251,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 2146,
-		"rating_rapid": 1996,
+		"rating_rapid": 1998,
 		"rating_blitz": 1958
 	},
 	{
@@ -388,7 +388,7 @@
 		"flag": "",
 		"rating_standard": 2084,
 		"rating_rapid": 1841,
-		"rating_blitz": 1871
+		"rating_blitz": 1872
 	},
 	{
 		"fideid": 7303033,
@@ -480,7 +480,7 @@
 		"name": "Carballo Lemus, Victor G.",
 		"country": "GUA",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -650,7 +650,7 @@
 		"name": "Lopez Escobar, Jose David",
 		"country": "GUA",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -711,7 +711,7 @@
 		"flag": "",
 		"rating_standard": 2008,
 		"rating_rapid": 1970,
-		"rating_blitz": 1922
+		"rating_blitz": 1926
 	},
 	{
 		"fideid": 7300123,
@@ -1496,23 +1496,6 @@
 		"rating_blitz": 1971
 	},
 	{
-		"fideid": 7308531,
-		"name": "Gomez Orozco, Jose Julian",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1896,
-		"rating_rapid": 1850,
-		"rating_blitz": 1850
-	},
-	{
 		"fideid": 7303009,
 		"name": "Molina Hun, Hieysson",
 		"country": "GUA",
@@ -1528,6 +1511,23 @@
 		"rating_standard": 1895,
 		"rating_rapid": null,
 		"rating_blitz": 1757
+	},
+	{
+		"fideid": 7308531,
+		"name": "Gomez Orozco, Jose Julian",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1894,
+		"rating_rapid": 1849,
+		"rating_blitz": 1849
 	},
 	{
 		"fideid": 7301618,
@@ -1717,6 +1717,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7307632,
+		"name": "Aroche Cobos, Manuel Alejandro",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AIM",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1887,
+		"rating_rapid": null,
+		"rating_blitz": 1954
+	},
+	{
 		"fideid": 7304382,
 		"name": "Morales Abril, Jorge Nery",
 		"country": "GUA",
@@ -1732,23 +1749,6 @@
 		"rating_standard": 1887,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7307632,
-		"name": "Aroche Cobos, Manuel Alejandro",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AIM",
-		"games": 7,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1886,
-		"rating_rapid": null,
-		"rating_blitz": 1954
 	},
 	{
 		"fideid": 7301170,
@@ -1848,26 +1848,9 @@
 		"k": 20,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1875,
+		"rating_standard": 1876,
 		"rating_rapid": 1852,
 		"rating_blitz": 1857
-	},
-	{
-		"fideid": 7307810,
-		"name": "Quijivix Sanchez, Jose Antonio",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1874,
-		"rating_rapid": 1640,
-		"rating_blitz": 1748
 	},
 	{
 		"fideid": 7308680,
@@ -1904,6 +1887,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7307810,
+		"name": "Quijivix Sanchez, Jose Antonio",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1871,
+		"rating_rapid": 1640,
+		"rating_blitz": 1748
+	},
+	{
 		"fideid": 7304340,
 		"name": "Jop A., Laura Elizabeth",
 		"country": "GUA",
@@ -1916,9 +1916,26 @@
 		"k": 20,
 		"birthday": 1996,
 		"flag": "w",
-		"rating_standard": 1868,
+		"rating_standard": 1869,
 		"rating_rapid": 1706,
 		"rating_blitz": 1702
+	},
+	{
+		"fideid": 7304544,
+		"name": "Lopez Escobar, Daniel Alejandro",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 2,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1868,
+		"rating_rapid": null,
+		"rating_blitz": 1671
 	},
 	{
 		"fideid": 7300808,
@@ -1953,23 +1970,6 @@
 		"rating_standard": 1867,
 		"rating_rapid": null,
 		"rating_blitz": 1857
-	},
-	{
-		"fideid": 7304544,
-		"name": "Lopez Escobar, Daniel Alejandro",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 2,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1867,
-		"rating_rapid": null,
-		"rating_blitz": 1671
 	},
 	{
 		"fideid": 7301987,
@@ -2193,23 +2193,6 @@
 		"rating_blitz": 1751
 	},
 	{
-		"fideid": 7307578,
-		"name": "Ramos Barrios, Felix Fernando",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1967,
-		"flag": "",
-		"rating_standard": 1844,
-		"rating_rapid": null,
-		"rating_blitz": 1867
-	},
-	{
 		"fideid": 7301383,
 		"name": "Figueroa Gonzalez, Karen Luvia",
 		"country": "GUA",
@@ -2244,6 +2227,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7307578,
+		"name": "Ramos Barrios, Felix Fernando",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1967,
+		"flag": "",
+		"rating_standard": 1843,
+		"rating_rapid": null,
+		"rating_blitz": 1867
+	},
+	{
 		"fideid": 7303661,
 		"name": "Aguirre B., Justo Enrique",
 		"country": "GUA",
@@ -2256,7 +2256,7 @@
 		"k": 20,
 		"birthday": 1992,
 		"flag": "",
-		"rating_standard": 1841,
+		"rating_standard": 1842,
 		"rating_rapid": null,
 		"rating_blitz": 1847
 	},
@@ -2411,7 +2411,7 @@
 		"flag": "w",
 		"rating_standard": 1837,
 		"rating_rapid": 1688,
-		"rating_blitz": 1656
+		"rating_blitz": 1646
 	},
 	{
 		"fideid": 7302061,
@@ -2431,8 +2431,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7307357,
-		"name": "Cabrera Alvarado, Hugo Carlos Josue",
+		"fideid": 7309040,
+		"name": "Tepaz Tian, Marvin Alejandro",
 		"country": "GUA",
 		"sex": "M",
 		"title": "",
@@ -2441,11 +2441,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1835,
-		"rating_rapid": 1726,
-		"rating_blitz": 1751
+		"rating_standard": 1836,
+		"rating_rapid": 1746,
+		"rating_blitz": 1729
 	},
 	{
 		"fideid": 7301588,
@@ -2465,8 +2465,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7309040,
-		"name": "Tepaz Tian, Marvin Alejandro",
+		"fideid": 7307357,
+		"name": "Cabrera Alvarado, Hugo Carlos Josue",
 		"country": "GUA",
 		"sex": "M",
 		"title": "",
@@ -2475,11 +2475,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1835,
-		"rating_rapid": 1746,
-		"rating_blitz": 1723
+		"rating_standard": 1834,
+		"rating_rapid": 1725,
+		"rating_blitz": 1750
 	},
 	{
 		"fideid": 7301367,
@@ -2618,6 +2618,23 @@
 		"rating_blitz": 1811
 	},
 	{
+		"fideid": 7308159,
+		"name": "Cordero Medrano, Dennis Matheus",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1825,
+		"rating_rapid": 1706,
+		"rating_blitz": 1695
+	},
+	{
 		"fideid": 7305176,
 		"name": "Masaya, Alejandro",
 		"country": "GUA",
@@ -2650,23 +2667,6 @@
 		"rating_standard": 1825,
 		"rating_rapid": null,
 		"rating_blitz": 1851
-	},
-	{
-		"fideid": 7308159,
-		"name": "Cordero Medrano, Dennis Matheus",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1824,
-		"rating_rapid": 1706,
-		"rating_blitz": 1694
 	},
 	{
 		"fideid": 7301553,
@@ -2766,7 +2766,7 @@
 		"k": 40,
 		"birthday": 1971,
 		"flag": "",
-		"rating_standard": 1817,
+		"rating_standard": 1818,
 		"rating_rapid": null,
 		"rating_blitz": 1671
 	},
@@ -2839,6 +2839,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7302703,
+		"name": "Juarez Garcia, Daniela",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1810,
+		"rating_rapid": 1832,
+		"rating_blitz": 1741
+	},
+	{
 		"fideid": 7300476,
 		"name": "Ortiz, Wendy",
 		"country": "GUA",
@@ -2856,21 +2873,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7302703,
-		"name": "Juarez Garcia, Daniela",
+		"fideid": 7303084,
+		"name": "Santiago Sontay, Jenny Fernanda",
 		"country": "GUA",
 		"sex": "F",
-		"title": "",
-		"w_title": "",
+		"title": "WCM",
+		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
 		"games": 10,
 		"k": 20,
-		"birthday": 2006,
+		"birthday": 2002,
 		"flag": "w",
 		"rating_standard": 1809,
-		"rating_rapid": 1832,
-		"rating_blitz": 1741
+		"rating_rapid": 1762,
+		"rating_blitz": 1780
 	},
 	{
 		"fideid": 7302568,
@@ -2958,23 +2975,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7303084,
-		"name": "Santiago Sontay, Jenny Fernanda",
-		"country": "GUA",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "w",
-		"rating_standard": 1807,
-		"rating_rapid": 1761,
-		"rating_blitz": 1780
-	},
-	{
 		"fideid": 7302649,
 		"name": "Alvarez, Julio Cesar",
 		"country": "GUA",
@@ -3039,8 +3039,8 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1798,
-		"rating_rapid": 1689,
-		"rating_blitz": 1762
+		"rating_rapid": 1685,
+		"rating_blitz": 1761
 	},
 	{
 		"fideid": 359200009,
@@ -3158,7 +3158,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1791,
-		"rating_rapid": 1775,
+		"rating_rapid": 1773,
 		"rating_blitz": 1766
 	},
 	{
@@ -3400,6 +3400,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7302169,
+		"name": "Rodriguez M, Luis Roberto",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1766,
+		"rating_rapid": null,
+		"rating_blitz": 1827
+	},
+	{
 		"fideid": 7304790,
 		"name": "Yaas Coy, Jorge Andres",
 		"country": "GUA",
@@ -3466,23 +3483,6 @@
 		"rating_standard": 1765,
 		"rating_rapid": null,
 		"rating_blitz": 1801
-	},
-	{
-		"fideid": 7302169,
-		"name": "Rodriguez M, Luis Roberto",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 1765,
-		"rating_rapid": null,
-		"rating_blitz": 1827
 	},
 	{
 		"fideid": 7307187,
@@ -3616,7 +3616,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1754,
+		"rating_standard": 1755,
 		"rating_rapid": 1689,
 		"rating_blitz": null
 	},
@@ -3703,7 +3703,7 @@
 		"flag": "i",
 		"rating_standard": 1748,
 		"rating_rapid": null,
-		"rating_blitz": 1716
+		"rating_blitz": 1722
 	},
 	{
 		"fideid": 7302118,
@@ -3752,7 +3752,7 @@
 		"k": 20,
 		"birthday": 1986,
 		"flag": "",
-		"rating_standard": 1743,
+		"rating_standard": 1744,
 		"rating_rapid": 1763,
 		"rating_blitz": 1787
 	},
@@ -3769,8 +3769,8 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1740,
-		"rating_rapid": 1758,
+		"rating_standard": 1742,
+		"rating_rapid": 1757,
 		"rating_blitz": 1671
 	},
 	{
@@ -3922,7 +3922,7 @@
 		"k": 40,
 		"birthday": 1986,
 		"flag": "",
-		"rating_standard": 1729,
+		"rating_standard": 1730,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -4025,7 +4025,7 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 1725,
-		"rating_rapid": 1736,
+		"rating_rapid": 1734,
 		"rating_blitz": null
 	},
 	{
@@ -4211,7 +4211,7 @@
 		"k": 20,
 		"birthday": 2000,
 		"flag": "w",
-		"rating_standard": 1715,
+		"rating_standard": 1716,
 		"rating_rapid": 1729,
 		"rating_blitz": 1714
 	},
@@ -4505,6 +4505,23 @@
 		"rating_blitz": 1461
 	},
 	{
+		"fideid": 7306989,
+		"name": "Reinhard Moller, Friedrich Stefan",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1696,
+		"rating_rapid": 1529,
+		"rating_blitz": 1636
+	},
+	{
 		"fideid": 7301790,
 		"name": "Rodriguez Castillo, Roberto",
 		"country": "GUA",
@@ -4520,23 +4537,6 @@
 		"rating_standard": 1696,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7306989,
-		"name": "Reinhard Moller, Friedrich Stefan",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1695,
-		"rating_rapid": 1529,
-		"rating_blitz": 1635
 	},
 	{
 		"fideid": 7302690,
@@ -4641,6 +4641,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7303629,
+		"name": "Vela Alonzo, Luis A.",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1689,
+		"rating_rapid": null,
+		"rating_blitz": 1729
+	},
+	{
 		"fideid": 7302410,
 		"name": "Pelaez M., Salvador E.",
 		"country": "GUA",
@@ -4658,23 +4675,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7303629,
-		"name": "Vela Alonzo, Luis A.",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1688,
-		"rating_rapid": null,
-		"rating_blitz": 1729
-	},
-	{
 		"fideid": 7308400,
 		"name": "Figueroa Acevedo, Derek",
 		"country": "GUA",
@@ -4689,7 +4689,7 @@
 		"flag": "",
 		"rating_standard": 1685,
 		"rating_rapid": null,
-		"rating_blitz": 1534
+		"rating_blitz": 1535
 	},
 	{
 		"fideid": 7306717,
@@ -4828,6 +4828,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7305850,
+		"name": "Solares Godoy, Pablo Andres",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1680,
+		"rating_rapid": 1642,
+		"rating_blitz": 1669
+	},
+	{
 		"fideid": 7307446,
 		"name": "Sarat Morataya, Victor Manuel",
 		"country": "GUA",
@@ -4843,23 +4860,6 @@
 		"rating_standard": 1679,
 		"rating_rapid": null,
 		"rating_blitz": 1533
-	},
-	{
-		"fideid": 7305850,
-		"name": "Solares Godoy, Pablo Andres",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1679,
-		"rating_rapid": 1642,
-		"rating_blitz": 1669
 	},
 	{
 		"fideid": 7307241,
@@ -4928,6 +4928,23 @@
 		"rating_standard": 1676,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7305591,
+		"name": "Mendoza Cacoj, Yolanda",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1675,
+		"rating_rapid": 1746,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 7301197,
@@ -5044,9 +5061,9 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1668,
+		"rating_standard": 1669,
 		"rating_rapid": 1701,
-		"rating_blitz": 1510
+		"rating_blitz": 1511
 	},
 	{
 		"fideid": 7300964,
@@ -5083,23 +5100,6 @@
 		"rating_blitz": 1640
 	},
 	{
-		"fideid": 7305680,
-		"name": "Lopez Villatoro, Juan Gilberto",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 1977,
-		"flag": "",
-		"rating_standard": 1664,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7305435,
 		"name": "Menchu, Moises",
 		"country": "GUA",
@@ -5113,6 +5113,23 @@
 		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": 1664,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7305680,
+		"name": "Lopez Villatoro, Juan Gilberto",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 1663,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5134,23 +5151,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7305591,
-		"name": "Mendoza Cacoj, Yolanda",
-		"country": "GUA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1661,
-		"rating_rapid": 1696,
-		"rating_blitz": 1474
-	},
-	{
 		"fideid": 7308370,
 		"name": "Cordero Medrano, Cristopher",
 		"country": "GUA",
@@ -5163,8 +5163,8 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1660,
-		"rating_rapid": 1729,
+		"rating_standard": 1661,
+		"rating_rapid": 1730,
 		"rating_blitz": 1638
 	},
 	{
@@ -5542,23 +5542,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7307292,
-		"name": "Merida Calderon, Juan Diego",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1627,
-		"rating_rapid": 1478,
-		"rating_blitz": 1683
-	},
-	{
 		"fideid": 7306873,
 		"name": "Sotomayor Ariza, Harold Santiago",
 		"country": "GUA",
@@ -5574,6 +5557,40 @@
 		"rating_standard": 1627,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7307667,
+		"name": "Chaca Alvarado, Alisson Nayeli",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1626,
+		"rating_rapid": 1651,
+		"rating_blitz": 1552
+	},
+	{
+		"fideid": 7307292,
+		"name": "Merida Calderon, Juan Diego",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1626,
+		"rating_rapid": 1478,
+		"rating_blitz": 1682
 	},
 	{
 		"fideid": 7307152,
@@ -5593,23 +5610,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7307667,
-		"name": "Chaca Alvarado, Alisson Nayeli",
-		"country": "GUA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1625,
-		"rating_rapid": 1649,
-		"rating_blitz": 1552
-	},
-	{
 		"fideid": 7308345,
 		"name": "Contreras Rivas, Valery Noemy",
 		"country": "GUA",
@@ -5623,7 +5623,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1624,
-		"rating_rapid": 1566,
+		"rating_rapid": 1561,
 		"rating_blitz": 1513
 	},
 	{
@@ -5639,7 +5639,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1623,
+		"rating_standard": 1622,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5746,23 +5746,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7303920,
-		"name": "Palomo Torres, Eduardo",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1615,
-		"rating_rapid": null,
-		"rating_blitz": 1587
-	},
-	{
 		"fideid": 7302886,
 		"name": "Alvarez, Ericka Mariana",
 		"country": "GUA",
@@ -5797,6 +5780,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7303920,
+		"name": "Palomo Torres, Eduardo",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1614,
+		"rating_rapid": null,
+		"rating_blitz": 1587
+	},
+	{
+		"fideid": 7307098,
+		"name": "Lorenzo Mateo, Jennyfer Marisol",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1612,
+		"rating_rapid": 1583,
+		"rating_blitz": 1670
+	},
+	{
 		"fideid": 7306687,
 		"name": "Aguilar de Leon, Dayana Jasmin",
 		"country": "GUA",
@@ -5809,8 +5826,8 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
-		"rating_standard": 1612,
-		"rating_rapid": 1552,
+		"rating_standard": 1611,
+		"rating_rapid": 1542,
 		"rating_blitz": 1545
 	},
 	{
@@ -5828,7 +5845,7 @@
 		"flag": "",
 		"rating_standard": 1610,
 		"rating_rapid": 1573,
-		"rating_blitz": 1537
+		"rating_blitz": 1536
 	},
 	{
 		"fideid": 7308671,
@@ -5846,23 +5863,6 @@
 		"rating_standard": 1610,
 		"rating_rapid": null,
 		"rating_blitz": 1590
-	},
-	{
-		"fideid": 7307098,
-		"name": "Lorenzo Mateo, Jennyfer Marisol",
-		"country": "GUA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1608,
-		"rating_rapid": 1583,
-		"rating_blitz": 1670
 	},
 	{
 		"fideid": 7308329,
@@ -5894,7 +5894,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
-		"rating_standard": 1604,
+		"rating_standard": 1605,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5914,23 +5914,6 @@
 		"rating_standard": 1602,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7302681,
-		"name": "Gonzalez S., Mauricio Antonio",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": null,
-		"rating_blitz": 1586
 	},
 	{
 		"fideid": 7305702,
@@ -5965,6 +5948,23 @@
 		"rating_standard": 1599,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7302681,
+		"name": "Gonzalez S., Mauricio Antonio",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1597,
+		"rating_rapid": null,
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 7303130,
@@ -6013,25 +6013,8 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "wi",
-		"rating_standard": 1596,
+		"rating_standard": 1594,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 7307349,
-		"name": "Garcia Juarez, Camila Ximena",
-		"country": "GUA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1591,
-		"rating_rapid": 1538,
 		"rating_blitz": null
 	},
 	{
@@ -6048,7 +6031,7 @@
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": 1590,
-		"rating_rapid": 1626,
+		"rating_rapid": 1628,
 		"rating_blitz": 1607
 	},
 	{
@@ -6103,23 +6086,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7308183,
-		"name": "Merida Monterroso, Oscar Daniel",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "i",
-		"rating_standard": 1587,
-		"rating_rapid": 1602,
-		"rating_blitz": 1576
-	},
-	{
 		"fideid": 7301138,
 		"name": "Quintana Estrada, Juan Jose",
 		"country": "GUA",
@@ -6149,26 +6115,26 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1587,
+		"rating_standard": 1586,
 		"rating_rapid": null,
 		"rating_blitz": 1600
 	},
 	{
-		"fideid": 7308868,
-		"name": "Esquivel Noriega, Emilio Alejandro",
+		"fideid": 7308183,
+		"name": "Merida Monterroso, Oscar Daniel",
 		"country": "GUA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1586,
-		"rating_rapid": 1604,
-		"rating_blitz": 1566
+		"birthday": 2014,
+		"flag": "i",
+		"rating_standard": 1585,
+		"rating_rapid": 1600,
+		"rating_blitz": 1575
 	},
 	{
 		"fideid": 7308361,
@@ -6186,6 +6152,23 @@
 		"rating_standard": 1582,
 		"rating_rapid": 1497,
 		"rating_blitz": 1547
+	},
+	{
+		"fideid": 7308868,
+		"name": "Esquivel Noriega, Emilio Alejandro",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1582,
+		"rating_rapid": 1604,
+		"rating_blitz": 1566
 	},
 	{
 		"fideid": 7306601,
@@ -6239,23 +6222,6 @@
 		"rating_blitz": 1480
 	},
 	{
-		"fideid": 7306350,
-		"name": "Solares Godoy, Jose Gabriel",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1579,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7307888,
 		"name": "Zamora Valenzuela, Diego Andres",
 		"country": "GUA",
@@ -6307,6 +6273,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7306350,
+		"name": "Solares Godoy, Jose Gabriel",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7307322,
 		"name": "Tepeu Xot, Janet Noemi",
 		"country": "GUA",
@@ -6322,23 +6305,6 @@
 		"rating_standard": 1576,
 		"rating_rapid": null,
 		"rating_blitz": 1614
-	},
-	{
-		"fideid": 7308264,
-		"name": "Sagastume Estrada, Carlos Raul",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 5,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 1571,
-		"rating_rapid": 1532,
-		"rating_blitz": 1679
 	},
 	{
 		"fideid": 7301820,
@@ -6373,6 +6339,40 @@
 		"rating_standard": 1570,
 		"rating_rapid": null,
 		"rating_blitz": 1632
+	},
+	{
+		"fideid": 7308264,
+		"name": "Sagastume Estrada, Carlos Raul",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 5,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1570,
+		"rating_rapid": 1533,
+		"rating_blitz": 1679
+	},
+	{
+		"fideid": 7305427,
+		"name": "Santay Baquiax, Joselyn",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "wi",
+		"rating_standard": 1568,
+		"rating_rapid": null,
+		"rating_blitz": 1452
 	},
 	{
 		"fideid": 7303734,
@@ -6439,7 +6439,7 @@
 		"birthday": 1977,
 		"flag": "",
 		"rating_standard": 1564,
-		"rating_rapid": 1562,
+		"rating_rapid": 1563,
 		"rating_blitz": 1687
 	},
 	{
@@ -6475,23 +6475,6 @@
 		"rating_standard": 1562,
 		"rating_rapid": 1553,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7305427,
-		"name": "Santay Baquiax, Joselyn",
-		"country": "GUA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "wi",
-		"rating_standard": 1562,
-		"rating_rapid": null,
-		"rating_blitz": 1443
 	},
 	{
 		"fideid": 7300719,
@@ -6557,7 +6540,7 @@
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
-		"rating_standard": 1558,
+		"rating_standard": 1559,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -6579,6 +6562,23 @@
 		"rating_blitz": 1599
 	},
 	{
+		"fideid": 7307756,
+		"name": "Aroche Cobos, Cristhian Alberto",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 7,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1556,
+		"rating_rapid": null,
+		"rating_blitz": 1587
+	},
+	{
 		"fideid": 7307144,
 		"name": "Longo Gonzalez, Rodrigo Antonio",
 		"country": "GUA",
@@ -6594,23 +6594,6 @@
 		"rating_standard": 1556,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7307756,
-		"name": "Aroche Cobos, Cristhian Alberto",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 7,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1555,
-		"rating_rapid": null,
-		"rating_blitz": 1587
 	},
 	{
 		"fideid": 7303327,
@@ -6642,7 +6625,7 @@
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
-		"rating_standard": 1554,
+		"rating_standard": 1552,
 		"rating_rapid": null,
 		"rating_blitz": 1570
 	},
@@ -6800,23 +6783,6 @@
 		"rating_blitz": 1628
 	},
 	{
-		"fideid": 7307900,
-		"name": "Rivera Medina, Abraham",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 1539,
-		"rating_rapid": 1640,
-		"rating_blitz": 1532
-	},
-	{
 		"fideid": 7301537,
 		"name": "Diaz Reyes, Dario",
 		"country": "GUA",
@@ -6832,6 +6798,23 @@
 		"rating_standard": 1537,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7307900,
+		"name": "Rivera Medina, Abraham",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1537,
+		"rating_rapid": 1640,
+		"rating_blitz": 1532
 	},
 	{
 		"fideid": 7307390,
@@ -6936,57 +6919,6 @@
 		"rating_blitz": 1595
 	},
 	{
-		"fideid": 7308035,
-		"name": "Robles Ochoa, Santiago Andre",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1526,
-		"rating_rapid": null,
-		"rating_blitz": 1630
-	},
-	{
-		"fideid": 7307969,
-		"name": "Salazar Yanes, Pedro Junbatz Sebastian",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1524,
-		"rating_rapid": null,
-		"rating_blitz": 1640
-	},
-	{
-		"fideid": 7308787,
-		"name": "Saquique Sajbin, Kris Antonio",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1524,
-		"rating_rapid": null,
-		"rating_blitz": 1518
-	},
-	{
 		"fideid": 7309007,
 		"name": "Robles Garcia, Pablo Jose",
 		"country": "GUA",
@@ -7004,6 +6936,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7307969,
+		"name": "Salazar Yanes, Pedro Junbatz Sebastian",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1523,
+		"rating_rapid": null,
+		"rating_blitz": 1640
+	},
+	{
 		"fideid": 7308965,
 		"name": "Chu Mendez, Joshua Azael Jehu",
 		"country": "GUA",
@@ -7019,6 +6968,23 @@
 		"rating_standard": 1522,
 		"rating_rapid": null,
 		"rating_blitz": 1514
+	},
+	{
+		"fideid": 7308035,
+		"name": "Robles Ochoa, Santiago Andre",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1522,
+		"rating_rapid": null,
+		"rating_blitz": 1630
 	},
 	{
 		"fideid": 7306539,
@@ -7052,7 +7018,24 @@
 		"flag": "w",
 		"rating_standard": 1521,
 		"rating_rapid": 1466,
-		"rating_blitz": 1516
+		"rating_blitz": 1517
+	},
+	{
+		"fideid": 7308787,
+		"name": "Saquique Sajbin, Kris Antonio",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1521,
+		"rating_rapid": null,
+		"rating_blitz": 1519
 	},
 	{
 		"fideid": 7307314,
@@ -7186,8 +7169,25 @@
 		"k": 40,
 		"birthday": 1962,
 		"flag": "",
-		"rating_standard": 1510,
+		"rating_standard": 1511,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7307349,
+		"name": "Garcia Juarez, Camila Ximena",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1510,
+		"rating_rapid": 1471,
 		"rating_blitz": null
 	},
 	{
@@ -7242,6 +7242,23 @@
 		"rating_blitz": 1587
 	},
 	{
+		"fideid": 7304250,
+		"name": "Gabriel Tirado, Leydi Elizabeth",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 1501,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 7303939,
 		"name": "Palomo Gonzalez, Luis Eduardo",
 		"country": "GUA",
@@ -7255,23 +7272,6 @@
 		"birthday": 1960,
 		"flag": "i",
 		"rating_standard": 1500,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 7304250,
-		"name": "Gabriel Tirado, Leydi Elizabeth",
-		"country": "GUA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 1499,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7344,21 +7344,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7308515,
-		"name": "Hernandez Samayoa, Briana Sofia",
+		"fideid": 7307934,
+		"name": "Pineda Marroquin, Benjamin Raphael",
 		"country": "GUA",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1487,
-		"rating_rapid": 1518,
-		"rating_blitz": 1541
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1482,
+		"rating_rapid": 1423,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 7308914,
@@ -7412,23 +7412,6 @@
 		"rating_blitz": 1557
 	},
 	{
-		"fideid": 7307934,
-		"name": "Pineda Marroquin, Benjamin Raphael",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1479,
-		"rating_rapid": 1418,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7303149,
 		"name": "Lopez Hidalgo, Leonardo Daniel",
 		"country": "GUA",
@@ -7463,23 +7446,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7305605,
-		"name": "Solval Chuc, Ana Esperanza",
-		"country": "GUA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "wi",
-		"rating_standard": 1476,
-		"rating_rapid": null,
-		"rating_blitz": 1483
-	},
-	{
 		"fideid": 7308302,
 		"name": "Beletzuy Culajay, Erick David",
 		"country": "GUA",
@@ -7497,6 +7463,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 7305605,
+		"name": "Solval Chuc, Ana Esperanza",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "wi",
+		"rating_standard": 1475,
+		"rating_rapid": null,
+		"rating_blitz": 1488
+	},
+	{
 		"fideid": 7306776,
 		"name": "Alvarado Aldana, Ileana Isabel",
 		"country": "GUA",
@@ -7510,6 +7493,23 @@
 		"birthday": 1970,
 		"flag": "w",
 		"rating_standard": 1474,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 7308647,
+		"name": "Garcia Medina, Valentina Marie",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1472,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -7531,23 +7531,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7308647,
-		"name": "Garcia Medina, Valentina Marie",
-		"country": "GUA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1471,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 7307748,
 		"name": "Paxtor Cordova, Yasmin del Rosario",
 		"country": "GUA",
@@ -7560,9 +7543,26 @@
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
-		"rating_standard": 1469,
+		"rating_standard": 1470,
 		"rating_rapid": null,
 		"rating_blitz": 1532
+	},
+	{
+		"fideid": 7308515,
+		"name": "Hernandez Samayoa, Briana Sofia",
+		"country": "GUA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1464,
+		"rating_rapid": 1496,
+		"rating_blitz": 1530
 	},
 	{
 		"fideid": 7306288,
@@ -7577,8 +7577,8 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1457,
-		"rating_rapid": 1669,
+		"rating_standard": 1458,
+		"rating_rapid": 1671,
 		"rating_blitz": 1617
 	},
 	{
@@ -7633,21 +7633,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7308825,
-		"name": "Cabrera Lemus, Ian Marco",
+		"fideid": 7308493,
+		"name": "Diaz Ejcalon, Joseph Steven",
 		"country": "GUA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 3,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1440,
+		"rating_standard": 1434,
 		"rating_rapid": null,
-		"rating_blitz": 1569
+		"rating_blitz": 1548
 	},
 	{
 		"fideid": 7309732,
@@ -7662,26 +7662,9 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1438,
+		"rating_standard": 1432,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 7308493,
-		"name": "Diaz Ejcalon, Joseph Steven",
-		"country": "GUA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1433,
-		"rating_rapid": null,
-		"rating_blitz": 1548
 	},
 	{
 		"fideid": 7309279,
@@ -7713,9 +7696,9 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1429,
-		"rating_rapid": 1456,
-		"rating_blitz": 1445
+		"rating_standard": 1430,
+		"rating_rapid": 1457,
+		"rating_blitz": 1446
 	},
 	{
 		"fideid": 7305508,
@@ -7730,9 +7713,26 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
-		"rating_standard": 1428,
-		"rating_rapid": 1519,
+		"rating_standard": 1429,
+		"rating_rapid": 1545,
 		"rating_blitz": 1466
+	},
+	{
+		"fideid": 7308825,
+		"name": "Cabrera Lemus, Ian Marco",
+		"country": "GUA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1425,
+		"rating_rapid": null,
+		"rating_blitz": 1569
 	},
 	{
 		"fideid": 7309180,
@@ -7748,7 +7748,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1511,
+		"rating_rapid": 1510,
 		"rating_blitz": null
 	},
 	{
@@ -7816,7 +7816,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1566,
+		"rating_rapid": 1569,
 		"rating_blitz": null
 	},
 	{
@@ -7833,8 +7833,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1434,
-		"rating_blitz": 1732
+		"rating_rapid": 1438,
+		"rating_blitz": 1731
 	},
 	{
 		"fideid": 7309082,
@@ -7850,7 +7850,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1591,
+		"rating_rapid": 1592,
 		"rating_blitz": null
 	},
 	{
@@ -7918,7 +7918,7 @@
 		"birthday": 2009,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1466,
+		"rating_rapid": 1469,
 		"rating_blitz": null
 	},
 	{
@@ -7969,7 +7969,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1703,
+		"rating_rapid": 1704,
 		"rating_blitz": null
 	},
 	{
@@ -8650,7 +8650,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1455
+		"rating_blitz": 1456
 	},
 	{
 		"fideid": 7309163,

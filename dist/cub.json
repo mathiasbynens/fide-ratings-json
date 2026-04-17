@@ -72,7 +72,7 @@
 		"name": "Elias Reyes, Jorge Roberto",
 		"country": "CUB",
 		"sex": "M",
-		"title": "IM",
+		"title": "GM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -497,7 +497,7 @@
 		"name": "Alvarez Calzadilla, Jose Avelino",
 		"country": "CUB",
 		"sex": "M",
-		"title": "FM",
+		"title": "IM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -616,7 +616,7 @@
 		"name": "Perez Marimon, Jorge De Jesus",
 		"country": "CUB",
 		"sex": "M",
-		"title": "FM",
+		"title": "IM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -1683,23 +1683,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3518302,
-		"name": "Morales Marmol, Marcos Antonio",
-		"country": "CUB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 2308,
-		"rating_rapid": 2288,
-		"rating_blitz": 2219
-	},
-	{
 		"fideid": 3505154,
 		"name": "Calvo Quinteiro, Jose Manuel",
 		"country": "CUB",
@@ -1715,6 +1698,23 @@
 		"rating_standard": 2307,
 		"rating_rapid": null,
 		"rating_blitz": 2207
+	},
+	{
+		"fideid": 3518302,
+		"name": "Morales Marmol, Marcos Antonio",
+		"country": "CUB",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 2307,
+		"rating_rapid": 2288,
+		"rating_blitz": 2219
 	},
 	{
 		"fideid": 3512266,
@@ -2088,7 +2088,7 @@
 		"flag": "",
 		"rating_standard": 2291,
 		"rating_rapid": 2311,
-		"rating_blitz": 2232
+		"rating_blitz": 2233
 	},
 	{
 		"fideid": 3506991,
@@ -2613,7 +2613,7 @@
 		"k": 10,
 		"birthday": 1979,
 		"flag": "",
-		"rating_standard": 2269,
+		"rating_standard": 2268,
 		"rating_rapid": null,
 		"rating_blitz": 2306
 	},
@@ -3485,23 +3485,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3529169,
-		"name": "Tamames Soria, Cesar Manuel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2241,
-		"rating_rapid": 2151,
-		"rating_blitz": 2189
-	},
-	{
 		"fideid": 3500276,
 		"name": "Alonso Garcia, Rene Marcial",
 		"country": "CUB",
@@ -3568,6 +3551,23 @@
 		"rating_standard": 2240,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3529169,
+		"name": "Tamames Soria, Cesar Manuel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2240,
+		"rating_rapid": 2151,
+		"rating_blitz": 2189
 	},
 	{
 		"fideid": 3506711,
@@ -4961,7 +4961,7 @@
 		"flag": "i",
 		"rating_standard": 2198,
 		"rating_rapid": 2223,
-		"rating_blitz": 2248
+		"rating_blitz": 2249
 	},
 	{
 		"fideid": 3504654,
@@ -5912,7 +5912,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 2174,
-		"rating_rapid": 2078,
+		"rating_rapid": 2079,
 		"rating_blitz": 2060
 	},
 	{
@@ -5980,8 +5980,8 @@
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": 2173,
-		"rating_rapid": 2157,
-		"rating_blitz": 2144
+		"rating_rapid": 2158,
+		"rating_blitz": 2143
 	},
 	{
 		"fideid": 3501183,
@@ -6154,6 +6154,23 @@
 		"rating_blitz": 2202
 	},
 	{
+		"fideid": 3533425,
+		"name": "Rodriguez Rivero, Jinela de Cari",
+		"country": "CUB",
+		"sex": "F",
+		"title": "WIM",
+		"w_title": "WIM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 2168,
+		"rating_rapid": 2132,
+		"rating_blitz": 2146
+	},
+	{
 		"fideid": 3508862,
 		"name": "Aguilar Ginarte, Jose Antonio",
 		"country": "CUB",
@@ -6169,23 +6186,6 @@
 		"rating_standard": 2167,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3533425,
-		"name": "Rodriguez Rivero, Jinela de Cari",
-		"country": "CUB",
-		"sex": "F",
-		"title": "WIM",
-		"w_title": "WIM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 2167,
-		"rating_rapid": 2132,
-		"rating_blitz": 2147
 	},
 	{
 		"fideid": 3508935,
@@ -6677,7 +6677,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 2156,
-		"rating_rapid": 2132,
+		"rating_rapid": 2131,
 		"rating_blitz": 2096
 	},
 	{
@@ -7953,7 +7953,7 @@
 		"flag": "",
 		"rating_standard": 2133,
 		"rating_rapid": 2125,
-		"rating_blitz": 2001
+		"rating_blitz": 2002
 	},
 	{
 		"fideid": 3507092,
@@ -8496,8 +8496,25 @@
 		"birthday": 1969,
 		"flag": "i",
 		"rating_standard": 2125,
-		"rating_rapid": 1994,
+		"rating_rapid": 1995,
 		"rating_blitz": 2123
+	},
+	{
+		"fideid": 3501639,
+		"name": "Morella Cabrera, Julio Antonio",
+		"country": "CUB",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 2125,
+		"rating_rapid": 2163,
+		"rating_blitz": 2177
 	},
 	{
 		"fideid": 3510700,
@@ -8600,23 +8617,6 @@
 		"rating_standard": 2124,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3501639,
-		"name": "Morella Cabrera, Julio Antonio",
-		"country": "CUB",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 2124,
-		"rating_rapid": 2163,
-		"rating_blitz": 2177
 	},
 	{
 		"fideid": 3512347,
@@ -9176,7 +9176,7 @@
 		"birthday": 2009,
 		"flag": "w",
 		"rating_standard": 2115,
-		"rating_rapid": 2117,
+		"rating_rapid": 2118,
 		"rating_blitz": 2090
 	},
 	{
@@ -9333,23 +9333,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3529002,
-		"name": "Luis Alvarez, Elizabeth",
-		"country": "CUB",
-		"sex": "F",
-		"title": "WIM",
-		"w_title": "WIM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "w",
-		"rating_standard": 2112,
-		"rating_rapid": 2108,
-		"rating_blitz": 2154
-	},
-	{
 		"fideid": 3511111,
 		"name": "Medina Valdes, Luis Felipe",
 		"country": "CUB",
@@ -9450,6 +9433,23 @@
 		"rating_standard": 2111,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3529002,
+		"name": "Luis Alvarez, Elizabeth",
+		"country": "CUB",
+		"sex": "F",
+		"title": "WIM",
+		"w_title": "WIM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "w",
+		"rating_standard": 2111,
+		"rating_rapid": 2107,
+		"rating_blitz": 2154
 	},
 	{
 		"fideid": 3507718,
@@ -9911,23 +9911,6 @@
 		"rating_blitz": 2221
 	},
 	{
-		"fideid": 3526593,
-		"name": "Guevara Fernandez, Livan",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": 2103,
-		"rating_rapid": 1977,
-		"rating_blitz": 2209
-	},
-	{
 		"fideid": 3529673,
 		"name": "Lopez Suarez, Manuel Alejandro",
 		"country": "CUB",
@@ -10045,6 +10028,23 @@
 		"rating_standard": 2102,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3526593,
+		"name": "Guevara Fernandez, Livan",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "i",
+		"rating_standard": 2102,
+		"rating_rapid": 1977,
+		"rating_blitz": 2209
 	},
 	{
 		"fideid": 3511120,
@@ -10183,23 +10183,6 @@
 		"rating_blitz": 2072
 	},
 	{
-		"fideid": 3534480,
-		"name": "Piedra Toboso, Carlos Ernesto",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2099,
-		"rating_rapid": 1984,
-		"rating_blitz": 2238
-	},
-	{
 		"fideid": 3512916,
 		"name": "Rios Valdes, Henry Santiago",
 		"country": "CUB",
@@ -10283,6 +10266,23 @@
 		"rating_standard": 2098,
 		"rating_rapid": 2133,
 		"rating_blitz": 2075
+	},
+	{
+		"fideid": 3534480,
+		"name": "Piedra Toboso, Carlos Ernesto",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2098,
+		"rating_rapid": 1984,
+		"rating_blitz": 2238
 	},
 	{
 		"fideid": 3505871,
@@ -10489,6 +10489,23 @@
 		"rating_blitz": 2065
 	},
 	{
+		"fideid": 3506088,
+		"name": "Malaga, Pedro L.",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 2093,
+		"rating_rapid": 2043,
+		"rating_blitz": 1886
+	},
+	{
 		"fideid": 3513114,
 		"name": "Pompa Hernandez, Honorio",
 		"country": "CUB",
@@ -10555,23 +10572,6 @@
 		"rating_standard": 2092,
 		"rating_rapid": 2095,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3506088,
-		"name": "Malaga, Pedro L.",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 2092,
-		"rating_rapid": 2043,
-		"rating_blitz": 1886
 	},
 	{
 		"fideid": 3504778,
@@ -10928,7 +10928,7 @@
 		"flag": "",
 		"rating_standard": 2086,
 		"rating_rapid": null,
-		"rating_blitz": 2001
+		"rating_blitz": 2000
 	},
 	{
 		"fideid": 3510956,
@@ -11373,23 +11373,6 @@
 		"rating_blitz": 1975
 	},
 	{
-		"fideid": 3506266,
-		"name": "Matias Gonzalez, Yerani",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1977,
-		"flag": "i",
-		"rating_standard": 2080,
-		"rating_rapid": null,
-		"rating_blitz": 2040
-	},
-	{
 		"fideid": 3502279,
 		"name": "Rodriguez Leon, Enrique",
 		"country": "CUB",
@@ -11405,6 +11388,23 @@
 		"rating_standard": 2080,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3506266,
+		"name": "Matias Gonzalez, Yerani",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "i",
+		"rating_standard": 2079,
+		"rating_rapid": null,
+		"rating_blitz": 2039
 	},
 	{
 		"fideid": 3503941,
@@ -12461,6 +12461,23 @@
 		"rating_blitz": 2083
 	},
 	{
+		"fideid": 3530256,
+		"name": "Hernandez Elias, Yurislandy",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 2063,
+		"rating_rapid": 2058,
+		"rating_blitz": 2063
+	},
+	{
 		"fideid": 3516954,
 		"name": "Morales Gonzalez, Ramon Alfonso",
 		"country": "CUB",
@@ -12526,23 +12543,6 @@
 		"flag": "i",
 		"rating_standard": 2062,
 		"rating_rapid": null,
-		"rating_blitz": 2063
-	},
-	{
-		"fideid": 3530256,
-		"name": "Hernandez Elias, Yurislandy",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 2062,
-		"rating_rapid": 2058,
 		"rating_blitz": 2063
 	},
 	{
@@ -12747,7 +12747,7 @@
 		"flag": "i",
 		"rating_standard": 2060,
 		"rating_rapid": 2005,
-		"rating_blitz": 1989
+		"rating_blitz": 1988
 	},
 	{
 		"fideid": 3513866,
@@ -13019,7 +13019,7 @@
 		"flag": "w",
 		"rating_standard": 2055,
 		"rating_rapid": null,
-		"rating_blitz": 2053
+		"rating_blitz": 2052
 	},
 	{
 		"fideid": 3505863,
@@ -13274,7 +13274,7 @@
 		"flag": "i",
 		"rating_standard": 2051,
 		"rating_rapid": null,
-		"rating_blitz": 2020
+		"rating_blitz": 2019
 	},
 	{
 		"fideid": 3520587,
@@ -13447,23 +13447,6 @@
 		"rating_blitz": 2014
 	},
 	{
-		"fideid": 3504883,
-		"name": "Riverol Perez, Eduardo",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "i",
-		"rating_standard": 2049,
-		"rating_rapid": 2075,
-		"rating_blitz": 2018
-	},
-	{
 		"fideid": 3537897,
 		"name": "Cruz Ortega, Reinier",
 		"country": "CUB",
@@ -13513,6 +13496,23 @@
 		"rating_standard": 2048,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3504883,
+		"name": "Riverol Perez, Eduardo",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "i",
+		"rating_standard": 2048,
+		"rating_rapid": 2075,
+		"rating_blitz": 2017
 	},
 	{
 		"fideid": 3511065,
@@ -14144,6 +14144,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3505200,
+		"name": "Terry Cuellar, Luis Antonio",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 2038,
+		"rating_rapid": 2065,
+		"rating_blitz": 2055
+	},
+	{
 		"fideid": 3505928,
 		"name": "Yin de la Rosa, Marion",
 		"country": "CUB",
@@ -14193,23 +14210,6 @@
 		"rating_standard": 2037,
 		"rating_rapid": 2112,
 		"rating_blitz": 2020
-	},
-	{
-		"fideid": 3505200,
-		"name": "Terry Cuellar, Luis Antonio",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 2037,
-		"rating_rapid": 2065,
-		"rating_blitz": 2055
 	},
 	{
 		"fideid": 3504506,
@@ -14671,6 +14671,23 @@
 		"rating_blitz": 1933
 	},
 	{
+		"fideid": 3534235,
+		"name": "Jimenez Leyva, Diego",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 2032,
+		"rating_rapid": 1792,
+		"rating_blitz": 1904
+	},
+	{
 		"fideid": 3505502,
 		"name": "Olano Rosabal, Leonal",
 		"country": "CUB",
@@ -14871,8 +14888,8 @@
 		"birthday": 1988,
 		"flag": "",
 		"rating_standard": 2031,
-		"rating_rapid": 1967,
-		"rating_blitz": 1892
+		"rating_rapid": 1968,
+		"rating_blitz": 1890
 	},
 	{
 		"fideid": 3520315,
@@ -14924,23 +14941,6 @@
 		"rating_standard": 2030,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3534235,
-		"name": "Jimenez Leyva, Diego",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 2030,
-		"rating_rapid": 1792,
-		"rating_blitz": 1904
 	},
 	{
 		"fideid": 3510824,
@@ -16779,23 +16779,6 @@
 		"rating_blitz": 1986
 	},
 	{
-		"fideid": 3531791,
-		"name": "Alvarez Alburquerque, Leandro",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 2008,
-		"rating_rapid": 1948,
-		"rating_blitz": 2032
-	},
-	{
 		"fideid": 3500667,
 		"name": "Armenteros, Noel",
 		"country": "CUB",
@@ -16913,6 +16896,23 @@
 		"rating_standard": 2008,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3531791,
+		"name": "Alvarez Alburquerque, Leandro",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 2007,
+		"rating_rapid": 1948,
+		"rating_blitz": 2032
 	},
 	{
 		"fideid": 3518248,
@@ -17578,23 +17578,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3514536,
-		"name": "Carvajal Sanchez, Daynel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 2000,
-		"rating_rapid": null,
-		"rating_blitz": 2025
-	},
-	{
 		"fideid": 3511456,
 		"name": "Coto Hernandez, Ivan",
 		"country": "CUB",
@@ -17695,6 +17678,23 @@
 		"rating_standard": 1999,
 		"rating_rapid": null,
 		"rating_blitz": 1943
+	},
+	{
+		"fideid": 3514536,
+		"name": "Carvajal Sanchez, Daynel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1999,
+		"rating_rapid": null,
+		"rating_blitz": 2025
 	},
 	{
 		"fideid": 3516792,
@@ -18085,7 +18085,7 @@
 		"flag": "",
 		"rating_standard": 1997,
 		"rating_rapid": 2170,
-		"rating_blitz": 1994
+		"rating_blitz": 1993
 	},
 	{
 		"fideid": 3518310,
@@ -18258,23 +18258,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3523900,
-		"name": "Garcia Terry, Legna",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "SI",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "w",
-		"rating_standard": 1995,
-		"rating_rapid": 1971,
-		"rating_blitz": 1965
-	},
-	{
 		"fideid": 3521400,
 		"name": "Lobato Vazquez, Relfis",
 		"country": "CUB",
@@ -18394,6 +18377,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3523900,
+		"name": "Garcia Terry, Legna",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "SI",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "w",
+		"rating_standard": 1994,
+		"rating_rapid": 1970,
+		"rating_blitz": 1965
+	},
+	{
 		"fideid": 3515559,
 		"name": "Herrera Lopez, Carlos Manuel",
 		"country": "CUB",
@@ -18492,7 +18492,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1993,
-		"rating_rapid": 1999,
+		"rating_rapid": 1998,
 		"rating_blitz": 1987
 	},
 	{
@@ -19206,7 +19206,7 @@
 		"birthday": 1955,
 		"flag": "",
 		"rating_standard": 1989,
-		"rating_rapid": 2068,
+		"rating_rapid": 2067,
 		"rating_blitz": 1970
 	},
 	{
@@ -19291,8 +19291,8 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1988,
-		"rating_rapid": 1805,
-		"rating_blitz": 1823
+		"rating_rapid": 1806,
+		"rating_blitz": 1822
 	},
 	{
 		"fideid": 3530345,
@@ -19309,7 +19309,7 @@
 		"flag": "",
 		"rating_standard": 1988,
 		"rating_rapid": 1593,
-		"rating_blitz": 1913
+		"rating_blitz": 1912
 	},
 	{
 		"fideid": 3521427,
@@ -20536,6 +20536,23 @@
 		"rating_blitz": 1969
 	},
 	{
+		"fideid": 3534332,
+		"name": "Ravelo Lobaina, Erick Angelo",
+		"country": "CUB",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1979,
+		"rating_rapid": null,
+		"rating_blitz": 1934
+	},
+	{
 		"fideid": 3513947,
 		"name": "Valdes Tito, Yanet",
 		"country": "CUB",
@@ -20670,23 +20687,6 @@
 		"rating_standard": 1978,
 		"rating_rapid": null,
 		"rating_blitz": 1967
-	},
-	{
-		"fideid": 3534332,
-		"name": "Ravelo Lobaina, Erick Angelo",
-		"country": "CUB",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1978,
-		"rating_rapid": null,
-		"rating_blitz": 1935
 	},
 	{
 		"fideid": 3513963,
@@ -21129,23 +21129,6 @@
 		"rating_standard": 1973,
 		"rating_rapid": null,
 		"rating_blitz": 1995
-	},
-	{
-		"fideid": 3517144,
-		"name": "Betancourt Echazabal, Antonio",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1972,
-		"rating_rapid": 1967,
-		"rating_blitz": 1915
 	},
 	{
 		"fideid": 3526763,
@@ -21807,8 +21790,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1968,
-		"rating_rapid": 2043,
-		"rating_blitz": 1997
+		"rating_rapid": 2044,
+		"rating_blitz": 1998
 	},
 	{
 		"fideid": 3525376,
@@ -22166,6 +22149,23 @@
 		"rating_standard": 1965,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3517144,
+		"name": "Betancourt Echazabal, Antonio",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1965,
+		"rating_rapid": 1961,
+		"rating_blitz": 1911
 	},
 	{
 		"fideid": 3503429,
@@ -23286,7 +23286,7 @@
 		"birthday": 1965,
 		"flag": "i",
 		"rating_standard": 1956,
-		"rating_rapid": 1939,
+		"rating_rapid": 1940,
 		"rating_blitz": 1886
 	},
 	{
@@ -23321,7 +23321,7 @@
 		"flag": "i",
 		"rating_standard": 1955,
 		"rating_rapid": 2016,
-		"rating_blitz": 2015
+		"rating_blitz": 2016
 	},
 	{
 		"fideid": 3524116,
@@ -23371,7 +23371,7 @@
 		"birthday": 1997,
 		"flag": "w",
 		"rating_standard": 1955,
-		"rating_rapid": 1983,
+		"rating_rapid": 1984,
 		"rating_blitz": 1961
 	},
 	{
@@ -23834,23 +23834,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3533476,
-		"name": "Jimenez Puig, Eduardo Michel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1950,
-		"rating_rapid": null,
-		"rating_blitz": 1852
-	},
-	{
 		"fideid": 3528359,
 		"name": "Lopez Martin, Nestor",
 		"country": "CUB",
@@ -24002,6 +23985,23 @@
 		"rating_standard": 1949,
 		"rating_rapid": null,
 		"rating_blitz": 1992
+	},
+	{
+		"fideid": 3533476,
+		"name": "Jimenez Puig, Eduardo Michel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1949,
+		"rating_rapid": null,
+		"rating_blitz": 1852
 	},
 	{
 		"fideid": 3520870,
@@ -24208,6 +24208,23 @@
 		"rating_blitz": 1948
 	},
 	{
+		"fideid": 3537145,
+		"name": "Cuesta Cedeno, Cristofer Rafael",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1946,
+		"rating_rapid": 1781,
+		"rating_blitz": 2013
+	},
+	{
 		"fideid": 3517381,
 		"name": "Diaz Rodriguez, Yandro Asdrubal",
 		"country": "CUB",
@@ -24257,6 +24274,23 @@
 		"rating_standard": 1946,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3530337,
+		"name": "Luis Alvarez, Isabela",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1946,
+		"rating_rapid": 1968,
+		"rating_blitz": 1954
 	},
 	{
 		"fideid": 3525210,
@@ -24310,23 +24344,6 @@
 		"rating_blitz": 1941
 	},
 	{
-		"fideid": 3537145,
-		"name": "Cuesta Cedeno, Cristofer Rafael",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1945,
-		"rating_rapid": 1781,
-		"rating_blitz": 2013
-	},
-	{
 		"fideid": 3521621,
 		"name": "Gonzalez Pina, Evelyn",
 		"country": "CUB",
@@ -24342,23 +24359,6 @@
 		"rating_standard": 1945,
 		"rating_rapid": null,
 		"rating_blitz": 1885
-	},
-	{
-		"fideid": 3530337,
-		"name": "Luis Alvarez, Isabela",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1945,
-		"rating_rapid": 1967,
-		"rating_blitz": 1954
 	},
 	{
 		"fideid": 3504760,
@@ -24786,23 +24786,6 @@
 		"rating_blitz": 1955
 	},
 	{
-		"fideid": 3533913,
-		"name": "Hernandez Chang, Yan",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1941,
-		"rating_rapid": 1908,
-		"rating_blitz": 1837
-	},
-	{
 		"fideid": 3517080,
 		"name": "Lao Sariol, Reinier",
 		"country": "CUB",
@@ -24920,6 +24903,23 @@
 		"rating_standard": 1940,
 		"rating_rapid": null,
 		"rating_blitz": 2025
+	},
+	{
+		"fideid": 3533913,
+		"name": "Hernandez Chang, Yan",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1940,
+		"rating_rapid": 1908,
+		"rating_blitz": 1837
 	},
 	{
 		"fideid": 3524477,
@@ -25905,7 +25905,7 @@
 		"flag": "i",
 		"rating_standard": 1929,
 		"rating_rapid": null,
-		"rating_blitz": 1963
+		"rating_blitz": 1965
 	},
 	{
 		"fideid": 3518370,
@@ -26806,7 +26806,7 @@
 		"flag": "i",
 		"rating_standard": 1918,
 		"rating_rapid": null,
-		"rating_blitz": 1919
+		"rating_blitz": 1918
 	},
 	{
 		"fideid": 3524752,
@@ -26877,23 +26877,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3505952,
-		"name": "Cobas Ferrer, Dayamy",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "w",
-		"rating_standard": 1917,
-		"rating_rapid": 1959,
-		"rating_blitz": 1933
-	},
-	{
 		"fideid": 3523586,
 		"name": "Gabancho Valdes, Antonio",
 		"country": "CUB",
@@ -26960,23 +26943,6 @@
 		"rating_standard": 1917,
 		"rating_rapid": null,
 		"rating_blitz": 1876
-	},
-	{
-		"fideid": 3530248,
-		"name": "Hechavarria Puga, Lenier",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1916,
-		"rating_rapid": 1959,
-		"rating_blitz": 1939
 	},
 	{
 		"fideid": 3520730,
@@ -27215,6 +27181,23 @@
 		"rating_standard": 1914,
 		"rating_rapid": null,
 		"rating_blitz": 1889
+	},
+	{
+		"fideid": 3530248,
+		"name": "Hechavarria Puga, Lenier",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1914,
+		"rating_rapid": 1959,
+		"rating_blitz": 1938
 	},
 	{
 		"fideid": 3533239,
@@ -27557,23 +27540,6 @@
 		"rating_blitz": 1884
 	},
 	{
-		"fideid": 3536785,
-		"name": "Linares Fernandez, Cesar Ernesto",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1911,
-		"rating_rapid": 1705,
-		"rating_blitz": 1871
-	},
-	{
 		"fideid": 3522369,
 		"name": "Verdecia Diaz, Rafael",
 		"country": "CUB",
@@ -27674,6 +27640,23 @@
 		"rating_standard": 1910,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3536785,
+		"name": "Linares Fernandez, Cesar Ernesto",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1910,
+		"rating_rapid": 1705,
+		"rating_blitz": 1870
 	},
 	{
 		"fideid": 3502880,
@@ -28183,7 +28166,7 @@
 		"flag": "",
 		"rating_standard": 1904,
 		"rating_rapid": null,
-		"rating_blitz": 1877
+		"rating_blitz": 1878
 	},
 	{
 		"fideid": 3523926,
@@ -28373,6 +28356,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3536343,
+		"name": "Solino Perez, Adiam De Jesus",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1902,
+		"rating_rapid": 1774,
+		"rating_blitz": 1776
+	},
+	{
 		"fideid": 3524175,
 		"name": "Cintra Hernandez, Osvaldo",
 		"country": "CUB",
@@ -28407,40 +28407,6 @@
 		"rating_blitz": 1884
 	},
 	{
-		"fideid": 3536343,
-		"name": "Solino Perez, Adiam De Jesus",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1901,
-		"rating_rapid": 1774,
-		"rating_blitz": 1777
-	},
-	{
-		"fideid": 3514161,
-		"name": "Cabrera Nunez, Ledaymis",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "w",
-		"rating_standard": 1900,
-		"rating_rapid": 1903,
-		"rating_blitz": 2011
-	},
-	{
 		"fideid": 3520749,
 		"name": "Leyva Aranda, Yane",
 		"country": "CUB",
@@ -28473,6 +28439,23 @@
 		"rating_standard": 1899,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3514161,
+		"name": "Cabrera Nunez, Ledaymis",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "w",
+		"rating_standard": 1899,
+		"rating_rapid": 1902,
+		"rating_blitz": 2011
 	},
 	{
 		"fideid": 3532828,
@@ -28696,23 +28679,6 @@
 		"rating_blitz": 1888
 	},
 	{
-		"fideid": 3531627,
-		"name": "Cardoza Diaz, Aaron",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1896,
-		"rating_rapid": 2048,
-		"rating_blitz": 1982
-	},
-	{
 		"fideid": 3525503,
 		"name": "Castillo Lopez, Oslay",
 		"country": "CUB",
@@ -28779,6 +28745,23 @@
 		"rating_standard": 1896,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3531627,
+		"name": "Cardoza Diaz, Aaron",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1895,
+		"rating_rapid": 2048,
+		"rating_blitz": 1982
 	},
 	{
 		"fideid": 3519171,
@@ -28883,23 +28866,6 @@
 		"rating_blitz": 1851
 	},
 	{
-		"fideid": 3532976,
-		"name": "Roman Baso, Dorian Sadek",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1894,
-		"rating_rapid": 1752,
-		"rating_blitz": 1764
-	},
-	{
 		"fideid": 3519252,
 		"name": "Aguilar Serrano, Luis Miguel",
 		"country": "CUB",
@@ -28983,6 +28949,23 @@
 		"rating_standard": 1893,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3532976,
+		"name": "Roman Baso, Dorian Sadek",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1893,
+		"rating_rapid": 1752,
+		"rating_blitz": 1763
 	},
 	{
 		"fideid": 3527026,
@@ -29087,23 +29070,6 @@
 		"rating_blitz": 1690
 	},
 	{
-		"fideid": 3535355,
-		"name": "Garcia Tabasco, Alberto",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1892,
-		"rating_rapid": 1787,
-		"rating_blitz": 1778
-	},
-	{
 		"fideid": 3503607,
 		"name": "Guzman Rodriguez, Lazaro Mike",
 		"country": "CUB",
@@ -29187,6 +29153,23 @@
 		"rating_standard": 1891,
 		"rating_rapid": 1944,
 		"rating_blitz": 1882
+	},
+	{
+		"fideid": 3535355,
+		"name": "Garcia Tabasco, Alberto",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1891,
+		"rating_rapid": 1786,
+		"rating_blitz": 1778
 	},
 	{
 		"fideid": 3519945,
@@ -29495,6 +29478,23 @@
 		"rating_blitz": 1873
 	},
 	{
+		"fideid": 3536009,
+		"name": "Fonseca Gonzalez, Diego",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1887,
+		"rating_rapid": null,
+		"rating_blitz": 1918
+	},
+	{
 		"fideid": 3507114,
 		"name": "Garcia Garcia, Carlos Alberto",
 		"country": "CUB",
@@ -29614,23 +29614,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3536009,
-		"name": "Fonseca Gonzalez, Diego",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1886,
-		"rating_rapid": null,
-		"rating_blitz": 1918
-	},
-	{
 		"fideid": 3514390,
 		"name": "Silva Mazorra, Pedro Pablo",
 		"country": "CUB",
@@ -29644,7 +29627,7 @@
 		"birthday": 1949,
 		"flag": "",
 		"rating_standard": 1886,
-		"rating_rapid": 1832,
+		"rating_rapid": 1833,
 		"rating_blitz": 1935
 	},
 	{
@@ -29917,7 +29900,7 @@
 		"flag": "",
 		"rating_standard": 1883,
 		"rating_rapid": 1888,
-		"rating_blitz": 2035
+		"rating_blitz": 2034
 	},
 	{
 		"fideid": 3519112,
@@ -30260,23 +30243,6 @@
 		"rating_blitz": 1870
 	},
 	{
-		"fideid": 3533581,
-		"name": "Castro Marrero, Samira",
-		"country": "CUB",
-		"sex": "F",
-		"title": "WFM",
-		"w_title": "WFM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1879,
-		"rating_rapid": 1853,
-		"rating_blitz": 1859
-	},
-	{
 		"fideid": 3506460,
 		"name": "Diago, Lazaro",
 		"country": "CUB",
@@ -30345,21 +30311,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3534316,
-		"name": "Perez Saladrigas, Leandro",
+		"fideid": 3533581,
+		"name": "Castro Marrero, Samira",
 		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
+		"sex": "F",
+		"title": "WFM",
+		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1879,
-		"rating_rapid": 1672,
-		"rating_blitz": 2077
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1878,
+		"rating_rapid": 1852,
+		"rating_blitz": 1859
 	},
 	{
 		"fideid": 3522954,
@@ -30377,6 +30343,23 @@
 		"rating_standard": 1878,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3534316,
+		"name": "Perez Saladrigas, Leandro",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1878,
+		"rating_rapid": 1672,
+		"rating_blitz": 2077
 	},
 	{
 		"fideid": 3524612,
@@ -30444,7 +30427,7 @@
 		"flag": "i",
 		"rating_standard": 1877,
 		"rating_rapid": null,
-		"rating_blitz": 1863
+		"rating_blitz": 1861
 	},
 	{
 		"fideid": 3530752,
@@ -30974,23 +30957,6 @@
 		"rating_blitz": 1840
 	},
 	{
-		"fideid": 3523977,
-		"name": "Paz Arcia, Cristan Gabriel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": 1870,
-		"rating_rapid": null,
-		"rating_blitz": 1942
-	},
-	{
 		"fideid": 3537790,
 		"name": "Pichs Herrera, Luis Alberto",
 		"country": "CUB",
@@ -31057,6 +31023,23 @@
 		"rating_standard": 1869,
 		"rating_rapid": null,
 		"rating_blitz": 1871
+	},
+	{
+		"fideid": 3523977,
+		"name": "Paz Arcia, Cristan Gabriel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": 1869,
+		"rating_rapid": null,
+		"rating_blitz": 1940
 	},
 	{
 		"fideid": 3514048,
@@ -31175,7 +31158,7 @@
 		"flag": "",
 		"rating_standard": 1868,
 		"rating_rapid": null,
-		"rating_blitz": 1862
+		"rating_blitz": 1861
 	},
 	{
 		"fideid": 3516857,
@@ -31348,6 +31331,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3533395,
+		"name": "Fernandez Correa, Cristian",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1864,
+		"rating_rapid": 1892,
+		"rating_blitz": 1760
+	},
+	{
 		"fideid": 3509060,
 		"name": "Gonzalez, Walter",
 		"country": "CUB",
@@ -31448,23 +31448,6 @@
 		"rating_standard": 1863,
 		"rating_rapid": 1864,
 		"rating_blitz": 1754
-	},
-	{
-		"fideid": 3533395,
-		"name": "Fernandez Correa, Cristian",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1863,
-		"rating_rapid": 1893,
-		"rating_blitz": 1762
 	},
 	{
 		"fideid": 3527727,
@@ -31684,25 +31667,8 @@
 		"birthday": 1995,
 		"flag": "w",
 		"rating_standard": 1858,
-		"rating_rapid": 1828,
+		"rating_rapid": 1829,
 		"rating_blitz": 1827
-	},
-	{
-		"fideid": 3539539,
-		"name": "Hernandez Sala, Alejandro",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1858,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 3521109,
@@ -31807,6 +31773,23 @@
 		"rating_blitz": 1854
 	},
 	{
+		"fideid": 3539539,
+		"name": "Hernandez Sala, Alejandro",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1857,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3511308,
 		"name": "Mosquera Cayon, Danet",
 		"country": "CUB",
@@ -31892,6 +31875,23 @@
 		"rating_blitz": 1841
 	},
 	{
+		"fideid": 3510310,
+		"name": "Gonzalez Hernandez, Humberto",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "i",
+		"rating_standard": 1855,
+		"rating_rapid": 1882,
+		"rating_blitz": 1914
+	},
+	{
 		"fideid": 3526364,
 		"name": "Mendez Rodriguez, Denis Luis",
 		"country": "CUB",
@@ -31974,24 +31974,7 @@
 		"flag": "i",
 		"rating_standard": 1854,
 		"rating_rapid": null,
-		"rating_blitz": 1859
-	},
-	{
-		"fideid": 3510310,
-		"name": "Gonzalez Hernandez, Humberto",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "i",
-		"rating_standard": 1854,
-		"rating_rapid": 1882,
-		"rating_blitz": 1914
+		"rating_blitz": 1858
 	},
 	{
 		"fideid": 3538184,
@@ -32045,23 +32028,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3538117,
-		"name": "Vazquez Delgado, Jorge Enrique",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1854,
-		"rating_rapid": 1702,
-		"rating_blitz": 1823
-	},
-	{
 		"fideid": 3531244,
 		"name": "Aranda Suarez , Jesus",
 		"country": "CUB",
@@ -32077,6 +32043,23 @@
 		"rating_standard": 1853,
 		"rating_rapid": null,
 		"rating_blitz": 1876
+	},
+	{
+		"fideid": 3533727,
+		"name": "Avila Calderin, Helder",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1853,
+		"rating_rapid": 1683,
+		"rating_blitz": 1820
 	},
 	{
 		"fideid": 3520170,
@@ -32096,38 +32079,21 @@
 		"rating_blitz": 1912
 	},
 	{
-		"fideid": 3538109,
-		"name": "Pernas Cejas, Daziel",
+		"fideid": 3538117,
+		"name": "Vazquez Delgado, Jorge Enrique",
 		"country": "CUB",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1853,
-		"rating_rapid": 1710,
-		"rating_blitz": 1759
-	},
-	{
-		"fideid": 3533727,
-		"name": "Avila Calderin, Helder",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
+		"games": 5,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1852,
-		"rating_rapid": 1683,
-		"rating_blitz": 1821
+		"rating_standard": 1853,
+		"rating_rapid": 1702,
+		"rating_blitz": 1823
 	},
 	{
 		"fideid": 3509273,
@@ -32145,6 +32111,23 @@
 		"rating_standard": 1852,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3538109,
+		"name": "Pernas Cejas, Daziel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1852,
+		"rating_rapid": 1710,
+		"rating_blitz": 1759
 	},
 	{
 		"fideid": 3508560,
@@ -32229,7 +32212,7 @@
 		"flag": "",
 		"rating_standard": 1851,
 		"rating_rapid": 1834,
-		"rating_blitz": 1813
+		"rating_blitz": 1812
 	},
 	{
 		"fideid": 3529819,
@@ -32997,23 +32980,6 @@
 		"rating_blitz": 1962
 	},
 	{
-		"fideid": 3535940,
-		"name": "Dubra Ulacia, Cynthia",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1837,
-		"rating_rapid": null,
-		"rating_blitz": 1773
-	},
-	{
 		"fideid": 3530230,
 		"name": "Guerra Turok, Lucas",
 		"country": "CUB",
@@ -33097,6 +33063,23 @@
 		"rating_standard": 1835,
 		"rating_rapid": null,
 		"rating_blitz": 1902
+	},
+	{
+		"fideid": 3535940,
+		"name": "Dubra Ulacia, Cynthia",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1835,
+		"rating_rapid": null,
+		"rating_blitz": 1767
 	},
 	{
 		"fideid": 3532666,
@@ -33248,7 +33231,7 @@
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1833,
-		"rating_rapid": 1870,
+		"rating_rapid": 1869,
 		"rating_blitz": 1827
 	},
 	{
@@ -33267,23 +33250,6 @@
 		"rating_standard": 1833,
 		"rating_rapid": null,
 		"rating_blitz": 1834
-	},
-	{
-		"fideid": 3534588,
-		"name": "Pizarro Collazo, Eli Abraham",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1833,
-		"rating_rapid": 1995,
-		"rating_blitz": 2002
 	},
 	{
 		"fideid": 3526275,
@@ -33334,7 +33300,7 @@
 		"flag": "w",
 		"rating_standard": 1832,
 		"rating_rapid": 1731,
-		"rating_blitz": 1761
+		"rating_blitz": 1762
 	},
 	{
 		"fideid": 3529142,
@@ -33371,23 +33337,6 @@
 		"rating_blitz": 1838
 	},
 	{
-		"fideid": 3534243,
-		"name": "Jorge Romeo, Ronald",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1832,
-		"rating_rapid": 1663,
-		"rating_blitz": 1783
-	},
-	{
 		"fideid": 3523764,
 		"name": "Moya Guido, Dairelis",
 		"country": "CUB",
@@ -33422,6 +33371,23 @@
 		"rating_blitz": 1858
 	},
 	{
+		"fideid": 3534588,
+		"name": "Pizarro Collazo, Eli Abraham",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1832,
+		"rating_rapid": 1995,
+		"rating_blitz": 2002
+	},
+	{
 		"fideid": 3511529,
 		"name": "Aguilera Bouza, Anette",
 		"country": "CUB",
@@ -33437,6 +33403,23 @@
 		"rating_standard": 1831,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3534138,
+		"name": "Bermudez Alfonso, Darel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1831,
+		"rating_rapid": 1808,
+		"rating_blitz": 1478
 	},
 	{
 		"fideid": 3538311,
@@ -33473,6 +33456,23 @@
 		"rating_blitz": 1885
 	},
 	{
+		"fideid": 3534243,
+		"name": "Jorge Romeo, Ronald",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1831,
+		"rating_rapid": 1663,
+		"rating_blitz": 1782
+	},
+	{
 		"fideid": 3524892,
 		"name": "Reyes Fonseca, Ammi Sarai",
 		"country": "CUB",
@@ -33488,23 +33488,6 @@
 		"rating_standard": 1831,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3534138,
-		"name": "Bermudez Alfonso, Darel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1830,
-		"rating_rapid": 1807,
-		"rating_blitz": 1478
 	},
 	{
 		"fideid": 3525015,
@@ -33555,7 +33538,7 @@
 		"flag": "wi",
 		"rating_standard": 1830,
 		"rating_rapid": null,
-		"rating_blitz": 1824
+		"rating_blitz": 1825
 	},
 	{
 		"fideid": 3506509,
@@ -33607,23 +33590,6 @@
 		"rating_standard": 1829,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3528855,
-		"name": "Valdes Rosell, Jenifer Lazara",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1829,
-		"rating_rapid": 1824,
-		"rating_blitz": 1868
 	},
 	{
 		"fideid": 3528960,
@@ -33728,21 +33694,21 @@
 		"rating_blitz": 1843
 	},
 	{
-		"fideid": 3535622,
-		"name": "Garces Napoles, Dario",
+		"fideid": 3528855,
+		"name": "Valdes Rosell, Jenifer Lazara",
 		"country": "CUB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1827,
-		"rating_rapid": 1821,
-		"rating_blitz": 1794
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1828,
+		"rating_rapid": 1824,
+		"rating_blitz": 1868
 	},
 	{
 		"fideid": 3532810,
@@ -33847,6 +33813,23 @@
 		"rating_blitz": 1798
 	},
 	{
+		"fideid": 3535622,
+		"name": "Garces Napoles, Dario",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1826,
+		"rating_rapid": 1820,
+		"rating_blitz": 1794
+	},
+	{
 		"fideid": 3531406,
 		"name": "Gongora Lopez, Alejandra Caridad",
 		"country": "CUB",
@@ -33896,23 +33879,6 @@
 		"rating_standard": 1826,
 		"rating_rapid": 1828,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3534863,
-		"name": "Nieves Maza, Rosa Alis",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1825,
-		"rating_rapid": 1736,
-		"rating_blitz": 1611
 	},
 	{
 		"fideid": 3531090,
@@ -33983,8 +33949,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3537676,
-		"name": "Millan Fuentesilla, Lorena",
+		"fideid": 3534863,
+		"name": "Nieves Maza, Rosa Alis",
 		"country": "CUB",
 		"sex": "F",
 		"title": "",
@@ -33996,25 +33962,8 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1824,
-		"rating_rapid": null,
-		"rating_blitz": 1821
-	},
-	{
-		"fideid": 3537048,
-		"name": "Pupo Guerra, Naile",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1824,
-		"rating_rapid": null,
-		"rating_blitz": 1709
+		"rating_rapid": 1736,
+		"rating_blitz": 1611
 	},
 	{
 		"fideid": 3532798,
@@ -34049,6 +33998,40 @@
 		"rating_standard": 1823,
 		"rating_rapid": null,
 		"rating_blitz": 1917
+	},
+	{
+		"fideid": 3537676,
+		"name": "Millan Fuentesilla, Lorena",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1823,
+		"rating_rapid": null,
+		"rating_blitz": 1821
+	},
+	{
+		"fideid": 3537048,
+		"name": "Pupo Guerra, Naile",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1823,
+		"rating_rapid": null,
+		"rating_blitz": 1709
 	},
 	{
 		"fideid": 3518329,
@@ -34561,6 +34544,23 @@
 		"rating_blitz": 1862
 	},
 	{
+		"fideid": 3510549,
+		"name": "Vega Falcon, Vladimir",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1811,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3527590,
 		"name": "Angulo Calero, Amaya",
 		"country": "CUB",
@@ -34612,23 +34612,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3510549,
-		"name": "Vega Falcon, Vladimir",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 1810,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3512517,
 		"name": "Castillo Marin, Evelyn Bianka",
 		"country": "CUB",
@@ -34644,23 +34627,6 @@
 		"rating_standard": 1809,
 		"rating_rapid": null,
 		"rating_blitz": 1816
-	},
-	{
-		"fideid": 3529258,
-		"name": "Flores Gomez, Yohnier",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "i",
-		"rating_standard": 1809,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 3533220,
@@ -34694,7 +34660,24 @@
 		"flag": "wi",
 		"rating_standard": 1808,
 		"rating_rapid": null,
-		"rating_blitz": 1927
+		"rating_blitz": 1926
+	},
+	{
+		"fideid": 3529258,
+		"name": "Flores Gomez, Yohnier",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "i",
+		"rating_standard": 1808,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3529541,
@@ -34765,23 +34748,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3531651,
-		"name": "Morales Leyva, Brayan Daniel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1807,
-		"rating_rapid": null,
-		"rating_blitz": 1852
-	},
-	{
 		"fideid": 3525066,
 		"name": "Camejo Quevedo, Davidaniel",
 		"country": "CUB",
@@ -34797,6 +34763,23 @@
 		"rating_standard": 1806,
 		"rating_rapid": 1840,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3531651,
+		"name": "Morales Leyva, Brayan Daniel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1806,
+		"rating_rapid": null,
+		"rating_blitz": 1852
 	},
 	{
 		"fideid": 3526631,
@@ -35054,23 +35037,6 @@
 		"rating_blitz": 1854
 	},
 	{
-		"fideid": 3539989,
-		"name": "Fraga Orta, Reynaldo Oscar",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1798,
-		"rating_rapid": 1868,
-		"rating_blitz": 1875
-	},
-	{
 		"fideid": 3522725,
 		"name": "Canizarez Estrada, Carlos Jesus",
 		"country": "CUB",
@@ -35120,6 +35086,23 @@
 		"rating_standard": 1797,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3539989,
+		"name": "Fraga Orta, Reynaldo Oscar",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1797,
+		"rating_rapid": 1867,
+		"rating_blitz": 1875
 	},
 	{
 		"fideid": 3528677,
@@ -35304,7 +35287,7 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 1790,
+		"rating_standard": 1789,
 		"rating_rapid": null,
 		"rating_blitz": 1913
 	},
@@ -35479,23 +35462,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3535100,
-		"name": "Toledano Martinez, Hiram",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1786,
-		"rating_rapid": null,
-		"rating_blitz": 1779
-	},
-	{
 		"fideid": 3539032,
 		"name": "Valdes Limonta, Linoel Lazaro",
 		"country": "CUB",
@@ -35562,6 +35528,23 @@
 		"rating_standard": 1785,
 		"rating_rapid": 1746,
 		"rating_blitz": 1820
+	},
+	{
+		"fideid": 3535100,
+		"name": "Toledano Martinez, Hiram",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1785,
+		"rating_rapid": null,
+		"rating_blitz": 1779
 	},
 	{
 		"fideid": 3502830,
@@ -35646,7 +35629,7 @@
 		"flag": "i",
 		"rating_standard": 1783,
 		"rating_rapid": null,
-		"rating_blitz": 1738
+		"rating_blitz": 1737
 	},
 	{
 		"fideid": 3528928,
@@ -35765,7 +35748,7 @@
 		"flag": "",
 		"rating_standard": 1780,
 		"rating_rapid": 1881,
-		"rating_blitz": 1831
+		"rating_blitz": 1830
 	},
 	{
 		"fideid": 3526852,
@@ -35972,23 +35955,6 @@
 		"rating_blitz": 1765
 	},
 	{
-		"fideid": 3502171,
-		"name": "Brito Broche, Eliseo",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1967,
-		"flag": "i",
-		"rating_standard": 1776,
-		"rating_rapid": 1796,
-		"rating_blitz": 1754
-	},
-	{
 		"fideid": 3532569,
 		"name": "Garcia Sierra, Manuel",
 		"country": "CUB",
@@ -36038,6 +36004,23 @@
 		"rating_standard": 1776,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3502171,
+		"name": "Brito Broche, Eliseo",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1967,
+		"flag": "i",
+		"rating_standard": 1775,
+		"rating_rapid": 1796,
+		"rating_blitz": 1752
 	},
 	{
 		"fideid": 3533573,
@@ -36193,23 +36176,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3537927,
-		"name": "Perez Beltran, Cristian Daniel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1773,
-		"rating_rapid": null,
-		"rating_blitz": 1673
-	},
-	{
 		"fideid": 3529185,
 		"name": "Alayon Collazo, Jesus Javier",
 		"country": "CUB",
@@ -36327,6 +36293,23 @@
 		"rating_standard": 1771,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3537927,
+		"name": "Perez Beltran, Cristian Daniel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1771,
+		"rating_rapid": null,
+		"rating_blitz": 1672
 	},
 	{
 		"fideid": 3505367,
@@ -36533,23 +36516,6 @@
 		"rating_blitz": 1864
 	},
 	{
-		"fideid": 3538222,
-		"name": "Olivera Ruiz, Fabio",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1766,
-		"rating_rapid": 1794,
-		"rating_blitz": 1988
-	},
-	{
 		"fideid": 3528502,
 		"name": "Reytor Lopez, Daniela Maria",
 		"country": "CUB",
@@ -36618,8 +36584,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3534260,
-		"name": "Naranjo Cruz, Abel",
+		"fideid": 3538222,
+		"name": "Olivera Ruiz, Fabio",
 		"country": "CUB",
 		"sex": "M",
 		"title": "",
@@ -36628,11 +36594,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1765,
-		"rating_rapid": null,
-		"rating_blitz": 1742
+		"rating_rapid": 1793,
+		"rating_blitz": 1987
 	},
 	{
 		"fideid": 3531147,
@@ -36720,6 +36686,23 @@
 		"rating_blitz": 1918
 	},
 	{
+		"fideid": 3534260,
+		"name": "Naranjo Cruz, Abel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1764,
+		"rating_rapid": null,
+		"rating_blitz": 1743
+	},
+	{
 		"fideid": 3531252,
 		"name": "Creagh Creagh, Alexander",
 		"country": "CUB",
@@ -36737,23 +36720,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3530736,
-		"name": "Aguilera Enciso, Claudia",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1762,
-		"rating_rapid": 1843,
-		"rating_blitz": 1716
-	},
-	{
 		"fideid": 3533654,
 		"name": "Garcia Cortes, Roberto",
 		"country": "CUB",
@@ -36769,6 +36735,23 @@
 		"rating_standard": 1762,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3530736,
+		"name": "Aguilera Enciso, Claudia",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1761,
+		"rating_rapid": 1842,
+		"rating_blitz": 1715
 	},
 	{
 		"fideid": 3535380,
@@ -36873,23 +36856,6 @@
 		"rating_blitz": 1874
 	},
 	{
-		"fideid": 3536050,
-		"name": "Gonzalez Cueto, Breison Minael",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1757,
-		"rating_rapid": null,
-		"rating_blitz": 1708
-	},
-	{
 		"fideid": 3538133,
 		"name": "Longa Gomez, Jesus Luis",
 		"country": "CUB",
@@ -36941,6 +36907,23 @@
 		"rating_blitz": 1809
 	},
 	{
+		"fideid": 3536050,
+		"name": "Gonzalez Cueto, Breison Minael",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1756,
+		"rating_rapid": null,
+		"rating_blitz": 1707
+	},
+	{
 		"fideid": 3518256,
 		"name": "Hernandez Meilan, Dr. Manuel",
 		"country": "CUB",
@@ -36988,8 +36971,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1756,
-		"rating_rapid": 1557,
-		"rating_blitz": 1875
+		"rating_rapid": 1556,
+		"rating_blitz": 1874
 	},
 	{
 		"fideid": 3512061,
@@ -37158,25 +37141,8 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1750,
-		"rating_rapid": 1804,
+		"rating_rapid": 1803,
 		"rating_blitz": 1751
-	},
-	{
-		"fideid": 3537803,
-		"name": "Rodriguez Perez, Jose R",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": 1750,
-		"rating_rapid": null,
-		"rating_blitz": 1564
 	},
 	{
 		"fideid": 3536904,
@@ -37228,6 +37194,23 @@
 		"rating_standard": 1749,
 		"rating_rapid": null,
 		"rating_blitz": 1608
+	},
+	{
+		"fideid": 3537803,
+		"name": "Rodriguez Perez, Jose R",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": 1749,
+		"rating_rapid": null,
+		"rating_blitz": 1564
 	},
 	{
 		"fideid": 3526283,
@@ -37298,23 +37281,6 @@
 		"rating_blitz": 1777
 	},
 	{
-		"fideid": 3525317,
-		"name": "Pena Perez, Jorge Alberto",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 1748,
-		"rating_rapid": 1780,
-		"rating_blitz": 1812
-	},
-	{
 		"fideid": 3536378,
 		"name": "Tano Gonzalez, Kevin David",
 		"country": "CUB",
@@ -37346,7 +37312,7 @@
 		"flag": "",
 		"rating_standard": 1747,
 		"rating_rapid": null,
-		"rating_blitz": 1833
+		"rating_blitz": 1831
 	},
 	{
 		"fideid": 3528294,
@@ -37364,6 +37330,23 @@
 		"rating_standard": 1747,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3525317,
+		"name": "Pena Perez, Jorge Alberto",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "",
+		"rating_standard": 1747,
+		"rating_rapid": 1779,
+		"rating_blitz": 1811
 	},
 	{
 		"fideid": 3529886,
@@ -37499,7 +37482,7 @@
 		"flag": "i",
 		"rating_standard": 1745,
 		"rating_rapid": 1798,
-		"rating_blitz": 1696
+		"rating_blitz": 1694
 	},
 	{
 		"fideid": 3525023,
@@ -37519,23 +37502,6 @@
 		"rating_blitz": 1851
 	},
 	{
-		"fideid": 3535290,
-		"name": "Barrios Garcia, Luis Miguel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1743,
-		"rating_rapid": 1552,
-		"rating_blitz": 1728
-	},
-	{
 		"fideid": 3535924,
 		"name": "Curiel Verdecia, Luis Daniel",
 		"country": "CUB",
@@ -37550,7 +37516,7 @@
 		"flag": "",
 		"rating_standard": 1743,
 		"rating_rapid": null,
-		"rating_blitz": 1764
+		"rating_blitz": 1763
 	},
 	{
 		"fideid": 3532313,
@@ -37619,6 +37585,23 @@
 		"rating_standard": 1743,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3535290,
+		"name": "Barrios Garcia, Luis Miguel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1742,
+		"rating_rapid": 1552,
+		"rating_blitz": 1728
 	},
 	{
 		"fideid": 3538729,
@@ -37701,7 +37684,7 @@
 		"k": 40,
 		"birthday": 1984,
 		"flag": "i",
-		"rating_standard": 1739,
+		"rating_standard": 1740,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -37774,6 +37757,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3509460,
+		"name": "Calzada Cruz, Osvaldo",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1961,
+		"flag": "",
+		"rating_standard": 1736,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3534880,
 		"name": "Ortega Falcon, Eliosmel",
 		"country": "CUB",
@@ -37786,7 +37786,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1737,
+		"rating_standard": 1736,
 		"rating_rapid": 1800,
 		"rating_blitz": 1588
 	},
@@ -37803,26 +37803,9 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
-		"rating_standard": 1736,
+		"rating_standard": 1735,
 		"rating_rapid": null,
-		"rating_blitz": 1516
-	},
-	{
-		"fideid": 3509460,
-		"name": "Calzada Cruz, Osvaldo",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1961,
-		"flag": "",
-		"rating_standard": 1736,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1517
 	},
 	{
 		"fideid": 3535215,
@@ -37857,23 +37840,6 @@
 		"rating_standard": 1734,
 		"rating_rapid": null,
 		"rating_blitz": 1674
-	},
-	{
-		"fideid": 3534910,
-		"name": "Cordoves Leon, Ruben Dario",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1734,
-		"rating_rapid": null,
-		"rating_blitz": 1789
 	},
 	{
 		"fideid": 3523373,
@@ -37927,6 +37893,23 @@
 		"rating_blitz": 1727
 	},
 	{
+		"fideid": 3534910,
+		"name": "Cordoves Leon, Ruben Dario",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1733,
+		"rating_rapid": null,
+		"rating_blitz": 1789
+	},
+	{
 		"fideid": 3524140,
 		"name": "Diaz Gonzalez, Frank Abel",
 		"country": "CUB",
@@ -37978,23 +37961,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3535967,
-		"name": "Fernandez Martinez, Dayaris",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1732,
-		"rating_rapid": 1571,
-		"rating_blitz": 1760
-	},
-	{
 		"fideid": 3525040,
 		"name": "Mederos Gonzalez, Maia",
 		"country": "CUB",
@@ -38010,23 +37976,6 @@
 		"rating_standard": 1732,
 		"rating_rapid": null,
 		"rating_blitz": 1654
-	},
-	{
-		"fideid": 3538001,
-		"name": "Ortega Estepe, Rafael Enrique",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "i",
-		"rating_standard": 1732,
-		"rating_rapid": null,
-		"rating_blitz": 1870
 	},
 	{
 		"fideid": 3529134,
@@ -38080,6 +38029,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3535967,
+		"name": "Fernandez Martinez, Dayaris",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1731,
+		"rating_rapid": 1571,
+		"rating_blitz": 1759
+	},
+	{
 		"fideid": 3522563,
 		"name": "Morales Neyra, Flora",
 		"country": "CUB",
@@ -38129,6 +38095,23 @@
 		"rating_standard": 1729,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3538001,
+		"name": "Ortega Estepe, Rafael Enrique",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "i",
+		"rating_standard": 1729,
+		"rating_rapid": null,
+		"rating_blitz": 1869
 	},
 	{
 		"fideid": 3533972,
@@ -38434,7 +38417,7 @@
 		"flag": "i",
 		"rating_standard": 1718,
 		"rating_rapid": null,
-		"rating_blitz": 1714
+		"rating_blitz": 1712
 	},
 	{
 		"fideid": 3538451,
@@ -38454,23 +38437,6 @@
 		"rating_blitz": 1681
 	},
 	{
-		"fideid": 3538834,
-		"name": "Hernandez Ledo, Richard",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1718,
-		"rating_rapid": 1672,
-		"rating_blitz": 1689
-	},
-	{
 		"fideid": 3526356,
 		"name": "Garcia Garcia, Jasiel",
 		"country": "CUB",
@@ -38488,8 +38454,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3540235,
-		"name": "Peraza Martinez, Adyel",
+		"fideid": 3538834,
+		"name": "Hernandez Ledo, Richard",
 		"country": "CUB",
 		"sex": "M",
 		"title": "",
@@ -38498,11 +38464,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1716,
-		"rating_rapid": null,
-		"rating_blitz": 1696
+		"rating_standard": 1717,
+		"rating_rapid": 1672,
+		"rating_blitz": 1688
 	},
 	{
 		"fideid": 3528626,
@@ -38520,6 +38486,23 @@
 		"rating_standard": 1715,
 		"rating_rapid": 1615,
 		"rating_blitz": 1647
+	},
+	{
+		"fideid": 3540235,
+		"name": "Peraza Martinez, Adyel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1715,
+		"rating_rapid": null,
+		"rating_blitz": 1696
 	},
 	{
 		"fideid": 3533832,
@@ -38590,23 +38573,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3534308,
-		"name": "Perez Rodriguez, Bryan",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1714,
-		"rating_rapid": null,
-		"rating_blitz": 1646
-	},
-	{
 		"fideid": 3531384,
 		"name": "Aleaga Blanco, Marcos Daniel",
 		"country": "CUB",
@@ -38638,7 +38604,24 @@
 		"flag": "",
 		"rating_standard": 1713,
 		"rating_rapid": 1679,
-		"rating_blitz": 1638
+		"rating_blitz": 1639
+	},
+	{
+		"fideid": 3534308,
+		"name": "Perez Rodriguez, Bryan",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1713,
+		"rating_rapid": null,
+		"rating_blitz": 1645
 	},
 	{
 		"fideid": 3535789,
@@ -38756,7 +38739,7 @@
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": 1707,
-		"rating_rapid": 1779,
+		"rating_rapid": 1778,
 		"rating_blitz": 1758
 	},
 	{
@@ -38775,23 +38758,6 @@
 		"rating_standard": 1706,
 		"rating_rapid": null,
 		"rating_blitz": 1669
-	},
-	{
-		"fideid": 3539415,
-		"name": "Quintana Fernandez, Ernesto Eveli",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1983,
-		"flag": "i",
-		"rating_standard": 1706,
-		"rating_rapid": null,
-		"rating_blitz": 1649
 	},
 	{
 		"fideid": 3531104,
@@ -38877,6 +38843,23 @@
 		"rating_standard": 1704,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3539415,
+		"name": "Quintana Fernandez, Ernesto Eveli",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1983,
+		"flag": "i",
+		"rating_standard": 1704,
+		"rating_rapid": null,
+		"rating_blitz": 1647
 	},
 	{
 		"fideid": 3530574,
@@ -39015,23 +38998,6 @@
 		"rating_blitz": 1782
 	},
 	{
-		"fideid": 3538320,
-		"name": "Perez Beltran, Orlando Glicerio",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1972,
-		"flag": "i",
-		"rating_standard": 1699,
-		"rating_rapid": null,
-		"rating_blitz": 1721
-	},
-	{
 		"fideid": 3540022,
 		"name": "Alcantara Moreno, Ismael",
 		"country": "CUB",
@@ -39046,7 +39012,7 @@
 		"flag": "",
 		"rating_standard": 1698,
 		"rating_rapid": null,
-		"rating_blitz": 1713
+		"rating_blitz": 1714
 	},
 	{
 		"fideid": 3530582,
@@ -39081,23 +39047,6 @@
 		"rating_standard": 1697,
 		"rating_rapid": 1679,
 		"rating_blitz": 1625
-	},
-	{
-		"fideid": 3535320,
-		"name": "Ricote Corrales, Maria Claudia",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1696,
-		"rating_rapid": 1547,
-		"rating_blitz": 1588
 	},
 	{
 		"fideid": 3536459,
@@ -39185,6 +39134,23 @@
 		"rating_blitz": 1675
 	},
 	{
+		"fideid": 3535320,
+		"name": "Ricote Corrales, Maria Claudia",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1694,
+		"rating_rapid": 1545,
+		"rating_blitz": 1588
+	},
+	{
 		"fideid": 3521150,
 		"name": "Rojas Castaneda, Ismarys",
 		"country": "CUB",
@@ -39236,23 +39202,6 @@
 		"rating_blitz": 1681
 	},
 	{
-		"fideid": 3540197,
-		"name": "Serrano Rios, Elisama",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1693,
-		"rating_rapid": null,
-		"rating_blitz": 1571
-	},
-	{
 		"fideid": 3525074,
 		"name": "Falero Sosa, Jose Luis",
 		"country": "CUB",
@@ -39287,21 +39236,21 @@
 		"rating_blitz": 1655
 	},
 	{
-		"fideid": 3536971,
-		"name": "Marcos Zerquera, Sergio Luis",
+		"fideid": 3540197,
+		"name": "Serrano Rios, Elisama",
 		"country": "CUB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
+		"birthday": 2015,
+		"flag": "w",
 		"rating_standard": 1692,
 		"rating_rapid": null,
-		"rating_blitz": 1657
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 3532348,
@@ -39355,21 +39304,21 @@
 		"rating_blitz": 1693
 	},
 	{
-		"fideid": 3530930,
-		"name": "Salgado Delgado, Maciel Lorena",
+		"fideid": 3538320,
+		"name": "Perez Beltran, Orlando Glicerio",
 		"country": "CUB",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
+		"birthday": 1972,
+		"flag": "i",
 		"rating_standard": 1690,
 		"rating_rapid": null,
-		"rating_blitz": 1595
+		"rating_blitz": 1707
 	},
 	{
 		"fideid": 3530078,
@@ -39389,21 +39338,21 @@
 		"rating_blitz": 1659
 	},
 	{
-		"fideid": 3537811,
-		"name": "Vilarino Perez, Natalia",
+		"fideid": 3530930,
+		"name": "Salgado Delgado, Maciel Lorena",
 		"country": "CUB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "",
+		"birthday": 2009,
+		"flag": "w",
 		"rating_standard": 1689,
 		"rating_rapid": null,
-		"rating_blitz": 1596
+		"rating_blitz": 1595
 	},
 	{
 		"fideid": 3531163,
@@ -39420,24 +39369,41 @@
 		"flag": "i",
 		"rating_standard": 1688,
 		"rating_rapid": null,
-		"rating_blitz": 1687
+		"rating_blitz": 1685
 	},
 	{
-		"fideid": 3539440,
-		"name": "Barrios Perez, Amanda",
+		"fideid": 3537811,
+		"name": "Vilarino Perez, Natalia",
 		"country": "CUB",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1685,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1688,
 		"rating_rapid": null,
-		"rating_blitz": 1692
+		"rating_blitz": 1596
+	},
+	{
+		"fideid": 3536971,
+		"name": "Marcos Zerquera, Sergio Luis",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": 1686,
+		"rating_rapid": null,
+		"rating_blitz": 1655
 	},
 	{
 		"fideid": 3528286,
@@ -39457,21 +39423,21 @@
 		"rating_blitz": 1625
 	},
 	{
-		"fideid": 3534227,
-		"name": "Hidalgo Varela, Hermes Darian",
+		"fideid": 3539440,
+		"name": "Barrios Perez, Amanda",
 		"country": "CUB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1685,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1684,
 		"rating_rapid": null,
-		"rating_blitz": 1529
+		"rating_blitz": 1692
 	},
 	{
 		"fideid": 3531686,
@@ -39525,6 +39491,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3534227,
+		"name": "Hidalgo Varela, Hermes Darian",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1684,
+		"rating_rapid": null,
+		"rating_blitz": 1528
+	},
+	{
 		"fideid": 3528480,
 		"name": "Martin Beltran, Thalia",
 		"country": "CUB",
@@ -39554,26 +39537,9 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1684,
-		"rating_rapid": 1564,
-		"rating_blitz": 1761
-	},
-	{
-		"fideid": 3538885,
-		"name": "Rodriguez Garcia, Adriel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
 		"rating_standard": 1683,
-		"rating_rapid": 1702,
-		"rating_blitz": 1834
+		"rating_rapid": 1565,
+		"rating_blitz": 1760
 	},
 	{
 		"fideid": 3539601,
@@ -39627,8 +39593,8 @@
 		"rating_blitz": 1644
 	},
 	{
-		"fideid": 3537161,
-		"name": "Lazo De La Vega Aja, Adriel",
+		"fideid": 3538885,
+		"name": "Rodriguez Garcia, Adriel",
 		"country": "CUB",
 		"sex": "M",
 		"title": "",
@@ -39637,11 +39603,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1681,
-		"rating_rapid": 1601,
-		"rating_blitz": 1628
+		"rating_standard": 1682,
+		"rating_rapid": 1701,
+		"rating_blitz": 1834
 	},
 	{
 		"fideid": 3524825,
@@ -39661,8 +39627,8 @@
 		"rating_blitz": 1621
 	},
 	{
-		"fideid": 3536637,
-		"name": "Lopez Figueredo, Mauro",
+		"fideid": 3537161,
+		"name": "Lazo De La Vega Aja, Adriel",
 		"country": "CUB",
 		"sex": "M",
 		"title": "",
@@ -39671,11 +39637,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1680,
-		"rating_rapid": null,
-		"rating_blitz": 1602
+		"rating_rapid": 1601,
+		"rating_blitz": 1628
 	},
 	{
 		"fideid": 3532887,
@@ -39710,6 +39676,23 @@
 		"rating_standard": 1679,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3536637,
+		"name": "Lopez Figueredo, Mauro",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1679,
+		"rating_rapid": null,
+		"rating_blitz": 1602
 	},
 	{
 		"fideid": 3531678,
@@ -39794,24 +39777,7 @@
 		"flag": "",
 		"rating_standard": 1678,
 		"rating_rapid": 1607,
-		"rating_blitz": 1602
-	},
-	{
-		"fideid": 3537480,
-		"name": "Aguilera Martinez, Lianet Fernand",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1676,
-		"rating_rapid": null,
-		"rating_blitz": 1561
+		"rating_blitz": 1601
 	},
 	{
 		"fideid": 3532950,
@@ -39831,21 +39797,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3539423,
-		"name": "Sacerio Brunet, Ariel Rene",
+		"fideid": 3537480,
+		"name": "Aguilera Martinez, Lianet Fernand",
 		"country": "CUB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1973,
-		"flag": "i",
-		"rating_standard": 1676,
-		"rating_rapid": 1678,
-		"rating_blitz": 1721
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1675,
+		"rating_rapid": null,
+		"rating_blitz": 1561
 	},
 	{
 		"fideid": 3537889,
@@ -40030,9 +39996,26 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 1671,
+		"rating_standard": 1670,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3539423,
+		"name": "Sacerio Brunet, Ariel Rene",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1973,
+		"flag": "i",
+		"rating_standard": 1670,
+		"rating_rapid": 1674,
+		"rating_blitz": 1715
 	},
 	{
 		"fideid": 3535002,
@@ -40273,23 +40256,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3534103,
-		"name": "Alba Abstengo, Andres Abel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1662,
-		"rating_rapid": null,
-		"rating_blitz": 1527
-	},
-	{
 		"fideid": 5129478,
 		"name": "Cabrera Ramirez, Anyeli",
 		"country": "CUB",
@@ -40392,6 +40358,23 @@
 		"rating_blitz": 1569
 	},
 	{
+		"fideid": 3534103,
+		"name": "Alba Abstengo, Andres Abel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1661,
+		"rating_rapid": null,
+		"rating_blitz": 1526
+	},
+	{
 		"fideid": 3534090,
 		"name": "Aguilar Rojas, Marlon Manuel",
 		"country": "CUB",
@@ -40440,24 +40423,7 @@
 		"flag": "",
 		"rating_standard": 1660,
 		"rating_rapid": null,
-		"rating_blitz": 1716
-	},
-	{
-		"fideid": 3535312,
-		"name": "Pujal Marrero, Rubi De La Caridad",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1660,
-		"rating_rapid": null,
-		"rating_blitz": 1680
+		"rating_blitz": 1715
 	},
 	{
 		"fideid": 3527395,
@@ -40475,6 +40441,23 @@
 		"rating_standard": 1659,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3535312,
+		"name": "Pujal Marrero, Rubi De La Caridad",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1659,
+		"rating_rapid": null,
+		"rating_blitz": 1680
 	},
 	{
 		"fideid": 3535460,
@@ -40576,7 +40559,7 @@
 		"flag": "w",
 		"rating_standard": 1656,
 		"rating_rapid": null,
-		"rating_blitz": 1638
+		"rating_blitz": 1639
 	},
 	{
 		"fideid": 3539890,
@@ -40596,23 +40579,6 @@
 		"rating_blitz": 1686
 	},
 	{
-		"fideid": 3534200,
-		"name": "Hernandez Cachon, Claudia",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1655,
-		"rating_rapid": null,
-		"rating_blitz": 1700
-	},
-	{
 		"fideid": 3536793,
 		"name": "Moreno De Zayas, Georbel",
 		"country": "CUB",
@@ -40627,7 +40593,24 @@
 		"flag": "",
 		"rating_standard": 1655,
 		"rating_rapid": null,
-		"rating_blitz": 1757
+		"rating_blitz": 1756
+	},
+	{
+		"fideid": 3534200,
+		"name": "Hernandez Cachon, Claudia",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1654,
+		"rating_rapid": null,
+		"rating_blitz": 1699
 	},
 	{
 		"fideid": 3533549,
@@ -40664,23 +40647,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3535851,
-		"name": "Avila Garcia, Saled",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1652,
-		"rating_rapid": null,
-		"rating_blitz": 1571
-	},
-	{
 		"fideid": 3538125,
 		"name": "Fernandez Mateo, Julio Cesar",
 		"country": "CUB",
@@ -40695,7 +40661,7 @@
 		"flag": "",
 		"rating_standard": 1652,
 		"rating_rapid": null,
-		"rating_blitz": 1760
+		"rating_blitz": 1759
 	},
 	{
 		"fideid": 3534022,
@@ -40715,21 +40681,21 @@
 		"rating_blitz": 1794
 	},
 	{
-		"fideid": 3538788,
-		"name": "Abreu Vento, Marcos Darel",
+		"fideid": 3535851,
+		"name": "Avila Garcia, Saled",
 		"country": "CUB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
-		"flag": "",
+		"birthday": 2013,
+		"flag": "w",
 		"rating_standard": 1651,
-		"rating_rapid": 1732,
-		"rating_blitz": 1813
+		"rating_rapid": null,
+		"rating_blitz": 1571
 	},
 	{
 		"fideid": 3531155,
@@ -40764,6 +40730,23 @@
 		"rating_standard": 1651,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3538788,
+		"name": "Abreu Vento, Marcos Darel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1650,
+		"rating_rapid": 1732,
+		"rating_blitz": 1812
 	},
 	{
 		"fideid": 3532445,
@@ -40868,23 +40851,6 @@
 		"rating_blitz": 1713
 	},
 	{
-		"fideid": 3538966,
-		"name": "Valdes Diaz, Mya",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1649,
-		"rating_rapid": 1548,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3539008,
 		"name": "Pacheco Torres, Bryan Leonardo",
 		"country": "CUB",
@@ -40917,6 +40883,23 @@
 		"rating_standard": 1648,
 		"rating_rapid": null,
 		"rating_blitz": 1682
+	},
+	{
+		"fideid": 3538966,
+		"name": "Valdes Diaz, Mya",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1648,
+		"rating_rapid": 1545,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3531880,
@@ -41034,7 +41017,7 @@
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": 1644,
-		"rating_rapid": 1614,
+		"rating_rapid": 1613,
 		"rating_blitz": 1780
 	},
 	{
@@ -41070,23 +41053,6 @@
 		"rating_standard": 1644,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3538389,
-		"name": "Alonso Pozo, Leandro",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1643,
-		"rating_rapid": 1569,
-		"rating_blitz": 1670
 	},
 	{
 		"fideid": 3534405,
@@ -41140,6 +41106,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3538389,
+		"name": "Alonso Pozo, Leandro",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1642,
+		"rating_rapid": 1568,
+		"rating_blitz": 1669
+	},
+	{
 		"fideid": 3530973,
 		"name": "Marcheco Pimentel, Jessica Iliana",
 		"country": "CUB",
@@ -41189,23 +41172,6 @@
 		"rating_standard": 1642,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3539571,
-		"name": "Figueroa Del Rosario, Hector Manu",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1641,
-		"rating_rapid": 1677,
-		"rating_blitz": 1640
 	},
 	{
 		"fideid": 3530906,
@@ -41274,6 +41240,23 @@
 		"rating_standard": 1639,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3539571,
+		"name": "Figueroa Del Rosario, Hector Manu",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1638,
+		"rating_rapid": 1674,
+		"rating_blitz": 1636
 	},
 	{
 		"fideid": 3529029,
@@ -41358,7 +41341,7 @@
 		"flag": "w",
 		"rating_standard": 1634,
 		"rating_rapid": 1614,
-		"rating_blitz": 1410
+		"rating_blitz": 1409
 	},
 	{
 		"fideid": 3534502,
@@ -41460,7 +41443,7 @@
 		"flag": "wi",
 		"rating_standard": 1632,
 		"rating_rapid": 1577,
-		"rating_blitz": 1633
+		"rating_blitz": 1634
 	},
 	{
 		"fideid": 3533760,
@@ -41650,6 +41633,23 @@
 		"rating_blitz": 1622
 	},
 	{
+		"fideid": 3521605,
+		"name": "Gonzalez Martinez, Alexis",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1972,
+		"flag": "",
+		"rating_standard": 1628,
+		"rating_rapid": 1661,
+		"rating_blitz": 1672
+	},
+	{
 		"fideid": 3526828,
 		"name": "Perdomo Cancio, Lia Maria",
 		"country": "CUB",
@@ -41701,23 +41701,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3521605,
-		"name": "Gonzalez Martinez, Alexis",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1627,
-		"rating_rapid": 1661,
-		"rating_blitz": 1672
-	},
-	{
 		"fideid": 3532135,
 		"name": "Ramirez Rodriguez, Diego",
 		"country": "CUB",
@@ -41749,7 +41732,7 @@
 		"flag": "",
 		"rating_standard": 1625,
 		"rating_rapid": 1697,
-		"rating_blitz": 1629
+		"rating_blitz": 1627
 	},
 	{
 		"fideid": 3537692,
@@ -41786,23 +41769,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3535932,
-		"name": "Del Risco Aldana, Alejandra",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1621,
-		"rating_rapid": 1521,
-		"rating_blitz": 1852
-	},
-	{
 		"fideid": 3531910,
 		"name": "Hernandez Balboa, Jimmy",
 		"country": "CUB",
@@ -41837,6 +41803,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3535932,
+		"name": "Del Risco Aldana, Alejandra",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1620,
+		"rating_rapid": 1521,
+		"rating_blitz": 1851
+	},
+	{
 		"fideid": 3535339,
 		"name": "Rodriguez Ramirez, Evelin Maria",
 		"country": "CUB",
@@ -41851,7 +41834,7 @@
 		"flag": "w",
 		"rating_standard": 1620,
 		"rating_rapid": null,
-		"rating_blitz": 1643
+		"rating_blitz": 1641
 	},
 	{
 		"fideid": 3536556,
@@ -41922,23 +41905,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3540375,
-		"name": "Santana Bueno, Leonardo Yosvel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1619,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3529959,
 		"name": "Acosta Sardina, Lander",
 		"country": "CUB",
@@ -41985,6 +41951,23 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "wi",
+		"rating_standard": 1618,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3540375,
+		"name": "Santana Bueno, Leonardo Yosvel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
 		"rating_standard": 1618,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -42075,23 +42058,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3539580,
-		"name": "Perez Cueto, Abraham",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1615,
-		"rating_rapid": 1631,
-		"rating_blitz": 1777
-	},
-	{
 		"fideid": 3539393,
 		"name": "Santana Aguiar, Leonardo David",
 		"country": "CUB",
@@ -42143,6 +42109,23 @@
 		"rating_blitz": 1696
 	},
 	{
+		"fideid": 3539580,
+		"name": "Perez Cueto, Abraham",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1614,
+		"rating_rapid": 1629,
+		"rating_blitz": 1776
+	},
+	{
 		"fideid": 3530612,
 		"name": "Vega Izquierdo, David Lemay",
 		"country": "CUB",
@@ -42160,23 +42143,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3534758,
-		"name": "Gonzalez Llerena, Liang David",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1613,
-		"rating_rapid": null,
-		"rating_blitz": 1565
-	},
-	{
 		"fideid": 3536475,
 		"name": "Bueno Cuello, David Fernando",
 		"country": "CUB",
@@ -42192,6 +42158,23 @@
 		"rating_standard": 1612,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3534758,
+		"name": "Gonzalez Llerena, Liang David",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1612,
+		"rating_rapid": null,
+		"rating_blitz": 1565
 	},
 	{
 		"fideid": 3537340,
@@ -42228,40 +42211,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3540367,
-		"name": "Torres Garcia, Mariam",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1611,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3536700,
-		"name": "Fernandez Correa, Rocio",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1610,
-		"rating_rapid": 1585,
-		"rating_blitz": 1650
-	},
-	{
 		"fideid": 3538303,
 		"name": "Fuentes Verdecia, Oscar Alfonso",
 		"country": "CUB",
@@ -42274,6 +42223,23 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "i",
+		"rating_standard": 1610,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3540367,
+		"name": "Torres Garcia, Mariam",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
 		"rating_standard": 1610,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -42313,6 +42279,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3536700,
+		"name": "Fernandez Correa, Rocio",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1609,
+		"rating_rapid": 1586,
+		"rating_blitz": 1651
+	},
+	{
 		"fideid": 3537099,
 		"name": "Valdivia Diaz, Amalia",
 		"country": "CUB",
@@ -42328,23 +42311,6 @@
 		"rating_standard": 1609,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3539776,
-		"name": "Roman Garcia, Aaron Yauset",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1608,
-		"rating_rapid": null,
-		"rating_blitz": 1470
 	},
 	{
 		"fideid": 3515915,
@@ -42381,6 +42347,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3539776,
+		"name": "Roman Garcia, Aaron Yauset",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1606,
+		"rating_rapid": null,
+		"rating_blitz": 1468
+	},
+	{
 		"fideid": 3528936,
 		"name": "Osorio Martinez, Robin",
 		"country": "CUB",
@@ -42413,23 +42396,6 @@
 		"rating_standard": 1605,
 		"rating_rapid": null,
 		"rating_blitz": 1727
-	},
-	{
-		"fideid": 3539849,
-		"name": "Blanco Escalante, Alain David",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1602,
-		"rating_rapid": null,
-		"rating_blitz": 1709
 	},
 	{
 		"fideid": 3538516,
@@ -42480,7 +42446,24 @@
 		"flag": "w",
 		"rating_standard": 1601,
 		"rating_rapid": 1644,
-		"rating_blitz": 1657
+		"rating_blitz": 1649
+	},
+	{
+		"fideid": 3539849,
+		"name": "Blanco Escalante, Alain David",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1601,
+		"rating_rapid": null,
+		"rating_blitz": 1709
 	},
 	{
 		"fideid": 3536513,
@@ -42568,23 +42551,6 @@
 		"rating_blitz": 1623
 	},
 	{
-		"fideid": 3536777,
-		"name": "Leonard Conyedo, Saidi",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1597,
-		"rating_rapid": 1491,
-		"rating_blitz": 1471
-	},
-	{
 		"fideid": 3535061,
 		"name": "Jorge Hernandez, Rafael",
 		"country": "CUB",
@@ -42600,6 +42566,23 @@
 		"rating_standard": 1596,
 		"rating_rapid": 1598,
 		"rating_blitz": 1669
+	},
+	{
+		"fideid": 3536777,
+		"name": "Leonard Conyedo, Saidi",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1596,
+		"rating_rapid": 1490,
+		"rating_blitz": 1465
 	},
 	{
 		"fideid": 3531848,
@@ -42633,7 +42616,7 @@
 		"flag": "w",
 		"rating_standard": 1595,
 		"rating_rapid": null,
-		"rating_blitz": 1654
+		"rating_blitz": 1653
 	},
 	{
 		"fideid": 3539261,
@@ -42772,23 +42755,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3540251,
-		"name": "Reyes Reyes, Eduardo Ariel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1588,
-		"rating_rapid": null,
-		"rating_blitz": 1731
-	},
-	{
 		"fideid": 3535991,
 		"name": "Fierro Romero, Carlos Alberto",
 		"country": "CUB",
@@ -42806,6 +42772,23 @@
 		"rating_blitz": 1588
 	},
 	{
+		"fideid": 3540251,
+		"name": "Reyes Reyes, Eduardo Ariel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1587,
+		"rating_rapid": null,
+		"rating_blitz": 1731
+	},
+	{
 		"fideid": 3538257,
 		"name": "Correa Jimenez, Liz Angelica",
 		"country": "CUB",
@@ -42818,7 +42801,7 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
-		"rating_standard": 1586,
+		"rating_standard": 1585,
 		"rating_rapid": 1714,
 		"rating_blitz": 1674
 	},
@@ -42857,8 +42840,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3535959,
-		"name": "Estenoz Cabrera, Cristian Alejand",
+		"fideid": 3536599,
+		"name": "Fernandez Gutierrez, Brian Michel",
 		"country": "CUB",
 		"sex": "M",
 		"title": "",
@@ -42867,11 +42850,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
-		"flag": "",
+		"birthday": 2013,
+		"flag": "i",
 		"rating_standard": 1582,
-		"rating_rapid": 1574,
-		"rating_blitz": 1750
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3530604,
@@ -42891,6 +42874,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3535959,
+		"name": "Estenoz Cabrera, Cristian Alejand",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1581,
+		"rating_rapid": 1574,
+		"rating_blitz": 1749
+	},
+	{
 		"fideid": 3532259,
 		"name": "Feria Cespedes, Cesar",
 		"country": "CUB",
@@ -42905,41 +42905,7 @@
 		"flag": "",
 		"rating_standard": 1581,
 		"rating_rapid": 1551,
-		"rating_blitz": 1658
-	},
-	{
-		"fideid": 3536599,
-		"name": "Fernandez Gutierrez, Brian Michel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": 1581,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3534960,
-		"name": "Ramos Lopez, Maria Fernanda",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "wi",
-		"rating_standard": 1581,
-		"rating_rapid": null,
-		"rating_blitz": 1629
+		"rating_blitz": 1657
 	},
 	{
 		"fideid": 3538770,
@@ -42993,6 +42959,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3534960,
+		"name": "Ramos Lopez, Maria Fernanda",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "wi",
+		"rating_standard": 1580,
+		"rating_rapid": null,
+		"rating_blitz": 1629
+	},
+	{
 		"fideid": 3530671,
 		"name": "Comas Sanchez, Gabriela",
 		"country": "CUB",
@@ -43008,23 +42991,6 @@
 		"rating_standard": 1579,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3538842,
-		"name": "Lara Del Rio, Danna",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1578,
-		"rating_rapid": null,
-		"rating_blitz": 1518
 	},
 	{
 		"fideid": 3535800,
@@ -43044,6 +43010,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3538842,
+		"name": "Lara Del Rio, Danna",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": null,
+		"rating_blitz": 1518
+	},
+	{
 		"fideid": 3534677,
 		"name": "Nunez Alonso, Chaday",
 		"country": "CUB",
@@ -43058,7 +43041,7 @@
 		"flag": "w",
 		"rating_standard": 1577,
 		"rating_rapid": 1796,
-		"rating_blitz": 1683
+		"rating_blitz": 1676
 	},
 	{
 		"fideid": 3536734,
@@ -43078,23 +43061,6 @@
 		"rating_blitz": 1622
 	},
 	{
-		"fideid": 3538273,
-		"name": "Hernandez Suarez, Ana Paula",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1576,
-		"rating_rapid": null,
-		"rating_blitz": 1575
-	},
-	{
 		"fideid": 3537358,
 		"name": "Rodriguez Garcia, Robert Luis",
 		"country": "CUB",
@@ -43107,7 +43073,7 @@
 		"k": 20,
 		"birthday": 1972,
 		"flag": "",
-		"rating_standard": 1574,
+		"rating_standard": 1575,
 		"rating_rapid": null,
 		"rating_blitz": 1722
 	},
@@ -43129,21 +43095,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3540332,
-		"name": "Llanes Madruga, Thiago",
+		"fideid": 3538273,
+		"name": "Hernandez Suarez, Ana Paula",
 		"country": "CUB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
-		"flag": "",
+		"birthday": 2013,
+		"flag": "w",
 		"rating_standard": 1573,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1572
 	},
 	{
 		"fideid": 3530450,
@@ -43214,6 +43180,23 @@
 		"rating_blitz": 1632
 	},
 	{
+		"fideid": 3540332,
+		"name": "Llanes Madruga, Thiago",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1572,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3527433,
 		"name": "Montano Galvez, Naomi De La Caridad",
 		"country": "CUB",
@@ -43248,23 +43231,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3534707,
-		"name": "Fajardo Serrano, Leslie Marian",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1570,
-		"rating_rapid": 1470,
-		"rating_blitz": 1419
-	},
-	{
 		"fideid": 3533204,
 		"name": "Rosales Perez , Viviana",
 		"country": "CUB",
@@ -43280,6 +43246,23 @@
 		"rating_standard": 1570,
 		"rating_rapid": null,
 		"rating_blitz": 1531
+	},
+	{
+		"fideid": 3534707,
+		"name": "Fajardo Serrano, Leslie Marian",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1569,
+		"rating_rapid": 1470,
+		"rating_blitz": 1419
 	},
 	{
 		"fideid": 3532860,
@@ -43316,23 +43299,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3535398,
-		"name": "Munoz Hernandez, Jose Ramon",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": 1567,
-		"rating_rapid": null,
-		"rating_blitz": 1557
-	},
-	{
 		"fideid": 3534650,
 		"name": "Nunez Gonzalez, Alejandro",
 		"country": "CUB",
@@ -43348,6 +43314,40 @@
 		"rating_standard": 1567,
 		"rating_rapid": 1503,
 		"rating_blitz": 1563
+	},
+	{
+		"fideid": 3535398,
+		"name": "Munoz Hernandez, Jose Ramon",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": 1566,
+		"rating_rapid": null,
+		"rating_blitz": 1557
+	},
+	{
+		"fideid": 3535835,
+		"name": "Perez Turino, Victor Manuel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1566,
+		"rating_rapid": 1561,
+		"rating_blitz": 1427
 	},
 	{
 		"fideid": 3536157,
@@ -43381,7 +43381,7 @@
 		"flag": "",
 		"rating_standard": 1565,
 		"rating_rapid": null,
-		"rating_blitz": 1720
+		"rating_blitz": 1719
 	},
 	{
 		"fideid": 3535428,
@@ -43416,23 +43416,6 @@
 		"rating_standard": 1565,
 		"rating_rapid": null,
 		"rating_blitz": 1600
-	},
-	{
-		"fideid": 3535835,
-		"name": "Perez Turino, Victor Manuel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1565,
-		"rating_rapid": 1560,
-		"rating_blitz": 1427
 	},
 	{
 		"fideid": 3533875,
@@ -43602,7 +43585,7 @@
 		"flag": "",
 		"rating_standard": 1556,
 		"rating_rapid": null,
-		"rating_blitz": 1510
+		"rating_blitz": 1511
 	},
 	{
 		"fideid": 3534421,
@@ -43620,23 +43603,6 @@
 		"rating_standard": 1556,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3539792,
-		"name": "Batista Rodriguez, Chris Alejandr",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1555,
-		"rating_rapid": null,
-		"rating_blitz": 1681
 	},
 	{
 		"fideid": 3533182,
@@ -43671,23 +43637,6 @@
 		"rating_standard": 1555,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3539482,
-		"name": "Rodriguez Perez, Danilo",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1555,
-		"rating_rapid": null,
-		"rating_blitz": 1608
 	},
 	{
 		"fideid": 3536580,
@@ -43741,6 +43690,40 @@
 		"rating_blitz": 1759
 	},
 	{
+		"fideid": 3539482,
+		"name": "Rodriguez Perez, Danilo",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1554,
+		"rating_rapid": null,
+		"rating_blitz": 1606
+	},
+	{
+		"fideid": 3539792,
+		"name": "Batista Rodriguez, Chris Alejandr",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1553,
+		"rating_rapid": null,
+		"rating_blitz": 1681
+	},
+	{
 		"fideid": 3539490,
 		"name": "Lopez Serrano, Josue",
 		"country": "CUB",
@@ -43773,23 +43756,6 @@
 		"rating_standard": 1551,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3538362,
-		"name": "Marti Mendoza, Dailenis Alic",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "wi",
-		"rating_standard": 1550,
-		"rating_rapid": null,
-		"rating_blitz": 1642
 	},
 	{
 		"fideid": 3536408,
@@ -43826,8 +43792,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3539350,
-		"name": "Rodriguez Noda, Lia",
+		"fideid": 3538362,
+		"name": "Marti Mendoza, Dailenis Alic",
 		"country": "CUB",
 		"sex": "F",
 		"title": "",
@@ -43837,10 +43803,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1549,
 		"rating_rapid": null,
-		"rating_blitz": 1517
+		"rating_blitz": 1642
 	},
 	{
 		"fideid": 3537129,
@@ -43860,6 +43826,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3539350,
+		"name": "Rodriguez Noda, Lia",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1547,
+		"rating_rapid": null,
+		"rating_blitz": 1516
+	},
+	{
 		"fideid": 3536645,
 		"name": "Super Santana, Sofia",
 		"country": "CUB",
@@ -43875,40 +43858,6 @@
 		"rating_standard": 1547,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3538826,
-		"name": "Grimont Ojeda, Laura Thalia",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1546,
-		"rating_rapid": null,
-		"rating_blitz": 1438
-	},
-	{
-		"fideid": 3536300,
-		"name": "Rodriguez Desdin, Anthony Stephan",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1546,
-		"rating_rapid": null,
-		"rating_blitz": 1705
 	},
 	{
 		"fideid": 3534510,
@@ -43945,6 +43894,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3538826,
+		"name": "Grimont Ojeda, Laura Thalia",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1545,
+		"rating_rapid": null,
+		"rating_blitz": 1436
+	},
+	{
 		"fideid": 3538338,
 		"name": "Perez Lemas, Luis Manuel",
 		"country": "CUB",
@@ -43962,21 +43928,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3534324,
-		"name": "Porras Reinoso, Camila",
+		"fideid": 3536300,
+		"name": "Rodriguez Desdin, Anthony Stephan",
 		"country": "CUB",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1542,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1545,
 		"rating_rapid": null,
-		"rating_blitz": 1603
+		"rating_blitz": 1704
 	},
 	{
 		"fideid": 3538737,
@@ -44010,7 +43976,7 @@
 		"flag": "",
 		"rating_standard": 1541,
 		"rating_rapid": null,
-		"rating_blitz": 1568
+		"rating_blitz": 1567
 	},
 	{
 		"fideid": 3532038,
@@ -44028,6 +43994,23 @@
 		"rating_standard": 1539,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3534324,
+		"name": "Porras Reinoso, Camila",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1539,
+		"rating_rapid": null,
+		"rating_blitz": 1605
 	},
 	{
 		"fideid": 3537579,
@@ -44115,19 +44098,19 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3539636,
-		"name": "Olivera Perez, Roger Gabriel",
+		"fideid": 3532500,
+		"name": "Arias Castro, Barbara Isabel",
 		"country": "CUB",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": 1534,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "wi",
+		"rating_standard": 1533,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -44144,24 +44127,24 @@
 		"k": 40,
 		"birthday": 1991,
 		"flag": "",
-		"rating_standard": 1534,
+		"rating_standard": 1533,
 		"rating_rapid": null,
 		"rating_blitz": 1600
 	},
 	{
-		"fideid": 3532500,
-		"name": "Arias Castro, Barbara Isabel",
+		"fideid": 3539636,
+		"name": "Olivera Perez, Roger Gabriel",
 		"country": "CUB",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "wi",
-		"rating_standard": 1533,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": 1532,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -44212,7 +44195,7 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1530,
+		"rating_standard": 1529,
 		"rating_rapid": 1721,
 		"rating_blitz": 1639
 	},
@@ -44336,40 +44319,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3539806,
-		"name": "Bell Vigueuax, Oslaidi",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1523,
-		"rating_rapid": null,
-		"rating_blitz": 1727
-	},
-	{
-		"fideid": 3535401,
-		"name": "Bosch Lopez, David",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": 1523,
-		"rating_rapid": 1580,
-		"rating_blitz": 1586
-	},
-	{
 		"fideid": 3538079,
 		"name": "Gomez Herrera, Daniel David",
 		"country": "CUB",
@@ -44384,7 +44333,7 @@
 		"flag": "",
 		"rating_standard": 1523,
 		"rating_rapid": 1539,
-		"rating_blitz": 1504
+		"rating_blitz": 1505
 	},
 	{
 		"fideid": 3528731,
@@ -44421,6 +44370,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3539806,
+		"name": "Bell Vigueuax, Oslaidi",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1522,
+		"rating_rapid": null,
+		"rating_blitz": 1726
+	},
+	{
+		"fideid": 3535401,
+		"name": "Bosch Lopez, David",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": 1522,
+		"rating_rapid": 1578,
+		"rating_blitz": 1584
+	},
+	{
 		"fideid": 3540219,
 		"name": "Castillo Molina, Lianny Maria",
 		"country": "CUB",
@@ -44436,23 +44419,6 @@
 		"rating_standard": 1522,
 		"rating_rapid": null,
 		"rating_blitz": 1492
-	},
-	{
-		"fideid": 3540189,
-		"name": "Ramirez Olivera, Wendy Estefany",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1522,
-		"rating_rapid": null,
-		"rating_blitz": 1417
 	},
 	{
 		"fideid": 3534146,
@@ -44489,6 +44455,23 @@
 		"rating_blitz": 1512
 	},
 	{
+		"fideid": 3540189,
+		"name": "Ramirez Olivera, Wendy Estefany",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1521,
+		"rating_rapid": null,
+		"rating_blitz": 1416
+	},
+	{
 		"fideid": 3535118,
 		"name": "De La Paz Casi, Brenda",
 		"country": "CUB",
@@ -44520,23 +44503,6 @@
 		"flag": "i",
 		"rating_standard": 1520,
 		"rating_rapid": 1580,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3539105,
-		"name": "Gutierrez Diaz, Yordan Ricardo",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1519,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -44591,23 +44557,6 @@
 		"rating_blitz": 1532
 	},
 	{
-		"fideid": 3536076,
-		"name": "Gonzalez Gomez, Samuel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1518,
-		"rating_rapid": 1440,
-		"rating_blitz": 1635
-	},
-	{
 		"fideid": 3536769,
 		"name": "Jardines Estevez, Frank Raul",
 		"country": "CUB",
@@ -44642,17 +44591,17 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3537315,
-		"name": "Lauzurique Blanco, Marlon",
+		"fideid": 3539105,
+		"name": "Gutierrez Diaz, Yordan Ricardo",
 		"country": "CUB",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1517,
 		"rating_rapid": null,
@@ -44693,6 +44642,23 @@
 		"rating_blitz": 1533
 	},
 	{
+		"fideid": 3537315,
+		"name": "Lauzurique Blanco, Marlon",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1516,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3538672,
 		"name": "Pantoja Arzola, Mateo",
 		"country": "CUB",
@@ -44707,7 +44673,24 @@
 		"flag": "",
 		"rating_standard": 1516,
 		"rating_rapid": 1518,
-		"rating_blitz": 1576
+		"rating_blitz": 1575
+	},
+	{
+		"fideid": 3536076,
+		"name": "Gonzalez Gomez, Samuel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1514,
+		"rating_rapid": 1429,
+		"rating_blitz": 1633
 	},
 	{
 		"fideid": 3538052,
@@ -44722,8 +44705,8 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
-		"rating_standard": 1514,
-		"rating_rapid": 1441,
+		"rating_standard": 1512,
+		"rating_rapid": 1439,
 		"rating_blitz": 1708
 	},
 	{
@@ -44741,7 +44724,7 @@
 		"flag": "w",
 		"rating_standard": 1512,
 		"rating_rapid": 1564,
-		"rating_blitz": 1472
+		"rating_blitz": 1473
 	},
 	{
 		"fideid": 3527646,
@@ -44758,7 +44741,7 @@
 		"flag": "wi",
 		"rating_standard": 1512,
 		"rating_rapid": null,
-		"rating_blitz": 1490
+		"rating_blitz": 1492
 	},
 	{
 		"fideid": 3539075,
@@ -44773,7 +44756,7 @@
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
-		"rating_standard": 1512,
+		"rating_standard": 1511,
 		"rating_rapid": null,
 		"rating_blitz": 1454
 	},
@@ -44793,40 +44776,6 @@
 		"rating_standard": 1511,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3539830,
-		"name": "Bencosme Matos, Liennis Amparo",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1510,
-		"rating_rapid": null,
-		"rating_blitz": 1472
-	},
-	{
-		"fideid": 3533522,
-		"name": "Catala Delgado, Maria Karla",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1510,
-		"rating_rapid": null,
-		"rating_blitz": 1521
 	},
 	{
 		"fideid": 3531317,
@@ -44877,11 +44826,11 @@
 		"flag": "",
 		"rating_standard": 1510,
 		"rating_rapid": null,
-		"rating_blitz": 1461
+		"rating_blitz": 1460
 	},
 	{
-		"fideid": 3536360,
-		"name": "Soto Perez, Lorena",
+		"fideid": 3539830,
+		"name": "Bencosme Matos, Liennis Amparo",
 		"country": "CUB",
 		"sex": "F",
 		"title": "",
@@ -44890,32 +44839,15 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2015,
 		"flag": "w",
-		"rating_standard": 1510,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3539644,
-		"name": "Valdes Fernandez, Yamil Caleb",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
 		"rating_standard": 1509,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1472
 	},
 	{
-		"fideid": 3538346,
-		"name": "Vasconcelos Navarro, Anly",
+		"fideid": 3533522,
+		"name": "Catala Delgado, Maria Karla",
 		"country": "CUB",
 		"sex": "F",
 		"title": "",
@@ -44924,11 +44856,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2014,
-		"flag": "wi",
+		"birthday": 2011,
+		"flag": "w",
 		"rating_standard": 1509,
 		"rating_rapid": null,
-		"rating_blitz": 1504
+		"rating_blitz": 1520
 	},
 	{
 		"fideid": 3536521,
@@ -44982,6 +44914,23 @@
 		"rating_blitz": 1511
 	},
 	{
+		"fideid": 3539644,
+		"name": "Valdes Fernandez, Yamil Caleb",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": 1506,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3539911,
 		"name": "Martinez Torres, Thiago",
 		"country": "CUB",
@@ -44994,7 +44943,7 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1506,
+		"rating_standard": 1505,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -45011,7 +44960,7 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
-		"rating_standard": 1504,
+		"rating_standard": 1503,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -45033,40 +44982,6 @@
 		"rating_blitz": 1663
 	},
 	{
-		"fideid": 3538907,
-		"name": "Rodriguez Matos, Danilo Eduardo",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1501,
-		"rating_rapid": null,
-		"rating_blitz": 1567
-	},
-	{
-		"fideid": 3534715,
-		"name": "Pozo Ruiz, Perla Maria",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1500,
-		"rating_rapid": 1627,
-		"rating_blitz": 1529
-	},
-	{
 		"fideid": 3540111,
 		"name": "Prieto Vargas, Ruben Jesus",
 		"country": "CUB",
@@ -45084,6 +44999,23 @@
 		"rating_blitz": 1523
 	},
 	{
+		"fideid": 3538907,
+		"name": "Rodriguez Matos, Danilo Eduardo",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1500,
+		"rating_rapid": null,
+		"rating_blitz": 1565
+	},
+	{
 		"fideid": 3532283,
 		"name": "Roig Rodriguez, Leonardo Rene",
 		"country": "CUB",
@@ -45096,23 +45028,6 @@
 		"k": 40,
 		"birthday": 2007,
 		"flag": "i",
-		"rating_standard": 1500,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3536394,
-		"name": "Trujillo Tellez, Marcos Antonio",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
 		"rating_standard": 1500,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -45152,8 +45067,8 @@
 		"rating_blitz": 1675
 	},
 	{
-		"fideid": 3538486,
-		"name": "Davila Rodriguez, Nataly",
+		"fideid": 3534715,
+		"name": "Pozo Ruiz, Perla Maria",
 		"country": "CUB",
 		"sex": "F",
 		"title": "",
@@ -45162,11 +45077,28 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2010,
 		"flag": "w",
-		"rating_standard": 1498,
+		"rating_standard": 1499,
+		"rating_rapid": 1627,
+		"rating_blitz": 1529
+	},
+	{
+		"fideid": 3536394,
+		"name": "Trujillo Tellez, Marcos Antonio",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1499,
 		"rating_rapid": null,
-		"rating_blitz": 1469
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3528820,
@@ -45218,6 +45150,23 @@
 		"rating_standard": 1497,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3538486,
+		"name": "Davila Rodriguez, Nataly",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1496,
+		"rating_rapid": null,
+		"rating_blitz": 1470
 	},
 	{
 		"fideid": 3536424,
@@ -45339,23 +45288,6 @@
 		"rating_blitz": 1421
 	},
 	{
-		"fideid": 3535410,
-		"name": "Alfaro Brito, Xiomara",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1492,
-		"rating_rapid": 1414,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3536025,
 		"name": "Gagloev, Irlan",
 		"country": "CUB",
@@ -45387,6 +45319,23 @@
 		"flag": "i",
 		"rating_standard": 1492,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3535410,
+		"name": "Alfaro Brito, Xiomara",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1491,
+		"rating_rapid": 1414,
 		"rating_blitz": null
 	},
 	{
@@ -45458,6 +45407,23 @@
 		"rating_blitz": 1465
 	},
 	{
+		"fideid": 3536360,
+		"name": "Soto Perez, Lorena",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1487,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3532100,
 		"name": "Perez Rivero , Barbaro Ramon",
 		"country": "CUB",
@@ -45488,7 +45454,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1484,
-		"rating_rapid": 1465,
+		"rating_rapid": 1464,
 		"rating_blitz": 1737
 	},
 	{
@@ -45521,26 +45487,9 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1481,
-		"rating_rapid": null,
-		"rating_blitz": 1406
-	},
-	{
-		"fideid": 3538850,
-		"name": "Marichal Espinosa, Mariam",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
 		"rating_standard": 1480,
 		"rating_rapid": null,
-		"rating_blitz": 1488
+		"rating_blitz": 1405
 	},
 	{
 		"fideid": 3535630,
@@ -45560,23 +45509,6 @@
 		"rating_blitz": 1568
 	},
 	{
-		"fideid": 3537218,
-		"name": "Lopez Chang, Amanda",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1479,
-		"rating_rapid": null,
-		"rating_blitz": 1613
-	},
-	{
 		"fideid": 3537404,
 		"name": "De Jesus Reinaldo, Israel",
 		"country": "CUB",
@@ -45594,6 +45526,23 @@
 		"rating_blitz": 1491
 	},
 	{
+		"fideid": 3538850,
+		"name": "Marichal Espinosa, Mariam",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1478,
+		"rating_rapid": null,
+		"rating_blitz": 1489
+	},
+	{
 		"fideid": 3537455,
 		"name": "Perez Maragoto, Anelissa",
 		"country": "CUB",
@@ -45609,6 +45558,40 @@
 		"rating_standard": 1478,
 		"rating_rapid": null,
 		"rating_blitz": 1519
+	},
+	{
+		"fideid": 3537218,
+		"name": "Lopez Chang, Amanda",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1477,
+		"rating_rapid": null,
+		"rating_blitz": 1599
+	},
+	{
+		"fideid": 3539679,
+		"name": "Zamora Mato, David",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "i",
+		"rating_standard": 1477,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3538087,
@@ -45643,23 +45626,6 @@
 		"rating_standard": 1476,
 		"rating_rapid": null,
 		"rating_blitz": 1570
-	},
-	{
-		"fideid": 3539679,
-		"name": "Zamora Mato, David",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": 1476,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 3533417,
@@ -45747,23 +45713,6 @@
 		"rating_blitz": 1474
 	},
 	{
-		"fideid": 3539881,
-		"name": "Figueroa Del Rosario, Enier David",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1468,
-		"rating_rapid": 1438,
-		"rating_blitz": 1473
-	},
-	{
 		"fideid": 3538656,
 		"name": "Owen Gomez, Darry",
 		"country": "CUB",
@@ -45781,6 +45730,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3539881,
+		"name": "Figueroa Del Rosario, Enier David",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1467,
+		"rating_rapid": 1436,
+		"rating_blitz": 1471
+	},
+	{
 		"fideid": 3539113,
 		"name": "Santo Perez, Samuel",
 		"country": "CUB",
@@ -45793,7 +45759,7 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "i",
-		"rating_standard": 1468,
+		"rating_standard": 1467,
 		"rating_rapid": null,
 		"rating_blitz": 1459
 	},
@@ -45810,9 +45776,26 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1467,
-		"rating_rapid": 1547,
-		"rating_blitz": 1402
+		"rating_standard": 1466,
+		"rating_rapid": 1545,
+		"rating_blitz": 1401
+	},
+	{
+		"fideid": 3538346,
+		"name": "Vasconcelos Navarro, Anly",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "wi",
+		"rating_standard": 1465,
+		"rating_rapid": null,
+		"rating_blitz": 1463
 	},
 	{
 		"fideid": 3536866,
@@ -45827,26 +45810,9 @@
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
-		"rating_standard": 1457,
+		"rating_standard": 1456,
 		"rating_rapid": null,
-		"rating_blitz": 1510
-	},
-	{
-		"fideid": 3538818,
-		"name": "Garcia Gonzalez, Danilo",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1455,
-		"rating_rapid": null,
-		"rating_blitz": 1623
+		"rating_blitz": 1509
 	},
 	{
 		"fideid": 3536084,
@@ -45878,13 +45844,13 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1454,
+		"rating_standard": 1453,
 		"rating_rapid": null,
-		"rating_blitz": 1569
+		"rating_blitz": 1568
 	},
 	{
-		"fideid": 3538869,
-		"name": "Menendez Fajardo, Diego Alejandro",
+		"fideid": 3538818,
+		"name": "Garcia Gonzalez, Danilo",
 		"country": "CUB",
 		"sex": "M",
 		"title": "",
@@ -45893,11 +45859,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2012,
 		"flag": "",
-		"rating_standard": 1453,
-		"rating_rapid": 1516,
-		"rating_blitz": null
+		"rating_standard": 1452,
+		"rating_rapid": null,
+		"rating_blitz": 1620
 	},
 	{
 		"fideid": 3535711,
@@ -45917,6 +45883,23 @@
 		"rating_blitz": 1585
 	},
 	{
+		"fideid": 3538869,
+		"name": "Menendez Fajardo, Diego Alejandro",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1452,
+		"rating_rapid": 1516,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3539865,
 		"name": "Companioni Gonzalez, Yoan Carlos",
 		"country": "CUB",
@@ -45931,7 +45914,7 @@
 		"flag": "",
 		"rating_standard": 1451,
 		"rating_rapid": null,
-		"rating_blitz": 1535
+		"rating_blitz": 1534
 	},
 	{
 		"fideid": 3537250,
@@ -45965,24 +45948,7 @@
 		"flag": "w",
 		"rating_standard": 1450,
 		"rating_rapid": null,
-		"rating_blitz": 1424
-	},
-	{
-		"fideid": 3538036,
-		"name": "Sastre Moreira, Sandy",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "i",
-		"rating_standard": 1450,
-		"rating_rapid": null,
-		"rating_blitz": 1649
+		"rating_blitz": 1423
 	},
 	{
 		"fideid": 3535886,
@@ -46016,7 +45982,7 @@
 		"flag": "w",
 		"rating_standard": 1448,
 		"rating_rapid": null,
-		"rating_blitz": 1447
+		"rating_blitz": 1446
 	},
 	{
 		"fideid": 3536750,
@@ -46036,6 +46002,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3538036,
+		"name": "Sastre Moreira, Sandy",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "i",
+		"rating_standard": 1447,
+		"rating_rapid": null,
+		"rating_blitz": 1649
+	},
+	{
 		"fideid": 3539920,
 		"name": "Navarro Ortega, Elizabeth",
 		"country": "CUB",
@@ -46048,7 +46031,7 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
-		"rating_standard": 1448,
+		"rating_standard": 1446,
 		"rating_rapid": null,
 		"rating_blitz": 1482
 	},
@@ -46070,23 +46053,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3539768,
-		"name": "Medina Alvarez, Elina",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1444,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3535827,
 		"name": "Basulto Casanova, Javier Eduardo",
 		"country": "CUB",
@@ -46102,6 +46068,23 @@
 		"rating_standard": 1443,
 		"rating_rapid": null,
 		"rating_blitz": 1423
+	},
+	{
+		"fideid": 3539768,
+		"name": "Medina Alvarez, Elina",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1442,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3538699,
@@ -46121,8 +46104,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3536351,
-		"name": "Soto Martin, Isabella",
+		"fideid": 3532232,
+		"name": "Casco Herrero, Shalia",
 		"country": "CUB",
 		"sex": "F",
 		"title": "",
@@ -46131,25 +46114,8 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 2011,
 		"flag": "wi",
-		"rating_standard": 1440,
-		"rating_rapid": null,
-		"rating_blitz": 1404
-	},
-	{
-		"fideid": 3534693,
-		"name": "Ojeda Valle, Rocio",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
 		"rating_standard": 1437,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -46167,26 +46133,9 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "wi",
-		"rating_standard": 1434,
+		"rating_standard": 1433,
 		"rating_rapid": null,
 		"rating_blitz": 1591
-	},
-	{
-		"fideid": 3537986,
-		"name": "Diaz Zamora, Miguel Gabriel",
-		"country": "CUB",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1431,
-		"rating_rapid": null,
-		"rating_blitz": 1506
 	},
 	{
 		"fideid": 3536602,
@@ -46201,7 +46150,7 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
-		"rating_standard": 1430,
+		"rating_standard": 1429,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -46221,6 +46170,23 @@
 		"rating_standard": 1429,
 		"rating_rapid": null,
 		"rating_blitz": 1453
+	},
+	{
+		"fideid": 3537986,
+		"name": "Diaz Zamora, Miguel Gabriel",
+		"country": "CUB",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1427,
+		"rating_rapid": null,
+		"rating_blitz": 1502
 	},
 	{
 		"fideid": 3537994,
@@ -46269,7 +46235,7 @@
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1421,
+		"rating_standard": 1420,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -46288,7 +46254,7 @@
 		"flag": "wi",
 		"rating_standard": 1420,
 		"rating_rapid": null,
-		"rating_blitz": 1474
+		"rating_blitz": 1473
 	},
 	{
 		"fideid": 3538923,
@@ -46308,23 +46274,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3536130,
-		"name": "Hilarion Cardoso, Alisbel De La C",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1418,
-		"rating_rapid": null,
-		"rating_blitz": 1447
-	},
-	{
 		"fideid": 3539784,
 		"name": "Arias Diaz, Ashley Nicole",
 		"country": "CUB",
@@ -46340,6 +46289,23 @@
 		"rating_standard": 1417,
 		"rating_rapid": null,
 		"rating_blitz": 1449
+	},
+	{
+		"fideid": 3536130,
+		"name": "Hilarion Cardoso, Alisbel De La C",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1417,
+		"rating_rapid": null,
+		"rating_blitz": 1445
 	},
 	{
 		"fideid": 3537269,
@@ -46371,9 +46337,26 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
-		"rating_standard": 1416,
+		"rating_standard": 1415,
 		"rating_rapid": null,
-		"rating_blitz": 1436
+		"rating_blitz": 1566
+	},
+	{
+		"fideid": 3536351,
+		"name": "Soto Martin, Isabella",
+		"country": "CUB",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "wi",
+		"rating_standard": 1415,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3539857,
@@ -46405,26 +46388,9 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
-		"rating_standard": 1409,
+		"rating_standard": 1408,
 		"rating_rapid": null,
-		"rating_blitz": 1513
-	},
-	{
-		"fideid": 3532232,
-		"name": "Casco Herrero, Shalia",
-		"country": "CUB",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "wi",
-		"rating_standard": 1407,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 3539377,
@@ -46439,7 +46405,7 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
-		"rating_standard": 1407,
+		"rating_standard": 1406,
 		"rating_rapid": null,
 		"rating_blitz": 1516
 	},
@@ -46475,7 +46441,7 @@
 		"flag": "w",
 		"rating_standard": 1402,
 		"rating_rapid": null,
-		"rating_blitz": 1452
+		"rating_blitz": 1451
 	},
 	{
 		"fideid": 3524922,
@@ -46526,7 +46492,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1437,
-		"rating_blitz": 1441
+		"rating_blitz": 1442
 	},
 	{
 		"fideid": 3540057,
@@ -46576,7 +46542,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1414,
+		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
@@ -46593,7 +46559,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1433,
+		"rating_rapid": 1432,
 		"rating_blitz": 1401
 	},
 	{
@@ -46628,7 +46594,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1798,
-		"rating_blitz": 1786
+		"rating_blitz": 1785
 	},
 	{
 		"fideid": 3529290,
@@ -46645,7 +46611,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1799,
-		"rating_blitz": 1780
+		"rating_blitz": 1777
 	},
 	{
 		"fideid": 3527891,
@@ -47155,7 +47121,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1457
+		"rating_blitz": 1455
 	},
 	{
 		"fideid": 3520900,
@@ -47682,7 +47648,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1559
+		"rating_blitz": 1560
 	},
 	{
 		"fideid": 3523730,
@@ -47750,7 +47716,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1583
+		"rating_blitz": 1582
 	},
 	{
 		"fideid": 3522660,
@@ -47818,7 +47784,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1475
+		"rating_blitz": 1474
 	},
 	{
 		"fideid": 3529762,
@@ -48209,7 +48175,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1467
+		"rating_blitz": 1469
 	},
 	{
 		"fideid": 3538591,
@@ -48379,7 +48345,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1448
+		"rating_blitz": 1462
 	},
 	{
 		"fideid": 3539610,
@@ -48770,7 +48736,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1831
+		"rating_blitz": 1830
 	},
 	{
 		"fideid": 3525180,
@@ -48940,7 +48906,7 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1493
+		"rating_blitz": 1491
 	},
 	{
 		"fideid": 3526410,
@@ -49161,7 +49127,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1515
+		"rating_blitz": 1514
 	},
 	{
 		"fideid": 3527840,

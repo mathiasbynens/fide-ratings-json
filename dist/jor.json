@@ -184,7 +184,7 @@
 		"flag": "",
 		"rating_standard": 2172,
 		"rating_rapid": 2050,
-		"rating_blitz": 2064
+		"rating_blitz": 2065
 	},
 	{
 		"fideid": 8101914,
@@ -421,8 +421,8 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 2088,
-		"rating_rapid": 2138,
-		"rating_blitz": 2195
+		"rating_rapid": 2137,
+		"rating_blitz": 2196
 	},
 	{
 		"fideid": 8100268,
@@ -728,7 +728,7 @@
 		"flag": "i",
 		"rating_standard": 2034,
 		"rating_rapid": 2077,
-		"rating_blitz": 1957
+		"rating_blitz": 1958
 	},
 	{
 		"fideid": 8100411,
@@ -794,8 +794,8 @@
 		"k": 20,
 		"birthday": 1956,
 		"flag": "i",
-		"rating_standard": 2023,
-		"rating_rapid": 2046,
+		"rating_standard": 2024,
+		"rating_rapid": 2047,
 		"rating_blitz": null
 	},
 	{
@@ -2579,7 +2579,7 @@
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
-		"rating_standard": 1883,
+		"rating_standard": 1881,
 		"rating_rapid": 1856,
 		"rating_blitz": 1835
 	},
@@ -3072,7 +3072,7 @@
 		"k": 40,
 		"birthday": 1987,
 		"flag": "i",
-		"rating_standard": 1848,
+		"rating_standard": 1846,
 		"rating_rapid": 1859,
 		"rating_blitz": 1859
 	},
@@ -3123,7 +3123,7 @@
 		"k": 20,
 		"birthday": 1985,
 		"flag": "i",
-		"rating_standard": 1844,
+		"rating_standard": 1845,
 		"rating_rapid": 1939,
 		"rating_blitz": null
 	},
@@ -3298,6 +3298,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8114803,
+		"name": "Karam ejeilat",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1830,
+		"rating_rapid": 1928,
+		"rating_blitz": 1930
+	},
+	{
 		"fideid": 8103100,
 		"name": "Rabee, Al Sanea",
 		"country": "JOR",
@@ -3313,23 +3330,6 @@
 		"rating_standard": 1830,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8114803,
-		"name": "Karam ejeilat",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1829,
-		"rating_rapid": 1928,
-		"rating_blitz": 1930
 	},
 	{
 		"fideid": 8104433,
@@ -3655,6 +3655,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8100098,
+		"name": "Al Namas, Kanan",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1817,
+		"rating_rapid": 1811,
+		"rating_blitz": 1816
+	},
+	{
 		"fideid": 8107815,
 		"name": "Ali, Altamimi",
 		"country": "JOR",
@@ -3704,23 +3721,6 @@
 		"rating_standard": 1817,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8100098,
-		"name": "Al Namas, Kanan",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": "",
-		"flag": "",
-		"rating_standard": 1816,
-		"rating_rapid": 1811,
-		"rating_blitz": 1816
 	},
 	{
 		"fideid": 8113211,
@@ -3978,23 +3978,6 @@
 		"rating_blitz": 1796
 	},
 	{
-		"fideid": 8118990,
-		"name": "Jood Ahmad",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1800,
-		"rating_rapid": 1816,
-		"rating_blitz": 1690
-	},
-	{
 		"fideid": 8108811,
 		"name": "Tarek anabtawi",
 		"country": "JOR",
@@ -4061,6 +4044,23 @@
 		"rating_standard": 1799,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 8118990,
+		"name": "Jood Ahmad",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1799,
+		"rating_rapid": 1816,
+		"rating_blitz": 1690
 	},
 	{
 		"fideid": 8129185,
@@ -4230,7 +4230,7 @@
 		"flag": "w",
 		"rating_standard": 1790,
 		"rating_rapid": 1717,
-		"rating_blitz": 1718
+		"rating_blitz": 1724
 	},
 	{
 		"fideid": 8128480,
@@ -4692,23 +4692,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8119066,
-		"name": "Montasser Rababah",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1770,
-		"rating_rapid": 1667,
-		"rating_blitz": 1734
-	},
-	{
 		"fideid": 8105316,
 		"name": "Albzor, Mohamad",
 		"country": "JOR",
@@ -4741,6 +4724,23 @@
 		"rating_standard": 1769,
 		"rating_rapid": 1786,
 		"rating_blitz": 1724
+	},
+	{
+		"fideid": 8119066,
+		"name": "Montasser Rababah",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1769,
+		"rating_rapid": 1667,
+		"rating_blitz": 1733
 	},
 	{
 		"fideid": 8126470,
@@ -4893,7 +4893,7 @@
 		"flag": "",
 		"rating_standard": 1763,
 		"rating_rapid": null,
-		"rating_blitz": 1786
+		"rating_blitz": 1787
 	},
 	{
 		"fideid": 8105359,
@@ -4976,7 +4976,7 @@
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
-		"rating_standard": 1759,
+		"rating_standard": 1760,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5253,6 +5253,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8115010,
+		"name": "Qusai, Tawiq",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1749,
+		"rating_rapid": null,
+		"rating_blitz": 1775
+	},
+	{
 		"fideid": 8115869,
 		"name": "Mohammad Amr",
 		"country": "JOR",
@@ -5268,23 +5285,6 @@
 		"rating_standard": 1748,
 		"rating_rapid": 1650,
 		"rating_blitz": 1756
-	},
-	{
-		"fideid": 8115010,
-		"name": "Qusai, Tawiq",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1748,
-		"rating_rapid": null,
-		"rating_blitz": 1774
 	},
 	{
 		"fideid": 8134022,
@@ -5610,6 +5610,23 @@
 		"rating_blitz": 1728
 	},
 	{
+		"fideid": 8135142,
+		"name": "Namneh, Haitham",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1734,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 8118914,
 		"name": "Moath Albdairat",
 		"country": "JOR",
@@ -5623,23 +5640,6 @@
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": 1733,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 8135142,
-		"name": "Namneh, Haitham",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1732,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5659,23 +5659,6 @@
 		"rating_standard": 1731,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8128553,
-		"name": "HAMAD ALDAMEN",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1730,
-		"rating_rapid": 1729,
-		"rating_blitz": 1611
 	},
 	{
 		"fideid": 8119775,
@@ -5727,6 +5710,23 @@
 		"rating_standard": 1729,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 8128553,
+		"name": "HAMAD ALDAMEN",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1729,
+		"rating_rapid": 1729,
+		"rating_blitz": 1611
 	},
 	{
 		"fideid": 8105146,
@@ -5831,6 +5831,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8106983,
+		"name": "Salem Algleilat",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 1723,
+		"rating_rapid": 1760,
+		"rating_blitz": 1695
+	},
+	{
 		"fideid": 8110107,
 		"name": "Ibrahim, Al Biri",
 		"country": "JOR",
@@ -5880,23 +5897,6 @@
 		"rating_standard": 1721,
 		"rating_rapid": 1801,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8106983,
-		"name": "Salem Algleilat",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 1721,
-		"rating_rapid": 1760,
-		"rating_blitz": 1693
 	},
 	{
 		"fideid": 8111600,
@@ -6120,6 +6120,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8134197,
+		"name": "Salman, Ayham",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1713,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 8112681,
 		"name": "Yaser, Alnawasreh",
 		"country": "JOR",
@@ -6151,23 +6168,6 @@
 		"flag": "i",
 		"rating_standard": 1712,
 		"rating_rapid": 1690,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 8134197,
-		"name": "Salman, Ayham",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1712,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -6239,23 +6239,6 @@
 		"rating_blitz": 1701
 	},
 	{
-		"fideid": 8120625,
-		"name": "Jalal Abu Eisha",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": 1709,
-		"rating_rapid": 1542,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8125112,
 		"name": "HAITHAM ALOUFEE",
 		"country": "JOR",
@@ -6268,8 +6251,25 @@
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 1708,
+		"rating_standard": 1709,
 		"rating_rapid": 1824,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 8120625,
+		"name": "Jalal Abu Eisha",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": 1708,
+		"rating_rapid": 1542,
 		"rating_blitz": null
 	},
 	{
@@ -6375,6 +6375,23 @@
 		"rating_blitz": 1808
 	},
 	{
+		"fideid": 8123055,
+		"name": "Rafat, Alsawadha",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1704,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 8135320,
 		"name": "Sugyyar, Tala",
 		"country": "JOR",
@@ -6409,23 +6426,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8123055,
-		"name": "Rafat, Alsawadha",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1703,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8123098,
 		"name": "Rayyan Abdelrazeq",
 		"country": "JOR",
@@ -6438,8 +6438,8 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1702,
-		"rating_rapid": 1678,
+		"rating_standard": 1703,
+		"rating_rapid": 1679,
 		"rating_blitz": 1628
 	},
 	{
@@ -6579,6 +6579,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8120773,
+		"name": "Mohammad Al-Sarihin",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1697,
+		"rating_rapid": 1744,
+		"rating_blitz": 1664
+	},
+	{
 		"fideid": 8122474,
 		"name": "BARA ASSAF",
 		"country": "JOR",
@@ -6611,23 +6628,6 @@
 		"rating_standard": 1696,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8120773,
-		"name": "Mohammad Al-Sarihin",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1696,
-		"rating_rapid": 1744,
-		"rating_blitz": 1664
 	},
 	{
 		"fideid": 8113149,
@@ -7463,23 +7463,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8136505,
-		"name": "Alkhuffash, Ahmad",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1670,
-		"rating_rapid": 1562,
-		"rating_blitz": 1435
-	},
-	{
 		"fideid": 8110379,
 		"name": "Abedalrazak, Nawasreh",
 		"country": "JOR",
@@ -7616,23 +7599,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8123560,
-		"name": "Yousef Amarneh",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1668,
-		"rating_rapid": null,
-		"rating_blitz": 1522
-	},
-	{
 		"fideid": 8104263,
 		"name": "Feras, Safadi",
 		"country": "JOR",
@@ -7731,8 +7697,8 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1663,
-		"rating_rapid": 1731,
-		"rating_blitz": 1619
+		"rating_rapid": 1704,
+		"rating_blitz": 1618
 	},
 	{
 		"fideid": 8113939,
@@ -7786,21 +7752,21 @@
 		"rating_blitz": 1628
 	},
 	{
-		"fideid": 8125252,
-		"name": "Rose Al-Tayeh",
+		"fideid": 8136505,
+		"name": "Alkhuffash, Ahmad",
 		"country": "JOR",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1662,
-		"rating_rapid": 1687,
-		"rating_blitz": null
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1661,
+		"rating_rapid": 1562,
+		"rating_blitz": 1435
 	},
 	{
 		"fideid": 8133328,
@@ -8024,23 +7990,6 @@
 		"rating_blitz": 1631
 	},
 	{
-		"fideid": 8111472,
-		"name": "Alsmady, Ouais",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1657,
-		"rating_rapid": 1650,
-		"rating_blitz": 1617
-	},
-	{
 		"fideid": 8110778,
 		"name": "Thaer, Eid",
 		"country": "JOR",
@@ -8056,6 +8005,23 @@
 		"rating_standard": 1657,
 		"rating_rapid": 1640,
 		"rating_blitz": 1712
+	},
+	{
+		"fideid": 8111472,
+		"name": "Alsmady, Ouais",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "ACM",
+		"games": 0,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1656,
+		"rating_rapid": 1649,
+		"rating_blitz": 1617
 	},
 	{
 		"fideid": 8110859,
@@ -8228,6 +8194,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8125252,
+		"name": "Rose Al-Tayeh",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1649,
+		"rating_rapid": 1686,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 8122938,
 		"name": "MARAH SALAHAT",
 		"country": "JOR",
@@ -8279,6 +8262,23 @@
 		"rating_blitz": 1636
 	},
 	{
+		"fideid": 8123560,
+		"name": "Yousef Amarneh",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1647,
+		"rating_rapid": null,
+		"rating_blitz": 1522
+	},
+	{
 		"fideid": 8109150,
 		"name": "Eman, Shabaitah",
 		"country": "JOR",
@@ -8311,23 +8311,6 @@
 		"rating_standard": 1646,
 		"rating_rapid": 1592,
 		"rating_blitz": 1689
-	},
-	{
-		"fideid": 8123918,
-		"name": "Yousef Jawabreh",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1985,
-		"flag": "i",
-		"rating_standard": 1646,
-		"rating_rapid": null,
-		"rating_blitz": 1626
 	},
 	{
 		"fideid": 8104859,
@@ -8379,6 +8362,23 @@
 		"rating_standard": 1645,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 8123918,
+		"name": "Yousef Jawabreh",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1985,
+		"flag": "i",
+		"rating_standard": 1645,
+		"rating_rapid": null,
+		"rating_blitz": 1626
 	},
 	{
 		"fideid": 8115567,
@@ -8704,23 +8704,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8112193,
-		"name": "Tahreer, Alawamleh",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1635,
-		"rating_rapid": null,
-		"rating_blitz": 1782
-	},
-	{
 		"fideid": 8121974,
 		"name": "Ziad Khalifieh",
 		"country": "JOR",
@@ -8753,6 +8736,23 @@
 		"rating_standard": 1634,
 		"rating_rapid": null,
 		"rating_blitz": 1590
+	},
+	{
+		"fideid": 8112193,
+		"name": "Tahreer, Alawamleh",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1634,
+		"rating_rapid": null,
+		"rating_blitz": 1782
 	},
 	{
 		"fideid": 8113734,
@@ -8803,7 +8803,7 @@
 		"flag": "i",
 		"rating_standard": 1632,
 		"rating_rapid": null,
-		"rating_blitz": 1580
+		"rating_blitz": 1581
 	},
 	{
 		"fideid": 8114137,
@@ -8971,9 +8971,26 @@
 		"k": 40,
 		"birthday": 1994,
 		"flag": "",
-		"rating_standard": 1627,
+		"rating_standard": 1628,
 		"rating_rapid": 1626,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 8133751,
+		"name": "Mohammad, Dahadhah",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1628,
+		"rating_rapid": 1479,
+		"rating_blitz": 1543
 	},
 	{
 		"fideid": 8127310,
@@ -8991,23 +9008,6 @@
 		"rating_standard": 1627,
 		"rating_rapid": 1563,
 		"rating_blitz": 1525
-	},
-	{
-		"fideid": 8133751,
-		"name": "Mohammad, Dahadhah",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1627,
-		"rating_rapid": 1479,
-		"rating_blitz": 1543
 	},
 	{
 		"fideid": 8113963,
@@ -9129,23 +9129,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8115940,
-		"name": "Shahem Ejeilat",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1624,
-		"rating_rapid": 1686,
-		"rating_blitz": 1657
-	},
-	{
 		"fideid": 8109869,
 		"name": "Husein, Ehnezeh",
 		"country": "JOR",
@@ -9246,6 +9229,23 @@
 		"rating_standard": 1621,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 8115940,
+		"name": "Shahem Ejeilat",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1621,
+		"rating_rapid": 1686,
+		"rating_blitz": 1657
 	},
 	{
 		"fideid": 8126801,
@@ -9605,6 +9605,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8128642,
+		"name": "MOHAMMAD YASER ALZUBI",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1611,
+		"rating_rapid": 1524,
+		"rating_blitz": 1557
+	},
+	{
 		"fideid": 8134693,
 		"name": "Numayr, Rakan",
 		"country": "JOR",
@@ -9656,23 +9673,6 @@
 		"rating_blitz": 1541
 	},
 	{
-		"fideid": 8128642,
-		"name": "MOHAMMAD YASER ALZUBI",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1610,
-		"rating_rapid": 1524,
-		"rating_blitz": 1557
-	},
-	{
 		"fideid": 8106860,
 		"name": "Tameem Al-Btoush",
 		"country": "JOR",
@@ -9707,23 +9707,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8127000,
-		"name": "Mohammad Zakarneh",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": 1609,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8123195,
 		"name": "Ramez Al-Zraikat",
 		"country": "JOR",
@@ -9738,7 +9721,7 @@
 		"flag": "",
 		"rating_standard": 1608,
 		"rating_rapid": 1681,
-		"rating_blitz": 1791
+		"rating_blitz": 1792
 	},
 	{
 		"fideid": 8125929,
@@ -10059,7 +10042,7 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1598,
+		"rating_standard": 1599,
 		"rating_rapid": 1628,
 		"rating_blitz": 1565
 	},
@@ -10166,6 +10149,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8130426,
+		"name": "Abdullah, Al-Jazzazi",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1596,
+		"rating_rapid": 1593,
+		"rating_blitz": 1516
+	},
+	{
 		"fideid": 8114765,
 		"name": "Tariq Alshahwan",
 		"country": "JOR",
@@ -10181,23 +10181,6 @@
 		"rating_standard": 1596,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8130426,
-		"name": "Abdullah, Al-Jazzazi",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1595,
-		"rating_rapid": 1592,
-		"rating_blitz": 1516
 	},
 	{
 		"fideid": 8119201,
@@ -10336,6 +10319,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8112568,
+		"name": "Lamar Baker",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1589,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 8109982,
 		"name": "Shhab, Edibat",
 		"country": "JOR",
@@ -10351,23 +10351,6 @@
 		"rating_standard": 1589,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8133409,
-		"name": "Kenan, Al-Frokh",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1588,
-		"rating_rapid": 1545,
-		"rating_blitz": 1473
 	},
 	{
 		"fideid": 8134618,
@@ -10419,6 +10402,23 @@
 		"rating_standard": 1586,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 8108927,
+		"name": "Jana, Tell",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1585,
+		"rating_rapid": 1429,
+		"rating_blitz": 1524
 	},
 	{
 		"fideid": 8122555,
@@ -10523,6 +10523,23 @@
 		"rating_blitz": 1570
 	},
 	{
+		"fideid": 8117322,
+		"name": "Moawiah Mubarak",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1584,
+		"rating_rapid": 1495,
+		"rating_blitz": 1470
+	},
+	{
 		"fideid": 8103917,
 		"name": "Hind, Abughanieh",
 		"country": "JOR",
@@ -10540,23 +10557,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8117322,
-		"name": "Moawiah Mubarak",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1583,
-		"rating_rapid": 1505,
-		"rating_blitz": 1470
-	},
-	{
 		"fideid": 8133883,
 		"name": "Afaneh, Ammar",
 		"country": "JOR",
@@ -10571,7 +10571,7 @@
 		"flag": "",
 		"rating_standard": 1582,
 		"rating_rapid": 1558,
-		"rating_blitz": 1508
+		"rating_blitz": 1507
 	},
 	{
 		"fideid": 8116385,
@@ -10829,6 +10829,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8133409,
+		"name": "Kenan, Al-Frokh",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": 1544,
+		"rating_blitz": 1473
+	},
+	{
 		"fideid": 8106282,
 		"name": "Khaleel, Musallam",
 		"country": "JOR",
@@ -10844,6 +10861,23 @@
 		"rating_standard": 1577,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 8132410,
+		"name": "Rayyan Suleiman",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": 1522,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 8109800,
@@ -10931,23 +10965,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8131767,
-		"name": "Ibrahim Abuhussein",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1574,
-		"rating_rapid": null,
-		"rating_blitz": 1513
-	},
-	{
 		"fideid": 8131325,
 		"name": "Zaid, Alshaqarin",
 		"country": "JOR",
@@ -10980,6 +10997,23 @@
 		"rating_standard": 1573,
 		"rating_rapid": 1513,
 		"rating_blitz": 1627
+	},
+	{
+		"fideid": 8131767,
+		"name": "Ibrahim Abuhussein",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": 1573,
+		"rating_rapid": null,
+		"rating_blitz": 1506
 	},
 	{
 		"fideid": 8111308,
@@ -11016,6 +11050,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8126950,
+		"name": "Abdulla AlAnsari",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 0,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1572,
+		"rating_rapid": 1577,
+		"rating_blitz": 1549
+	},
+	{
 		"fideid": 8108978,
 		"name": "Anmar, Qadamani",
 		"country": "JOR",
@@ -11045,7 +11096,7 @@
 		"k": 40,
 		"birthday": 1983,
 		"flag": "",
-		"rating_standard": 1571,
+		"rating_standard": 1572,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -11099,40 +11150,6 @@
 		"rating_standard": 1570,
 		"rating_rapid": 1564,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8108927,
-		"name": "Jana, Tell",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1570,
-		"rating_rapid": 1428,
-		"rating_blitz": 1524
-	},
-	{
-		"fideid": 8132410,
-		"name": "Rayyan Suleiman",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1570,
-		"rating_rapid": 1523,
-		"rating_blitz": 1517
 	},
 	{
 		"fideid": 8132968,
@@ -11220,23 +11237,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8134421,
-		"name": "Hussein, Moayad",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1564,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8130035,
 		"name": "Jawad, Omari",
 		"country": "JOR",
@@ -11250,7 +11250,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1564,
-		"rating_rapid": 1414,
+		"rating_rapid": 1415,
 		"rating_blitz": 1467
 	},
 	{
@@ -11317,6 +11317,23 @@
 		"k": 40,
 		"birthday": 1994,
 		"flag": "wi",
+		"rating_standard": 1563,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 8134421,
+		"name": "Hussein, Moayad",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
 		"rating_standard": 1563,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11662,6 +11679,23 @@
 		"rating_blitz": 1578
 	},
 	{
+		"fideid": 8122504,
+		"name": "Mohammad Hdaib",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "i",
+		"rating_standard": 1557,
+		"rating_rapid": null,
+		"rating_blitz": 1509
+	},
+	{
 		"fideid": 8134685,
 		"name": "Mosleh, Saif",
 		"country": "JOR",
@@ -11711,23 +11745,6 @@
 		"rating_standard": 1556,
 		"rating_rapid": 1564,
 		"rating_blitz": 1421
-	},
-	{
-		"fideid": 8122504,
-		"name": "Mohammad Hdaib",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1994,
-		"flag": "i",
-		"rating_standard": 1556,
-		"rating_rapid": null,
-		"rating_blitz": 1508
 	},
 	{
 		"fideid": 8107963,
@@ -11798,21 +11815,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8123705,
-		"name": "Abdul Rahman Khader",
+		"fideid": 8117284,
+		"name": "Nour Alkhatib",
 		"country": "JOR",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1553,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"birthday": 2000,
+		"flag": "w",
+		"rating_standard": 1555,
+		"rating_rapid": 1577,
+		"rating_blitz": 1591
 	},
 	{
 		"fideid": 8114498,
@@ -11934,40 +11951,6 @@
 		"rating_blitz": 1528
 	},
 	{
-		"fideid": 8133794,
-		"name": "Hamza Al-Sayyed",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1552,
-		"rating_rapid": 1504,
-		"rating_blitz": 1534
-	},
-	{
-		"fideid": 8126950,
-		"name": "Abdulla AlAnsari",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 40,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1551,
-		"rating_rapid": 1577,
-		"rating_blitz": 1549
-	},
-	{
 		"fideid": 8116393,
 		"name": "Ammar Omari",
 		"country": "JOR",
@@ -12017,23 +12000,6 @@
 		"rating_standard": 1551,
 		"rating_rapid": null,
 		"rating_blitz": 1507
-	},
-	{
-		"fideid": 8134456,
-		"name": "Izmeqna, Sadeen",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "w",
-		"rating_standard": 1551,
-		"rating_rapid": 1418,
-		"rating_blitz": 1486
 	},
 	{
 		"fideid": 8105790,
@@ -12155,21 +12121,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8110816,
-		"name": "Abdallah, Al-Khanji",
+		"fideid": 8133794,
+		"name": "Hamza Al-Sayyed",
 		"country": "JOR",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
-		"birthday": 1995,
+		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1548,
-		"rating_rapid": null,
-		"rating_blitz": 1602
+		"rating_standard": 1549,
+		"rating_rapid": 1499,
+		"rating_blitz": 1535
 	},
 	{
 		"fideid": 8128618,
@@ -12342,6 +12308,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8113700,
+		"name": "Erani, Syrina",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1545,
+		"rating_rapid": 1546,
+		"rating_blitz": 1433
+	},
+	{
 		"fideid": 8127123,
 		"name": "Tala Arafat",
 		"country": "JOR",
@@ -12357,6 +12340,23 @@
 		"rating_standard": 1545,
 		"rating_rapid": 1505,
 		"rating_blitz": 1461
+	},
+	{
+		"fideid": 8123705,
+		"name": "Abdul Rahman Khader",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1544,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 8113114,
@@ -12423,7 +12423,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1544,
-		"rating_rapid": 1470,
+		"rating_rapid": 1471,
 		"rating_blitz": 1491
 	},
 	{
@@ -12442,6 +12442,23 @@
 		"rating_standard": 1543,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 8115354,
+		"name": "Jamil Abduljalil",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1543,
+		"rating_rapid": 1518,
+		"rating_blitz": 1476
 	},
 	{
 		"fideid": 8125651,
@@ -12508,7 +12525,7 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1541,
-		"rating_rapid": 1707,
+		"rating_rapid": 1706,
 		"rating_blitz": 1581
 	},
 	{
@@ -12614,6 +12631,23 @@
 		"rating_blitz": 1486
 	},
 	{
+		"fideid": 8123144,
+		"name": "Masa Weshah",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1540,
+		"rating_rapid": 1440,
+		"rating_blitz": 1490
+	},
+	{
 		"fideid": 8113866,
 		"name": "Mohammad, Almasri",
 		"country": "JOR",
@@ -12646,23 +12680,6 @@
 		"rating_standard": 1540,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8133212,
-		"name": "Yahya, Al-Oqool",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1540,
-		"rating_rapid": 1535,
-		"rating_blitz": 1457
 	},
 	{
 		"fideid": 8108331,
@@ -12716,6 +12733,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8110816,
+		"name": "Abdallah, Al-Khanji",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 1538,
+		"rating_rapid": null,
+		"rating_blitz": 1602
+	},
+	{
 		"fideid": 8135207,
 		"name": "Dawod, Mohammad",
 		"country": "JOR",
@@ -12731,23 +12765,6 @@
 		"rating_standard": 1538,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8113700,
-		"name": "Erani, Syrina",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1538,
-		"rating_rapid": 1546,
-		"rating_blitz": 1433
 	},
 	{
 		"fideid": 8131619,
@@ -12782,6 +12799,40 @@
 		"rating_standard": 1538,
 		"rating_rapid": null,
 		"rating_blitz": 1552
+	},
+	{
+		"fideid": 8133212,
+		"name": "Yahya, Al-Oqool",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1538,
+		"rating_rapid": 1535,
+		"rating_blitz": 1457
+	},
+	{
+		"fideid": 8134456,
+		"name": "Izmeqna, Sadeen",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "w",
+		"rating_standard": 1537,
+		"rating_rapid": 1418,
+		"rating_blitz": 1485
 	},
 	{
 		"fideid": 8113220,
@@ -12916,8 +12967,25 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1533,
-		"rating_rapid": 1457,
-		"rating_blitz": 1447
+		"rating_rapid": 1458,
+		"rating_blitz": 1446
+	},
+	{
+		"fideid": 8133026,
+		"name": "Iman, Abu-Myaleh",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "wi",
+		"rating_standard": 1533,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 8111278,
@@ -13005,23 +13073,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8133026,
-		"name": "Iman, Abu-Myaleh",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "wi",
-		"rating_standard": 1530,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8111774,
 		"name": "Mustafa Alkhateeb",
 		"country": "JOR",
@@ -13073,23 +13124,6 @@
 		"rating_blitz": 1639
 	},
 	{
-		"fideid": 8117284,
-		"name": "Nour Alkhatib",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "w",
-		"rating_standard": 1529,
-		"rating_rapid": 1577,
-		"rating_blitz": 1591
-	},
-	{
 		"fideid": 8126615,
 		"name": "Omar Abuseif",
 		"country": "JOR",
@@ -13105,23 +13139,6 @@
 		"rating_standard": 1529,
 		"rating_rapid": 1637,
 		"rating_blitz": 1735
-	},
-	{
-		"fideid": 8134731,
-		"name": "Samara, Ismail",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1529,
-		"rating_rapid": null,
-		"rating_blitz": 1587
 	},
 	{
 		"fideid": 8116199,
@@ -13175,6 +13192,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8134731,
+		"name": "Samara, Ismail",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1528,
+		"rating_rapid": null,
+		"rating_blitz": 1586
+	},
+	{
 		"fideid": 8115974,
 		"name": "Zain Ahmad",
 		"country": "JOR",
@@ -13223,23 +13257,6 @@
 		"flag": "i",
 		"rating_standard": 1527,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 8131481,
-		"name": "Zeed, Abu Taqa",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1527,
-		"rating_rapid": 1402,
 		"rating_blitz": null
 	},
 	{
@@ -13308,6 +13325,23 @@
 		"flag": "i",
 		"rating_standard": 1525,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 8131481,
+		"name": "Zeed, Abu Taqa",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1525,
+		"rating_rapid": 1402,
 		"rating_blitz": null
 	},
 	{
@@ -13396,23 +13430,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8115354,
-		"name": "Jamil Abduljalil",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 1520,
-		"rating_rapid": 1518,
-		"rating_blitz": 1476
-	},
-	{
 		"fideid": 8134677,
 		"name": "Mohd, Yahya",
 		"country": "JOR",
@@ -13476,7 +13493,7 @@
 		"k": 40,
 		"birthday": 1959,
 		"flag": "",
-		"rating_standard": 1519,
+		"rating_standard": 1518,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -13549,6 +13566,23 @@
 		"rating_blitz": 1500
 	},
 	{
+		"fideid": 8135150,
+		"name": "Sous, Omar",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1515,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 8114382,
 		"name": "Waseem Al-Hwaidi",
 		"country": "JOR",
@@ -13600,23 +13634,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8135150,
-		"name": "Sous, Omar",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1514,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8123861,
 		"name": "Abdallah Hawwash",
 		"country": "JOR",
@@ -13630,7 +13647,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1513,
-		"rating_rapid": 1520,
+		"rating_rapid": 1521,
 		"rating_blitz": 1497
 	},
 	{
@@ -13714,7 +13731,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1511,
+		"rating_standard": 1510,
 		"rating_rapid": 1519,
 		"rating_blitz": null
 	},
@@ -14535,6 +14552,23 @@
 		"rating_blitz": 1509
 	},
 	{
+		"fideid": 8123039,
+		"name": "Jameel Al Shqairat",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": 1487,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 8120536,
 		"name": "Ward Odeh",
 		"country": "JOR",
@@ -14550,23 +14584,6 @@
 		"rating_standard": 1486,
 		"rating_rapid": 1562,
 		"rating_blitz": 1476
-	},
-	{
-		"fideid": 8132046,
-		"name": "ABD-AL-QADER AMRO",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1485,
-		"rating_rapid": 1495,
-		"rating_blitz": 1480
 	},
 	{
 		"fideid": 8110824,
@@ -14637,8 +14654,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8114919,
-		"name": "Talia, Helal",
+		"fideid": 8125384,
+		"name": "Seema Tell",
 		"country": "JOR",
 		"sex": "F",
 		"title": "",
@@ -14647,11 +14664,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2014,
+		"birthday": 2012,
 		"flag": "w",
-		"rating_standard": 1484,
-		"rating_rapid": 1531,
-		"rating_blitz": 1607
+		"rating_standard": 1485,
+		"rating_rapid": 1490,
+		"rating_blitz": 1426
 	},
 	{
 		"fideid": 8103089,
@@ -14871,24 +14888,7 @@
 		"birthday": 1992,
 		"flag": "",
 		"rating_standard": 1473,
-		"rating_rapid": 1436,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 8124825,
-		"name": "Khaled Alsqoor",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1472,
-		"rating_rapid": null,
+		"rating_rapid": 1437,
 		"rating_blitz": null
 	},
 	{
@@ -14905,6 +14905,23 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1472,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 8124825,
+		"name": "Khaled Alsqoor",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1471,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -14958,6 +14975,23 @@
 		"rating_standard": 1469,
 		"rating_rapid": null,
 		"rating_blitz": 1527
+	},
+	{
+		"fideid": 8127000,
+		"name": "Mohammad Zakarneh",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": 1469,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 8126500,
@@ -15025,7 +15059,7 @@
 		"flag": "",
 		"rating_standard": 1466,
 		"rating_rapid": 1516,
-		"rating_blitz": 1590
+		"rating_blitz": 1591
 	},
 	{
 		"fideid": 8116520,
@@ -15062,23 +15096,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8135894,
-		"name": "Hassan, Abdulrehman",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1464,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8126887,
 		"name": "Mohammad Atawneh",
 		"country": "JOR",
@@ -15096,25 +15113,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8128120,
-		"name": "RASHEd ALSHAER",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1463,
-		"rating_rapid": 1629,
-		"rating_blitz": 1510
-	},
-	{
-		"fideid": 8113300,
-		"name": "Sama, Alrshaidat",
+		"fideid": 8114919,
+		"name": "Talia, Helal",
 		"country": "JOR",
 		"sex": "F",
 		"title": "",
@@ -15123,11 +15123,28 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2014,
 		"flag": "w",
+		"rating_standard": 1464,
+		"rating_rapid": 1531,
+		"rating_blitz": 1607
+	},
+	{
+		"fideid": 8135894,
+		"name": "Hassan, Abdulrehman",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
 		"rating_standard": 1463,
-		"rating_rapid": 1550,
-		"rating_blitz": 1613
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 8129118,
@@ -15145,6 +15162,23 @@
 		"rating_standard": 1462,
 		"rating_rapid": 1526,
 		"rating_blitz": 1587
+	},
+	{
+		"fideid": 8128120,
+		"name": "RASHEd ALSHAER",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1462,
+		"rating_rapid": 1629,
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 8115028,
@@ -15215,6 +15249,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8113300,
+		"name": "Sama, Alrshaidat",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1460,
+		"rating_rapid": 1550,
+		"rating_blitz": 1613
+	},
+	{
 		"fideid": 8112037,
 		"name": "Zeyad, Hijaz",
 		"country": "JOR",
@@ -15228,23 +15279,6 @@
 		"birthday": 1971,
 		"flag": "i",
 		"rating_standard": 1460,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 8123039,
-		"name": "Jameel Al Shqairat",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": 1459,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -15317,6 +15351,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8132666,
+		"name": "Mohammad, Alsalal",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1455,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 8113246,
 		"name": "Mashoor, Alkloub",
 		"country": "JOR",
@@ -15349,23 +15400,6 @@
 		"rating_standard": 1454,
 		"rating_rapid": null,
 		"rating_blitz": 1591
-	},
-	{
-		"fideid": 8132666,
-		"name": "Mohammad, Alsalal",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1454,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 8136602,
@@ -15419,23 +15453,6 @@
 		"rating_blitz": 1436
 	},
 	{
-		"fideid": 8125384,
-		"name": "Seema Tell",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1451,
-		"rating_rapid": 1488,
-		"rating_blitz": 1429
-	},
-	{
 		"fideid": 8112312,
 		"name": "Gaith Kandah",
 		"country": "JOR",
@@ -15453,23 +15470,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8136823,
-		"name": "Al-Fukha, Jad",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1449,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8126771,
 		"name": "Montaser Asad",
 		"country": "JOR",
@@ -15483,6 +15483,23 @@
 		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": 1449,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 8136823,
+		"name": "Al-Fukha, Jad",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1448,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -15517,7 +15534,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1447,
-		"rating_rapid": 1475,
+		"rating_rapid": 1476,
 		"rating_blitz": null
 	},
 	{
@@ -15589,6 +15606,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 8120544,
+		"name": "Sara Odeh",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1445,
+		"rating_rapid": 1453,
+		"rating_blitz": 1472
+	},
+	{
 		"fideid": 8132526,
 		"name": "Sadad Alhabahbeh",
 		"country": "JOR",
@@ -15601,7 +15635,7 @@
 		"k": 40,
 		"birthday": 2009,
 		"flag": "i",
-		"rating_standard": 1445,
+		"rating_standard": 1443,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -15759,23 +15793,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8128138,
-		"name": "ZENAH ALSHAER",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1438,
-		"rating_rapid": null,
-		"rating_blitz": 1431
-	},
-	{
 		"fideid": 8113572,
 		"name": "Husam, Alfaqeh",
 		"country": "JOR",
@@ -15805,23 +15822,6 @@
 		"k": 40,
 		"birthday": 1991,
 		"flag": "i",
-		"rating_standard": 1436,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 8116580,
-		"name": "Haitham Al-Kayed",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
 		"rating_standard": 1436,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -15861,8 +15861,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8136912,
-		"name": "Obeidat, Abdallah",
+		"fideid": 8116580,
+		"name": "Haitham Al-Kayed",
 		"country": "JOR",
 		"sex": "M",
 		"title": "",
@@ -15871,10 +15871,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1435,
-		"rating_rapid": 1452,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -15926,6 +15926,23 @@
 		"flag": "i",
 		"rating_standard": 1434,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 8136912,
+		"name": "Obeidat, Abdallah",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1432,
+		"rating_rapid": 1450,
 		"rating_blitz": null
 	},
 	{
@@ -16099,23 +16116,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8120544,
-		"name": "Sara Odeh",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1426,
-		"rating_rapid": 1453,
-		"rating_blitz": 1472
-	},
-	{
 		"fideid": 8105340,
 		"name": "Alkteeshat, Badrya",
 		"country": "JOR",
@@ -16201,8 +16201,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8122466,
-		"name": "Saed Alnabelsi",
+		"fideid": 8124388,
+		"name": "Sanad natour",
 		"country": "JOR",
 		"sex": "M",
 		"title": "",
@@ -16211,9 +16211,9 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1997,
+		"birthday": 2012,
 		"flag": "i",
-		"rating_standard": 1424,
+		"rating_standard": 1425,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -16230,9 +16230,26 @@
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
-		"rating_standard": 1423,
+		"rating_standard": 1424,
 		"rating_rapid": 1423,
 		"rating_blitz": 1412
+	},
+	{
+		"fideid": 8110271,
+		"name": "Samer, Hamid",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": 1424,
+		"rating_rapid": 1417,
+		"rating_blitz": 1449
 	},
 	{
 		"fideid": 8121788,
@@ -16252,23 +16269,6 @@
 		"rating_blitz": 1575
 	},
 	{
-		"fideid": 8127581,
-		"name": "Mahmoud abuhilaleh",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1422,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 8131589,
 		"name": "Duraid, Ahmad",
 		"country": "JOR",
@@ -16281,6 +16281,23 @@
 		"k": 40,
 		"birthday": 1964,
 		"flag": "i",
+		"rating_standard": 1421,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 8127581,
+		"name": "Mahmoud abuhilaleh",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
 		"rating_standard": 1421,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -16351,6 +16368,23 @@
 		"flag": "i",
 		"rating_standard": 1420,
 		"rating_rapid": 1411,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 8122466,
+		"name": "Saed Alnabelsi",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "i",
+		"rating_standard": 1419,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -16439,6 +16473,23 @@
 		"rating_blitz": 1439
 	},
 	{
+		"fideid": 8132046,
+		"name": "ABD-AL-QADER AMRO",
+		"country": "JOR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1415,
+		"rating_rapid": 1431,
+		"rating_blitz": 1482
+	},
+	{
 		"fideid": 8131902,
 		"name": "Mohammad, Bayyari",
 		"country": "JOR",
@@ -16456,23 +16507,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 8110271,
-		"name": "Samer, Hamid",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": 1413,
-		"rating_rapid": 1417,
-		"rating_blitz": 1449
-	},
-	{
 		"fideid": 8133298,
 		"name": "Baha Aldeen, Alamoush",
 		"country": "JOR",
@@ -16488,23 +16522,6 @@
 		"rating_standard": 1412,
 		"rating_rapid": 1461,
 		"rating_blitz": 1562
-	},
-	{
-		"fideid": 8123144,
-		"name": "Masa Weshah",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1411,
-		"rating_rapid": 1442,
-		"rating_blitz": 1472
 	},
 	{
 		"fideid": 8129878,
@@ -16706,9 +16723,26 @@
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1401,
+		"rating_standard": 1402,
 		"rating_rapid": null,
 		"rating_blitz": 1446
+	},
+	{
+		"fideid": 8123080,
+		"name": "Maya Abdelrazeq",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1401,
+		"rating_rapid": null,
+		"rating_blitz": 1506
 	},
 	{
 		"fideid": 8126330,
@@ -16726,23 +16760,6 @@
 		"rating_standard": 1401,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 8123080,
-		"name": "Maya Abdelrazeq",
-		"country": "JOR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1400,
-		"rating_rapid": null,
-		"rating_blitz": 1506
 	},
 	{
 		"fideid": 8128561,
@@ -16792,7 +16809,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1550,
+		"rating_rapid": 1551,
 		"rating_blitz": null
 	},
 	{
@@ -16912,7 +16929,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1649,
-		"rating_blitz": 1651
+		"rating_blitz": 1652
 	},
 	{
 		"fideid": 8137536,
@@ -17064,7 +17081,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1716,
+		"rating_rapid": 1717,
 		"rating_blitz": null
 	},
 	{
@@ -17132,7 +17149,7 @@
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1563,
+		"rating_rapid": 1571,
 		"rating_blitz": null
 	},
 	{
@@ -17489,7 +17506,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1444,
+		"rating_rapid": 1445,
 		"rating_blitz": null
 	},
 	{
@@ -17965,7 +17982,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1471,
+		"rating_rapid": 1472,
 		"rating_blitz": 1468
 	},
 	{
@@ -18135,7 +18152,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1496,
+		"rating_rapid": 1497,
 		"rating_blitz": null
 	},
 	{
@@ -18288,7 +18305,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1412,
+		"rating_rapid": 1411,
 		"rating_blitz": null
 	},
 	{
@@ -18714,7 +18731,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1578,
-		"rating_blitz": 1627
+		"rating_blitz": 1629
 	},
 	{
 		"fideid": 8132240,
@@ -18799,7 +18816,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1568,
-		"rating_blitz": 1572
+		"rating_blitz": 1587
 	},
 	{
 		"fideid": 8133450,
@@ -18832,7 +18849,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1430,
+		"rating_rapid": 1429,
 		"rating_blitz": 1505
 	},
 	{
@@ -19070,7 +19087,7 @@
 		"birthday": 2013,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1450,
+		"rating_rapid": 1443,
 		"rating_blitz": null
 	},
 	{
@@ -19292,7 +19309,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1569,
-		"rating_blitz": 1552
+		"rating_blitz": 1547
 	},
 	{
 		"fideid": 8130647,
@@ -19462,23 +19479,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1510,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 8134286,
-		"name": "NASER, SEIF",
-		"country": "JOR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1604,
 		"rating_blitz": null
 	},
 	{
@@ -19904,7 +19904,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1416,
-		"rating_blitz": 1431
+		"rating_blitz": 1444
 	},
 	{
 		"fideid": 8130566,
@@ -19937,7 +19937,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1452,
+		"rating_rapid": 1451,
 		"rating_blitz": null
 	},
 	{
@@ -20057,7 +20057,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1455,
-		"rating_blitz": 1495
+		"rating_blitz": 1491
 	},
 	{
 		"fideid": 8132399,
@@ -20295,7 +20295,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1664
+		"rating_blitz": 1662
 	},
 	{
 		"fideid": 8136483,
@@ -20312,7 +20312,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1502
+		"rating_blitz": 1501
 	},
 	{
 		"fideid": 8107890,
@@ -20380,7 +20380,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1917
+		"rating_blitz": 1918
 	},
 	{
 		"fideid": 8103020,
@@ -20482,7 +20482,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1714
+		"rating_blitz": 1715
 	},
 	{
 		"fideid": 8137390,
@@ -20516,7 +20516,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1602
+		"rating_blitz": 1604
 	},
 	{
 		"fideid": 8137137,
@@ -20584,7 +20584,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1664
+		"rating_blitz": 1667
 	},
 	{
 		"fideid": 8133182,
@@ -20907,7 +20907,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1436
+		"rating_blitz": 1435
 	},
 	{
 		"fideid": 8130353,
@@ -20975,7 +20975,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1564
+		"rating_blitz": 1565
 	},
 	{
 		"fideid": 8133727,
@@ -21349,7 +21349,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1447
+		"rating_blitz": 1445
 	},
 	{
 		"fideid": 8112134,
@@ -21434,7 +21434,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1402
+		"rating_blitz": 1403
 	},
 	{
 		"fideid": 8133204,
@@ -21451,7 +21451,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1552
+		"rating_blitz": 1553
 	},
 	{
 		"fideid": 8115079,
@@ -21689,7 +21689,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1487
+		"rating_blitz": 1488
 	},
 	{
 		"fideid": 8134502,
@@ -21910,7 +21910,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1774
+		"rating_blitz": 1776
 	},
 	{
 		"fideid": 8108005,
@@ -22064,5 +22064,22 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1506
+	},
+	{
+		"fideid": 8128138,
+		"name": "ZENAH ALSHAER",
+		"country": "JOR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1431
 	}
 ]
