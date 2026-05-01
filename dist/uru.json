@@ -8,7 +8,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 10,
 		"birthday": 1987,
 		"flag": "",
@@ -25,11 +25,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 10,
 		"k": 10,
 		"birthday": 1973,
 		"flag": "",
-		"rating_standard": 2448,
+		"rating_standard": 2422,
 		"rating_rapid": 2416,
 		"rating_blitz": 2396
 	},
@@ -42,13 +42,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 10,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 2402,
 		"rating_rapid": 2380,
-		"rating_blitz": 2329
+		"rating_blitz": 2297
 	},
 	{
 		"fideid": 104019,
@@ -91,13 +91,13 @@
 		"sex": "M",
 		"title": "IM",
 		"w_title": "",
-		"o_title": "SI",
+		"o_title": "SI,FT",
 		"foa_title": "",
 		"games": 9,
 		"k": 10,
 		"birthday": 1965,
 		"flag": "",
-		"rating_standard": 2317,
+		"rating_standard": 2310,
 		"rating_rapid": 2443,
 		"rating_blitz": 2500
 	},
@@ -144,11 +144,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1986,
-		"flag": "i",
-		"rating_standard": 2269,
+		"flag": "",
+		"rating_standard": 2287,
 		"rating_rapid": 2260,
 		"rating_blitz": 2313
 	},
@@ -170,23 +170,6 @@
 		"rating_blitz": 2231
 	},
 	{
-		"fideid": 3002179,
-		"name": "Carbone, Diego",
-		"country": "URU",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "",
-		"rating_standard": 2255,
-		"rating_rapid": 2237,
-		"rating_blitz": 2251
-	},
-	{
 		"fideid": 3000591,
 		"name": "Rodriguez, Santiago",
 		"country": "URU",
@@ -204,21 +187,21 @@
 		"rating_blitz": 2249
 	},
 	{
-		"fideid": 3000508,
-		"name": "Larrea, Manuel",
+		"fideid": 3002179,
+		"name": "Carbone, Diego",
 		"country": "URU",
 		"sex": "M",
 		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 9,
 		"k": 20,
-		"birthday": 1980,
+		"birthday": 1992,
 		"flag": "",
-		"rating_standard": 2242,
-		"rating_rapid": 2199,
-		"rating_blitz": 2139
+		"rating_standard": 2248,
+		"rating_rapid": 2237,
+		"rating_blitz": 2252
 	},
 	{
 		"fideid": 101710,
@@ -229,13 +212,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 16,
 		"k": 10,
 		"birthday": 1968,
 		"flag": "",
-		"rating_standard": 2232,
+		"rating_standard": 2245,
 		"rating_rapid": 2141,
 		"rating_blitz": 2065
+	},
+	{
+		"fideid": 3000508,
+		"name": "Larrea, Manuel",
+		"country": "URU",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 2242,
+		"rating_rapid": 2199,
+		"rating_blitz": 2139
 	},
 	{
 		"fideid": 3000133,
@@ -263,13 +263,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 1992,
 		"flag": "",
-		"rating_standard": 2223,
+		"rating_standard": 2224,
 		"rating_rapid": 2198,
-		"rating_blitz": 2191
+		"rating_blitz": 2229
 	},
 	{
 		"fideid": 3003035,
@@ -297,11 +297,11 @@
 		"w_title": "",
 		"o_title": "FT",
 		"foa_title": "",
-		"games": 4,
+		"games": 1,
 		"k": 10,
 		"birthday": 1959,
 		"flag": "",
-		"rating_standard": 2217,
+		"rating_standard": 2220,
 		"rating_rapid": 2212,
 		"rating_blitz": 2147
 	},
@@ -425,21 +425,38 @@
 		"rating_blitz": 2206
 	},
 	{
-		"fideid": 3000486,
-		"name": "Muniz, Rafael",
+		"fideid": 3000478,
+		"name": "Guerrero, Alvaro",
 		"country": "URU",
 		"sex": "M",
-		"title": "FM",
+		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 14,
 		"k": 20,
-		"birthday": 1976,
+		"birthday": 1971,
 		"flag": "",
-		"rating_standard": 2177,
-		"rating_rapid": 2266,
-		"rating_blitz": 2172
+		"rating_standard": 2174,
+		"rating_rapid": 2034,
+		"rating_blitz": 2015
+	},
+	{
+		"fideid": 3005178,
+		"name": "Dominguez, Facundo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 19,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 2173,
+		"rating_rapid": 2190,
+		"rating_blitz": 2276
 	},
 	{
 		"fideid": 3000184,
@@ -476,23 +493,6 @@
 		"rating_blitz": 2123
 	},
 	{
-		"fideid": 3000478,
-		"name": "Guerrero, Alvaro",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 14,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "",
-		"rating_standard": 2165,
-		"rating_rapid": 2034,
-		"rating_blitz": 2015
-	},
-	{
 		"fideid": 3000990,
 		"name": "Viera, Emilio",
 		"country": "URU",
@@ -510,21 +510,21 @@
 		"rating_blitz": 2161
 	},
 	{
-		"fideid": 3005178,
-		"name": "Dominguez, Facundo",
+		"fideid": 3000486,
+		"name": "Muniz, Rafael",
 		"country": "URU",
 		"sex": "M",
-		"title": "",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
 		"games": 5,
 		"k": 20,
-		"birthday": 1998,
+		"birthday": 1976,
 		"flag": "",
-		"rating_standard": 2161,
-		"rating_rapid": 2190,
-		"rating_blitz": 2290
+		"rating_standard": 2160,
+		"rating_rapid": 2266,
+		"rating_blitz": 2182
 	},
 	{
 		"fideid": 3000516,
@@ -626,7 +626,24 @@
 		"flag": "i",
 		"rating_standard": 2133,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 2131
+	},
+	{
+		"fideid": 3009530,
+		"name": "Kulik, Nicolas",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2126,
+		"rating_rapid": 2206,
+		"rating_blitz": 2067
 	},
 	{
 		"fideid": 3000338,
@@ -671,12 +688,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1959,
 		"flag": "",
 		"rating_standard": 2117,
-		"rating_rapid": 2064,
+		"rating_rapid": 2084,
 		"rating_blitz": 1997
 	},
 	{
@@ -697,23 +714,6 @@
 		"rating_blitz": 2040
 	},
 	{
-		"fideid": 3009530,
-		"name": "Kulik, Nicolas",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 14,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2108,
-		"rating_rapid": 2206,
-		"rating_blitz": 2068
-	},
-	{
 		"fideid": 3008983,
 		"name": "Caitano, Martin Joel",
 		"country": "URU",
@@ -722,7 +722,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
@@ -739,7 +739,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1978,
 		"flag": "",
@@ -799,21 +799,21 @@
 		"rating_blitz": 2075
 	},
 	{
-		"fideid": 3000400,
-		"name": "Curi, Gabriel",
+		"fideid": 3011275,
+		"name": "Elena, Eduardo",
 		"country": "URU",
 		"sex": "M",
-		"title": "FM",
+		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 23,
 		"k": 20,
-		"birthday": 1967,
+		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 2088,
-		"rating_rapid": 2141,
-		"rating_blitz": 2126
+		"rating_rapid": 1977,
+		"rating_blitz": 2057
 	},
 	{
 		"fideid": 3001822,
@@ -918,6 +918,23 @@
 		"rating_blitz": 2007
 	},
 	{
+		"fideid": 3000400,
+		"name": "Curi, Gabriel",
+		"country": "URU",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1967,
+		"flag": "",
+		"rating_standard": 2078,
+		"rating_rapid": 2141,
+		"rating_blitz": 2126
+	},
+	{
 		"fideid": 3000532,
 		"name": "Genta, Alejandro",
 		"country": "URU",
@@ -929,7 +946,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1968,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2078,
 		"rating_rapid": 2071,
 		"rating_blitz": 1981
@@ -1011,13 +1028,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": 2069,
-		"rating_rapid": 2161,
-		"rating_blitz": 1980
+		"rating_rapid": 2154,
+		"rating_blitz": 2022
 	},
 	{
 		"fideid": 3001199,
@@ -1028,7 +1045,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 1992,
 		"flag": "",
@@ -1122,40 +1139,6 @@
 		"rating_blitz": 2099
 	},
 	{
-		"fideid": 3010228,
-		"name": "Cayetano, Juan",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 2058,
-		"rating_rapid": 1968,
-		"rating_blitz": 1948
-	},
-	{
-		"fideid": 3000419,
-		"name": "Saralegui, Mario",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1949,
-		"flag": "",
-		"rating_standard": 2057,
-		"rating_rapid": 2028,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3000974,
 		"name": "Tregarthen, Emiliano",
 		"country": "URU",
@@ -1187,7 +1170,7 @@
 		"flag": "i",
 		"rating_standard": 2051,
 		"rating_rapid": 2111,
-		"rating_blitz": 2078
+		"rating_blitz": 2047
 	},
 	{
 		"fideid": 3001474,
@@ -1207,21 +1190,21 @@
 		"rating_blitz": 2011
 	},
 	{
-		"fideid": 3001245,
-		"name": "Soto, Nicolas",
+		"fideid": 3015289,
+		"name": "Martello, Benjamin",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 16,
 		"k": 20,
-		"birthday": 1982,
+		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 2047,
-		"rating_rapid": 1992,
-		"rating_blitz": 1967
+		"rating_standard": 2049,
+		"rating_rapid": 2083,
+		"rating_blitz": 1969
 	},
 	{
 		"fideid": 3001342,
@@ -1258,6 +1241,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3001245,
+		"name": "Soto, Nicolas",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 2040,
+		"rating_rapid": 1992,
+		"rating_blitz": 1967
+	},
+	{
 		"fideid": 3001644,
 		"name": "Calvo, Marcos",
 		"country": "URU",
@@ -1275,23 +1275,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3009785,
-		"name": "Manteiga, Franco",
-		"country": "URU",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 2039,
-		"rating_rapid": 2078,
-		"rating_blitz": 1955
-	},
-	{
 		"fideid": 3000362,
 		"name": "Bustelo, Tabare",
 		"country": "URU",
@@ -1305,25 +1288,25 @@
 		"birthday": 1963,
 		"flag": "",
 		"rating_standard": 2037,
-		"rating_rapid": 2091,
-		"rating_blitz": 2032
+		"rating_rapid": 2068,
+		"rating_blitz": 2011
 	},
 	{
-		"fideid": 3011275,
-		"name": "Elena, Eduardo",
+		"fideid": 3000419,
+		"name": "Saralegui, Mario",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 19,
 		"k": 20,
-		"birthday": 2002,
+		"birthday": 1949,
 		"flag": "",
 		"rating_standard": 2037,
-		"rating_rapid": 1977,
-		"rating_blitz": 2057
+		"rating_rapid": 2028,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3004511,
@@ -1341,6 +1324,23 @@
 		"rating_standard": 2034,
 		"rating_rapid": 2096,
 		"rating_blitz": 2012
+	},
+	{
+		"fideid": 3010228,
+		"name": "Cayetano, Juan",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 2034,
+		"rating_rapid": 1983,
+		"rating_blitz": 1978
 	},
 	{
 		"fideid": 3007448,
@@ -1377,6 +1377,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3019519,
+		"name": "Varela, Mateo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2034,
+		"rating_rapid": 1906,
+		"rating_blitz": 1859
+	},
+	{
 		"fideid": 3002586,
 		"name": "Decuadro, Sebastian",
 		"country": "URU",
@@ -1391,7 +1408,7 @@
 		"flag": "i",
 		"rating_standard": 2027,
 		"rating_rapid": 2004,
-		"rating_blitz": 2013
+		"rating_blitz": 1957
 	},
 	{
 		"fideid": 3005160,
@@ -1426,6 +1443,23 @@
 		"rating_standard": 2027,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3009785,
+		"name": "Manteiga, Franco",
+		"country": "URU",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 2027,
+		"rating_rapid": 2078,
+		"rating_blitz": 1927
 	},
 	{
 		"fideid": 3000559,
@@ -1504,13 +1538,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": 2021,
 		"rating_rapid": 2083,
-		"rating_blitz": 2054
+		"rating_blitz": 2089
 	},
 	{
 		"fideid": 3003108,
@@ -1521,7 +1555,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "",
@@ -1606,7 +1640,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1982,
 		"flag": "",
@@ -1632,38 +1666,21 @@
 		"rating_blitz": 1985
 	},
 	{
-		"fideid": 3019519,
-		"name": "Varela, Mateo",
+		"fideid": 3020223,
+		"name": "Fauci, Bruno",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 2007,
+		"games": 16,
+		"k": 40,
+		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 2009,
-		"rating_rapid": 1906,
-		"rating_blitz": 1885
-	},
-	{
-		"fideid": 3015289,
-		"name": "Martello, Benjamin",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2006,
-		"rating_rapid": 2083,
-		"rating_blitz": 1979
+		"rating_standard": 2002,
+		"rating_rapid": 1871,
+		"rating_blitz": 1810
 	},
 	{
 		"fideid": 3007170,
@@ -1759,13 +1776,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": 1991,
 		"rating_rapid": 1955,
-		"rating_blitz": 1986
+		"rating_blitz": 1956
 	},
 	{
 		"fideid": 3000192,
@@ -1785,21 +1802,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3001768,
-		"name": "Muniz, Gonzalo",
+		"fideid": 3017141,
+		"name": "Errazola, Mauricio",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
+		"foa_title": "",
+		"games": 4,
 		"k": 20,
-		"birthday": 1990,
+		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1989,
-		"rating_rapid": 2002,
-		"rating_blitz": 1986
+		"rating_rapid": 1941,
+		"rating_blitz": 2009
 	},
 	{
 		"fideid": 3000206,
@@ -1861,7 +1878,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1999,
 		"flag": "",
@@ -1887,6 +1904,23 @@
 		"rating_blitz": 2012
 	},
 	{
+		"fideid": 3034020,
+		"name": "Canias, Federico",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1983,
+		"rating_rapid": 2087,
+		"rating_blitz": 2096
+	},
+	{
 		"fideid": 3001750,
 		"name": "Lanzilotta, Marcelo",
 		"country": "URU",
@@ -1901,7 +1935,7 @@
 		"flag": "",
 		"rating_standard": 1983,
 		"rating_rapid": 1967,
-		"rating_blitz": 1895
+		"rating_blitz": 1869
 	},
 	{
 		"fideid": 3005690,
@@ -1929,30 +1963,13 @@
 		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "w",
 		"rating_standard": 1980,
 		"rating_rapid": 1929,
 		"rating_blitz": 1993
-	},
-	{
-		"fideid": 3017141,
-		"name": "Errazola, Mauricio",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1978,
-		"rating_rapid": 1927,
-		"rating_blitz": 1988
 	},
 	{
 		"fideid": 3000460,
@@ -2065,13 +2082,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1951,
 		"flag": "",
 		"rating_standard": 1969,
 		"rating_rapid": 2042,
-		"rating_blitz": 1907
+		"rating_blitz": 1913
 	},
 	{
 		"fideid": 3002748,
@@ -2122,7 +2139,7 @@
 		"flag": "i",
 		"rating_standard": 1965,
 		"rating_rapid": 1955,
-		"rating_blitz": 2005
+		"rating_blitz": 1962
 	},
 	{
 		"fideid": 3001105,
@@ -2176,6 +2193,40 @@
 		"rating_blitz": 1947
 	},
 	{
+		"fideid": 3009742,
+		"name": "Miller, Ariel",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1961,
+		"rating_rapid": 2000,
+		"rating_blitz": 1949
+	},
+	{
+		"fideid": 3001768,
+		"name": "Muniz, Gonzalo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 5,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 1959,
+		"rating_rapid": 2002,
+		"rating_blitz": 2011
+	},
+	{
 		"fideid": 3006549,
 		"name": "Berlingeri, Hugo",
 		"country": "URU",
@@ -2193,6 +2244,23 @@
 		"rating_blitz": 1902
 	},
 	{
+		"fideid": 3009394,
+		"name": "Lanzilotta, Filippo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1956,
+		"rating_rapid": 1825,
+		"rating_blitz": 1827
+	},
+	{
 		"fideid": 3007693,
 		"name": "Ressia, Lorenzo",
 		"country": "URU",
@@ -2207,58 +2275,7 @@
 		"flag": "",
 		"rating_standard": 1954,
 		"rating_rapid": 1950,
-		"rating_blitz": 1896
-	},
-	{
-		"fideid": 3009742,
-		"name": "Miller, Ariel",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1953,
-		"rating_rapid": 2010,
-		"rating_blitz": 1957
-	},
-	{
-		"fideid": 3009394,
-		"name": "Lanzilotta, Filippo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1952,
-		"rating_rapid": 1825,
-		"rating_blitz": 1845
-	},
-	{
-		"fideid": 3020223,
-		"name": "Fauci, Bruno",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1950,
-		"rating_rapid": 1871,
-		"rating_blitz": 1697
+		"rating_blitz": 1894
 	},
 	{
 		"fideid": 3000796,
@@ -2276,23 +2293,6 @@
 		"rating_standard": 1950,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3013995,
-		"name": "Cardarelli, Leon",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1948,
-		"rating_rapid": 1946,
-		"rating_blitz": 1867
 	},
 	{
 		"fideid": 3001610,
@@ -2354,13 +2354,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": 1946,
-		"rating_rapid": 2001,
-		"rating_blitz": 1939
+		"rating_rapid": 1999,
+		"rating_blitz": 1945
 	},
 	{
 		"fideid": 3002004,
@@ -2395,23 +2395,6 @@
 		"rating_standard": 1945,
 		"rating_rapid": 1854,
 		"rating_blitz": 1918
-	},
-	{
-		"fideid": 3034020,
-		"name": "Canias, Federico",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 10,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1945,
-		"rating_rapid": 2078,
-		"rating_blitz": 2043
 	},
 	{
 		"fideid": 3035336,
@@ -2516,23 +2499,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3002616,
-		"name": "Benitez, Matias",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1939,
-		"rating_rapid": 1937,
-		"rating_blitz": 1952
-	},
-	{
 		"fideid": 3004171,
 		"name": "Slater, George",
 		"country": "URU",
@@ -2609,7 +2575,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1982,
 		"flag": "",
@@ -2650,6 +2616,23 @@
 		"rating_standard": 1929,
 		"rating_rapid": 1911,
 		"rating_blitz": 1941
+	},
+	{
+		"fideid": 3012590,
+		"name": "Alvarez, Mateo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1925,
+		"rating_rapid": 1895,
+		"rating_blitz": 1911
 	},
 	{
 		"fideid": 3003507,
@@ -2767,8 +2750,8 @@
 		"birthday": 1962,
 		"flag": "",
 		"rating_standard": 1920,
-		"rating_rapid": 2030,
-		"rating_blitz": 1835
+		"rating_rapid": 2018,
+		"rating_blitz": 1873
 	},
 	{
 		"fideid": 3002918,
@@ -2941,6 +2924,23 @@
 		"rating_blitz": 1893
 	},
 	{
+		"fideid": 3013995,
+		"name": "Cardarelli, Leon",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1911,
+		"rating_rapid": 1946,
+		"rating_blitz": 1867
+	},
+	{
 		"fideid": 3007120,
 		"name": "Montoli, Sebastian",
 		"country": "URU",
@@ -2986,7 +2986,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1958,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1910,
 		"rating_rapid": null,
 		"rating_blitz": 1947
@@ -3000,13 +3000,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1910,
 		"rating_rapid": 1836,
-		"rating_blitz": 1775
+		"rating_blitz": 1754
 	},
 	{
 		"fideid": 3004325,
@@ -3017,7 +3017,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1980,
 		"flag": "",
@@ -3102,7 +3102,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -3192,7 +3192,7 @@
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": 1901,
-		"rating_rapid": 1984,
+		"rating_rapid": 1989,
 		"rating_blitz": 1883
 	},
 	{
@@ -3281,23 +3281,6 @@
 		"rating_blitz": 1912
 	},
 	{
-		"fideid": 3012590,
-		"name": "Alvarez, Mateo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1897,
-		"rating_rapid": 1895,
-		"rating_blitz": 1911
-	},
-	{
 		"fideid": 3014096,
 		"name": "Nicolas, Sergio",
 		"country": "URU",
@@ -3332,6 +3315,23 @@
 		"rating_blitz": 1731
 	},
 	{
+		"fideid": 3002616,
+		"name": "Benitez, Matias",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1896,
+		"rating_rapid": 1937,
+		"rating_blitz": 1952
+	},
+	{
 		"fideid": 3001504,
 		"name": "Ruggiero, Alvaro",
 		"country": "URU",
@@ -3345,7 +3345,7 @@
 		"birthday": 1974,
 		"flag": "i",
 		"rating_standard": 1896,
-		"rating_rapid": 1915,
+		"rating_rapid": 1899,
 		"rating_blitz": 1907
 	},
 	{
@@ -3479,7 +3479,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1889,
 		"rating_rapid": 1950,
 		"rating_blitz": 1946
@@ -3655,23 +3655,6 @@
 		"rating_blitz": 1886
 	},
 	{
-		"fideid": 3005062,
-		"name": "Rodriguez Farias, Eduardo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "AO",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1974,
-		"flag": "",
-		"rating_standard": 1881,
-		"rating_rapid": 1956,
-		"rating_blitz": 1912
-	},
-	{
 		"fideid": 3015831,
 		"name": "Soto, Joaquin",
 		"country": "URU",
@@ -3799,7 +3782,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1947,
 		"flag": "",
@@ -3816,12 +3799,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": 1876,
-		"rating_rapid": 1894,
+		"rating_rapid": 1874,
 		"rating_blitz": 1930
 	},
 	{
@@ -3842,6 +3825,40 @@
 		"rating_blitz": 1831
 	},
 	{
+		"fideid": 3014738,
+		"name": "Flores Pedreira, Guillermo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1874,
+		"rating_rapid": 1846,
+		"rating_blitz": 1850
+	},
+	{
+		"fideid": 3014800,
+		"name": "Espel, Luis",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": 1873,
+		"rating_rapid": 1882,
+		"rating_blitz": 1857
+	},
+	{
 		"fideid": 3002055,
 		"name": "Casas, Nicolas",
 		"country": "URU",
@@ -3859,23 +3876,6 @@
 		"rating_blitz": 1911
 	},
 	{
-		"fideid": 3014800,
-		"name": "Espel, Luis",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": 1872,
-		"rating_rapid": 1882,
-		"rating_blitz": 1857
-	},
-	{
 		"fideid": 3004147,
 		"name": "Quevedo, Andreina",
 		"country": "URU",
@@ -3884,11 +3884,11 @@
 		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 8,
 		"k": 20,
 		"birthday": 1999,
 		"flag": "w",
-		"rating_standard": 1872,
+		"rating_standard": 1871,
 		"rating_rapid": 1853,
 		"rating_blitz": 1836
 	},
@@ -3918,7 +3918,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1974,
 		"flag": "",
@@ -3972,7 +3972,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1982,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1869,
 		"rating_rapid": 1936,
 		"rating_blitz": 1828
@@ -3991,8 +3991,8 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 1869,
-		"rating_rapid": 1973,
-		"rating_blitz": 1847
+		"rating_rapid": 1944,
+		"rating_blitz": 1830
 	},
 	{
 		"fideid": 3000443,
@@ -4046,6 +4046,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3009572,
+		"name": "Fabra, Nahiara",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "w",
+		"rating_standard": 1863,
+		"rating_rapid": 1832,
+		"rating_blitz": 1840
+	},
+	{
 		"fideid": 3019357,
 		"name": "Perez, Djavan",
 		"country": "URU",
@@ -4097,23 +4114,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3000575,
-		"name": "Silva Rosas, Natalia",
-		"country": "URU",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "w",
-		"rating_standard": 1861,
-		"rating_rapid": 1914,
-		"rating_blitz": 1778
-	},
-	{
 		"fideid": 3015963,
 		"name": "Aguirre, Romin",
 		"country": "URU",
@@ -4122,7 +4122,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
@@ -4230,7 +4230,7 @@
 		"flag": "",
 		"rating_standard": 1856,
 		"rating_rapid": 1949,
-		"rating_blitz": 1858
+		"rating_blitz": 1870
 	},
 	{
 		"fideid": 3006239,
@@ -4248,6 +4248,23 @@
 		"rating_standard": 1856,
 		"rating_rapid": 1865,
 		"rating_blitz": 1843
+	},
+	{
+		"fideid": 3022919,
+		"name": "Silva, Agustina",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1856,
+		"rating_rapid": 1852,
+		"rating_blitz": 1622
 	},
 	{
 		"fideid": 3000958,
@@ -4301,21 +4318,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3022919,
-		"name": "Silva, Agustina",
+		"fideid": 3005062,
+		"name": "Rodriguez Farias, Eduardo",
 		"country": "URU",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "AO",
 		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
+		"games": 3,
+		"k": 20,
+		"birthday": 1974,
+		"flag": "",
 		"rating_standard": 1852,
-		"rating_rapid": 1826,
-		"rating_blitz": 1622
+		"rating_rapid": 1961,
+		"rating_blitz": 1930
 	},
 	{
 		"fideid": 3002080,
@@ -4333,40 +4350,6 @@
 		"rating_standard": 1851,
 		"rating_rapid": null,
 		"rating_blitz": 1745
-	},
-	{
-		"fideid": 3014738,
-		"name": "Flores Pedreira, Guillermo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1851,
-		"rating_rapid": 1846,
-		"rating_blitz": 1850
-	},
-	{
-		"fideid": 3016919,
-		"name": "Rubinstein, Eloi",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1851,
-		"rating_rapid": 1792,
-		"rating_blitz": 1755
 	},
 	{
 		"fideid": 3007502,
@@ -4414,7 +4397,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1996,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1850,
 		"rating_rapid": 1847,
 		"rating_blitz": 1822
@@ -4518,8 +4501,8 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1846,
-		"rating_rapid": 1794,
-		"rating_blitz": 1741
+		"rating_rapid": 1814,
+		"rating_blitz": 1753
 	},
 	{
 		"fideid": 3004082,
@@ -4601,7 +4584,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1985,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1845,
 		"rating_rapid": 1833,
 		"rating_blitz": 1899
@@ -4637,7 +4620,7 @@
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": 1844,
-		"rating_rapid": 1865,
+		"rating_rapid": 1889,
 		"rating_blitz": 1872
 	},
 	{
@@ -4654,7 +4637,7 @@
 		"birthday": 2005,
 		"flag": "i",
 		"rating_standard": 1844,
-		"rating_rapid": 1923,
+		"rating_rapid": 1942,
 		"rating_blitz": null
 	},
 	{
@@ -4760,6 +4743,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3000575,
+		"name": "Silva Rosas, Natalia",
+		"country": "URU",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "w",
+		"rating_standard": 1840,
+		"rating_rapid": 1914,
+		"rating_blitz": 1778
+	},
+	{
 		"fideid": 3022900,
 		"name": "Silva, Alexandro",
 		"country": "URU",
@@ -4773,7 +4773,7 @@
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": 1840,
-		"rating_rapid": 1828,
+		"rating_rapid": 1813,
 		"rating_blitz": 1940
 	},
 	{
@@ -4839,7 +4839,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1838,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -4862,6 +4862,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3012980,
+		"name": "Galli, Lisandro",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1836,
+		"rating_rapid": 1820,
+		"rating_blitz": 1642
+	},
+	{
 		"fideid": 3001849,
 		"name": "Bertucci, Santiago",
 		"country": "URU",
@@ -4877,6 +4894,23 @@
 		"rating_standard": 1835,
 		"rating_rapid": 1871,
 		"rating_blitz": 1926
+	},
+	{
+		"fideid": 3018644,
+		"name": "Delgado, Nazareno",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1835,
+		"rating_rapid": 1712,
+		"rating_blitz": 1736
 	},
 	{
 		"fideid": 3007570,
@@ -4913,6 +4947,23 @@
 		"rating_blitz": 1760
 	},
 	{
+		"fideid": 3016919,
+		"name": "Rubinstein, Eloi",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1834,
+		"rating_rapid": 1792,
+		"rating_blitz": 1755
+	},
+	{
 		"fideid": 3009947,
 		"name": "Amaral, Francisco",
 		"country": "URU",
@@ -4938,7 +4989,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1958,
 		"flag": "",
@@ -4960,8 +5011,8 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1833,
-		"rating_rapid": 1826,
-		"rating_blitz": 1887
+		"rating_rapid": 1830,
+		"rating_blitz": 1881
 	},
 	{
 		"fideid": 3002896,
@@ -4995,7 +5046,7 @@
 		"flag": "",
 		"rating_standard": 1833,
 		"rating_rapid": 1801,
-		"rating_blitz": 1795
+		"rating_blitz": 1760
 	},
 	{
 		"fideid": 3008568,
@@ -5013,23 +5064,6 @@
 		"rating_standard": 1832,
 		"rating_rapid": 1836,
 		"rating_blitz": 1821
-	},
-	{
-		"fideid": 3024288,
-		"name": "Gorin, Fernando",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1831,
-		"rating_rapid": 1758,
-		"rating_blitz": 1822
 	},
 	{
 		"fideid": 3007189,
@@ -5083,6 +5117,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3024288,
+		"name": "Gorin, Fernando",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1829,
+		"rating_rapid": 1758,
+		"rating_blitz": 1822
+	},
+	{
+		"fideid": 3016692,
+		"name": "Diaz Delograsi, Francisco",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1827,
+		"rating_rapid": 1837,
+		"rating_blitz": 1851
+	},
+	{
 		"fideid": 171620,
 		"name": "Gadea, Fernando",
 		"country": "URU",
@@ -5108,12 +5176,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": 1827,
-		"rating_rapid": 1976,
+		"rating_rapid": 1963,
 		"rating_blitz": 1872
 	},
 	{
@@ -5151,40 +5219,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3018644,
-		"name": "Delgado, Nazareno",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1822,
-		"rating_rapid": 1712,
-		"rating_blitz": 1736
-	},
-	{
-		"fideid": 3016692,
-		"name": "Diaz Delograsi, Francisco",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1822,
-		"rating_rapid": 1837,
-		"rating_blitz": 1854
-	},
-	{
 		"fideid": 3006387,
 		"name": "Amorena, Joaquin",
 		"country": "URU",
@@ -5215,7 +5249,7 @@
 		"birthday": 1956,
 		"flag": "",
 		"rating_standard": 1821,
-		"rating_rapid": 1730,
+		"rating_rapid": 1694,
 		"rating_blitz": 1690
 	},
 	{
@@ -5346,7 +5380,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
@@ -5525,23 +5559,6 @@
 		"rating_blitz": 1813
 	},
 	{
-		"fideid": 3012980,
-		"name": "Galli, Lisandro",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1813,
-		"rating_rapid": 1812,
-		"rating_blitz": 1642
-	},
-	{
 		"fideid": 3008070,
 		"name": "Reseta, Miguel Angel",
 		"country": "URU",
@@ -5593,23 +5610,6 @@
 		"rating_blitz": 1903
 	},
 	{
-		"fideid": 3009572,
-		"name": "Fabra, Nahiara",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "w",
-		"rating_standard": 1812,
-		"rating_rapid": 1832,
-		"rating_blitz": 1906
-	},
-	{
 		"fideid": 3017222,
 		"name": "Gonzalez Valenzuela, Federico",
 		"country": "URU",
@@ -5618,7 +5618,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
@@ -5676,23 +5676,6 @@
 		"rating_standard": 1811,
 		"rating_rapid": 1903,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3028607,
-		"name": "Lamas, Joaquin",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1811,
-		"rating_rapid": 1477,
-		"rating_blitz": 1470
 	},
 	{
 		"fideid": 3015084,
@@ -5882,23 +5865,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3004880,
-		"name": "Machin, Roberto",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1968,
-		"flag": "",
-		"rating_standard": 1805,
-		"rating_rapid": 1886,
-		"rating_blitz": 1699
-	},
-	{
 		"fideid": 3011240,
 		"name": "Monzon, Sebastian",
 		"country": "URU",
@@ -5929,7 +5895,7 @@
 		"birthday": 1991,
 		"flag": "i",
 		"rating_standard": 1805,
-		"rating_rapid": 1586,
+		"rating_rapid": 1568,
 		"rating_blitz": 1701
 	},
 	{
@@ -5941,13 +5907,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1961,
 		"flag": "",
 		"rating_standard": 1805,
-		"rating_rapid": 1803,
+		"rating_rapid": 1812,
 		"rating_blitz": 1755
+	},
+	{
+		"fideid": 3004880,
+		"name": "Machin, Roberto",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": 1804,
+		"rating_rapid": 1886,
+		"rating_blitz": 1699
 	},
 	{
 		"fideid": 3004449,
@@ -6150,7 +6133,7 @@
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1797,
-		"rating_rapid": 1712,
+		"rating_rapid": 1702,
 		"rating_blitz": 1702
 	},
 	{
@@ -6233,7 +6216,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1961,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1796,
 		"rating_rapid": null,
 		"rating_blitz": 1732
@@ -6290,6 +6273,23 @@
 		"rating_blitz": 1763
 	},
 	{
+		"fideid": 3028607,
+		"name": "Lamas, Joaquin",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1795,
+		"rating_rapid": 1477,
+		"rating_blitz": 1470
+	},
+	{
 		"fideid": 3011070,
 		"name": "Leon Barreto, Rafael",
 		"country": "URU",
@@ -6301,7 +6301,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1968,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1795,
 		"rating_rapid": 1774,
 		"rating_blitz": 1744
@@ -6332,7 +6332,7 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1981,
 		"flag": "w",
@@ -6349,7 +6349,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1976,
 		"flag": "",
@@ -6371,7 +6371,7 @@
 		"birthday": 1954,
 		"flag": "",
 		"rating_standard": 1792,
-		"rating_rapid": 1800,
+		"rating_rapid": 1816,
 		"rating_blitz": 1845
 	},
 	{
@@ -6507,8 +6507,8 @@
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1789,
-		"rating_rapid": 1871,
-		"rating_blitz": 1688
+		"rating_rapid": 1902,
+		"rating_blitz": 1677
 	},
 	{
 		"fideid": 3008177,
@@ -6536,30 +6536,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1955,
 		"flag": "",
 		"rating_standard": 1788,
 		"rating_rapid": 1710,
 		"rating_blitz": 1824
-	},
-	{
-		"fideid": 3018300,
-		"name": "Lopez, Bryan",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1788,
-		"rating_rapid": 1787,
-		"rating_blitz": 1762
 	},
 	{
 		"fideid": 3013561,
@@ -6577,6 +6560,23 @@
 		"rating_standard": 1787,
 		"rating_rapid": 1737,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3031098,
+		"name": "Varela, Lautaro",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1787,
+		"rating_rapid": 1814,
+		"rating_blitz": 1710
 	},
 	{
 		"fideid": 3002551,
@@ -6611,6 +6611,23 @@
 		"rating_standard": 1786,
 		"rating_rapid": 1800,
 		"rating_blitz": 1764
+	},
+	{
+		"fideid": 3018300,
+		"name": "Lopez, Bryan",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 10,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1786,
+		"rating_rapid": 1787,
+		"rating_blitz": 1763
 	},
 	{
 		"fideid": 3007111,
@@ -6791,7 +6808,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1983,
 		"flag": "",
@@ -6813,7 +6830,7 @@
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": 1780,
-		"rating_rapid": 1812,
+		"rating_rapid": 1810,
 		"rating_blitz": 1733
 	},
 	{
@@ -6830,8 +6847,8 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1780,
-		"rating_rapid": 1781,
-		"rating_blitz": 1834
+		"rating_rapid": 1770,
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 3003612,
@@ -6848,7 +6865,7 @@
 		"flag": "",
 		"rating_standard": 1779,
 		"rating_rapid": 1877,
-		"rating_blitz": 1777
+		"rating_blitz": 1792
 	},
 	{
 		"fideid": 3009912,
@@ -6866,23 +6883,6 @@
 		"rating_standard": 1779,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3029220,
-		"name": "Polito, Evangelina",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 14,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1778,
-		"rating_rapid": 1776,
-		"rating_blitz": 1816
 	},
 	{
 		"fideid": 3006484,
@@ -6995,7 +6995,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1974,
 		"flag": "",
@@ -7100,7 +7100,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1773,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -7225,6 +7225,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3019608,
+		"name": "Piriz, Facundo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1768,
+		"rating_rapid": 1928,
+		"rating_blitz": 1883
+	},
+	{
 		"fideid": 3011496,
 		"name": "Sardi, Anibal",
 		"country": "URU",
@@ -7255,7 +7272,7 @@
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": 1767,
-		"rating_rapid": 1778,
+		"rating_rapid": 1772,
 		"rating_blitz": 1747
 	},
 	{
@@ -7307,7 +7324,7 @@
 		"flag": "",
 		"rating_standard": 1766,
 		"rating_rapid": 1803,
-		"rating_blitz": 1801
+		"rating_blitz": 1816
 	},
 	{
 		"fideid": 3011208,
@@ -7412,6 +7429,23 @@
 		"rating_blitz": 1724
 	},
 	{
+		"fideid": 3015270,
+		"name": "de Armas, Yahir",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1763,
+		"rating_rapid": 1899,
+		"rating_blitz": 1673
+	},
+	{
 		"fideid": 3022765,
 		"name": "Facal, Joaquin",
 		"country": "URU",
@@ -7427,23 +7461,6 @@
 		"rating_standard": 1763,
 		"rating_rapid": 1509,
 		"rating_blitz": 1820
-	},
-	{
-		"fideid": 3031098,
-		"name": "Varela, Lautaro",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1763,
-		"rating_rapid": 1814,
-		"rating_blitz": 1710
 	},
 	{
 		"fideid": 3009076,
@@ -7493,7 +7510,7 @@
 		"birthday": 1963,
 		"flag": "i",
 		"rating_standard": 1762,
-		"rating_rapid": 1689,
+		"rating_rapid": 1708,
 		"rating_blitz": 1675
 	},
 	{
@@ -7510,7 +7527,7 @@
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": 1762,
-		"rating_rapid": 1634,
+		"rating_rapid": 1641,
 		"rating_blitz": 1780
 	},
 	{
@@ -7582,6 +7599,23 @@
 		"rating_blitz": 1821
 	},
 	{
+		"fideid": 3016463,
+		"name": "Borgiani, Juan",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1757,
+		"rating_rapid": 1760,
+		"rating_blitz": 1728
+	},
+	{
 		"fideid": 3005593,
 		"name": "Estoyanoff, German",
 		"country": "URU",
@@ -7616,23 +7650,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3019608,
-		"name": "Piriz, Facundo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1756,
-		"rating_rapid": 1928,
-		"rating_blitz": 1828
-	},
-	{
 		"fideid": 3007090,
 		"name": "Choca, Juan",
 		"country": "URU",
@@ -7648,23 +7665,6 @@
 		"rating_standard": 1755,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3022773,
-		"name": "Machado, Sheyla",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1755,
-		"rating_rapid": 1660,
-		"rating_blitz": 1710
 	},
 	{
 		"fideid": 3002195,
@@ -7854,23 +7854,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3003930,
-		"name": "Machado, Frank",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 1751,
-		"rating_rapid": 1844,
-		"rating_blitz": 1779
-	},
-	{
 		"fideid": 3006930,
 		"name": "Puchetta, Daniel",
 		"country": "URU",
@@ -7884,7 +7867,7 @@
 		"birthday": 1973,
 		"flag": "i",
 		"rating_standard": 1751,
-		"rating_rapid": 1682,
+		"rating_rapid": 1687,
 		"rating_blitz": 1587
 	},
 	{
@@ -7973,6 +7956,23 @@
 		"rating_blitz": 1780
 	},
 	{
+		"fideid": 3017613,
+		"name": "Altesor, Caterina",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1749,
+		"rating_rapid": 1784,
+		"rating_blitz": 1818
+	},
+	{
 		"fideid": 3002772,
 		"name": "Centron, Alfonso",
 		"country": "URU",
@@ -8020,8 +8020,8 @@
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": 1749,
-		"rating_rapid": 1748,
-		"rating_blitz": 1766
+		"rating_rapid": 1740,
+		"rating_blitz": 1765
 	},
 	{
 		"fideid": 3009661,
@@ -8041,23 +8041,6 @@
 		"rating_blitz": 1716
 	},
 	{
-		"fideid": 3002527,
-		"name": "De Leon, Daiana",
-		"country": "URU",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "w",
-		"rating_standard": 1748,
-		"rating_rapid": 1768,
-		"rating_blitz": 1835
-	},
-	{
 		"fideid": 3031519,
 		"name": "Werle, Carolin",
 		"country": "URU",
@@ -8066,12 +8049,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "w",
 		"rating_standard": 1748,
-		"rating_rapid": 1564,
+		"rating_rapid": 1591,
 		"rating_blitz": 1629
 	},
 	{
@@ -8109,6 +8092,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 103373,
+		"name": "Moccero, Eduardo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "",
+		"rating_standard": 1746,
+		"rating_rapid": 1955,
+		"rating_blitz": 1991
+	},
+	{
 		"fideid": 3039102,
 		"name": "Molina, Mario",
 		"country": "URU",
@@ -8117,7 +8117,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
@@ -8141,6 +8141,23 @@
 		"rating_standard": 1745,
 		"rating_rapid": 1895,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3039358,
+		"name": "Vezoli, Maximo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1745,
+		"rating_rapid": null,
+		"rating_blitz": 1742
 	},
 	{
 		"fideid": 3002837,
@@ -8194,23 +8211,6 @@
 		"rating_blitz": 1708
 	},
 	{
-		"fideid": 103373,
-		"name": "Moccero, Eduardo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "",
-		"rating_standard": 1744,
-		"rating_rapid": 1955,
-		"rating_blitz": 1991
-	},
-	{
 		"fideid": 3005933,
 		"name": "Rouiller, Cristopher",
 		"country": "URU",
@@ -8226,6 +8226,23 @@
 		"rating_standard": 1744,
 		"rating_rapid": 1729,
 		"rating_blitz": 1721
+	},
+	{
+		"fideid": 3019187,
+		"name": "Martinez, Valentino",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1743,
+		"rating_rapid": 1776,
+		"rating_blitz": 1774
 	},
 	{
 		"fideid": 3000290,
@@ -8398,6 +8415,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3003930,
+		"name": "Machado, Frank",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1739,
+		"rating_rapid": 1844,
+		"rating_blitz": 1779
+	},
+	{
 		"fideid": 3021084,
 		"name": "Damonte, Fernando",
 		"country": "URU",
@@ -8415,23 +8449,6 @@
 		"rating_blitz": 1581
 	},
 	{
-		"fideid": 3015270,
-		"name": "de Armas, Yahir",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1738,
-		"rating_rapid": 1899,
-		"rating_blitz": 1673
-	},
-	{
 		"fideid": 3002101,
 		"name": "Moreno, Nelson",
 		"country": "URU",
@@ -8447,6 +8464,23 @@
 		"rating_standard": 1738,
 		"rating_rapid": 1777,
 		"rating_blitz": 1748
+	},
+	{
+		"fideid": 3002527,
+		"name": "De Leon, Daiana",
+		"country": "URU",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "w",
+		"rating_standard": 1737,
+		"rating_rapid": 1768,
+		"rating_blitz": 1802
 	},
 	{
 		"fideid": 3020010,
@@ -8515,6 +8549,23 @@
 		"rating_standard": 1737,
 		"rating_rapid": 1715,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3005810,
+		"name": "Calabria, Luis",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 1736,
+		"rating_rapid": 1791,
+		"rating_blitz": 1735
 	},
 	{
 		"fideid": 3006433,
@@ -8598,8 +8649,8 @@
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": 1733,
-		"rating_rapid": 1747,
-		"rating_blitz": 1644
+		"rating_rapid": 1785,
+		"rating_blitz": 1658
 	},
 	{
 		"fideid": 3002250,
@@ -8616,7 +8667,7 @@
 		"flag": "",
 		"rating_standard": 1733,
 		"rating_rapid": 1619,
-		"rating_blitz": 1780
+		"rating_blitz": 1874
 	},
 	{
 		"fideid": 3002861,
@@ -8721,40 +8772,6 @@
 		"rating_blitz": 1750
 	},
 	{
-		"fideid": 3030954,
-		"name": "Villalba, Pacha",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1731,
-		"rating_rapid": 1603,
-		"rating_blitz": 1585
-	},
-	{
-		"fideid": 3005810,
-		"name": "Calabria, Luis",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 1730,
-		"rating_rapid": 1810,
-		"rating_blitz": 1735
-	},
-	{
 		"fideid": 3005569,
 		"name": "Carrio, Pablo",
 		"country": "URU",
@@ -8772,6 +8789,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3029301,
+		"name": "Contardi, Mateo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1730,
+		"rating_rapid": 1579,
+		"rating_blitz": 1657
+	},
+	{
 		"fideid": 3014207,
 		"name": "Perez Selios, Luis",
 		"country": "URU",
@@ -8785,8 +8819,8 @@
 		"birthday": 1960,
 		"flag": "",
 		"rating_standard": 1730,
-		"rating_rapid": 1768,
-		"rating_blitz": 1784
+		"rating_rapid": 1784,
+		"rating_blitz": 1776
 	},
 	{
 		"fideid": 3008398,
@@ -8942,6 +8976,23 @@
 		"rating_blitz": 1712
 	},
 	{
+		"fideid": 3030652,
+		"name": "Suarez, Lucia",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1726,
+		"rating_rapid": 1541,
+		"rating_blitz": 1478
+	},
+	{
 		"fideid": 3011402,
 		"name": "Vinas, Matias",
 		"country": "URU",
@@ -9006,7 +9057,7 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1724,
-		"rating_rapid": 1787,
+		"rating_rapid": 1816,
 		"rating_blitz": 1789
 	},
 	{
@@ -9095,6 +9146,23 @@
 		"rating_blitz": 1666
 	},
 	{
+		"fideid": 3018938,
+		"name": "Barros, Brian",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1721,
+		"rating_rapid": 1907,
+		"rating_blitz": 1984
+	},
+	{
 		"fideid": 3029395,
 		"name": "Correa, Mario",
 		"country": "URU",
@@ -9108,7 +9176,7 @@
 		"birthday": 1955,
 		"flag": "",
 		"rating_standard": 1721,
-		"rating_rapid": 1698,
+		"rating_rapid": 1627,
 		"rating_blitz": null
 	},
 	{
@@ -9239,12 +9307,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": 1718,
-		"rating_rapid": 1778,
+		"rating_rapid": 1738,
 		"rating_blitz": 1767
 	},
 	{
@@ -9265,6 +9333,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3030954,
+		"name": "Villalba, Pacha",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1718,
+		"rating_rapid": 1603,
+		"rating_blitz": 1585
+	},
+	{
 		"fideid": 3012204,
 		"name": "Froz, Daniel",
 		"country": "URU",
@@ -9273,7 +9358,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1975,
 		"flag": "",
@@ -9290,7 +9375,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
@@ -9333,6 +9418,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3020690,
+		"name": "Olivera Batista, Santiago",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1716,
+		"rating_rapid": 1717,
+		"rating_blitz": 1765
+	},
+	{
 		"fideid": 3006255,
 		"name": "Abadal, Ramon",
 		"country": "URU",
@@ -9348,23 +9450,6 @@
 		"rating_standard": 1715,
 		"rating_rapid": null,
 		"rating_blitz": 1738
-	},
-	{
-		"fideid": 3016463,
-		"name": "Borgiani, Juan",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1715,
-		"rating_rapid": 1729,
-		"rating_blitz": 1728
 	},
 	{
 		"fideid": 3015955,
@@ -9384,23 +9469,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3019187,
-		"name": "Martinez, Valentino",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1715,
-		"rating_rapid": 1776,
-		"rating_blitz": 1774
-	},
-	{
 		"fideid": 3004902,
 		"name": "Rijo, Pedro",
 		"country": "URU",
@@ -9418,23 +9486,6 @@
 		"rating_blitz": 1698
 	},
 	{
-		"fideid": 3018938,
-		"name": "Barros, Brian",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1714,
-		"rating_rapid": 1907,
-		"rating_blitz": 1947
-	},
-	{
 		"fideid": 3016382,
 		"name": "Gasco, Maximiliano",
 		"country": "URU",
@@ -9449,7 +9500,7 @@
 		"flag": "",
 		"rating_standard": 1714,
 		"rating_rapid": 1797,
-		"rating_blitz": 1799
+		"rating_blitz": 1760
 	},
 	{
 		"fideid": 3000818,
@@ -9554,23 +9605,6 @@
 		"rating_blitz": 1803
 	},
 	{
-		"fideid": 3019276,
-		"name": "Cammarota, Andres",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1711,
-		"rating_rapid": 1725,
-		"rating_blitz": 1593
-	},
-	{
 		"fideid": 3011739,
 		"name": "De los Santos, Brandon",
 		"country": "URU",
@@ -9637,6 +9671,23 @@
 		"rating_standard": 1709,
 		"rating_rapid": 1649,
 		"rating_blitz": 1721
+	},
+	{
+		"fideid": 3029220,
+		"name": "Polito, Evangelina",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1709,
+		"rating_rapid": 1761,
+		"rating_blitz": 1802
 	},
 	{
 		"fideid": 3030768,
@@ -9732,7 +9783,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
@@ -9839,7 +9890,7 @@
 		"birthday": 1959,
 		"flag": "",
 		"rating_standard": 1706,
-		"rating_rapid": 1733,
+		"rating_rapid": 1739,
 		"rating_blitz": 1698
 	},
 	{
@@ -9851,7 +9902,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -9875,23 +9926,6 @@
 		"rating_standard": 1705,
 		"rating_rapid": 1690,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3017613,
-		"name": "Altesor, Caterina",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1704,
-		"rating_rapid": 1784,
-		"rating_blitz": 1818
 	},
 	{
 		"fideid": 3009963,
@@ -9979,23 +10013,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3029301,
-		"name": "Contardi, Mateo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1703,
-		"rating_rapid": 1579,
-		"rating_blitz": 1657
-	},
-	{
 		"fideid": 3007510,
 		"name": "Anza, Vicenzo",
 		"country": "URU",
@@ -10043,7 +10060,7 @@
 		"birthday": 1962,
 		"flag": "",
 		"rating_standard": 1700,
-		"rating_rapid": 1681,
+		"rating_rapid": 1696,
 		"rating_blitz": 1773
 	},
 	{
@@ -10081,6 +10098,23 @@
 		"rating_blitz": 1747
 	},
 	{
+		"fideid": 3034003,
+		"name": "Luzardo, Martin",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1699,
+		"rating_rapid": 1647,
+		"rating_blitz": 1535
+	},
+	{
 		"fideid": 3006875,
 		"name": "Sander, Marcos",
 		"country": "URU",
@@ -10098,6 +10132,23 @@
 		"rating_blitz": 1837
 	},
 	{
+		"fideid": 3020126,
+		"name": "Werle, Julius",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1699,
+		"rating_rapid": 1713,
+		"rating_blitz": 1646
+	},
+	{
 		"fideid": 3006328,
 		"name": "Guerra, Miguel",
 		"country": "URU",
@@ -10106,7 +10157,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1954,
 		"flag": "",
@@ -10130,23 +10181,6 @@
 		"rating_standard": 1697,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3020690,
-		"name": "Olivera Batista, Santiago",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1697,
-		"rating_rapid": 1717,
-		"rating_blitz": 1765
 	},
 	{
 		"fideid": 3024946,
@@ -10268,6 +10302,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3019276,
+		"name": "Cammarota, Andres",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1694,
+		"rating_rapid": 1725,
+		"rating_blitz": 1593
+	},
+	{
 		"fideid": 3011860,
 		"name": "Bonilla, Tomas",
 		"country": "URU",
@@ -10361,7 +10412,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1960,
 		"flag": "",
@@ -10395,7 +10446,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1960,
 		"flag": "",
@@ -10451,7 +10502,7 @@
 		"birthday": 1962,
 		"flag": "i",
 		"rating_standard": 1690,
-		"rating_rapid": 1766,
+		"rating_rapid": 1777,
 		"rating_blitz": 1662
 	},
 	{
@@ -10608,40 +10659,6 @@
 		"rating_blitz": 1775
 	},
 	{
-		"fideid": 3026922,
-		"name": "Miranda, Eddy",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "",
-		"rating_standard": 1687,
-		"rating_rapid": 1833,
-		"rating_blitz": 1695
-	},
-	{
-		"fideid": 3030652,
-		"name": "Suarez, Lucia",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1687,
-		"rating_rapid": 1541,
-		"rating_blitz": 1478
-	},
-	{
 		"fideid": 3015130,
 		"name": "Mila, Rafael",
 		"country": "URU",
@@ -10706,7 +10723,7 @@
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": 1685,
-		"rating_rapid": 1660,
+		"rating_rapid": 1645,
 		"rating_blitz": 1697
 	},
 	{
@@ -10854,13 +10871,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "w",
 		"rating_standard": 1679,
 		"rating_rapid": 1758,
 		"rating_blitz": 1707
+	},
+	{
+		"fideid": 3033279,
+		"name": "Feria, Ismael",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1679,
+		"rating_rapid": 1564,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3010201,
@@ -10910,8 +10944,25 @@
 		"birthday": 1960,
 		"flag": "",
 		"rating_standard": 1677,
-		"rating_rapid": 1621,
-		"rating_blitz": 1605
+		"rating_rapid": 1612,
+		"rating_blitz": 1631
+	},
+	{
+		"fideid": 3028283,
+		"name": "Reyes, Matteo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1677,
+		"rating_rapid": 1659,
+		"rating_blitz": 1567
 	},
 	{
 		"fideid": 3018385,
@@ -10931,38 +10982,21 @@
 		"rating_blitz": 1856
 	},
 	{
-		"fideid": 3030563,
-		"name": "Esquibel, Juan",
+		"fideid": 3026922,
+		"name": "Miranda, Eddy",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
-		"k": 40,
-		"birthday": 2014,
+		"games": 2,
+		"k": 20,
+		"birthday": 1992,
 		"flag": "",
 		"rating_standard": 1676,
-		"rating_rapid": 1620,
-		"rating_blitz": 1696
-	},
-	{
-		"fideid": 3009327,
-		"name": "Garcia, Constancio",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": 1675,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1830,
+		"rating_blitz": 1695
 	},
 	{
 		"fideid": 3022951,
@@ -11041,7 +11075,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1986,
 		"flag": "",
@@ -11065,6 +11099,23 @@
 		"rating_standard": 1673,
 		"rating_rapid": 1681,
 		"rating_blitz": 1667
+	},
+	{
+		"fideid": 3004945,
+		"name": "Segovia, Marc",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 1673,
+		"rating_rapid": 1662,
+		"rating_blitz": 1629
 	},
 	{
 		"fideid": 3005941,
@@ -11101,23 +11152,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3004945,
-		"name": "Segovia, Marc",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1965,
-		"flag": "i",
-		"rating_standard": 1671,
-		"rating_rapid": 1662,
-		"rating_blitz": 1629
-	},
-	{
 		"fideid": 3002721,
 		"name": "Ghougassian, Marcelo",
 		"country": "URU",
@@ -11146,7 +11180,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1981,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1670,
 		"rating_rapid": 1687,
 		"rating_blitz": 1729
@@ -11211,7 +11245,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1977,
 		"flag": "",
@@ -11330,7 +11364,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 1997,
 		"flag": "",
@@ -11347,7 +11381,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1969,
 		"flag": "",
@@ -11435,7 +11469,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1963,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1665,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11560,23 +11594,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3028283,
-		"name": "Reyes, Matteo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1662,
-		"rating_rapid": 1659,
-		"rating_blitz": 1567
-	},
-	{
 		"fideid": 3002098,
 		"name": "Uslenghi, Leonel",
 		"country": "URU",
@@ -11585,7 +11602,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 1968,
 		"flag": "",
@@ -11730,6 +11747,23 @@
 		"rating_blitz": 1918
 	},
 	{
+		"fideid": 3017729,
+		"name": "Araque, Silvana",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1657,
+		"rating_rapid": 1671,
+		"rating_blitz": 1669
+	},
+	{
 		"fideid": 3019160,
 		"name": "Lemos, Juan",
 		"country": "URU",
@@ -11832,23 +11866,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3022838,
-		"name": "Baptista, Emiliano",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1652,
-		"rating_rapid": 1647,
-		"rating_blitz": 1579
-	},
-	{
 		"fideid": 3010643,
 		"name": "Iglesias, Javier",
 		"country": "URU",
@@ -11900,6 +11917,23 @@
 		"rating_blitz": 1650
 	},
 	{
+		"fideid": 3019250,
+		"name": "Pons, Rodrigo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1651,
+		"rating_rapid": 1634,
+		"rating_blitz": 1681
+	},
+	{
 		"fideid": 3008789,
 		"name": "Rodriguez, Leandro",
 		"country": "URU",
@@ -11942,13 +11976,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1950,
 		"flag": "",
 		"rating_standard": 1650,
 		"rating_rapid": 1790,
 		"rating_blitz": 1804
+	},
+	{
+		"fideid": 3035697,
+		"name": "De Los Santos, Juan",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1649,
+		"rating_rapid": 1477,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3029190,
@@ -11959,7 +12010,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1953,
 		"flag": "",
@@ -12010,7 +12061,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1993,
 		"flag": "",
@@ -12019,21 +12070,38 @@
 		"rating_blitz": 1614
 	},
 	{
-		"fideid": 3034003,
-		"name": "Luzardo, Martin",
+		"fideid": 3022773,
+		"name": "Machado, Sheyla",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1648,
+		"rating_rapid": 1660,
+		"rating_blitz": 1710
+	},
+	{
+		"fideid": 3009327,
+		"name": "Garcia, Constancio",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1646,
-		"rating_rapid": 1570,
-		"rating_blitz": 1525
+		"rating_standard": 1647,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3007596,
@@ -12047,7 +12115,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1972,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1645,
 		"rating_rapid": 1647,
 		"rating_blitz": null
@@ -12070,6 +12138,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3018580,
+		"name": "Bentancor, Alonso",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1643,
+		"rating_rapid": 1651,
+		"rating_blitz": 1594
+	},
+	{
+		"fideid": 3039781,
+		"name": "Pozzi, Alexander",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1643,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3021211,
 		"name": "Toker, Jorge",
 		"country": "URU",
@@ -12083,25 +12185,8 @@
 		"birthday": 1948,
 		"flag": "i",
 		"rating_standard": 1643,
-		"rating_rapid": 1646,
+		"rating_rapid": 1639,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3017729,
-		"name": "Araque, Silvana",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1641,
-		"rating_rapid": 1671,
-		"rating_blitz": 1669
 	},
 	{
 		"fideid": 3010783,
@@ -12172,6 +12257,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3015416,
+		"name": "Aroztegui, Alfonso",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1637,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3024296,
 		"name": "Eisses, Lemuel",
 		"country": "URU",
@@ -12197,7 +12299,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -12217,7 +12319,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1984,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1635,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -12234,7 +12336,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1997,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1635,
 		"rating_rapid": 1522,
 		"rating_blitz": 1628
@@ -12253,8 +12355,8 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1634,
-		"rating_rapid": 1681,
-		"rating_blitz": 1626
+		"rating_rapid": 1710,
+		"rating_blitz": 1639
 	},
 	{
 		"fideid": 3012263,
@@ -12288,23 +12390,6 @@
 		"flag": "",
 		"rating_standard": 1633,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3033279,
-		"name": "Feria, Ismael",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1633,
-		"rating_rapid": 1530,
 		"rating_blitz": null
 	},
 	{
@@ -12404,27 +12489,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1994,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1631,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3018580,
-		"name": "Bentancor, Alonso",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1630,
-		"rating_rapid": 1651,
-		"rating_blitz": 1567
 	},
 	{
 		"fideid": 3000737,
@@ -12525,8 +12593,25 @@
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": 1628,
-		"rating_rapid": 1677,
-		"rating_blitz": 1765
+		"rating_rapid": 1699,
+		"rating_blitz": 1740
+	},
+	{
+		"fideid": 3033503,
+		"name": "Martinez Sanchez, Isai",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1627,
+		"rating_rapid": 1459,
+		"rating_blitz": 1469
 	},
 	{
 		"fideid": 3010830,
@@ -12537,7 +12622,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1980,
 		"flag": "",
@@ -12580,23 +12665,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3034593,
-		"name": "de los Santos, Joaquin",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1626,
-		"rating_rapid": 1599,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3007405,
 		"name": "Ruiz, Ulises",
 		"country": "URU",
@@ -12605,30 +12673,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1954,
 		"flag": "",
 		"rating_standard": 1626,
 		"rating_rapid": 1749,
 		"rating_blitz": 1741
-	},
-	{
-		"fideid": 3020126,
-		"name": "Werle, Julius",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1626,
-		"rating_rapid": 1679,
-		"rating_blitz": 1646
 	},
 	{
 		"fideid": 3019292,
@@ -12767,6 +12818,23 @@
 		"rating_blitz": 1616
 	},
 	{
+		"fideid": 3021653,
+		"name": "Pizarro, Nick",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1620,
+		"rating_rapid": 1768,
+		"rating_blitz": 1719
+	},
+	{
 		"fideid": 3005917,
 		"name": "Pintos, Sergio",
 		"country": "URU",
@@ -12818,23 +12886,6 @@
 		"rating_blitz": 1559
 	},
 	{
-		"fideid": 3019250,
-		"name": "Pons, Rodrigo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": 1617,
-		"rating_rapid": 1634,
-		"rating_blitz": 1681
-	},
-	{
 		"fideid": 3036111,
 		"name": "Roselli, Juan",
 		"country": "URU",
@@ -12849,7 +12900,7 @@
 		"flag": "",
 		"rating_standard": 1617,
 		"rating_rapid": 1540,
-		"rating_blitz": null
+		"rating_blitz": 1577
 	},
 	{
 		"fideid": 3012352,
@@ -12869,23 +12920,6 @@
 		"rating_blitz": 1452
 	},
 	{
-		"fideid": 3021653,
-		"name": "Pizarro, Nick",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1614,
-		"rating_rapid": 1768,
-		"rating_blitz": 1719
-	},
-	{
 		"fideid": 3028569,
 		"name": "de Oliveira, Julian",
 		"country": "URU",
@@ -12900,7 +12934,7 @@
 		"flag": "",
 		"rating_standard": 1613,
 		"rating_rapid": 1615,
-		"rating_blitz": 1679
+		"rating_blitz": 1657
 	},
 	{
 		"fideid": 3033120,
@@ -12911,13 +12945,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 1612,
 		"rating_rapid": 1507,
-		"rating_blitz": 1588
+		"rating_blitz": 1579
 	},
 	{
 		"fideid": 3015866,
@@ -12935,6 +12969,23 @@
 		"rating_standard": 1612,
 		"rating_rapid": 1590,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3017630,
+		"name": "Indart, Lucio",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1612,
+		"rating_rapid": 1596,
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 3015319,
@@ -12971,6 +13022,23 @@
 		"rating_blitz": 1641
 	},
 	{
+		"fideid": 3020738,
+		"name": "Fernandez, Sergio Washington",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1611,
+		"rating_rapid": 1552,
+		"rating_blitz": 1611
+	},
+	{
 		"fideid": 3009270,
 		"name": "Garlati, Alessandro",
 		"country": "URU",
@@ -12979,7 +13047,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1970,
 		"flag": "",
@@ -13001,7 +13069,7 @@
 		"birthday": 1984,
 		"flag": "i",
 		"rating_standard": 1611,
-		"rating_rapid": 1570,
+		"rating_rapid": 1553,
 		"rating_blitz": 1621
 	},
 	{
@@ -13090,23 +13158,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3017630,
-		"name": "Indart, Lucio",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1607,
-		"rating_rapid": 1596,
-		"rating_blitz": 1589
-	},
-	{
 		"fideid": 3039439,
 		"name": "Munoz, Mauricio",
 		"country": "URU",
@@ -13171,7 +13222,7 @@
 		"birthday": 1982,
 		"flag": "",
 		"rating_standard": 1605,
-		"rating_rapid": 1574,
+		"rating_rapid": 1559,
 		"rating_blitz": 1574
 	},
 	{
@@ -13189,23 +13240,6 @@
 		"flag": "i",
 		"rating_standard": 1605,
 		"rating_rapid": 1614,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3020258,
-		"name": "Rodriguez, Lorenzo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1605,
-		"rating_rapid": 1608,
 		"rating_blitz": null
 	},
 	{
@@ -13243,6 +13277,23 @@
 		"rating_blitz": 1491
 	},
 	{
+		"fideid": 3030563,
+		"name": "Esquibel, Juan",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1601,
+		"rating_rapid": 1620,
+		"rating_blitz": 1696
+	},
+	{
 		"fideid": 3016978,
 		"name": "Marti, Daniel",
 		"country": "URU",
@@ -13275,23 +13326,6 @@
 		"rating_standard": 1601,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3020738,
-		"name": "Fernandez, Sergio Washington",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": 1552,
-		"rating_blitz": 1611
 	},
 	{
 		"fideid": 3011348,
@@ -13328,21 +13362,21 @@
 		"rating_blitz": 1760
 	},
 	{
-		"fideid": 3031330,
-		"name": "Reyna, Emiliano",
+		"fideid": 3022838,
+		"name": "Baptista, Emiliano",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1598,
-		"rating_rapid": 1582,
-		"rating_blitz": 1606
+		"rating_standard": 1597,
+		"rating_rapid": 1658,
+		"rating_blitz": 1579
 	},
 	{
 		"fideid": 3028518,
@@ -13438,12 +13472,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": 1595,
-		"rating_rapid": 1481,
+		"rating_rapid": 1472,
 		"rating_blitz": null
 	},
 	{
@@ -13494,7 +13528,7 @@
 		"birthday": 1956,
 		"flag": "",
 		"rating_standard": 1593,
-		"rating_rapid": 1631,
+		"rating_rapid": 1627,
 		"rating_blitz": 1675
 	},
 	{
@@ -13557,12 +13591,12 @@
 		"w_title": "",
 		"o_title": "SI",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
 		"rating_standard": 1591,
-		"rating_rapid": 1617,
+		"rating_rapid": 1625,
 		"rating_blitz": 1656
 	},
 	{
@@ -13634,6 +13668,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3017036,
+		"name": "Mazzeo, Jose",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": 1589,
+		"rating_rapid": 1557,
+		"rating_blitz": 1623
+	},
+	{
 		"fideid": 3015742,
 		"name": "Scarani, Manuel",
 		"country": "URU",
@@ -13651,6 +13702,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3015505,
+		"name": "Pineiro, Francisco",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1588,
+		"rating_rapid": 1664,
+		"rating_blitz": 1684
+	},
+	{
 		"fideid": 3011909,
 		"name": "Campos, Fernando",
 		"country": "URU",
@@ -13665,6 +13733,23 @@
 		"flag": "",
 		"rating_standard": 1587,
 		"rating_rapid": 1680,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3020258,
+		"name": "Rodriguez, Lorenzo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1587,
+		"rating_rapid": 1608,
 		"rating_blitz": null
 	},
 	{
@@ -13727,30 +13812,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1585,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3031845,
-		"name": "Esteves, Andres",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 1584,
-		"rating_rapid": 1690,
-		"rating_blitz": 1579
 	},
 	{
 		"fideid": 3007316,
@@ -13838,6 +13906,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3031330,
+		"name": "Reyna, Emiliano",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1579,
+		"rating_rapid": 1582,
+		"rating_blitz": 1606
+	},
+	{
 		"fideid": 3033066,
 		"name": "Torrini, Emiliano",
 		"country": "URU",
@@ -13846,7 +13931,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -13880,7 +13965,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "w",
@@ -14055,7 +14140,7 @@
 		"birthday": 1949,
 		"flag": "i",
 		"rating_standard": 1573,
-		"rating_rapid": 1505,
+		"rating_rapid": 1485,
 		"rating_blitz": 1705
 	},
 	{
@@ -14178,23 +14263,6 @@
 		"rating_blitz": 1652
 	},
 	{
-		"fideid": 3017036,
-		"name": "Mazzeo, Jose",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1959,
-		"flag": "",
-		"rating_standard": 1570,
-		"rating_rapid": 1557,
-		"rating_blitz": 1623
-	},
-	{
 		"fideid": 3014533,
 		"name": "Jachoian, Cesar",
 		"country": "URU",
@@ -14263,23 +14331,6 @@
 		"rating_blitz": 1668
 	},
 	{
-		"fideid": 3018180,
-		"name": "Miladinoff, David",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": 1566,
-		"rating_rapid": 1581,
-		"rating_blitz": 1517
-	},
-	{
 		"fideid": 3014193,
 		"name": "Mott, Juan",
 		"country": "URU",
@@ -14328,7 +14379,7 @@
 		"flag": "",
 		"rating_standard": 1564,
 		"rating_rapid": 1406,
-		"rating_blitz": null
+		"rating_blitz": 1545
 	},
 	{
 		"fideid": 3016633,
@@ -14416,20 +14467,20 @@
 		"rating_blitz": 1555
 	},
 	{
-		"fideid": 3037100,
-		"name": "Ibarra, Joaquin",
+		"fideid": 3020720,
+		"name": "Nunez, Emiliano",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 8,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1561,
-		"rating_rapid": 1548,
+		"rating_rapid": 1683,
 		"rating_blitz": null
 	},
 	{
@@ -14463,8 +14514,25 @@
 		"birthday": 1950,
 		"flag": "",
 		"rating_standard": 1560,
-		"rating_rapid": 1442,
+		"rating_rapid": 1404,
 		"rating_blitz": 1722
+	},
+	{
+		"fideid": 3031845,
+		"name": "Esteves, Andres",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1560,
+		"rating_rapid": 1690,
+		"rating_blitz": 1572
 	},
 	{
 		"fideid": 3017435,
@@ -14480,8 +14548,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1560,
-		"rating_rapid": 1544,
-		"rating_blitz": 1574
+		"rating_rapid": 1604,
+		"rating_blitz": 1536
 	},
 	{
 		"fideid": 3008126,
@@ -14499,6 +14567,23 @@
 		"rating_standard": 1559,
 		"rating_rapid": 1630,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3018180,
+		"name": "Miladinoff, David",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1558,
+		"rating_rapid": 1581,
+		"rating_blitz": 1517
 	},
 	{
 		"fideid": 3033724,
@@ -14552,6 +14637,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3015815,
+		"name": "Aires Pineiro, Washington",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1555,
+		"rating_rapid": 1654,
+		"rating_blitz": 1646
+	},
+	{
 		"fideid": 3010511,
 		"name": "Baratta, Daniel",
 		"country": "URU",
@@ -14569,6 +14671,23 @@
 		"rating_blitz": 1551
 	},
 	{
+		"fideid": 3022986,
+		"name": "Lozano, Leandro",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1555,
+		"rating_rapid": 1456,
+		"rating_blitz": 1479
+	},
+	{
 		"fideid": 3016951,
 		"name": "Rodriguez Rearden, Jorge",
 		"country": "URU",
@@ -14582,25 +14701,8 @@
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": 1554,
-		"rating_rapid": 1442,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3023265,
-		"name": "Tachini, Luis",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1554,
-		"rating_rapid": 1613,
-		"rating_blitz": 1589
+		"rating_rapid": 1448,
+		"rating_blitz": 1544
 	},
 	{
 		"fideid": 3003159,
@@ -14618,6 +14720,23 @@
 		"rating_standard": 1554,
 		"rating_rapid": 1756,
 		"rating_blitz": 1699
+	},
+	{
+		"fideid": 3023265,
+		"name": "Tachini, Luis",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1553,
+		"rating_rapid": 1649,
+		"rating_blitz": 1588
 	},
 	{
 		"fideid": 3034518,
@@ -14654,23 +14773,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3015815,
-		"name": "Aires Pineiro, Washington",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1552,
-		"rating_rapid": 1654,
-		"rating_blitz": 1646
-	},
-	{
 		"fideid": 3012450,
 		"name": "Barreiro, Gaston",
 		"country": "URU",
@@ -14699,7 +14801,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1946,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1552,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -14752,7 +14854,7 @@
 		"birthday": 1992,
 		"flag": "",
 		"rating_standard": 1552,
-		"rating_rapid": 1665,
+		"rating_rapid": 1659,
 		"rating_blitz": null
 	},
 	{
@@ -14801,7 +14903,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1550,
 		"rating_rapid": 1559,
 		"rating_blitz": null
@@ -14824,21 +14926,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3030300,
-		"name": "Lopez, Santiago",
+		"fideid": 3037100,
+		"name": "Ibarra, Joaquin",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1548,
-		"rating_rapid": 1641,
-		"rating_blitz": 1624
+		"rating_rapid": 1548,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3022811,
@@ -14922,8 +15024,25 @@
 		"birthday": 1966,
 		"flag": "",
 		"rating_standard": 1544,
-		"rating_rapid": 1508,
+		"rating_rapid": 1500,
 		"rating_blitz": 1561
+	},
+	{
+		"fideid": 3029743,
+		"name": "Olivera, Ignacio",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1544,
+		"rating_rapid": 1520,
+		"rating_blitz": 1652
 	},
 	{
 		"fideid": 3008274,
@@ -14977,6 +15096,23 @@
 		"rating_blitz": 1521
 	},
 	{
+		"fideid": 3029751,
+		"name": "De Paula, Ithan",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1541,
+		"rating_rapid": 1576,
+		"rating_blitz": 1554
+	},
+	{
 		"fideid": 3002780,
 		"name": "Marquez, Uberlindo",
 		"country": "URU",
@@ -15002,7 +15138,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "w",
@@ -15092,7 +15228,7 @@
 		"birthday": 2006,
 		"flag": "w",
 		"rating_standard": 1534,
-		"rating_rapid": 1642,
+		"rating_rapid": 1614,
 		"rating_blitz": 1691
 	},
 	{
@@ -15143,7 +15279,7 @@
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": 1532,
-		"rating_rapid": 1519,
+		"rating_rapid": 1547,
 		"rating_blitz": null
 	},
 	{
@@ -15215,6 +15351,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3017133,
+		"name": "Tabarez, Vladimir",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1528,
+		"rating_rapid": 1557,
+		"rating_blitz": 1496
+	},
+	{
 		"fideid": 3014177,
 		"name": "Techeira, Luciano",
 		"country": "URU",
@@ -15232,38 +15385,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3014258,
-		"name": "Costabel, Emma",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1527,
-		"rating_rapid": 1539,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3029751,
-		"name": "De Paula, Ithan",
+		"fideid": 3034593,
+		"name": "de los Santos, Joaquin",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1526,
-		"rating_rapid": 1574,
-		"rating_blitz": 1554
+		"rating_standard": 1527,
+		"rating_rapid": 1559,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3011224,
@@ -15317,6 +15453,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3039013,
+		"name": "Silva, Mathias",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1525,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3002810,
 		"name": "Varalla, Gonzalo",
 		"country": "URU",
@@ -15359,12 +15512,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1524,
 		"rating_rapid": 1502,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3039315,
+		"name": "Carballo, Milton",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1955,
+		"flag": "",
+		"rating_standard": 1523,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -15383,6 +15553,23 @@
 		"rating_standard": 1522,
 		"rating_rapid": 1551,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3028879,
+		"name": "Porteiro, Clara",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": 1522,
+		"rating_rapid": 1436,
+		"rating_blitz": 1473
 	},
 	{
 		"fideid": 3028801,
@@ -15461,7 +15648,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1962,
 		"flag": "",
@@ -15521,23 +15708,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3028879,
-		"name": "Porteiro, Clara",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "w",
-		"rating_standard": 1516,
-		"rating_rapid": 1426,
-		"rating_blitz": 1494
-	},
-	{
 		"fideid": 3013502,
 		"name": "Torbay, Richard",
 		"country": "URU",
@@ -15553,6 +15723,23 @@
 		"rating_standard": 1516,
 		"rating_rapid": 1520,
 		"rating_blitz": 1626
+	},
+	{
+		"fideid": 3033872,
+		"name": "Pintos, German",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1515,
+		"rating_rapid": 1456,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3015017,
@@ -15640,23 +15827,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3014894,
-		"name": "Diaz Rodas, Gabriel",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": 1512,
-		"rating_rapid": 1601,
-		"rating_blitz": 1539
-	},
-	{
 		"fideid": 3032388,
 		"name": "Martinez, Lorenzo",
 		"country": "URU",
@@ -15704,7 +15874,7 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1509,
-		"rating_rapid": 1410,
+		"rating_rapid": null,
 		"rating_blitz": 1473
 	},
 	{
@@ -15721,8 +15891,25 @@
 		"birthday": 2003,
 		"flag": "w",
 		"rating_standard": 1508,
-		"rating_rapid": null,
+		"rating_rapid": 1500,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3014894,
+		"name": "Diaz Rodas, Gabriel",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1507,
+		"rating_rapid": 1601,
+		"rating_blitz": 1539
 	},
 	{
 		"fideid": 3011992,
@@ -15791,23 +15978,6 @@
 		"rating_standard": 1502,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3029743,
-		"name": "Olivera, Ignacio",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1501,
-		"rating_rapid": 1520,
-		"rating_blitz": 1652
 	},
 	{
 		"fideid": 3029158,
@@ -15895,57 +16065,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3020274,
-		"name": "Acosta, Pablo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1499,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3029018,
-		"name": "Fodere, Rafael",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1499,
-		"rating_rapid": 1428,
-		"rating_blitz": 1422
-	},
-	{
-		"fideid": 3039013,
-		"name": "Silva, Mathias",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 1499,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3009807,
 		"name": "Silveira, Carlos",
 		"country": "URU",
@@ -15960,23 +16079,6 @@
 		"flag": "",
 		"rating_standard": 1498,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3019268,
-		"name": "Fabra, Nathaniel",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1497,
-		"rating_rapid": 1495,
 		"rating_blitz": null
 	},
 	{
@@ -16012,6 +16114,23 @@
 		"rating_standard": 1495,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3019268,
+		"name": "Fabra, Nathaniel",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1493,
+		"rating_rapid": 1495,
+		"rating_blitz": 1527
 	},
 	{
 		"fideid": 3011062,
@@ -16065,20 +16184,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3020665,
-		"name": "Soria, Xiomara",
+		"fideid": 3020274,
+		"name": "Acosta, Pablo",
 		"country": "URU",
-		"sex": "F",
+		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1488,
-		"rating_rapid": 1474,
+		"games": 2,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1489,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -16096,23 +16215,6 @@
 		"flag": "i",
 		"rating_standard": 1486,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3035972,
-		"name": "Paipo, Sebastian",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1485,
-		"rating_rapid": 1495,
 		"rating_blitz": null
 	},
 	{
@@ -16141,7 +16243,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1961,
 		"flag": "",
@@ -16150,20 +16252,54 @@
 		"rating_blitz": 1607
 	},
 	{
-		"fideid": 3029239,
-		"name": "Dos Santos, Mizael",
+		"fideid": 3020665,
+		"name": "Soria, Xiomara",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1479,
+		"rating_rapid": 1474,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3029018,
+		"name": "Fodere, Rafael",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1477,
+		"rating_rapid": 1428,
+		"rating_blitz": 1422
+	},
+	{
+		"fideid": 3014258,
+		"name": "Costabel, Emma",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "w",
 		"rating_standard": 1476,
-		"rating_rapid": null,
+		"rating_rapid": 1539,
 		"rating_blitz": null
 	},
 	{
@@ -16175,12 +16311,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1988,
 		"flag": "w",
 		"rating_standard": 1475,
-		"rating_rapid": null,
+		"rating_rapid": 1420,
 		"rating_blitz": null
 	},
 	{
@@ -16201,25 +16337,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3017605,
-		"name": "Villa, Ramiro",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1473,
-		"rating_rapid": 1519,
-		"rating_blitz": 1534
-	},
-	{
-		"fideid": 3036537,
-		"name": "Figueredo, Sebastian",
+		"fideid": 3035972,
+		"name": "Paipo, Sebastian",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
@@ -16228,10 +16347,61 @@
 		"foa_title": "",
 		"games": 5,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2015,
 		"flag": "",
-		"rating_standard": 1469,
+		"rating_standard": 1474,
+		"rating_rapid": 1495,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3029239,
+		"name": "Dos Santos, Mizael",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1473,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3017605,
+		"name": "Villa, Ramiro",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1473,
+		"rating_rapid": 1519,
+		"rating_blitz": 1534
+	},
+	{
+		"fideid": 3018148,
+		"name": "Borrelli, Joaquin",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1466,
+		"rating_rapid": 1457,
 		"rating_blitz": null
 	},
 	{
@@ -16252,23 +16422,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3026728,
-		"name": "Diaz, Santiago",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1464,
-		"rating_rapid": 1425,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3019233,
 		"name": "Stefano, Avril",
 		"country": "URU",
@@ -16284,40 +16437,6 @@
 		"rating_standard": 1463,
 		"rating_rapid": 1510,
 		"rating_blitz": 1463
-	},
-	{
-		"fideid": 3017133,
-		"name": "Tabarez, Vladimir",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1462,
-		"rating_rapid": 1557,
-		"rating_blitz": 1496
-	},
-	{
-		"fideid": 3018148,
-		"name": "Borrelli, Joaquin",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1460,
-		"rating_rapid": 1457,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 3016790,
@@ -16430,12 +16549,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1969,
 		"flag": "w",
 		"rating_standard": 1454,
-		"rating_rapid": 1479,
+		"rating_rapid": 1475,
 		"rating_blitz": null
 	},
 	{
@@ -16486,7 +16605,7 @@
 		"birthday": 1964,
 		"flag": "i",
 		"rating_standard": 1451,
-		"rating_rapid": 1601,
+		"rating_rapid": 1612,
 		"rating_blitz": 1603
 	},
 	{
@@ -16498,7 +16617,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -16521,40 +16640,6 @@
 		"flag": "i",
 		"rating_standard": 1451,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3033295,
-		"name": "Cuello, Alessandro",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1450,
-		"rating_rapid": 1443,
-		"rating_blitz": 1412
-	},
-	{
-		"fideid": 3033872,
-		"name": "Pintos, German",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1449,
-		"rating_rapid": 1456,
 		"rating_blitz": null
 	},
 	{
@@ -16592,23 +16677,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3016145,
-		"name": "Gonzalez Bodega, Juliana",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": 1447,
-		"rating_rapid": 1499,
-		"rating_blitz": 1453
-	},
-	{
 		"fideid": 3016668,
 		"name": "Argain, Agustin",
 		"country": "URU",
@@ -16641,6 +16709,23 @@
 		"rating_standard": 1436,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3016145,
+		"name": "Gonzalez Bodega, Juliana",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1435,
+		"rating_rapid": 1499,
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 3013030,
@@ -16702,13 +16787,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": 1433,
 		"rating_rapid": 1655,
 		"rating_blitz": 1627
+	},
+	{
+		"fideid": 3026728,
+		"name": "Diaz, Santiago",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1429,
+		"rating_rapid": 1425,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3018040,
@@ -16726,6 +16828,23 @@
 		"rating_standard": 1428,
 		"rating_rapid": null,
 		"rating_blitz": 1433
+	},
+	{
+		"fideid": 3030300,
+		"name": "Lopez, Santiago",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1428,
+		"rating_rapid": 1641,
+		"rating_blitz": 1624
 	},
 	{
 		"fideid": 3034380,
@@ -16758,7 +16877,24 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1425,
-		"rating_rapid": 1474,
+		"rating_rapid": 1447,
+		"rating_blitz": 1425
+	},
+	{
+		"fideid": 3036537,
+		"name": "Figueredo, Sebastian",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1421,
+		"rating_rapid": 1453,
 		"rating_blitz": null
 	},
 	{
@@ -16793,7 +16929,7 @@
 		"flag": "",
 		"rating_standard": 1419,
 		"rating_rapid": 1539,
-		"rating_blitz": 1501
+		"rating_blitz": 1490
 	},
 	{
 		"fideid": 3029123,
@@ -16855,29 +16991,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": 1405,
+		"flag": "",
+		"rating_standard": 1404,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 3031942,
-		"name": "Porteiro, Juana",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "w",
-		"rating_standard": 1403,
-		"rating_rapid": 1425,
 		"rating_blitz": null
 	},
 	{
@@ -16963,7 +17082,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1496,
-		"rating_blitz": 1504
+		"rating_blitz": 1483
 	},
 	{
 		"fideid": 3021580,
@@ -17025,12 +17144,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1726,
+		"rating_rapid": 1737,
 		"rating_blitz": 1545
 	},
 	{
@@ -17144,7 +17263,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -17229,7 +17348,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -17405,7 +17524,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1592,
-		"rating_blitz": 1623
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3021670,
@@ -17450,7 +17569,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -17467,12 +17586,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1528,
+		"rating_rapid": 1540,
 		"rating_blitz": null
 	},
 	{
@@ -17484,7 +17603,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -17501,7 +17620,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 1985,
 		"flag": "w",
@@ -17535,12 +17654,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1563,
+		"rating_rapid": 1529,
 		"rating_blitz": null
 	},
 	{
@@ -17620,7 +17739,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1997,
 		"flag": "",
@@ -17654,7 +17773,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 1992,
 		"flag": "",
@@ -17875,7 +17994,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -17926,12 +18045,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 3,
 		"k": 40,
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1456,
+		"rating_rapid": 1428,
 		"rating_blitz": null
 	},
 	{
@@ -18198,13 +18317,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 4,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1583,
+		"rating_rapid": 1555,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3033295,
+		"name": "Cuello, Alessandro",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1443,
+		"rating_blitz": 1412
 	},
 	{
 		"fideid": 3033554,
@@ -18238,6 +18374,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1574,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3040500,
+		"name": "D Anatro, Washington",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1959,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1702,
 		"rating_blitz": null
 	},
 	{
@@ -18326,23 +18479,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3035697,
-		"name": "De Los Santos, Juan",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1477,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 3012573,
 		"name": "De Souza, Miguel",
 		"country": "URU",
@@ -18422,7 +18558,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1622,
 		"rating_blitz": null
@@ -18453,13 +18589,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 3,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1578,
-		"rating_blitz": 1457
+		"rating_rapid": 1514,
+		"rating_blitz": 1471
 	},
 	{
 		"fideid": 3034488,
@@ -18473,7 +18609,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1998,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1685,
 		"rating_blitz": null
@@ -18538,12 +18674,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 10,
 		"k": 20,
 		"birthday": 1954,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1416,
+		"rating_rapid": 1411,
 		"rating_blitz": null
 	},
 	{
@@ -18589,7 +18725,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -18606,7 +18742,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 1976,
 		"flag": "",
@@ -18640,13 +18776,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1682,
-		"rating_blitz": null
+		"rating_rapid": 1676,
+		"rating_blitz": 1673
 	},
 	{
 		"fideid": 3019454,
@@ -18776,12 +18912,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1512,
+		"rating_rapid": 1540,
 		"rating_blitz": null
 	},
 	{
@@ -18861,13 +18997,47 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 1965,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1687,
+		"rating_rapid": 1741,
 		"rating_blitz": 1695
+	},
+	{
+		"fideid": 3040372,
+		"name": "Friss de Kereki, Juan",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1863,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3023354,
+		"name": "Frometa, Diosvanys",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1822,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3016854,
@@ -19123,6 +19293,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1557,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3032400,
+		"name": "Gonzalez, Gaston",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1603,
+		"rating_blitz": 1710
 	},
 	{
 		"fideid": 3022706,
@@ -19414,6 +19601,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3036448,
+		"name": "Leguisamo, Raziel",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1510,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3012506,
 		"name": "Lema, German",
 		"country": "URU",
@@ -19442,7 +19646,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1983,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1652,
 		"rating_blitz": null
@@ -19575,12 +19779,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1783,
+		"rating_rapid": 1867,
 		"rating_blitz": 1753
 	},
 	{
@@ -19592,30 +19796,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 1948,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1858,
+		"rating_rapid": 1849,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3022986,
-		"name": "Lozano, Leandro",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1456,
-		"rating_blitz": 1479
 	},
 	{
 		"fideid": 3021840,
@@ -19714,7 +19901,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1848,
 		"rating_blitz": null
@@ -19830,30 +20017,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 8,
 		"k": 40,
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1627,
+		"rating_rapid": 1616,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 3033503,
-		"name": "Martinez Sanchez, Isai",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1473,
-		"rating_blitz": 1474
 	},
 	{
 		"fideid": 3024253,
@@ -19983,12 +20153,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 1943,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1441,
+		"rating_rapid": 1415,
 		"rating_blitz": null
 	},
 	{
@@ -20074,7 +20244,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1419,
-		"rating_blitz": 1669
+		"rating_blitz": 1652
 	},
 	{
 		"fideid": 3024059,
@@ -20159,7 +20329,24 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1556,
-		"rating_blitz": 1712
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3031772,
+		"name": "Mesa, Leandro",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1443,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3029506,
@@ -20397,7 +20584,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1440,
-		"rating_blitz": 1477
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3032124,
@@ -20476,12 +20663,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 4,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1510,
+		"rating_rapid": 1490,
 		"rating_blitz": null
 	},
 	{
@@ -20502,20 +20689,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3020720,
-		"name": "Nunez, Emiliano",
+		"fideid": 3040631,
+		"name": "Nunez, Oscar",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2007,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1683,
+		"rating_rapid": 1852,
 		"rating_blitz": null
 	},
 	{
@@ -20561,12 +20748,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1499,
+		"rating_rapid": 1475,
 		"rating_blitz": null
 	},
 	{
@@ -20629,7 +20816,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 20,
 		"birthday": 1975,
 		"flag": "",
@@ -20805,7 +20992,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1478,
-		"rating_blitz": null
+		"rating_blitz": 1525
 	},
 	{
 		"fideid": 3029360,
@@ -20907,7 +21094,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1414,
-		"rating_blitz": 1551
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3023109,
@@ -21012,23 +21199,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 3015505,
-		"name": "Pineiro, Francisco",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1664,
-		"rating_blitz": 1684
-	},
-	{
 		"fideid": 3030989,
 		"name": "Pintos, Juan",
 		"country": "URU",
@@ -21128,6 +21298,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1482,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3031942,
+		"name": "Porteiro, Juana",
+		"country": "URU",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1414,
 		"rating_blitz": null
 	},
 	{
@@ -21241,12 +21428,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 4,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1410,
+		"rating_rapid": 1408,
 		"rating_blitz": 1641
 	},
 	{
@@ -21264,7 +21451,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1665,
-		"rating_blitz": null
+		"rating_blitz": 1630
 	},
 	{
 		"fideid": 3037606,
@@ -21434,7 +21621,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1673,
-		"rating_blitz": 1739
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3028658,
@@ -21537,6 +21724,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1478,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 3031683,
+		"name": "Rodriguez Presa, Mateo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1438,
+		"rating_blitz": 1565
 	},
 	{
 		"fideid": 3030245,
@@ -21760,6 +21964,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3033333,
+		"name": "Saavedra, Luis",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1457,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3014380,
 		"name": "Sahagian, Lucas",
 		"country": "URU",
@@ -21825,6 +22046,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1486,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 3038696,
+		"name": "Sandona, Shaoshon",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1618,
 		"rating_blitz": null
 	},
 	{
@@ -21904,12 +22142,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1439,
+		"rating_rapid": 1445,
 		"rating_blitz": 1605
 	},
 	{
@@ -22083,6 +22321,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3039820,
+		"name": "Sosa, Lucio",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1569,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3007103,
 		"name": "Sosa, Miguel",
 		"country": "URU",
@@ -22148,7 +22403,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1863,
-		"rating_blitz": 1888
+		"rating_blitz": 1901
 	},
 	{
 		"fideid": 3033520,
@@ -22244,12 +22499,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1480,
+		"rating_rapid": 1485,
 		"rating_blitz": null
 	},
 	{
@@ -22338,6 +22593,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 3025110,
+		"name": "Tornini, Emiliano",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1661,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 3014908,
 		"name": "Torres, Eneyer",
 		"country": "URU",
@@ -22363,7 +22635,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "",
@@ -22414,12 +22686,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 9,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1410,
+		"rating_rapid": 1454,
 		"rating_blitz": null
 	},
 	{
@@ -22584,7 +22856,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1993,
 		"flag": "w",
@@ -22601,12 +22873,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1614,
+		"rating_rapid": 1638,
 		"rating_blitz": 1617
 	},
 	{
@@ -22635,12 +22907,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1510,
+		"rating_rapid": 1483,
 		"rating_blitz": null
 	},
 	{
@@ -22686,12 +22958,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1667,
+		"rating_rapid": 1646,
 		"rating_blitz": null
 	},
 	{
@@ -22805,12 +23077,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 20,
 		"birthday": 1952,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1509,
+		"rating_rapid": 1507,
 		"rating_blitz": null
 	},
 	{
@@ -22827,8 +23099,25 @@
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1648,
-		"rating_blitz": 1681
+		"rating_rapid": 1663,
+		"rating_blitz": 1701
+	},
+	{
+		"fideid": 3040615,
+		"name": "Young, Neil",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1508,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 3036375,
@@ -22844,7 +23133,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1652,
+		"rating_rapid": 1595,
 		"rating_blitz": 1670
 	},
 	{
@@ -22856,12 +23145,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
-		"k": 40,
+		"games": 9,
+		"k": 20,
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1860,
+		"rating_rapid": 1886,
 		"rating_blitz": 1849
 	},
 	{
@@ -22933,6 +23222,23 @@
 		"rating_blitz": 1866
 	},
 	{
+		"fideid": 3040593,
+		"name": "Alvarez Espinosa, Mateo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1726
+	},
+	{
 		"fideid": 3032310,
 		"name": "Amarillo, Fernando",
 		"country": "URU",
@@ -22950,21 +23256,21 @@
 		"rating_blitz": 1757
 	},
 	{
-		"fideid": 3038009,
-		"name": "Amorin, Juan",
+		"fideid": 3040577,
+		"name": "Arenas, Emilio",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
+		"games": 6,
+		"k": 40,
+		"birthday": 1991,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1693
+		"rating_blitz": 1690
 	},
 	{
 		"fideid": 3021785,
@@ -23033,23 +23339,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1552
-	},
-	{
-		"fideid": 3038726,
-		"name": "Barragan, Sergio",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1571
 	},
 	{
 		"fideid": 3007022,
@@ -23247,30 +23536,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1730
-	},
-	{
-		"fideid": 3021823,
-		"name": "Cobas, Juan",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1671
+		"rating_blitz": 1744
 	},
 	{
 		"fideid": 3007154,
@@ -23341,6 +23613,23 @@
 		"rating_blitz": 1605
 	},
 	{
+		"fideid": 3037436,
+		"name": "Correa, Martin",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1613
+	},
+	{
 		"fideid": 3007847,
 		"name": "Costa, Felipe",
 		"country": "URU",
@@ -23356,6 +23645,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1665
+	},
+	{
+		"fideid": 3025837,
+		"name": "Curbelo, Rodrigo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 3009734,
@@ -23545,23 +23851,6 @@
 		"rating_blitz": 1737
 	},
 	{
-		"fideid": 3034283,
-		"name": "Echenique, Daniel",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1576
-	},
-	{
 		"fideid": 3029891,
 		"name": "Echeveste, Nadia",
 		"country": "URU",
@@ -23628,23 +23917,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1749
-	},
-	{
-		"fideid": 3033775,
-		"name": "Fernandez, Matias",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1667
 	},
 	{
 		"fideid": 3017095,
@@ -23715,23 +23987,6 @@
 		"rating_blitz": 1642
 	},
 	{
-		"fideid": 3038742,
-		"name": "Gomez Silva, Sergio",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1522
-	},
-	{
 		"fideid": 3028089,
 		"name": "Gonzalez Alba, Juan",
 		"country": "URU",
@@ -23798,23 +24053,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1769
-	},
-	{
-		"fideid": 3030903,
-		"name": "Grana, Giovani",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1684
 	},
 	{
 		"fideid": 3002799,
@@ -24004,23 +24242,6 @@
 		"rating_blitz": 1684
 	},
 	{
-		"fideid": 3036456,
-		"name": "Lhande, Sebastian",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1523
-	},
-	{
 		"fideid": 3020460,
 		"name": "Lopez Manzo, Martin",
 		"country": "URU",
@@ -24072,23 +24293,6 @@
 		"rating_blitz": 1559
 	},
 	{
-		"fideid": 3034992,
-		"name": "Machado, Maicol",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1623
-	},
-	{
 		"fideid": 3010295,
 		"name": "Magliola, Clemente",
 		"country": "URU",
@@ -24121,40 +24325,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1470
-	},
-	{
-		"fideid": 3028704,
-		"name": "Mangino, Benicio",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1488
-	},
-	{
-		"fideid": 3029654,
-		"name": "Mareco, Karen",
-		"country": "URU",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1636
 	},
 	{
 		"fideid": 3008827,
@@ -24208,21 +24378,21 @@
 		"rating_blitz": 1412
 	},
 	{
-		"fideid": 3029824,
-		"name": "Martinez, Mateo",
+		"fideid": 3038823,
+		"name": "Martony, Sebastian",
 		"country": "URU",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
+		"games": 6,
+		"k": 40,
+		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1651
+		"rating_blitz": 1661
 	},
 	{
 		"fideid": 3018407,
@@ -24240,23 +24410,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1642
-	},
-	{
-		"fideid": 3023087,
-		"name": "Nario, Martin",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1549
 	},
 	{
 		"fideid": 3009548,
@@ -24344,6 +24497,23 @@
 		"rating_blitz": 1642
 	},
 	{
+		"fideid": 3037932,
+		"name": "Panella, Juan",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1534
+	},
+	{
 		"fideid": 3021050,
 		"name": "Parry, Jonathan",
 		"country": "URU",
@@ -24361,6 +24531,40 @@
 		"rating_blitz": 1700
 	},
 	{
+		"fideid": 3040550,
+		"name": "Pastori Curbelo, Guillermo",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1495
+	},
+	{
+		"fideid": 3010279,
+		"name": "Pastori, Alejandro",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1958,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1645
+	},
+	{
 		"fideid": 3015840,
 		"name": "Patino, Camilo",
 		"country": "URU",
@@ -24369,13 +24573,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1611
+		"rating_blitz": 1571
 	},
 	{
 		"fideid": 3023974,
@@ -24633,23 +24837,6 @@
 		"rating_blitz": 1789
 	},
 	{
-		"fideid": 3031683,
-		"name": "Rodriguez Presa, Mateo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1565
-	},
-	{
 		"fideid": 3013758,
 		"name": "Rodriguez Rodriguez, Jose Albino",
 		"country": "URU",
@@ -24665,6 +24852,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1723
+	},
+	{
+		"fideid": 3040364,
+		"name": "Rodriguez Roura, Franco",
+		"country": "URU",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1504
 	},
 	{
 		"fideid": 3010686,
@@ -24922,23 +25126,6 @@
 		"rating_blitz": 1546
 	},
 	{
-		"fideid": 3039358,
-		"name": "Vezoli, Maximo",
-		"country": "URU",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1742
-	},
-	{
 		"fideid": 3022242,
 		"name": "Vigo, Juan",
 		"country": "URU",
@@ -24964,7 +25151,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1957,
 		"flag": "",

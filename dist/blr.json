@@ -8,11 +8,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 10,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 2605,
+		"rating_standard": 2621,
 		"rating_rapid": 2603,
 		"rating_blitz": 2643
 	},
@@ -76,11 +76,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 19,
+		"games": 9,
 		"k": 10,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 2480,
+		"rating_standard": 2479,
 		"rating_rapid": 2428,
 		"rating_blitz": 2364
 	},
@@ -150,7 +150,7 @@
 		"flag": "",
 		"rating_standard": 2433,
 		"rating_rapid": 2424,
-		"rating_blitz": 2344
+		"rating_blitz": 2339
 	},
 	{
 		"fideid": 13504037,
@@ -280,7 +280,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 10,
 		"birthday": 2002,
 		"flag": "",
@@ -365,7 +365,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
@@ -731,23 +731,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13504134,
-		"name": "Podolchenko, Evgeniy",
-		"country": "BLR",
-		"sex": "M",
-		"title": "GM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 10,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 2294,
-		"rating_rapid": 2299,
-		"rating_blitz": 2364
-	},
-	{
 		"fideid": 13501275,
 		"name": "Mironov, Ilya",
 		"country": "BLR",
@@ -831,6 +814,23 @@
 		"rating_standard": 2282,
 		"rating_rapid": 2201,
 		"rating_blitz": 2180
+	},
+	{
+		"fideid": 13504134,
+		"name": "Podolchenko, Evgeniy",
+		"country": "BLR",
+		"sex": "M",
+		"title": "GM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 23,
+		"k": 10,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 2281,
+		"rating_rapid": 2299,
+		"rating_blitz": 2366
 	},
 	{
 		"fideid": 13502255,
@@ -960,7 +960,7 @@
 		"w_title": "",
 		"o_title": "FA",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 10,
 		"birthday": 1992,
 		"flag": "",
@@ -1232,13 +1232,30 @@
 		"w_title": "WIM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "w",
 		"rating_standard": 2245,
-		"rating_rapid": 2151,
+		"rating_rapid": 2194,
 		"rating_blitz": 2196
+	},
+	{
+		"fideid": 13511068,
+		"name": "Kramich, Aliaksei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 2244,
+		"rating_rapid": 2157,
+		"rating_blitz": 2379
 	},
 	{
 		"fideid": 13503600,
@@ -1357,7 +1374,7 @@
 		"flag": "",
 		"rating_standard": 2236,
 		"rating_rapid": 2129,
-		"rating_blitz": 2078
+		"rating_blitz": 2028
 	},
 	{
 		"fideid": 13503839,
@@ -1817,23 +1834,6 @@
 		"rating_standard": 2196,
 		"rating_rapid": 2167,
 		"rating_blitz": 2096
-	},
-	{
-		"fideid": 13511068,
-		"name": "Kramich, Aliaksei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 2195,
-		"rating_rapid": 2157,
-		"rating_blitz": 2379
 	},
 	{
 		"fideid": 13503170,
@@ -2456,13 +2456,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 2148,
-		"rating_rapid": 2186,
-		"rating_blitz": 2194
+		"rating_rapid": 2118,
+		"rating_blitz": 2170
 	},
 	{
 		"fideid": 13523520,
@@ -2473,13 +2473,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 2144,
-		"rating_rapid": 2236,
-		"rating_blitz": 2125
+		"rating_rapid": 2119,
+		"rating_blitz": 2171
 	},
 	{
 		"fideid": 13506994,
@@ -3176,7 +3176,7 @@
 		"flag": "",
 		"rating_standard": 2095,
 		"rating_rapid": 2037,
-		"rating_blitz": 2265
+		"rating_blitz": 2306
 	},
 	{
 		"fideid": 13504436,
@@ -4757,7 +4757,7 @@
 		"flag": "",
 		"rating_standard": 1998,
 		"rating_rapid": 1925,
-		"rating_blitz": 2039
+		"rating_blitz": 2108
 	},
 	{
 		"fideid": 13524402,
@@ -5159,7 +5159,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -5182,7 +5182,7 @@
 		"flag": "i",
 		"rating_standard": 1981,
 		"rating_rapid": 1960,
-		"rating_blitz": 1921
+		"rating_blitz": 1924
 	},
 	{
 		"fideid": 13506676,
@@ -6077,7 +6077,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -6592,7 +6592,7 @@
 		"birthday": 2000,
 		"flag": "i",
 		"rating_standard": 1933,
-		"rating_rapid": 1859,
+		"rating_rapid": 1882,
 		"rating_blitz": 1859
 	},
 	{
@@ -8083,7 +8083,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -8287,7 +8287,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
@@ -8466,6 +8466,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13502271,
+		"name": "Morgaenko, Ekaterina",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "w",
+		"rating_standard": 1872,
+		"rating_rapid": 1902,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13511190,
 		"name": "Hrybchuk, Kiryl",
 		"country": "BLR",
@@ -8481,23 +8498,6 @@
 		"rating_standard": 1869,
 		"rating_rapid": 1871,
 		"rating_blitz": 1968
-	},
-	{
-		"fideid": 13502271,
-		"name": "Morgaenko, Ekaterina",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "w",
-		"rating_standard": 1869,
-		"rating_rapid": 1902,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13502611,
@@ -8525,13 +8525,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1868,
-		"rating_rapid": 1716,
-		"rating_blitz": 1901
+		"rating_rapid": 1811,
+		"rating_blitz": 1871
 	},
 	{
 		"fideid": 13507125,
@@ -8610,7 +8610,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -8797,7 +8797,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -8899,7 +8899,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -8922,7 +8922,7 @@
 		"flag": "",
 		"rating_standard": 1848,
 		"rating_rapid": 1878,
-		"rating_blitz": 1845
+		"rating_blitz": 1798
 	},
 	{
 		"fideid": 13506650,
@@ -9630,7 +9630,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -9732,13 +9732,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1821,
-		"rating_rapid": 1900,
-		"rating_blitz": 1877
+		"rating_rapid": 1836,
+		"rating_blitz": 1824
 	},
 	{
 		"fideid": 13514679,
@@ -10786,13 +10786,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1789,
 		"rating_rapid": 1720,
-		"rating_blitz": 1717
+		"rating_blitz": 1747
 	},
 	{
 		"fideid": 13507702,
@@ -11126,13 +11126,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1779,
-		"rating_rapid": 1769,
-		"rating_blitz": 1861
+		"rating_rapid": 1859,
+		"rating_blitz": 1882
 	},
 	{
 		"fideid": 13509470,
@@ -11177,7 +11177,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -11194,7 +11194,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -11268,7 +11268,7 @@
 		"flag": "",
 		"rating_standard": 1774,
 		"rating_rapid": 1764,
-		"rating_blitz": 1682
+		"rating_blitz": 1680
 	},
 	{
 		"fideid": 13511165,
@@ -11330,7 +11330,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -11500,7 +11500,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -11704,13 +11704,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1759,
-		"rating_rapid": 1757,
-		"rating_blitz": 1884
+		"rating_rapid": 1814,
+		"rating_blitz": 1913
 	},
 	{
 		"fideid": 13511742,
@@ -11891,13 +11891,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1752,
-		"rating_rapid": 1835,
-		"rating_blitz": 1831
+		"rating_rapid": 1819,
+		"rating_blitz": 1773
 	},
 	{
 		"fideid": 13513168,
@@ -11976,7 +11976,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -12078,13 +12078,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1744,
-		"rating_rapid": 1806,
-		"rating_blitz": 1765
+		"rating_rapid": 1733,
+		"rating_blitz": 1799
 	},
 	{
 		"fideid": 13508725,
@@ -12282,13 +12282,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1734,
-		"rating_rapid": 1649,
-		"rating_blitz": 1701
+		"rating_rapid": 1658,
+		"rating_blitz": 1747
 	},
 	{
 		"fideid": 13522701,
@@ -12367,7 +12367,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -12390,7 +12390,7 @@
 		"flag": "",
 		"rating_standard": 1730,
 		"rating_rapid": 1717,
-		"rating_blitz": 1806
+		"rating_blitz": 1721
 	},
 	{
 		"fideid": 13510711,
@@ -12605,7 +12605,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -12832,7 +12832,7 @@
 		"flag": "",
 		"rating_standard": 1718,
 		"rating_rapid": 1770,
-		"rating_blitz": 1691
+		"rating_blitz": 1756
 	},
 	{
 		"fideid": 13518593,
@@ -13104,7 +13104,7 @@
 		"flag": "",
 		"rating_standard": 1707,
 		"rating_rapid": 1780,
-		"rating_blitz": 1749
+		"rating_blitz": 1781
 	},
 	{
 		"fideid": 13510240,
@@ -13132,7 +13132,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -13319,13 +13319,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1703,
-		"rating_rapid": 1827,
-		"rating_blitz": 1789
+		"rating_rapid": 1737,
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 13507109,
@@ -13540,7 +13540,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -13591,7 +13591,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -13608,7 +13608,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -13665,7 +13665,7 @@
 		"flag": "",
 		"rating_standard": 1693,
 		"rating_rapid": 1780,
-		"rating_blitz": 1801
+		"rating_blitz": 1793
 	},
 	{
 		"fideid": 13531077,
@@ -13750,7 +13750,7 @@
 		"flag": "i",
 		"rating_standard": 1691,
 		"rating_rapid": 1763,
-		"rating_blitz": 1686
+		"rating_blitz": 1685
 	},
 	{
 		"fideid": 13512714,
@@ -14118,7 +14118,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -14305,7 +14305,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -14543,7 +14543,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -14582,8 +14582,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1670,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1579,
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 13508210,
@@ -14686,23 +14686,6 @@
 		"rating_standard": 1669,
 		"rating_rapid": 1728,
 		"rating_blitz": 1609
-	},
-	{
-		"fideid": 13501186,
-		"name": "Bogodukhov, Roman",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": 1668,
-		"rating_rapid": 1661,
-		"rating_blitz": 1665
 	},
 	{
 		"fideid": 13510118,
@@ -14815,7 +14798,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -15121,13 +15104,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1657,
-		"rating_rapid": 1661,
-		"rating_blitz": 1647
+		"rating_rapid": 1664,
+		"rating_blitz": 1665
 	},
 	{
 		"fideid": 13519697,
@@ -15263,7 +15246,7 @@
 		"flag": "",
 		"rating_standard": 1654,
 		"rating_rapid": 1748,
-		"rating_blitz": 1625
+		"rating_blitz": 1618
 	},
 	{
 		"fideid": 13513427,
@@ -15342,7 +15325,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -15366,6 +15349,23 @@
 		"rating_standard": 1651,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13501186,
+		"name": "Bogodukhov, Roman",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": 1649,
+		"rating_rapid": 1661,
+		"rating_blitz": 1612
 	},
 	{
 		"fideid": 13516264,
@@ -15393,7 +15393,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -15546,13 +15546,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1645,
-		"rating_rapid": 1625,
-		"rating_blitz": 1579
+		"rating_rapid": 1514,
+		"rating_blitz": 1620
 	},
 	{
 		"fideid": 13520059,
@@ -15631,7 +15631,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -15739,7 +15739,7 @@
 		"flag": "i",
 		"rating_standard": 1642,
 		"rating_rapid": 1637,
-		"rating_blitz": 1693
+		"rating_blitz": 1670
 	},
 	{
 		"fideid": 13512650,
@@ -15801,7 +15801,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -16073,7 +16073,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -16124,7 +16124,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -16158,7 +16158,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -16175,7 +16175,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -16192,7 +16192,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -16413,13 +16413,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1624,
-		"rating_rapid": 1604,
-		"rating_blitz": 1616
+		"rating_rapid": 1665,
+		"rating_blitz": 1641
 	},
 	{
 		"fideid": 13514539,
@@ -16515,7 +16515,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -16651,13 +16651,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1618,
-		"rating_rapid": 1556,
-		"rating_blitz": 1516
+		"rating_rapid": 1559,
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 13527320,
@@ -16702,13 +16702,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1618,
-		"rating_rapid": 1512,
-		"rating_blitz": 1702
+		"rating_rapid": 1523,
+		"rating_blitz": 1754
 	},
 	{
 		"fideid": 13535315,
@@ -16719,7 +16719,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -16804,7 +16804,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -17127,7 +17127,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -17144,7 +17144,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -17178,13 +17178,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1604,
-		"rating_rapid": 1559,
-		"rating_blitz": null
+		"rating_rapid": 1561,
+		"rating_blitz": 1445
 	},
 	{
 		"fideid": 13527860,
@@ -17212,7 +17212,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -17280,13 +17280,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1603,
-		"rating_rapid": 1792,
-		"rating_blitz": 1711
+		"rating_rapid": 1720,
+		"rating_blitz": 1612
 	},
 	{
 		"fideid": 13529021,
@@ -17314,13 +17314,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1601,
-		"rating_rapid": 1674,
-		"rating_blitz": 1845
+		"rating_rapid": 1719,
+		"rating_blitz": 1759
 	},
 	{
 		"fideid": 13530291,
@@ -17365,7 +17365,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -17382,13 +17382,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1600,
 		"rating_rapid": 1612,
-		"rating_blitz": 1562
+		"rating_blitz": 1467
 	},
 	{
 		"fideid": 13525050,
@@ -17433,7 +17433,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -17552,13 +17552,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1596,
-		"rating_rapid": 1499,
-		"rating_blitz": 1452
+		"rating_rapid": 1482,
+		"rating_blitz": 1489
 	},
 	{
 		"fideid": 13525220,
@@ -17603,7 +17603,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -17671,7 +17671,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -17756,13 +17756,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1592,
-		"rating_rapid": 1725,
-		"rating_blitz": 1689
+		"rating_rapid": 1676,
+		"rating_blitz": 1735
 	},
 	{
 		"fideid": 13516825,
@@ -17977,7 +17977,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -18102,7 +18102,7 @@
 		"flag": "w",
 		"rating_standard": 1584,
 		"rating_rapid": 1589,
-		"rating_blitz": 1502
+		"rating_blitz": 1454
 	},
 	{
 		"fideid": 13515152,
@@ -18164,7 +18164,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -18181,12 +18181,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1583,
-		"rating_rapid": 1566,
+		"rating_rapid": 1612,
 		"rating_blitz": 1436
 	},
 	{
@@ -18232,13 +18232,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1583,
 		"rating_rapid": 1538,
-		"rating_blitz": 1534
+		"rating_blitz": 1530
 	},
 	{
 		"fideid": 13530798,
@@ -18334,7 +18334,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -18385,13 +18385,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1581,
-		"rating_rapid": 1509,
-		"rating_blitz": 1418
+		"rating_rapid": 1499,
+		"rating_blitz": 1591
 	},
 	{
 		"fideid": 13527118,
@@ -18487,7 +18487,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -18555,7 +18555,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -18798,8 +18798,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1575,
-		"rating_rapid": 1703,
-		"rating_blitz": 1786
+		"rating_rapid": 1645,
+		"rating_blitz": 1796
 	},
 	{
 		"fideid": 13537091,
@@ -18810,7 +18810,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -18912,7 +18912,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -19082,12 +19082,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1569,
-		"rating_rapid": 1547,
+		"rating_rapid": 1621,
 		"rating_blitz": 1590
 	},
 	{
@@ -19167,7 +19167,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -19240,8 +19240,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1567,
-		"rating_rapid": 1496,
-		"rating_blitz": null
+		"rating_rapid": 1567,
+		"rating_blitz": 1499
 	},
 	{
 		"fideid": 13522370,
@@ -19354,13 +19354,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1562,
-		"rating_rapid": 1702,
-		"rating_blitz": 1697
+		"rating_rapid": 1733,
+		"rating_blitz": 1654
 	},
 	{
 		"fideid": 13518526,
@@ -19422,7 +19422,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -19456,13 +19456,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1560,
-		"rating_rapid": 1584,
-		"rating_blitz": 1534
+		"rating_rapid": 1591,
+		"rating_blitz": 1458
 	},
 	{
 		"fideid": 13524690,
@@ -19490,7 +19490,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -19524,7 +19524,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -19558,7 +19558,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -19643,7 +19643,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -19660,7 +19660,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -19677,7 +19677,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -20017,13 +20017,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1550,
-		"rating_rapid": 1537,
-		"rating_blitz": 1443
+		"rating_rapid": 1509,
+		"rating_blitz": 1498
 	},
 	{
 		"fideid": 13538276,
@@ -20119,7 +20119,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -20170,7 +20170,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -20204,7 +20204,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -20221,7 +20221,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -20238,7 +20238,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -20272,7 +20272,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -20374,7 +20374,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -20765,13 +20765,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1533,
-		"rating_rapid": 1653,
-		"rating_blitz": 1566
+		"rating_rapid": 1611,
+		"rating_blitz": 1618
 	},
 	{
 		"fideid": 13505475,
@@ -20816,7 +20816,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -20850,7 +20850,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -20872,8 +20872,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1531,
-		"rating_rapid": 1589,
-		"rating_blitz": 1428
+		"rating_rapid": 1572,
+		"rating_blitz": 1424
 	},
 	{
 		"fideid": 13534734,
@@ -20901,7 +20901,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -21003,13 +21003,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1528,
-		"rating_rapid": 1572,
-		"rating_blitz": 1524
+		"rating_rapid": 1483,
+		"rating_blitz": 1492
 	},
 	{
 		"fideid": 13516361,
@@ -21111,7 +21111,7 @@
 		"flag": "i",
 		"rating_standard": 1526,
 		"rating_rapid": 1482,
-		"rating_blitz": 1483
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 13523112,
@@ -21161,7 +21161,7 @@
 		"birthday": 2011,
 		"flag": "i",
 		"rating_standard": 1524,
-		"rating_rapid": 1484,
+		"rating_rapid": 1615,
 		"rating_blitz": 1462
 	},
 	{
@@ -21173,13 +21173,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1524,
-		"rating_rapid": 1518,
-		"rating_blitz": 1602
+		"rating_rapid": 1576,
+		"rating_blitz": 1648
 	},
 	{
 		"fideid": 13537989,
@@ -21224,13 +21224,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1523,
-		"rating_rapid": 1486,
-		"rating_blitz": 1475
+		"rating_rapid": 1443,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 13528238,
@@ -21241,7 +21241,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -21275,13 +21275,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1522,
-		"rating_rapid": 1589,
-		"rating_blitz": 1684
+		"rating_rapid": 1577,
+		"rating_blitz": 1815
 	},
 	{
 		"fideid": 13530372,
@@ -21292,7 +21292,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -21326,7 +21326,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -21428,7 +21428,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -21502,7 +21502,7 @@
 		"flag": "",
 		"rating_standard": 1517,
 		"rating_rapid": 1449,
-		"rating_blitz": 1538
+		"rating_blitz": 1534
 	},
 	{
 		"fideid": 13528009,
@@ -21615,7 +21615,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -21649,7 +21649,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -21717,7 +21717,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -21734,7 +21734,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
@@ -21802,7 +21802,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -21819,7 +21819,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -22023,13 +22023,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1505,
-		"rating_rapid": 1408,
-		"rating_blitz": 1490
+		"rating_rapid": 1519,
+		"rating_blitz": 1502
 	},
 	{
 		"fideid": 13513095,
@@ -22057,7 +22057,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -22176,13 +22176,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1503,
-		"rating_rapid": 1434,
-		"rating_blitz": 1404
+		"rating_rapid": 1404,
+		"rating_blitz": 1437
 	},
 	{
 		"fideid": 13526065,
@@ -22312,7 +22312,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -22346,13 +22346,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1498,
-		"rating_rapid": 1407,
-		"rating_blitz": 1465
+		"rating_rapid": null,
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 13512153,
@@ -22380,13 +22380,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1497,
-		"rating_rapid": 1537,
-		"rating_blitz": 1531
+		"rating_rapid": 1583,
+		"rating_blitz": 1470
 	},
 	{
 		"fideid": 13533924,
@@ -22431,7 +22431,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -22499,7 +22499,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -22669,7 +22669,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -22788,13 +22788,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1486,
-		"rating_rapid": 1429,
-		"rating_blitz": 1412
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13536184,
@@ -22913,7 +22913,7 @@
 		"flag": "i",
 		"rating_standard": 1483,
 		"rating_rapid": 1567,
-		"rating_blitz": 1476
+		"rating_blitz": 1564
 	},
 	{
 		"fideid": 13515640,
@@ -22963,8 +22963,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1483,
-		"rating_rapid": 1664,
-		"rating_blitz": 1705
+		"rating_rapid": 1747,
+		"rating_blitz": 1775
 	},
 	{
 		"fideid": 13517457,
@@ -23026,7 +23026,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -23060,7 +23060,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
@@ -23082,7 +23082,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1479,
-		"rating_rapid": null,
+		"rating_rapid": 1431,
 		"rating_blitz": 1410
 	},
 	{
@@ -23162,7 +23162,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -23213,13 +23213,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1477,
-		"rating_rapid": 1488,
-		"rating_blitz": 1516
+		"rating_rapid": 1567,
+		"rating_blitz": 1447
 	},
 	{
 		"fideid": 13528513,
@@ -23298,13 +23298,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1474,
 		"rating_rapid": 1558,
-		"rating_blitz": 1641
+		"rating_blitz": 1638
 	},
 	{
 		"fideid": 13540017,
@@ -23383,7 +23383,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -23485,7 +23485,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -23502,13 +23502,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1467,
-		"rating_rapid": 1499,
-		"rating_blitz": 1520
+		"rating_rapid": 1514,
+		"rating_blitz": 1534
 	},
 	{
 		"fideid": 13539817,
@@ -23655,7 +23655,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -23672,7 +23672,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -23774,12 +23774,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1460,
-		"rating_rapid": 1466,
+		"rating_rapid": 1417,
 		"rating_blitz": 1587
 	},
 	{
@@ -23949,8 +23949,8 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1456,
-		"rating_rapid": 1412,
-		"rating_blitz": 1482
+		"rating_rapid": 1512,
+		"rating_blitz": 1538
 	},
 	{
 		"fideid": 13539582,
@@ -24148,7 +24148,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -24284,7 +24284,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -24301,13 +24301,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1444,
 		"rating_rapid": 1437,
-		"rating_blitz": 1407
+		"rating_blitz": 1420
 	},
 	{
 		"fideid": 13533967,
@@ -24352,7 +24352,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -24369,7 +24369,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -24409,7 +24409,7 @@
 		"flag": "",
 		"rating_standard": 1443,
 		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1441
 	},
 	{
 		"fideid": 13526405,
@@ -24454,7 +24454,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -24595,8 +24595,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1436,
-		"rating_rapid": 1432,
-		"rating_blitz": null
+		"rating_rapid": 1464,
+		"rating_blitz": 1438
 	},
 	{
 		"fideid": 13537784,
@@ -24692,13 +24692,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1433,
 		"rating_rapid": 1542,
-		"rating_blitz": 1561
+		"rating_blitz": 1450
 	},
 	{
 		"fideid": 13538225,
@@ -24726,7 +24726,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -24749,7 +24749,7 @@
 		"flag": "",
 		"rating_standard": 1432,
 		"rating_rapid": 1474,
-		"rating_blitz": 1436
+		"rating_blitz": 1522
 	},
 	{
 		"fideid": 13522833,
@@ -24777,7 +24777,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -24794,7 +24794,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -24845,7 +24845,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -24862,12 +24862,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1428,
-		"rating_rapid": null,
+		"rating_rapid": 1405,
 		"rating_blitz": null
 	},
 	{
@@ -24884,8 +24884,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1428,
-		"rating_rapid": 1564,
-		"rating_blitz": 1600
+		"rating_rapid": 1565,
+		"rating_blitz": 1628
 	},
 	{
 		"fideid": 13530615,
@@ -25049,7 +25049,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
@@ -25066,7 +25066,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -25151,7 +25151,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -25174,7 +25174,7 @@
 		"flag": "",
 		"rating_standard": 1416,
 		"rating_rapid": 1485,
-		"rating_blitz": null
+		"rating_blitz": 1459
 	},
 	{
 		"fideid": 13538080,
@@ -25253,13 +25253,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1413,
-		"rating_rapid": 1470,
-		"rating_blitz": 1438
+		"rating_rapid": 1455,
+		"rating_blitz": 1472
 	},
 	{
 		"fideid": 13531301,
@@ -25270,12 +25270,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1411,
-		"rating_rapid": 1554,
+		"rating_rapid": 1536,
 		"rating_blitz": 1446
 	},
 	{
@@ -25423,7 +25423,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -26095,6 +26095,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13536940,
+		"name": "Belahlazau, Aliaksandr",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1435,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13538292,
 		"name": "Beliakov, Maksim",
 		"country": "BLR",
@@ -26211,7 +26228,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1611,
-		"rating_blitz": 1467
+		"rating_blitz": 1461
 	},
 	{
 		"fideid": 13523724,
@@ -26586,6 +26603,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1846,
 		"rating_blitz": 1866
+	},
+	{
+		"fideid": 13542230,
+		"name": "Bykouski, Ihar",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1499,
+		"rating_blitz": 1552
 	},
 	{
 		"fideid": 13521454,
@@ -26987,13 +27021,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1445,
-		"rating_blitz": 1424
+		"rating_rapid": 1434,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13515179,
@@ -27877,7 +27911,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1469,
-		"rating_blitz": 1432
+		"rating_blitz": 1449
 	},
 	{
 		"fideid": 13525085,
@@ -28254,6 +28288,23 @@
 		"rating_blitz": 1818
 	},
 	{
+		"fideid": 13539892,
+		"name": "Hryshchanka, Viacheslav",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1524,
+		"rating_blitz": 1513
+	},
+	{
 		"fideid": 13534696,
 		"name": "Hryshkavets, Maksim",
 		"country": "BLR",
@@ -28319,7 +28370,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1538,
-		"rating_blitz": 1891
+		"rating_blitz": 1900
 	},
 	{
 		"fideid": 13518240,
@@ -28458,6 +28509,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13542850,
+		"name": "Kalinouski, Barys",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1508,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13532758,
 		"name": "Kaloshits, Ksenya",
 		"country": "BLR",
@@ -28489,7 +28557,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1417,
-		"rating_blitz": 1402
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13541722,
@@ -28772,13 +28840,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1621,
-		"rating_blitz": 1529
+		"rating_rapid": 1687,
+		"rating_blitz": 1523
 	},
 	{
 		"fideid": 13529960,
@@ -28874,13 +28942,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1661,
-		"rating_blitz": 1531
+		"rating_rapid": 1651,
+		"rating_blitz": 1552
 	},
 	{
 		"fideid": 13515144,
@@ -29801,6 +29869,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13532588,
+		"name": "Levin, Andrei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1489,
+		"rating_blitz": 1441
+	},
+	{
 		"fideid": 13521152,
 		"name": "Lichyk, Mikhail",
 		"country": "BLR",
@@ -30013,13 +30098,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1516,
-		"rating_blitz": 1438
+		"rating_blitz": 1435
 	},
 	{
 		"fideid": 13520881,
@@ -30138,7 +30223,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1499,
-		"rating_blitz": 1440
+		"rating_blitz": 1498
 	},
 	{
 		"fideid": 13520784,
@@ -30447,6 +30532,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13535862,
+		"name": "Miadzvedz, Raman",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1497,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13504959,
 		"name": "Miadzvetski, Dzmitry",
 		"country": "BLR",
@@ -30648,7 +30750,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1510,
-		"rating_blitz": 1603
+		"rating_blitz": 1600
 	},
 	{
 		"fideid": 13539035,
@@ -31311,7 +31413,7 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1503,
-		"rating_blitz": 1506
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13537326,
@@ -31883,12 +31985,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1439,
+		"rating_rapid": 1400,
 		"rating_blitz": null
 	},
 	{
@@ -32895,6 +32997,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13542877,
+		"name": "Sialedchanka, Hleb",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1484,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13520687,
 		"name": "Sialitskaya, Vasilina",
 		"country": "BLR",
@@ -33439,6 +33558,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13542842,
+		"name": "Tkach, Vitali",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1479,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13507214,
 		"name": "Tkachenok, Maxim",
 		"country": "BLR",
@@ -33515,13 +33651,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1461,
-		"rating_blitz": 1563
+		"rating_rapid": 1429,
+		"rating_blitz": 1507
 	},
 	{
 		"fideid": 13519077,
@@ -33556,6 +33692,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1594,
 		"rating_blitz": 1582
+	},
+	{
+		"fideid": 13539973,
+		"name": "Tsybin, Ales",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 20,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1406,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13516868,
@@ -34297,13 +34450,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1436,
-		"rating_blitz": null
+		"rating_rapid": 1410,
+		"rating_blitz": 1423
 	},
 	{
 		"fideid": 13531026,
@@ -34576,6 +34729,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1454,
 		"rating_blitz": 1516
+	},
+	{
+		"fideid": 13536338,
+		"name": "Zhur, Yelisei",
+		"country": "BLR",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1593,
+		"rating_blitz": 1483
 	},
 	{
 		"fideid": 13518178,
@@ -34884,23 +35054,6 @@
 		"rating_blitz": 1747
 	},
 	{
-		"fideid": 13537830,
-		"name": "Baitasau, Nazim",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1462
-	},
-	{
 		"fideid": 13513583,
 		"name": "Baldousky, Daniil",
 		"country": "BLR",
@@ -34943,8 +35096,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": null,
@@ -35035,23 +35188,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1496
-	},
-	{
-		"fideid": 13541552,
-		"name": "Bohush, Ihnat",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1473
 	},
 	{
 		"fideid": 13532979,
@@ -35215,13 +35351,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1536
+		"rating_blitz": 1531
 	},
 	{
 		"fideid": 13533576,
@@ -35700,23 +35836,6 @@
 		"rating_blitz": 1462
 	},
 	{
-		"fideid": 13539892,
-		"name": "Hryshchanka, Viacheslav",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1513
-	},
-	{
 		"fideid": 13541900,
 		"name": "Ignatov, Maksim",
 		"country": "BLR",
@@ -36048,8 +36167,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": null,
@@ -36191,23 +36310,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1436
-	},
-	{
-		"fideid": 13532588,
-		"name": "Levin, Andrei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1441
 	},
 	{
 		"fideid": 13540742,
@@ -36363,6 +36465,23 @@
 		"rating_blitz": 1434
 	},
 	{
+		"fideid": 13539132,
+		"name": "Maroz, Valeryia",
+		"country": "BLR",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1414
+	},
+	{
 		"fideid": 13526588,
 		"name": "Matsiuk, Maksim",
 		"country": "BLR",
@@ -36439,8 +36558,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": null,
@@ -36533,23 +36652,6 @@
 		"rating_blitz": 1567
 	},
 	{
-		"fideid": 13540840,
-		"name": "Navumenka, Nadzeya",
-		"country": "BLR",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1446
-	},
-	{
 		"fideid": 13519450,
 		"name": "Nikitin, David",
 		"country": "BLR",
@@ -36567,23 +36669,6 @@
 		"rating_blitz": 1597
 	},
 	{
-		"fideid": 13536850,
-		"name": "Nikolaev, Gleb",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1438
-	},
-	{
 		"fideid": 13538870,
 		"name": "Novikau, Makar",
 		"country": "BLR",
@@ -36598,7 +36683,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1532
+		"rating_blitz": 1562
 	},
 	{
 		"fideid": 13531506,
@@ -36918,7 +37003,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1635
@@ -36973,23 +37058,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1465
-	},
-	{
-		"fideid": 13539140,
-		"name": "Ryzhykov, Andrew",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1499
 	},
 	{
 		"fideid": 13540726,
@@ -37162,23 +37230,6 @@
 		"rating_blitz": 1453
 	},
 	{
-		"fideid": 13541358,
-		"name": "Shautsou, Vitali",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1977,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1438
-	},
-	{
 		"fideid": 13542320,
 		"name": "Shayunova, Krystsina",
 		"country": "BLR",
@@ -37187,7 +37238,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
@@ -37459,13 +37510,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1448
+		"rating_blitz": 1447
 	},
 	{
 		"fideid": 13512277,
@@ -37544,13 +37595,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1422
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 13541374,
@@ -37806,22 +37857,5 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1534
-	},
-	{
-		"fideid": 13536338,
-		"name": "Zhur, Yelisei",
-		"country": "BLR",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1519
 	}
 ]
