@@ -584,7 +584,7 @@
 		"sex": "M",
 		"title": "GM",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "FT",
 		"foa_title": "",
 		"games": 0,
 		"k": 10,
@@ -5336,6 +5336,23 @@
 		"rating_standard": 2268,
 		"rating_rapid": 2136,
 		"rating_blitz": 2022
+	},
+	{
+		"fideid": 600229,
+		"name": "Belkhodja, Slim",
+		"country": "FRA",
+		"sex": "M",
+		"title": "GM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 10,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 2267,
+		"rating_rapid": 2304,
+		"rating_blitz": 2264
 	},
 	{
 		"fideid": 26010208,
@@ -37880,7 +37897,7 @@
 		"name": "Passager, Jean-Pierre",
 		"country": "FRA",
 		"sex": "M",
-		"title": "",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -77282,23 +77299,6 @@
 		"rating_blitz": 1520
 	},
 	{
-		"fideid": 678481,
-		"name": "Bertrand, Arthur",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 1944,
-		"rating_rapid": null,
-		"rating_blitz": 1861
-	},
-	{
 		"fideid": 646130,
 		"name": "Bertrand, Eric",
 		"country": "FRA",
@@ -77637,6 +77637,23 @@
 		"rating_standard": 1944,
 		"rating_rapid": 1945,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 678481,
+		"name": "Oger, Arthur",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 1944,
+		"rating_rapid": null,
+		"rating_blitz": 1861
 	},
 	{
 		"fideid": 622605,
@@ -146181,23 +146198,6 @@
 		"rating_standard": 1841,
 		"rating_rapid": 1682,
 		"rating_blitz": 1884
-	},
-	{
-		"fideid": 688169,
-		"name": "Mamah, Isabelle",
-		"country": "FRA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "w",
-		"rating_standard": 1841,
-		"rating_rapid": 1822,
-		"rating_blitz": 1769
 	},
 	{
 		"fideid": 20600364,
@@ -347952,7 +347952,7 @@
 		"birthday": 1955,
 		"flag": "",
 		"rating_standard": 1647,
-		"rating_rapid": 1624,
+		"rating_rapid": 1619,
 		"rating_blitz": 1592
 	},
 	{
@@ -597342,7 +597342,7 @@
 		"birthday": 1946,
 		"flag": "",
 		"rating_standard": 1438,
-		"rating_rapid": 1404,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -622400,7 +622400,7 @@
 		"birthday": 1947,
 		"flag": "w",
 		"rating_standard": 1408,
-		"rating_rapid": 1423,
+		"rating_rapid": 1413,
 		"rating_blitz": 1418
 	},
 	{
@@ -645660,23 +645660,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 527037266,
-		"name": "Bensimon, Mickael",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1978,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1538,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 527059642,
 		"name": "Bensimon, Mickael",
 		"country": "FRA",
@@ -645691,6 +645674,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1445,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 527037266,
+		"name": "Bensimon, Mickael",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1978,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1538,
 		"rating_blitz": null
 	},
 	{
@@ -664666,23 +664666,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 651009323,
-		"name": "Carlier, Pierre",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1945,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1458,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 544081820,
 		"name": "Carlier, Pierre",
 		"country": "FRA",
@@ -664697,6 +664680,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1671,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 651009323,
+		"name": "Carlier, Pierre",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1945,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1458,
 		"rating_blitz": null
 	},
 	{
@@ -689367,23 +689367,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 80411886,
-		"name": "Didier, Bastien",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1994,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1546,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 527018423,
 		"name": "Didier, Bastien",
 		"country": "FRA",
@@ -689399,6 +689382,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1504,
 		"rating_blitz": 1469
+	},
+	{
+		"fideid": 80411886,
+		"name": "Didier, Bastien",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1546,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 544068646,
@@ -699533,23 +699533,6 @@
 		"rating_blitz": 1739
 	},
 	{
-		"fideid": 80418813,
-		"name": "Faivre, Gabriel",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1596,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 527030318,
 		"name": "Faivre, Gabriel",
 		"country": "FRA",
@@ -699564,6 +699547,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1586,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 80418813,
+		"name": "Faivre, Gabriel",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1596,
 		"rating_blitz": null
 	},
 	{
@@ -708628,23 +708628,6 @@
 		"rating_blitz": 1489
 	},
 	{
-		"fideid": 551017253,
-		"name": "Garcia, Valentin",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1987,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1586,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 36002895,
 		"name": "Garcia, Valentin",
 		"country": "FRA",
@@ -708659,6 +708642,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1518,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 551017253,
+		"name": "Garcia, Valentin",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1987,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1586,
 		"rating_blitz": null
 	},
 	{
@@ -726903,23 +726903,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 560086440,
-		"name": "Hu, Emma",
-		"country": "FRA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1611,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 560091770,
 		"name": "Hu, Emma",
 		"country": "FRA",
@@ -726934,6 +726917,23 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1459,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 560086440,
+		"name": "Hu, Emma",
+		"country": "FRA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1611,
 		"rating_blitz": null
 	},
 	{
@@ -736219,23 +736219,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 560085096,
-		"name": "Klim, Ivan",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2019,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1417,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 576008088,
 		"name": "Klim, Ivan",
 		"country": "FRA",
@@ -736250,6 +736233,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1633,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 560085096,
+		"name": "Klim, Ivan",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1417,
 		"rating_blitz": null
 	},
 	{
@@ -747558,23 +747558,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 560082860,
-		"name": "Lefevre, Thomas",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 1991,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1519,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 551040255,
 		"name": "Lefevre, Thomas",
 		"country": "FRA",
@@ -747589,6 +747572,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1420,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 560082860,
+		"name": "Lefevre, Thomas",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1519,
 		"rating_blitz": null
 	},
 	{
@@ -748034,23 +748034,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 544093810,
-		"name": "Leger, Mathis",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1728,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 560007044,
 		"name": "Leger, Mathis",
 		"country": "FRA",
@@ -748065,6 +748048,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1529,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 544093810,
+		"name": "Leger, Mathis",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1728,
 		"rating_blitz": null
 	},
 	{
@@ -760886,23 +760886,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 560029439,
-		"name": "Martin, Abel",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1412,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 651095157,
 		"name": "Martin, Abel",
 		"country": "FRA",
@@ -760917,6 +760900,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1458,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 560029439,
+		"name": "Martin, Abel",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1412,
 		"rating_blitz": null
 	},
 	{
@@ -761022,23 +761022,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 527060098,
-		"name": "Martin, Guillaume",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1971,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1740,
-		"rating_blitz": 1768
-	},
-	{
 		"fideid": 653048784,
 		"name": "Martin, Guillaume",
 		"country": "FRA",
@@ -761056,8 +761039,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 653086554,
-		"name": "Martin, Guy",
+		"fideid": 527060098,
+		"name": "Martin, Guillaume",
 		"country": "FRA",
 		"sex": "M",
 		"title": "",
@@ -761065,12 +761048,12 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "i",
+		"k": 40,
+		"birthday": 1971,
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1480,
-		"rating_blitz": null
+		"rating_rapid": 1740,
+		"rating_blitz": 1768
 	},
 	{
 		"fideid": 651050099,
@@ -761088,6 +761071,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1504,
 		"rating_blitz": 1548
+	},
+	{
+		"fideid": 653086554,
+		"name": "Martin, Guy",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1480,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 80431798,
@@ -761260,23 +761260,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 652067700,
-		"name": "Martin, Raphael",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1621,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 560067330,
 		"name": "Martin, Raphael",
 		"country": "FRA",
@@ -761291,6 +761274,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1737,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 652067700,
+		"name": "Martin, Raphael",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1621,
 		"rating_blitz": null
 	},
 	{
@@ -787797,23 +787797,6 @@
 		"rating_blitz": 1545
 	},
 	{
-		"fideid": 652045170,
-		"name": "Pierron, Maxime",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1614,
-		"rating_blitz": 1621
-	},
-	{
 		"fideid": 653037308,
 		"name": "Pierron, Maxime",
 		"country": "FRA",
@@ -787829,6 +787812,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1452,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 652045170,
+		"name": "Pierron, Maxime",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1614,
+		"rating_blitz": 1621
 	},
 	{
 		"fideid": 36092029,
@@ -821185,23 +821185,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 652048535,
-		"name": "Thomas, Arthur",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1496,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 653070810,
 		"name": "Thomas, Arthur",
 		"country": "FRA",
@@ -821216,6 +821199,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1400,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 652048535,
+		"name": "Thomas, Arthur",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1496,
 		"rating_blitz": null
 	},
 	{
@@ -830059,23 +830059,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 36052019,
-		"name": "Vincent, Michel",
-		"country": "FRA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1960,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1438,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 527023990,
 		"name": "Vincent, Michel",
 		"country": "FRA",
@@ -830090,6 +830073,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1586,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 36052019,
+		"name": "Vincent, Michel",
+		"country": "FRA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1960,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1438,
 		"rating_blitz": null
 	},
 	{
