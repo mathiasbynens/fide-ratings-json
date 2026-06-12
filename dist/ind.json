@@ -2726,7 +2726,7 @@
 		"sex": "M",
 		"title": "GM",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "FT",
 		"foa_title": "",
 		"games": 0,
 		"k": 10,
@@ -4679,7 +4679,7 @@
 		"name": "Arpith S Bijoy",
 		"country": "IND",
 		"sex": "M",
-		"title": "",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -7960,7 +7960,7 @@
 		"name": "Amartya Saumitra Gupta",
 		"country": "IND",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -8657,7 +8657,7 @@
 		"name": "Ajjesh J R",
 		"country": "IND",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -9643,7 +9643,7 @@
 		"name": "Utkrisht Tuli",
 		"country": "IND",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -9968,7 +9968,7 @@
 		"sex": "M",
 		"title": "FM",
 		"w_title": "",
-		"o_title": "FT",
+		"o_title": "FT,NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -13028,7 +13028,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -14250,7 +14250,7 @@
 		"name": "Pattnayak Nilsu",
 		"country": "IND",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -20638,6 +20638,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33472564,
+		"name": "Ayaan Phutane",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 2072,
+		"rating_rapid": 1984,
+		"rating_blitz": 1807
+	},
+	{
 		"fideid": 5010780,
 		"name": "Devendra, Kumar D.",
 		"country": "IND",
@@ -20755,23 +20772,6 @@
 		"rating_standard": 2071,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 33472564,
-		"name": "Ayaan Phutane",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 2071,
-		"rating_rapid": 1984,
-		"rating_blitz": 1807
 	},
 	{
 		"fideid": 5014492,
@@ -21161,7 +21161,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 2068,
-		"rating_rapid": 2083,
+		"rating_rapid": 2084,
 		"rating_blitz": 2017
 	},
 	{
@@ -22922,7 +22922,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -26184,7 +26184,7 @@
 		"name": "Divith Reddy Adulla",
 		"country": "IND",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -32222,7 +32222,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "FI",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1980,
@@ -38579,7 +38579,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
@@ -39283,7 +39283,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1961,
-		"rating_rapid": 1971,
+		"rating_rapid": 1968,
 		"rating_blitz": 1973
 	},
 	{
@@ -44002,7 +44002,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -53431,6 +53431,23 @@
 		"rating_blitz": 1927
 	},
 	{
+		"fideid": 48792969,
+		"name": "Kiruthik Murugun M",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1909,
+		"rating_rapid": 1771,
+		"rating_blitz": 1732
+	},
+	{
 		"fideid": 5038081,
 		"name": "Mughaho, Sumi",
 		"country": "IND",
@@ -53718,23 +53735,6 @@
 		"rating_standard": 1908,
 		"rating_rapid": 1766,
 		"rating_blitz": 1823
-	},
-	{
-		"fideid": 48792969,
-		"name": "Kiruthik Murugun M",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 17,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1908,
-		"rating_rapid": 1771,
-		"rating_blitz": 1732
 	},
 	{
 		"fideid": 33419272,
@@ -56729,6 +56729,23 @@
 		"rating_blitz": 1820
 	},
 	{
+		"fideid": 33429294,
+		"name": "Sarvesh E",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1899,
+		"rating_rapid": 1833,
+		"rating_blitz": 1807
+	},
+	{
 		"fideid": 5001102,
 		"name": "Shoumi, Mukerjee",
 		"country": "IND",
@@ -56948,23 +56965,6 @@
 		"rating_standard": 1898,
 		"rating_rapid": 1636,
 		"rating_blitz": 1674
-	},
-	{
-		"fideid": 33429294,
-		"name": "Sarvesh E",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1898,
-		"rating_rapid": 1833,
-		"rating_blitz": 1807
 	},
 	{
 		"fideid": 5028078,
@@ -61223,7 +61223,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -62441,23 +62441,6 @@
 		"rating_blitz": 1771
 	},
 	{
-		"fideid": 25980734,
-		"name": "Harikrishna C",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1882,
-		"rating_rapid": 1738,
-		"rating_blitz": 1536
-	},
-	{
 		"fideid": 5043662,
 		"name": "Jaffar Ali, M J",
 		"country": "IND",
@@ -62804,7 +62787,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "FI",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -62881,6 +62864,23 @@
 		"rating_standard": 1881,
 		"rating_rapid": null,
 		"rating_blitz": 1783
+	},
+	{
+		"fideid": 25980734,
+		"name": "Harikrishna C",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1881,
+		"rating_rapid": 1738,
+		"rating_blitz": 1536
 	},
 	{
 		"fideid": 5044286,
@@ -68006,7 +68006,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "FI",
+		"o_title": "FI,NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -71508,7 +71508,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NI",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -71889,7 +71889,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1856,
-		"rating_rapid": 1789,
+		"rating_rapid": 1788,
 		"rating_blitz": 1576
 	},
 	{
@@ -78699,7 +78699,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -89222,7 +89222,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -90436,7 +90436,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1815,
-		"rating_rapid": 1774,
+		"rating_rapid": 1775,
 		"rating_blitz": 1657
 	},
 	{
@@ -92528,7 +92528,7 @@
 		"flag": "",
 		"rating_standard": 1811,
 		"rating_rapid": 1670,
-		"rating_blitz": 1771
+		"rating_blitz": 1778
 	},
 	{
 		"fideid": 25012193,
@@ -95002,7 +95002,7 @@
 		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "FI",
+		"o_title": "FI,FI",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -100861,6 +100861,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 25912208,
+		"name": "Surya Alakanti",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1796,
+		"rating_rapid": 1697,
+		"rating_blitz": 1738
+	},
+	{
 		"fideid": 5001625,
 		"name": "Viswanathan, V N",
 		"country": "IND",
@@ -100935,7 +100952,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -101386,23 +101403,6 @@
 		"rating_standard": 1795,
 		"rating_rapid": 1713,
 		"rating_blitz": 1785
-	},
-	{
-		"fideid": 25912208,
-		"name": "Surya Alakanti",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1795,
-		"rating_rapid": 1697,
-		"rating_blitz": 1738
 	},
 	{
 		"fideid": 45073678,
@@ -111466,7 +111466,7 @@
 		"flag": "",
 		"rating_standard": 1778,
 		"rating_rapid": 1710,
-		"rating_blitz": 1663
+		"rating_blitz": 1675
 	},
 	{
 		"fideid": 46655395,
@@ -112557,6 +112557,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 25090666,
+		"name": "Prachurjya Gayan",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1776,
+		"rating_rapid": 1807,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5042976,
 		"name": "Pritesh, Mehta",
 		"country": "IND",
@@ -113098,23 +113115,6 @@
 		"flag": "",
 		"rating_standard": 1775,
 		"rating_rapid": 1484,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 25090666,
-		"name": "Prachurjya Gayan",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1775,
-		"rating_rapid": 1806,
 		"rating_blitz": null
 	},
 	{
@@ -121567,6 +121567,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33316759,
+		"name": "Sahrudh M P",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1762,
+		"rating_rapid": 1725,
+		"rating_blitz": 1710
+	},
+	{
 		"fideid": 5044987,
 		"name": "Sangeen, Mandre",
 		"country": "IND",
@@ -122245,23 +122262,6 @@
 		"rating_standard": 1761,
 		"rating_rapid": 1755,
 		"rating_blitz": 1704
-	},
-	{
-		"fideid": 33316759,
-		"name": "Sahrudh M P",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1761,
-		"rating_rapid": 1725,
-		"rating_blitz": 1710
 	},
 	{
 		"fideid": 35087380,
@@ -135368,7 +135368,7 @@
 		"flag": "",
 		"rating_standard": 1741,
 		"rating_rapid": 1787,
-		"rating_blitz": 1702
+		"rating_blitz": 1703
 	},
 	{
 		"fideid": 46684158,
@@ -136221,6 +136221,23 @@
 		"rating_blitz": 1699
 	},
 	{
+		"fideid": 5096758,
+		"name": "Sajan, V",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": 1740,
+		"rating_rapid": 1732,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 25027018,
 		"name": "Sankareswaran T A",
 		"country": "IND",
@@ -136867,23 +136884,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5096758,
-		"name": "Sajan, V",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": 1739,
-		"rating_rapid": 1732,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 35022130,
 		"name": "Shah Harshil Bhavesh",
 		"country": "IND",
@@ -137043,7 +137043,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -146564,7 +146564,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1976,
@@ -156519,6 +156519,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33414033,
+		"name": "Mamilla Yugandhar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1714,
+		"rating_rapid": 1448,
+		"rating_blitz": 1564
+	},
+	{
 		"fideid": 5078822,
 		"name": "Manish Kumar",
 		"country": "IND",
@@ -161897,7 +161914,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -163308,7 +163325,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -166749,7 +166766,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1703,
-		"rating_rapid": 1733,
+		"rating_rapid": 1734,
 		"rating_blitz": 1640
 	},
 	{
@@ -168569,7 +168586,7 @@
 		"flag": "i",
 		"rating_standard": 1701,
 		"rating_rapid": null,
-		"rating_blitz": 1687
+		"rating_blitz": 1693
 	},
 	{
 		"fideid": 25928562,
@@ -170629,6 +170646,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 25750402,
+		"name": "Yoganandan A",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1699,
+		"rating_rapid": 1686,
+		"rating_blitz": 1585
+	},
+	{
 		"fideid": 547095261,
 		"name": "Aadyant Singh",
 		"country": "IND",
@@ -171596,23 +171630,6 @@
 		"rating_standard": 1698,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 25750402,
-		"name": "Yoganandan A",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1698,
-		"rating_rapid": 1686,
-		"rating_blitz": 1585
 	},
 	{
 		"fideid": 531008321,
@@ -174036,7 +174053,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 1972,
@@ -181305,6 +181322,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 25037536,
+		"name": "Vaibhav Singh Verma",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AGM",
+		"games": 0,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 1688,
+		"rating_rapid": 1763,
+		"rating_blitz": 1664
+	},
+	{
 		"fideid": 88165787,
 		"name": "Zaeem Shanavaz",
 		"country": "IND",
@@ -182255,23 +182289,6 @@
 		"rating_standard": 1687,
 		"rating_rapid": 1653,
 		"rating_blitz": 1697
-	},
-	{
-		"fideid": 25037536,
-		"name": "Vaibhav Singh Verma",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AGM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 1687,
-		"rating_rapid": 1763,
-		"rating_blitz": 1663
 	},
 	{
 		"fideid": 547071036,
@@ -184932,7 +184949,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -186225,7 +186242,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 8,
 		"k": 20,
 		"birthday": 2004,
@@ -189788,6 +189805,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 48739731,
+		"name": "Raviwarman K",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1680,
+		"rating_rapid": 1694,
+		"rating_blitz": 1512
+	},
+	{
 		"fideid": 5094313,
 		"name": "Rishav Prasad",
 		"country": "IND",
@@ -190993,23 +191027,6 @@
 		"rating_standard": 1679,
 		"rating_rapid": 1841,
 		"rating_blitz": 1762
-	},
-	{
-		"fideid": 48739731,
-		"name": "Raviwarman K",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 16,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1679,
-		"rating_rapid": 1694,
-		"rating_blitz": 1512
 	},
 	{
 		"fideid": 5057426,
@@ -195976,6 +195993,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 48719200,
+		"name": "Apratim Shukla",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1674,
+		"rating_rapid": 1592,
+		"rating_blitz": 1658
+	},
+	{
 		"fideid": 537035967,
 		"name": "Arnav Nandan",
 		"country": "IND",
@@ -196928,23 +196962,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 48719200,
-		"name": "Apratim Shukla",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1673,
-		"rating_rapid": 1592,
-		"rating_blitz": 1658
-	},
-	{
 		"fideid": 35021222,
 		"name": "Aravindakshan Su",
 		"country": "IND",
@@ -197479,7 +197496,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 23,
 		"k": 40,
 		"birthday": 2013,
@@ -206489,7 +206506,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
@@ -207077,23 +207094,6 @@
 		"rating_blitz": 1659
 	},
 	{
-		"fideid": 33414033,
-		"name": "Mamilla Yugandhar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 1665,
-		"rating_rapid": 1464,
-		"rating_blitz": 1562
-	},
-	{
 		"fideid": 35017780,
 		"name": "Megha Roy",
 		"country": "IND",
@@ -207398,6 +207398,23 @@
 		"rating_standard": 1665,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 25198521,
+		"name": "Sandhana D",
+		"country": "IND",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 14,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1665,
+		"rating_rapid": 1524,
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 5071003,
@@ -208454,23 +208471,6 @@
 		"rating_blitz": 1659
 	},
 	{
-		"fideid": 25198521,
-		"name": "Sandhana D",
-		"country": "IND",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 14,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1664,
-		"rating_rapid": 1524,
-		"rating_blitz": 1510
-	},
-	{
 		"fideid": 45007330,
 		"name": "Shahid ul Mushtaq",
 		"country": "IND",
@@ -208503,6 +208503,23 @@
 		"rating_standard": 1664,
 		"rating_rapid": 1643,
 		"rating_blitz": 1741
+	},
+	{
+		"fideid": 88190226,
+		"name": "Sundareshwar N V",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1664,
+		"rating_rapid": 1533,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 531040160,
@@ -211223,23 +211240,6 @@
 		"rating_standard": 1662,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 88190226,
-		"name": "Sundareshwar N V",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1662,
-		"rating_rapid": 1533,
-		"rating_blitz": 1518
 	},
 	{
 		"fideid": 537091735,
@@ -219443,7 +219443,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "FI",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1996,
@@ -223948,7 +223948,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "NA",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 5,
 		"k": 20,
 		"birthday": 2006,
@@ -226786,7 +226786,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -229048,7 +229048,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1981,
@@ -232821,7 +232821,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -233416,7 +233416,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI",
+		"o_title": "NI,NA",
 		"foa_title": "AIM",
 		"games": 0,
 		"k": 20,
@@ -240465,6 +240465,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 537093827,
+		"name": "Sai Vishnu Senthilanthan",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1640,
+		"rating_rapid": 1636,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 46664424,
 		"name": "Sampath Kumar Kompella",
 		"country": "IND",
@@ -241703,23 +241720,6 @@
 		"flag": "i",
 		"rating_standard": 1639,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 537093827,
-		"name": "Sai Vishnu Senthilanthan",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 15,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1639,
-		"rating_rapid": 1636,
 		"rating_blitz": null
 	},
 	{
@@ -245538,7 +245538,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1959,
@@ -247101,7 +247101,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI",
+		"o_title": "NI,NA",
 		"foa_title": "AIM",
 		"games": 0,
 		"k": 20,
@@ -247561,7 +247561,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1978,
@@ -248591,23 +248591,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 35022415,
-		"name": "Ravi Kumar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1634,
-		"rating_rapid": 1676,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 46608176,
 		"name": "Ravi Kumar",
 		"country": "IND",
@@ -248622,6 +248605,23 @@
 		"flag": "i",
 		"rating_standard": 1634,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 35022415,
+		"name": "Ravi Kumar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 1634,
+		"rating_rapid": 1676,
 		"rating_blitz": null
 	},
 	{
@@ -249754,7 +249754,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1992,
@@ -250960,7 +250960,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "ACM",
 		"games": 0,
 		"k": 20,
@@ -252188,7 +252188,7 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1632,
 		"rating_rapid": 1498,
@@ -252933,7 +252933,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 8,
 		"k": 20,
 		"birthday": 1963,
@@ -253416,7 +253416,7 @@
 		"flag": "",
 		"rating_standard": 1631,
 		"rating_rapid": 1594,
-		"rating_blitz": 1547
+		"rating_blitz": 1523
 	},
 	{
 		"fideid": 429021715,
@@ -260463,7 +260463,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NI",
 		"foa_title": "AFM",
 		"games": 0,
 		"k": 20,
@@ -263796,7 +263796,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 7,
 		"k": 40,
 		"birthday": 2012,
@@ -269127,6 +269127,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 88150860,
+		"name": "Yathrish N",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1621,
+		"rating_rapid": 1411,
+		"rating_blitz": 1509
+	},
+	{
 		"fideid": 531031994,
 		"name": "Zebydedan Ch Momin",
 		"country": "IND",
@@ -271165,23 +271182,6 @@
 		"rating_standard": 1620,
 		"rating_rapid": 1682,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 88150860,
-		"name": "Yathrish N",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 12,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1620,
-		"rating_rapid": 1411,
-		"rating_blitz": 1509
 	},
 	{
 		"fideid": 33388520,
@@ -276199,23 +276199,6 @@
 		"rating_blitz": 1614
 	},
 	{
-		"fideid": 429049989,
-		"name": "Akshat Singh",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1616,
-		"rating_rapid": 1632,
-		"rating_blitz": 1638
-	},
-	{
 		"fideid": 531054218,
 		"name": "Akshat Singh",
 		"country": "IND",
@@ -276231,6 +276214,23 @@
 		"rating_standard": 1616,
 		"rating_rapid": 1577,
 		"rating_blitz": 1536
+	},
+	{
+		"fideid": 429049989,
+		"name": "Akshat Singh",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1616,
+		"rating_rapid": 1632,
+		"rating_blitz": 1638
 	},
 	{
 		"fideid": 46668314,
@@ -276297,7 +276297,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1616,
-		"rating_rapid": 1661,
+		"rating_rapid": 1673,
 		"rating_blitz": null
 	},
 	{
@@ -282281,7 +282281,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1613,
-		"rating_rapid": 1749,
+		"rating_rapid": 1750,
 		"rating_blitz": 1518
 	},
 	{
@@ -295959,7 +295959,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -305028,7 +305028,7 @@
 		"flag": "",
 		"rating_standard": 1601,
 		"rating_rapid": 1503,
-		"rating_blitz": 1600
+		"rating_blitz": 1602
 	},
 	{
 		"fideid": 5089484,
@@ -308937,7 +308937,7 @@
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": 1599,
-		"rating_rapid": 1575,
+		"rating_rapid": 1576,
 		"rating_blitz": 1575
 	},
 	{
@@ -311497,7 +311497,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "FA",
+		"o_title": "IA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -311572,7 +311572,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1597,
-		"rating_rapid": 1535,
+		"rating_rapid": 1530,
 		"rating_blitz": 1502
 	},
 	{
@@ -319685,6 +319685,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 48776173,
+		"name": "Sri Vishnu A",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1594,
+		"rating_rapid": 1566,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 25723154,
 		"name": "Srinivas Krishnan",
 		"country": "IND",
@@ -321909,23 +321926,6 @@
 		"flag": "i",
 		"rating_standard": 1593,
 		"rating_rapid": 1556,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 48776173,
-		"name": "Sri Vishnu A",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 15,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1593,
-		"rating_rapid": 1566,
 		"rating_blitz": null
 	},
 	{
@@ -332704,7 +332704,7 @@
 		"flag": "i",
 		"rating_standard": 1587,
 		"rating_rapid": 1661,
-		"rating_blitz": 1578
+		"rating_blitz": 1555
 	},
 	{
 		"fideid": 25091654,
@@ -336141,23 +336141,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 25611178,
-		"name": "Karunya Shesha Sai Y",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1585,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25900560,
 		"name": "Kaushik Pattnaik",
 		"country": "IND",
@@ -337600,6 +337583,23 @@
 		"flag": "",
 		"rating_standard": 1585,
 		"rating_rapid": 1615,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 25611178,
+		"name": "Yata Karunya Shesha Sai",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": 1585,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -344080,6 +344080,23 @@
 		"rating_blitz": 1557
 	},
 	{
+		"fideid": 5078261,
+		"name": "Amale, Bharat",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "AFM",
+		"games": 0,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1581,
+		"rating_rapid": 1712,
+		"rating_blitz": 1836
+	},
+	{
 		"fideid": 25005960,
 		"name": "Amaresh, K",
 		"country": "IND",
@@ -344315,7 +344332,7 @@
 		"flag": "i",
 		"rating_standard": 1581,
 		"rating_rapid": 1578,
-		"rating_blitz": 1472
+		"rating_blitz": 1483
 	},
 	{
 		"fideid": 46621733,
@@ -344511,7 +344528,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -346441,23 +346458,6 @@
 		"rating_standard": 1580,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5078261,
-		"name": "Amale, Bharat",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "AFM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1580,
-		"rating_rapid": 1712,
-		"rating_blitz": 1836
 	},
 	{
 		"fideid": 429035988,
@@ -361502,7 +361502,7 @@
 		"flag": "",
 		"rating_standard": 1573,
 		"rating_rapid": 1440,
-		"rating_blitz": 1561
+		"rating_blitz": 1562
 	},
 	{
 		"fideid": 25014595,
@@ -367417,7 +367417,7 @@
 		"birthday": 2011,
 		"flag": "i",
 		"rating_standard": 1571,
-		"rating_rapid": 1733,
+		"rating_rapid": 1732,
 		"rating_blitz": 1539
 	},
 	{
@@ -369032,7 +369032,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1570,
-		"rating_rapid": null,
+		"rating_rapid": 1515,
 		"rating_blitz": 1496
 	},
 	{
@@ -369049,7 +369049,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1570,
-		"rating_rapid": 1532,
+		"rating_rapid": 1531,
 		"rating_blitz": 1432
 	},
 	{
@@ -376037,7 +376037,7 @@
 		"flag": "",
 		"rating_standard": 1567,
 		"rating_rapid": 1466,
-		"rating_blitz": 1547
+		"rating_blitz": 1548
 	},
 	{
 		"fideid": 547075686,
@@ -376590,7 +376590,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NI",
+		"o_title": "NI,NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -378681,7 +378681,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -379729,6 +379729,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 537085689,
+		"name": "Aswath A",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1565,
+		"rating_rapid": 1553,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 33461287,
 		"name": "Athidhi R Sajan",
 		"country": "IND",
@@ -380286,7 +380303,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1565,
-		"rating_rapid": 1557,
+		"rating_rapid": 1538,
 		"rating_blitz": 1570
 	},
 	{
@@ -382948,7 +382965,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -386988,23 +387005,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 537085689,
-		"name": "Aswath A",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1562,
-		"rating_rapid": 1553,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 531064370,
 		"name": "Avirat Raghvendra Pratap Singh",
 		"country": "IND",
@@ -388530,6 +388530,23 @@
 		"k": 20,
 		"birthday": 2001,
 		"flag": "i",
+		"rating_standard": 1562,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 25164309,
+		"name": "Surya Gitesh Ch",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
 		"rating_standard": 1562,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -392502,7 +392519,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -392527,7 +392544,7 @@
 		"flag": "",
 		"rating_standard": 1560,
 		"rating_rapid": 1571,
-		"rating_blitz": 1500
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 577081439,
@@ -393159,6 +393176,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33491410,
+		"name": "Sanly Moses Katarapu",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1560,
+		"rating_rapid": 1542,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 547064960,
 		"name": "Sarada Prasanna Mohapatra",
 		"country": "IND",
@@ -393480,23 +393514,6 @@
 		"rating_standard": 1560,
 		"rating_rapid": 1512,
 		"rating_blitz": 1517
-	},
-	{
-		"fideid": 25164309,
-		"name": "Surya Gitesh Ch",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1560,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 25649728,
@@ -395403,23 +395420,6 @@
 		"rating_blitz": 1471
 	},
 	{
-		"fideid": 33491410,
-		"name": "Sanly Moses Katarapu",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1559,
-		"rating_rapid": 1541,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25920634,
 		"name": "Seedi Jairaj",
 		"country": "IND",
@@ -395523,7 +395523,7 @@
 	},
 	{
 		"fideid": 577067010,
-		"name": "Shararhlal, K M",
+		"name": "Sharathlal, K M",
 		"country": "IND",
 		"sex": "M",
 		"title": "",
@@ -402107,7 +402107,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -402693,7 +402693,7 @@
 		"flag": "",
 		"rating_standard": 1556,
 		"rating_rapid": 1472,
-		"rating_blitz": 1417
+		"rating_blitz": 1420
 	},
 	{
 		"fideid": 25059459,
@@ -402883,6 +402883,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33467587,
+		"name": "Rutikha B",
+		"country": "IND",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1556,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 88136248,
 		"name": "Sai Bidyashree",
 		"country": "IND",
@@ -402914,7 +402931,7 @@
 		"flag": "",
 		"rating_standard": 1556,
 		"rating_rapid": 1578,
-		"rating_blitz": 1595
+		"rating_blitz": 1592
 	},
 	{
 		"fideid": 45024502,
@@ -405467,23 +405484,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33467587,
-		"name": "Rutikha B",
-		"country": "IND",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1555,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 577037804,
 		"name": "S Arjun",
 		"country": "IND",
@@ -407028,7 +407028,7 @@
 		"flag": "",
 		"rating_standard": 1554,
 		"rating_rapid": 1558,
-		"rating_blitz": 1647
+		"rating_blitz": 1648
 	},
 	{
 		"fideid": 35046144,
@@ -409044,7 +409044,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 6,
 		"k": 40,
 		"birthday": 2015,
@@ -415385,7 +415385,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 14,
 		"k": 40,
 		"birthday": 2013,
@@ -416650,7 +416650,7 @@
 		"flag": "w",
 		"rating_standard": 1551,
 		"rating_rapid": 1528,
-		"rating_blitz": 1483
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 25668480,
@@ -416745,7 +416745,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 4,
 		"k": 20,
 		"birthday": 2000,
@@ -419295,7 +419295,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
@@ -423840,7 +423840,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1548,
-		"rating_rapid": 1686,
+		"rating_rapid": 1696,
 		"rating_blitz": 1545
 	},
 	{
@@ -425812,8 +425812,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1547,
-		"rating_rapid": 1558,
-		"rating_blitz": 1526
+		"rating_rapid": 1500,
+		"rating_blitz": 1496
 	},
 	{
 		"fideid": 33472033,
@@ -430793,7 +430793,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1545,
-		"rating_rapid": null,
+		"rating_rapid": 1518,
 		"rating_blitz": 1431
 	},
 	{
@@ -432017,7 +432017,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1545,
-		"rating_rapid": 1618,
+		"rating_rapid": 1632,
 		"rating_blitz": 1595
 	},
 	{
@@ -436431,7 +436431,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AIM",
+		"foa_title": "AGM",
 		"games": 0,
 		"k": 20,
 		"birthday": 2004,
@@ -437576,7 +437576,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1543,
-		"rating_rapid": 1566,
+		"rating_rapid": 1564,
 		"rating_blitz": null
 	},
 	{
@@ -438852,7 +438852,7 @@
 		"flag": "",
 		"rating_standard": 1542,
 		"rating_rapid": 1618,
-		"rating_blitz": 1648
+		"rating_blitz": 1661
 	},
 	{
 		"fideid": 33429340,
@@ -439923,7 +439923,7 @@
 		"flag": "",
 		"rating_standard": 1542,
 		"rating_rapid": 1519,
-		"rating_blitz": 1479
+		"rating_blitz": 1480
 	},
 	{
 		"fideid": 531031366,
@@ -463896,6 +463896,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 558033963,
+		"name": "Aradhya Sirasapalli",
+		"country": "IND",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1533,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 25135937,
 		"name": "Arpit Kumar Singh",
 		"country": "IND",
@@ -466368,7 +466385,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 21,
 		"k": 40,
 		"birthday": 2013,
@@ -466854,23 +466871,6 @@
 		"rating_blitz": 1519
 	},
 	{
-		"fideid": 558033963,
-		"name": "Aradhya Sirasapalli",
-		"country": "IND",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1532,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 537055267,
 		"name": "Arora Utkarsh",
 		"country": "IND",
@@ -467019,6 +467019,23 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "i",
+		"rating_standard": 1532,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 88183440,
+		"name": "Darshil Pattanayak",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
 		"rating_standard": 1532,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -469608,23 +469625,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 88183440,
-		"name": "Darshil Pattanayak",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1531,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25626884,
 		"name": "Dastapure Prathamesh",
 		"country": "IND",
@@ -470046,7 +470046,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1531,
-		"rating_rapid": 1532,
+		"rating_rapid": 1527,
 		"rating_blitz": 1567
 	},
 	{
@@ -472811,7 +472811,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
@@ -484568,6 +484568,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 429069190,
+		"name": "Sridipto Bhattacharya",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1527,
+		"rating_rapid": 1619,
+		"rating_blitz": 1517
+	},
+	{
 		"fideid": 577039971,
 		"name": "Srivastava, Nakshatra",
 		"country": "IND",
@@ -491127,7 +491144,7 @@
 		"flag": "",
 		"rating_standard": 1525,
 		"rating_rapid": 1452,
-		"rating_blitz": null
+		"rating_blitz": 1422
 	},
 	{
 		"fideid": 48765821,
@@ -494511,23 +494528,6 @@
 		"rating_standard": 1524,
 		"rating_rapid": 1545,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 429069190,
-		"name": "Sridipto Bhattacharya",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1524,
-		"rating_rapid": 1619,
-		"rating_blitz": 1517
 	},
 	{
 		"fideid": 25626736,
@@ -499491,7 +499491,7 @@
 		"flag": "",
 		"rating_standard": 1522,
 		"rating_rapid": 1503,
-		"rating_blitz": 1567
+		"rating_blitz": 1587
 	},
 	{
 		"fideid": 48717088,
@@ -505705,7 +505705,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -512853,7 +512853,7 @@
 		"flag": "",
 		"rating_standard": 1518,
 		"rating_rapid": 1611,
-		"rating_blitz": 1593
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 45099928,
@@ -526657,7 +526657,7 @@
 		"flag": "",
 		"rating_standard": 1513,
 		"rating_rapid": 1480,
-		"rating_blitz": 1530
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 25916653,
@@ -529087,7 +529087,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1513,
-		"rating_rapid": 1455,
+		"rating_rapid": 1454,
 		"rating_blitz": null
 	},
 	{
@@ -539920,6 +539920,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 48725307,
+		"name": "Inba R J",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1509,
+		"rating_rapid": 1582,
+		"rating_blitz": 1458
+	},
+	{
 		"fideid": 35008870,
 		"name": "Jadhav Ratandeep",
 		"country": "IND",
@@ -540154,7 +540171,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1509,
-		"rating_rapid": null,
+		"rating_rapid": 1518,
 		"rating_blitz": null
 	},
 	{
@@ -543269,23 +543286,6 @@
 		"rating_blitz": 1554
 	},
 	{
-		"fideid": 48725307,
-		"name": "Inba R J",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1508,
-		"rating_rapid": 1582,
-		"rating_blitz": 1458
-	},
-	{
 		"fideid": 33442711,
 		"name": "Ishaan Arun",
 		"country": "IND",
@@ -545068,7 +545068,7 @@
 		"flag": "",
 		"rating_standard": 1507,
 		"rating_rapid": 1435,
-		"rating_blitz": 1579
+		"rating_blitz": 1580
 	},
 	{
 		"fideid": 531072461,
@@ -550059,7 +550059,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
@@ -552141,6 +552141,23 @@
 		"rating_standard": 1506,
 		"rating_rapid": null,
 		"rating_blitz": 1467
+	},
+	{
+		"fideid": 48790400,
+		"name": "Shine Raj N",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1506,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 25987070,
@@ -555249,23 +555266,6 @@
 		"k": 40,
 		"birthday": 1959,
 		"flag": "i",
-		"rating_standard": 1505,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 48790400,
-		"name": "Shine Raj N",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "",
 		"rating_standard": 1505,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -560990,7 +560990,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 14,
 		"k": 20,
 		"birthday": 1985,
@@ -567654,7 +567654,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 8,
 		"k": 40,
 		"birthday": 2014,
@@ -573083,7 +573083,7 @@
 		"birthday": 2018,
 		"flag": "w",
 		"rating_standard": 1500,
-		"rating_rapid": null,
+		"rating_rapid": 1488,
 		"rating_blitz": 1488
 	},
 	{
@@ -573977,7 +573977,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -574291,7 +574291,7 @@
 		"flag": "",
 		"rating_standard": 1499,
 		"rating_rapid": 1555,
-		"rating_blitz": 1589
+		"rating_blitz": 1568
 	},
 	{
 		"fideid": 25981277,
@@ -577554,7 +577554,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1498,
-		"rating_rapid": 1620,
+		"rating_rapid": 1595,
 		"rating_blitz": 1580
 	},
 	{
@@ -578205,7 +578205,7 @@
 	},
 	{
 		"fideid": 35000896,
-		"name": "Harish D",
+		"name": "Harish B",
 		"country": "IND",
 		"sex": "M",
 		"title": "",
@@ -579271,7 +579271,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1498,
-		"rating_rapid": 1468,
+		"rating_rapid": 1462,
 		"rating_blitz": 1534
 	},
 	{
@@ -579748,6 +579748,23 @@
 		"flag": "i",
 		"rating_standard": 1498,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 88122484,
+		"name": "Ransh Sethi",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1498,
+		"rating_rapid": 1612,
 		"rating_blitz": null
 	},
 	{
@@ -584018,23 +584035,6 @@
 		"rating_blitz": 1534
 	},
 	{
-		"fideid": 88122484,
-		"name": "Ransh Sethi",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 16,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1497,
-		"rating_rapid": 1612,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 48761508,
 		"name": "Rathi Moksh",
 		"country": "IND",
@@ -587380,7 +587380,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1496,
-		"rating_rapid": 1445,
+		"rating_rapid": 1444,
 		"rating_blitz": 1654
 	},
 	{
@@ -587527,7 +587527,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
@@ -591538,7 +591538,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -593171,7 +593171,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
@@ -602990,6 +602990,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 88153428,
+		"name": "Boopesh Saravanan",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1491,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 564066606,
 		"name": "Chakraborty, Ritobroto",
 		"country": "IND",
@@ -606679,23 +606696,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 88153428,
-		"name": "Boopesh Saravanan",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1490,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 88149862,
 		"name": "Chandran, Sachdev",
 		"country": "IND",
@@ -608981,7 +608981,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 4,
 		"k": 40,
 		"birthday": 1985,
@@ -616926,7 +616926,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1488,
-		"rating_rapid": 1518,
+		"rating_rapid": 1512,
 		"rating_blitz": 1436
 	},
 	{
@@ -619085,7 +619085,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1487,
-		"rating_rapid": null,
+		"rating_rapid": 1476,
 		"rating_blitz": 1421
 	},
 	{
@@ -627330,7 +627330,7 @@
 		"birthday": 1953,
 		"flag": "",
 		"rating_standard": 1485,
-		"rating_rapid": 1461,
+		"rating_rapid": 1458,
 		"rating_blitz": 1501
 	},
 	{
@@ -628497,7 +628497,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 8,
 		"k": 40,
 		"birthday": 2013,
@@ -645173,7 +645173,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -650103,7 +650103,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -651488,7 +651488,7 @@
 		"flag": "",
 		"rating_standard": 1478,
 		"rating_rapid": 1508,
-		"rating_blitz": 1538
+		"rating_blitz": 1520
 	},
 	{
 		"fideid": 46674292,
@@ -655092,7 +655092,7 @@
 		"flag": "",
 		"rating_standard": 1477,
 		"rating_rapid": 1416,
-		"rating_blitz": 1457
+		"rating_blitz": 1439
 	},
 	{
 		"fideid": 88175570,
@@ -655561,7 +655561,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
@@ -660168,7 +660168,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
@@ -660746,7 +660746,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
@@ -667400,7 +667400,7 @@
 		"flag": "",
 		"rating_standard": 1473,
 		"rating_rapid": 1444,
-		"rating_blitz": 1411
+		"rating_blitz": 1437
 	},
 	{
 		"fideid": 48783366,
@@ -675791,7 +675791,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
@@ -678970,7 +678970,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 3,
 		"k": 40,
 		"birthday": 2017,
@@ -681180,7 +681180,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "NA",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 4,
 		"k": 40,
 		"birthday": 1988,
@@ -687344,6 +687344,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 45061394,
+		"name": "Mahendar O",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1468,
+		"rating_rapid": 1423,
+		"rating_blitz": 1476
+	},
+	{
 		"fideid": 48746991,
 		"name": "Maheswarachari K G",
 		"country": "IND",
@@ -691492,23 +691509,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 45061394,
-		"name": "Mahendar O",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1467,
-		"rating_rapid": 1423,
-		"rating_blitz": 1476
-	},
-	{
 		"fideid": 25699059,
 		"name": "Manikantan R",
 		"country": "IND",
@@ -694943,6 +694943,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 577063783,
+		"name": "Kisshanth M",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1466,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 25937740,
 		"name": "Koyande Sahil",
 		"country": "IND",
@@ -695000,7 +695017,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "NA",
+		"o_title": "NI,NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -695766,7 +695783,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 7,
 		"k": 40,
 		"birthday": 2014,
@@ -696248,7 +696265,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1466,
-		"rating_rapid": 1446,
+		"rating_rapid": 1445,
 		"rating_blitz": 1473
 	},
 	{
@@ -698100,23 +698117,6 @@
 		"k": 20,
 		"birthday": 2003,
 		"flag": "i",
-		"rating_standard": 1465,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 577063783,
-		"name": "Kisshanth M",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
 		"rating_standard": 1465,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -700712,7 +700712,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -701399,7 +701399,7 @@
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": 1464,
-		"rating_rapid": 1429,
+		"rating_rapid": 1430,
 		"rating_blitz": 1408
 	},
 	{
@@ -708050,6 +708050,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 88185800,
+		"name": "Abhiram Singamsetti",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 3,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1462,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 547030429,
 		"name": "Achintya Kumar",
 		"country": "IND",
@@ -711603,23 +711620,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 88185800,
-		"name": "Abhiram Singamsetti",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 3,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1461,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 33418373,
 		"name": "Abhishek Kumar Pateria",
 		"country": "IND",
@@ -712432,7 +712432,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1461,
-		"rating_rapid": null,
+		"rating_rapid": 1456,
 		"rating_blitz": 1458
 	},
 	{
@@ -712697,7 +712697,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -713955,7 +713955,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -714993,7 +714993,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 1990,
@@ -722820,7 +722820,7 @@
 		"flag": "",
 		"rating_standard": 1458,
 		"rating_rapid": 1534,
-		"rating_blitz": 1510
+		"rating_blitz": 1511
 	},
 	{
 		"fideid": 25728253,
@@ -730184,23 +730184,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 547031786,
-		"name": "Ashwin Rajkumar V",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1456,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 46684697,
 		"name": "Aswin Sivakumar",
 		"country": "IND",
@@ -732696,7 +732679,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1456,
-		"rating_rapid": null,
+		"rating_rapid": 1462,
 		"rating_blitz": 1428
 	},
 	{
@@ -733381,7 +733364,7 @@
 	},
 	{
 		"fideid": 564014894,
-		"name": "Sreyanghu Malakar",
+		"name": "Sreyangsu Malakar",
 		"country": "IND",
 		"sex": "M",
 		"title": "",
@@ -733783,6 +733766,23 @@
 		"k": 40,
 		"birthday": 1986,
 		"flag": "i",
+		"rating_standard": 1456,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 547031786,
+		"name": "V, Ashwin Rajkumar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
 		"rating_standard": 1456,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -734583,7 +734583,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1455,
-		"rating_rapid": null,
+		"rating_rapid": 1609,
 		"rating_blitz": null
 	},
 	{
@@ -736787,7 +736787,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
@@ -742913,7 +742913,7 @@
 		"birthday": 2015,
 		"flag": "wi",
 		"rating_standard": 1453,
-		"rating_rapid": null,
+		"rating_rapid": 1422,
 		"rating_blitz": null
 	},
 	{
@@ -751060,6 +751060,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33434115,
+		"name": "Sakhadeo Nischal",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1451,
+		"rating_rapid": 1515,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 25901222,
 		"name": "Sarthak Bhave",
 		"country": "IND",
@@ -754970,23 +754987,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33434115,
-		"name": "Sakhadeo Nischal",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1450,
-		"rating_rapid": 1515,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 537082795,
 		"name": "Saksham Biswas",
 		"country": "IND",
@@ -757095,23 +757095,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33394202,
-		"name": "Dushyanth Subramanian",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "ACM",
-		"games": 11,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1449,
-		"rating_rapid": 1518,
-		"rating_blitz": 1552
-	},
-	{
 		"fideid": 33465444,
 		"name": "Elamaran Ramesh",
 		"country": "IND",
@@ -757980,7 +757963,7 @@
 	},
 	{
 		"fideid": 547044985,
-		"name": "Makilan IA",
+		"name": "Makilan I A",
 		"country": "IND",
 		"sex": "M",
 		"title": "",
@@ -760899,7 +760882,7 @@
 		"birthday": 2019,
 		"flag": "",
 		"rating_standard": 1448,
-		"rating_rapid": 1418,
+		"rating_rapid": 1419,
 		"rating_blitz": null
 	},
 	{
@@ -767346,6 +767329,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 558049681,
+		"name": "Baratbhushan M",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1446,
+		"rating_rapid": 1402,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 35082884,
 		"name": "Beniwal Vanshika",
 		"country": "IND",
@@ -771222,23 +771222,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 558049681,
-		"name": "Baratbhushan M",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1445,
-		"rating_rapid": 1401,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 35025678,
 		"name": "Basundhara Islam",
 		"country": "IND",
@@ -773411,7 +773394,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1445,
-		"rating_rapid": null,
+		"rating_rapid": 1477,
 		"rating_blitz": null
 	},
 	{
@@ -776781,23 +776764,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 45093059,
-		"name": "Rohith V",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": 1444,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 88150712,
 		"name": "Rohith V",
 		"country": "IND",
@@ -776812,6 +776778,23 @@
 		"flag": "",
 		"rating_standard": 1444,
 		"rating_rapid": 1559,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 45093059,
+		"name": "Rohith V",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": 1444,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -784931,7 +784914,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
@@ -789374,7 +789357,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1440,
-		"rating_rapid": 1444,
+		"rating_rapid": 1425,
 		"rating_blitz": 1418
 	},
 	{
@@ -793883,6 +793866,23 @@
 		"rating_blitz": 1476
 	},
 	{
+		"fideid": 531010229,
+		"name": "Guggulothu Yaswanth Nayak",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1439,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 25911546,
 		"name": "Gyan Shankar Singh",
 		"country": "IND",
@@ -796168,7 +796168,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 7,
 		"k": 40,
 		"birthday": 2017,
@@ -797074,23 +797074,6 @@
 		"k": 40,
 		"birthday": 1998,
 		"flag": "i",
-		"rating_standard": 1438,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 531010229,
-		"name": "Guggulothu Yaswanth Nayak",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
 		"rating_standard": 1438,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -803811,6 +803794,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 531012000,
+		"name": "Yuvanbala M",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1437,
+		"rating_rapid": 1492,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 25002775,
 		"name": "Zabiullah",
 		"country": "IND",
@@ -804838,7 +804838,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 7,
 		"k": 40,
 		"birthday": 2015,
@@ -805392,23 +805392,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 577002806,
-		"name": "Parameshwaran, Rakshan",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1436,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25689142,
 		"name": "Phrajith K J",
 		"country": "IND",
@@ -805710,6 +805693,23 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "i",
+		"rating_standard": 1436,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 577002806,
+		"name": "Rakshan, P",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
 		"rating_standard": 1436,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -806545,23 +806545,6 @@
 		"flag": "",
 		"rating_standard": 1436,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 531012000,
-		"name": "Yuvanbala M",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1436,
-		"rating_rapid": 1492,
 		"rating_blitz": null
 	},
 	{
@@ -811706,7 +811689,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
@@ -814714,7 +814697,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -822143,7 +822126,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "FA",
+		"o_title": "IA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -823102,7 +823085,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1431,
-		"rating_rapid": 1477,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -825041,7 +825024,7 @@
 		"flag": "",
 		"rating_standard": 1431,
 		"rating_rapid": 1459,
-		"rating_blitz": 1415
+		"rating_blitz": 1416
 	},
 	{
 		"fideid": 531003745,
@@ -828016,7 +827999,7 @@
 		"flag": "",
 		"rating_standard": 1430,
 		"rating_rapid": 1436,
-		"rating_blitz": 1451
+		"rating_blitz": 1452
 	},
 	{
 		"fideid": 88167259,
@@ -831436,6 +831419,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 25120808,
+		"name": "Noel Mathew",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1429,
+		"rating_rapid": 1532,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 558079149,
 		"name": "Ohmkar Sreejith Krishna",
 		"country": "IND",
@@ -831720,6 +831720,23 @@
 		"k": 40,
 		"birthday": 2003,
 		"flag": "i",
+		"rating_standard": 1429,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 547052627,
+		"name": "Pranesh S",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
 		"rating_standard": 1429,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -835227,23 +835244,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 25120808,
-		"name": "Noel Mathew",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1428,
-		"rating_rapid": 1532,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25658433,
 		"name": "Padgaonkar Aditya",
 		"country": "IND",
@@ -835426,23 +835426,6 @@
 		"k": 40,
 		"birthday": 2003,
 		"flag": "i",
-		"rating_standard": 1428,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 547052627,
-		"name": "Pranesh S",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
 		"rating_standard": 1428,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -841683,7 +841666,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1426,
-		"rating_rapid": null,
+		"rating_rapid": 1415,
 		"rating_blitz": 1410
 	},
 	{
@@ -843122,7 +843105,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 11,
 		"k": 40,
 		"birthday": 2012,
@@ -847922,7 +847905,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1424,
-		"rating_rapid": null,
+		"rating_rapid": 1406,
 		"rating_blitz": null
 	},
 	{
@@ -849378,7 +849361,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2001,
@@ -860529,7 +860512,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "DI",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -860706,7 +860689,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1421,
-		"rating_rapid": 1422,
+		"rating_rapid": 1420,
 		"rating_blitz": null
 	},
 	{
@@ -863189,7 +863172,7 @@
 		"flag": "",
 		"rating_standard": 1420,
 		"rating_rapid": null,
-		"rating_blitz": 1427
+		"rating_blitz": 1411
 	},
 	{
 		"fideid": 25710079,
@@ -869788,6 +869771,23 @@
 		"rating_blitz": 1401
 	},
 	{
+		"fideid": 531011969,
+		"name": "M Arjun",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": 1418,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 25115138,
 		"name": "Madhusudhan Joshi",
 		"country": "IND",
@@ -871029,6 +871029,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 547067934,
+		"name": "Shrinivas Kulkarni",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1418,
+		"rating_rapid": 1414,
+		"rating_blitz": 1411
+	},
+	{
 		"fideid": 25127632,
 		"name": "Shrut Mandlay",
 		"country": "IND",
@@ -871330,23 +871347,6 @@
 		"k": 40,
 		"birthday": 2012,
 		"flag": "wi",
-		"rating_standard": 1418,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 531011969,
-		"name": "Thirunavukkarasu Manikandan",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
 		"rating_standard": 1418,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -871842,6 +871842,23 @@
 		"flag": "",
 		"rating_standard": 1417,
 		"rating_rapid": 1448,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 33359334,
+		"name": "Asad Zafira",
+		"country": "IND",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1417,
+		"rating_rapid": 1564,
 		"rating_blitz": null
 	},
 	{
@@ -877792,7 +877809,7 @@
 		"flag": "",
 		"rating_standard": 1416,
 		"rating_rapid": 1446,
-		"rating_blitz": 1420
+		"rating_blitz": 1404
 	},
 	{
 		"fideid": 25909037,
@@ -878849,23 +878866,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 547067934,
-		"name": "Shrinivas Kulkarni",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1416,
-		"rating_rapid": 1414,
-		"rating_blitz": 1411
-	},
-	{
 		"fideid": 25767216,
 		"name": "Shriya Guleria",
 		"country": "IND",
@@ -879781,23 +879781,6 @@
 		"flag": "",
 		"rating_standard": 1415,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 33359334,
-		"name": "Asad Zafira",
-		"country": "IND",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1415,
-		"rating_rapid": 1564,
 		"rating_blitz": null
 	},
 	{
@@ -884302,7 +884285,7 @@
 		"birthday": 2015,
 		"flag": "i",
 		"rating_standard": 1414,
-		"rating_rapid": null,
+		"rating_rapid": 1461,
 		"rating_blitz": null
 	},
 	{
@@ -890490,7 +890473,7 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1413,
-		"rating_rapid": null,
+		"rating_rapid": 1481,
 		"rating_blitz": 1428
 	},
 	{
@@ -891079,7 +891062,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
@@ -897777,7 +897760,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 1982,
@@ -907389,7 +907372,7 @@
 		"flag": "",
 		"rating_standard": 1407,
 		"rating_rapid": 1505,
-		"rating_blitz": 1447
+		"rating_blitz": 1472
 	},
 	{
 		"fideid": 25669877,
@@ -916959,7 +916942,7 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1404,
-		"rating_rapid": 1475,
+		"rating_rapid": 1474,
 		"rating_blitz": 1485
 	},
 	{
@@ -919639,7 +919622,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2017,
@@ -920890,23 +920873,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 25997734,
-		"name": "Gupta Prakhar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": 1403,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 88135314,
 		"name": "Hari Charan Gubbala",
 		"country": "IND",
@@ -921720,6 +921686,23 @@
 		"flag": "i",
 		"rating_standard": 1403,
 		"rating_rapid": 1416,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 25997734,
+		"name": "Prakhar Gupta",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": 1403,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -930151,7 +930134,7 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1400,
-		"rating_rapid": null,
+		"rating_rapid": 1442,
 		"rating_blitz": 1404
 	},
 	{
@@ -930644,7 +930627,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1482,
+		"rating_rapid": 1483,
 		"rating_blitz": null
 	},
 	{
@@ -931454,7 +931437,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
@@ -938502,23 +938485,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33476675,
-		"name": "Aditya Gupta",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1484,
-		"rating_blitz": 1448
-	},
-	{
 		"fideid": 429071518,
 		"name": "Aditya Gupta",
 		"country": "IND",
@@ -938534,6 +938500,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1552,
 		"rating_blitz": 1509
+	},
+	{
+		"fideid": 33476675,
+		"name": "Aditya Gupta",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1484,
+		"rating_blitz": 1448
 	},
 	{
 		"fideid": 25919628,
@@ -938927,23 +938910,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 564037827,
-		"name": "Aditya Raj R",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1410,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 88104230,
 		"name": "Aditya Raj R",
 		"country": "IND",
@@ -938958,6 +938924,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1465,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 564037827,
+		"name": "Aditya Raj R",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1410,
 		"rating_blitz": null
 	},
 	{
@@ -939318,23 +939301,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 429031125,
-		"name": "Aditya Verma",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "AGM",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1504,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 531043569,
 		"name": "Aditya Verma",
 		"country": "IND",
@@ -939349,6 +939315,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1507,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 429031125,
+		"name": "Aditya Verma",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AGM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1504,
 		"rating_blitz": null
 	},
 	{
@@ -941324,23 +941307,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 547098368,
-		"name": "Agrawal Gaurav",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1664,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 45097909,
 		"name": "Agrawal Gaurav",
 		"country": "IND",
@@ -941355,6 +941321,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1486,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 547098368,
+		"name": "Agrawal Gaurav",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1664,
 		"rating_blitz": null
 	},
 	{
@@ -941764,6 +941747,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1438,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 531004547,
+		"name": "Aishani Chowdhury",
+		"country": "IND",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1416,
+		"rating_blitz": 1442
 	},
 	{
 		"fideid": 547073012,
@@ -945047,23 +945047,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 25162918,
-		"name": "Aman Kumar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1705,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 33432295,
 		"name": "Aman Kumar",
 		"country": "IND",
@@ -945079,6 +945062,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1559,
 		"rating_blitz": 1523
+	},
+	{
+		"fideid": 25162918,
+		"name": "Aman Kumar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1999,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1705,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 547051019,
@@ -946424,23 +946424,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 558085572,
-		"name": "Amoolya K R",
-		"country": "IND",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1400,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 48705802,
 		"name": "Ampabathuni Sri Ram Sai Goutham",
 		"country": "IND",
@@ -946607,7 +946590,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1456,
+		"rating_rapid": 1437,
 		"rating_blitz": null
 	},
 	{
@@ -949450,23 +949433,6 @@
 		"rating_blitz": 1516
 	},
 	{
-		"fideid": 547060247,
-		"name": "Ankit Kumar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1503,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 429056209,
 		"name": "Ankit Kumar",
 		"country": "IND",
@@ -949481,6 +949447,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1497,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 547060247,
+		"name": "Ankit Kumar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1503,
 		"rating_blitz": null
 	},
 	{
@@ -954448,23 +954431,6 @@
 		"rating_blitz": 1434
 	},
 	{
-		"fideid": 33425523,
-		"name": "Arnav Jain",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1504,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 547015314,
 		"name": "Arnav Jain",
 		"country": "IND",
@@ -954480,6 +954446,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1446,
 		"rating_blitz": 1489
+	},
+	{
+		"fideid": 33425523,
+		"name": "Arnav Jain",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1504,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 537022792,
@@ -955532,8 +955515,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1506,
-		"rating_blitz": 1500
+		"rating_rapid": 1500,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 577058895,
@@ -956070,7 +956053,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
@@ -956620,7 +956603,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1456,
+		"rating_rapid": 1455,
 		"rating_blitz": null
 	},
 	{
@@ -958732,6 +958715,23 @@
 		"rating_blitz": 1441
 	},
 	{
+		"fideid": 39944395,
+		"name": "Atara, Anaya",
+		"country": "IND",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1573,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 48715727,
 		"name": "Athang Jayant Hirpurkar",
 		"country": "IND",
@@ -959871,23 +959871,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 531038085,
-		"name": "Atul Kumar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1478,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 531075045,
 		"name": "Atul Kumar",
 		"country": "IND",
@@ -959902,6 +959885,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1505,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 531038085,
+		"name": "Atul Kumar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -975222,23 +975222,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 88103897,
-		"name": "Darsh Jain",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1510,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 547098139,
 		"name": "Darsh Jain",
 		"country": "IND",
@@ -975253,6 +975236,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1448,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 88103897,
+		"name": "Darsh Jain",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1510,
 		"rating_blitz": null
 	},
 	{
@@ -975288,23 +975288,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1430,
 		"rating_blitz": 1500
-	},
-	{
-		"fideid": 88172120,
-		"name": "Darsh Patle",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1621,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 33356084,
@@ -978350,23 +978333,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 25112465,
-		"name": "Dev Gupta",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1506,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 547022671,
 		"name": "Dev Gupta",
 		"country": "IND",
@@ -978381,6 +978347,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1482,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 25112465,
+		"name": "Dev Gupta",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1506,
 		"rating_blitz": null
 	},
 	{
@@ -978809,23 +978792,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 547077824,
-		"name": "Devansh Garg",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1504,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 33375780,
 		"name": "Devansh Garg",
 		"country": "IND",
@@ -978840,6 +978806,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1444,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 547077824,
+		"name": "Devansh Garg",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1504,
 		"rating_blitz": null
 	},
 	{
@@ -985830,6 +985813,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 33394202,
+		"name": "Dushyanth Subramanian",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1518,
+		"rating_blitz": 1552
+	},
+	{
 		"fideid": 5091381,
 		"name": "Dutt B.S.",
 		"country": "IND",
@@ -986643,6 +986643,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1514,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 48725790,
+		"name": "Elaine Elizabeth Jinto",
+		"country": "IND",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1415,
 		"rating_blitz": null
 	},
 	{
@@ -993769,23 +993786,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 88137600,
-		"name": "Gowtham M",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1500,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 33302014,
 		"name": "Gowtham M",
 		"country": "IND",
@@ -993800,6 +993800,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1518,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 88137600,
+		"name": "Gowtham M",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1500,
 		"rating_blitz": null
 	},
 	{
@@ -994201,7 +994218,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2017,
@@ -998410,23 +998427,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33380023,
-		"name": "Harsh Sharma",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1497,
-		"rating_blitz": 1598
-	},
-	{
 		"fideid": 537055828,
 		"name": "Harsh Sharma",
 		"country": "IND",
@@ -998442,6 +998442,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1509,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 33380023,
+		"name": "Harsh Sharma",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1497,
+		"rating_blitz": 1598
 	},
 	{
 		"fideid": 547030445,
@@ -999345,23 +999362,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 547021730,
-		"name": "Harshit Raj",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1417,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 537019775,
 		"name": "Harshit Raj",
 		"country": "IND",
@@ -999376,6 +999376,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1489,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 547021730,
+		"name": "Harshit Raj",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1417,
 		"rating_blitz": null
 	},
 	{
@@ -1012748,7 +1012765,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 4,
 		"k": 40,
 		"birthday": 2015,
@@ -1014441,23 +1014458,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 25774476,
-		"name": "Kamble Sujal",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1488,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25753614,
 		"name": "Kamble Sujal",
 		"country": "IND",
@@ -1014472,6 +1014472,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1413,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 25774476,
+		"name": "Kamble Sujal",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1488,
 		"rating_blitz": null
 	},
 	{
@@ -1017297,23 +1017314,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 33316333,
-		"name": "Karthikeyan A",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1417,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 537003631,
 		"name": "Karthikeyan A",
 		"country": "IND",
@@ -1017328,6 +1017328,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1461,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 33316333,
+		"name": "Karthikeyan A",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1417,
 		"rating_blitz": null
 	},
 	{
@@ -1021649,23 +1021666,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 88114996,
-		"name": "Kiran S",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1416,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 547099020,
 		"name": "Kiran S",
 		"country": "IND",
@@ -1021680,6 +1021680,23 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1421,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 88114996,
+		"name": "Kiran S",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1416,
 		"rating_blitz": null
 	},
 	{
@@ -1022268,7 +1022285,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 1997,
@@ -1028377,7 +1028394,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1404,
+		"rating_rapid": 1405,
 		"rating_blitz": null
 	},
 	{
@@ -1034229,23 +1034246,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 577078381,
-		"name": "Maheshawari, Dhruv",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1600,
-		"rating_blitz": 1702
-	},
-	{
 		"fideid": 531072364,
 		"name": "Maheshwara Muvanthan",
 		"country": "IND",
@@ -1034312,6 +1034312,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1405,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 577078381,
+		"name": "Maheshwari, Dhruv",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1600,
+		"rating_blitz": 1702
 	},
 	{
 		"fideid": 564031551,
@@ -1036660,23 +1036677,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 88197700,
-		"name": "Manikandan M",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1468,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 88120171,
 		"name": "Manikandan M",
 		"country": "IND",
@@ -1036691,6 +1036691,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1470,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 88197700,
+		"name": "Manikandan M",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1468,
 		"rating_blitz": null
 	},
 	{
@@ -1037034,23 +1037051,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 531053904,
-		"name": "Manish Kumar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1458,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25105086,
 		"name": "Manish Kumar",
 		"country": "IND",
@@ -1037065,6 +1037065,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1569,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 531053904,
+		"name": "Manish Kumar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1458,
 		"rating_blitz": null
 	},
 	{
@@ -1039431,23 +1039448,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 564040496,
-		"name": "Mayank Singh",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1612,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 547066199,
 		"name": "Mayank Singh",
 		"country": "IND",
@@ -1039462,6 +1039462,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1539,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 564040496,
+		"name": "Mayank Singh",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1612,
 		"rating_blitz": null
 	},
 	{
@@ -1039717,6 +1039734,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1419,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 429022223,
+		"name": "Maznah Fathima Jaser",
+		"country": "IND",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "wi",
+		"rating_standard": null,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -1040016,7 +1040050,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
@@ -1041648,7 +1041682,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
@@ -1044446,23 +1044480,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 547087005,
-		"name": "Monish S",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1490,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 48722405,
 		"name": "Monish S",
 		"country": "IND",
@@ -1044477,6 +1044494,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1521,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 547087005,
+		"name": "Monish S",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1490,
 		"rating_blitz": null
 	},
 	{
@@ -1047580,7 +1047614,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -1052943,7 +1052977,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1457,
-		"rating_blitz": 1504
+		"rating_blitz": 1505
 	},
 	{
 		"fideid": 564072940,
@@ -1060545,23 +1060579,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 45098271,
-		"name": "Parekh Chintan",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1577,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 45055351,
 		"name": "Parekh Chintan",
 		"country": "IND",
@@ -1060576,6 +1060593,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1546,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 45098271,
+		"name": "Parekh Chintan",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1577,
 		"rating_blitz": null
 	},
 	{
@@ -1063843,6 +1063877,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 88172120,
+		"name": "Patle, Daarsh Rajendra",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1621,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 45054266,
 		"name": "Patra, Molai",
 		"country": "IND",
@@ -1065645,23 +1065696,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 429056357,
-		"name": "Piyush Agarwal",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1408,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 48758337,
 		"name": "Piyush Agarwal",
 		"country": "IND",
@@ -1065676,6 +1065710,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1427,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 429056357,
+		"name": "Piyush Agarwal",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1408,
 		"rating_blitz": null
 	},
 	{
@@ -1074468,23 +1074519,6 @@
 		"rating_blitz": 1461
 	},
 	{
-		"fideid": 33314560,
-		"name": "Puneet Singh",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1997,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1503,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25161784,
 		"name": "Puneet Singh",
 		"country": "IND",
@@ -1074499,6 +1074533,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1482,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 33314560,
+		"name": "Puneet Singh",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1503,
 		"rating_blitz": null
 	},
 	{
@@ -1079126,23 +1079177,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 429091136,
-		"name": "Ramesh Kumar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1962,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1525,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 531096573,
 		"name": "Ramesh Kumar",
 		"country": "IND",
@@ -1079157,6 +1079191,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1496,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 429091136,
+		"name": "Ramesh Kumar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1962,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1525,
 		"rating_blitz": null
 	},
 	{
@@ -1083357,23 +1083408,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1515,
 		"rating_blitz": 1549
-	},
-	{
-		"fideid": 531069789,
-		"name": "Rishaan Das",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1437,
-		"rating_blitz": 1537
 	},
 	{
 		"fideid": 547048336,
@@ -1089479,23 +1089513,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 25189360,
-		"name": "Sachin Kumar",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1997,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1410,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 531057926,
 		"name": "Sachin Kumar",
 		"country": "IND",
@@ -1089510,6 +1089527,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1608,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 25189360,
+		"name": "Sachin Kumar",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1410,
 		"rating_blitz": null
 	},
 	{
@@ -1091856,6 +1091890,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1441,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 547031565,
+		"name": "Saisanjith S M",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 37,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1408,
 		"rating_blitz": null
 	},
 	{
@@ -1096517,23 +1096568,6 @@
 		"rating_blitz": 1430
 	},
 	{
-		"fideid": 429071917,
-		"name": "Santhosh D",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1460,
-		"rating_blitz": 1563
-	},
-	{
 		"fideid": 547074418,
 		"name": "Santhosh D",
 		"country": "IND",
@@ -1096549,6 +1096583,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1405,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 429071917,
+		"name": "Santhosh D",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1460,
+		"rating_blitz": 1563
 	},
 	{
 		"fideid": 577053869,
@@ -1099509,23 +1099560,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 531011225,
-		"name": "Satyam Yadav",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1441,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 537033417,
 		"name": "Satyam Yadav",
 		"country": "IND",
@@ -1099540,6 +1099574,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1514,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 531011225,
+		"name": "Satyam Yadav",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1441,
 		"rating_blitz": null
 	},
 	{
@@ -1100223,23 +1100274,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 429054419,
-		"name": "Sayak Chakraborty",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1407,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25114603,
 		"name": "Sayak Chakraborty",
 		"country": "IND",
@@ -1100254,6 +1100288,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1447,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 429054419,
+		"name": "Sayak Chakraborty",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1407,
 		"rating_blitz": null
 	},
 	{
@@ -1101409,7 +1101460,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1852,
+		"rating_rapid": 1851,
 		"rating_blitz": null
 	},
 	{
@@ -1102994,23 +1103045,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 564021319,
-		"name": "Sharath A",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1755,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 564018113,
 		"name": "Sharath A",
 		"country": "IND",
@@ -1103025,6 +1103059,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1607,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 564021319,
+		"name": "Sharath A",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1755,
 		"rating_blitz": null
 	},
 	{
@@ -1104089,7 +1104140,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
@@ -1104235,23 +1104286,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 558003266,
-		"name": "Shashwat Singh",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1408,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 33331430,
 		"name": "Shashwat Singh",
 		"country": "IND",
@@ -1104266,6 +1104300,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1481,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 558003266,
+		"name": "Shashwat Singh",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1408,
 		"rating_blitz": null
 	},
 	{
@@ -1104412,7 +1104463,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
@@ -1104786,7 +1104837,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
@@ -1116148,7 +1116199,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1545,
+		"rating_rapid": 1542,
 		"rating_blitz": null
 	},
 	{
@@ -1118148,7 +1118199,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
@@ -1120646,7 +1120697,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -1124795,7 +1124846,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 4,
 		"k": 40,
 		"birthday": 2012,
@@ -1126189,7 +1126240,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
@@ -1135923,23 +1135974,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 547055030,
-		"name": "Viegas Dwennon Jake",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1400,
-		"rating_blitz": 1467
-	},
-	{
 		"fideid": 33344965,
 		"name": "Vighnesh Bhandarkar B",
 		"country": "IND",
@@ -1136178,23 +1136212,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 48723096,
-		"name": "Vigneshwaran S",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1407,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 558092960,
 		"name": "Vigneshwaran S",
 		"country": "IND",
@@ -1136209,6 +1136226,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1497,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 48723096,
+		"name": "Vigneshwaran S",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1407,
 		"rating_blitz": null
 	},
 	{
@@ -1137521,23 +1137555,6 @@
 		"rating_blitz": 1405
 	},
 	{
-		"fideid": 537097245,
-		"name": "Vikram R",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1992,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1530,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 25614622,
 		"name": "Vikram R",
 		"country": "IND",
@@ -1137552,6 +1137569,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1576,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 537097245,
+		"name": "Vikram R",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1992,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1530,
 		"rating_blitz": null
 	},
 	{
@@ -1140060,7 +1140094,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -1140068,23 +1140102,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1603,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 88154866,
-		"name": "Vishwateja Ankaraju",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1608,
 		"rating_blitz": null
 	},
 	{
@@ -1140273,6 +1140290,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1505,
 		"rating_blitz": 1425
+	},
+	{
+		"fideid": 88154866,
+		"name": "Viswateja Ankaraju",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1608,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 33363846,
@@ -1146327,23 +1146361,6 @@
 		"rating_blitz": 1482
 	},
 	{
-		"fideid": 531004547,
-		"name": "Aishani Chowdhury",
-		"country": "IND",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1442
-	},
-	{
 		"fideid": 88170250,
 		"name": "Aishwarya Arun",
 		"country": "IND",
@@ -1148773,6 +1148790,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1601
+	},
+	{
+		"fideid": 537070525,
+		"name": "Bobba Karthikeya Krishna",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1419
 	},
 	{
 		"fideid": 48785288,
@@ -1152862,7 +1152896,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 8,
 		"k": 40,
 		"birthday": 1958,
@@ -1153159,23 +1153193,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1463
-	},
-	{
-		"fideid": 537070525,
-		"name": "Karthikeya Krishna",
-		"country": "IND",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1419
 	},
 	{
 		"fideid": 429074738,
@@ -1158388,13 +1158405,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1410
+		"rating_blitz": 1440
 	},
 	{
 		"fideid": 429037050,
@@ -1158472,7 +1158489,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
@@ -1158863,7 +1158880,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "NA",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1996,
@@ -1165161,6 +1165178,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1464
+	},
+	{
+		"fideid": 547055030,
+		"name": "Viegas Dwennon Jake",
+		"country": "IND",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1467
 	},
 	{
 		"fideid": 33391092,

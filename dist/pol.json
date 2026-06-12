@@ -6651,7 +6651,7 @@
 		"name": "Chiszko, Oskar",
 		"country": "POL",
 		"sex": "M",
-		"title": "",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -7807,7 +7807,7 @@
 		"name": "Komendecki, Antoni",
 		"country": "POL",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -14148,7 +14148,7 @@
 		"name": "Skrzypinski, Jan",
 		"country": "POL",
 		"sex": "M",
-		"title": "",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
@@ -21628,8 +21628,8 @@
 		"name": "Popczynska, Michalina",
 		"country": "POL",
 		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
+		"title": "WFM",
+		"w_title": "WFM",
 		"o_title": "",
 		"foa_title": "",
 		"games": 9,
@@ -67660,6 +67660,23 @@
 		"rating_blitz": 1801
 	},
 	{
+		"fideid": 1170074,
+		"name": "Klasinska, Agata",
+		"country": "POL",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "wi",
+		"rating_standard": 1865,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 21033846,
 		"name": "Kordowski, Lukasz",
 		"country": "POL",
@@ -67828,23 +67845,6 @@
 		"rating_standard": 1865,
 		"rating_rapid": 1925,
 		"rating_blitz": 1959
-	},
-	{
-		"fideid": 1170074,
-		"name": "Wyczawska, Agata",
-		"country": "POL",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "wi",
-		"rating_standard": 1865,
-		"rating_rapid": null,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 1137638,
@@ -74311,10 +74311,10 @@
 		"name": "Slusarczyk, Agnieszka",
 		"country": "POL",
 		"sex": "F",
-		"title": "",
-		"w_title": "",
+		"title": "WCM",
+		"w_title": "WCM",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "",
 		"games": 17,
 		"k": 40,
 		"birthday": 2014,
@@ -106137,7 +106137,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -124276,7 +124276,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -185160,7 +185160,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1574,
-		"rating_rapid": 1580,
+		"rating_rapid": 1579,
 		"rating_blitz": 1506
 	},
 	{
@@ -186853,7 +186853,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -211714,7 +211714,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1529,
-		"rating_rapid": null,
+		"rating_rapid": 1439,
 		"rating_blitz": 1451
 	},
 	{
@@ -213220,7 +213220,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 4,
 		"k": 40,
@@ -277929,7 +277929,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1402,
-		"rating_rapid": null,
+		"rating_rapid": 1474,
 		"rating_blitz": null
 	},
 	{
@@ -283492,23 +283492,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 545037698,
-		"name": "Baran, Kamil",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1410,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21838640,
 		"name": "Baran, Kamil",
 		"country": "POL",
@@ -283523,6 +283506,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1489,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 545037698,
+		"name": "Baran, Kamil",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1410,
 		"rating_blitz": null
 	},
 	{
@@ -283611,23 +283611,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41831390,
-		"name": "Baran, Wiktor",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1523,
-		"rating_blitz": 1627
-	},
-	{
 		"fideid": 545066124,
 		"name": "Baran, Wiktor",
 		"country": "POL",
@@ -283643,6 +283626,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1610,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 41831390,
+		"name": "Baran, Wiktor",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1523,
+		"rating_blitz": 1627
 	},
 	{
 		"fideid": 21803447,
@@ -292247,23 +292247,6 @@
 		"rating_blitz": 1609
 	},
 	{
-		"fideid": 21049637,
-		"name": "Bronisz, Radoslaw",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1977,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1511,
-		"rating_blitz": 1474
-	},
-	{
 		"fideid": 41831446,
 		"name": "Bronisz, Radoslaw",
 		"country": "POL",
@@ -292279,6 +292262,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1654,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21049637,
+		"name": "Bronisz, Radoslaw",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1511,
+		"rating_blitz": 1474
 	},
 	{
 		"fideid": 21057303,
@@ -292876,23 +292876,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21863113,
-		"name": "Brzezinski, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1962,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1554,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91149835,
 		"name": "Brzezinski, Piotr",
 		"country": "POL",
@@ -292908,6 +292891,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1434,
 		"rating_blitz": 1588
+	},
+	{
+		"fideid": 21863113,
+		"name": "Brzezinski, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1962,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1554,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 1198521,
@@ -293063,23 +293063,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21057540,
-		"name": "Brzozowski, Radoslaw",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1566,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41864522,
 		"name": "Brzozowski, Radoslaw",
 		"country": "POL",
@@ -293094,6 +293077,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1504,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21057540,
+		"name": "Brzozowski, Radoslaw",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1566,
 		"rating_blitz": null
 	},
 	{
@@ -301886,23 +301886,6 @@
 		"rating_blitz": 1599
 	},
 	{
-		"fideid": 21869979,
-		"name": "Czernik, Marcin",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1503,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545046085,
 		"name": "Czernik, Marcin",
 		"country": "POL",
@@ -301917,6 +301900,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1486,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21869979,
+		"name": "Czernik, Marcin",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1503,
 		"rating_blitz": null
 	},
 	{
@@ -303212,23 +303212,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91104793,
-		"name": "Dabrowski, Kamil",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1992,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1552,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91105420,
 		"name": "Dabrowski, Kamil",
 		"country": "POL",
@@ -303244,6 +303227,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1618,
 		"rating_blitz": 1701
+	},
+	{
+		"fideid": 91104793,
+		"name": "Dabrowski, Kamil",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1992,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1552,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 545067147,
@@ -303314,7 +303314,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91116198,
+		"fideid": 91167418,
 		"name": "Dabrowski, Mateusz",
 		"country": "POL",
 		"sex": "M",
@@ -303324,10 +303324,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 1986,
+		"birthday": 2000,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1460,
+		"rating_rapid": 1602,
 		"rating_blitz": null
 	},
 	{
@@ -303365,7 +303365,7 @@
 		"rating_blitz": 1442
 	},
 	{
-		"fideid": 91167418,
+		"fideid": 91116198,
 		"name": "Dabrowski, Mateusz",
 		"country": "POL",
 		"sex": "M",
@@ -303375,10 +303375,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2000,
+		"birthday": 1986,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1602,
+		"rating_rapid": 1460,
 		"rating_blitz": null
 	},
 	{
@@ -308346,23 +308346,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41843894,
-		"name": "Dudek, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1458,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21894493,
 		"name": "Dudek, Jakub",
 		"country": "POL",
@@ -308377,6 +308360,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1405,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41843894,
+		"name": "Dudek, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1458,
 		"rating_blitz": null
 	},
 	{
@@ -312103,23 +312103,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21080690,
-		"name": "Filipczak, Igor",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1567,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91112869,
 		"name": "Filipczak, Igor",
 		"country": "POL",
@@ -312135,6 +312118,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1632,
 		"rating_blitz": 1426
+	},
+	{
+		"fideid": 21080690,
+		"name": "Filipczak, Igor",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1567,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 91114004,
@@ -319634,23 +319634,6 @@
 		"rating_blitz": 1405
 	},
 	{
-		"fideid": 21025932,
-		"name": "Gorecki, Adam",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1650,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41813332,
 		"name": "Gorecki, Adam",
 		"country": "POL",
@@ -319666,6 +319649,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1670,
 		"rating_blitz": 1503
+	},
+	{
+		"fideid": 21025932,
+		"name": "Gorecki, Adam",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1650,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 41874153,
@@ -320773,23 +320773,6 @@
 		"rating_blitz": 1799
 	},
 	{
-		"fideid": 41811496,
-		"name": "Grabowski, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1567,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21855323,
 		"name": "Grabowski, Jakub",
 		"country": "POL",
@@ -320805,6 +320788,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1430,
 		"rating_blitz": 1423
+	},
+	{
+		"fideid": 41811496,
+		"name": "Grabowski, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1567,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 21081158,
@@ -320994,23 +320994,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21881200,
-		"name": "Grabowski, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1977,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1443,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91143748,
 		"name": "Grabowski, Piotr",
 		"country": "POL",
@@ -321025,6 +321008,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1500,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21881200,
+		"name": "Grabowski, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1443,
 		"rating_blitz": null
 	},
 	{
@@ -321555,23 +321555,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21018502,
-		"name": "Greda, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1461,
-		"rating_blitz": 1473
-	},
-	{
 		"fideid": 91199425,
 		"name": "Greda, Jakub",
 		"country": "POL",
@@ -321587,6 +321570,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1532,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21018502,
+		"name": "Greda, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1461,
+		"rating_blitz": 1473
 	},
 	{
 		"fideid": 41859723,
@@ -327607,23 +327607,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21863741,
-		"name": "Idzik, Michal",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1744,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21022917,
 		"name": "Idzik, Michal",
 		"country": "POL",
@@ -327638,6 +327621,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1785,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21863741,
+		"name": "Idzik, Michal",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1744,
 		"rating_blitz": null
 	},
 	{
@@ -328270,23 +328270,6 @@
 		"rating_blitz": 1420
 	},
 	{
-		"fideid": 91174961,
-		"name": "Iwanek, Dominik",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1992,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1405,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41861094,
 		"name": "Iwanek, Dominik",
 		"country": "POL",
@@ -328301,6 +328284,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1511,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91174961,
+		"name": "Iwanek, Dominik",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1992,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1405,
 		"rating_blitz": null
 	},
 	{
@@ -332571,23 +332571,6 @@
 		"rating_blitz": 1477
 	},
 	{
-		"fideid": 91181950,
-		"name": "Jasinski, Adam",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1565,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21871000,
 		"name": "Jasinski, Adam",
 		"country": "POL",
@@ -332602,6 +332585,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1460,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91181950,
+		"name": "Jasinski, Adam",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1565,
 		"rating_blitz": null
 	},
 	{
@@ -335359,23 +335359,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41818288,
-		"name": "Jurek, Jan",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1486,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41894308,
 		"name": "Jurek, Jan",
 		"country": "POL",
@@ -335390,6 +335373,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1418,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41818288,
+		"name": "Jurek, Jan",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1486,
 		"rating_blitz": null
 	},
 	{
@@ -337144,23 +337144,6 @@
 		"rating_blitz": 1407
 	},
 	{
-		"fideid": 21089051,
-		"name": "Kalbarczyk, Wojciech",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1425,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21064687,
 		"name": "Kalbarczyk, Wojciech",
 		"country": "POL",
@@ -337175,6 +337158,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1724,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21089051,
+		"name": "Kalbarczyk, Wojciech",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1425,
 		"rating_blitz": null
 	},
 	{
@@ -337977,23 +337977,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21824894,
-		"name": "Kaminski, Aleksander",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1735,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 1187651,
 		"name": "Kaminski, Aleksander",
 		"country": "POL",
@@ -338008,6 +337991,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1728,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21824894,
+		"name": "Kaminski, Aleksander",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1735,
 		"rating_blitz": null
 	},
 	{
@@ -338181,23 +338181,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41830440,
-		"name": "Kaminski, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1641,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21092923,
 		"name": "Kaminski, Jakub",
 		"country": "POL",
@@ -338212,6 +338195,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1404,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41830440,
+		"name": "Kaminski, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1641,
 		"rating_blitz": null
 	},
 	{
@@ -338300,23 +338300,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41895932,
-		"name": "Kaminski, Pawel",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1449,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91150019,
 		"name": "Kaminski, Pawel",
 		"country": "POL",
@@ -338331,6 +338314,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1539,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41895932,
+		"name": "Kaminski, Pawel",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1449,
 		"rating_blitz": null
 	},
 	{
@@ -347871,23 +347871,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21809933,
-		"name": "Konieczny, Andrzej",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1958,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1822,
-		"rating_blitz": 1783
-	},
-	{
 		"fideid": 91185556,
 		"name": "Konieczny, Andrzej",
 		"country": "POL",
@@ -347920,6 +347903,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1556,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21809933,
+		"name": "Konieczny, Andrzej",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1958,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1822,
+		"rating_blitz": 1783
 	},
 	{
 		"fideid": 21842710,
@@ -347956,23 +347956,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 545045429,
-		"name": "Konieczny, Szymon",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1467,
-		"rating_blitz": 1533
-	},
-	{
 		"fideid": 41830814,
 		"name": "Konieczny, Szymon",
 		"country": "POL",
@@ -347988,6 +347971,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1576,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 545045429,
+		"name": "Konieczny, Szymon",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1467,
+		"rating_blitz": 1533
 	},
 	{
 		"fideid": 41847741,
@@ -351509,23 +351509,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41881320,
-		"name": "Kowalczyk, Marcin",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1622,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21042098,
 		"name": "Kowalczyk, Marcin",
 		"country": "POL",
@@ -351540,6 +351523,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1551,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41881320,
+		"name": "Kowalczyk, Marcin",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1622,
 		"rating_blitz": null
 	},
 	{
@@ -352087,23 +352087,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91112800,
-		"name": "Kowalski, Artur",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1979,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1622,
-		"rating_blitz": 1413
-	},
-	{
 		"fideid": 1156276,
 		"name": "Kowalski, Artur",
 		"country": "POL",
@@ -352119,6 +352102,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1702,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 91112800,
+		"name": "Kowalski, Artur",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1979,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1622,
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 21095213,
@@ -352172,23 +352172,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91161436,
-		"name": "Kowalski, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 13,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1569,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41827503,
 		"name": "Kowalski, Jakub",
 		"country": "POL",
@@ -352203,6 +352186,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1418,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91161436,
+		"name": "Kowalski, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1569,
 		"rating_blitz": null
 	},
 	{
@@ -352274,23 +352274,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91132371,
-		"name": "Kowalski, Maciej",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1453,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545056030,
 		"name": "Kowalski, Maciej",
 		"country": "POL",
@@ -352305,6 +352288,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1665,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91132371,
+		"name": "Kowalski, Maciej",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1453,
 		"rating_blitz": null
 	},
 	{
@@ -352359,7 +352359,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41819888,
+		"fideid": 41835204,
 		"name": "Kowalski, Michal",
 		"country": "POL",
 		"sex": "M",
@@ -352369,11 +352369,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1996,
+		"birthday": 1989,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1558,
-		"rating_blitz": 1639
+		"rating_rapid": 1521,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 41888880,
@@ -352393,7 +352393,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41835204,
+		"fideid": 41819888,
 		"name": "Kowalski, Michal",
 		"country": "POL",
 		"sex": "M",
@@ -352403,11 +352403,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
-		"birthday": 1989,
+		"birthday": 1996,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1521,
-		"rating_blitz": null
+		"rating_rapid": 1558,
+		"rating_blitz": 1639
 	},
 	{
 		"fideid": 91189500,
@@ -353345,23 +353345,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41840631,
-		"name": "Kozlowski, Krzysztof",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1456,
-		"rating_blitz": 1447
-	},
-	{
 		"fideid": 91119251,
 		"name": "Kozlowski, Krzysztof",
 		"country": "POL",
@@ -353379,6 +353362,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 41840631,
+		"name": "Kozlowski, Krzysztof",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1456,
+		"rating_blitz": 1447
+	},
+	{
 		"fideid": 21872031,
 		"name": "Kozlowski, Lukasz",
 		"country": "POL",
@@ -353394,6 +353394,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1824,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21856230,
+		"name": "Kozlowski, Maciej",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1423,
+		"rating_blitz": 1425
 	},
 	{
 		"fideid": 21023689,
@@ -353430,8 +353447,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21856230,
-		"name": "Kozlowski, Maciej",
+		"fideid": 41828461,
+		"name": "Kozlowski, Pawel",
 		"country": "POL",
 		"sex": "M",
 		"title": "",
@@ -353440,11 +353457,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
+		"birthday": 1987,
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1423,
-		"rating_blitz": 1425
+		"rating_rapid": 1506,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 545034770,
@@ -353461,23 +353478,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1662,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 41828461,
-		"name": "Kozlowski, Pawel",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1506,
 		"rating_blitz": null
 	},
 	{
@@ -355062,23 +355062,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41816617,
-		"name": "Krol, Mateusz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1533,
-		"rating_blitz": 1451
-	},
-	{
 		"fideid": 21069050,
 		"name": "Krol, Mateusz",
 		"country": "POL",
@@ -355094,6 +355077,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1458,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 41816617,
+		"name": "Krol, Mateusz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1533,
+		"rating_blitz": 1451
 	},
 	{
 		"fideid": 41807391,
@@ -355113,23 +355113,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41892542,
-		"name": "Krol, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1413,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41847423,
 		"name": "Krol, Piotr",
 		"country": "POL",
@@ -355144,6 +355127,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1587,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41892542,
+		"name": "Krol, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1413,
 		"rating_blitz": null
 	},
 	{
@@ -355742,23 +355742,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21881545,
-		"name": "Krupa, Jan",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1454,
-		"rating_blitz": 1476
-	},
-	{
 		"fideid": 21884714,
 		"name": "Krupa, Jan",
 		"country": "POL",
@@ -355774,6 +355757,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1489,
 		"rating_blitz": 1765
+	},
+	{
+		"fideid": 21881545,
+		"name": "Krupa, Jan",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1454,
+		"rating_blitz": 1476
 	},
 	{
 		"fideid": 91104343,
@@ -357034,23 +357034,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21003114,
-		"name": "Krzyzanowski, Leszek",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1626,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21003106,
 		"name": "Krzyzanowski, Leszek",
 		"country": "POL",
@@ -357065,6 +357048,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1504,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21003114,
+		"name": "Krzyzanowski, Leszek",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1626,
 		"rating_blitz": null
 	},
 	{
@@ -364004,23 +364004,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21826714,
-		"name": "Lech, Stanislaw",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1949,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1570,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21880077,
 		"name": "Lech, Stanislaw",
 		"country": "POL",
@@ -364035,6 +364018,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1546,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21826714,
+		"name": "Lech, Stanislaw",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1949,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1570,
 		"rating_blitz": null
 	},
 	{
@@ -365177,23 +365177,6 @@
 		"rating_blitz": 1601
 	},
 	{
-		"fideid": 91167620,
-		"name": "Leszczynski, Lukasz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1991,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1516,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21066701,
 		"name": "Leszczynski, Lukasz",
 		"country": "POL",
@@ -365208,6 +365191,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1436,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91167620,
+		"name": "Leszczynski, Lukasz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1991,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1516,
 		"rating_blitz": null
 	},
 	{
@@ -365432,23 +365432,6 @@
 		"rating_blitz": 1462
 	},
 	{
-		"fideid": 545039801,
-		"name": "Lewandowski, Filip",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1402,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21060215,
 		"name": "Lewandowski, Filip",
 		"country": "POL",
@@ -365463,6 +365446,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1510,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 545039801,
+		"name": "Lewandowski, Filip",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1402,
 		"rating_blitz": null
 	},
 	{
@@ -365500,23 +365500,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91187109,
-		"name": "Lewandowski, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1431,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21001278,
 		"name": "Lewandowski, Jakub",
 		"country": "POL",
@@ -365531,6 +365514,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1405,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91187109,
+		"name": "Lewandowski, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1431,
 		"rating_blitz": null
 	},
 	{
@@ -365568,23 +365568,6 @@
 		"rating_blitz": 1576
 	},
 	{
-		"fideid": 21037795,
-		"name": "Lewandowski, Kacper",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1500,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41874188,
 		"name": "Lewandowski, Kacper",
 		"country": "POL",
@@ -365599,6 +365582,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1452,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21037795,
+		"name": "Lewandowski, Kacper",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1500,
 		"rating_blitz": null
 	},
 	{
@@ -372572,23 +372572,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41815742,
-		"name": "Malec, Szymon",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1462,
-		"rating_blitz": 1505
-	},
-	{
 		"fideid": 545034834,
 		"name": "Malec, Szymon",
 		"country": "POL",
@@ -372604,6 +372587,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1434,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 41815742,
+		"name": "Malec, Szymon",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1462,
+		"rating_blitz": 1505
 	},
 	{
 		"fideid": 1155598,
@@ -373966,23 +373966,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41816447,
-		"name": "Marciniak, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1437,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21094411,
 		"name": "Marciniak, Jakub",
 		"country": "POL",
@@ -373997,6 +373980,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1501,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41816447,
+		"name": "Marciniak, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1437,
 		"rating_blitz": null
 	},
 	{
@@ -377026,23 +377026,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 118155876,
-		"name": "Mazur, Maciej",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1521,
-		"rating_blitz": 1480
-	},
-	{
 		"fideid": 41818091,
 		"name": "Mazur, Maciej",
 		"country": "POL",
@@ -377058,6 +377041,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1405,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 118155876,
+		"name": "Mazur, Maciej",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1521,
+		"rating_blitz": 1480
 	},
 	{
 		"fideid": 91170311,
@@ -377077,23 +377077,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21872570,
-		"name": "Mazur, Michal",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1590,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91133890,
 		"name": "Mazur, Michal",
 		"country": "POL",
@@ -377108,6 +377091,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1428,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21872570,
+		"name": "Mazur, Michal",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1590,
 		"rating_blitz": null
 	},
 	{
@@ -377349,23 +377349,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 545067295,
-		"name": "Mazurek, Jan",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1620,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41860578,
 		"name": "Mazurek, Jan",
 		"country": "POL",
@@ -377380,6 +377363,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1432,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 545067295,
+		"name": "Mazurek, Jan",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1620,
 		"rating_blitz": null
 	},
 	{
@@ -378046,23 +378046,6 @@
 		"rating_blitz": 1483
 	},
 	{
-		"fideid": 91108918,
-		"name": "Michalak, Filip",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1528,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91139570,
 		"name": "Michalak, Filip",
 		"country": "POL",
@@ -378077,6 +378060,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1538,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91108918,
+		"name": "Michalak, Filip",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1528,
 		"rating_blitz": null
 	},
 	{
@@ -382874,23 +382874,6 @@
 		"rating_blitz": 1498
 	},
 	{
-		"fideid": 21897921,
-		"name": "Mroz, Michal",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1470,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41853652,
 		"name": "Mroz, Michal",
 		"country": "POL",
@@ -382905,6 +382888,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1560,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21897921,
+		"name": "Mroz, Michal",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1470,
 		"rating_blitz": null
 	},
 	{
@@ -383877,23 +383877,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91149762,
-		"name": "Muszynski, Tomasz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1984,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1574,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545064601,
 		"name": "Muszynski, Tomasz",
 		"country": "POL",
@@ -383909,6 +383892,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1713,
 		"rating_blitz": 1822
+	},
+	{
+		"fideid": 91149762,
+		"name": "Muszynski, Tomasz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1574,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 21896496,
@@ -387617,23 +387617,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41852206,
-		"name": "Nowak, Dawid",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1424,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21891222,
 		"name": "Nowak, Dawid",
 		"country": "POL",
@@ -387651,8 +387634,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91164869,
-		"name": "Nowak, Dominik",
+		"fideid": 41852206,
+		"name": "Nowak, Dawid",
 		"country": "POL",
 		"sex": "M",
 		"title": "",
@@ -387660,11 +387643,11 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 40,
-		"birthday": 2006,
+		"k": 20,
+		"birthday": 1993,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1478,
+		"rating_rapid": 1424,
 		"rating_blitz": null
 	},
 	{
@@ -387685,8 +387668,8 @@
 		"rating_blitz": 1721
 	},
 	{
-		"fideid": 41832108,
-		"name": "Nowak, Franciszek",
+		"fideid": 91164869,
+		"name": "Nowak, Dominik",
 		"country": "POL",
 		"sex": "M",
 		"title": "",
@@ -387695,10 +387678,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2007,
+		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1431,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -387716,6 +387699,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1479,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41832108,
+		"name": "Nowak, Franciszek",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1431,
 		"rating_blitz": null
 	},
 	{
@@ -387974,23 +387974,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41827597,
-		"name": "Nowak, Mariusz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1991,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1630,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21030855,
 		"name": "Nowak, Mariusz",
 		"country": "POL",
@@ -388005,6 +387988,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1508,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41827597,
+		"name": "Nowak, Mariusz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1991,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1630,
 		"rating_blitz": null
 	},
 	{
@@ -388042,23 +388042,6 @@
 		"rating_blitz": 1673
 	},
 	{
-		"fideid": 41815769,
-		"name": "Nowak, Mikolaj",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1548,
-		"rating_blitz": 1591
-	},
-	{
 		"fideid": 545078289,
 		"name": "Nowak, Mikolaj",
 		"country": "POL",
@@ -388074,6 +388057,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1435,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 41815769,
+		"name": "Nowak, Mikolaj",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1548,
+		"rating_blitz": 1591
 	},
 	{
 		"fideid": 545043191,
@@ -388093,23 +388093,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91186730,
-		"name": "Nowak, Pawel",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1508,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41883853,
 		"name": "Nowak, Pawel",
 		"country": "POL",
@@ -388124,6 +388107,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1499,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91186730,
+		"name": "Nowak, Pawel",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1508,
 		"rating_blitz": null
 	},
 	{
@@ -388297,23 +388297,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21057230,
-		"name": "Nowakowski, Adam",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1440,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41830482,
 		"name": "Nowakowski, Adam",
 		"country": "POL",
@@ -388328,6 +388311,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1504,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21057230,
+		"name": "Nowakowski, Adam",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
@@ -388552,23 +388552,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41836510,
-		"name": "Nowicki, Krzysztof",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1568,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41837207,
 		"name": "Nowicki, Krzysztof",
 		"country": "POL",
@@ -388583,6 +388566,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1609,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41836510,
+		"name": "Nowicki, Krzysztof",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1568,
 		"rating_blitz": null
 	},
 	{
@@ -393023,23 +393023,6 @@
 		"rating_blitz": 1762
 	},
 	{
-		"fideid": 21064849,
-		"name": "Ostrowski, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1475,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21030723,
 		"name": "Ostrowski, Piotr",
 		"country": "POL",
@@ -393054,6 +393037,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1638,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21064849,
+		"name": "Ostrowski, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1475,
 		"rating_blitz": null
 	},
 	{
@@ -397086,23 +397086,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21082642,
-		"name": "Pawlowski, Filip",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1505,
-		"rating_blitz": 1427
-	},
-	{
 		"fideid": 41894910,
 		"name": "Pawlowski, Filip",
 		"country": "POL",
@@ -397118,6 +397101,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1418,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21082642,
+		"name": "Pawlowski, Filip",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1505,
+		"rating_blitz": 1427
 	},
 	{
 		"fideid": 545072728,
@@ -397188,23 +397188,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41852583,
-		"name": "Pawlowski, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1411,
-		"rating_blitz": 1516
-	},
-	{
 		"fideid": 41855434,
 		"name": "Pawlowski, Piotr",
 		"country": "POL",
@@ -397220,6 +397203,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1404,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 41852583,
+		"name": "Pawlowski, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1411,
+		"rating_blitz": 1516
 	},
 	{
 		"fideid": 545071110,
@@ -399823,23 +399823,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41855663,
-		"name": "Pietrzak, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1491,
-		"rating_blitz": 1453
-	},
-	{
 		"fideid": 545069581,
 		"name": "Pietrzak, Jakub",
 		"country": "POL",
@@ -399855,6 +399838,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1412,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 41855663,
+		"name": "Pietrzak, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1491,
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 21846383,
@@ -399874,23 +399874,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 545033714,
-		"name": "Pietrzak, Kacper",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1457,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545028893,
 		"name": "Pietrzak, Kacper",
 		"country": "POL",
@@ -399905,6 +399888,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1473,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 545033714,
+		"name": "Pietrzak, Kacper",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1457,
 		"rating_blitz": null
 	},
 	{
@@ -413712,23 +413712,6 @@
 		"rating_blitz": 1438
 	},
 	{
-		"fideid": 91198178,
-		"name": "Rzepecki, Adam",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 1984,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1411,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545053120,
 		"name": "Rzepecki, Adam",
 		"country": "POL",
@@ -413743,6 +413726,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1720,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91198178,
+		"name": "Rzepecki, Adam",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1411,
 		"rating_blitz": null
 	},
 	{
@@ -414290,23 +414290,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21808546,
-		"name": "Sadowski, Jerzy",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1718,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21011125,
 		"name": "Sadowski, Jerzy",
 		"country": "POL",
@@ -414321,6 +414304,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1615,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21808546,
+		"name": "Sadowski, Jerzy",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1718,
 		"rating_blitz": null
 	},
 	{
@@ -417639,23 +417639,6 @@
 		"rating_blitz": 1729
 	},
 	{
-		"fideid": 21871833,
-		"name": "Sielicki, Tadeusz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1593,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21018464,
 		"name": "Sielicki, Tadeusz",
 		"country": "POL",
@@ -417670,6 +417653,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1518,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21871833,
+		"name": "Sielicki, Tadeusz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1593,
 		"rating_blitz": null
 	},
 	{
@@ -418200,23 +418200,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 545065209,
-		"name": "Sikora, Jan",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1463,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41804724,
 		"name": "Sikora, Jan",
 		"country": "POL",
@@ -418234,8 +418217,8 @@
 		"rating_blitz": 1514
 	},
 	{
-		"fideid": 1145894,
-		"name": "Sikora, Kamil",
+		"fideid": 545065209,
+		"name": "Sikora, Jan",
 		"country": "POL",
 		"sex": "M",
 		"title": "",
@@ -418243,11 +418226,11 @@
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "i",
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1684,
+		"rating_rapid": 1463,
 		"rating_blitz": null
 	},
 	{
@@ -418265,6 +418248,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1647,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 1145894,
+		"name": "Sikora, Kamil",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1684,
 		"rating_blitz": null
 	},
 	{
@@ -429828,23 +429828,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41803469,
-		"name": "Sulkowski, Tomasz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1594,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21873348,
 		"name": "Sulkowski, Tomasz",
 		"country": "POL",
@@ -429859,6 +429842,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1875,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41803469,
+		"name": "Sulkowski, Tomasz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1594,
 		"rating_blitz": null
 	},
 	{
@@ -432922,23 +432922,6 @@
 		"rating_blitz": 1427
 	},
 	{
-		"fideid": 41831853,
-		"name": "Szczepanski, Wojciech",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1568,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21045852,
 		"name": "Szczepanski, Wojciech",
 		"country": "POL",
@@ -432953,6 +432936,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1426,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41831853,
+		"name": "Szczepanski, Wojciech",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1568,
 		"rating_blitz": null
 	},
 	{
@@ -436781,23 +436781,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21027668,
-		"name": "Szymanski, Tomasz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1975,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1411,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91177790,
 		"name": "Szymanski, Tomasz",
 		"country": "POL",
@@ -436813,6 +436796,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1753,
 		"rating_blitz": 1556
+	},
+	{
+		"fideid": 21027668,
+		"name": "Szymanski, Tomasz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1975,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1411,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 41832795,
@@ -437784,23 +437784,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41826850,
-		"name": "Tarasewicz, Igor",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1535,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41890400,
 		"name": "Tarasewicz, Igor",
 		"country": "POL",
@@ -437815,6 +437798,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1509,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41826850,
+		"name": "Tarasewicz, Igor",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1535,
 		"rating_blitz": null
 	},
 	{
@@ -438974,23 +438974,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21816018,
-		"name": "Tomaszewski, Adam",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1947,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1729,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21893888,
 		"name": "Tomaszewski, Adam",
 		"country": "POL",
@@ -439005,6 +438988,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1595,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21816018,
+		"name": "Tomaszewski, Adam",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1947,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1729,
 		"rating_blitz": null
 	},
 	{
@@ -441218,23 +441218,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21824398,
-		"name": "Twardowski, Jan",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1474,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545020388,
 		"name": "Twardowski, Jan",
 		"country": "POL",
@@ -441249,6 +441232,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1654,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21824398,
+		"name": "Twardowski, Jan",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1474,
 		"rating_blitz": null
 	},
 	{
@@ -442170,23 +442170,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 1193163,
-		"name": "Urbaniak, Artur",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1972,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1442,
-		"rating_blitz": 1591
-	},
-	{
 		"fideid": 21046522,
 		"name": "Urbaniak, Artur",
 		"country": "POL",
@@ -442202,6 +442185,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1452,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 1193163,
+		"name": "Urbaniak, Artur",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1972,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1442,
+		"rating_blitz": 1591
 	},
 	{
 		"fideid": 91116880,
@@ -442517,7 +442517,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 1985,
@@ -444907,23 +444907,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21857598,
-		"name": "Wawrzos, Andrzej",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1651,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41832469,
 		"name": "Wawrzos, Andrzej",
 		"country": "POL",
@@ -444938,6 +444921,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1555,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21857598,
+		"name": "Wawrzos, Andrzej",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1651,
 		"rating_blitz": null
 	},
 	{
@@ -446454,23 +446454,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21806586,
-		"name": "Wieczorek, Mateusz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1604,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41805186,
 		"name": "Wieczorek, Mateusz",
 		"country": "POL",
@@ -446485,6 +446468,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1481,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21806586,
+		"name": "Wieczorek, Mateusz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1604,
 		"rating_blitz": null
 	},
 	{
@@ -448460,23 +448460,6 @@
 		"rating_blitz": 1551
 	},
 	{
-		"fideid": 21871973,
-		"name": "Wisniewski, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1979,
-		"rating_blitz": 2023
-	},
-	{
 		"fideid": 41822528,
 		"name": "Wisniewski, Piotr",
 		"country": "POL",
@@ -448492,6 +448475,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1588,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21871973,
+		"name": "Wisniewski, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1979,
+		"rating_blitz": 2023
 	},
 	{
 		"fideid": 545063117,
@@ -449072,7 +449072,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 545041725,
+		"fideid": 91114950,
 		"name": "Witkowski, Michal",
 		"country": "POL",
 		"sex": "M",
@@ -449082,10 +449082,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1493,
+		"rating_rapid": 1594,
 		"rating_blitz": null
 	},
 	{
@@ -449106,7 +449106,7 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91114950,
+		"fideid": 545041725,
 		"name": "Witkowski, Michal",
 		"country": "POL",
 		"sex": "M",
@@ -449116,10 +449116,10 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2015,
+		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1594,
+		"rating_rapid": 1493,
 		"rating_blitz": null
 	},
 	{
@@ -449497,23 +449497,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21035407,
-		"name": "Wlodarczyk, Krzysztof",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1956,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1538,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91145406,
 		"name": "Wlodarczyk, Krzysztof",
 		"country": "POL",
@@ -449529,6 +449512,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1595,
 		"rating_blitz": 1622
+	},
+	{
+		"fideid": 21035407,
+		"name": "Wlodarczyk, Krzysztof",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1956,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1538,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 545044813,
@@ -450432,23 +450432,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41871979,
-		"name": "Wojciechowski, Wojciech",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1495,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545009929,
 		"name": "Wojciechowski, Wojciech",
 		"country": "POL",
@@ -450463,6 +450446,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1479,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41871979,
+		"name": "Wojciechowski, Wojciech",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1495,
 		"rating_blitz": null
 	},
 	{
@@ -450534,23 +450534,6 @@
 		"rating_blitz": 1527
 	},
 	{
-		"fideid": 545044872,
-		"name": "Wojcik, Filip",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1408,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41857780,
 		"name": "Wojcik, Filip",
 		"country": "POL",
@@ -450565,6 +450548,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1458,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 545044872,
+		"name": "Wojcik, Filip",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1408,
 		"rating_blitz": null
 	},
 	{
@@ -450619,23 +450619,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 91187001,
-		"name": "Wojcik, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1750,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91130646,
 		"name": "Wojcik, Jakub",
 		"country": "POL",
@@ -450667,6 +450650,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1546,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 91187001,
+		"name": "Wojcik, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1750,
 		"rating_blitz": null
 	},
 	{
@@ -450857,23 +450857,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41899458,
-		"name": "Wojcik, Mateusz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1470,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545068100,
 		"name": "Wojcik, Mateusz",
 		"country": "POL",
@@ -450891,8 +450874,8 @@
 		"rating_blitz": 1690
 	},
 	{
-		"fideid": 21015112,
-		"name": "Wojcik, Michal",
+		"fideid": 41899458,
+		"name": "Wojcik, Mateusz",
 		"country": "POL",
 		"sex": "M",
 		"title": "",
@@ -450901,11 +450884,11 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2003,
 		"flag": "i",
 		"rating_standard": null,
-		"rating_rapid": 1435,
-		"rating_blitz": 1518
+		"rating_rapid": 1470,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 21857857,
@@ -450923,6 +450906,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1451,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21015112,
+		"name": "Wojcik, Michal",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1435,
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 41878949,
@@ -450959,23 +450959,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21894779,
-		"name": "Wojcik, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1959,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1641,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41898354,
 		"name": "Wojcik, Piotr",
 		"country": "POL",
@@ -450990,6 +450973,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1529,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21894779,
+		"name": "Wojcik, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1959,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1641,
 		"rating_blitz": null
 	},
 	{
@@ -452948,23 +452948,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41882172,
-		"name": "Wos, Bartlomiej",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1522,
-		"rating_blitz": 1434
-	},
-	{
 		"fideid": 91116929,
 		"name": "Wos, Bartlomiej",
 		"country": "POL",
@@ -452980,6 +452963,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1431,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 41882172,
+		"name": "Wos, Bartlomiej",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1522,
+		"rating_blitz": 1434
 	},
 	{
 		"fideid": 21823677,
@@ -453203,23 +453203,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41851668,
-		"name": "Wozniak, Jakub",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1587,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 545070415,
 		"name": "Wozniak, Jakub",
 		"country": "POL",
@@ -453234,6 +453217,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1651,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 41851668,
+		"name": "Wozniak, Jakub",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1587,
 		"rating_blitz": null
 	},
 	{
@@ -453424,23 +453424,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21044074,
-		"name": "Wozniak, Tomasz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1598,
-		"rating_blitz": 1632
-	},
-	{
 		"fideid": 21872830,
 		"name": "Wozniak, Tomasz",
 		"country": "POL",
@@ -453456,6 +453439,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1727,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21044074,
+		"name": "Wozniak, Tomasz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1598,
+		"rating_blitz": 1632
 	},
 	{
 		"fideid": 41853377,
@@ -456756,23 +456756,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 41868501,
-		"name": "Zalewski, Michal",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1509,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 91129397,
 		"name": "Zalewski, Michal",
 		"country": "POL",
@@ -456788,6 +456771,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1438,
 		"rating_blitz": 1535
+	},
+	{
+		"fideid": 41868501,
+		"name": "Zalewski, Michal",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": 1509,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 91159334,
@@ -459136,23 +459136,6 @@
 		"rating_blitz": 1592
 	},
 	{
-		"fideid": 41878752,
-		"name": "Zieba, Kacper",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1553,
-		"rating_blitz": 1529
-	},
-	{
 		"fideid": 545079234,
 		"name": "Zieba, Kacper",
 		"country": "POL",
@@ -459168,6 +459151,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1678,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 41878752,
+		"name": "Zieba, Kacper",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1553,
+		"rating_blitz": 1529
 	},
 	{
 		"fideid": 91192633,
@@ -459221,23 +459221,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 545001790,
-		"name": "Zieba, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1537,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 41851706,
 		"name": "Zieba, Piotr",
 		"country": "POL",
@@ -459252,6 +459235,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1476,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 545001790,
+		"name": "Zieba, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1537,
 		"rating_blitz": null
 	},
 	{
@@ -463267,23 +463267,6 @@
 		"rating_blitz": 1411
 	},
 	{
-		"fideid": 91163960,
-		"name": "Banas, Michal",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1704
-	},
-	{
 		"fideid": 545061181,
 		"name": "Banas, Michal",
 		"country": "POL",
@@ -463299,6 +463282,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1695
+	},
+	{
+		"fideid": 91163960,
+		"name": "Banas, Michal",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1704
 	},
 	{
 		"fideid": 41810724,
@@ -470628,23 +470628,6 @@
 		"rating_blitz": 1482
 	},
 	{
-		"fideid": 21894612,
-		"name": "Jaworski, Mateusz",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1589
-	},
-	{
 		"fideid": 91139821,
 		"name": "Jaworski, Mateusz",
 		"country": "POL",
@@ -470660,6 +470643,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1799
+	},
+	{
+		"fideid": 21894612,
+		"name": "Jaworski, Mateusz",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 21896674,
@@ -474317,23 +474317,6 @@
 		"rating_blitz": 1641
 	},
 	{
-		"fideid": 21811300,
-		"name": "Kubik, Karol",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1760
-	},
-	{
 		"fideid": 41840917,
 		"name": "Kubik, Karol",
 		"country": "POL",
@@ -474349,6 +474332,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1408
+	},
+	{
+		"fideid": 21811300,
+		"name": "Kubik, Karol",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1760
 	},
 	{
 		"fideid": 41860438,
@@ -478363,23 +478363,6 @@
 		"rating_blitz": 1641
 	},
 	{
-		"fideid": 91101921,
-		"name": "Musial, Piotr",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1594
-	},
-	{
 		"fideid": 21896682,
 		"name": "Musial, Piotr",
 		"country": "POL",
@@ -478395,6 +478378,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1428
+	},
+	{
+		"fideid": 91101921,
+		"name": "Musial, Piotr",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "i",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1594
 	},
 	{
 		"fideid": 21890455,
@@ -486897,23 +486897,6 @@
 		"rating_blitz": 1405
 	},
 	{
-		"fideid": 545049807,
-		"name": "Witkowski, Michal",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1464
-	},
-	{
 		"fideid": 21866732,
 		"name": "Witkowski, Michal",
 		"country": "POL",
@@ -486929,6 +486912,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1498
+	},
+	{
+		"fideid": 545049807,
+		"name": "Witkowski, Michal",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1464
 	},
 	{
 		"fideid": 545031703,
@@ -487934,23 +487934,6 @@
 		"rating_blitz": 1455
 	},
 	{
-		"fideid": 545022470,
-		"name": "Zak, Karol",
-		"country": "POL",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1987,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1537
-	},
-	{
 		"fideid": 41844530,
 		"name": "Zak, Karol",
 		"country": "POL",
@@ -487966,6 +487949,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1456
+	},
+	{
+		"fideid": 545022470,
+		"name": "Zak, Karol",
+		"country": "POL",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1987,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1537
 	},
 	{
 		"fideid": 545048690,
