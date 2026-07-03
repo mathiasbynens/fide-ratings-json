@@ -8,11 +8,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 8,
 		"k": 10,
 		"birthday": 1999,
 		"flag": "",
-		"rating_standard": 2437,
+		"rating_standard": 2426,
 		"rating_rapid": 2413,
 		"rating_blitz": 2428
 	},
@@ -25,12 +25,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 2325,
-		"rating_rapid": 2351,
+		"rating_rapid": 2336,
 		"rating_blitz": 2284
 	},
 	{
@@ -93,7 +93,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
@@ -110,7 +110,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1990,
 		"flag": "",
@@ -144,11 +144,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 3,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
-		"rating_standard": 2075,
+		"rating_standard": 2076,
 		"rating_rapid": null,
 		"rating_blitz": 2118
 	},
@@ -187,6 +187,23 @@
 		"rating_blitz": 1988
 	},
 	{
+		"fideid": 13105205,
+		"name": "Rabarison, Ny Andolalaina Fitia Noah",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 2030,
+		"rating_rapid": 1735,
+		"rating_blitz": 1743
+	},
+	{
 		"fideid": 13100238,
 		"name": "Raharijaona, Jose",
 		"country": "MAD",
@@ -202,23 +219,6 @@
 		"rating_standard": 2030,
 		"rating_rapid": 1996,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13101005,
-		"name": "Rakotomaharo, Tahina Hajanirina",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1989,
-		"flag": "",
-		"rating_standard": 2029,
-		"rating_rapid": 2011,
-		"rating_blitz": 2006
 	},
 	{
 		"fideid": 13100300,
@@ -255,6 +255,23 @@
 		"rating_blitz": 1962
 	},
 	{
+		"fideid": 13101005,
+		"name": "Rakotomaharo, Tahina Hajanirina",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 2004,
+		"rating_rapid": 2011,
+		"rating_blitz": 2006
+	},
+	{
 		"fideid": 13100017,
 		"name": "Rabenandrasana, Liva",
 		"country": "MAD",
@@ -270,23 +287,6 @@
 		"rating_standard": 2003,
 		"rating_rapid": null,
 		"rating_blitz": 1944
-	},
-	{
-		"fideid": 13105205,
-		"name": "Rabarison, Ny Andolalaina Fitia Noah",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1991,
-		"rating_rapid": 1699,
-		"rating_blitz": 1743
 	},
 	{
 		"fideid": 13100068,
@@ -535,7 +535,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1996,
 		"flag": "",
@@ -552,7 +552,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
@@ -705,7 +705,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
@@ -776,7 +776,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1997,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1895,
 		"rating_rapid": 1932,
 		"rating_blitz": 1932
@@ -1099,7 +1099,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2001,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1863,
 		"rating_rapid": 1593,
 		"rating_blitz": null
@@ -1113,12 +1113,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
 		"rating_standard": 1863,
-		"rating_rapid": 1787,
+		"rating_rapid": 1824,
 		"rating_blitz": 1829
 	},
 	{
@@ -1130,7 +1130,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
@@ -1224,23 +1224,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13100629,
-		"name": "Rajaonasy, Tolotra",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 1857,
-		"rating_rapid": 1823,
-		"rating_blitz": 1836
-	},
-	{
 		"fideid": 13100696,
 		"name": "Rambinintsoa, Tiavina",
 		"country": "MAD",
@@ -1271,7 +1254,7 @@
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": 1855,
-		"rating_rapid": 1882,
+		"rating_rapid": 1876,
 		"rating_blitz": 1853
 	},
 	{
@@ -1290,6 +1273,23 @@
 		"rating_standard": 1852,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13100629,
+		"name": "Rajaonasy, Tolotra",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1851,
+		"rating_rapid": 1823,
+		"rating_blitz": 1836
 	},
 	{
 		"fideid": 13106511,
@@ -1324,6 +1324,23 @@
 		"rating_standard": 1850,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13101455,
+		"name": "Miharimanana, Fabrice",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1850,
+		"rating_rapid": 1820,
+		"rating_blitz": 1904
 	},
 	{
 		"fideid": 13100734,
@@ -1409,23 +1426,6 @@
 		"rating_standard": 1846,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13101455,
-		"name": "Miharimanana, Fabrice",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1845,
-		"rating_rapid": 1820,
-		"rating_blitz": 1904
 	},
 	{
 		"fideid": 13100513,
@@ -1547,23 +1547,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13101463,
-		"name": "Beanjara, Philippson",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 1834,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13101510,
 		"name": "Rafeliarisaina, Rivo",
 		"country": "MAD",
@@ -1609,7 +1592,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1988,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1831,
 		"rating_rapid": 1895,
 		"rating_blitz": null
@@ -1628,7 +1611,7 @@
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": 1830,
-		"rating_rapid": null,
+		"rating_rapid": 1876,
 		"rating_blitz": null
 	},
 	{
@@ -1645,23 +1628,6 @@
 		"birthday": 1990,
 		"flag": "i",
 		"rating_standard": 1829,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13105388,
-		"name": "Rahajanirina, France Frederick",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 1827,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1861,12 +1827,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1818,
-		"rating_rapid": 1655,
+		"rating_rapid": 1667,
 		"rating_blitz": 1612
 	},
 	{
@@ -1917,6 +1883,23 @@
 		"birthday": 1982,
 		"flag": "i",
 		"rating_standard": 1817,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13101463,
+		"name": "Beanjara, Philippson",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1976,
+		"flag": "",
+		"rating_standard": 1816,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -2176,6 +2159,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13105388,
+		"name": "Rahajanirina, France Frederick",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 1803,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13100491,
 		"name": "Herilala, Manitra",
 		"country": "MAD",
@@ -2191,6 +2191,23 @@
 		"rating_standard": 1801,
 		"rating_rapid": null,
 		"rating_blitz": 1861
+	},
+	{
+		"fideid": 13112392,
+		"name": "MAHAVELONIRINA,ODON EPHRAIM",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1801,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13100548,
@@ -2405,7 +2422,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1963,
 		"flag": "",
@@ -2652,6 +2669,23 @@
 		"rating_blitz": 1713
 	},
 	{
+		"fideid": 13107615,
+		"name": "RAMORASATA,Diary Vetsovetson Anjomara",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1781,
+		"rating_rapid": 1683,
+		"rating_blitz": 1612
+	},
+	{
 		"fideid": 13103130,
 		"name": "Andriatsitairina Aime Jackinot",
 		"country": "MAD",
@@ -2784,7 +2818,7 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1774,
-		"rating_rapid": null,
+		"rating_rapid": 1733,
 		"rating_blitz": 1762
 	},
 	{
@@ -2915,7 +2949,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1991,
 		"flag": "",
@@ -2935,6 +2969,23 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1966,
+		"flag": "",
+		"rating_standard": 1769,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13102222,
+		"name": "Razafindrabe Ronaldo",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 1991,
 		"flag": "",
 		"rating_standard": 1769,
 		"rating_rapid": null,
@@ -2992,19 +3043,19 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13102222,
-		"name": "Razafindrabe Ronaldo",
+		"fideid": 13110225,
+		"name": "RAMANANTENASOA JEAN MARC",
 		"country": "MAD",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
-		"birthday": 1991,
-		"flag": "i",
-		"rating_standard": 1764,
+		"birthday": 1992,
+		"flag": "",
+		"rating_standard": 1761,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -3022,7 +3073,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1759,
-		"rating_rapid": null,
+		"rating_rapid": 1744,
 		"rating_blitz": null
 	},
 	{
@@ -3175,23 +3226,6 @@
 		"birthday": 1996,
 		"flag": "i",
 		"rating_standard": 1753,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13107879,
-		"name": "RABENANDRASANA,Rojo Andry Harifenitra",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1752,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -3434,23 +3468,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13107615,
-		"name": "RAMORASATA,Diary Vetsovetson Anjomara",
-		"country": "MAD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": 1742,
-		"rating_rapid": 1680,
-		"rating_blitz": 1612
-	},
-	{
 		"fideid": 13100521,
 		"name": "Rabemananjara, Ny Andritiana",
 		"country": "MAD",
@@ -3649,7 +3666,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1735,
 		"rating_rapid": 1638,
 		"rating_blitz": null
@@ -3808,23 +3825,6 @@
 		"rating_blitz": 1775
 	},
 	{
-		"fideid": 13106961,
-		"name": "Randriatsiferana,Dimbiharentsoa Christiana",
-		"country": "MAD",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1728,
-		"rating_rapid": 1705,
-		"rating_blitz": 1509
-	},
-	{
 		"fideid": 13104624,
 		"name": "Ratsifaritana, Samuel",
 		"country": "MAD",
@@ -3952,12 +3952,12 @@
 		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1726,
-		"rating_rapid": 1743,
+		"rating_rapid": 1801,
 		"rating_blitz": 1662
 	},
 	{
@@ -4114,6 +4114,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13107879,
+		"name": "RABENANDRASANA,Rojo Andry Harifenitra",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1716,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13101641,
 		"name": "Ramaniraka, Johanne",
 		"country": "MAD",
@@ -4197,6 +4214,23 @@
 		"rating_standard": 1714,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13106961,
+		"name": "Randriatsiferana,Dimbiharentsoa Christiana",
+		"country": "MAD",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1714,
+		"rating_rapid": 1723,
+		"rating_blitz": 1509
 	},
 	{
 		"fideid": 13100408,
@@ -4465,25 +4499,8 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1697,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13104179,
-		"name": "Andrianaminaritsoa, Julien",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1984,
 		"flag": "i",
-		"rating_standard": 1695,
+		"rating_standard": 1697,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -4534,23 +4551,6 @@
 		"k": 40,
 		"birthday": 1983,
 		"flag": "i",
-		"rating_standard": 1693,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13110225,
-		"name": "RAMANANTENASOA JEAN MARC",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1992,
-		"flag": "",
 		"rating_standard": 1693,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -4739,6 +4739,23 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1688,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13112899,
+		"name": "Di,Palma Alicia",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": 1687,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -5147,7 +5164,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1676,
-		"rating_rapid": 1559,
+		"rating_rapid": 1629,
 		"rating_blitz": 1565
 	},
 	{
@@ -5231,6 +5248,23 @@
 		"k": 40,
 		"birthday": 1990,
 		"flag": "i",
+		"rating_standard": 1671,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13104179,
+		"name": "Andrianaminaritsoa, Julien",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "",
 		"rating_standard": 1671,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -5402,7 +5436,7 @@
 		"birthday": 1999,
 		"flag": "i",
 		"rating_standard": 1668,
-		"rating_rapid": 1721,
+		"rating_rapid": 1759,
 		"rating_blitz": 1756
 	},
 	{
@@ -5470,7 +5504,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1666,
-		"rating_rapid": 1605,
+		"rating_rapid": 1677,
 		"rating_blitz": null
 	},
 	{
@@ -5502,7 +5536,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1665,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -5557,6 +5591,23 @@
 		"rating_standard": 1664,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13109502,
+		"name": "Rabenandrasana,Norotiana Fararindra",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1995,
+		"flag": "w",
+		"rating_standard": 1664,
+		"rating_rapid": 1575,
+		"rating_blitz": 1562
 	},
 	{
 		"fideid": 13106279,
@@ -6035,23 +6086,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13109502,
-		"name": "Rabenandrasana,Norotiana Fararindra",
-		"country": "MAD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "w",
-		"rating_standard": 1651,
-		"rating_rapid": 1575,
-		"rating_blitz": 1562
-	},
-	{
 		"fideid": 13109669,
 		"name": "Rakotoarison, Mihajtiana Finaritra",
 		"country": "MAD",
@@ -6405,7 +6439,7 @@
 		"birthday": 1965,
 		"flag": "",
 		"rating_standard": 1643,
-		"rating_rapid": 1677,
+		"rating_rapid": 1675,
 		"rating_blitz": 1691
 	},
 	{
@@ -6556,7 +6590,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1639,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -6672,7 +6706,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
@@ -7063,12 +7097,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1623,
-		"rating_rapid": 1685,
+		"rating_rapid": 1663,
 		"rating_blitz": 1647
 	},
 	{
@@ -7221,7 +7255,7 @@
 		"birthday": 1961,
 		"flag": "",
 		"rating_standard": 1617,
-		"rating_rapid": 1680,
+		"rating_rapid": 1654,
 		"rating_blitz": 1650
 	},
 	{
@@ -7510,7 +7544,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1607,
-		"rating_rapid": null,
+		"rating_rapid": 1554,
 		"rating_blitz": null
 	},
 	{
@@ -7680,7 +7714,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1603,
-		"rating_rapid": 1620,
+		"rating_rapid": 1690,
 		"rating_blitz": 1710
 	},
 	{
@@ -7767,23 +7801,6 @@
 		"rating_standard": 1600,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13109421,
-		"name": "Ranaivomanana,Ny Thyana Aicha",
-		"country": "MAD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1600,
-		"rating_rapid": 1546,
-		"rating_blitz": 1621
 	},
 	{
 		"fideid": 13110101,
@@ -8228,6 +8245,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13109421,
+		"name": "Ranaivomanana,Ny Thyana Aicha",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1586,
+		"rating_rapid": 1538,
+		"rating_blitz": 1621
+	},
+	{
 		"fideid": 13107950,
 		"name": "RANDIMBISOARIMANANA,Andriambololonirina",
 		"country": "MAD",
@@ -8258,7 +8292,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1584,
-		"rating_rapid": 1560,
+		"rating_rapid": 1568,
 		"rating_blitz": null
 	},
 	{
@@ -8372,7 +8406,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2003,
 		"flag": "w",
@@ -8483,6 +8517,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13105469,
+		"name": "Tsinjoviniavo, Nivo Hasina",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1577,
+		"rating_rapid": 1527,
+		"rating_blitz": 1625
+	},
+	{
 		"fideid": 13110330,
 		"name": "Ayaan,Chandarana",
 		"country": "MAD",
@@ -8491,12 +8542,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1576,
-		"rating_rapid": 1540,
+		"rating_rapid": 1600,
 		"rating_blitz": 1531
 	},
 	{
@@ -8513,7 +8564,7 @@
 		"birthday": 2009,
 		"flag": "w",
 		"rating_standard": 1575,
-		"rating_rapid": 1476,
+		"rating_rapid": 1470,
 		"rating_blitz": 1596
 	},
 	{
@@ -8632,7 +8683,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1573,
-		"rating_rapid": 1581,
+		"rating_rapid": 1585,
 		"rating_blitz": null
 	},
 	{
@@ -8746,12 +8797,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1568,
-		"rating_rapid": null,
+		"rating_rapid": 1588,
 		"rating_blitz": 1573
 	},
 	{
@@ -8802,7 +8853,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1567,
-		"rating_rapid": null,
+		"rating_rapid": 1549,
 		"rating_blitz": null
 	},
 	{
@@ -8837,6 +8888,23 @@
 		"flag": "i",
 		"rating_standard": 1566,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13104900,
+		"name": "Lalasoa,Miarana Irinah",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1565,
+		"rating_rapid": 1548,
 		"rating_blitz": null
 	},
 	{
@@ -8902,7 +8970,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1563,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -9057,7 +9125,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1556,
-		"rating_rapid": null,
+		"rating_rapid": 1552,
 		"rating_blitz": null
 	},
 	{
@@ -9078,23 +9146,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13111787,
-		"name": "Randriamazava,Mamihaja Jessy",
-		"country": "MAD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1554,
-		"rating_rapid": 1509,
-		"rating_blitz": 1504
-	},
-	{
 		"fideid": 13112287,
 		"name": "Rasamimanana,Matthieu Luciano",
 		"country": "MAD",
@@ -9110,23 +9161,6 @@
 		"rating_standard": 1554,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13105469,
-		"name": "Tsinjoviniavo, Nivo Hasina",
-		"country": "MAD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 12,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1553,
-		"rating_rapid": 1525,
-		"rating_blitz": 1625
 	},
 	{
 		"fideid": 13105787,
@@ -9188,29 +9222,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1550,
-		"rating_rapid": 1440,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13104900,
-		"name": "Lalasoa,Miarana Irinah",
-		"country": "MAD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1549,
-		"rating_rapid": 1548,
+		"rating_rapid": 1446,
 		"rating_blitz": null
 	},
 	{
@@ -9392,7 +9409,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "w",
@@ -9426,12 +9443,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": 1540,
-		"rating_rapid": 1455,
+		"rating_rapid": 1491,
 		"rating_blitz": 1429
 	},
 	{
@@ -9482,7 +9499,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1538,
-		"rating_rapid": 1611,
+		"rating_rapid": 1644,
 		"rating_blitz": 1635
 	},
 	{
@@ -9599,7 +9616,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1536,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -9851,12 +9868,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1524,
-		"rating_rapid": 1491,
+		"rating_rapid": 1478,
 		"rating_blitz": 1511
 	},
 	{
@@ -9992,7 +10009,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1519,
-		"rating_rapid": null,
+		"rating_rapid": 1448,
 		"rating_blitz": null
 	},
 	{
@@ -10009,7 +10026,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1519,
-		"rating_rapid": null,
+		"rating_rapid": 1463,
 		"rating_blitz": null
 	},
 	{
@@ -10028,23 +10045,6 @@
 		"rating_standard": 1518,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13109723,
-		"name": "Koera, Soatiana Candy",
-		"country": "MAD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1517,
-		"rating_rapid": 1516,
-		"rating_blitz": 1501
 	},
 	{
 		"fideid": 13112813,
@@ -10098,6 +10098,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13109723,
+		"name": "Koera, Soatiana Candy",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1515,
+		"rating_rapid": 1495,
+		"rating_blitz": 1501
+	},
+	{
 		"fideid": 13113089,
 		"name": "Andriarilala,Hajaniaina",
 		"country": "MAD",
@@ -10128,8 +10145,25 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1514,
-		"rating_rapid": 1475,
+		"rating_rapid": 1406,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13111787,
+		"name": "Randriamazava,Mamihaja Jessy",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1511,
+		"rating_rapid": 1517,
+		"rating_blitz": 1504
 	},
 	{
 		"fideid": 13109545,
@@ -10160,9 +10194,9 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1510,
-		"rating_rapid": null,
+		"rating_rapid": 1472,
 		"rating_blitz": null
 	},
 	{
@@ -10230,7 +10264,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1506,
-		"rating_rapid": 1518,
+		"rating_rapid": 1570,
 		"rating_blitz": 1480
 	},
 	{
@@ -10276,7 +10310,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
@@ -10349,7 +10383,7 @@
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": 1498,
-		"rating_rapid": null,
+		"rating_rapid": 1451,
 		"rating_blitz": null
 	},
 	{
@@ -10655,7 +10689,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1485,
-		"rating_rapid": null,
+		"rating_rapid": 1466,
 		"rating_blitz": null
 	},
 	{
@@ -10701,12 +10735,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1481,
-		"rating_rapid": 1489,
+		"rating_rapid": 1536,
 		"rating_blitz": 1529
 	},
 	{
@@ -10910,7 +10944,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1471,
-		"rating_rapid": null,
+		"rating_rapid": 1413,
 		"rating_blitz": null
 	},
 	{
@@ -10978,7 +11012,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1469,
-		"rating_rapid": null,
+		"rating_rapid": 1485,
 		"rating_blitz": null
 	},
 	{
@@ -11029,7 +11063,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1468,
-		"rating_rapid": 1511,
+		"rating_rapid": 1513,
 		"rating_blitz": 1489
 	},
 	{
@@ -11114,24 +11148,7 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1465,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13111590,
-		"name": "RAZAFIMANDIMBINANDRIANASOAVINA,Sendra Harinala",
-		"country": "MAD",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "w",
-		"rating_standard": 1462,
-		"rating_rapid": null,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -11148,7 +11165,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1461,
-		"rating_rapid": null,
+		"rating_rapid": 1459,
 		"rating_blitz": null
 	},
 	{
@@ -11233,7 +11250,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1450,
-		"rating_rapid": null,
+		"rating_rapid": 1436,
 		"rating_blitz": null
 	},
 	{
@@ -11250,7 +11267,7 @@
 		"birthday": 2012,
 		"flag": "i",
 		"rating_standard": 1449,
-		"rating_rapid": null,
+		"rating_rapid": 1419,
 		"rating_blitz": null
 	},
 	{
@@ -11369,7 +11386,7 @@
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": 1443,
-		"rating_rapid": 1434,
+		"rating_rapid": 1421,
 		"rating_blitz": null
 	},
 	{
@@ -11386,7 +11403,7 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1442,
-		"rating_rapid": 1435,
+		"rating_rapid": 1441,
 		"rating_blitz": null
 	},
 	{
@@ -11471,7 +11488,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1434,
-		"rating_rapid": null,
+		"rating_rapid": 1404,
 		"rating_blitz": null
 	},
 	{
@@ -11522,7 +11539,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1432,
-		"rating_rapid": 1409,
+		"rating_rapid": 1503,
 		"rating_blitz": 1421
 	},
 	{
@@ -11538,6 +11555,23 @@
 		"k": 40,
 		"birthday": 2006,
 		"flag": "i",
+		"rating_standard": 1431,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13111590,
+		"name": "RAZAFIMANDIMBINANDRIANASOAVINA,Sendra Harinala",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "w",
 		"rating_standard": 1431,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -11675,7 +11709,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1417,
-		"rating_rapid": null,
+		"rating_rapid": 1408,
 		"rating_blitz": null
 	},
 	{
@@ -11709,7 +11743,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1417,
-		"rating_rapid": null,
+		"rating_rapid": 1418,
 		"rating_blitz": null
 	},
 	{
@@ -11812,6 +11846,23 @@
 		"flag": "",
 		"rating_standard": 1401,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13111060,
+		"name": "ALISALAMA Andriamanjaka Salomon",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1576,
 		"rating_blitz": null
 	},
 	{
@@ -11982,7 +12033,24 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1819,
-		"rating_blitz": 1810
+		"rating_blitz": 1774
+	},
+	{
+		"fideid": 13112627,
+		"name": "Raharosoa,Niriantsilavinabeniyahou Netanael",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1568,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13114174,
@@ -11993,7 +12061,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -12019,6 +12087,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13114824,
+		"name": "Rajaonarison,Yohnan",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1454,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13103270,
 		"name": "Rakotondrajao Sarobidy Fandresena",
 		"country": "MAD",
@@ -12033,23 +12118,6 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1534,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13110390,
-		"name": "Ramanana,Toby Arivo Miaro Tiana",
-		"country": "MAD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1403,
 		"rating_blitz": null
 	},
 	{
@@ -12112,12 +12180,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1591,
+		"rating_rapid": 1555,
 		"rating_blitz": 1464
 	},
 	{
@@ -12155,6 +12223,23 @@
 		"rating_blitz": 1790
 	},
 	{
+		"fideid": 13113682,
+		"name": "Randrianantenaina,Tolojanahary Francisco",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1706,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13110659,
 		"name": "Randrianasolo,Nambiinainarimanana",
 		"country": "MAD",
@@ -12170,6 +12255,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1608,
 		"rating_blitz": 1646
+	},
+	{
+		"fideid": 13113801,
+		"name": "RANDRIANIRINA,Yorick",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1459,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13108212,
@@ -12197,12 +12299,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1528,
+		"rating_rapid": 1463,
 		"rating_blitz": 1416
 	},
 	{
@@ -12238,6 +12340,40 @@
 		"rating_standard": null,
 		"rating_rapid": 1511,
 		"rating_blitz": 1517
+	},
+	{
+		"fideid": 13113666,
+		"name": "Rasolofoniaina,Tsilavo",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1534,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13111108,
+		"name": "RATIANARIJAONA,Andy",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1421,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13103342,
@@ -12350,12 +12486,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1729,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13113658,
+		"name": "Roberto,Carlos",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1507,
 		"rating_blitz": null
 	},
 	{
@@ -12390,6 +12543,40 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1692,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13110730,
+		"name": "TSIVERISOA RANDRIAMARO,Oceann",
+		"country": "MAD",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1433,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13115995,
+		"name": "Vahatriniaina, Nekena",
+		"country": "MAD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1517,
 		"rating_blitz": null
 	},
 	{
