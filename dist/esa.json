@@ -30,8 +30,8 @@
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 2278,
-		"rating_rapid": 2271,
-		"rating_blitz": 2245
+		"rating_rapid": 2270,
+		"rating_blitz": 2310
 	},
 	{
 		"fideid": 6700020,
@@ -98,8 +98,8 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 2244,
-		"rating_rapid": 2201,
-		"rating_blitz": 2160
+		"rating_rapid": 2204,
+		"rating_blitz": 2192
 	},
 	{
 		"fideid": 6700098,
@@ -374,23 +374,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6700144,
-		"name": "Infante, Salvador",
-		"country": "ESA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "i",
-		"rating_standard": 2101,
-		"rating_rapid": 2189,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 6700578,
 		"name": "Martell, Jose",
 		"country": "ESA",
@@ -456,6 +439,23 @@
 		"flag": "i",
 		"rating_standard": 2080,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6700144,
+		"name": "Infante, Salvador",
+		"country": "ESA",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "",
+		"rating_standard": 2073,
+		"rating_rapid": 2189,
 		"rating_blitz": null
 	},
 	{
@@ -727,8 +727,8 @@
 		"birthday": 2002,
 		"flag": "w",
 		"rating_standard": 2001,
-		"rating_rapid": 1944,
-		"rating_blitz": 1961
+		"rating_rapid": 1974,
+		"rating_blitz": 1890
 	},
 	{
 		"fideid": 6700616,
@@ -926,7 +926,7 @@
 		"w_title": "WIM",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "w",
@@ -1490,7 +1490,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1991,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1920,
 		"rating_rapid": null,
 		"rating_blitz": 1896
@@ -1639,7 +1639,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "ACM",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 20,
 		"birthday": 1987,
@@ -1815,8 +1815,8 @@
 		"birthday": 1999,
 		"flag": "w",
 		"rating_standard": 1881,
-		"rating_rapid": 1916,
-		"rating_blitz": 1892
+		"rating_rapid": 1890,
+		"rating_blitz": 1866
 	},
 	{
 		"fideid": 6704379,
@@ -1898,7 +1898,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": "",
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1872,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2884,7 +2884,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1956,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1788,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -6485,7 +6485,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
@@ -6621,7 +6621,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": "",
 		"flag": "",
@@ -6655,7 +6655,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1957,
 		"flag": "",
@@ -7168,7 +7168,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1519,
 		"rating_rapid": null,
 		"rating_blitz": 1491
@@ -7182,7 +7182,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1977,
 		"flag": "",
@@ -7726,7 +7726,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1978,
 		"flag": "",
@@ -7899,7 +7899,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1464,
 		"rating_rapid": null,
 		"rating_blitz": null

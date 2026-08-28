@@ -8,13 +8,13 @@
 		"w_title": "",
 		"o_title": "SI",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
-		"rating_standard": 2288,
+		"rating_standard": 2311,
 		"rating_rapid": 2160,
-		"rating_blitz": 2230
+		"rating_blitz": 2208
 	},
 	{
 		"fideid": 15200060,
@@ -51,6 +51,23 @@
 		"rating_blitz": 1860
 	},
 	{
+		"fideid": 15202020,
+		"name": "Ndahangwapo, Heskiel",
+		"country": "NAM",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 2128,
+		"rating_rapid": 1946,
+		"rating_blitz": 1988
+	},
+	{
 		"fideid": 15200086,
 		"name": "Jorrit, Kirsten",
 		"country": "NAM",
@@ -66,23 +83,6 @@
 		"rating_standard": 2099,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15202020,
-		"name": "Ndahangwapo, Heskiel",
-		"country": "NAM",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 2095,
-		"rating_rapid": 1946,
-		"rating_blitz": 1994
 	},
 	{
 		"fideid": 15200094,
@@ -442,23 +442,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 15201228,
-		"name": "Schwarz, Bernhard",
-		"country": "NAM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1828,
-		"rating_rapid": 1804,
-		"rating_blitz": 1746
-	},
-	{
 		"fideid": 15200558,
 		"name": "Trepper, Tibor",
 		"country": "NAM",
@@ -474,6 +457,23 @@
 		"rating_standard": 1821,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 15201228,
+		"name": "Schwarz, Bernhard",
+		"country": "NAM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1813,
+		"rating_rapid": 1804,
+		"rating_blitz": 1721
 	},
 	{
 		"fideid": 15216268,
@@ -510,6 +510,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15200906,
+		"name": "Beukes Jamie-Nicole",
+		"country": "NAM",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1807,
+		"rating_rapid": 1617,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 15208893,
 		"name": "Samalesu Justin",
 		"country": "NAM",
@@ -522,7 +539,7 @@
 		"k": 40,
 		"birthday": 1995,
 		"flag": "",
-		"rating_standard": 1797,
+		"rating_standard": 1796,
 		"rating_rapid": 1802,
 		"rating_blitz": null
 	},
@@ -593,40 +610,6 @@
 		"rating_standard": 1782,
 		"rating_rapid": 1638,
 		"rating_blitz": 1616
-	},
-	{
-		"fideid": 15205797,
-		"name": "Angula, Sibusiso",
-		"country": "NAM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1781,
-		"rating_rapid": 1692,
-		"rating_blitz": 1778
-	},
-	{
-		"fideid": 15200906,
-		"name": "Beukes Jamie-Nicole",
-		"country": "NAM",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1778,
-		"rating_rapid": 1617,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 15201279,
@@ -1293,7 +1276,7 @@
 	},
 	{
 		"fideid": 15209970,
-		"name": "Endjala Fellep",
+		"name": "Endjala, Fillipus",
 		"country": "NAM",
 		"sex": "M",
 		"title": "",
@@ -1302,7 +1285,7 @@
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
-		"birthday": 2000,
+		"birthday": 2003,
 		"flag": "i",
 		"rating_standard": 1696,
 		"rating_rapid": null,
@@ -1320,7 +1303,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1998,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1692,
 		"rating_rapid": 1713,
 		"rating_blitz": 1712
@@ -1358,6 +1341,23 @@
 		"rating_standard": 1686,
 		"rating_rapid": null,
 		"rating_blitz": 1702
+	},
+	{
+		"fideid": 15205797,
+		"name": "Angula, Sibusiso",
+		"country": "NAM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1685,
+		"rating_rapid": 1692,
+		"rating_blitz": 1778
 	},
 	{
 		"fideid": 15211010,
@@ -1609,7 +1609,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2000,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1660,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -1643,7 +1643,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1995,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1656,
 		"rating_rapid": 1707,
 		"rating_blitz": null
@@ -1683,23 +1683,6 @@
 		"rating_blitz": 1641
 	},
 	{
-		"fideid": 15200485,
-		"name": "Nepando, Jolly",
-		"country": "NAM",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "w",
-		"rating_standard": 1649,
-		"rating_rapid": 1663,
-		"rating_blitz": 1590
-	},
-	{
 		"fideid": 15201805,
 		"name": "Shatipamba, Fillemon",
 		"country": "NAM",
@@ -1732,23 +1715,6 @@
 		"rating_standard": 1646,
 		"rating_rapid": 1506,
 		"rating_blitz": 1565
-	},
-	{
-		"fideid": 15209415,
-		"name": "Shekupe Fidel",
-		"country": "NAM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1645,
-		"rating_rapid": 1579,
-		"rating_blitz": 1591
 	},
 	{
 		"fideid": 15220940,
@@ -1870,6 +1836,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15213587,
+		"name": "Hangue, Fritz Junior",
+		"country": "NAM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1630,
+		"rating_rapid": 1660,
+		"rating_blitz": 1621
+	},
+	{
 		"fideid": 15201546,
 		"name": "Ameb, Clifton",
 		"country": "NAM",
@@ -1902,6 +1885,23 @@
 		"rating_standard": 1629,
 		"rating_rapid": 1514,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 15200485,
+		"name": "Nepando, Jolly",
+		"country": "NAM",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "w",
+		"rating_standard": 1626,
+		"rating_rapid": 1663,
+		"rating_blitz": 1590
 	},
 	{
 		"fideid": 15200370,
@@ -2102,7 +2102,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1612,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2174,6 +2174,23 @@
 		"rating_standard": 1602,
 		"rating_rapid": 1456,
 		"rating_blitz": 1545
+	},
+	{
+		"fideid": 15205738,
+		"name": "Itembu, Shali",
+		"country": "NAM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1601,
+		"rating_rapid": 1541,
+		"rating_blitz": 1579
 	},
 	{
 		"fideid": 15219879,
@@ -2308,7 +2325,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1590,
-		"rating_rapid": null,
+		"rating_rapid": 1620,
 		"rating_blitz": null
 	},
 	{
@@ -2323,7 +2340,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1590,
 		"rating_rapid": 1479,
 		"rating_blitz": 1473
@@ -2476,7 +2493,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1582,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -2514,23 +2531,6 @@
 		"rating_standard": 1581,
 		"rating_rapid": 1821,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15205894,
-		"name": "Boois, Fidel",
-		"country": "NAM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1580,
-		"rating_rapid": 1547,
-		"rating_blitz": 1630
 	},
 	{
 		"fideid": 15208206,
@@ -2652,6 +2652,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15209415,
+		"name": "Shekupe Fidel",
+		"country": "NAM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1573,
+		"rating_rapid": 1579,
+		"rating_blitz": 1591
+	},
+	{
 		"fideid": 15200736,
 		"name": "Oberholzer, Joshua",
 		"country": "NAM",
@@ -2697,7 +2714,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1994,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1571,
 		"rating_rapid": 1649,
 		"rating_blitz": null
@@ -2818,25 +2835,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1557,
-		"rating_rapid": 1511,
+		"rating_rapid": 1466,
 		"rating_blitz": 1527
-	},
-	{
-		"fideid": 15205738,
-		"name": "Itembu, Shali",
-		"country": "NAM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1557,
-		"rating_rapid": 1541,
-		"rating_blitz": 1579
 	},
 	{
 		"fideid": 15200574,
@@ -2922,23 +2922,6 @@
 		"rating_standard": 1541,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 15213587,
-		"name": "Hangue, Fritz Junior",
-		"country": "NAM",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1540,
-		"rating_rapid": 1660,
-		"rating_blitz": 1621
 	},
 	{
 		"fideid": 15201074,
@@ -3162,6 +3145,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 15205894,
+		"name": "Boois, Fidel",
+		"country": "NAM",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1512,
+		"rating_rapid": 1547,
+		"rating_blitz": 1630
+	},
+	{
 		"fideid": 15210138,
 		"name": "Ikumba, Jackson Hafeleni",
 		"country": "NAM",
@@ -3277,7 +3277,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1498,
-		"rating_rapid": null,
+		"rating_rapid": 1448,
 		"rating_blitz": 1651
 	},
 	{
@@ -3343,7 +3343,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1497,
 		"rating_rapid": 1479,
 		"rating_blitz": 1571
@@ -3544,7 +3544,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -3634,7 +3634,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1460,
-		"rating_rapid": null,
+		"rating_rapid": 1438,
 		"rating_blitz": 1426
 	},
 	{
@@ -3697,7 +3697,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -3714,7 +3714,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -3889,6 +3889,23 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1432,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 15206246,
+		"name": "Kaluvi, Twamona",
+		"country": "NAM",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1420,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -4176,7 +4193,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1984,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1575,
 		"rating_blitz": 1773
@@ -4193,7 +4210,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1450,
 		"rating_blitz": 1416
@@ -4278,7 +4295,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1708,
 		"rating_blitz": null
@@ -4309,7 +4326,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -4346,7 +4363,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1418,
 		"rating_blitz": null
@@ -4363,7 +4380,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1492,
 		"rating_blitz": 1516
@@ -4448,7 +4465,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1511,
 		"rating_blitz": 1579
@@ -4584,7 +4601,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1554,
 		"rating_blitz": 1642
@@ -4635,7 +4652,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1676,
 		"rating_blitz": null
@@ -4652,7 +4669,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1997,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1465,
 		"rating_blitz": null
@@ -4720,7 +4737,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1493

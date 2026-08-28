@@ -8,13 +8,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 15,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 2002,
+		"rating_standard": 2015,
 		"rating_rapid": 1926,
-		"rating_blitz": 1902
+		"rating_blitz": 1925
 	},
 	{
 		"fideid": 21302898,
@@ -25,13 +25,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 10,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 1937,
+		"rating_standard": 1963,
 		"rating_rapid": 1843,
-		"rating_blitz": 1870
+		"rating_blitz": 1892
 	},
 	{
 		"fideid": 21300550,
@@ -51,6 +51,23 @@
 		"rating_blitz": 1824
 	},
 	{
+		"fideid": 21300020,
+		"name": "Klaas, Tokelo",
+		"country": "LES",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 1879,
+		"rating_rapid": 1893,
+		"rating_blitz": 1875
+	},
+	{
 		"fideid": 21303622,
 		"name": "Karabo Mokete",
 		"country": "LES",
@@ -63,26 +80,9 @@
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
-		"rating_standard": 1883,
+		"rating_standard": 1867,
 		"rating_rapid": 1698,
-		"rating_blitz": 1673
-	},
-	{
-		"fideid": 21300020,
-		"name": "Klaas, Tokelo",
-		"country": "LES",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 1882,
-		"rating_rapid": 1893,
-		"rating_blitz": 1875
+		"rating_blitz": 1693
 	},
 	{
 		"fideid": 14317206,
@@ -100,6 +100,23 @@
 		"rating_standard": 1861,
 		"rating_rapid": null,
 		"rating_blitz": 1861
+	},
+	{
+		"fideid": 21301441,
+		"name": "Bokang, Motsamai",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1817,
+		"rating_rapid": 1774,
+		"rating_blitz": 1732
 	},
 	{
 		"fideid": 14317265,
@@ -134,23 +151,6 @@
 		"rating_standard": 1805,
 		"rating_rapid": 1735,
 		"rating_blitz": 1759
-	},
-	{
-		"fideid": 21301441,
-		"name": "Bokang, Motsamai",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1796,
-		"rating_rapid": 1774,
-		"rating_blitz": 1727
 	},
 	{
 		"fideid": 21300836,
@@ -204,6 +204,40 @@
 		"rating_blitz": 1871
 	},
 	{
+		"fideid": 21301921,
+		"name": "Ntsielo, Bonolo",
+		"country": "LES",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1781,
+		"rating_rapid": 1666,
+		"rating_blitz": 1660
+	},
+	{
+		"fideid": 21302243,
+		"name": "Khama, Letsatsi",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1776,
+		"rating_rapid": 1686,
+		"rating_blitz": 1629
+	},
+	{
 		"fideid": 21300429,
 		"name": "Thabang Maepe",
 		"country": "LES",
@@ -219,23 +253,6 @@
 		"rating_standard": 1768,
 		"rating_rapid": null,
 		"rating_blitz": 1785
-	},
-	{
-		"fideid": 21304866,
-		"name": "Tumelo Putsoa",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1762,
-		"rating_rapid": 1732,
-		"rating_blitz": 1732
 	},
 	{
 		"fideid": 21300402,
@@ -272,57 +289,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21302243,
-		"name": "Khama, Letsatsi",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1747,
-		"rating_rapid": 1686,
-		"rating_blitz": 1623
-	},
-	{
-		"fideid": 21303487,
-		"name": "Mokhameleli Mohale",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1743,
-		"rating_rapid": 1630,
-		"rating_blitz": 1652
-	},
-	{
-		"fideid": 21301921,
-		"name": "Ntsielo, Bonolo",
-		"country": "LES",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1741,
-		"rating_rapid": 1666,
-		"rating_blitz": 1667
-	},
-	{
 		"fideid": 21300895,
 		"name": "Monyake Doti",
 		"country": "LES",
@@ -357,20 +323,20 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21304033,
-		"name": "Matlali Pofane",
+		"fideid": 21305897,
+		"name": "Matseliso, Maraisane",
 		"country": "LES",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1726,
-		"rating_rapid": 1582,
+		"games": 5,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "w",
+		"rating_standard": 1733,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -389,6 +355,40 @@
 		"rating_standard": 1726,
 		"rating_rapid": 1687,
 		"rating_blitz": 1653
+	},
+	{
+		"fideid": 21304033,
+		"name": "Matlali Pofane",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1725,
+		"rating_rapid": 1582,
+		"rating_blitz": 1738
+	},
+	{
+		"fideid": 21302103,
+		"name": "Ntsonyana, Bahlakoana",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1725,
+		"rating_rapid": 1674,
+		"rating_blitz": 1748
 	},
 	{
 		"fideid": 14317249,
@@ -425,23 +425,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21302103,
-		"name": "Ntsonyana, Bahlakoana",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 2004,
-		"flag": "",
-		"rating_standard": 1722,
-		"rating_rapid": 1674,
-		"rating_blitz": 1728
-	},
-	{
 		"fideid": 21301344,
 		"name": "Mokete, Maile",
 		"country": "LES",
@@ -476,6 +459,23 @@
 		"rating_blitz": 1732
 	},
 	{
+		"fideid": 21306265,
+		"name": "Tlhonolofatso, Mosena",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1714,
+		"rating_rapid": null,
+		"rating_blitz": 1796
+	},
+	{
 		"fideid": 21303380,
 		"name": "Siyabonga Sibeko",
 		"country": "LES",
@@ -491,6 +491,23 @@
 		"rating_standard": 1710,
 		"rating_rapid": 1593,
 		"rating_blitz": 1470
+	},
+	{
+		"fideid": 21301948,
+		"name": "Motlomelo, Lihloela",
+		"country": "LES",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1709,
+		"rating_rapid": 1625,
+		"rating_blitz": 1647
 	},
 	{
 		"fideid": 21303096,
@@ -510,23 +527,6 @@
 		"rating_blitz": 1508
 	},
 	{
-		"fideid": 21300380,
-		"name": "Joang Molapo",
-		"country": "LES",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": 1707,
-		"rating_rapid": 1728,
-		"rating_blitz": 1657
-	},
-	{
 		"fideid": 21301328,
 		"name": "Moeketsi Pelesa",
 		"country": "LES",
@@ -544,6 +544,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21300178,
+		"name": "Teeke, Naleli",
+		"country": "LES",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "w",
+		"rating_standard": 1706,
+		"rating_rapid": 1606,
+		"rating_blitz": 1538
+	},
+	{
 		"fideid": 21301069,
 		"name": "Tsiu Matsepe",
 		"country": "LES",
@@ -559,6 +576,23 @@
 		"rating_standard": 1706,
 		"rating_rapid": null,
 		"rating_blitz": 1710
+	},
+	{
+		"fideid": 21304866,
+		"name": "Tumelo Putsoa",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1706,
+		"rating_rapid": 1732,
+		"rating_blitz": 1732
 	},
 	{
 		"fideid": 14317192,
@@ -595,40 +629,6 @@
 		"rating_blitz": 1712
 	},
 	{
-		"fideid": 21303088,
-		"name": "Katleho Phakisi",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1697,
-		"rating_rapid": 1569,
-		"rating_blitz": 1613
-	},
-	{
-		"fideid": 21304904,
-		"name": "Batloung Lesela",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1696,
-		"rating_rapid": 1439,
-		"rating_blitz": 1675
-	},
-	{
 		"fideid": 21300453,
 		"name": "Mohale Lebona",
 		"country": "LES",
@@ -646,8 +646,25 @@
 		"rating_blitz": 1680
 	},
 	{
-		"fideid": 21301948,
-		"name": "Motlomelo, Lihloela",
+		"fideid": 21303487,
+		"name": "Mokhameleli Mohale",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1630,
+		"rating_blitz": 1647
+	},
+	{
+		"fideid": 21300380,
+		"name": "Joang Molapo",
 		"country": "LES",
 		"sex": "M",
 		"title": "CM",
@@ -656,11 +673,11 @@
 		"foa_title": "",
 		"games": 5,
 		"k": 20,
-		"birthday": 2003,
+		"birthday": 1965,
 		"flag": "",
 		"rating_standard": 1693,
-		"rating_rapid": 1625,
-		"rating_blitz": 1636
+		"rating_rapid": 1728,
+		"rating_blitz": 1635
 	},
 	{
 		"fideid": 21301514,
@@ -748,6 +765,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21303088,
+		"name": "Katleho Phakisi",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1678,
+		"rating_rapid": 1569,
+		"rating_blitz": 1582
+	},
+	{
 		"fideid": 21300151,
 		"name": "Motsoko Makhetha",
 		"country": "LES",
@@ -790,30 +824,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1675,
 		"rating_rapid": null,
 		"rating_blitz": 1655
-	},
-	{
-		"fideid": 21300178,
-		"name": "Teeke, Naleli",
-		"country": "LES",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "w",
-		"rating_standard": 1674,
-		"rating_rapid": 1606,
-		"rating_blitz": 1538
 	},
 	{
 		"fideid": 14317214,
@@ -831,23 +848,6 @@
 		"rating_standard": 1672,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 21304840,
-		"name": "Abele Mokoma",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1671,
-		"rating_rapid": 1562,
-		"rating_blitz": 1610
 	},
 	{
 		"fideid": 21300747,
@@ -935,6 +935,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21304840,
+		"name": "Abele Mokoma",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1664,
+		"rating_rapid": 1562,
+		"rating_blitz": 1610
+	},
+	{
 		"fideid": 21300798,
 		"name": "Lelimo Moeketsi",
 		"country": "LES",
@@ -1020,6 +1037,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21304904,
+		"name": "Batloung Lesela",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1660,
+		"rating_rapid": 1439,
+		"rating_blitz": 1637
+	},
+	{
 		"fideid": 21300011,
 		"name": "Selatela, Khiba",
 		"country": "LES",
@@ -1034,7 +1068,7 @@
 		"flag": "",
 		"rating_standard": 1660,
 		"rating_rapid": null,
-		"rating_blitz": 1712
+		"rating_blitz": 1682
 	},
 	{
 		"fideid": 21301271,
@@ -1101,23 +1135,6 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": 1649,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 21302774,
-		"name": "Lovemore Sithole",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 1647,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1241,6 +1258,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21300259,
+		"name": "Ntsonyane Phamotse",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 1640,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21305480,
+		"name": "Gugushe Mongezi",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1639,
+		"rating_rapid": null,
+		"rating_blitz": 1571
+	},
+	{
 		"fideid": 21305080,
 		"name": "Likopo Liphoto",
 		"country": "LES",
@@ -1292,23 +1343,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21300259,
-		"name": "Ntsonyane Phamotse",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1995,
-		"flag": "i",
-		"rating_standard": 1635,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 14317281,
 		"name": "Lekau, Ramokotjo",
 		"country": "LES",
@@ -1326,6 +1360,23 @@
 		"rating_blitz": 1672
 	},
 	{
+		"fideid": 21305455,
+		"name": "Leloko Mokhameleli",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1633,
+		"rating_rapid": null,
+		"rating_blitz": 1570
+	},
+	{
 		"fideid": 21303010,
 		"name": "Makibinyane Kananelo",
 		"country": "LES",
@@ -1334,7 +1385,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 0,
 		"k": 40,
 		"birthday": 2003,
 		"flag": "",
@@ -1357,7 +1408,7 @@
 		"flag": "",
 		"rating_standard": 1630,
 		"rating_rapid": 1571,
-		"rating_blitz": 1535
+		"rating_blitz": 1562
 	},
 	{
 		"fideid": 21301930,
@@ -1411,21 +1462,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21305480,
-		"name": "Gugushe Mongezi",
+		"fideid": 21302715,
+		"name": "Machoba, Hlompho",
 		"country": "LES",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2009,
+		"games": 4,
+		"k": 20,
+		"birthday": 2002,
 		"flag": "",
-		"rating_standard": 1624,
-		"rating_rapid": null,
-		"rating_blitz": 1585
+		"rating_standard": 1627,
+		"rating_rapid": 1620,
+		"rating_blitz": 1691
 	},
 	{
 		"fideid": 21300577,
@@ -1462,23 +1513,6 @@
 		"rating_blitz": 1631
 	},
 	{
-		"fideid": 21302782,
-		"name": "Boitumelo Sethabathaba",
-		"country": "LES",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "w",
-		"rating_standard": 1618,
-		"rating_rapid": 1543,
-		"rating_blitz": 1564
-	},
-	{
 		"fideid": 21301174,
 		"name": "Tsepo Thoala",
 		"country": "LES",
@@ -1496,21 +1530,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21302715,
-		"name": "Machoba, Hlompho",
+		"fideid": 21302782,
+		"name": "Boitumelo Sethabathaba",
 		"country": "LES",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 20,
-		"birthday": 2002,
-		"flag": "",
+		"birthday": 2000,
+		"flag": "w",
 		"rating_standard": 1616,
-		"rating_rapid": 1620,
-		"rating_blitz": 1670
+		"rating_rapid": 1543,
+		"rating_blitz": 1564
 	},
 	{
 		"fideid": 21301875,
@@ -1547,23 +1581,6 @@
 		"rating_blitz": 1585
 	},
 	{
-		"fideid": 21305455,
-		"name": "Leloko Mokhameleli",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1614,
-		"rating_rapid": null,
-		"rating_blitz": 1542
-	},
-	{
 		"fideid": 21300810,
 		"name": "Maepe Kemang",
 		"country": "LES",
@@ -1577,6 +1594,23 @@
 		"birthday": 1995,
 		"flag": "i",
 		"rating_standard": 1612,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 21302774,
+		"name": "Lovemore Sithole",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 1611,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1595,7 +1629,7 @@
 		"flag": "i",
 		"rating_standard": 1611,
 		"rating_rapid": 1577,
-		"rating_blitz": null
+		"rating_blitz": 1609
 	},
 	{
 		"fideid": 21301255,
@@ -1681,6 +1715,23 @@
 		"rating_standard": 1606,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21304777,
+		"name": "Lenyane, Tau",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1606,
+		"rating_rapid": 1704,
+		"rating_blitz": 1570
 	},
 	{
 		"fideid": 21302537,
@@ -1819,23 +1870,6 @@
 		"rating_blitz": 1548
 	},
 	{
-		"fideid": 21303029,
-		"name": "Katleho Mohale",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1600,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 21301816,
 		"name": "Mashobane, Mongoli",
 		"country": "LES",
@@ -1853,21 +1887,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21305889,
-		"name": "Fako, Letsie",
+		"fideid": 21303029,
+		"name": "Katleho Mohale",
 		"country": "LES",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
+		"games": 3,
+		"k": 20,
+		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1589,
 		"rating_rapid": null,
-		"rating_blitz": 1581
+		"rating_blitz": 1590
 	},
 	{
 		"fideid": 21303495,
@@ -2023,6 +2057,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21305889,
+		"name": "Fako, Letsie",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": null,
+		"rating_blitz": 1569
+	},
+	{
+		"fideid": 21306257,
+		"name": "Neo, Mpotjo",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": null,
+		"rating_blitz": 1463
+	},
+	{
 		"fideid": 21301263,
 		"name": "Sentsuoe, Mariti",
 		"country": "LES",
@@ -2048,13 +2116,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 1983,
 		"flag": "",
-		"rating_standard": 1574,
+		"rating_standard": 1576,
 		"rating_rapid": 1693,
-		"rating_blitz": 1624
+		"rating_blitz": 1630
 	},
 	{
 		"fideid": 21303819,
@@ -2227,6 +2295,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21300526,
+		"name": "Makhetha Ramojapoho",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": 1556,
+		"rating_rapid": null,
+		"rating_blitz": 1635
+	},
+	{
 		"fideid": 21301417,
 		"name": "Tumelo, Chauke",
 		"country": "LES",
@@ -2276,6 +2361,23 @@
 		"rating_standard": 1553,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21300739,
+		"name": "Pontso Makhebesela",
+		"country": "LES",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2002,
+		"flag": "w",
+		"rating_standard": 1553,
+		"rating_rapid": null,
+		"rating_blitz": 1453
 	},
 	{
 		"fideid": 21303533,
@@ -2363,6 +2465,23 @@
 		"rating_blitz": 1515
 	},
 	{
+		"fideid": 21306044,
+		"name": "Thabang, Mzilikazi",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1546,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 21301573,
 		"name": "Tlotliso, Motlhokoa",
 		"country": "LES",
@@ -2414,23 +2533,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21300739,
-		"name": "Pontso Makhebesela",
-		"country": "LES",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2002,
-		"flag": "w",
-		"rating_standard": 1541,
-		"rating_rapid": null,
-		"rating_blitz": 1453
-	},
-	{
 		"fideid": 21300488,
 		"name": "Mfundisi Nhlapo",
 		"country": "LES",
@@ -2448,23 +2550,6 @@
 		"rating_blitz": 1524
 	},
 	{
-		"fideid": 21305340,
-		"name": "Tsatsi Tsepo",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1531,
-		"rating_rapid": null,
-		"rating_blitz": 1482
-	},
-	{
 		"fideid": 21300437,
 		"name": "Palamo Makhele",
 		"country": "LES",
@@ -2480,6 +2565,23 @@
 		"rating_standard": 1529,
 		"rating_rapid": 1581,
 		"rating_blitz": 1561
+	},
+	{
+		"fideid": 21305390,
+		"name": "Macheli Mothunyane",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1527,
+		"rating_rapid": null,
+		"rating_blitz": 1551
 	},
 	{
 		"fideid": 21305153,
@@ -2598,7 +2700,24 @@
 		"flag": "",
 		"rating_standard": 1521,
 		"rating_rapid": 1553,
-		"rating_blitz": 1467
+		"rating_blitz": 1487
+	},
+	{
+		"fideid": 21305935,
+		"name": "Sekonyela, Nkotoane",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1519,
+		"rating_rapid": null,
+		"rating_blitz": 1468
 	},
 	{
 		"fideid": 21303916,
@@ -2616,40 +2735,6 @@
 		"rating_standard": 1517,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 21304777,
-		"name": "Lenyane, Tau",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1516,
-		"rating_rapid": 1704,
-		"rating_blitz": 1590
-	},
-	{
-		"fideid": 21303436,
-		"name": "Moorosi Thato",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1513,
-		"rating_rapid": 1440,
-		"rating_blitz": 1493
 	},
 	{
 		"fideid": 21302294,
@@ -2686,6 +2771,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21303428,
+		"name": "Mathaba Maraisane",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1507,
+		"rating_rapid": null,
+		"rating_blitz": 1475
+	},
+	{
 		"fideid": 21303118,
 		"name": "Realeboha Sebibinyane",
 		"country": "LES",
@@ -2703,6 +2805,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 21305277,
+		"name": "Thabo Chaoana",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1507,
+		"rating_rapid": null,
+		"rating_blitz": 1547
+	},
+	{
+		"fideid": 21305340,
+		"name": "Tsatsi Tsepo",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1507,
+		"rating_rapid": null,
+		"rating_blitz": 1457
+	},
+	{
 		"fideid": 21304521,
 		"name": "Lipholo Rorisang",
 		"country": "LES",
@@ -2717,7 +2853,7 @@
 		"flag": "",
 		"rating_standard": 1506,
 		"rating_rapid": 1468,
-		"rating_blitz": 1452
+		"rating_blitz": 1458
 	},
 	{
 		"fideid": 21301751,
@@ -2788,8 +2924,25 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21305935,
-		"name": "Sekonyela, Nkotoane",
+		"fideid": 21303436,
+		"name": "Moorosi Thato",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1501,
+		"rating_rapid": 1440,
+		"rating_blitz": 1487
+	},
+	{
+		"fideid": 21303754,
+		"name": "Makhetha, Motlohi",
 		"country": "LES",
 		"sex": "M",
 		"title": "",
@@ -2798,28 +2951,11 @@
 		"foa_title": "",
 		"games": 5,
 		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1503,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 21303843,
-		"name": "Tsepo Masaballa",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
 		"birthday": 2004,
 		"flag": "",
-		"rating_standard": 1501,
-		"rating_rapid": 1609,
-		"rating_blitz": 1512
+		"rating_standard": 1497,
+		"rating_rapid": null,
+		"rating_blitz": 1749
 	},
 	{
 		"fideid": 21302545,
@@ -2856,8 +2992,8 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21305277,
-		"name": "Thabo Chaoana",
+		"fideid": 21303843,
+		"name": "Tsepo Masaballa",
 		"country": "LES",
 		"sex": "M",
 		"title": "",
@@ -2866,11 +3002,11 @@
 		"foa_title": "",
 		"games": 4,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2004,
 		"flag": "",
-		"rating_standard": 1494,
-		"rating_rapid": null,
-		"rating_blitz": 1576
+		"rating_standard": 1491,
+		"rating_rapid": 1609,
+		"rating_blitz": 1519
 	},
 	{
 		"fideid": 21300313,
@@ -2888,23 +3024,6 @@
 		"rating_standard": 1490,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 21303428,
-		"name": "Mathaba Maraisane",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1490,
-		"rating_rapid": null,
-		"rating_blitz": 1474
 	},
 	{
 		"fideid": 21304599,
@@ -3051,7 +3170,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
@@ -3142,7 +3261,7 @@
 		"flag": "",
 		"rating_standard": 1456,
 		"rating_rapid": 1434,
-		"rating_blitz": null
+		"rating_blitz": 1472
 	},
 	{
 		"fideid": 21300062,
@@ -3213,23 +3332,6 @@
 		"rating_blitz": 1489
 	},
 	{
-		"fideid": 21305331,
-		"name": "Atlehang Petlane",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 4,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1432,
-		"rating_rapid": null,
-		"rating_blitz": 1602
-	},
-	{
 		"fideid": 21301808,
 		"name": "Letoao, Ntsepiseng",
 		"country": "LES",
@@ -3278,7 +3380,7 @@
 		"flag": "",
 		"rating_standard": 1421,
 		"rating_rapid": 1741,
-		"rating_blitz": 1544
+		"rating_blitz": 1531
 	},
 	{
 		"fideid": 21304505,
@@ -3315,23 +3417,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 21302960,
-		"name": "Setipe Tsepo",
-		"country": "LES",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1416,
-		"rating_rapid": null,
-		"rating_blitz": 1545
-	},
-	{
 		"fideid": 21303401,
 		"name": "Moeketsi Lekhooa",
 		"country": "LES",
@@ -3347,6 +3432,40 @@
 		"rating_standard": 1414,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 21305331,
+		"name": "Atlehang Petlane",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1412,
+		"rating_rapid": null,
+		"rating_blitz": 1567
+	},
+	{
+		"fideid": 21302960,
+		"name": "Setipe Tsepo",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1410,
+		"rating_rapid": null,
+		"rating_blitz": 1553
 	},
 	{
 		"fideid": 21302340,
@@ -3431,7 +3550,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1411,
-		"rating_blitz": 1585
+		"rating_blitz": 1587
 	},
 	{
 		"fideid": 21304360,
@@ -3584,7 +3703,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1662,
-		"rating_blitz": 1632
+		"rating_blitz": 1622
 	},
 	{
 		"fideid": 21304459,
@@ -3740,6 +3859,40 @@
 		"rating_blitz": 1566
 	},
 	{
+		"fideid": 21306400,
+		"name": "Lekhoana, Reitumetse",
+		"country": "LES",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1626
+	},
+	{
+		"fideid": 21306230,
+		"name": "Lephethesang, Letlala",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1600
+	},
+	{
 		"fideid": 21304335,
 		"name": "Letsie Thesele",
 		"country": "LES",
@@ -3755,6 +3908,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1414
+	},
+	{
+		"fideid": 21303606,
+		"name": "Masupha Mabatha",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1582
 	},
 	{
 		"fideid": 21305218,
@@ -3774,6 +3944,23 @@
 		"rating_blitz": 1517
 	},
 	{
+		"fideid": 21304831,
+		"name": "Ranchobe Mokheseng",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1764
+	},
+	{
 		"fideid": 21305960,
 		"name": "Teboho, Seoete",
 		"country": "LES",
@@ -3789,6 +3976,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1432
+	},
+	{
+		"fideid": 21306320,
+		"name": "Thabelang, Moshabe",
+		"country": "LES",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1513
 	},
 	{
 		"fideid": 21304432,

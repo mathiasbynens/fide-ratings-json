@@ -65,7 +65,7 @@
 		"flag": "",
 		"rating_standard": 2341,
 		"rating_rapid": 2305,
-		"rating_blitz": 2227
+		"rating_blitz": 2230
 	},
 	{
 		"fideid": 5502543,
@@ -98,8 +98,8 @@
 		"birthday": 1964,
 		"flag": "",
 		"rating_standard": 2297,
-		"rating_rapid": 2229,
-		"rating_blitz": 2142
+		"rating_rapid": 2230,
+		"rating_blitz": 2155
 	},
 	{
 		"fideid": 5500133,
@@ -170,23 +170,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5529506,
-		"name": "Abdallah, Mohamed Khalil",
-		"country": "TUN",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2257,
-		"rating_rapid": 1993,
-		"rating_blitz": 2180
-	},
-	{
 		"fideid": 5500010,
 		"name": "Bouaziz, Slim",
 		"country": "TUN",
@@ -255,23 +238,6 @@
 		"rating_blitz": 2344
 	},
 	{
-		"fideid": 5501733,
-		"name": "Bouzidi, Ahmed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1986,
-		"flag": "",
-		"rating_standard": 2215,
-		"rating_rapid": 2121,
-		"rating_blitz": 2095
-	},
-	{
 		"fideid": 5500125,
 		"name": "Lagha, Khelil",
 		"country": "TUN",
@@ -289,6 +255,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5529506,
+		"name": "Abdallah, Mohamed Khalil",
+		"country": "TUN",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2201,
+		"rating_rapid": 1993,
+		"rating_blitz": 2180
+	},
+	{
 		"fideid": 5500508,
 		"name": "Douissa, Oussama",
 		"country": "TUN",
@@ -303,7 +286,24 @@
 		"flag": "",
 		"rating_standard": 2200,
 		"rating_rapid": 2215,
-		"rating_blitz": 2222
+		"rating_blitz": 2217
+	},
+	{
+		"fideid": 5501733,
+		"name": "Bouzidi, Ahmed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1986,
+		"flag": "",
+		"rating_standard": 2195,
+		"rating_rapid": 2122,
+		"rating_blitz": 2145
 	},
 	{
 		"fideid": 5500222,
@@ -405,7 +405,7 @@
 		"flag": "",
 		"rating_standard": 2151,
 		"rating_rapid": 2163,
-		"rating_blitz": 2202
+		"rating_blitz": 2201
 	},
 	{
 		"fideid": 5500885,
@@ -557,7 +557,7 @@
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": 2128,
-		"rating_rapid": 2216,
+		"rating_rapid": 2208,
 		"rating_blitz": 2162
 	},
 	{
@@ -640,7 +640,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 2112,
 		"rating_rapid": 1920,
 		"rating_blitz": 1926
@@ -661,23 +661,6 @@
 		"rating_standard": 2109,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5501660,
-		"name": "Meftahi, Houssem Eddine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "IM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 2106,
-		"rating_rapid": 2134,
-		"rating_blitz": 2116
 	},
 	{
 		"fideid": 5501261,
@@ -765,6 +748,23 @@
 		"rating_blitz": 2095
 	},
 	{
+		"fideid": 5501660,
+		"name": "Meftahi, Houssem Eddine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 2092,
+		"rating_rapid": 2134,
+		"rating_blitz": 2116
+	},
+	{
 		"fideid": 5500427,
 		"name": "Chikhaoui, Walid",
 		"country": "TUN",
@@ -830,7 +830,7 @@
 		"flag": "",
 		"rating_standard": 2061,
 		"rating_rapid": 2069,
-		"rating_blitz": 2061
+		"rating_blitz": 2063
 	},
 	{
 		"fideid": 5510120,
@@ -846,7 +846,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 2060,
-		"rating_rapid": 1900,
+		"rating_rapid": 1882,
 		"rating_blitz": 1981
 	},
 	{
@@ -1224,6 +1224,23 @@
 		"rating_blitz": 1934
 	},
 	{
+		"fideid": 5503906,
+		"name": "Chelly, Hichem",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 2005,
+		"rating_rapid": 1951,
+		"rating_blitz": 1864
+	},
+	{
 		"fideid": 5512565,
 		"name": "Rezgui Khaled",
 		"country": "TUN",
@@ -1292,6 +1309,23 @@
 		"rating_blitz": 2041
 	},
 	{
+		"fideid": 5516200,
+		"name": "Chelly, Yahya",
+		"country": "TUN",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 20,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 2001,
+		"rating_rapid": 2001,
+		"rating_blitz": 2074
+	},
+	{
 		"fideid": 5503108,
 		"name": "Jabloun , Bilel",
 		"country": "TUN",
@@ -1305,8 +1339,8 @@
 		"birthday": "",
 		"flag": "",
 		"rating_standard": 2001,
-		"rating_rapid": 2017,
-		"rating_blitz": 1976
+		"rating_rapid": 2044,
+		"rating_blitz": 2009
 	},
 	{
 		"fideid": 5516080,
@@ -1322,8 +1356,8 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 2000,
-		"rating_rapid": 1901,
-		"rating_blitz": 1893
+		"rating_rapid": 1880,
+		"rating_blitz": 1909
 	},
 	{
 		"fideid": 5501199,
@@ -1411,6 +1445,23 @@
 		"rating_blitz": 1911
 	},
 	{
+		"fideid": 5501423,
+		"name": "Jaballah, Moncef",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "FI",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1969,
+		"flag": "",
+		"rating_standard": 1993,
+		"rating_rapid": 1953,
+		"rating_blitz": 1904
+	},
+	{
 		"fideid": 5502659,
 		"name": "Ismail, Hassen",
 		"country": "TUN",
@@ -1477,23 +1528,6 @@
 		"rating_standard": 1988,
 		"rating_rapid": 1798,
 		"rating_blitz": 1777
-	},
-	{
-		"fideid": 5516200,
-		"name": "Chelly, Yahya",
-		"country": "TUN",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1988,
-		"rating_rapid": 2001,
-		"rating_blitz": 2046
 	},
 	{
 		"fideid": 5500850,
@@ -1696,8 +1730,8 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1977,
-		"rating_rapid": 1883,
-		"rating_blitz": 2048
+		"rating_rapid": 1931,
+		"rating_blitz": 2050
 	},
 	{
 		"fideid": 5501105,
@@ -1715,23 +1749,6 @@
 		"rating_standard": 1975,
 		"rating_rapid": 1904,
 		"rating_blitz": 1933
-	},
-	{
-		"fideid": 5501423,
-		"name": "Jaballah, Moncef",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "FI",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1969,
-		"flag": "",
-		"rating_standard": 1974,
-		"rating_rapid": 1953,
-		"rating_blitz": 1904
 	},
 	{
 		"fideid": 5517737,
@@ -1884,7 +1901,7 @@
 		"flag": "",
 		"rating_standard": 1962,
 		"rating_rapid": 1979,
-		"rating_blitz": 1964
+		"rating_blitz": 1993
 	},
 	{
 		"fideid": 5501385,
@@ -2459,7 +2476,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1929,
 		"rating_rapid": 1927,
 		"rating_blitz": 1963
@@ -2703,6 +2720,23 @@
 		"rating_blitz": 1902
 	},
 	{
+		"fideid": 5540739,
+		"name": "Hafsa,Yessine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1918,
+		"rating_rapid": 2004,
+		"rating_blitz": 1942
+	},
+	{
 		"fideid": 5504260,
 		"name": "Said, Oussama",
 		"country": "TUN",
@@ -2854,23 +2888,6 @@
 		"rating_standard": 1912,
 		"rating_rapid": 1941,
 		"rating_blitz": 1984
-	},
-	{
-		"fideid": 5540739,
-		"name": "Hafsa,Yessine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1912,
-		"rating_rapid": 1923,
-		"rating_blitz": 1855
 	},
 	{
 		"fideid": 5503779,
@@ -3077,6 +3094,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5511151,
+		"name": "Saadaoui, Jaafer",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "FA",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1905,
+		"rating_rapid": 2016,
+		"rating_blitz": 2031
+	},
+	{
 		"fideid": 5559774,
 		"name": "SOUAYAH, Fawaz",
 		"country": "TUN",
@@ -3111,23 +3145,6 @@
 		"rating_blitz": 1998
 	},
 	{
-		"fideid": 5503906,
-		"name": "Chelly, Hichem",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": "",
-		"flag": "",
-		"rating_standard": 1900,
-		"rating_rapid": 1951,
-		"rating_blitz": 1864
-	},
-	{
 		"fideid": 5500478,
 		"name": "Charfeddine, Akram",
 		"country": "TUN",
@@ -3136,13 +3153,13 @@
 		"w_title": "",
 		"o_title": "SI",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 1985,
 		"flag": "",
-		"rating_standard": 1899,
+		"rating_standard": 1900,
 		"rating_rapid": 1965,
-		"rating_blitz": 2003
+		"rating_blitz": 1984
 	},
 	{
 		"fideid": 5518458,
@@ -3243,7 +3260,7 @@
 		"birthday": 1970,
 		"flag": "",
 		"rating_standard": 1894,
-		"rating_rapid": 1912,
+		"rating_rapid": 1917,
 		"rating_blitz": 1961
 	},
 	{
@@ -3296,6 +3313,23 @@
 		"rating_standard": 1891,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5515874,
+		"name": "Jlajla,Amine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1890,
+		"rating_rapid": 1775,
+		"rating_blitz": 1965
 	},
 	{
 		"fideid": 5509610,
@@ -3381,23 +3415,6 @@
 		"rating_standard": 1888,
 		"rating_rapid": 1911,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5543142,
-		"name": "Mbarki,Dhiaeddine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1887,
-		"rating_rapid": 1783,
-		"rating_blitz": 1841
 	},
 	{
 		"fideid": 5512212,
@@ -3530,7 +3547,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1881,
 		"rating_rapid": 1783,
 		"rating_blitz": 1741
@@ -3672,23 +3689,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5503981,
-		"name": "Nouira, Najeh",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": "",
-		"flag": "",
-		"rating_standard": 1877,
-		"rating_rapid": 1906,
-		"rating_blitz": 1941
-	},
-	{
 		"fideid": 5537509,
 		"name": "Shill, Amen Allah",
 		"country": "TUN",
@@ -3753,7 +3753,7 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1872,
-		"rating_rapid": 1864,
+		"rating_rapid": 1838,
 		"rating_blitz": 1757
 	},
 	{
@@ -3823,6 +3823,23 @@
 		"rating_standard": 1869,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5503981,
+		"name": "Nouira, Najeh",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1868,
+		"rating_rapid": 1906,
+		"rating_blitz": 1926
 	},
 	{
 		"fideid": 5520509,
@@ -3942,6 +3959,23 @@
 		"rating_standard": 1866,
 		"rating_rapid": 1674,
 		"rating_blitz": 1639
+	},
+	{
+		"fideid": 5529441,
+		"name": "Benzarti,Thabet",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1865,
+		"rating_rapid": 1716,
+		"rating_blitz": 1855
 	},
 	{
 		"fideid": 5507758,
@@ -4105,7 +4139,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
@@ -4233,23 +4267,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5515874,
-		"name": "Jlajla,Amine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1848,
-		"rating_rapid": 1775,
-		"rating_blitz": 1998
-	},
-	{
 		"fideid": 5506182,
 		"name": "Ghali, Bacem",
 		"country": "TUN",
@@ -4335,23 +4352,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5508509,
-		"name": "Ben Amor, Meriem",
-		"country": "TUN",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1844,
-		"rating_rapid": 1607,
-		"rating_blitz": 1756
-	},
-	{
 		"fideid": 5522323,
 		"name": "Dammak Mohamed Amine",
 		"country": "TUN",
@@ -4435,23 +4435,6 @@
 		"rating_standard": 1842,
 		"rating_rapid": null,
 		"rating_blitz": 1851
-	},
-	{
-		"fideid": 5564549,
-		"name": "Oueslati, youssef",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1840,
-		"rating_rapid": 1783,
-		"rating_blitz": 1996
 	},
 	{
 		"fideid": 5518474,
@@ -4554,6 +4537,23 @@
 		"rating_standard": 1838,
 		"rating_rapid": null,
 		"rating_blitz": 1924
+	},
+	{
+		"fideid": 5516528,
+		"name": "Majdoub,Elae",
+		"country": "TUN",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 19,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1838,
+		"rating_rapid": 1578,
+		"rating_blitz": 1785
 	},
 	{
 		"fideid": 5502640,
@@ -4722,7 +4722,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1833,
-		"rating_rapid": 1839,
+		"rating_rapid": 1889,
 		"rating_blitz": 1856
 	},
 	{
@@ -4775,6 +4775,23 @@
 		"rating_standard": 1830,
 		"rating_rapid": 1862,
 		"rating_blitz": 1814
+	},
+	{
+		"fideid": 5508509,
+		"name": "Ben Amor, Meriem",
+		"country": "TUN",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1829,
+		"rating_rapid": 1607,
+		"rating_blitz": 1756
 	},
 	{
 		"fideid": 5504910,
@@ -4845,38 +4862,38 @@
 		"rating_blitz": 1834
 	},
 	{
-		"fideid": 5507740,
-		"name": "Mendili, Khalil",
+		"fideid": 5543142,
+		"name": "Mbarki,Dhiaeddine",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
+		"games": 9,
+		"k": 40,
+		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1828,
-		"rating_rapid": 1836,
-		"rating_blitz": 1776
+		"rating_rapid": 1783,
+		"rating_blitz": 1841
 	},
 	{
-		"fideid": 5511151,
-		"name": "Saadaoui, Jaafer",
+		"fideid": 5564549,
+		"name": "Oueslati, youssef",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "FA",
+		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 20,
-		"birthday": 1994,
+		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1828,
-		"rating_rapid": 2016,
-		"rating_blitz": 2031
+		"rating_rapid": 1783,
+		"rating_blitz": 1957
 	},
 	{
 		"fideid": 5532442,
@@ -4961,7 +4978,7 @@
 		"flag": "",
 		"rating_standard": 1822,
 		"rating_rapid": 1882,
-		"rating_blitz": 1885
+		"rating_blitz": 1875
 	},
 	{
 		"fideid": 5531403,
@@ -5053,8 +5070,8 @@
 		"name": "Rjeb, Nadine",
 		"country": "TUN",
 		"sex": "F",
-		"title": "",
-		"w_title": "",
+		"title": "WCM",
+		"w_title": "WCM",
 		"o_title": "",
 		"foa_title": "",
 		"games": 0,
@@ -5064,23 +5081,6 @@
 		"rating_standard": 1819,
 		"rating_rapid": 1751,
 		"rating_blitz": 1822
-	},
-	{
-		"fideid": 5532698,
-		"name": "Belhout, Ahmed Zoubaier",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1818,
-		"rating_rapid": 1640,
-		"rating_blitz": 1649
 	},
 	{
 		"fideid": 5501148,
@@ -5114,7 +5114,7 @@
 		"flag": "",
 		"rating_standard": 1818,
 		"rating_rapid": 1914,
-		"rating_blitz": 1844
+		"rating_blitz": 1854
 	},
 	{
 		"fideid": 5508339,
@@ -5151,23 +5151,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5504473,
-		"name": "Dahmani, Sami",
-		"country": "TUN",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 1816,
-		"rating_rapid": 1755,
-		"rating_blitz": 1776
-	},
-	{
 		"fideid": 5507316,
 		"name": "Aouissi, Mohamed",
 		"country": "TUN",
@@ -5185,23 +5168,6 @@
 		"rating_blitz": 1872
 	},
 	{
-		"fideid": 5529441,
-		"name": "Benzarti,Thabet",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1815,
-		"rating_rapid": 1716,
-		"rating_blitz": 1907
-	},
-	{
 		"fideid": 5508240,
 		"name": "Kaabi, Iheb",
 		"country": "TUN",
@@ -5217,6 +5183,40 @@
 		"rating_standard": 1815,
 		"rating_rapid": 1873,
 		"rating_blitz": 1944
+	},
+	{
+		"fideid": 5541573,
+		"name": "Mendili,Jahed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 20,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1815,
+		"rating_rapid": 1823,
+		"rating_blitz": 1951
+	},
+	{
+		"fideid": 5533309,
+		"name": "Ben Toumia, Ayoub",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1813,
+		"rating_rapid": 1792,
+		"rating_blitz": 1780
 	},
 	{
 		"fideid": 5523532,
@@ -5423,6 +5423,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5504473,
+		"name": "Dahmani, Sami",
+		"country": "TUN",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 1808,
+		"rating_rapid": 1755,
+		"rating_blitz": 1786
+	},
+	{
 		"fideid": 5516900,
 		"name": "Mezni, Elyes",
 		"country": "TUN",
@@ -5505,7 +5522,24 @@
 		"flag": "i",
 		"rating_standard": 1806,
 		"rating_rapid": 1819,
-		"rating_blitz": 1874
+		"rating_blitz": 1880
+	},
+	{
+		"fideid": 5513286,
+		"name": "Jalleli,Youssef",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 1806,
+		"rating_rapid": 1780,
+		"rating_blitz": 1587
 	},
 	{
 		"fideid": 5521300,
@@ -5610,21 +5644,38 @@
 		"rating_blitz": 1964
 	},
 	{
-		"fideid": 5500273,
-		"name": "Ayed, Mokhtar",
+		"fideid": 5507740,
+		"name": "Mendili, Khalil",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1951,
+		"games": 8,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1804,
+		"rating_rapid": 1836,
+		"rating_blitz": 1785
+	},
+	{
+		"fideid": 5502209,
+		"name": "Hafsa, Adem",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1966,
 		"flag": "",
 		"rating_standard": 1803,
-		"rating_rapid": 1718,
-		"rating_blitz": null
+		"rating_rapid": 1785,
+		"rating_blitz": 1811
 	},
 	{
 		"fideid": 5500664,
@@ -5776,7 +5827,7 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": 1797,
-		"rating_rapid": 1792,
+		"rating_rapid": 1790,
 		"rating_blitz": null
 	},
 	{
@@ -5797,23 +5848,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5502209,
-		"name": "Hafsa, Adem",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1966,
-		"flag": "",
-		"rating_standard": 1797,
-		"rating_rapid": 1778,
-		"rating_blitz": 1796
-	},
-	{
 		"fideid": 5504201,
 		"name": "Hamzi, Issam",
 		"country": "TUN",
@@ -5829,23 +5863,6 @@
 		"rating_standard": 1797,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5513286,
-		"name": "Jalleli,Youssef",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "i",
-		"rating_standard": 1797,
-		"rating_rapid": 1780,
-		"rating_blitz": 1587
 	},
 	{
 		"fideid": 5505968,
@@ -5964,7 +5981,24 @@
 		"flag": "i",
 		"rating_standard": 1793,
 		"rating_rapid": 1838,
-		"rating_blitz": 1868
+		"rating_blitz": 1812
+	},
+	{
+		"fideid": 5539293,
+		"name": "Mahfoudh, Baha Eddine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1793,
+		"rating_rapid": 1885,
+		"rating_blitz": 1916
 	},
 	{
 		"fideid": 5514126,
@@ -5999,23 +6033,6 @@
 		"rating_standard": 1792,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5529409,
-		"name": "Baba,Mouadh",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1790,
-		"rating_rapid": 1724,
-		"rating_blitz": 1679
 	},
 	{
 		"fideid": 5562651,
@@ -6067,6 +6084,23 @@
 		"rating_standard": 1788,
 		"rating_rapid": 1849,
 		"rating_blitz": 1851
+	},
+	{
+		"fideid": 5534119,
+		"name": "Belanes, Ahmed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1788,
+		"rating_rapid": 1691,
+		"rating_blitz": 1651
 	},
 	{
 		"fideid": 5510716,
@@ -6185,7 +6219,7 @@
 		"flag": "i",
 		"rating_standard": 1784,
 		"rating_rapid": 1768,
-		"rating_blitz": 1720
+		"rating_blitz": 1707
 	},
 	{
 		"fideid": 5544246,
@@ -6239,23 +6273,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5541573,
-		"name": "Mendili,Jahed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1781,
-		"rating_rapid": 1823,
-		"rating_blitz": 1941
-	},
-	{
 		"fideid": 5500320,
 		"name": "Barakati, Sabri",
 		"country": "TUN",
@@ -6267,27 +6284,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1980,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1779,
 		"rating_rapid": null,
-		"rating_blitz": 1777
-	},
-	{
-		"fideid": 5533309,
-		"name": "Ben Toumia, Ayoub",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 1779,
-		"rating_rapid": 1792,
-		"rating_blitz": 1762
+		"rating_blitz": 1753
 	},
 	{
 		"fideid": 5513243,
@@ -6301,10 +6301,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1777,
-		"rating_rapid": 1760,
-		"rating_blitz": 1707
+		"rating_rapid": 1793,
+		"rating_blitz": 1702
 	},
 	{
 		"fideid": 5503256,
@@ -6341,6 +6341,23 @@
 		"rating_blitz": 1748
 	},
 	{
+		"fideid": 5514720,
+		"name": "Arfaoui, Mohamed Aziz",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1774,
+		"rating_rapid": 1652,
+		"rating_blitz": 1698
+	},
+	{
 		"fideid": 5530814,
 		"name": "Kacem, Slim",
 		"country": "TUN",
@@ -6358,38 +6375,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5539293,
-		"name": "Mahfoudh, Baha Eddine",
+		"fideid": 5532698,
+		"name": "Belhout, Ahmed Zoubaier",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
+		"games": 8,
+		"k": 20,
+		"birthday": 1997,
 		"flag": "",
 		"rating_standard": 1773,
-		"rating_rapid": 1857,
-		"rating_blitz": 1881
-	},
-	{
-		"fideid": 5517770,
-		"name": "Selmi,Hedi",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1772,
-		"rating_rapid": 1829,
-		"rating_blitz": 1751
+		"rating_rapid": 1640,
+		"rating_blitz": 1654
 	},
 	{
 		"fideid": 5516730,
@@ -6407,23 +6407,6 @@
 		"rating_standard": 1772,
 		"rating_rapid": 1772,
 		"rating_blitz": 1806
-	},
-	{
-		"fideid": 5507324,
-		"name": "Ghanem, Khaled",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1957,
-		"flag": "",
-		"rating_standard": 1771,
-		"rating_rapid": 1752,
-		"rating_blitz": 1926
 	},
 	{
 		"fideid": 5502764,
@@ -6596,23 +6579,6 @@
 		"rating_blitz": 1764
 	},
 	{
-		"fideid": 5516528,
-		"name": "Majdoub,Elae",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1767,
-		"rating_rapid": 1578,
-		"rating_blitz": 1769
-	},
-	{
 		"fideid": 5508614,
 		"name": "Boumaiza, Fares",
 		"country": "TUN",
@@ -6628,23 +6594,6 @@
 		"rating_standard": 1766,
 		"rating_rapid": 1708,
 		"rating_blitz": 1678
-	},
-	{
-		"fideid": 5550777,
-		"name": "Amri,Mehdi",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1765,
-		"rating_rapid": 1553,
-		"rating_blitz": 1607
 	},
 	{
 		"fideid": 5533449,
@@ -6677,8 +6626,8 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1763,
-		"rating_rapid": 1777,
-		"rating_blitz": 1859
+		"rating_rapid": 1847,
+		"rating_blitz": 1905
 	},
 	{
 		"fideid": 5509718,
@@ -6777,10 +6726,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1761,
 		"rating_rapid": 1676,
-		"rating_blitz": 1709
+		"rating_blitz": 1724
 	},
 	{
 		"fideid": 5503574,
@@ -6851,23 +6800,6 @@
 		"rating_blitz": 1767
 	},
 	{
-		"fideid": 5534119,
-		"name": "Belanes, Ahmed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1760,
-		"rating_rapid": 1691,
-		"rating_blitz": 1651
-	},
-	{
 		"fideid": 5508630,
 		"name": "Najjar, Seif",
 		"country": "TUN",
@@ -6883,6 +6815,23 @@
 		"rating_standard": 1760,
 		"rating_rapid": 1791,
 		"rating_blitz": 1773
+	},
+	{
+		"fideid": 5529522,
+		"name": "Baba,Jihed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1759,
+		"rating_rapid": 1747,
+		"rating_blitz": 1778
 	},
 	{
 		"fideid": 5507502,
@@ -6970,23 +6919,6 @@
 		"rating_blitz": 1703
 	},
 	{
-		"fideid": 5509688,
-		"name": "Zarougui, Abdallah",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NI",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1963,
-		"flag": "",
-		"rating_standard": 1758,
-		"rating_rapid": 1840,
-		"rating_blitz": 1712
-	},
-	{
 		"fideid": 5501628,
 		"name": "Baktach, Nesrine",
 		"country": "TUN",
@@ -7015,7 +6947,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1757,
 		"rating_rapid": 1693,
 		"rating_blitz": 1623
@@ -7055,6 +6987,23 @@
 		"rating_blitz": 1799
 	},
 	{
+		"fideid": 5507324,
+		"name": "Ghanem, Khaled",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1957,
+		"flag": "",
+		"rating_standard": 1754,
+		"rating_rapid": 1752,
+		"rating_blitz": 1860
+	},
+	{
 		"fideid": 5546630,
 		"name": "El Behiri,Nejah",
 		"country": "TUN",
@@ -7072,6 +7021,23 @@
 		"rating_blitz": 1641
 	},
 	{
+		"fideid": 5529409,
+		"name": "Baba,Mouadh",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1752,
+		"rating_rapid": 1724,
+		"rating_blitz": 1683
+	},
+	{
 		"fideid": 5510155,
 		"name": "Barhoumi, Marwen",
 		"country": "TUN",
@@ -7080,13 +7046,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1752,
 		"rating_rapid": 1764,
 		"rating_blitz": 1910
+	},
+	{
+		"fideid": 5509688,
+		"name": "Zarougui, Abdallah",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NI",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1963,
+		"flag": "",
+		"rating_standard": 1752,
+		"rating_rapid": 1840,
+		"rating_blitz": 1712
 	},
 	{
 		"fideid": 5501377,
@@ -7104,6 +7087,23 @@
 		"rating_standard": 1751,
 		"rating_rapid": 1975,
 		"rating_blitz": 1838
+	},
+	{
+		"fideid": 5517770,
+		"name": "Selmi,Hedi",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1751,
+		"rating_rapid": 1829,
+		"rating_blitz": 1751
 	},
 	{
 		"fideid": 5523990,
@@ -7341,7 +7341,7 @@
 		"flag": "i",
 		"rating_standard": 1741,
 		"rating_rapid": null,
-		"rating_blitz": 1774
+		"rating_blitz": 1744
 	},
 	{
 		"fideid": 5531985,
@@ -7463,21 +7463,21 @@
 		"rating_blitz": 1706
 	},
 	{
-		"fideid": 5514720,
-		"name": "Arfaoui, Mohamed Aziz",
+		"fideid": 5550777,
+		"name": "Amri,Mehdi",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2010,
+		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1739,
-		"rating_rapid": 1652,
-		"rating_blitz": 1646
+		"rating_rapid": 1553,
+		"rating_blitz": 1631
 	},
 	{
 		"fideid": 5554861,
@@ -7663,7 +7663,7 @@
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 1734,
-		"rating_rapid": 1733,
+		"rating_rapid": 1726,
 		"rating_blitz": 1791
 	},
 	{
@@ -7678,7 +7678,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1734,
 		"rating_rapid": 1715,
 		"rating_blitz": 1748
@@ -7765,7 +7765,7 @@
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1733,
-		"rating_rapid": 1891,
+		"rating_rapid": 1877,
 		"rating_blitz": 1941
 	},
 	{
@@ -7797,10 +7797,27 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1732,
 		"rating_rapid": 1636,
 		"rating_blitz": 1681
+	},
+	{
+		"fideid": 5515220,
+		"name": "Zena,Rawaf",
+		"country": "TUN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1732,
+		"rating_rapid": 1679,
+		"rating_blitz": 1721
 	},
 	{
 		"fideid": 5503221,
@@ -7837,23 +7854,6 @@
 		"rating_blitz": 1820
 	},
 	{
-		"fideid": 5529522,
-		"name": "Baba,Jihed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1730,
-		"rating_rapid": 1747,
-		"rating_blitz": 1757
-	},
-	{
 		"fideid": 5513421,
 		"name": "Gabsi Amine",
 		"country": "TUN",
@@ -7869,23 +7869,6 @@
 		"rating_standard": 1730,
 		"rating_rapid": 1634,
 		"rating_blitz": 1517
-	},
-	{
-		"fideid": 5515220,
-		"name": "Zena,Rawaf",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1730,
-		"rating_rapid": 1679,
-		"rating_blitz": 1721
 	},
 	{
 		"fideid": 5502063,
@@ -8219,13 +8202,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1722,
 		"rating_rapid": 1715,
-		"rating_blitz": 1717
+		"rating_blitz": 1687
 	},
 	{
 		"fideid": 5532388,
@@ -8326,7 +8309,7 @@
 		"birthday": 1968,
 		"flag": "",
 		"rating_standard": 1720,
-		"rating_rapid": 1529,
+		"rating_rapid": 1532,
 		"rating_blitz": 1710
 	},
 	{
@@ -8358,27 +8341,10 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1978,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1719,
 		"rating_rapid": 1686,
-		"rating_blitz": 1535
-	},
-	{
-		"fideid": 5508606,
-		"name": "Kolsi, Mohamed Aziz",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1719,
-		"rating_rapid": 1603,
-		"rating_blitz": 1615
+		"rating_blitz": 1533
 	},
 	{
 		"fideid": 5532426,
@@ -8496,8 +8462,8 @@
 		"birthday": 1972,
 		"flag": "i",
 		"rating_standard": 1717,
-		"rating_rapid": 1638,
-		"rating_blitz": 1609
+		"rating_rapid": 1645,
+		"rating_blitz": 1595
 	},
 	{
 		"fideid": 5507723,
@@ -8585,6 +8551,23 @@
 		"rating_blitz": 1793
 	},
 	{
+		"fideid": 5508606,
+		"name": "Kolsi, Mohamed Aziz",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1713,
+		"rating_rapid": 1603,
+		"rating_blitz": 1615
+	},
+	{
 		"fideid": 5512751,
 		"name": "Souri Med Bechir",
 		"country": "TUN",
@@ -8602,21 +8585,21 @@
 		"rating_blitz": 1628
 	},
 	{
-		"fideid": 5549655,
-		"name": "Mallah,Abderrahmane",
+		"fideid": 5542472,
+		"name": "Abdelwahed,Yacine",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2013,
+		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1710,
-		"rating_rapid": 1759,
-		"rating_blitz": 1670
+		"rating_standard": 1709,
+		"rating_rapid": 1703,
+		"rating_blitz": 1831
 	},
 	{
 		"fideid": 5507332,
@@ -8678,7 +8661,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 20,
 		"birthday": 1950,
 		"flag": "",
@@ -8752,7 +8735,24 @@
 		"flag": "",
 		"rating_standard": 1705,
 		"rating_rapid": 1683,
-		"rating_blitz": 1585
+		"rating_blitz": 1642
+	},
+	{
+		"fideid": 5556520,
+		"name": "Najar, Ahmed Rayen",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1705,
+		"rating_rapid": 1921,
+		"rating_blitz": 1759
 	},
 	{
 		"fideid": 5534038,
@@ -8770,23 +8770,6 @@
 		"rating_standard": 1704,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5542464,
-		"name": "Abdelwahed,Adel",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1972,
-		"flag": "",
-		"rating_standard": 1701,
-		"rating_rapid": 1767,
-		"rating_blitz": 1764
 	},
 	{
 		"fideid": 5509866,
@@ -8902,27 +8885,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1976,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1698,
 		"rating_rapid": 1757,
 		"rating_blitz": 1702
-	},
-	{
-		"fideid": 5520045,
-		"name": "Landolsi,Omar",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1698,
-		"rating_rapid": 1567,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 5509980,
@@ -9008,6 +8974,23 @@
 		"rating_standard": 1696,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5549655,
+		"name": "Mallah,Abderrahmane",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1759,
+		"rating_blitz": 1670
 	},
 	{
 		"fideid": 5536685,
@@ -9197,23 +9180,6 @@
 		"rating_blitz": 1896
 	},
 	{
-		"fideid": 5556520,
-		"name": "Najar, Ahmed Rayen",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1690,
-		"rating_rapid": 1807,
-		"rating_blitz": 1669
-	},
-	{
 		"fideid": 5511429,
 		"name": "Bouzidi, Abdessalem",
 		"country": "TUN",
@@ -9299,6 +9265,23 @@
 		"rating_blitz": 1689
 	},
 	{
+		"fideid": 5520045,
+		"name": "Landolsi,Omar",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1687,
+		"rating_rapid": 1567,
+		"rating_blitz": 1775
+	},
+	{
 		"fideid": 5562686,
 		"name": "ben ameur, mahdi",
 		"country": "TUN",
@@ -9330,7 +9313,7 @@
 		"flag": "",
 		"rating_standard": 1686,
 		"rating_rapid": 1703,
-		"rating_blitz": 1709
+		"rating_blitz": 1685
 	},
 	{
 		"fideid": 5571421,
@@ -9499,7 +9482,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": 1681,
-		"rating_rapid": 1719,
+		"rating_rapid": 1695,
 		"rating_blitz": 1675
 	},
 	{
@@ -9571,6 +9554,23 @@
 		"rating_blitz": 1672
 	},
 	{
+		"fideid": 5522366,
+		"name": "Abdelkefi Beya",
+		"country": "TUN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1679,
+		"rating_rapid": 1747,
+		"rating_blitz": 1593
+	},
+	{
 		"fideid": 5507782,
 		"name": "Saoud, Slim",
 		"country": "TUN",
@@ -9603,23 +9603,6 @@
 		"rating_standard": 1678,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5522366,
-		"name": "Abdelkefi Beya",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1678,
-		"rating_rapid": 1747,
-		"rating_blitz": 1593
 	},
 	{
 		"fideid": 5505500,
@@ -9690,6 +9673,23 @@
 		"rating_blitz": 1678
 	},
 	{
+		"fideid": 5563313,
+		"name": "Jabrane, Ayoub",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1677,
+		"rating_rapid": 1795,
+		"rating_blitz": 1823
+	},
+	{
 		"fideid": 5509874,
 		"name": "Cherif, Omar",
 		"country": "TUN",
@@ -9703,7 +9703,7 @@
 		"birthday": 2005,
 		"flag": "i",
 		"rating_standard": 1675,
-		"rating_rapid": 1848,
+		"rating_rapid": 1918,
 		"rating_blitz": 1811
 	},
 	{
@@ -9722,6 +9722,23 @@
 		"rating_standard": 1675,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5546524,
+		"name": "Bahloul,Yassine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1674,
+		"rating_rapid": 1648,
+		"rating_blitz": 1700
 	},
 	{
 		"fideid": 5525454,
@@ -9996,21 +10013,21 @@
 		"rating_blitz": 1810
 	},
 	{
-		"fideid": 5566690,
-		"name": "Abbes, Mohamed Tayeb",
+		"fideid": 5542464,
+		"name": "Abdelwahed,Adel",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
+		"games": 6,
+		"k": 20,
+		"birthday": 1972,
 		"flag": "",
 		"rating_standard": 1665,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1767,
+		"rating_blitz": 1790
 	},
 	{
 		"fideid": 5554667,
@@ -10183,6 +10200,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5500273,
+		"name": "Ayed, Mokhtar",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 1951,
+		"flag": "",
+		"rating_standard": 1659,
+		"rating_rapid": 1718,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5507995,
 		"name": "Marrakchi, Mahdi",
 		"country": "TUN",
@@ -10234,6 +10268,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5567050,
+		"name": "Ben Nasr, Mohamed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1658,
+		"rating_rapid": 1648,
+		"rating_blitz": 1644
+	},
+	{
 		"fideid": 5526701,
 		"name": "Ben Romdhane, salma",
 		"country": "TUN",
@@ -10268,23 +10319,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5550050,
-		"name": "Omar Zerriaa",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1657,
-		"rating_rapid": 1743,
-		"rating_blitz": 1816
-	},
-	{
 		"fideid": 5502535,
 		"name": "Ben Abdejelil, Moemen",
 		"country": "TUN",
@@ -10313,7 +10347,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1655,
 		"rating_rapid": 1591,
 		"rating_blitz": 1627
@@ -10336,23 +10370,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5550785,
-		"name": "Amri,Wajih",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1654,
-		"rating_rapid": null,
-		"rating_blitz": 1585
-	},
-	{
 		"fideid": 5533430,
 		"name": "Khaled, Souheib",
 		"country": "TUN",
@@ -10368,6 +10385,23 @@
 		"rating_standard": 1654,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5551315,
+		"name": "Saket, Hassen",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1654,
+		"rating_rapid": 1522,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 5513375,
@@ -10419,23 +10453,6 @@
 		"rating_standard": 1650,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5546524,
-		"name": "Bahloul,Yassine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1648,
-		"rating_rapid": 1648,
-		"rating_blitz": 1629
 	},
 	{
 		"fideid": 5523800,
@@ -10585,7 +10602,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1644,
 		"rating_rapid": 1574,
 		"rating_blitz": 1701
@@ -10620,23 +10637,6 @@
 		"k": 40,
 		"birthday": 1992,
 		"flag": "i",
-		"rating_standard": 1642,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 5566452,
-		"name": "Ezzine,Mohamed Amine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
 		"rating_standard": 1642,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -10795,23 +10795,6 @@
 		"rating_blitz": 1650
 	},
 	{
-		"fideid": 5531918,
-		"name": "Messaoudi, Abdellatif",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1961,
-		"flag": "",
-		"rating_standard": 1636,
-		"rating_rapid": 1533,
-		"rating_blitz": 1555
-	},
-	{
 		"fideid": 5529166,
 		"name": "Boumrifek,Najeh",
 		"country": "TUN",
@@ -10861,23 +10844,6 @@
 		"rating_standard": 1634,
 		"rating_rapid": 1574,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5554047,
-		"name": "Shili, Med Yassine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1634,
-		"rating_rapid": 1544,
-		"rating_blitz": 1576
 	},
 	{
 		"fideid": 5509769,
@@ -10944,8 +10910,42 @@
 		"birthday": 1962,
 		"flag": "",
 		"rating_standard": 1631,
-		"rating_rapid": 1637,
+		"rating_rapid": 1620,
 		"rating_blitz": 1666
+	},
+	{
+		"fideid": 5512700,
+		"name": "Gharbi, Nabil",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 1631,
+		"rating_rapid": 1620,
+		"rating_blitz": 1644
+	},
+	{
+		"fideid": 5565308,
+		"name": "Jmai, Abdelmouhayamen",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1631,
+		"rating_rapid": 1770,
+		"rating_blitz": 1592
 	},
 	{
 		"fideid": 5519551,
@@ -11033,23 +11033,6 @@
 		"rating_blitz": 1592
 	},
 	{
-		"fideid": 5507944,
-		"name": "Ben Kahla, Tahar",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1954,
-		"flag": "",
-		"rating_standard": 1627,
-		"rating_rapid": 1643,
-		"rating_blitz": 1672
-	},
-	{
 		"fideid": 5512085,
 		"name": "Boukhchana Mohamed",
 		"country": "TUN",
@@ -11084,21 +11067,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5563313,
-		"name": "Jabrane, Ayoub",
+		"fideid": 5557623,
+		"name": "Sessi, Anwer",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
-		"rating_standard": 1627,
-		"rating_rapid": 1828,
-		"rating_blitz": 1744
+		"rating_standard": 1626,
+		"rating_rapid": 1558,
+		"rating_blitz": 1767
 	},
 	{
 		"fideid": 5506816,
@@ -11183,7 +11166,7 @@
 		"flag": "",
 		"rating_standard": 1624,
 		"rating_rapid": 1627,
-		"rating_blitz": 1690
+		"rating_blitz": 1647
 	},
 	{
 		"fideid": 5551013,
@@ -11220,6 +11203,40 @@
 		"rating_blitz": 1588
 	},
 	{
+		"fideid": 5566452,
+		"name": "Ezzine,Mohamed Amine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1621,
+		"rating_rapid": null,
+		"rating_blitz": 1558
+	},
+	{
+		"fideid": 5554047,
+		"name": "Shili, Med Yassine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1621,
+		"rating_rapid": 1544,
+		"rating_blitz": 1576
+	},
+	{
 		"fideid": 5551951,
 		"name": "Chehata Mohamed",
 		"country": "TUN",
@@ -11234,7 +11251,7 @@
 		"flag": "",
 		"rating_standard": 1620,
 		"rating_rapid": 1571,
-		"rating_blitz": 1576
+		"rating_blitz": 1585
 	},
 	{
 		"fideid": 5503698,
@@ -11269,23 +11286,6 @@
 		"rating_standard": 1619,
 		"rating_rapid": 1735,
 		"rating_blitz": 1515
-	},
-	{
-		"fideid": 5542472,
-		"name": "Abdelwahed,Yacine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1618,
-		"rating_rapid": 1703,
-		"rating_blitz": 1764
 	},
 	{
 		"fideid": 5535441,
@@ -11373,23 +11373,6 @@
 		"rating_blitz": 1650
 	},
 	{
-		"fideid": 5565308,
-		"name": "Jmai, Abdelmouhayamen",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1617,
-		"rating_rapid": 1737,
-		"rating_blitz": 1591
-	},
-	{
 		"fideid": 5548160,
 		"name": "Mahmoud, Younes",
 		"country": "TUN",
@@ -11405,6 +11388,23 @@
 		"rating_standard": 1617,
 		"rating_rapid": 1459,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5566975,
+		"name": "Ameri, Mohamed Ahmed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1616,
+		"rating_rapid": 1613,
+		"rating_blitz": 1727
 	},
 	{
 		"fideid": 5566410,
@@ -11439,23 +11439,6 @@
 		"rating_standard": 1616,
 		"rating_rapid": null,
 		"rating_blitz": 1601
-	},
-	{
-		"fideid": 5540305,
-		"name": "Kammoun, Adam",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1616,
-		"rating_rapid": 1524,
-		"rating_blitz": 1738
 	},
 	{
 		"fideid": 5509211,
@@ -11594,23 +11577,6 @@
 		"rating_blitz": 1623
 	},
 	{
-		"fideid": 5519640,
-		"name": "Jaballah,Mohamed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1612,
-		"rating_rapid": 1624,
-		"rating_blitz": 1625
-	},
-	{
 		"fideid": 5519713,
 		"name": "Laaribi,Mariem",
 		"country": "TUN",
@@ -11628,21 +11594,21 @@
 		"rating_blitz": 1629
 	},
 	{
-		"fideid": 5512700,
-		"name": "Gharbi, Nabil",
+		"fideid": 5549663,
+		"name": "Mallah,Mohamed Khalil",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1973,
+		"games": 6,
+		"k": 40,
+		"birthday": 2014,
 		"flag": "",
-		"rating_standard": 1611,
-		"rating_rapid": 1620,
-		"rating_blitz": 1644
+		"rating_standard": 1612,
+		"rating_rapid": 1696,
+		"rating_blitz": 1617
 	},
 	{
 		"fideid": 5513430,
@@ -11696,23 +11662,6 @@
 		"rating_blitz": 1908
 	},
 	{
-		"fideid": 5539285,
-		"name": "Ladhari, Mohamed Ali",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1609,
-		"rating_rapid": 1552,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5505747,
 		"name": "Ben Salah, Atef",
 		"country": "TUN",
@@ -11762,6 +11711,23 @@
 		"rating_standard": 1608,
 		"rating_rapid": 1585,
 		"rating_blitz": 1733
+	},
+	{
+		"fideid": 5550050,
+		"name": "Omar Zerriaa",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1608,
+		"rating_rapid": 1737,
+		"rating_blitz": 1828
 	},
 	{
 		"fideid": 5571480,
@@ -11815,6 +11781,23 @@
 		"rating_blitz": 1575
 	},
 	{
+		"fideid": 5550246,
+		"name": "Kasmi,Raslen",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1606,
+		"rating_rapid": 1463,
+		"rating_blitz": 1539
+	},
+	{
 		"fideid": 5504589,
 		"name": "Gamha, Sadok",
 		"country": "TUN",
@@ -11849,6 +11832,23 @@
 		"rating_blitz": 1596
 	},
 	{
+		"fideid": 5556414,
+		"name": "Bourokba, Majd",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1604,
+		"rating_rapid": 1409,
+		"rating_blitz": 1452
+	},
+	{
 		"fideid": 5504040,
 		"name": "Zaoui, Oussama-16",
 		"country": "TUN",
@@ -11881,23 +11881,6 @@
 		"rating_standard": 1603,
 		"rating_rapid": 1645,
 		"rating_blitz": 1419
-	},
-	{
-		"fideid": 5551315,
-		"name": "Saket, Hassen",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1603,
-		"rating_rapid": 1622,
-		"rating_blitz": 1531
 	},
 	{
 		"fideid": 5529433,
@@ -12019,6 +12002,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5570883,
+		"name": "Marouani, Youssef",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1600,
+		"rating_rapid": 1511,
+		"rating_blitz": 1735
+	},
+	{
 		"fideid": 5501202,
 		"name": "Alouini, Foued",
 		"country": "TUN",
@@ -12047,27 +12047,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1599,
 		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5557623,
-		"name": "Sessi, Anwer",
+		"fideid": 5551005,
+		"name": "Arroum, El Motez bellah",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 12,
 		"k": 40,
-		"birthday": 2009,
+		"birthday": 2013,
 		"flag": "",
-		"rating_standard": 1599,
-		"rating_rapid": 1558,
-		"rating_blitz": 1695
+		"rating_standard": 1598,
+		"rating_rapid": 1627,
+		"rating_blitz": 1580
 	},
 	{
 		"fideid": 5505356,
@@ -12163,7 +12163,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -12180,7 +12180,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -12206,6 +12206,23 @@
 		"rating_blitz": 1524
 	},
 	{
+		"fideid": 5507944,
+		"name": "Ben Kahla, Tahar",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1954,
+		"flag": "",
+		"rating_standard": 1594,
+		"rating_rapid": 1643,
+		"rating_blitz": 1659
+	},
+	{
 		"fideid": 5563194,
 		"name": "BOUKHRIS, ADAM",
 		"country": "TUN",
@@ -12219,7 +12236,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1594,
-		"rating_rapid": null,
+		"rating_rapid": 1578,
 		"rating_blitz": 1514
 	},
 	{
@@ -12238,6 +12255,23 @@
 		"rating_standard": 1594,
 		"rating_rapid": 1540,
 		"rating_blitz": 1709
+	},
+	{
+		"fideid": 5538467,
+		"name": "Bensmail, Mohamed Seddik",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "AFM",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1593,
+		"rating_rapid": 1630,
+		"rating_blitz": 1713
 	},
 	{
 		"fideid": 5533260,
@@ -12325,23 +12359,6 @@
 		"rating_blitz": 1723
 	},
 	{
-		"fideid": 5566975,
-		"name": "Ameri, Mohamed Ahmed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1590,
-		"rating_rapid": 1647,
-		"rating_blitz": 1788
-	},
-	{
 		"fideid": 5550602,
 		"name": "Salah,Adem",
 		"country": "TUN",
@@ -12374,6 +12391,23 @@
 		"rating_standard": 1588,
 		"rating_rapid": 1587,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5529000,
+		"name": "Souibgui, Maram",
+		"country": "TUN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1588,
+		"rating_rapid": 1475,
+		"rating_blitz": 1490
 	},
 	{
 		"fideid": 5535301,
@@ -12427,40 +12461,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5549663,
-		"name": "Mallah,Mohamed Khalil",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": 1587,
-		"rating_rapid": 1696,
-		"rating_blitz": 1617
-	},
-	{
-		"fideid": 5502497,
-		"name": "Aroua, Ahmed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1951,
-		"flag": "",
-		"rating_standard": 1586,
-		"rating_rapid": 1571,
-		"rating_blitz": 1643
-	},
-	{
 		"fideid": 5538246,
 		"name": "Gharsallah, Seif",
 		"country": "TUN",
@@ -12486,7 +12486,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -12546,21 +12546,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5551005,
-		"name": "Arroum, El Motez bellah",
+		"fideid": 5566690,
+		"name": "Abbes, Mohamed Tayeb",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1583,
-		"rating_rapid": 1629,
-		"rating_blitz": 1573
+		"rating_rapid": 1637,
+		"rating_blitz": 1598
 	},
 	{
 		"fideid": 5545366,
@@ -12614,6 +12614,23 @@
 		"rating_blitz": 1419
 	},
 	{
+		"fideid": 5540305,
+		"name": "Kammoun, Adam",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1582,
+		"rating_rapid": 1569,
+		"rating_blitz": 1731
+	},
+	{
 		"fideid": 5533058,
 		"name": "Saoud, Mohamed Amine",
 		"country": "TUN",
@@ -12648,40 +12665,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5550513,
-		"name": "Belhadj,Mohamed Adem",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1581,
-		"rating_rapid": 1443,
-		"rating_blitz": 1474
-	},
-	{
-		"fideid": 5556414,
-		"name": "Bourokba, Majd",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1581,
-		"rating_rapid": 1457,
-		"rating_blitz": 1461
-	},
-	{
 		"fideid": 5504821,
 		"name": "Zouari, Hayfa",
 		"country": "TUN",
@@ -12714,6 +12697,23 @@
 		"rating_standard": 1580,
 		"rating_rapid": 1597,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5519640,
+		"name": "Jaballah,Mohamed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1580,
+		"rating_rapid": 1624,
+		"rating_blitz": 1625
 	},
 	{
 		"fideid": 5503140,
@@ -12767,21 +12767,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5550246,
-		"name": "Kasmi,Raslen",
+		"fideid": 5556023,
+		"name": "Ben Moussa, Amir",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
-		"birthday": 2004,
+		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1579,
-		"rating_rapid": 1463,
-		"rating_blitz": 1496
+		"rating_rapid": null,
+		"rating_blitz": 1442
 	},
 	{
 		"fideid": 5530539,
@@ -12812,7 +12812,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1578,
 		"rating_rapid": 1472,
 		"rating_blitz": 1683
@@ -12829,7 +12829,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1578,
 		"rating_rapid": null,
 		"rating_blitz": 1533
@@ -12886,6 +12886,23 @@
 		"rating_blitz": 1554
 	},
 	{
+		"fideid": 5556708,
+		"name": "Chetoui,Ibrahim",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1577,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5555647,
 		"name": "Derouiche,Aymen",
 		"country": "TUN",
@@ -12931,7 +12948,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1575,
 		"rating_rapid": 1404,
 		"rating_blitz": 1576
@@ -12952,6 +12969,23 @@
 		"rating_standard": 1575,
 		"rating_rapid": 1577,
 		"rating_blitz": 1617
+	},
+	{
+		"fideid": 5550785,
+		"name": "Amri,Wajih",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1573,
+		"rating_rapid": null,
+		"rating_blitz": 1585
 	},
 	{
 		"fideid": 5551781,
@@ -13003,6 +13037,23 @@
 		"rating_standard": 1572,
 		"rating_rapid": 1662,
 		"rating_blitz": 1656
+	},
+	{
+		"fideid": 5550823,
+		"name": "Essid,Youssef",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1571,
+		"rating_rapid": 1589,
+		"rating_blitz": 1724
 	},
 	{
 		"fideid": 5506697,
@@ -13137,7 +13188,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1568,
-		"rating_rapid": 1535,
+		"rating_rapid": 1507,
 		"rating_blitz": 1552
 	},
 	{
@@ -13260,6 +13311,23 @@
 		"rating_blitz": 1602
 	},
 	{
+		"fideid": 5540640,
+		"name": "Ben Sikali,Youssef",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1564,
+		"rating_rapid": 1598,
+		"rating_blitz": 1652
+	},
+	{
 		"fideid": 5567807,
 		"name": "Jlassi, Bilel",
 		"country": "TUN",
@@ -13275,23 +13343,6 @@
 		"rating_standard": 1564,
 		"rating_rapid": 1494,
 		"rating_blitz": 1480
-	},
-	{
-		"fideid": 5521475,
-		"name": "Oudhini,Helmi",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1564,
-		"rating_rapid": 1692,
-		"rating_blitz": 1698
 	},
 	{
 		"fideid": 5514711,
@@ -13311,21 +13362,21 @@
 		"rating_blitz": 1564
 	},
 	{
-		"fideid": 5540640,
-		"name": "Ben Sikali,Youssef",
+		"fideid": 5539285,
+		"name": "Ladhari, Mohamed Ali",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
-		"birthday": 2008,
+		"birthday": 1979,
 		"flag": "",
 		"rating_standard": 1562,
-		"rating_rapid": 1598,
-		"rating_blitz": 1604
+		"rating_rapid": 1552,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5506808,
@@ -13360,6 +13411,23 @@
 		"rating_standard": 1561,
 		"rating_rapid": 1560,
 		"rating_blitz": 1565
+	},
+	{
+		"fideid": 5501814,
+		"name": "Ben Saida, Yassine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": "",
+		"flag": "",
+		"rating_standard": 1560,
+		"rating_rapid": 1523,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5513596,
@@ -13404,7 +13472,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
@@ -13441,7 +13509,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1997,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1558,
 		"rating_rapid": 1525,
 		"rating_blitz": null
@@ -13532,23 +13600,6 @@
 		"rating_blitz": 1558
 	},
 	{
-		"fideid": 5567050,
-		"name": "Ben Nasr, Mohamed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1555,
-		"rating_rapid": 1579,
-		"rating_blitz": 1519
-	},
-	{
 		"fideid": 5504449,
 		"name": "Chihi, Roua",
 		"country": "TUN",
@@ -13583,6 +13634,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5555019,
+		"name": "Yahia, Mohamed Habib",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1555,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5550289,
+		"name": "Younes Ben Abdallah",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1555,
+		"rating_rapid": null,
+		"rating_blitz": 1642
+	},
+	{
 		"fideid": 5516633,
 		"name": "Jaziri, Yassine",
 		"country": "TUN",
@@ -13613,7 +13698,7 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 1554,
-		"rating_rapid": 1555,
+		"rating_rapid": 1539,
 		"rating_blitz": 1566
 	},
 	{
@@ -13702,6 +13787,23 @@
 		"rating_blitz": 1590
 	},
 	{
+		"fideid": 5502497,
+		"name": "Aroua, Ahmed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 1951,
+		"flag": "",
+		"rating_standard": 1551,
+		"rating_rapid": 1571,
+		"rating_blitz": 1643
+	},
+	{
 		"fideid": 5526892,
 		"name": "Farhat, Assil",
 		"country": "TUN",
@@ -13717,6 +13819,23 @@
 		"rating_standard": 1551,
 		"rating_rapid": 1535,
 		"rating_blitz": 1612
+	},
+	{
+		"fideid": 5550408,
+		"name": "Fatnassi,Raed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1551,
+		"rating_rapid": 1659,
+		"rating_blitz": 1611
 	},
 	{
 		"fideid": 5520290,
@@ -13751,6 +13870,23 @@
 		"rating_standard": 1550,
 		"rating_rapid": 1530,
 		"rating_blitz": 1584
+	},
+	{
+		"fideid": 5567190,
+		"name": "ben rhaiem,Med saleh",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": 1549,
+		"rating_rapid": 1560,
+		"rating_blitz": 1493
 	},
 	{
 		"fideid": 5568730,
@@ -13829,30 +13965,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": 1546,
 		"rating_rapid": 1544,
 		"rating_blitz": 1628
-	},
-	{
-		"fideid": 5550300,
-		"name": "Khalil Ben Abdallah",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1546,
-		"rating_rapid": null,
-		"rating_blitz": 1586
 	},
 	{
 		"fideid": 5523729,
@@ -14036,7 +14155,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1542,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -14076,40 +14195,6 @@
 		"rating_blitz": 1517
 	},
 	{
-		"fideid": 5551536,
-		"name": "Maatallah, Mouadh",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": 1451,
-		"rating_blitz": 1534
-	},
-	{
-		"fideid": 5501814,
-		"name": "Ben Saida, Yassine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": "",
-		"flag": "",
-		"rating_standard": 1540,
-		"rating_rapid": 1523,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5571928,
 		"name": "Aissaoui Mohamed Amir",
 		"country": "TUN",
@@ -14125,6 +14210,23 @@
 		"rating_standard": 1538,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5506379,
+		"name": "Baba, Ayoub",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 20,
+		"birthday": 1983,
+		"flag": "",
+		"rating_standard": 1537,
+		"rating_rapid": 1556,
+		"rating_blitz": 1506
 	},
 	{
 		"fideid": 5509831,
@@ -14159,23 +14261,6 @@
 		"rating_standard": 1537,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5529000,
-		"name": "Souibgui, Maram",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1537,
-		"rating_rapid": 1475,
-		"rating_blitz": 1490
 	},
 	{
 		"fideid": 5503388,
@@ -14263,23 +14348,6 @@
 		"rating_blitz": 1587
 	},
 	{
-		"fideid": 5506379,
-		"name": "Baba, Ayoub",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1983,
-		"flag": "",
-		"rating_standard": 1533,
-		"rating_rapid": 1556,
-		"rating_blitz": 1535
-	},
-	{
 		"fideid": 5556627,
 		"name": "Hachicha,Ahmed Amine",
 		"country": "TUN",
@@ -14308,7 +14376,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1532,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -14359,7 +14427,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1531,
 		"rating_rapid": 1612,
 		"rating_blitz": 1698
@@ -14380,23 +14448,6 @@
 		"rating_standard": 1531,
 		"rating_rapid": null,
 		"rating_blitz": 1566
-	},
-	{
-		"fideid": 5550289,
-		"name": "Younes Ben Abdallah",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1531,
-		"rating_rapid": null,
-		"rating_blitz": 1629
 	},
 	{
 		"fideid": 5518610,
@@ -14518,6 +14569,23 @@
 		"rating_blitz": 1721
 	},
 	{
+		"fideid": 5550300,
+		"name": "Khalil Ben Abdallah",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1526,
+		"rating_rapid": null,
+		"rating_blitz": 1609
+	},
+	{
 		"fideid": 5540852,
 		"name": "Barhoumi,Ahmed",
 		"country": "TUN",
@@ -14531,7 +14599,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1525,
-		"rating_rapid": 1531,
+		"rating_rapid": 1533,
 		"rating_blitz": 1579
 	},
 	{
@@ -14550,6 +14618,40 @@
 		"rating_standard": 1525,
 		"rating_rapid": 1550,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5551030,
+		"name": "Bardi, Mouhamed Rachid",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1524,
+		"rating_rapid": 1573,
+		"rating_blitz": 1566
+	},
+	{
+		"fideid": 5551536,
+		"name": "Maatallah, Mouadh",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1524,
+		"rating_rapid": 1460,
+		"rating_blitz": 1534
 	},
 	{
 		"fideid": 5540364,
@@ -14637,6 +14739,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5566428,
+		"name": "Ben Cherifa,Bouraoui",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1520,
+		"rating_rapid": 1568,
+		"rating_blitz": 1506
+	},
+	{
 		"fideid": 5548543,
 		"name": "Bourari,Mohamed Alaa",
 		"country": "TUN",
@@ -14651,7 +14770,7 @@
 		"flag": "",
 		"rating_standard": 1520,
 		"rating_rapid": 1422,
-		"rating_blitz": null
+		"rating_blitz": 1519
 	},
 	{
 		"fideid": 5521653,
@@ -14720,6 +14839,23 @@
 		"rating_standard": 1519,
 		"rating_rapid": 1563,
 		"rating_blitz": 1583
+	},
+	{
+		"fideid": 5544530,
+		"name": "Wali,Mohamed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1519,
+		"rating_rapid": null,
+		"rating_blitz": 1635
 	},
 	{
 		"fideid": 5526469,
@@ -14888,8 +15024,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1516,
-		"rating_rapid": 1442,
-		"rating_blitz": 1505
+		"rating_rapid": 1430,
+		"rating_blitz": 1489
 	},
 	{
 		"fideid": 5506867,
@@ -15060,23 +15196,6 @@
 		"rating_standard": 1513,
 		"rating_rapid": 1702,
 		"rating_blitz": 1530
-	},
-	{
-		"fideid": 5564557,
-		"name": "Melki, youssef",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1513,
-		"rating_rapid": 1522,
-		"rating_blitz": 1704
 	},
 	{
 		"fideid": 5549345,
@@ -15294,7 +15413,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1507,
 		"rating_rapid": null,
 		"rating_blitz": 1540
@@ -15308,7 +15427,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
@@ -15331,6 +15450,23 @@
 		"flag": "i",
 		"rating_standard": 1507,
 		"rating_rapid": 1539,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5577195,
+		"name": "Bouhlel Mohamed, Sadok",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1505,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -15398,25 +15534,8 @@
 		"birthday": 2005,
 		"flag": "i",
 		"rating_standard": 1501,
-		"rating_rapid": 1549,
+		"rating_rapid": 1543,
 		"rating_blitz": 1461
-	},
-	{
-		"fideid": 5550408,
-		"name": "Fatnassi,Raed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1501,
-		"rating_rapid": 1567,
-		"rating_blitz": 1595
 	},
 	{
 		"fideid": 5531802,
@@ -15436,21 +15555,21 @@
 		"rating_blitz": 1482
 	},
 	{
-		"fideid": 5524628,
-		"name": "Charfeddine,Chadi",
+		"fideid": 5529395,
+		"name": "Ben Rhaiem,Adam",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 8,
 		"k": 40,
-		"birthday": 2012,
+		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1500,
-		"rating_rapid": 1404,
-		"rating_blitz": 1502
+		"rating_rapid": 1599,
+		"rating_blitz": 1590
 	},
 	{
 		"fideid": 5539110,
@@ -15502,6 +15621,40 @@
 		"rating_standard": 1499,
 		"rating_rapid": null,
 		"rating_blitz": 1521
+	},
+	{
+		"fideid": 5564557,
+		"name": "Melki, youssef",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1499,
+		"rating_rapid": 1494,
+		"rating_blitz": 1729
+	},
+	{
+		"fideid": 5551269,
+		"name": "Najah, Ahmed Yessin",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1499,
+		"rating_rapid": 1781,
+		"rating_blitz": 1542
 	},
 	{
 		"fideid": 5565804,
@@ -15606,23 +15759,6 @@
 		"rating_blitz": 1496
 	},
 	{
-		"fideid": 5544602,
-		"name": "Ghlaissia,Mazen",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1496,
-		"rating_rapid": 1471,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5514029,
 		"name": "Hmili Maryem",
 		"country": "TUN",
@@ -15637,6 +15773,23 @@
 		"flag": "wi",
 		"rating_standard": 1495,
 		"rating_rapid": 1514,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5576814,
+		"name": "Khirallah, Mehdi",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1495,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -15725,21 +15878,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5538467,
-		"name": "Bensmail, Mohamed Seddik",
+		"fideid": 5524628,
+		"name": "Charfeddine,Chadi",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
+		"foa_title": "",
+		"games": 1,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1493,
-		"rating_rapid": 1616,
-		"rating_blitz": 1713
+		"rating_rapid": 1404,
+		"rating_blitz": 1502
 	},
 	{
 		"fideid": 5508991,
@@ -15808,6 +15961,23 @@
 		"rating_standard": 1489,
 		"rating_rapid": null,
 		"rating_blitz": 1500
+	},
+	{
+		"fideid": 5544602,
+		"name": "Ghlaissia,Mazen",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1489,
+		"rating_rapid": 1471,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5526540,
@@ -15891,8 +16061,8 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1488,
-		"rating_rapid": 1517,
-		"rating_blitz": 1559
+		"rating_rapid": 1528,
+		"rating_blitz": 1577
 	},
 	{
 		"fideid": 5552818,
@@ -15929,6 +16099,23 @@
 		"rating_blitz": 1522
 	},
 	{
+		"fideid": 5538424,
+		"name": "Yahia,Tasnim",
+		"country": "TUN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1487,
+		"rating_rapid": null,
+		"rating_blitz": 1401
+	},
+	{
 		"fideid": 5506859,
 		"name": "Banouri Ghada",
 		"country": "TUN",
@@ -15944,23 +16131,6 @@
 		"rating_standard": 1486,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5540445,
-		"name": "Bessghaier,Farah",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "w",
-		"rating_standard": 1486,
-		"rating_rapid": 1520,
-		"rating_blitz": 1533
 	},
 	{
 		"fideid": 5535891,
@@ -15995,23 +16165,6 @@
 		"rating_standard": 1486,
 		"rating_rapid": 1486,
 		"rating_blitz": 1474
-	},
-	{
-		"fideid": 5526450,
-		"name": "Arfaoui, Mohamed Yassine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1485,
-		"rating_rapid": null,
-		"rating_blitz": 1493
 	},
 	{
 		"fideid": 5517257,
@@ -16218,23 +16371,6 @@
 		"rating_blitz": 1476
 	},
 	{
-		"fideid": 5558395,
-		"name": "Mechmech, Emna",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1479,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5531977,
 		"name": "Bouabid, Rayen",
 		"country": "TUN",
@@ -16286,6 +16422,57 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5550513,
+		"name": "Belhadj,Mohamed Adem",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1477,
+		"rating_rapid": 1420,
+		"rating_blitz": 1442
+	},
+	{
+		"fideid": 5529212,
+		"name": "Chebil,Ghassen",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": 1477,
+		"rating_rapid": 1435,
+		"rating_blitz": 1543
+	},
+	{
+		"fideid": 5558395,
+		"name": "Mechmech, Emna",
+		"country": "TUN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1477,
+		"rating_rapid": null,
+		"rating_blitz": 1467
+	},
+	{
 		"fideid": 5534259,
 		"name": "Rjeb, Mariem",
 		"country": "TUN",
@@ -16314,7 +16501,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": 1472,
 		"rating_rapid": 1516,
 		"rating_blitz": null
@@ -16369,23 +16556,6 @@
 		"rating_standard": 1468,
 		"rating_rapid": 1535,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5566428,
-		"name": "Ben Cherifa,Bouraoui",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1467,
-		"rating_rapid": 1568,
-		"rating_blitz": 1464
 	},
 	{
 		"fideid": 5521637,
@@ -16456,6 +16626,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5538718,
+		"name": "Kanzari, Mohamed Khalil",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1467,
+		"rating_rapid": 1457,
+		"rating_blitz": 1497
+	},
+	{
 		"fideid": 5516897,
 		"name": "Ben Abdallah,Yassine",
 		"country": "TUN",
@@ -16471,23 +16658,6 @@
 		"rating_standard": 1466,
 		"rating_rapid": 1465,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5550823,
-		"name": "Essid,Youssef",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 1466,
-		"rating_rapid": 1589,
-		"rating_blitz": 1705
 	},
 	{
 		"fideid": 5550530,
@@ -16592,6 +16762,23 @@
 		"rating_blitz": 1539
 	},
 	{
+		"fideid": 5526450,
+		"name": "Arfaoui, Mohamed Yassine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1462,
+		"rating_rapid": null,
+		"rating_blitz": 1493
+	},
+	{
 		"fideid": 5540518,
 		"name": "Hadj Salah,Eya",
 		"country": "TUN",
@@ -16624,23 +16811,6 @@
 		"rating_standard": 1462,
 		"rating_rapid": 1474,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5538718,
-		"name": "Kanzari, Mohamed Khalil",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1462,
-		"rating_rapid": null,
-		"rating_blitz": 1497
 	},
 	{
 		"fideid": 5550718,
@@ -16779,6 +16949,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5521475,
+		"name": "Oudhini,Helmi",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1457,
+		"rating_rapid": 1692,
+		"rating_blitz": 1698
+	},
+	{
 		"fideid": 5538734,
 		"name": "Najjar, Fares",
 		"country": "TUN",
@@ -16811,6 +16998,40 @@
 		"rating_standard": 1455,
 		"rating_rapid": 1516,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5540445,
+		"name": "Bessghaier,Farah",
+		"country": "TUN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "w",
+		"rating_standard": 1455,
+		"rating_rapid": 1520,
+		"rating_blitz": 1533
+	},
+	{
+		"fideid": 5569893,
+		"name": "Mlika, Idriss",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1455,
+		"rating_rapid": null,
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 5538386,
@@ -16932,6 +17153,23 @@
 		"rating_blitz": 1467
 	},
 	{
+		"fideid": 5535034,
+		"name": "Ltaief, Yahia",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1452,
+		"rating_rapid": 1628,
+		"rating_blitz": 1519
+	},
+	{
 		"fideid": 5530598,
 		"name": "Saidi Motez",
 		"country": "TUN",
@@ -17034,23 +17272,6 @@
 		"rating_blitz": 1443
 	},
 	{
-		"fideid": 5551030,
-		"name": "Bardi, Mouhamed Rachid",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1449,
-		"rating_rapid": 1559,
-		"rating_blitz": 1501
-	},
-	{
 		"fideid": 5535336,
 		"name": "Ben Zid, Rayhane",
 		"country": "TUN",
@@ -17147,7 +17368,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1448,
 		"rating_rapid": null,
 		"rating_blitz": null
@@ -17168,23 +17389,6 @@
 		"rating_standard": 1448,
 		"rating_rapid": 1534,
 		"rating_blitz": 1409
-	},
-	{
-		"fideid": 5531519,
-		"name": "Bayounes, Abdelhak",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1447,
-		"rating_rapid": 1433,
-		"rating_blitz": 1421
 	},
 	{
 		"fideid": 5507960,
@@ -17408,23 +17612,6 @@
 		"rating_blitz": 1429
 	},
 	{
-		"fideid": 5529395,
-		"name": "Ben Rhaiem,Adam",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": 1438,
-		"rating_rapid": 1599,
-		"rating_blitz": 1592
-	},
-	{
 		"fideid": 5524865,
 		"name": "Karchoud,Manar",
 		"country": "TUN",
@@ -17440,23 +17627,6 @@
 		"rating_standard": 1438,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5551269,
-		"name": "Najah, Ahmed Yessin",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1436,
-		"rating_rapid": 1719,
-		"rating_blitz": 1535
 	},
 	{
 		"fideid": 5513227,
@@ -17677,7 +17847,7 @@
 		"flag": "",
 		"rating_standard": 1428,
 		"rating_rapid": null,
-		"rating_blitz": 1523
+		"rating_blitz": 1488
 	},
 	{
 		"fideid": 5517702,
@@ -17731,6 +17901,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5531519,
+		"name": "Bayounes, Abdelhak",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1426,
+		"rating_rapid": 1433,
+		"rating_blitz": 1421
+	},
+	{
 		"fideid": 5543568,
 		"name": "Frej,Nayrouz",
 		"country": "TUN",
@@ -17746,6 +17933,23 @@
 		"rating_standard": 1426,
 		"rating_rapid": 1448,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5558140,
+		"name": "Mishra, Shreyan",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": 1418,
+		"rating_rapid": null,
+		"rating_blitz": 1406
 	},
 	{
 		"fideid": 5569710,
@@ -18101,7 +18305,7 @@
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1403,
-		"rating_rapid": 1487,
+		"rating_rapid": 1445,
 		"rating_blitz": 1410
 	},
 	{
@@ -18139,21 +18343,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5535034,
-		"name": "Ltaief, Yahia",
+		"fideid": 5531918,
+		"name": "Messaoudi, Abdellatif",
 		"country": "TUN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 40,
-		"birthday": 2011,
+		"birthday": 1961,
 		"flag": "",
 		"rating_standard": 1401,
-		"rating_rapid": 1611,
-		"rating_blitz": 1515
+		"rating_rapid": 1533,
+		"rating_blitz": 1555
 	},
 	{
 		"fideid": 5537703,
@@ -18334,7 +18538,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -18456,7 +18660,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1981,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1638,
 		"rating_blitz": 1677
@@ -18572,7 +18776,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
@@ -18640,7 +18844,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -18674,7 +18878,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
@@ -18844,7 +19048,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -18963,12 +19167,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1513,
+		"rating_rapid": 1477,
 		"rating_blitz": 1427
 	},
 	{
@@ -19099,7 +19303,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
@@ -19393,8 +19597,8 @@
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1720,
-		"rating_blitz": 1746
+		"rating_rapid": 1717,
+		"rating_blitz": 1721
 	},
 	{
 		"fideid": 5539587,
@@ -19405,7 +19609,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1969,
 		"flag": "",
@@ -19490,7 +19694,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 1985,
 		"flag": "",
@@ -19728,7 +19932,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1979,
 		"flag": "",
@@ -19745,12 +19949,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1420,
+		"rating_rapid": 1454,
 		"rating_blitz": 1540
 	},
 	{
@@ -19769,6 +19973,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1597,
 		"rating_blitz": 1545
+	},
+	{
+		"fideid": 5575192,
+		"name": "ben bouker, ahmed",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1616,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5545021,
@@ -19864,13 +20085,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 15,
+		"games": 5,
 		"k": 40,
 		"birthday": 1974,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1412,
-		"rating_blitz": null
+		"rating_rapid": 1423,
+		"rating_blitz": 1415
 	},
 	{
 		"fideid": 5556120,
@@ -19915,7 +20136,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 1997,
 		"flag": "",
@@ -20017,7 +20238,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -20108,7 +20329,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1498,
-		"rating_blitz": 1574
+		"rating_blitz": 1569
 	},
 	{
 		"fideid": 5538017,
@@ -20298,23 +20519,6 @@
 		"rating_blitz": 1672
 	},
 	{
-		"fideid": 5567190,
-		"name": "ben rhaiem,Med saleh",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1560,
-		"rating_blitz": 1510
-	},
-	{
 		"fideid": 5536057,
 		"name": "Ben Romdhane, Wajdi",
 		"country": "TUN",
@@ -20343,10 +20547,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1975,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1598,
 		"rating_blitz": 1658
+	},
+	{
+		"fideid": 5513405,
+		"name": "Ben Said,Ayoub",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1545,
+		"rating_blitz": 1637
 	},
 	{
 		"fideid": 5546389,
@@ -20493,7 +20714,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1973,
 		"flag": "",
@@ -20629,13 +20850,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1999,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1473,
-		"rating_blitz": null
+		"rating_blitz": 1405
 	},
 	{
 		"fideid": 5533350,
@@ -20704,23 +20925,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1614,
 		"rating_blitz": 1482
-	},
-	{
-		"fideid": 5561965,
-		"name": "Bou Ali , Mehdi",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1408,
-		"rating_blitz": 1439
 	},
 	{
 		"fideid": 5510619,
@@ -20805,6 +21009,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1595,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5566711,
+		"name": "Bouazzi, Youssef",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1675,
 		"rating_blitz": null
 	},
 	{
@@ -20975,6 +21196,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1488,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5577160,
+		"name": "Bouleymane, Mohamed Aziz",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1554,
 		"rating_blitz": null
 	},
 	{
@@ -21207,7 +21445,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 20,
 		"birthday": 1967,
 		"flag": "",
@@ -21377,7 +21615,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 1985,
 		"flag": "",
@@ -21462,7 +21700,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -21479,7 +21717,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
@@ -21530,7 +21768,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -21656,23 +21894,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1632,
 		"rating_blitz": 1974
-	},
-	{
-		"fideid": 5529212,
-		"name": "Chebil,Ghassen",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2004,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": 1435,
-		"rating_blitz": 1557
 	},
 	{
 		"fideid": 5545951,
@@ -21802,7 +22023,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
@@ -21938,7 +22159,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -21989,7 +22210,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -22185,6 +22406,23 @@
 		"rating_blitz": 1656
 	},
 	{
+		"fideid": 5577152,
+		"name": "Dely, Adem",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1520,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5567203,
 		"name": "Derouiche,Louay",
 		"country": "TUN",
@@ -22312,7 +22550,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
@@ -22451,7 +22689,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1553,
 		"rating_blitz": 1739
@@ -22601,7 +22839,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -22669,12 +22907,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 7,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1493,
+		"rating_rapid": 1523,
 		"rating_blitz": 1491
 	},
 	{
@@ -22703,13 +22941,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1560,
-		"rating_blitz": 1553
+		"rating_blitz": 1539
 	},
 	{
 		"fideid": 5560209,
@@ -22720,7 +22958,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -22737,7 +22975,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 1979,
 		"flag": "",
@@ -22805,7 +23043,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "",
@@ -22910,7 +23148,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1981,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1780,
 		"rating_blitz": 1829
@@ -22941,7 +23179,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
@@ -23026,7 +23264,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1990,
 		"flag": "",
@@ -23171,6 +23409,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5554225,
+		"name": "Gabsi, Mohamed Aziz",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1616,
+		"rating_blitz": 1545
+	},
+	{
 		"fideid": 5553849,
 		"name": "Gaddour, Mohamed Yassine",
 		"country": "TUN",
@@ -23230,7 +23485,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -23247,7 +23502,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1993,
 		"flag": "",
@@ -23324,6 +23579,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5547431,
+		"name": "Ghalleb,Lina",
+		"country": "TUN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1448,
+		"rating_blitz": 1453
+	},
+	{
 		"fideid": 5559464,
 		"name": "Ghanem, Yahia",
 		"country": "TUN",
@@ -23338,7 +23610,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1473,
-		"rating_blitz": null
+		"rating_blitz": 1647
 	},
 	{
 		"fideid": 5548039,
@@ -23440,7 +23712,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1514,
-		"rating_blitz": null
+		"rating_blitz": 1660
 	},
 	{
 		"fideid": 5530024,
@@ -23468,12 +23740,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1672,
+		"rating_rapid": 1674,
 		"rating_blitz": 1546
 	},
 	{
@@ -23502,7 +23774,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -23536,7 +23808,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -23553,7 +23825,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
@@ -23621,12 +23893,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1472,
+		"rating_rapid": 1477,
 		"rating_blitz": null
 	},
 	{
@@ -23774,7 +24046,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -23825,7 +24097,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
@@ -24131,7 +24403,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 1989,
 		"flag": "",
@@ -24165,7 +24437,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -24273,7 +24545,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1673,
-		"rating_blitz": null
+		"rating_blitz": 1430
 	},
 	{
 		"fideid": 5547466,
@@ -24369,30 +24641,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2019,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1418,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 5558743,
-		"name": "Herch, Rimes",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1420,
-		"rating_blitz": 1467
 	},
 	{
 		"fideid": 5565642,
@@ -24684,6 +24939,40 @@
 		"rating_blitz": 1794
 	},
 	{
+		"fideid": 5559510,
+		"name": "Hribi, Saifallah",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1523,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 5572010,
+		"name": "Htira, Amir",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1418,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5549299,
 		"name": "Ismail, Miled",
 		"country": "TUN",
@@ -24726,7 +25015,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -24803,6 +25092,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5576555,
+		"name": "Jamai, Rayen",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1489,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5561388,
 		"name": "Jaouadi,Haythem",
 		"country": "TUN",
@@ -24845,12 +25151,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 1,
 		"k": 40,
 		"birthday": 1964,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1435,
+		"rating_rapid": 1420,
 		"rating_blitz": null
 	},
 	{
@@ -25015,7 +25321,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1994,
 		"flag": "",
@@ -25270,7 +25576,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -25500,6 +25806,23 @@
 		"rating_blitz": 1615
 	},
 	{
+		"fideid": 5567874,
+		"name": "Khedher, Hamza",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1525,
+		"rating_blitz": 1466
+	},
+	{
 		"fideid": 5556457,
 		"name": "Khelifi, Yamen",
 		"country": "TUN",
@@ -25508,12 +25831,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1547,
+		"rating_rapid": 1528,
 		"rating_blitz": 1445
 	},
 	{
@@ -25532,6 +25855,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1719,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5560454,
+		"name": "Khemis, Mohamed Amine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1513,
+		"rating_blitz": 1608
 	},
 	{
 		"fideid": 5556929,
@@ -25559,12 +25899,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1427,
+		"rating_rapid": 1412,
 		"rating_blitz": 1419
 	},
 	{
@@ -25729,13 +26069,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 19,
+		"games": 6,
 		"k": 40,
 		"birthday": 1981,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1529,
-		"rating_blitz": 1441
+		"rating_rapid": 1519,
+		"rating_blitz": 1432
 	},
 	{
 		"fideid": 5535875,
@@ -25763,7 +26103,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -25787,6 +26127,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1553,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 5562015,
+		"name": "Kssibi , Seifedine",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1764,
+		"rating_blitz": 1677
 	},
 	{
 		"fideid": 5568013,
@@ -25831,7 +26188,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -25919,7 +26276,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2001,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1458,
 		"rating_blitz": null
@@ -26007,7 +26364,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1445,
-		"rating_blitz": 1490
+		"rating_blitz": 1518
 	},
 	{
 		"fideid": 5547512,
@@ -26024,7 +26381,7 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1486,
-		"rating_blitz": 1642
+		"rating_blitz": 1628
 	},
 	{
 		"fideid": 5573181,
@@ -26061,6 +26418,23 @@
 		"rating_blitz": 1815
 	},
 	{
+		"fideid": 5565120,
+		"name": "Laroussi, Belgasem",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1537,
+		"rating_blitz": 1464
+	},
+	{
 		"fideid": 5549370,
 		"name": "Laroussi, Othman",
 		"country": "TUN",
@@ -26086,7 +26460,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 2003,
 		"flag": "",
@@ -26103,7 +26477,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
@@ -26239,7 +26613,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 1978,
 		"flag": "",
@@ -26426,7 +26800,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 13,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
@@ -26554,23 +26928,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 5570883,
-		"name": "Marouani, Youssef",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1511,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 5545811,
 		"name": "Marrakchi,Kenza",
 		"country": "TUN",
@@ -26596,7 +26953,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -26647,7 +27004,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -26928,6 +27285,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5575290,
+		"name": "mekni, adem",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1680,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5502772,
 		"name": "Melki, Mounir",
 		"country": "TUN",
@@ -27055,12 +27429,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1557,
+		"rating_rapid": 1572,
 		"rating_blitz": 1569
 	},
 	{
@@ -27075,7 +27449,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1698,
 		"rating_blitz": 1784
@@ -27089,13 +27463,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1533,
-		"rating_blitz": 1453
+		"rating_rapid": 1559,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5576210,
@@ -27106,12 +27480,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 11,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1693,
+		"rating_rapid": 1705,
 		"rating_blitz": 1612
 	},
 	{
@@ -27259,7 +27633,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1987,
 		"flag": "",
@@ -27336,6 +27710,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 5577128,
+		"name": "Mokhtar, Youssef",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1481,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 5552869,
 		"name": "Mokhtar,Ben Amor",
 		"country": "TUN",
@@ -27402,6 +27793,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1494,
 		"rating_blitz": 1603
+	},
+	{
+		"fideid": 5576342,
+		"name": "Mrabet,Skander",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1552,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5523346,
@@ -27840,7 +28248,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1495,
 		"rating_blitz": 1734
@@ -28010,7 +28418,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1975,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1585,
 		"rating_blitz": 1597
@@ -28024,13 +28432,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1637,
-		"rating_blitz": 1588
+		"rating_rapid": 1593,
+		"rating_blitz": 1486
 	},
 	{
 		"fideid": 5523370,
@@ -28211,7 +28619,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -28262,7 +28670,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 1995,
 		"flag": "",
@@ -28381,7 +28789,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1988,
 		"flag": "",
@@ -28398,7 +28806,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1976,
 		"flag": "",
@@ -28534,7 +28942,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": "",
 		"flag": "",
@@ -28874,7 +29282,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -28908,12 +29316,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 7,
 		"k": 40,
 		"birthday": 1997,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1730,
+		"rating_rapid": 1702,
 		"rating_blitz": 1627
 	},
 	{
@@ -29234,7 +29642,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1963,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1641,
 		"rating_blitz": 1644
@@ -29248,12 +29656,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1554,
+		"rating_rapid": 1534,
 		"rating_blitz": null
 	},
 	{
@@ -29336,10 +29744,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1976,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1627,
 		"rating_blitz": 1706
+	},
+	{
+		"fideid": 5576270,
+		"name": "Toukebri, Mohamed Amin",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 1993,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1557,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 5552320,
@@ -29455,7 +29880,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1986,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1706,
 		"rating_blitz": 1952
@@ -29571,7 +29996,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
@@ -29826,7 +30251,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 1972,
 		"flag": "",
@@ -29911,7 +30336,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 1975,
 		"flag": "",
@@ -29928,12 +30353,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1412,
+		"rating_rapid": 1401,
 		"rating_blitz": null
 	},
 	{
@@ -30101,7 +30526,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1537
@@ -30132,8 +30557,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1971,
 		"flag": "",
 		"rating_standard": null,
@@ -30812,13 +31237,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1624
+		"rating_blitz": 1555
 	},
 	{
 		"fideid": 5552486,
@@ -30863,8 +31288,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1984,
 		"flag": "w",
 		"rating_standard": null,
@@ -31104,27 +31529,10 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1963,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1431
-	},
-	{
-		"fideid": 5556023,
-		"name": "Ben Moussa, Amir",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1418
 	},
 	{
 		"fideid": 5563712,
@@ -31220,8 +31628,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1979,
 		"flag": "",
 		"rating_standard": null,
@@ -31329,23 +31737,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1740
-	},
-	{
-		"fideid": 5513405,
-		"name": "Ben Said,Ayoub",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1637
 	},
 	{
 		"fideid": 5539102,
@@ -31526,8 +31917,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1957,
 		"flag": "",
 		"rating_standard": null,
@@ -31550,6 +31941,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1965
+	},
+	{
+		"fideid": 5561965,
+		"name": "Bou Ali , Mehdi",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1439
 	},
 	{
 		"fideid": 5561973,
@@ -31648,10 +32056,27 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1549
+	},
+	{
+		"fideid": 5564107,
+		"name": "Boudega, Mohamed Ilyes",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1487
 	},
 	{
 		"fideid": 5554179,
@@ -32529,7 +32954,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -32597,13 +33022,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 20,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1646
+		"rating_blitz": 1614
 	},
 	{
 		"fideid": 5534844,
@@ -32631,13 +33056,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1411
+		"rating_blitz": 1439
 	},
 	{
 		"fideid": 5512263,
@@ -32699,8 +33124,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": null,
@@ -32980,23 +33405,6 @@
 		"rating_blitz": 1850
 	},
 	{
-		"fideid": 5554225,
-		"name": "Gabsi, Mohamed Aziz",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1545
-	},
-	{
 		"fideid": 5522080,
 		"name": "Gaddour,Wassim",
 		"country": "TUN",
@@ -33076,7 +33484,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1987,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1706
@@ -33133,23 +33541,6 @@
 		"rating_blitz": 1736
 	},
 	{
-		"fideid": 5547431,
-		"name": "Ghalleb,Lina",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1460
-	},
-	{
 		"fideid": 5544521,
 		"name": "Ghalleb,Nour",
 		"country": "TUN",
@@ -33158,8 +33549,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1997,
 		"flag": "w",
 		"rating_standard": null,
@@ -33226,8 +33617,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
@@ -33352,6 +33743,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1692
+	},
+	{
+		"fideid": 5570492,
+		"name": "Hachani, Iyes",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1478
 	},
 	{
 		"fideid": 5540240,
@@ -33532,8 +33940,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": null,
@@ -33728,6 +34136,23 @@
 		"rating_blitz": 1478
 	},
 	{
+		"fideid": 5558743,
+		"name": "Herch, Rimes",
+		"country": "TUN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1467
+	},
+	{
 		"fideid": 5570905,
 		"name": "Hfaidh, Abdeslam",
 		"country": "TUN",
@@ -33787,7 +34212,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1995,
 		"flag": "",
@@ -33804,8 +34229,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": null,
@@ -34042,8 +34467,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": null,
@@ -34195,8 +34620,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
@@ -34253,40 +34678,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1504
-	},
-	{
-		"fideid": 5567874,
-		"name": "Khedher, Hamza",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1493
-	},
-	{
-		"fideid": 5560454,
-		"name": "Khemis, Mohamed Amine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1608
 	},
 	{
 		"fideid": 5562244,
@@ -34442,6 +34833,23 @@
 		"rating_blitz": 1405
 	},
 	{
+		"fideid": 5577187,
+		"name": "Kouidhi, Marwen",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1422
+	},
+	{
 		"fideid": 5512239,
 		"name": "Kramti Mohamed",
 		"country": "TUN",
@@ -34467,13 +34875,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1421
+		"rating_blitz": 1400
 	},
 	{
 		"fideid": 5555736,
@@ -34491,23 +34899,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1556
-	},
-	{
-		"fideid": 5562015,
-		"name": "Kssibi , Seifedine",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1675
 	},
 	{
 		"fideid": 5539030,
@@ -34569,13 +34960,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 20,
 		"birthday": 2001,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1733
+		"rating_blitz": 1693
 	},
 	{
 		"fideid": 5536103,
@@ -34593,23 +34984,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1608
-	},
-	{
-		"fideid": 5565120,
-		"name": "Laroussi, Belgasem",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1448
 	},
 	{
 		"fideid": 5539048,
@@ -34644,6 +35018,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1543
+	},
+	{
+		"fideid": 5576458,
+		"name": "Lghali, Ismail",
+		"country": "TUN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1589
 	},
 	{
 		"fideid": 5538254,
@@ -34892,8 +35283,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1976,
 		"flag": "",
 		"rating_standard": null,
@@ -34950,23 +35341,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1504
-	},
-	{
-		"fideid": 5550440,
-		"name": "Mallek,Adam",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "i",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1420
 	},
 	{
 		"fideid": 5536472,
@@ -35286,7 +35660,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 2003,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1558
@@ -35623,8 +35997,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": null,
@@ -35793,7 +36167,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -35912,8 +36286,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": null,
@@ -36014,8 +36388,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1988,
 		"flag": "",
 		"rating_standard": null,
@@ -36269,7 +36643,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
@@ -36344,23 +36718,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1477
-	},
-	{
-		"fideid": 5537193,
-		"name": "Sfaxi, Kamilia",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1465
 	},
 	{
 		"fideid": 5500176,
@@ -36439,8 +36796,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 1982,
 		"flag": "",
 		"rating_standard": null,
@@ -36762,30 +37119,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1441
-	},
-	{
-		"fideid": 5544530,
-		"name": "Wali,Mohamed",
-		"country": "TUN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1575
+		"rating_blitz": 1409
 	},
 	{
 		"fideid": 5561345,
@@ -36837,23 +37177,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1526
-	},
-	{
-		"fideid": 5538424,
-		"name": "Yahia,Tasnim",
-		"country": "TUN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1401
 	},
 	{
 		"fideid": 5555000,
@@ -37221,12 +37544,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1632
+		"rating_blitz": 1562
 	}
 ]
