@@ -438,8 +438,8 @@
 		"birthday": 1972,
 		"flag": "i",
 		"rating_standard": 1732,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_rapid": 1653,
+		"rating_blitz": 1702
 	},
 	{
 		"fideid": 31901620,
@@ -697,23 +697,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 31900925,
-		"name": "Viegas Tilman, Blanzeldinho",
-		"country": "TLS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "i",
-		"rating_standard": 1657,
-		"rating_rapid": null,
-		"rating_blitz": 1653
-	},
-	{
 		"fideid": 31904661,
 		"name": "Gaspar, Silvinha Tricia Judiana",
 		"country": "TLS",
@@ -746,23 +729,6 @@
 		"rating_standard": 1648,
 		"rating_rapid": null,
 		"rating_blitz": 1640
-	},
-	{
-		"fideid": 31901484,
-		"name": "Viegas, Rivano",
-		"country": "TLS",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "i",
-		"rating_standard": 1637,
-		"rating_rapid": null,
-		"rating_blitz": 1673
 	},
 	{
 		"fideid": 31901409,
@@ -848,6 +814,23 @@
 		"rating_standard": 1610,
 		"rating_rapid": null,
 		"rating_blitz": 1626
+	},
+	{
+		"fideid": 31900925,
+		"name": "Viegas Tilman, Blanzeldinho",
+		"country": "TLS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1609,
+		"rating_rapid": 1593,
+		"rating_blitz": 1594
 	},
 	{
 		"fideid": 31901964,
@@ -1037,6 +1020,23 @@
 		"rating_blitz": 1561
 	},
 	{
+		"fideid": 31901484,
+		"name": "Viegas, Rivano",
+		"country": "TLS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 1567,
+		"rating_rapid": 1598,
+		"rating_blitz": 1623
+	},
+	{
 		"fideid": 31905218,
 		"name": "Soares, Sidonia do Carmo",
 		"country": "TLS",
@@ -1085,6 +1085,23 @@
 		"flag": "i",
 		"rating_standard": 1524,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 31904424,
+		"name": "Menezes, Noelio Garcia",
+		"country": "TLS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": 1516,
+		"rating_rapid": 1585,
 		"rating_blitz": null
 	},
 	{
@@ -1190,6 +1207,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 31902235,
+		"name": "Aleixo, Valentino da Costa",
+		"country": "TLS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1413,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 31905838,
 		"name": "Pinto, Paulo Sarmento",
 		"country": "TLS",
@@ -1205,5 +1239,22 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1593
+	},
+	{
+		"fideid": 31902693,
+		"name": "Ximenes, Martinho Valerio",
+		"country": "TLS",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1592
 	}
 ]

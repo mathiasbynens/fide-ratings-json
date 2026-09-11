@@ -8,11 +8,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 9,
 		"k": 20,
 		"birthday": 2000,
 		"flag": "",
-		"rating_standard": 2177,
+		"rating_standard": 2170,
 		"rating_rapid": 2112,
 		"rating_blitz": 1981
 	},
@@ -25,7 +25,7 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1999,
 		"flag": "",
@@ -68,23 +68,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 32500840,
-		"name": "Peter Majur Manyang",
-		"country": "SSD",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 1996,
-		"flag": "",
-		"rating_standard": 2116,
-		"rating_rapid": 2079,
-		"rating_blitz": 2150
-	},
-	{
 		"fideid": 32508123,
 		"name": "Daniel Thokjang Malony",
 		"country": "SSD",
@@ -100,6 +83,23 @@
 		"rating_standard": 2105,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 32500840,
+		"name": "Peter Majur Manyang",
+		"country": "SSD",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1996,
+		"flag": "",
+		"rating_standard": 2085,
+		"rating_rapid": 2079,
+		"rating_blitz": 2150
 	},
 	{
 		"fideid": 32501323,
@@ -127,13 +127,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 4,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
-		"rating_standard": 2069,
+		"rating_standard": 2077,
 		"rating_rapid": 2004,
-		"rating_blitz": 1956
+		"rating_blitz": 2017
 	},
 	{
 		"fideid": 32501234,
@@ -151,23 +151,6 @@
 		"rating_standard": 2060,
 		"rating_rapid": 1998,
 		"rating_blitz": 1924
-	},
-	{
-		"fideid": 32501242,
-		"name": "Ngong Samuel Gai",
-		"country": "SSD",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 2047,
-		"rating_rapid": 2040,
-		"rating_blitz": 1926
 	},
 	{
 		"fideid": 32502290,
@@ -202,6 +185,23 @@
 		"rating_standard": 2043,
 		"rating_rapid": null,
 		"rating_blitz": 1891
+	},
+	{
+		"fideid": 32501242,
+		"name": "Ngong Samuel Gai",
+		"country": "SSD",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 2036,
+		"rating_rapid": 2040,
+		"rating_blitz": 1959
 	},
 	{
 		"fideid": 32502451,
@@ -365,7 +365,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
@@ -586,7 +586,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
@@ -677,7 +677,7 @@
 		"flag": "",
 		"rating_standard": 1948,
 		"rating_rapid": 2048,
-		"rating_blitz": 2006
+		"rating_blitz": 2007
 	},
 	{
 		"fideid": 32501145,
@@ -1900,7 +1900,7 @@
 		"birthday": 1996,
 		"flag": "",
 		"rating_standard": 1811,
-		"rating_rapid": 1957,
+		"rating_rapid": 1965,
 		"rating_blitz": 1895
 	},
 	{
@@ -2731,7 +2731,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1997,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1734,
 		"rating_rapid": 1812,
 		"rating_blitz": null
@@ -2966,7 +2966,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1988,
 		"flag": "",

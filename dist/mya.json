@@ -127,7 +127,7 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 19,
+		"games": 0,
 		"k": 10,
 		"birthday": 1982,
 		"flag": "",
@@ -170,23 +170,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13002953,
-		"name": "Kyaw Lin Naing",
-		"country": "MYA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1981,
-		"flag": "",
-		"rating_standard": 2304,
-		"rating_rapid": 2315,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13001370,
 		"name": "Htun Lynn Kyaw",
 		"country": "MYA",
@@ -201,6 +184,23 @@
 		"flag": "",
 		"rating_standard": 2298,
 		"rating_rapid": 2296,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13002953,
+		"name": "Kyaw Lin Naing",
+		"country": "MYA",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 2296,
+		"rating_rapid": 2315,
 		"rating_blitz": null
 	},
 	{
@@ -306,21 +306,21 @@
 		"rating_blitz": 2224
 	},
 	{
-		"fideid": 13000322,
-		"name": "Myint Han",
+		"fideid": 13012541,
+		"name": "Kyaw Myat Aung",
 		"country": "MYA",
 		"sex": "M",
-		"title": "IM",
+		"title": "FM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1962,
+		"games": 9,
+		"k": 20,
+		"birthday": 2005,
 		"flag": "",
-		"rating_standard": 2249,
-		"rating_rapid": 2264,
-		"rating_blitz": 2215
+		"rating_standard": 2246,
+		"rating_rapid": 2132,
+		"rating_blitz": 2149
 	},
 	{
 		"fideid": 13000071,
@@ -353,7 +353,7 @@
 		"birthday": 1977,
 		"flag": "i",
 		"rating_standard": 2244,
-		"rating_rapid": 2187,
+		"rating_rapid": 2219,
 		"rating_blitz": null
 	},
 	{
@@ -408,6 +408,23 @@
 		"rating_blitz": 2232
 	},
 	{
+		"fideid": 13000322,
+		"name": "Myint Han",
+		"country": "MYA",
+		"sex": "M",
+		"title": "IM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1962,
+		"flag": "",
+		"rating_standard": 2228,
+		"rating_rapid": 2264,
+		"rating_blitz": 2215
+	},
+	{
 		"fideid": 13003003,
 		"name": "Phyo Aung Kyi",
 		"country": "MYA",
@@ -442,38 +459,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13003100,
-		"name": "Win, Tun",
+		"fideid": 13004255,
+		"name": "Nay Lin Tun",
 		"country": "MYA",
 		"sex": "M",
-		"title": "FM",
+		"title": "CM",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 2224,
-		"rating_rapid": 2271,
-		"rating_blitz": 2195
-	},
-	{
-		"fideid": 13006142,
-		"name": "Aung, Naing",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
-		"birthday": 1977,
+		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 2221,
-		"rating_rapid": 2225,
-		"rating_blitz": null
+		"rating_rapid": 2135,
+		"rating_blitz": 2068
 	},
 	{
 		"fideid": 13001884,
@@ -508,6 +508,23 @@
 		"rating_standard": 2218,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13003100,
+		"name": "Win, Tun",
+		"country": "MYA",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 10,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 2215,
+		"rating_rapid": 2271,
+		"rating_blitz": 2195
 	},
 	{
 		"fideid": 13010913,
@@ -561,6 +578,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13006142,
+		"name": "Aung, Naing",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 2207,
+		"rating_rapid": 2225,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13001230,
 		"name": "Moun Moun Latt",
 		"country": "MYA",
@@ -595,23 +629,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13012541,
-		"name": "Kyaw Myat Aung",
-		"country": "MYA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2005,
-		"flag": "",
-		"rating_standard": 2191,
-		"rating_rapid": 2132,
-		"rating_blitz": 2149
-	},
-	{
 		"fideid": 13009745,
 		"name": "Kyaw Zin Latt",
 		"country": "MYA",
@@ -642,25 +659,8 @@
 		"birthday": 1975,
 		"flag": "",
 		"rating_standard": 2188,
-		"rating_rapid": 2234,
+		"rating_rapid": 2228,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13023977,
-		"name": "Linn Phone Myat",
-		"country": "MYA",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2187,
-		"rating_rapid": 1990,
-		"rating_blitz": 2077
 	},
 	{
 		"fideid": 13003020,
@@ -680,6 +680,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13023977,
+		"name": "Linn Phone Myat",
+		"country": "MYA",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2182,
+		"rating_rapid": 1990,
+		"rating_blitz": 2077
+	},
+	{
 		"fideid": 13013645,
 		"name": "Yee, Min Tun",
 		"country": "MYA",
@@ -697,21 +714,38 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13004255,
-		"name": "Nay Lin Tun",
+		"fideid": 13001965,
+		"name": "Naing Myo Lin",
 		"country": "MYA",
 		"sex": "M",
-		"title": "CM",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "AIM",
+		"games": 9,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 2180,
+		"rating_rapid": null,
+		"rating_blitz": 1985
+	},
+	{
+		"fideid": 13001353,
+		"name": "Than, Min Hlaing",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 17,
 		"k": 20,
-		"birthday": 2003,
+		"birthday": 1976,
 		"flag": "",
 		"rating_standard": 2180,
-		"rating_rapid": 2089,
-		"rating_blitz": 2068
+		"rating_rapid": 2090,
+		"rating_blitz": 2180
 	},
 	{
 		"fideid": 13014730,
@@ -729,23 +763,6 @@
 		"rating_standard": 2179,
 		"rating_rapid": 2021,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13001965,
-		"name": "Naing Myo Lin",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "AIM",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": 2176,
-		"rating_rapid": null,
-		"rating_blitz": 1985
 	},
 	{
 		"fideid": 13013491,
@@ -795,7 +812,7 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": 2165,
-		"rating_rapid": null,
+		"rating_rapid": 2148,
 		"rating_blitz": null
 	},
 	{
@@ -833,23 +850,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13002252,
-		"name": "Zeyar",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 2161,
-		"rating_rapid": 2109,
-		"rating_blitz": 2123
-	},
-	{
 		"fideid": 6200281,
 		"name": "Aung, Kyaw Moe",
 		"country": "MYA",
@@ -864,7 +864,24 @@
 		"flag": "i",
 		"rating_standard": 2158,
 		"rating_rapid": null,
-		"rating_blitz": 2050
+		"rating_blitz": 1933
+	},
+	{
+		"fideid": 13001795,
+		"name": "Htay Min Lwin",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 2157,
+		"rating_rapid": 2213,
+		"rating_blitz": 2148
 	},
 	{
 		"fideid": 13007564,
@@ -882,23 +899,6 @@
 		"rating_standard": 2157,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13001795,
-		"name": "Htay Min Lwin",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 2156,
-		"rating_rapid": 2213,
-		"rating_blitz": 2148
 	},
 	{
 		"fideid": 13001248,
@@ -950,6 +950,23 @@
 		"rating_standard": 2150,
 		"rating_rapid": 1990,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13020064,
+		"name": "Zwe Wai Yan Lin",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2148,
+		"rating_rapid": 1822,
+		"rating_blitz": 1986
 	},
 	{
 		"fideid": 13001280,
@@ -1020,23 +1037,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13001353,
-		"name": "Than, Min Hlaing",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1976,
-		"flag": "",
-		"rating_standard": 2140,
-		"rating_rapid": 2116,
-		"rating_blitz": 2203
-	},
-	{
 		"fideid": 13000853,
 		"name": "Ye Min Thame A",
 		"country": "MYA",
@@ -1088,6 +1088,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13002481,
+		"name": "Nyi Nyi Lwin",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 10,
+		"birthday": 1965,
+		"flag": "",
+		"rating_standard": 2137,
+		"rating_rapid": 2148,
+		"rating_blitz": 2171
+	},
+	{
 		"fideid": 13009990,
 		"name": "Nyi Nyi Soe",
 		"country": "MYA",
@@ -1102,6 +1119,40 @@
 		"flag": "i",
 		"rating_standard": 2137,
 		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13006401,
+		"name": "Saw, Win Aung",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 2137,
+		"rating_rapid": 2140,
+		"rating_blitz": 2093
+	},
+	{
+		"fideid": 13002767,
+		"name": "Sie Thu",
+		"country": "MYA",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 10,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 2137,
+		"rating_rapid": 2126,
 		"rating_blitz": null
 	},
 	{
@@ -1173,23 +1224,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13004816,
-		"name": "Wai Phyo",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1982,
-		"flag": "",
-		"rating_standard": 2129,
-		"rating_rapid": 2143,
-		"rating_blitz": 2103
-	},
-	{
 		"fideid": 13009060,
 		"name": "Myo Min Aung",
 		"country": "MYA",
@@ -1207,23 +1241,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13002481,
-		"name": "Nyi Nyi Lwin",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1965,
-		"flag": "",
-		"rating_standard": 2126,
-		"rating_rapid": 2148,
-		"rating_blitz": 2171
-	},
-	{
 		"fideid": 13001060,
 		"name": "Han, Win Tun",
 		"country": "MYA",
@@ -1238,23 +1255,6 @@
 		"flag": "i",
 		"rating_standard": 2123,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13002767,
-		"name": "Sie Thu",
-		"country": "MYA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1982,
-		"flag": "i",
-		"rating_standard": 2122,
-		"rating_rapid": 2126,
 		"rating_blitz": null
 	},
 	{
@@ -1377,23 +1377,6 @@
 		"rating_blitz": 2113
 	},
 	{
-		"fideid": 13006401,
-		"name": "Saw, Win Aung",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "",
-		"rating_standard": 2116,
-		"rating_rapid": 2140,
-		"rating_blitz": 2093
-	},
-	{
 		"fideid": 13011871,
 		"name": "Si Thu B",
 		"country": "MYA",
@@ -1496,23 +1479,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13000233,
-		"name": "Maung Maung Lwin",
-		"country": "MYA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1961,
-		"flag": "",
-		"rating_standard": 2107,
-		"rating_rapid": 1990,
-		"rating_blitz": 2016
-	},
-	{
 		"fideid": 13000578,
 		"name": "Peter Kyaw Moe",
 		"country": "MYA",
@@ -1528,23 +1494,6 @@
 		"rating_standard": 2106,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13020064,
-		"name": "Zwe Wai Yan Lin",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2105,
-		"rating_rapid": 1822,
-		"rating_blitz": 1986
 	},
 	{
 		"fideid": 13001981,
@@ -1598,6 +1547,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13002252,
+		"name": "Zeyar",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 2101,
+		"rating_rapid": 2109,
+		"rating_blitz": 2123
+	},
+	{
 		"fideid": 13012290,
 		"name": "Sai Han Thiha",
 		"country": "MYA",
@@ -1611,8 +1577,8 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 2099,
-		"rating_rapid": 2211,
-		"rating_blitz": 2096
+		"rating_rapid": 2198,
+		"rating_blitz": 2128
 	},
 	{
 		"fideid": 13010026,
@@ -1683,6 +1649,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13000233,
+		"name": "Maung Maung Lwin",
+		"country": "MYA",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 10,
+		"birthday": 1961,
+		"flag": "",
+		"rating_standard": 2094,
+		"rating_rapid": 1990,
+		"rating_blitz": 2016
+	},
+	{
 		"fideid": 13010247,
 		"name": "Than Win C",
 		"country": "MYA",
@@ -1747,7 +1730,7 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": 2090,
-		"rating_rapid": 2124,
+		"rating_rapid": 2100,
 		"rating_blitz": 2077
 	},
 	{
@@ -1904,6 +1887,23 @@
 		"rating_blitz": 2045
 	},
 	{
+		"fideid": 13022458,
+		"name": "Saw Aye Chan Min",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 20,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": 2083,
+		"rating_rapid": 1938,
+		"rating_blitz": 1972
+	},
+	{
 		"fideid": 13013700,
 		"name": "Zin, Min",
 		"country": "MYA",
@@ -2019,7 +2019,7 @@
 		"birthday": 1969,
 		"flag": "",
 		"rating_standard": 2080,
-		"rating_rapid": 2022,
+		"rating_rapid": 2018,
 		"rating_blitz": null
 	},
 	{
@@ -2055,6 +2055,23 @@
 		"rating_standard": 2077,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13001817,
+		"name": "Han Min Soe",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1978,
+		"flag": "",
+		"rating_standard": 2076,
+		"rating_rapid": 2231,
+		"rating_blitz": 2119
 	},
 	{
 		"fideid": 13003011,
@@ -2174,6 +2191,23 @@
 		"rating_standard": 2072,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13004816,
+		"name": "Wai Phyo",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 20,
+		"birthday": 1982,
+		"flag": "",
+		"rating_standard": 2072,
+		"rating_rapid": 2143,
+		"rating_blitz": 2103
 	},
 	{
 		"fideid": 13006550,
@@ -2465,23 +2499,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13001817,
-		"name": "Han Min Soe",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1978,
-		"flag": "",
-		"rating_standard": 2052,
-		"rating_rapid": 2231,
-		"rating_blitz": 2119
-	},
-	{
 		"fideid": 13001531,
 		"name": "Su Neel",
 		"country": "MYA",
@@ -2648,7 +2665,7 @@
 		"birthday": 1989,
 		"flag": "i",
 		"rating_standard": 2047,
-		"rating_rapid": 2036,
+		"rating_rapid": 2058,
 		"rating_blitz": null
 	},
 	{
@@ -2720,6 +2737,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13002970,
+		"name": "May Hsu Lwin",
+		"country": "MYA",
+		"sex": "F",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1984,
+		"flag": "w",
+		"rating_standard": 2043,
+		"rating_rapid": 1996,
+		"rating_blitz": 2048
+	},
+	{
+		"fideid": 13022504,
+		"name": "Zar Ni Aung",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": 2043,
+		"rating_rapid": 1943,
+		"rating_blitz": 2132
+	},
+	{
 		"fideid": 13014900,
 		"name": "Zaw, Min Naing A",
 		"country": "MYA",
@@ -2767,7 +2818,7 @@
 		"birthday": 1987,
 		"flag": "",
 		"rating_standard": 2042,
-		"rating_rapid": 2021,
+		"rating_rapid": 2034,
 		"rating_blitz": null
 	},
 	{
@@ -2784,7 +2835,7 @@
 		"birthday": 1987,
 		"flag": "i",
 		"rating_standard": 2042,
-		"rating_rapid": 2068,
+		"rating_rapid": 2070,
 		"rating_blitz": null
 	},
 	{
@@ -2870,23 +2921,6 @@
 		"flag": "i",
 		"rating_standard": 2038,
 		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13008250,
-		"name": "Thein Htwe Naing",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1985,
-		"flag": "",
-		"rating_standard": 2037,
-		"rating_rapid": 2100,
 		"rating_blitz": null
 	},
 	{
@@ -3024,23 +3058,6 @@
 		"rating_standard": 2032,
 		"rating_rapid": 2022,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13002970,
-		"name": "May Hsu Lwin",
-		"country": "MYA",
-		"sex": "F",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1984,
-		"flag": "w",
-		"rating_standard": 2031,
-		"rating_rapid": 1996,
-		"rating_blitz": 2048
 	},
 	{
 		"fideid": 13005685,
@@ -3277,7 +3294,7 @@
 		"birthday": 1983,
 		"flag": "",
 		"rating_standard": 2024,
-		"rating_rapid": 1963,
+		"rating_rapid": 1961,
 		"rating_blitz": 2073
 	},
 	{
@@ -3417,23 +3434,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13022458,
-		"name": "Saw Aye Chan Min",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": 2019,
-		"rating_rapid": 1938,
-		"rating_blitz": 1972
-	},
-	{
 		"fideid": 13003330,
 		"name": "Aung Lin",
 		"country": "MYA",
@@ -3466,23 +3466,6 @@
 		"rating_standard": 2018,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13003682,
-		"name": "Aung Zaw Win Htike",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "",
-		"rating_standard": 2018,
-		"rating_rapid": 2038,
-		"rating_blitz": 2047
 	},
 	{
 		"fideid": 13003283,
@@ -3774,23 +3757,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13022504,
-		"name": "Zar Ni Aung",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "",
-		"rating_standard": 2008,
-		"rating_rapid": 1943,
-		"rating_blitz": 2132
-	},
-	{
 		"fideid": 13002279,
 		"name": "Kyaw Myint A",
 		"country": "MYA",
@@ -3823,23 +3789,6 @@
 		"rating_standard": 2007,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13003968,
-		"name": "Myo Kyaw Hlaing",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1971,
-		"flag": "",
-		"rating_standard": 2006,
-		"rating_rapid": 2114,
-		"rating_blitz": 2013
 	},
 	{
 		"fideid": 13004247,
@@ -4250,6 +4199,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13003895,
+		"name": "Moe Win Kyaw",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "",
+		"rating_standard": 1993,
+		"rating_rapid": 2042,
+		"rating_blitz": 2038
+	},
+	{
 		"fideid": 13004778,
 		"name": "Soe Naing Tun",
 		"country": "MYA",
@@ -4299,23 +4265,6 @@
 		"rating_standard": 1992,
 		"rating_rapid": 1909,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13000390,
-		"name": "Ko Ko Ohn",
-		"country": "MYA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 10,
-		"birthday": 1964,
-		"flag": "",
-		"rating_standard": 1991,
-		"rating_rapid": 1993,
-		"rating_blitz": 1954
 	},
 	{
 		"fideid": 13000349,
@@ -4437,6 +4386,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13003968,
+		"name": "Myo Kyaw Hlaing",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "",
+		"rating_standard": 1989,
+		"rating_rapid": 2114,
+		"rating_blitz": 2013
+	},
+	{
 		"fideid": 13003844,
 		"name": "Zwe Thura Aung",
 		"country": "MYA",
@@ -4452,6 +4418,23 @@
 		"rating_standard": 1989,
 		"rating_rapid": 1983,
 		"rating_blitz": 1981
+	},
+	{
+		"fideid": 13000390,
+		"name": "Ko Ko Ohn",
+		"country": "MYA",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 10,
+		"birthday": 1964,
+		"flag": "",
+		"rating_standard": 1988,
+		"rating_rapid": 1995,
+		"rating_blitz": 2001
 	},
 	{
 		"fideid": 13006770,
@@ -4603,7 +4586,7 @@
 		"birthday": 1983,
 		"flag": "i",
 		"rating_standard": 1985,
-		"rating_rapid": 1961,
+		"rating_rapid": 1969,
 		"rating_blitz": null
 	},
 	{
@@ -4826,23 +4809,6 @@
 		"rating_standard": 1981,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13004387,
-		"name": "Nay Win Aung",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1981,
-		"rating_rapid": 2129,
-		"rating_blitz": 2122
 	},
 	{
 		"fideid": 13000381,
@@ -5134,6 +5100,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13008250,
+		"name": "Thein Htwe Naing",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 20,
+		"birthday": 1985,
+		"flag": "",
+		"rating_standard": 1973,
+		"rating_rapid": 2100,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13010336,
 		"name": "Thurein Tun",
 		"country": "MYA",
@@ -5304,23 +5287,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13007998,
-		"name": "Thet Naing Win",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1973,
-		"flag": "",
-		"rating_standard": 1971,
-		"rating_rapid": 2074,
-		"rating_blitz": 2132
-	},
-	{
 		"fideid": 13014080,
 		"name": "Thiha Kyaw A",
 		"country": "MYA",
@@ -5423,23 +5389,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13003895,
-		"name": "Moe Win Kyaw",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "",
-		"rating_standard": 1969,
-		"rating_rapid": 2042,
-		"rating_blitz": 2038
-	},
-	{
 		"fideid": 13009958,
 		"name": "Nay Htet Min",
 		"country": "MYA",
@@ -5540,6 +5489,23 @@
 		"rating_standard": 1969,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13003682,
+		"name": "Aung Zaw Win Htike",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1971,
+		"flag": "",
+		"rating_standard": 1968,
+		"rating_rapid": 2038,
+		"rating_blitz": 2047
 	},
 	{
 		"fideid": 13017640,
@@ -5846,6 +5812,23 @@
 		"rating_standard": 1963,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13004387,
+		"name": "Nay Win Aung",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 1963,
+		"rating_rapid": 2129,
+		"rating_blitz": 2122
 	},
 	{
 		"fideid": 13007203,
@@ -6562,6 +6545,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13024930,
+		"name": "Nyan Lin Htin",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": 1950,
+		"rating_rapid": 1788,
+		"rating_blitz": 1710
+	},
+	{
 		"fideid": 13026810,
 		"name": "Ye Win Aung A",
 		"country": "MYA",
@@ -6677,7 +6677,7 @@
 		"birthday": 1973,
 		"flag": "",
 		"rating_standard": 1948,
-		"rating_rapid": 1971,
+		"rating_rapid": 1965,
 		"rating_blitz": null
 	},
 	{
@@ -6831,23 +6831,6 @@
 		"flag": "i",
 		"rating_standard": 1945,
 		"rating_rapid": 1940,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 13006541,
-		"name": "Win, Aung",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1970,
-		"flag": "",
-		"rating_standard": 1945,
-		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -7157,6 +7140,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13007998,
+		"name": "Thet Naing Win",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1973,
+		"flag": "",
+		"rating_standard": 1939,
+		"rating_rapid": 2076,
+		"rating_blitz": 2103
+	},
+	{
 		"fideid": 13004573,
 		"name": "Bhone Pyae Maung",
 		"country": "MYA",
@@ -7170,7 +7170,7 @@
 		"birthday": 1990,
 		"flag": "i",
 		"rating_standard": 1938,
-		"rating_rapid": null,
+		"rating_rapid": 1967,
 		"rating_blitz": null
 	},
 	{
@@ -7238,7 +7238,7 @@
 		"birthday": 1980,
 		"flag": "i",
 		"rating_standard": 1937,
-		"rating_rapid": 1986,
+		"rating_rapid": 1995,
 		"rating_blitz": null
 	},
 	{
@@ -7425,7 +7425,7 @@
 		"birthday": 1994,
 		"flag": "i",
 		"rating_standard": 1933,
-		"rating_rapid": 1872,
+		"rating_rapid": 1914,
 		"rating_blitz": null
 	},
 	{
@@ -7850,7 +7850,7 @@
 		"birthday": 1964,
 		"flag": "",
 		"rating_standard": 1926,
-		"rating_rapid": 1921,
+		"rating_rapid": 1904,
 		"rating_blitz": null
 	},
 	{
@@ -8037,7 +8037,7 @@
 		"birthday": 1979,
 		"flag": "i",
 		"rating_standard": 1924,
-		"rating_rapid": 1918,
+		"rating_rapid": 1908,
 		"rating_blitz": null
 	},
 	{
@@ -8224,7 +8224,7 @@
 		"birthday": 1967,
 		"flag": "",
 		"rating_standard": 1922,
-		"rating_rapid": null,
+		"rating_rapid": 1874,
 		"rating_blitz": null
 	},
 	{
@@ -8632,7 +8632,7 @@
 		"birthday": 1979,
 		"flag": "",
 		"rating_standard": 1913,
-		"rating_rapid": null,
+		"rating_rapid": 1933,
 		"rating_blitz": null
 	},
 	{
@@ -8831,7 +8831,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 1998,
 		"flag": "",
@@ -9027,6 +9027,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13006541,
+		"name": "Win, Aung",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1970,
+		"flag": "",
+		"rating_standard": 1903,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13015907,
 		"name": "Khun Sun Win",
 		"country": "MYA",
@@ -9195,23 +9212,6 @@
 		"rating_standard": 1898,
 		"rating_rapid": 1842,
 		"rating_blitz": 1843
-	},
-	{
-		"fideid": 13018248,
-		"name": "Aung Phone Maw",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2003,
-		"flag": "",
-		"rating_standard": 1896,
-		"rating_rapid": 1745,
-		"rating_blitz": 1853
 	},
 	{
 		"fideid": 13010891,
@@ -9554,23 +9554,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13024930,
-		"name": "Nyan Lin Htin",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "",
-		"rating_standard": 1886,
-		"rating_rapid": 1788,
-		"rating_blitz": 1710
-	},
-	{
 		"fideid": 13005200,
 		"name": "Thu Ya",
 		"country": "MYA",
@@ -9688,23 +9671,6 @@
 		"rating_standard": 1883,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13021630,
-		"name": "Hein Myat Thu",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1883,
-		"rating_rapid": 1819,
-		"rating_blitz": 1706
 	},
 	{
 		"fideid": 13024914,
@@ -10268,6 +10234,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13018248,
+		"name": "Aung Phone Maw",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 2003,
+		"flag": "",
+		"rating_standard": 1874,
+		"rating_rapid": 1745,
+		"rating_blitz": 1853
+	},
+	{
 		"fideid": 13028359,
 		"name": "Arkar Phyo",
 		"country": "MYA",
@@ -10417,7 +10400,7 @@
 		"birthday": 1980,
 		"flag": "",
 		"rating_standard": 1869,
-		"rating_rapid": 1862,
+		"rating_rapid": 1820,
 		"rating_blitz": null
 	},
 	{
@@ -10451,7 +10434,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1868,
-		"rating_rapid": 1669,
+		"rating_rapid": 1761,
 		"rating_blitz": 1559
 	},
 	{
@@ -10978,7 +10961,7 @@
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": 1854,
-		"rating_rapid": 1921,
+		"rating_rapid": 1924,
 		"rating_blitz": null
 	},
 	{
@@ -11131,7 +11114,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1853,
-		"rating_rapid": null,
+		"rating_rapid": 1835,
 		"rating_blitz": null
 	},
 	{
@@ -11573,7 +11556,7 @@
 		"birthday": 1953,
 		"flag": "i",
 		"rating_standard": 1838,
-		"rating_rapid": 1810,
+		"rating_rapid": 1807,
 		"rating_blitz": 1846
 	},
 	{
@@ -11713,23 +11696,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13018191,
-		"name": "Min Amarawatti",
-		"country": "MYA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "w",
-		"rating_standard": 1833,
-		"rating_rapid": 1588,
-		"rating_blitz": 1495
-	},
-	{
 		"fideid": 13007491,
 		"name": "Htet Aung",
 		"country": "MYA",
@@ -11847,23 +11813,6 @@
 		"rating_standard": 1828,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13004239,
-		"name": "Kyaw Zay Ya",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "i",
-		"rating_standard": 1828,
-		"rating_rapid": 1843,
-		"rating_blitz": 1961
 	},
 	{
 		"fideid": 13007335,
@@ -12083,7 +12032,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1822,
-		"rating_rapid": null,
+		"rating_rapid": 1816,
 		"rating_blitz": null
 	},
 	{
@@ -12153,6 +12102,23 @@
 		"rating_standard": 1821,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13021630,
+		"name": "Hein Myat Thu",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1821,
+		"rating_rapid": 1713,
+		"rating_blitz": 1706
 	},
 	{
 		"fideid": 13027107,
@@ -12282,7 +12248,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2007,
 		"flag": "",
@@ -12338,7 +12304,7 @@
 		"birthday": 1988,
 		"flag": "",
 		"rating_standard": 1818,
-		"rating_rapid": null,
+		"rating_rapid": 1919,
 		"rating_blitz": null
 	},
 	{
@@ -12355,7 +12321,7 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1817,
-		"rating_rapid": 2016,
+		"rating_rapid": 1892,
 		"rating_blitz": 1932
 	},
 	{
@@ -12967,7 +12933,7 @@
 		"birthday": 1988,
 		"flag": "",
 		"rating_standard": 1794,
-		"rating_rapid": 1926,
+		"rating_rapid": 1957,
 		"rating_blitz": null
 	},
 	{
@@ -13239,7 +13205,7 @@
 		"birthday": 1974,
 		"flag": "",
 		"rating_standard": 1783,
-		"rating_rapid": 1862,
+		"rating_rapid": 1847,
 		"rating_blitz": null
 	},
 	{
@@ -13379,23 +13345,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13024612,
-		"name": "Hpone Pyae Pai Mhu",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "i",
-		"rating_standard": 1777,
-		"rating_rapid": 1744,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 13016970,
 		"name": "Kyaw Si Hein",
 		"country": "MYA",
@@ -13460,7 +13409,7 @@
 		"birthday": 1972,
 		"flag": "",
 		"rating_standard": 1772,
-		"rating_rapid": null,
+		"rating_rapid": 1772,
 		"rating_blitz": null
 	},
 	{
@@ -13766,7 +13715,7 @@
 		"birthday": 1969,
 		"flag": "",
 		"rating_standard": 1760,
-		"rating_rapid": 1873,
+		"rating_rapid": 1798,
 		"rating_blitz": null
 	},
 	{
@@ -13783,7 +13732,7 @@
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": 1759,
-		"rating_rapid": 2009,
+		"rating_rapid": 1967,
 		"rating_blitz": null
 	},
 	{
@@ -13802,23 +13751,6 @@
 		"rating_standard": 1758,
 		"rating_rapid": 1736,
 		"rating_blitz": 1707
-	},
-	{
-		"fideid": 13026658,
-		"name": "Kaung Khant Nyi",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1758,
-		"rating_rapid": 1646,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13012215,
@@ -13870,23 +13802,6 @@
 		"rating_standard": 1756,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 13024710,
-		"name": "Phone Say Thaw",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "i",
-		"rating_standard": 1755,
-		"rating_rapid": 1638,
-		"rating_blitz": 1717
 	},
 	{
 		"fideid": 13017764,
@@ -13991,6 +13906,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13004239,
+		"name": "Kyaw Zay Ya",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1753,
+		"rating_rapid": 1825,
+		"rating_blitz": 1934
+	},
+	{
 		"fideid": 13010700,
 		"name": "Maung Myint",
 		"country": "MYA",
@@ -14076,6 +14008,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13018191,
+		"name": "Min Amarawatti",
+		"country": "MYA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "w",
+		"rating_standard": 1750,
+		"rating_rapid": 1621,
+		"rating_blitz": 1520
+	},
+	{
 		"fideid": 13004522,
 		"name": "Thet Htoo Aung",
 		"country": "MYA",
@@ -14106,7 +14055,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1750,
-		"rating_rapid": 1679,
+		"rating_rapid": 1707,
 		"rating_blitz": null
 	},
 	{
@@ -14229,6 +14178,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13024612,
+		"name": "Hpone Pyae Pai Mhu",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1741,
+		"rating_rapid": 1708,
+		"rating_blitz": 1711
+	},
+	{
 		"fideid": 13023870,
 		"name": "Zaw Win Hlaing",
 		"country": "MYA",
@@ -14322,12 +14288,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2002,
 		"flag": "",
 		"rating_standard": 1738,
-		"rating_rapid": 1665,
+		"rating_rapid": 1622,
 		"rating_blitz": 1777
 	},
 	{
@@ -14344,7 +14310,7 @@
 		"birthday": 1992,
 		"flag": "",
 		"rating_standard": 1737,
-		"rating_rapid": 1786,
+		"rating_rapid": 1747,
 		"rating_blitz": null
 	},
 	{
@@ -14446,7 +14412,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1733,
-		"rating_rapid": 1928,
+		"rating_rapid": 1900,
 		"rating_blitz": 1732
 	},
 	{
@@ -14531,7 +14497,7 @@
 		"birthday": 1986,
 		"flag": "",
 		"rating_standard": 1729,
-		"rating_rapid": null,
+		"rating_rapid": 1673,
 		"rating_blitz": 1800
 	},
 	{
@@ -14684,7 +14650,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1719,
-		"rating_rapid": 1555,
+		"rating_rapid": 1575,
 		"rating_blitz": null
 	},
 	{
@@ -14960,23 +14926,6 @@
 		"rating_blitz": 1485
 	},
 	{
-		"fideid": 13024752,
-		"name": "Toe Ghon Shein Linn",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1706,
-		"rating_rapid": 1609,
-		"rating_blitz": 1732
-	},
-	{
 		"fideid": 13012584,
 		"name": "Myo Nyunt A",
 		"country": "MYA",
@@ -15028,23 +14977,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13024540,
-		"name": "Bhone Sett Ti",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "i",
-		"rating_standard": 1701,
-		"rating_rapid": 1649,
-		"rating_blitz": 1548
-	},
-	{
 		"fideid": 13021702,
 		"name": "Khant Ti Kyi",
 		"country": "MYA",
@@ -15058,7 +14990,7 @@
 		"birthday": 2015,
 		"flag": "i",
 		"rating_standard": 1701,
-		"rating_rapid": 1658,
+		"rating_rapid": 1666,
 		"rating_blitz": 1658
 	},
 	{
@@ -15130,6 +15062,23 @@
 		"rating_blitz": 1727
 	},
 	{
+		"fideid": 13024710,
+		"name": "Phone Say Thaw",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1695,
+		"rating_rapid": 1666,
+		"rating_blitz": 1644
+	},
+	{
 		"fideid": 13015184,
 		"name": "R Yone Mhwe",
 		"country": "MYA",
@@ -15179,6 +15128,23 @@
 		"rating_standard": 1693,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13024752,
+		"name": "Toe Ghon Shein Linn",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1692,
+		"rating_rapid": 1585,
+		"rating_blitz": 1630
 	},
 	{
 		"fideid": 13030302,
@@ -15245,7 +15211,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1682,
-		"rating_rapid": 1664,
+		"rating_rapid": 1587,
 		"rating_blitz": 1512
 	},
 	{
@@ -15419,6 +15385,23 @@
 		"rating_blitz": 1608
 	},
 	{
+		"fideid": 13026658,
+		"name": "Kaung Khant Nyi",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1672,
+		"rating_rapid": 1627,
+		"rating_blitz": 1661
+	},
+	{
 		"fideid": 13024175,
 		"name": "Aung Kaung Khant A",
 		"country": "MYA",
@@ -15517,7 +15500,7 @@
 		"birthday": 1973,
 		"flag": "",
 		"rating_standard": 1667,
-		"rating_rapid": 1684,
+		"rating_rapid": 1655,
 		"rating_blitz": null
 	},
 	{
@@ -15942,7 +15925,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1636,
-		"rating_rapid": 1613,
+		"rating_rapid": 1598,
 		"rating_blitz": 1454
 	},
 	{
@@ -15997,23 +15980,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13024744,
-		"name": "Shwe Yee Poe Eaint",
-		"country": "MYA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1625,
-		"rating_rapid": 1486,
-		"rating_blitz": 1640
-	},
-	{
 		"fideid": 13026712,
 		"name": "Thet Hninn Khaine",
 		"country": "MYA",
@@ -16027,7 +15993,7 @@
 		"birthday": 1978,
 		"flag": "",
 		"rating_standard": 1624,
-		"rating_rapid": 1727,
+		"rating_rapid": 1778,
 		"rating_blitz": null
 	},
 	{
@@ -16039,13 +16005,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AGM",
-		"games": 3,
+		"games": 10,
 		"k": 20,
 		"birthday": 1984,
 		"flag": "",
-		"rating_standard": 1618,
-		"rating_rapid": 1673,
-		"rating_blitz": 1557
+		"rating_standard": 1621,
+		"rating_rapid": 1643,
+		"rating_blitz": 1608
 	},
 	{
 		"fideid": 13024990,
@@ -16184,23 +16150,6 @@
 		"rating_blitz": 1543
 	},
 	{
-		"fideid": 13024671,
-		"name": "May Mahar",
-		"country": "MYA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1601,
-		"rating_rapid": 1639,
-		"rating_blitz": 1506
-	},
-	{
 		"fideid": 13022989,
 		"name": "Myat Thiri May",
 		"country": "MYA",
@@ -16252,21 +16201,21 @@
 		"rating_blitz": 1645
 	},
 	{
-		"fideid": 13024701,
-		"name": "Paing Htoo Sett",
+		"fideid": 13024540,
+		"name": "Bhone Sett Ti",
 		"country": "MYA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
-		"birthday": 2016,
-		"flag": "i",
-		"rating_standard": 1593,
-		"rating_rapid": 1454,
-		"rating_blitz": 1459
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1591,
+		"rating_rapid": 1694,
+		"rating_blitz": 1482
 	},
 	{
 		"fideid": 13025058,
@@ -16284,23 +16233,6 @@
 		"rating_standard": 1587,
 		"rating_rapid": 1678,
 		"rating_blitz": 1594
-	},
-	{
-		"fideid": 13025511,
-		"name": "Myint Mho Thurein",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1586,
-		"rating_rapid": 1561,
-		"rating_blitz": 1560
 	},
 	{
 		"fideid": 13015001,
@@ -16367,8 +16299,8 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": 1579,
-		"rating_rapid": 1830,
-		"rating_blitz": 1861
+		"rating_rapid": 1852,
+		"rating_blitz": 1831
 	},
 	{
 		"fideid": 13023292,
@@ -16384,7 +16316,7 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1579,
-		"rating_rapid": 1611,
+		"rating_rapid": 1594,
 		"rating_blitz": 1665
 	},
 	{
@@ -16435,7 +16367,7 @@
 		"birthday": 2009,
 		"flag": "w",
 		"rating_standard": 1575,
-		"rating_rapid": 1575,
+		"rating_rapid": 1488,
 		"rating_blitz": 1539
 	},
 	{
@@ -16588,7 +16520,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1549,
-		"rating_rapid": null,
+		"rating_rapid": 1661,
 		"rating_blitz": null
 	},
 	{
@@ -16605,7 +16537,7 @@
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": 1549,
-		"rating_rapid": 1569,
+		"rating_rapid": 1532,
 		"rating_blitz": 1572
 	},
 	{
@@ -16656,7 +16588,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1545,
-		"rating_rapid": 1604,
+		"rating_rapid": 1633,
 		"rating_blitz": null
 	},
 	{
@@ -16724,25 +16656,25 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1534,
-		"rating_rapid": null,
+		"rating_rapid": 1501,
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13024590,
-		"name": "Bhone Pyae Thainkha",
+		"fideid": 13024701,
+		"name": "Paing Htoo Sett",
 		"country": "MYA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 6,
 		"k": 40,
-		"birthday": 2017,
+		"birthday": 2016,
 		"flag": "",
-		"rating_standard": 1528,
-		"rating_rapid": 1451,
-		"rating_blitz": 1541
+		"rating_standard": 1525,
+		"rating_rapid": 1426,
+		"rating_blitz": 1478
 	},
 	{
 		"fideid": 13028987,
@@ -16779,6 +16711,23 @@
 		"rating_blitz": 1419
 	},
 	{
+		"fideid": 13024744,
+		"name": "Shwe Yee Poe Eaint",
+		"country": "MYA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1524,
+		"rating_rapid": 1528,
+		"rating_blitz": 1550
+	},
+	{
 		"fideid": 13021613,
 		"name": "Eant Phone Shan",
 		"country": "MYA",
@@ -16794,6 +16743,23 @@
 		"rating_standard": 1519,
 		"rating_rapid": 1688,
 		"rating_blitz": 1543
+	},
+	{
+		"fideid": 13024671,
+		"name": "May Mahar",
+		"country": "MYA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1519,
+		"rating_rapid": 1552,
+		"rating_blitz": 1512
 	},
 	{
 		"fideid": 13014986,
@@ -16830,6 +16796,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13024590,
+		"name": "Bhone Pyae Thainkha",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1518,
+		"rating_rapid": 1459,
+		"rating_blitz": 1492
+	},
+	{
 		"fideid": 13025619,
 		"name": "Htoo Oakar Lwin",
 		"country": "MYA",
@@ -16843,7 +16826,7 @@
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": 1515,
-		"rating_rapid": 1522,
+		"rating_rapid": 1521,
 		"rating_blitz": null
 	},
 	{
@@ -17013,7 +16996,7 @@
 		"birthday": 2005,
 		"flag": "w",
 		"rating_standard": 1488,
-		"rating_rapid": 1515,
+		"rating_rapid": 1466,
 		"rating_blitz": 1441
 	},
 	{
@@ -17047,7 +17030,7 @@
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": 1479,
-		"rating_rapid": 1501,
+		"rating_rapid": 1507,
 		"rating_blitz": null
 	},
 	{
@@ -17059,7 +17042,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -17136,6 +17119,23 @@
 		"rating_blitz": 1444
 	},
 	{
+		"fideid": 13025511,
+		"name": "Myint Mho Thurein",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1455,
+		"rating_rapid": 1461,
+		"rating_blitz": 1440
+	},
+	{
 		"fideid": 13015095,
 		"name": "Zwe Naing Win",
 		"country": "MYA",
@@ -17178,7 +17178,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
@@ -17187,21 +17187,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 13028103,
-		"name": "Hpone Pyae Thar",
+		"fideid": 13024604,
+		"name": "Eaint Yoon Dra Mhu",
 		"country": "MYA",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 7,
 		"k": 40,
-		"birthday": 2018,
-		"flag": "",
-		"rating_standard": 1421,
-		"rating_rapid": 1486,
-		"rating_blitz": 1463
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": 1415,
+		"rating_rapid": null,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13026410,
@@ -17221,6 +17221,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13028103,
+		"name": "Hpone Pyae Thar",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 1,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "",
+		"rating_standard": 1409,
+		"rating_rapid": 1537,
+		"rating_blitz": 1475
+	},
+	{
 		"fideid": 13026305,
 		"name": "Aung Aung E",
 		"country": "MYA",
@@ -17235,6 +17252,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1832,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13028855,
+		"name": "Aung Bhone Myat",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1513,
 		"rating_blitz": null
 	},
 	{
@@ -17270,6 +17304,23 @@
 		"rating_standard": null,
 		"rating_rapid": 2200,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13029347,
+		"name": "Aung Khant",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2020,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1551,
+		"rating_blitz": 1532
 	},
 	{
 		"fideid": 13025422,
@@ -17317,7 +17368,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1982,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1833,
 		"rating_blitz": null
@@ -17442,6 +17493,23 @@
 		"rating_blitz": 1403
 	},
 	{
+		"fideid": 13028405,
+		"name": "Bo Bo Phyo",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1677,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13023934,
 		"name": "Bo Bo San",
 		"country": "MYA",
@@ -17491,23 +17559,6 @@
 		"rating_standard": null,
 		"rating_rapid": 1543,
 		"rating_blitz": 1502
-	},
-	{
-		"fideid": 13024604,
-		"name": "Eaint Yoon Dra Mhu",
-		"country": "MYA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1408,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 13022580,
@@ -17637,12 +17688,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1660,
+		"rating_rapid": 1664,
 		"rating_blitz": null
 	},
 	{
@@ -17722,7 +17773,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -17759,10 +17810,44 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1986,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1682,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 13030981,
+		"name": "Khant Htal Lin",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1621,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13028600,
+		"name": "Khant Lynn Htin",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1543,
+		"rating_blitz": 1481
 	},
 	{
 		"fideid": 13021710,
@@ -17816,6 +17901,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13031040,
+		"name": "Kyaw Bhone Thant",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1452,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13023764,
 		"name": "Kyaw Kyaw",
 		"country": "MYA",
@@ -17830,6 +17932,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1890,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13006754,
+		"name": "Kyaw Maung Maung Khin",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1968,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1783,
 		"rating_blitz": null
 	},
 	{
@@ -17861,9 +17980,26 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1980,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1793,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13030736,
+		"name": "Kyaw Swar Tun",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2005,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1843,
 		"rating_blitz": null
 	},
 	{
@@ -18020,6 +18156,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13028685,
+		"name": "Maung Naing A",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1974,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1734,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13027298,
 		"name": "May, Hsu Lwin",
 		"country": "MYA",
@@ -18037,6 +18190,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13026615,
+		"name": "Mg Mg Aung Khit",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1566,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13023993,
 		"name": "Min Aung Soe",
 		"country": "MYA",
@@ -18051,6 +18221,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1755,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13022628,
+		"name": "Min Khant Ko A",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2007,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1516,
 		"rating_blitz": null
 	},
 	{
@@ -18099,7 +18286,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1675,
 		"rating_blitz": null
@@ -18133,7 +18320,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1985,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1690,
 		"rating_blitz": null
@@ -18337,7 +18524,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1662,
 		"rating_blitz": null
@@ -18374,6 +18561,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1874,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 13031031,
+		"name": "Phyo Min San",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1569,
 		"rating_blitz": null
 	},
 	{
@@ -18425,7 +18629,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1472,
-		"rating_blitz": 1557
+		"rating_blitz": 1550
 	},
 	{
 		"fideid": 13030930,
@@ -18436,7 +18640,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -18456,7 +18660,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1635,
 		"rating_blitz": null
@@ -18473,7 +18677,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1971,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1977,
 		"rating_blitz": null
@@ -18511,6 +18715,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1466,
 		"rating_blitz": 1478
+	},
+	{
+		"fideid": 13028898,
+		"name": "Shin Thant Aung A",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1492,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 13019023,
@@ -18606,7 +18827,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "w",
@@ -18626,7 +18847,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1991,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1774,
 		"rating_blitz": null
@@ -18725,7 +18946,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
@@ -18742,7 +18963,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -18813,7 +19034,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2007,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1637,
 		"rating_blitz": null
@@ -19031,12 +19252,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 1966,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1748,
+		"rating_rapid": 1776,
 		"rating_blitz": null
 	},
 	{
@@ -19085,7 +19306,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1682,
 		"rating_blitz": 1645
@@ -19159,6 +19380,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 13031074,
+		"name": "Zaw Min Tun",
+		"country": "MYA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 1984,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1750,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 13028472,
 		"name": "Zaw Win P",
 		"country": "MYA",
@@ -19170,7 +19408,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1973,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1761,
 		"rating_blitz": null
@@ -19235,7 +19473,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
@@ -19252,7 +19490,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
@@ -19268,7 +19506,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 20,
 		"birthday": 2007,
@@ -19276,23 +19514,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1691
-	},
-	{
-		"fideid": 13029347,
-		"name": "Aung Khant",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2020,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1526
 	},
 	{
 		"fideid": 13030418,
@@ -19354,13 +19575,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1619
+		"rating_blitz": 1607
 	},
 	{
 		"fideid": 13030124,
@@ -19463,23 +19684,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1432
-	},
-	{
-		"fideid": 13028600,
-		"name": "Khant Lynn Htin",
-		"country": "MYA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1481
 	},
 	{
 		"fideid": 13030132,
@@ -19710,7 +19914,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "ACM",
 		"games": 0,
 		"k": 20,
 		"birthday": 2003,
