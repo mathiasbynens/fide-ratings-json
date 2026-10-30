@@ -1,22 +1,5 @@
 [
 	{
-		"fideid": 241000307,
-		"name": "Tasso Jayson",
-		"country": "VAN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1827,
-		"rating_rapid": null,
-		"rating_blitz": 1900
-	},
-	{
 		"fideid": 241000030,
 		"name": "Ellison, Jeremy",
 		"country": "VAN",
@@ -34,6 +17,23 @@
 		"rating_blitz": 2016
 	},
 	{
+		"fideid": 241000307,
+		"name": "Tasso Jayson",
+		"country": "VAN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1793,
+		"rating_rapid": null,
+		"rating_blitz": 1900
+	},
+	{
 		"fideid": 241000145,
 		"name": "Delrieu Pierre",
 		"country": "VAN",
@@ -42,11 +42,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 20,
 		"birthday": 2007,
 		"flag": "",
-		"rating_standard": 1731,
+		"rating_standard": 1737,
 		"rating_rapid": null,
 		"rating_blitz": 1553
 	},
@@ -99,7 +99,7 @@
 		"flag": "",
 		"rating_standard": 1653,
 		"rating_rapid": null,
-		"rating_blitz": 1426
+		"rating_blitz": 1420
 	},
 	{
 		"fideid": 241003268,
@@ -133,7 +133,7 @@
 		"flag": "",
 		"rating_standard": 1607,
 		"rating_rapid": null,
-		"rating_blitz": 1499
+		"rating_blitz": 1495
 	},
 	{
 		"fideid": 241000480,
@@ -221,6 +221,23 @@
 		"rating_blitz": 1540
 	},
 	{
+		"fideid": 241000137,
+		"name": "Delrieu, Marc",
+		"country": "VAN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1977,
+		"flag": "",
+		"rating_standard": 1582,
+		"rating_rapid": null,
+		"rating_blitz": 1655
+	},
+	{
 		"fideid": 241000099,
 		"name": "Zhitong Sean",
 		"country": "VAN",
@@ -235,7 +252,7 @@
 		"flag": "",
 		"rating_standard": 1580,
 		"rating_rapid": null,
-		"rating_blitz": 1809
+		"rating_blitz": 1807
 	},
 	{
 		"fideid": 241000161,
@@ -246,81 +263,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
-		"rating_standard": 1567,
+		"rating_standard": 1577,
 		"rating_rapid": null,
-		"rating_blitz": 1639
-	},
-	{
-		"fideid": 241000137,
-		"name": "Delrieu, Marc",
-		"country": "VAN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1977,
-		"flag": "",
-		"rating_standard": 1564,
-		"rating_rapid": null,
-		"rating_blitz": 1655
-	},
-	{
-		"fideid": 241000013,
-		"name": "Nompavos, Lesly",
-		"country": "VAN",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1999,
-		"flag": "",
-		"rating_standard": 1542,
-		"rating_rapid": null,
-		"rating_blitz": 1536
-	},
-	{
-		"fideid": 241000650,
-		"name": "Virelala Cinzia",
-		"country": "VAN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 1987,
-		"flag": "w",
-		"rating_standard": 1532,
-		"rating_rapid": null,
-		"rating_blitz": 1409
-	},
-	{
-		"fideid": 241003241,
-		"name": "Lukai Marguerite",
-		"country": "VAN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "w",
-		"rating_standard": 1531,
-		"rating_rapid": null,
-		"rating_blitz": null
+		"rating_blitz": 1638
 	},
 	{
 		"fideid": 241000129,
@@ -337,41 +286,24 @@
 		"flag": "",
 		"rating_standard": 1528,
 		"rating_rapid": null,
-		"rating_blitz": 1615
+		"rating_blitz": 1614
 	},
 	{
-		"fideid": 241000633,
-		"name": "Nasse Igor",
+		"fideid": 241000013,
+		"name": "Nompavos, Lesly",
 		"country": "VAN",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
-		"birthday": 1989,
+		"birthday": 1999,
 		"flag": "",
-		"rating_standard": 1512,
+		"rating_standard": 1527,
 		"rating_rapid": null,
-		"rating_blitz": 1525
-	},
-	{
-		"fideid": 241000153,
-		"name": "Delrieu Kaina",
-		"country": "VAN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2009,
-		"flag": "w",
-		"rating_standard": 1506,
-		"rating_rapid": null,
-		"rating_blitz": 1451
+		"rating_blitz": 1528
 	},
 	{
 		"fideid": 241003160,
@@ -387,6 +319,23 @@
 		"birthday": 1984,
 		"flag": "",
 		"rating_standard": 1495,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 241003241,
+		"name": "Lukai Marguerite",
+		"country": "VAN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": 1489,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -442,6 +391,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 241000633,
+		"name": "Nasse Igor",
+		"country": "VAN",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 1989,
+		"flag": "",
+		"rating_standard": 1474,
+		"rating_rapid": null,
+		"rating_blitz": 1532
+	},
+	{
 		"fideid": 241002415,
 		"name": "Morel Anatole",
 		"country": "VAN",
@@ -456,7 +422,41 @@
 		"flag": "",
 		"rating_standard": 1472,
 		"rating_rapid": null,
-		"rating_blitz": 1550
+		"rating_blitz": 1548
+	},
+	{
+		"fideid": 241000153,
+		"name": "Delrieu Kaina",
+		"country": "VAN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "w",
+		"rating_standard": 1461,
+		"rating_rapid": null,
+		"rating_blitz": 1451
+	},
+	{
+		"fideid": 241000650,
+		"name": "Virelala Cinzia",
+		"country": "VAN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 1987,
+		"flag": "w",
+		"rating_standard": 1460,
+		"rating_rapid": null,
+		"rating_blitz": 1409
 	},
 	{
 		"fideid": 241000226,
@@ -473,7 +473,7 @@
 		"flag": "w",
 		"rating_standard": 1456,
 		"rating_rapid": null,
-		"rating_blitz": 1464
+		"rating_blitz": 1460
 	},
 	{
 		"fideid": 241000200,
@@ -510,23 +510,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 241003233,
-		"name": "Enock Mathilde",
-		"country": "VAN",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "w",
-		"rating_standard": 1435,
-		"rating_rapid": null,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 241000340,
 		"name": "Nand Ishaan",
 		"country": "VAN",
@@ -541,7 +524,7 @@
 		"flag": "",
 		"rating_standard": 1426,
 		"rating_rapid": null,
-		"rating_blitz": 1524
+		"rating_blitz": 1513
 	},
 	{
 		"fideid": 241000293,
@@ -557,6 +540,23 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1423,
+		"rating_rapid": null,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 241003233,
+		"name": "Enock Mathilde",
+		"country": "VAN",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "w",
+		"rating_standard": 1406,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -589,7 +589,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1516
@@ -626,7 +626,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1588
+		"rating_blitz": 1579
 	},
 	{
 		"fideid": 241001931,
@@ -640,7 +640,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1982,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1743
@@ -660,7 +660,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1468
+		"rating_blitz": 1457
 	},
 	{
 		"fideid": 241000579,
@@ -711,7 +711,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1435
+		"rating_blitz": 1434
 	},
 	{
 		"fideid": 241000552,
@@ -728,7 +728,7 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1435
+		"rating_blitz": 1409
 	},
 	{
 		"fideid": 241001133,
@@ -742,7 +742,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1994,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1601
@@ -810,7 +810,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1437
@@ -861,7 +861,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1546

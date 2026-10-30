@@ -1,5 +1,22 @@
 [
 	{
+		"fideid": 12600580,
+		"name": "Anhwere, Bernard",
+		"country": "GHA",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 20,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 2005,
+		"rating_rapid": 1904,
+		"rating_blitz": 1895
+	},
+	{
 		"fideid": 12602256,
 		"name": "Amoako Philip Selikem Yao",
 		"country": "GHA",
@@ -8,13 +25,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1987,
 		"rating_rapid": 1943,
-		"rating_blitz": 2012
+		"rating_blitz": 2043
 	},
 	{
 		"fideid": 12600598,
@@ -32,23 +49,6 @@
 		"rating_standard": 1965,
 		"rating_rapid": 1903,
 		"rating_blitz": 1920
-	},
-	{
-		"fideid": 12600580,
-		"name": "Anhwere, Bernard",
-		"country": "GHA",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 1965,
-		"rating_rapid": 1891,
-		"rating_blitz": 1895
 	},
 	{
 		"fideid": 12602124,
@@ -85,23 +85,6 @@
 		"rating_blitz": 1893
 	},
 	{
-		"fideid": 12601330,
-		"name": "Fomevor, Cephas Clinton",
-		"country": "GHA",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1998,
-		"flag": "",
-		"rating_standard": 1926,
-		"rating_rapid": 1896,
-		"rating_blitz": 1929
-	},
-	{
 		"fideid": 12600784,
 		"name": "Ajavon, Anthony Obieni",
 		"country": "GHA",
@@ -117,6 +100,23 @@
 		"rating_standard": 1924,
 		"rating_rapid": 1864,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 12601330,
+		"name": "Fomevor, Cephas Clinton",
+		"country": "GHA",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1998,
+		"flag": "",
+		"rating_standard": 1923,
+		"rating_rapid": 1885,
+		"rating_blitz": 1929
 	},
 	{
 		"fideid": 12600407,
@@ -149,7 +149,7 @@
 		"birthday": 1989,
 		"flag": "",
 		"rating_standard": 1909,
-		"rating_rapid": 1921,
+		"rating_rapid": 1914,
 		"rating_blitz": 1900
 	},
 	{
@@ -178,12 +178,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 20,
 		"birthday": 1966,
 		"flag": "",
-		"rating_standard": 1905,
-		"rating_rapid": 1928,
+		"rating_standard": 1900,
+		"rating_rapid": 1903,
 		"rating_blitz": 1969
 	},
 	{
@@ -194,7 +194,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
+		"foa_title": "AIM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2002,
@@ -219,23 +219,6 @@
 		"rating_standard": 1866,
 		"rating_rapid": 1859,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 12602531,
-		"name": "Akpa Prince",
-		"country": "GHA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1855,
-		"rating_rapid": 1885,
-		"rating_blitz": 1843
 	},
 	{
 		"fideid": 12600750,
@@ -287,6 +270,23 @@
 		"rating_standard": 1850,
 		"rating_rapid": 1806,
 		"rating_blitz": 1844
+	},
+	{
+		"fideid": 12602531,
+		"name": "Akpa Prince",
+		"country": "GHA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1848,
+		"rating_rapid": 1862,
+		"rating_blitz": 1843
 	},
 	{
 		"fideid": 12600202,
@@ -438,7 +438,7 @@
 		"birthday": 2001,
 		"flag": "",
 		"rating_standard": 1811,
-		"rating_rapid": 1800,
+		"rating_rapid": 1881,
 		"rating_blitz": null
 	},
 	{
@@ -508,23 +508,6 @@
 		"rating_standard": 1804,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 12603287,
-		"name": "Loglo, Daniel",
-		"country": "GHA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2001,
-		"flag": "",
-		"rating_standard": 1799,
-		"rating_rapid": 1871,
-		"rating_blitz": 1784
 	},
 	{
 		"fideid": 12602736,
@@ -612,6 +595,23 @@
 		"rating_blitz": 1782
 	},
 	{
+		"fideid": 12603287,
+		"name": "Loglo, Daniel",
+		"country": "GHA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "",
+		"rating_standard": 1785,
+		"rating_rapid": 1871,
+		"rating_blitz": 1784
+	},
+	{
 		"fideid": 12601861,
 		"name": "Isaah Chief",
 		"country": "GHA",
@@ -644,23 +644,6 @@
 		"rating_standard": 1772,
 		"rating_rapid": 1698,
 		"rating_blitz": 1673
-	},
-	{
-		"fideid": 12604020,
-		"name": "Kingsley Kofi Ketor",
-		"country": "GHA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 8,
-		"k": 20,
-		"birthday": 1994,
-		"flag": "",
-		"rating_standard": 1768,
-		"rating_rapid": 1847,
-		"rating_blitz": 1745
 	},
 	{
 		"fideid": 12600881,
@@ -729,6 +712,23 @@
 		"rating_standard": 1760,
 		"rating_rapid": 1917,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 12604020,
+		"name": "Kingsley Kofi Ketor",
+		"country": "GHA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 20,
+		"birthday": 1994,
+		"flag": "",
+		"rating_standard": 1759,
+		"rating_rapid": 1847,
+		"rating_blitz": 1745
 	},
 	{
 		"fideid": 12602086,
@@ -850,6 +850,23 @@
 		"rating_blitz": 1702
 	},
 	{
+		"fideid": 12600857,
+		"name": "Benson, Maud",
+		"country": "GHA",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2001,
+		"flag": "w",
+		"rating_standard": 1737,
+		"rating_rapid": 1642,
+		"rating_blitz": 1645
+	},
+	{
 		"fideid": 12600903,
 		"name": "Okaitei, Christopher",
 		"country": "GHA",
@@ -892,12 +909,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
-		"rating_standard": 1733,
-		"rating_rapid": 1547,
+		"rating_standard": 1729,
+		"rating_rapid": 1570,
 		"rating_blitz": 1479
 	},
 	{
@@ -1077,7 +1094,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "SI",
 		"foa_title": "",
 		"games": 0,
 		"k": 20,
@@ -1120,23 +1137,6 @@
 		"rating_standard": 1700,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 12600857,
-		"name": "Benson, Maud",
-		"country": "GHA",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2001,
-		"flag": "w",
-		"rating_standard": 1699,
-		"rating_rapid": 1642,
-		"rating_blitz": 1645
 	},
 	{
 		"fideid": 12601225,
@@ -1252,7 +1252,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 1999,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1689,
 		"rating_rapid": null,
 		"rating_blitz": 1684
@@ -1428,23 +1428,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 12603570,
-		"name": "Gertrude Banini",
-		"country": "GHA",
-		"sex": "F",
-		"title": "WCM",
-		"w_title": "WCM",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1999,
-		"flag": "w",
-		"rating_standard": 1667,
-		"rating_rapid": 1601,
-		"rating_blitz": 1610
-	},
-	{
 		"fideid": 12600300,
 		"name": "Jaberl, Abdul Malik",
 		"country": "GHA",
@@ -1547,6 +1530,23 @@
 		"rating_blitz": 1705
 	},
 	{
+		"fideid": 12603570,
+		"name": "Gertrude Banini",
+		"country": "GHA",
+		"sex": "F",
+		"title": "WCM",
+		"w_title": "WCM",
+		"o_title": "SI,NA",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 1999,
+		"flag": "w",
+		"rating_standard": 1650,
+		"rating_rapid": 1601,
+		"rating_blitz": 1610
+	},
+	{
 		"fideid": 12603155,
 		"name": "Singh, Manoom",
 		"country": "GHA",
@@ -1560,7 +1560,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1640,
-		"rating_rapid": 1621,
+		"rating_rapid": 1690,
 		"rating_blitz": 1615
 	},
 	{
@@ -1730,7 +1730,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1616,
-		"rating_rapid": 1652,
+		"rating_rapid": 1630,
 		"rating_blitz": 1576
 	},
 	{
@@ -1810,11 +1810,11 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2001,
 		"flag": "w",
-		"rating_standard": 1597,
+		"rating_standard": 1606,
 		"rating_rapid": null,
 		"rating_blitz": null
 	},
@@ -1929,7 +1929,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 12,
+		"games": 0,
 		"k": 40,
 		"birthday": 2003,
 		"flag": "",
@@ -2159,6 +2159,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 12601470,
+		"name": "Dotse Dzidzor Esi",
+		"country": "GHA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1997,
+		"flag": "w",
+		"rating_standard": 1533,
+		"rating_rapid": 1472,
+		"rating_blitz": 1492
+	},
+	{
 		"fideid": 12603961,
 		"name": "Quashie-Sam,Semion James",
 		"country": "GHA",
@@ -2174,23 +2191,6 @@
 		"rating_standard": 1533,
 		"rating_rapid": null,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 12601470,
-		"name": "Dotse Dzidzor Esi",
-		"country": "GHA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1997,
-		"flag": "w",
-		"rating_standard": 1531,
-		"rating_rapid": 1472,
-		"rating_blitz": 1492
 	},
 	{
 		"fideid": 12602728,
@@ -2677,7 +2677,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1999,
 		"flag": "",
