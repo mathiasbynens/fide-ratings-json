@@ -8,13 +8,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 9,
 		"k": 10,
 		"birthday": 2006,
 		"flag": "",
-		"rating_standard": 2376,
+		"rating_standard": 2381,
 		"rating_rapid": 2312,
-		"rating_blitz": 2200
+		"rating_blitz": 2229
 	},
 	{
 		"fideid": 6200150,
@@ -59,7 +59,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
@@ -187,6 +187,23 @@
 		"rating_blitz": 2156
 	},
 	{
+		"fideid": 6205488,
+		"name": "Bodemar, Jonathan",
+		"country": "THA",
+		"sex": "M",
+		"title": "CM",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 2006,
+		"flag": "",
+		"rating_standard": 2181,
+		"rating_rapid": 2108,
+		"rating_blitz": 2146
+	},
+	{
 		"fideid": 6200400,
 		"name": "Siriwiyo, Sunthorn",
 		"country": "THA",
@@ -221,23 +238,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6205488,
-		"name": "Bodemar, Jonathan",
-		"country": "THA",
-		"sex": "M",
-		"title": "CM",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2006,
-		"flag": "",
-		"rating_standard": 2165,
-		"rating_rapid": 2108,
-		"rating_blitz": 2146
-	},
-	{
 		"fideid": 6200486,
 		"name": "Plengsap, Krisadayut",
 		"country": "THA",
@@ -268,8 +268,8 @@
 		"birthday": 1994,
 		"flag": "i",
 		"rating_standard": 2151,
-		"rating_rapid": 2139,
-		"rating_blitz": 2168
+		"rating_rapid": 2168,
+		"rating_blitz": 2188
 	},
 	{
 		"fideid": 6200109,
@@ -348,13 +348,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "",
 		"rating_standard": 2108,
-		"rating_rapid": 2160,
-		"rating_blitz": 2052
+		"rating_rapid": 2157,
+		"rating_blitz": 2049
 	},
 	{
 		"fideid": 6200273,
@@ -370,7 +370,7 @@
 		"birthday": 1959,
 		"flag": "i",
 		"rating_standard": 2102,
-		"rating_rapid": 2037,
+		"rating_rapid": 2023,
 		"rating_blitz": null
 	},
 	{
@@ -433,12 +433,12 @@
 		"w_title": "",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 17,
+		"games": 0,
 		"k": 20,
 		"birthday": 1998,
 		"flag": "",
 		"rating_standard": 2075,
-		"rating_rapid": 1943,
+		"rating_rapid": 1929,
 		"rating_blitz": 1989
 	},
 	{
@@ -612,23 +612,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6201083,
-		"name": "Wiwatanadate, Poompong",
-		"country": "THA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "IA",
-		"foa_title": "",
-		"games": 12,
-		"k": 20,
-		"birthday": 1990,
-		"flag": "",
-		"rating_standard": 2022,
-		"rating_rapid": 1940,
-		"rating_blitz": 1879
-	},
-	{
 		"fideid": 6200524,
 		"name": "Ekaworawong, Prayoon",
 		"country": "THA",
@@ -654,13 +637,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 1994,
 		"flag": "",
 		"rating_standard": 2004,
-		"rating_rapid": 2041,
+		"rating_rapid": 2060,
 		"rating_blitz": 1949
+	},
+	{
+		"fideid": 6201083,
+		"name": "Wiwatanadate, Poompong",
+		"country": "THA",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "IA",
+		"foa_title": "",
+		"games": 11,
+		"k": 20,
+		"birthday": 1990,
+		"flag": "",
+		"rating_standard": 2004,
+		"rating_rapid": 1940,
+		"rating_blitz": 1879
 	},
 	{
 		"fideid": 6208924,
@@ -676,8 +676,8 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 2002,
-		"rating_rapid": 1886,
-		"rating_blitz": 1857
+		"rating_rapid": 1959,
+		"rating_blitz": 1791
 	},
 	{
 		"fideid": 6204791,
@@ -710,8 +710,8 @@
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1996,
-		"rating_rapid": 1951,
-		"rating_blitz": 1957
+		"rating_rapid": 1968,
+		"rating_blitz": 1947
 	},
 	{
 		"fideid": 6200354,
@@ -1028,12 +1028,12 @@
 		"w_title": "WFM",
 		"o_title": "NA",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "w",
 		"rating_standard": 1950,
-		"rating_rapid": 1896,
+		"rating_rapid": 1872,
 		"rating_blitz": 1823
 	},
 	{
@@ -1152,7 +1152,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1933,
-		"rating_rapid": 1904,
+		"rating_rapid": 1916,
 		"rating_blitz": 1780
 	},
 	{
@@ -1402,12 +1402,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AIM",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1908,
-		"rating_rapid": 1930,
+		"rating_rapid": 1905,
 		"rating_blitz": 1838
 	},
 	{
@@ -1453,7 +1453,7 @@
 		"w_title": "",
 		"o_title": "FA",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 20,
 		"birthday": 1961,
 		"flag": "",
@@ -1494,6 +1494,23 @@
 		"rating_standard": 1893,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 6217680,
+		"name": "Liukasemsarn, Pakornnarong",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1891,
+		"rating_rapid": 2003,
+		"rating_blitz": 2023
 	},
 	{
 		"fideid": 6201261,
@@ -1628,8 +1645,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1874,
-		"rating_rapid": 1767,
-		"rating_blitz": 1696
+		"rating_rapid": 1801,
+		"rating_blitz": 1770
 	},
 	{
 		"fideid": 6200443,
@@ -1681,23 +1698,6 @@
 		"rating_standard": 1874,
 		"rating_rapid": 1938,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 6206654,
-		"name": "Bootsumran, Sirin",
-		"country": "THA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 9,
-		"k": 40,
-		"birthday": 2008,
-		"flag": "w",
-		"rating_standard": 1873,
-		"rating_rapid": 1632,
-		"rating_blitz": 1538
 	},
 	{
 		"fideid": 6203043,
@@ -1781,7 +1781,7 @@
 		"birthday": 1996,
 		"flag": "i",
 		"rating_standard": 1861,
-		"rating_rapid": 1807,
+		"rating_rapid": 1727,
 		"rating_blitz": null
 	},
 	{
@@ -1883,7 +1883,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1853,
-		"rating_rapid": 1820,
+		"rating_rapid": 1819,
 		"rating_blitz": 1771
 	},
 	{
@@ -1951,8 +1951,8 @@
 		"birthday": 1995,
 		"flag": "",
 		"rating_standard": 1838,
-		"rating_rapid": 1796,
-		"rating_blitz": 1797
+		"rating_rapid": 1792,
+		"rating_blitz": 1817
 	},
 	{
 		"fideid": 6207316,
@@ -2040,6 +2040,23 @@
 		"rating_blitz": 1798
 	},
 	{
+		"fideid": 6216323,
+		"name": "Siridanupath, Gavin",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1820,
+		"rating_rapid": 1889,
+		"rating_blitz": 1845
+	},
+	{
 		"fideid": 6202500,
 		"name": "Pratuengsukpong, Chitaporn",
 		"country": "THA",
@@ -2055,6 +2072,23 @@
 		"rating_standard": 1819,
 		"rating_rapid": 1759,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 6206654,
+		"name": "Bootsumran, Sirin",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "w",
+		"rating_standard": 1818,
+		"rating_rapid": 1684,
+		"rating_blitz": 1538
 	},
 	{
 		"fideid": 6204422,
@@ -2170,7 +2204,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1995,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1802,
 		"rating_rapid": 1705,
 		"rating_blitz": 1677
@@ -2223,7 +2257,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1800,
-		"rating_rapid": 1742,
+		"rating_rapid": 1812,
 		"rating_blitz": 1577
 	},
 	{
@@ -2269,13 +2303,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 14,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1797,
-		"rating_rapid": 1738,
-		"rating_blitz": 1784
+		"rating_rapid": 1760,
+		"rating_blitz": 1755
 	},
 	{
 		"fideid": 6205860,
@@ -2410,8 +2444,8 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1785,
-		"rating_rapid": 1856,
-		"rating_blitz": 1767
+		"rating_rapid": 1869,
+		"rating_blitz": 1826
 	},
 	{
 		"fideid": 6201032,
@@ -2497,23 +2531,6 @@
 		"rating_standard": 1782,
 		"rating_rapid": 1741,
 		"rating_blitz": 1686
-	},
-	{
-		"fideid": 6217680,
-		"name": "Liukasemsarn, Pakornnarong",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1778,
-		"rating_rapid": 1979,
-		"rating_blitz": 2052
 	},
 	{
 		"fideid": 6201318,
@@ -2635,6 +2652,23 @@
 		"rating_blitz": 1848
 	},
 	{
+		"fideid": 6214860,
+		"name": "Saenpoch, Kansak",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 20,
+		"birthday": 2000,
+		"flag": "",
+		"rating_standard": 1770,
+		"rating_rapid": 1629,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6214681,
 		"name": "Leksukhum, Torne",
 		"country": "THA",
@@ -2648,7 +2682,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1768,
-		"rating_rapid": 1825,
+		"rating_rapid": 1779,
 		"rating_blitz": 1726
 	},
 	{
@@ -2762,7 +2796,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2009,
 		"flag": "",
@@ -2839,23 +2873,6 @@
 		"rating_blitz": 1727
 	},
 	{
-		"fideid": 6229484,
-		"name": "Rueangrit, Canasorn",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": 1756,
-		"rating_rapid": null,
-		"rating_blitz": 1428
-	},
-	{
 		"fideid": 6204414,
 		"name": "Plakwongsirikul, Sakkaranant",
 		"country": "THA",
@@ -2869,7 +2886,7 @@
 		"birthday": 2004,
 		"flag": "i",
 		"rating_standard": 1754,
-		"rating_rapid": 1695,
+		"rating_rapid": 1714,
 		"rating_blitz": 1645
 	},
 	{
@@ -2958,23 +2975,6 @@
 		"rating_blitz": 1711
 	},
 	{
-		"fideid": 6214860,
-		"name": "Saenpoch, Kansak",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 2000,
-		"flag": "",
-		"rating_standard": 1745,
-		"rating_rapid": 1629,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 6208452,
 		"name": "Footrakul, Tiwat",
 		"country": "THA",
@@ -3056,7 +3056,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1738,
-		"rating_rapid": 1639,
+		"rating_rapid": 1665,
 		"rating_blitz": 1726
 	},
 	{
@@ -3213,6 +3213,23 @@
 		"rating_blitz": 1810
 	},
 	{
+		"fideid": 6229484,
+		"name": "Rueangrit, Canasorn",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": 1722,
+		"rating_rapid": 1554,
+		"rating_blitz": 1428
+	},
+	{
 		"fideid": 6201784,
 		"name": "Sakdavisarak, Komgrib",
 		"country": "THA",
@@ -3238,12 +3255,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1722,
-		"rating_rapid": 1704,
+		"rating_rapid": 1690,
 		"rating_blitz": 1902
 	},
 	{
@@ -3311,7 +3328,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1716,
-		"rating_rapid": 1629,
+		"rating_rapid": 1728,
 		"rating_blitz": 1762
 	},
 	{
@@ -3434,23 +3451,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6216323,
-		"name": "Siridanupath, Gavin",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1704,
-		"rating_rapid": 1847,
-		"rating_blitz": 1763
-	},
-	{
 		"fideid": 6223290,
 		"name": "Homsetnan, Tanatch",
 		"country": "THA",
@@ -3459,13 +3459,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AIM",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1702,
-		"rating_rapid": 1656,
-		"rating_blitz": 1710
+		"rating_rapid": 1784,
+		"rating_blitz": 1698
 	},
 	{
 		"fideid": 6212174,
@@ -3476,13 +3476,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 20,
 		"birthday": 2007,
 		"flag": "w",
 		"rating_standard": 1702,
-		"rating_rapid": 1705,
-		"rating_blitz": 1646
+		"rating_rapid": 1680,
+		"rating_blitz": 1690
 	},
 	{
 		"fideid": 6212395,
@@ -3651,8 +3651,8 @@
 		"birthday": 1969,
 		"flag": "i",
 		"rating_standard": 1690,
-		"rating_rapid": 1648,
-		"rating_blitz": 1878
+		"rating_rapid": 1676,
+		"rating_blitz": 1800
 	},
 	{
 		"fideid": 6201342,
@@ -3685,7 +3685,7 @@
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": 1685,
-		"rating_rapid": 1600,
+		"rating_rapid": 1655,
 		"rating_blitz": null
 	},
 	{
@@ -3704,6 +3704,23 @@
 		"rating_standard": 1684,
 		"rating_rapid": 1624,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 6218865,
+		"name": "Phetprom, Tanawat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2002,
+		"flag": "",
+		"rating_standard": 1684,
+		"rating_rapid": 1590,
+		"rating_blitz": 1674
 	},
 	{
 		"fideid": 6215050,
@@ -3770,7 +3787,7 @@
 		"birthday": 1945,
 		"flag": "",
 		"rating_standard": 1681,
-		"rating_rapid": 1597,
+		"rating_rapid": 1594,
 		"rating_blitz": 1673
 	},
 	{
@@ -3952,12 +3969,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1672,
-		"rating_rapid": 1571,
+		"rating_rapid": 1585,
 		"rating_blitz": 1575
 	},
 	{
@@ -4196,7 +4213,7 @@
 		"flag": "",
 		"rating_standard": 1665,
 		"rating_rapid": 1689,
-		"rating_blitz": 1607
+		"rating_blitz": 1707
 	},
 	{
 		"fideid": 6205712,
@@ -4280,7 +4297,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1657,
-		"rating_rapid": 1804,
+		"rating_rapid": 1758,
 		"rating_blitz": 1668
 	},
 	{
@@ -4301,6 +4318,23 @@
 		"rating_blitz": 1655
 	},
 	{
+		"fideid": 6220347,
+		"name": "Ruengjirachuporn, Chantat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": 1656,
+		"rating_rapid": 1759,
+		"rating_blitz": 1628
+	},
+	{
 		"fideid": 6223796,
 		"name": "Najai, Theeraphat",
 		"country": "THA",
@@ -4314,7 +4348,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1655,
-		"rating_rapid": 1540,
+		"rating_rapid": 1478,
 		"rating_blitz": 1473
 	},
 	{
@@ -4420,23 +4454,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6218865,
-		"name": "Phetprom, Tanawat",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2002,
-		"flag": "",
-		"rating_standard": 1643,
-		"rating_rapid": 1590,
-		"rating_blitz": 1674
-	},
-	{
 		"fideid": 6226256,
 		"name": "Surarangsiman, Aritat",
 		"country": "THA",
@@ -4520,6 +4537,23 @@
 		"rating_standard": 1637,
 		"rating_rapid": 1686,
 		"rating_blitz": 1684
+	},
+	{
+		"fideid": 6205178,
+		"name": "Chongstitwattana, Cholapat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "IA",
+		"foa_title": "AIM",
+		"games": 11,
+		"k": 20,
+		"birthday": 1981,
+		"flag": "",
+		"rating_standard": 1635,
+		"rating_rapid": 1624,
+		"rating_blitz": 1608
 	},
 	{
 		"fideid": 6203779,
@@ -4683,12 +4717,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1628,
-		"rating_rapid": 1641,
+		"rating_rapid": 1651,
 		"rating_blitz": 1516
 	},
 	{
@@ -4896,21 +4930,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6205178,
-		"name": "Chongstitwattana, Cholapat",
+		"fideid": 6230717,
+		"name": "Sirichatchai, Itchavit",
 		"country": "THA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "IA",
-		"foa_title": "AIM",
-		"games": 15,
-		"k": 20,
-		"birthday": 1981,
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
 		"flag": "",
-		"rating_standard": 1615,
-		"rating_rapid": 1624,
-		"rating_blitz": 1608
+		"rating_standard": 1616,
+		"rating_rapid": 1535,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 6209963,
@@ -4947,6 +4981,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 140244578,
+		"name": "Jeeradit, Metha",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 20,
+		"birthday": 1980,
+		"flag": "",
+		"rating_standard": 1614,
+		"rating_rapid": 1550,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6226477,
 		"name": "Wanudomdechachai, Pabhawarin",
 		"country": "THA",
@@ -4955,12 +5006,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1613,
-		"rating_rapid": 1517,
+		"rating_rapid": 1592,
 		"rating_blitz": 1443
 	},
 	{
@@ -5062,7 +5113,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1609,
-		"rating_rapid": 1436,
+		"rating_rapid": 1438,
 		"rating_blitz": 1408
 	},
 	{
@@ -5091,30 +5142,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1973,
 		"flag": "",
 		"rating_standard": 1609,
-		"rating_rapid": 1565,
-		"rating_blitz": 1597
-	},
-	{
-		"fideid": 6204015,
-		"name": "Seela, Prajuk",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1979,
-		"flag": "",
-		"rating_standard": 1608,
-		"rating_rapid": 1630,
-		"rating_blitz": 1674
+		"rating_rapid": 1523,
+		"rating_blitz": 1638
 	},
 	{
 		"fideid": 6204511,
@@ -5134,21 +5168,21 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 140244578,
-		"name": "Jeeradit, Metha",
+		"fideid": 6228020,
+		"name": "Koraviyotin, Archawin",
 		"country": "THA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1980,
-		"flag": "i",
-		"rating_standard": 1605,
-		"rating_rapid": 1548,
-		"rating_blitz": null
+		"foa_title": "AFM",
+		"games": 4,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "",
+		"rating_standard": 1604,
+		"rating_rapid": 1760,
+		"rating_blitz": 1694
 	},
 	{
 		"fideid": 6206697,
@@ -5198,7 +5232,7 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1604,
-		"rating_rapid": 1668,
+		"rating_rapid": 1601,
 		"rating_blitz": null
 	},
 	{
@@ -5249,7 +5283,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1603,
-		"rating_rapid": 1583,
+		"rating_rapid": 1563,
 		"rating_blitz": 1696
 	},
 	{
@@ -5268,23 +5302,6 @@
 		"rating_standard": 1603,
 		"rating_rapid": 1449,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 6220347,
-		"name": "Ruengjirachuporn, Chantat",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": 1603,
-		"rating_rapid": 1602,
-		"rating_blitz": 1622
 	},
 	{
 		"fideid": 6221262,
@@ -5317,7 +5334,7 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": 1602,
-		"rating_rapid": 1679,
+		"rating_rapid": 1672,
 		"rating_blitz": 1584
 	},
 	{
@@ -5346,12 +5363,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1601,
-		"rating_rapid": 1553,
+		"rating_rapid": 1545,
 		"rating_blitz": 1621
 	},
 	{
@@ -5380,13 +5397,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1601,
-		"rating_rapid": 1659,
-		"rating_blitz": 1546
+		"rating_rapid": 1815,
+		"rating_blitz": 1624
 	},
 	{
 		"fideid": 6204970,
@@ -5419,7 +5436,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1599,
-		"rating_rapid": 1603,
+		"rating_rapid": 1586,
 		"rating_blitz": 1613
 	},
 	{
@@ -5457,6 +5474,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6204015,
+		"name": "Seela, Prajuk",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 2,
+		"k": 20,
+		"birthday": 1979,
+		"flag": "",
+		"rating_standard": 1598,
+		"rating_rapid": 1630,
+		"rating_blitz": 1674
+	},
+	{
 		"fideid": 6200680,
 		"name": "Silalikhit, Jakkapan",
 		"country": "THA",
@@ -5470,7 +5504,7 @@
 		"birthday": 1966,
 		"flag": "i",
 		"rating_standard": 1598,
-		"rating_rapid": 1558,
+		"rating_rapid": 1554,
 		"rating_blitz": 1803
 	},
 	{
@@ -5487,7 +5521,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1598,
-		"rating_rapid": 1505,
+		"rating_rapid": 1643,
 		"rating_blitz": 1561
 	},
 	{
@@ -5550,12 +5584,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": 1595,
-		"rating_rapid": 1489,
+		"rating_rapid": 1482,
 		"rating_blitz": 1588
 	},
 	{
@@ -5601,7 +5635,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 20,
 		"birthday": 1992,
 		"flag": "w",
@@ -5640,7 +5674,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1592,
-		"rating_rapid": 1577,
+		"rating_rapid": 1595,
 		"rating_blitz": null
 	},
 	{
@@ -5725,8 +5759,8 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1588,
-		"rating_rapid": 1642,
-		"rating_blitz": 1580
+		"rating_rapid": 1603,
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 6208789,
@@ -5742,7 +5776,7 @@
 		"birthday": 2009,
 		"flag": "w",
 		"rating_standard": 1587,
-		"rating_rapid": 1650,
+		"rating_rapid": 1663,
 		"rating_blitz": 1494
 	},
 	{
@@ -5757,7 +5791,7 @@
 		"games": 0,
 		"k": 20,
 		"birthday": 1994,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1587,
 		"rating_rapid": 1569,
 		"rating_blitz": 1545
@@ -5791,7 +5825,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": 1584,
 		"rating_rapid": 1609,
 		"rating_blitz": 1673
@@ -5810,7 +5844,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1583,
-		"rating_rapid": 1648,
+		"rating_rapid": 1714,
 		"rating_blitz": 1529
 	},
 	{
@@ -5861,7 +5895,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1582,
-		"rating_rapid": 1580,
+		"rating_rapid": 1476,
 		"rating_blitz": null
 	},
 	{
@@ -5895,7 +5929,7 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1580,
-		"rating_rapid": 1474,
+		"rating_rapid": 1476,
 		"rating_blitz": null
 	},
 	{
@@ -5924,13 +5958,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1578,
-		"rating_rapid": 1649,
-		"rating_blitz": 1532
+		"rating_rapid": 1719,
+		"rating_blitz": 1568
 	},
 	{
 		"fideid": 6213618,
@@ -5946,25 +5980,25 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1578,
-		"rating_rapid": 1743,
-		"rating_blitz": 1760
+		"rating_rapid": 1804,
+		"rating_blitz": 1814
 	},
 	{
-		"fideid": 6228020,
-		"name": "Koraviyotin, Archawin",
+		"fideid": 6224628,
+		"name": "Laohakulvathit, Pontakorn",
 		"country": "THA",
 		"sex": "M",
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "AFM",
-		"games": 0,
+		"foa_title": "",
+		"games": 4,
 		"k": 40,
-		"birthday": 2019,
+		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1576,
-		"rating_rapid": 1746,
-		"rating_blitz": 1666
+		"rating_rapid": 1713,
+		"rating_blitz": 1608
 	},
 	{
 		"fideid": 6223613,
@@ -5980,8 +6014,8 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1576,
-		"rating_rapid": 1676,
-		"rating_blitz": 1584
+		"rating_rapid": 1637,
+		"rating_blitz": 1527
 	},
 	{
 		"fideid": 6214800,
@@ -6014,7 +6048,7 @@
 		"birthday": 2008,
 		"flag": "w",
 		"rating_standard": 1573,
-		"rating_rapid": 1522,
+		"rating_rapid": 1489,
 		"rating_blitz": null
 	},
 	{
@@ -6048,8 +6082,8 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1572,
-		"rating_rapid": 1609,
-		"rating_blitz": 1689
+		"rating_rapid": 1581,
+		"rating_blitz": 1633
 	},
 	{
 		"fideid": 6206603,
@@ -6094,7 +6128,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -6179,7 +6213,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 2001,
 		"flag": "",
@@ -6218,8 +6252,25 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1567,
-		"rating_rapid": 1692,
-		"rating_blitz": 1614
+		"rating_rapid": 1623,
+		"rating_blitz": 1625
+	},
+	{
+		"fideid": 6225780,
+		"name": "Chanwittayanuchit, Worakorn",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1567,
+		"rating_rapid": 1573,
+		"rating_blitz": 1477
 	},
 	{
 		"fideid": 6212336,
@@ -6235,7 +6286,7 @@
 		"birthday": 1998,
 		"flag": "i",
 		"rating_standard": 1566,
-		"rating_rapid": 1518,
+		"rating_rapid": 1480,
 		"rating_blitz": null
 	},
 	{
@@ -6337,25 +6388,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1564,
-		"rating_rapid": 1617,
+		"rating_rapid": 1627,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 6224628,
-		"name": "Laohakulvathit, Pontakorn",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
-		"rating_standard": 1564,
-		"rating_rapid": 1626,
-		"rating_blitz": 1608
 	},
 	{
 		"fideid": 6204694,
@@ -6392,23 +6426,6 @@
 		"rating_blitz": 1603
 	},
 	{
-		"fideid": 6225780,
-		"name": "Chanwittayanuchit, Worakorn",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1563,
-		"rating_rapid": 1408,
-		"rating_blitz": 1459
-	},
-	{
 		"fideid": 6207510,
 		"name": "Dadoung, Chanthanipa",
 		"country": "THA",
@@ -6439,7 +6456,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1563,
-		"rating_rapid": 1485,
+		"rating_rapid": 1462,
 		"rating_blitz": null
 	},
 	{
@@ -6456,7 +6473,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1563,
-		"rating_rapid": 1521,
+		"rating_rapid": 1585,
 		"rating_blitz": 1591
 	},
 	{
@@ -6475,6 +6492,23 @@
 		"rating_standard": 1563,
 		"rating_rapid": 1460,
 		"rating_blitz": 1594
+	},
+	{
+		"fideid": 6214665,
+		"name": "Kamolchotiros, Ava Yeap",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "w",
+		"rating_standard": 1562,
+		"rating_rapid": 1462,
+		"rating_blitz": 1487
 	},
 	{
 		"fideid": 6219799,
@@ -6558,7 +6592,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1555,
-		"rating_rapid": 1531,
+		"rating_rapid": 1512,
 		"rating_blitz": null
 	},
 	{
@@ -6740,12 +6774,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1549,
-		"rating_rapid": 1479,
+		"rating_rapid": 1481,
 		"rating_blitz": 1524
 	},
 	{
@@ -6766,6 +6800,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6230768,
+		"name": "Pimpisophol, Nattarat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2020,
+		"flag": "",
+		"rating_standard": 1548,
+		"rating_rapid": 1400,
+		"rating_blitz": 1508
+	},
+	{
 		"fideid": 6232647,
 		"name": "Songrit, Thanaphop",
 		"country": "THA",
@@ -6774,12 +6825,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": 1547,
-		"rating_rapid": 1436,
+		"rating_rapid": 1445,
 		"rating_blitz": 1488
 	},
 	{
@@ -6851,6 +6902,23 @@
 		"rating_blitz": 1609
 	},
 	{
+		"fideid": 6214010,
+		"name": "Jongatireklap, Wacharaphol",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "FA",
+		"foa_title": "",
+		"games": 5,
+		"k": 20,
+		"birthday": 1988,
+		"flag": "",
+		"rating_standard": 1545,
+		"rating_rapid": 1512,
+		"rating_blitz": 1548
+	},
+	{
 		"fideid": 6222196,
 		"name": "Sricharoen, Pore",
 		"country": "THA",
@@ -6919,23 +6987,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6214010,
-		"name": "Jongatireklap, Wacharaphol",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "FA",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1988,
-		"flag": "",
-		"rating_standard": 1541,
-		"rating_rapid": 1512,
-		"rating_blitz": 1548
-	},
-	{
 		"fideid": 6218644,
 		"name": "Choophan, Thumtiwat",
 		"country": "THA",
@@ -6983,7 +7034,7 @@
 		"birthday": 2011,
 		"flag": "w",
 		"rating_standard": 1539,
-		"rating_rapid": 1548,
+		"rating_rapid": 1603,
 		"rating_blitz": null
 	},
 	{
@@ -7051,7 +7102,7 @@
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": 1536,
-		"rating_rapid": 1452,
+		"rating_rapid": 1433,
 		"rating_blitz": null
 	},
 	{
@@ -7119,7 +7170,7 @@
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": 1533,
-		"rating_rapid": 1701,
+		"rating_rapid": 1691,
 		"rating_blitz": 1573
 	},
 	{
@@ -7153,8 +7204,8 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1532,
-		"rating_rapid": 1567,
-		"rating_blitz": 1504
+		"rating_rapid": 1687,
+		"rating_blitz": 1548
 	},
 	{
 		"fideid": 6209009,
@@ -7259,23 +7310,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6214665,
-		"name": "Kamolchotiros, Ava Yeap",
-		"country": "THA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "w",
-		"rating_standard": 1528,
-		"rating_rapid": 1504,
-		"rating_blitz": 1577
-	},
-	{
 		"fideid": 6207375,
 		"name": "Kajornmanee, Prin",
 		"country": "THA",
@@ -7324,7 +7358,7 @@
 		"flag": "",
 		"rating_standard": 1523,
 		"rating_rapid": 1551,
-		"rating_blitz": 1606
+		"rating_blitz": 1572
 	},
 	{
 		"fideid": 6207570,
@@ -7425,8 +7459,8 @@
 		"birthday": 2013,
 		"flag": "w",
 		"rating_standard": 1521,
-		"rating_rapid": 1580,
-		"rating_blitz": 1560
+		"rating_rapid": 1628,
+		"rating_blitz": 1538
 	},
 	{
 		"fideid": 6205518,
@@ -7555,13 +7589,13 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
-		"games": 5,
+		"foa_title": "AFM",
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1516,
-		"rating_rapid": 1424,
+		"rating_rapid": 1452,
 		"rating_blitz": 1546
 	},
 	{
@@ -7573,7 +7607,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 1991,
 		"flag": "w",
@@ -7612,7 +7646,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1514,
-		"rating_rapid": 1416,
+		"rating_rapid": 1516,
 		"rating_blitz": 1445
 	},
 	{
@@ -7629,7 +7663,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1512,
-		"rating_rapid": 1572,
+		"rating_rapid": 1600,
 		"rating_blitz": 1574
 	},
 	{
@@ -7731,7 +7765,7 @@
 		"birthday": 2009,
 		"flag": "",
 		"rating_standard": 1509,
-		"rating_rapid": 1456,
+		"rating_rapid": null,
 		"rating_blitz": null
 	},
 	{
@@ -7879,13 +7913,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1502,
-		"rating_rapid": 1439,
-		"rating_blitz": null
+		"rating_rapid": 1457,
+		"rating_blitz": 1531
 	},
 	{
 		"fideid": 6207294,
@@ -7969,8 +8003,25 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1497,
-		"rating_rapid": 1484,
+		"rating_rapid": 1490,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 6226876,
+		"name": "Taraphetsawad, Pasist",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": 1496,
+		"rating_rapid": 1606,
+		"rating_blitz": 1468
 	},
 	{
 		"fideid": 39909930,
@@ -7980,7 +8031,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
@@ -8003,8 +8054,8 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1493,
-		"rating_rapid": 1538,
-		"rating_blitz": 1540
+		"rating_rapid": 1659,
+		"rating_blitz": 1521
 	},
 	{
 		"fideid": 6226248,
@@ -8066,12 +8117,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1491,
-		"rating_rapid": 1441,
+		"rating_rapid": 1483,
 		"rating_blitz": null
 	},
 	{
@@ -8105,7 +8156,7 @@
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": 1491,
-		"rating_rapid": 1599,
+		"rating_rapid": 1593,
 		"rating_blitz": 1571
 	},
 	{
@@ -8139,7 +8190,7 @@
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": 1490,
-		"rating_rapid": 1523,
+		"rating_rapid": 1492,
 		"rating_blitz": 1498
 	},
 	{
@@ -8151,13 +8202,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1490,
-		"rating_rapid": 1520,
-		"rating_blitz": 1595
+		"rating_rapid": 1583,
+		"rating_blitz": 1587
 	},
 	{
 		"fideid": 6211593,
@@ -8207,7 +8258,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1489,
-		"rating_rapid": 1570,
+		"rating_rapid": 1591,
 		"rating_blitz": 1558
 	},
 	{
@@ -8224,7 +8275,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1489,
-		"rating_rapid": 1487,
+		"rating_rapid": 1484,
 		"rating_blitz": null
 	},
 	{
@@ -8326,7 +8377,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1486,
-		"rating_rapid": 1415,
+		"rating_rapid": 1439,
 		"rating_blitz": null
 	},
 	{
@@ -8360,8 +8411,8 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1485,
-		"rating_rapid": 1532,
-		"rating_blitz": 1515
+		"rating_rapid": 1464,
+		"rating_blitz": 1465
 	},
 	{
 		"fideid": 6206573,
@@ -8423,13 +8474,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 2,
+		"games": 0,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": 1484,
-		"rating_rapid": 1565,
-		"rating_blitz": 1544
+		"rating_rapid": 1648,
+		"rating_blitz": 1586
 	},
 	{
 		"fideid": 6207383,
@@ -8447,23 +8498,6 @@
 		"rating_standard": 1483,
 		"rating_rapid": 1479,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 6226876,
-		"name": "Taraphetsawad, Pasist",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": 1483,
-		"rating_rapid": 1589,
-		"rating_blitz": 1468
 	},
 	{
 		"fideid": 6210759,
@@ -8496,25 +8530,8 @@
 		"birthday": 2006,
 		"flag": "i",
 		"rating_standard": 1482,
-		"rating_rapid": 1550,
+		"rating_rapid": 1461,
 		"rating_blitz": 1468
-	},
-	{
-		"fideid": 6203914,
-		"name": "Pinphetsawan, Sirikwan",
-		"country": "THA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1993,
-		"flag": "w",
-		"rating_standard": 1481,
-		"rating_rapid": 1491,
-		"rating_blitz": 1673
 	},
 	{
 		"fideid": 6215220,
@@ -8585,21 +8602,21 @@
 		"rating_blitz": 1437
 	},
 	{
-		"fideid": 6221203,
-		"name": "Laogumnerd, Kritpithak",
+		"fideid": 6203914,
+		"name": "Pinphetsawan, Sirikwan",
 		"country": "THA",
-		"sex": "M",
+		"sex": "F",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2013,
-		"flag": "",
+		"games": 6,
+		"k": 20,
+		"birthday": 1993,
+		"flag": "w",
 		"rating_standard": 1479,
-		"rating_rapid": 1501,
-		"rating_blitz": null
+		"rating_rapid": 1491,
+		"rating_blitz": 1673
 	},
 	{
 		"fideid": 6217885,
@@ -8666,25 +8683,8 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1477,
-		"rating_rapid": 1496,
+		"rating_rapid": 1456,
 		"rating_blitz": null
-	},
-	{
-		"fideid": 6214916,
-		"name": "Kaveevorayan, Nichakarn",
-		"country": "THA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 20,
-		"birthday": 1992,
-		"flag": "w",
-		"rating_standard": 1476,
-		"rating_rapid": 1425,
-		"rating_blitz": 1441
 	},
 	{
 		"fideid": 6213995,
@@ -8729,7 +8729,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 1969,
 		"flag": "w",
@@ -8955,7 +8955,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1468,
-		"rating_rapid": 1629,
+		"rating_rapid": 1600,
 		"rating_blitz": null
 	},
 	{
@@ -9044,6 +9044,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6214916,
+		"name": "Kaveevorayan, Nichakarn",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 20,
+		"birthday": 1992,
+		"flag": "w",
+		"rating_standard": 1465,
+		"rating_rapid": 1425,
+		"rating_blitz": 1441
+	},
+	{
 		"fideid": 6217834,
 		"name": "Onggara, Hugh Ananta",
 		"country": "THA",
@@ -9125,7 +9142,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1463,
-		"rating_rapid": 1513,
+		"rating_rapid": 1542,
 		"rating_blitz": null
 	},
 	{
@@ -9159,7 +9176,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1461,
-		"rating_rapid": 1477,
+		"rating_rapid": 1465,
 		"rating_blitz": 1404
 	},
 	{
@@ -9193,7 +9210,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1460,
-		"rating_rapid": 1566,
+		"rating_rapid": 1540,
 		"rating_blitz": null
 	},
 	{
@@ -9248,6 +9265,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6220118,
+		"name": "Parnumats, Jetsadakorn",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": 1458,
+		"rating_rapid": 1565,
+		"rating_blitz": 1496
+	},
+	{
 		"fideid": 6217281,
 		"name": "Tangitvet, Permpetch",
 		"country": "THA",
@@ -9295,7 +9329,7 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1456,
-		"rating_rapid": 1551,
+		"rating_rapid": 1535,
 		"rating_blitz": 1449
 	},
 	{
@@ -9350,6 +9384,23 @@
 		"rating_blitz": 1687
 	},
 	{
+		"fideid": 6221203,
+		"name": "Laogumnerd, Kritpithak",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": 1454,
+		"rating_rapid": 1501,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6217370,
 		"name": "Luttakunaporn, Pichamon",
 		"country": "THA",
@@ -9380,8 +9431,8 @@
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": 1454,
-		"rating_rapid": null,
-		"rating_blitz": 1470
+		"rating_rapid": 1561,
+		"rating_blitz": 1456
 	},
 	{
 		"fideid": 6214851,
@@ -9414,7 +9465,7 @@
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": 1452,
-		"rating_rapid": 1546,
+		"rating_rapid": 1630,
 		"rating_blitz": 1467
 	},
 	{
@@ -9431,7 +9482,7 @@
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": 1452,
-		"rating_rapid": 1444,
+		"rating_rapid": 1533,
 		"rating_blitz": 1417
 	},
 	{
@@ -9499,8 +9550,25 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1447,
-		"rating_rapid": 1444,
-		"rating_blitz": 1425
+		"rating_rapid": 1510,
+		"rating_blitz": 1428
+	},
+	{
+		"fideid": 6228259,
+		"name": "Jongatireklap, Worapob",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 4,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": 1444,
+		"rating_rapid": 1518,
+		"rating_blitz": 1433
 	},
 	{
 		"fideid": 6204260,
@@ -9894,23 +9962,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6222080,
-		"name": "Ruengjirachuporn, Nantat",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 2,
-		"k": 40,
-		"birthday": 2019,
-		"flag": "",
-		"rating_standard": 1429,
-		"rating_rapid": 1530,
-		"rating_blitz": 1422
-	},
-	{
 		"fideid": 6222510,
 		"name": "Sakchai, Siripimon",
 		"country": "THA",
@@ -10060,7 +10111,7 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1424,
-		"rating_rapid": 1554,
+		"rating_rapid": 1604,
 		"rating_blitz": 1532
 	},
 	{
@@ -10079,23 +10130,6 @@
 		"rating_standard": 1423,
 		"rating_rapid": 1569,
 		"rating_blitz": 1550
-	},
-	{
-		"fideid": 6228259,
-		"name": "Jongatireklap, Worapob",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2010,
-		"flag": "",
-		"rating_standard": 1423,
-		"rating_rapid": 1492,
-		"rating_blitz": null
 	},
 	{
 		"fideid": 6207260,
@@ -10128,7 +10162,7 @@
 		"birthday": 2008,
 		"flag": "i",
 		"rating_standard": 1422,
-		"rating_rapid": 1498,
+		"rating_rapid": 1506,
 		"rating_blitz": 1459
 	},
 	{
@@ -10162,7 +10196,7 @@
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": 1421,
-		"rating_rapid": 1490,
+		"rating_rapid": 1565,
 		"rating_blitz": null
 	},
 	{
@@ -10174,7 +10208,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
@@ -10217,23 +10251,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6220118,
-		"name": "Parnumats, Jetsadakorn",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 3,
-		"k": 40,
-		"birthday": 2012,
-		"flag": "",
-		"rating_standard": 1419,
-		"rating_rapid": 1570,
-		"rating_blitz": 1496
-	},
-	{
 		"fideid": 6217915,
 		"name": "Pinpraserd, Tanawat",
 		"country": "THA",
@@ -10264,8 +10281,8 @@
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": 1418,
-		"rating_rapid": 1524,
-		"rating_blitz": null
+		"rating_rapid": 1433,
+		"rating_blitz": 1510
 	},
 	{
 		"fideid": 6219047,
@@ -10298,8 +10315,8 @@
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": 1417,
-		"rating_rapid": 1491,
-		"rating_blitz": 1444
+		"rating_rapid": 1462,
+		"rating_blitz": 1410
 	},
 	{
 		"fideid": 6212166,
@@ -10317,6 +10334,23 @@
 		"rating_standard": 1416,
 		"rating_rapid": 1419,
 		"rating_blitz": 1540
+	},
+	{
+		"fideid": 6222080,
+		"name": "Ruengjirachuporn, Nantat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 3,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "",
+		"rating_standard": 1416,
+		"rating_rapid": 1614,
+		"rating_blitz": 1402
 	},
 	{
 		"fideid": 6221998,
@@ -10349,7 +10383,7 @@
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": 1415,
-		"rating_rapid": 1446,
+		"rating_rapid": 1443,
 		"rating_blitz": null
 	},
 	{
@@ -10366,8 +10400,8 @@
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": 1414,
-		"rating_rapid": 1499,
-		"rating_blitz": 1491
+		"rating_rapid": 1473,
+		"rating_blitz": 1457
 	},
 	{
 		"fideid": 6204708,
@@ -10497,12 +10531,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2019,
 		"flag": "w",
 		"rating_standard": 1408,
-		"rating_rapid": 1454,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -10710,6 +10744,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6228470,
+		"name": "Akarawaris, Parin",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 14,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1491,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6226108,
 		"name": "Anecksamphant, Thee",
 		"country": "THA",
@@ -10718,12 +10769,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 3,
+		"games": 7,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1505,
+		"rating_rapid": 1468,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6226116,
+		"name": "Anecksamphant, Thien",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 13,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1478,
 		"rating_blitz": null
 	},
 	{
@@ -10863,6 +10931,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6236537,
+		"name": "Binprathan, Karmanee",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1448,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6219748,
 		"name": "Bodeetorn, Sutcharit",
 		"country": "THA",
@@ -10922,7 +11007,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -10973,7 +11058,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
+		"games": 0,
 		"k": 40,
 		"birthday": 1988,
 		"flag": "",
@@ -10997,6 +11082,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1614,
 		"rating_blitz": 1612
+	},
+	{
+		"fideid": 6235921,
+		"name": "Bunmak, Anaphat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2010,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1734,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 6233716,
@@ -11058,7 +11160,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -11109,7 +11211,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -11126,12 +11228,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 3,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1514,
+		"rating_rapid": 1476,
 		"rating_blitz": null
 	},
 	{
@@ -11214,7 +11316,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1463,
 		"rating_blitz": null
@@ -11245,12 +11347,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 11,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1493,
+		"rating_rapid": 1545,
 		"rating_blitz": 1548
 	},
 	{
@@ -11330,7 +11432,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
@@ -11353,6 +11455,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1463,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6236928,
+		"name": "Cherdchoo, Krissadakorn",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2004,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1466,
 		"rating_blitz": null
 	},
 	{
@@ -11492,6 +11611,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6230571,
+		"name": "Chotchompoo, Pollakrit",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1478,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6220053,
 		"name": "Chotibut, Natthasit",
 		"country": "THA",
@@ -11506,6 +11642,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1504,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6232116,
+		"name": "Chuadchaiyaphum, Punchaya",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1526,
 		"rating_blitz": null
 	},
 	{
@@ -11534,12 +11687,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 8,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1525,
+		"rating_rapid": 1440,
 		"rating_blitz": null
 	},
 	{
@@ -11551,7 +11704,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -11568,12 +11721,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 7,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1492,
+		"rating_rapid": 1448,
 		"rating_blitz": null
 	},
 	{
@@ -11585,12 +11738,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 11,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1556,
+		"rating_rapid": 1619,
 		"rating_blitz": null
 	},
 	{
@@ -11605,9 +11758,26 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1517,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6224245,
+		"name": "Daorueng, Dawn",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -11619,12 +11789,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 5,
 		"k": 40,
 		"birthday": 2018,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1530,
+		"rating_rapid": 1526,
 		"rating_blitz": null
 	},
 	{
@@ -11636,12 +11806,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 7,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1436,
+		"rating_rapid": 1451,
 		"rating_blitz": null
 	},
 	{
@@ -11653,12 +11823,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
+		"games": 12,
+		"k": 20,
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1611,
+		"rating_rapid": 1668,
 		"rating_blitz": null
 	},
 	{
@@ -11676,6 +11846,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1480,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6217389,
+		"name": "Ekthaweewat, Prathapon",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1446,
 		"rating_blitz": null
 	},
 	{
@@ -11747,23 +11934,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6232434,
-		"name": "guntawong, Norapat",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 7,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1479,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 6227066,
 		"name": "Hemhong, Kongkidakorn",
 		"country": "THA",
@@ -11775,7 +11945,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2003,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1560,
 		"rating_blitz": null
@@ -11823,7 +11993,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
@@ -11840,7 +12010,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
@@ -11857,12 +12027,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1404,
+		"rating_rapid": 1405,
 		"rating_blitz": 1432
 	},
 	{
@@ -11945,7 +12115,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2014,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1460,
 		"rating_blitz": null
@@ -11959,7 +12129,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "",
@@ -11976,13 +12146,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1412,
-		"rating_blitz": null
+		"rating_rapid": 1406,
+		"rating_blitz": 1478
 	},
 	{
 		"fideid": 6201598,
@@ -12002,6 +12172,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6234135,
+		"name": "Janthong, Pawat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1466,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6229859,
+		"name": "Janya-Anurak, Anan",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2020,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1414,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6224946,
 		"name": "Jarasyingdamrong, Athiwat",
 		"country": "THA",
@@ -12013,7 +12217,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2017,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1433,
 		"rating_blitz": null
@@ -12044,7 +12248,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 1996,
 		"flag": "",
@@ -12078,7 +12282,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -12146,12 +12350,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1417,
+		"rating_rapid": 1405,
 		"rating_blitz": null
 	},
 	{
@@ -12197,13 +12401,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1408,
-		"rating_blitz": null
+		"rating_rapid": 1484,
+		"rating_blitz": 1489
 	},
 	{
 		"fideid": 6218318,
@@ -12248,12 +12452,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 8,
 		"k": 40,
 		"birthday": 2011,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1427,
+		"rating_rapid": 1456,
 		"rating_blitz": null
 	},
 	{
@@ -12282,7 +12486,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "w",
@@ -12367,12 +12571,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1506,
+		"rating_rapid": 1438,
 		"rating_blitz": null
 	},
 	{
@@ -12410,6 +12614,23 @@
 		"rating_blitz": 1458
 	},
 	{
+		"fideid": 6235905,
+		"name": "Kanjanaruangroj, Karinnat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1506,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6229026,
 		"name": "Kanokrattanangkul, Pakanut",
 		"country": "THA",
@@ -12421,9 +12642,26 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1486,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6236146,
+		"name": "Kaokaen, Sanhanat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1452,
 		"rating_blitz": null
 	},
 	{
@@ -12503,7 +12741,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 10,
+		"games": 0,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
@@ -12588,12 +12826,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1492,
+		"rating_rapid": 1499,
 		"rating_blitz": 1469
 	},
 	{
@@ -12612,6 +12850,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1425,
 		"rating_blitz": 1413
+	},
+	{
+		"fideid": 6216153,
+		"name": "Khamma, Phichayarat",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1528,
+		"rating_blitz": 1562
 	},
 	{
 		"fideid": 6226078,
@@ -12690,7 +12945,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
@@ -12707,30 +12962,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 17,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1475,
-		"rating_blitz": 1407
-	},
-	{
-		"fideid": 6221858,
-		"name": "Kijkamjai, Kannaphat",
-		"country": "THA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2018,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": 1422,
-		"rating_blitz": 1467
+		"rating_rapid": 1547,
+		"rating_blitz": 1502
 	},
 	{
 		"fideid": 6219993,
@@ -12747,6 +12985,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1488,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6222641,
+		"name": "Kitteshin, Tharitada",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1507,
 		"rating_blitz": null
 	},
 	{
@@ -12829,9 +13084,26 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1559,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6232701,
+		"name": "Koouharattanachai, Anawin",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1467,
 		"rating_blitz": null
 	},
 	{
@@ -12914,7 +13186,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1624,
 		"rating_blitz": 1694
@@ -12962,12 +13234,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 6,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1452,
+		"rating_rapid": 1431,
 		"rating_blitz": null
 	},
 	{
@@ -12985,6 +13257,23 @@
 		"flag": "w",
 		"rating_standard": null,
 		"rating_rapid": 1613,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6234577,
+		"name": "Kuruprecharak, Athit",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1447,
 		"rating_blitz": null
 	},
 	{
@@ -13067,7 +13356,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1614,
 		"rating_blitz": null
@@ -13098,12 +13387,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "ACM",
-		"games": 3,
+		"games": 8,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1509,
+		"rating_rapid": 1465,
 		"rating_blitz": null
 	},
 	{
@@ -13115,12 +13404,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 12,
 		"k": 20,
 		"birthday": 2004,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1689,
+		"rating_rapid": 1704,
 		"rating_blitz": 1741
 	},
 	{
@@ -13149,12 +13438,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 3,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1489,
+		"rating_rapid": 1435,
 		"rating_blitz": null
 	},
 	{
@@ -13209,6 +13498,23 @@
 		"rating_blitz": 1493
 	},
 	{
+		"fideid": 6227260,
+		"name": "Likitkarnpaiboon, Pannakrit",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1488,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6219462,
 		"name": "Limapornvanich, Thanakorn",
 		"country": "THA",
@@ -13217,7 +13523,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 1,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -13258,6 +13564,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1591,
 		"rating_blitz": 1474
+	},
+	{
+		"fideid": 6226620,
+		"name": "Liukasemsarn, Chananpat",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1468,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 6205739,
@@ -13387,12 +13710,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 11,
+		"games": 10,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1579,
+		"rating_rapid": 1523,
 		"rating_blitz": null
 	},
 	{
@@ -13421,13 +13744,30 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1528,
-		"rating_blitz": 1540
+		"rating_blitz": 1494
+	},
+	{
+		"fideid": 6216820,
+		"name": "Mekiyanon, Naphat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 11,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1577,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 6216714,
@@ -13441,7 +13781,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2006,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1543,
 		"rating_blitz": 1639
@@ -13532,23 +13872,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6209297,
-		"name": "Naksupan, Cholchat",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 5,
-		"k": 40,
-		"birthday": 2007,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1447,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 6224130,
 		"name": "Namahoot, Thirat",
 		"country": "THA",
@@ -13557,12 +13880,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
+		"games": 10,
+		"k": 20,
 		"birthday": 2003,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1544,
+		"rating_rapid": 1545,
 		"rating_blitz": null
 	},
 	{
@@ -13591,7 +13914,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -13617,6 +13940,23 @@
 		"rating_blitz": 1649
 	},
 	{
+		"fideid": 6229131,
+		"name": "Nituthorn, Saengtai",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1419,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6233554,
 		"name": "Niyom, Suphakon",
 		"country": "THA",
@@ -13631,23 +13971,6 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1492,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 6225195,
-		"name": "Nuchsri, Dron",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1404,
 		"rating_blitz": null
 	},
 	{
@@ -13666,6 +13989,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1408,
 		"rating_blitz": 1614
+	},
+	{
+		"fideid": 6235808,
+		"name": "Nuomto, Kaveewat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 12,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1443,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 6225772,
@@ -13770,6 +14110,23 @@
 		"rating_blitz": 1487
 	},
 	{
+		"fideid": 6232060,
+		"name": "Panichwisai, Tee",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1496,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6220592,
 		"name": "Panjavongroj, Athit",
 		"country": "THA",
@@ -13784,6 +14141,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1471,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6236847,
+		"name": "Pansakorn, Boonyakorn",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1512,
 		"rating_blitz": null
 	},
 	{
@@ -13863,7 +14237,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
@@ -13948,13 +14322,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 10,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1599,
-		"rating_blitz": null
+		"rating_rapid": 1628,
+		"rating_blitz": 1586
 	},
 	{
 		"fideid": 6217508,
@@ -14025,6 +14399,23 @@
 		"rating_blitz": 1628
 	},
 	{
+		"fideid": 6231306,
+		"name": "Phuetthanyakij, Phakkharaphakin",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2020,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1454,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6222366,
 		"name": "Phungyoi, Nathanapong",
 		"country": "THA",
@@ -14059,23 +14450,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6230768,
-		"name": "Pimpisophol, Nattarat",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 6,
-		"k": 40,
-		"birthday": 2020,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1412,
-		"rating_blitz": 1508
-	},
-	{
 		"fideid": 6203728,
 		"name": "Pimviriyakul, Pye",
 		"country": "THA",
@@ -14090,6 +14464,23 @@
 		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1602,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6227473,
+		"name": "Pitcharan, Siranat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 18,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1555,
 		"rating_blitz": null
 	},
 	{
@@ -14169,7 +14560,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 20,
 		"birthday": 1978,
 		"flag": "",
@@ -14192,6 +14583,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1438,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6232213,
+		"name": "Potaya, Naphat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 5,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1505,
 		"rating_blitz": null
 	},
 	{
@@ -14263,6 +14671,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6235255,
+		"name": "Promma, Kittikawin",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1456,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6207790,
 		"name": "Pruksanubal, Supasit",
 		"country": "THA",
@@ -14288,13 +14713,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 10,
 		"k": 40,
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1694,
-		"rating_blitz": null
+		"rating_rapid": 1580,
+		"rating_blitz": 1583
 	},
 	{
 		"fideid": 6224750,
@@ -14331,6 +14756,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6218539,
+		"name": "Puranitee, Chayapong",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1553,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6223648,
 		"name": "Puripatthanawong, Patipat",
 		"country": "THA",
@@ -14339,47 +14781,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 11,
 		"k": 20,
 		"birthday": 2005,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1593,
+		"rating_rapid": 1602,
 		"rating_blitz": 1630
-	},
-	{
-		"fideid": 6225543,
-		"name": "Puriphetha, Tewis",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2014,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1505,
-		"rating_blitz": null
-	},
-	{
-		"fideid": 6227651,
-		"name": "Puthidawat, Nakhun",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2017,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1419,
-		"rating_blitz": 1413
 	},
 	{
 		"fideid": 6227937,
@@ -14512,7 +14920,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2011,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1429,
 		"rating_blitz": null
@@ -14526,13 +14934,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 11,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1751,
-		"rating_blitz": 1553
+		"rating_rapid": 1620,
+		"rating_blitz": 1500
 	},
 	{
 		"fideid": 6226515,
@@ -14563,7 +14971,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1424,
 		"rating_blitz": null
@@ -14594,7 +15002,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "w",
@@ -14611,7 +15019,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2004,
 		"flag": "w",
@@ -14716,7 +15124,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1542,
 		"rating_blitz": null
@@ -14787,6 +15195,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1497,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6232906,
+		"name": "Saengtrakulcharoen, Apibhu",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1429,
 		"rating_blitz": null
 	},
 	{
@@ -14866,7 +15291,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 1986,
 		"flag": "",
@@ -14968,12 +15393,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
+		"games": 10,
+		"k": 20,
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1543,
+		"rating_rapid": 1501,
 		"rating_blitz": 1605
 	},
 	{
@@ -15053,7 +15478,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "",
@@ -15198,23 +15623,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 6230717,
-		"name": "Sirichatchai, Itchavit",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2011,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1528,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 6224059,
 		"name": "Siridanupath, Arisa",
 		"country": "THA",
@@ -15226,7 +15634,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2016,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1401,
 		"rating_blitz": 1421
@@ -15277,7 +15685,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1549,
 		"rating_blitz": null
@@ -15291,12 +15699,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 2,
+		"games": 10,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1641,
+		"rating_rapid": 1551,
 		"rating_blitz": 1544
 	},
 	{
@@ -15315,6 +15723,23 @@
 		"rating_standard": null,
 		"rating_rapid": 1517,
 		"rating_blitz": 1689
+	},
+	{
+		"fideid": 6229778,
+		"name": "Sitthipakorn, Pannapat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2008,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1420,
+		"rating_blitz": null
 	},
 	{
 		"fideid": 6216412,
@@ -15359,13 +15784,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1468,
-		"rating_blitz": null
+		"rating_rapid": 1432,
+		"rating_blitz": 1475
 	},
 	{
 		"fideid": 6206620,
@@ -15410,7 +15835,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
+		"games": 0,
 		"k": 40,
 		"birthday": 2013,
 		"flag": "w",
@@ -15453,23 +15878,6 @@
 		"rating_blitz": 1505
 	},
 	{
-		"fideid": 6224733,
-		"name": "Soontornkamjohnphanit, Theainlawid",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 1,
-		"k": 40,
-		"birthday": 2015,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": 1472,
-		"rating_blitz": null
-	},
-	{
 		"fideid": 6209270,
 		"name": "Soontornsing, Thee",
 		"country": "THA",
@@ -15495,7 +15903,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 3,
+		"games": 0,
 		"k": 40,
 		"birthday": 2005,
 		"flag": "",
@@ -15546,12 +15954,29 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1501,
+		"rating_rapid": 1457,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6223168,
+		"name": "Srisuwittanon, Jaree",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": 1448,
 		"rating_blitz": null
 	},
 	{
@@ -15580,7 +16005,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -15702,7 +16127,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2015,
-		"flag": "w",
+		"flag": "wi",
 		"rating_standard": null,
 		"rating_rapid": 1514,
 		"rating_blitz": null
@@ -15742,6 +16167,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6234011,
+		"name": "Sungnoon, Pratchawit",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 16,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1497,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6229069,
 		"name": "Supabannapong, Arnachak",
 		"country": "THA",
@@ -15753,7 +16195,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1411,
 		"rating_blitz": null
@@ -15767,12 +16209,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 3,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1468,
+		"rating_rapid": 1426,
 		"rating_blitz": null
 	},
 	{
@@ -15801,12 +16243,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 8,
+		"games": 4,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1518,
+		"rating_rapid": 1437,
 		"rating_blitz": null
 	},
 	{
@@ -15818,13 +16260,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2019,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1516,
-		"rating_blitz": 1602
+		"rating_rapid": 1507,
+		"rating_blitz": 1539
 	},
 	{
 		"fideid": 6214932,
@@ -15852,12 +16294,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1422,
+		"rating_rapid": 1410,
 		"rating_blitz": null
 	},
 	{
@@ -15886,12 +16328,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 3,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1645,
+		"rating_rapid": 1604,
 		"rating_blitz": null
 	},
 	{
@@ -15912,6 +16354,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6223834,
+		"name": "Tan-ariya, Maneua",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1546,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6222820,
 		"name": "Tangamchit, Pete",
 		"country": "THA",
@@ -15923,7 +16382,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2010,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1549,
 		"rating_blitz": null
@@ -16141,7 +16600,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 0,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
@@ -16218,6 +16677,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6229565,
+		"name": "Theerasart, Peerathep",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 17,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1422,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6229409,
 		"name": "Thepnarin, Makorntawat",
 		"country": "THA",
@@ -16229,7 +16705,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2009,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1531,
 		"rating_blitz": null
@@ -16269,6 +16745,40 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6231934,
+		"name": "Thophet, Sirawich",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 10,
+		"k": 40,
+		"birthday": 2009,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1411,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6231926,
+		"name": "Thophetr, Nirat",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2012,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1476,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6219586,
 		"name": "Thummachat, Thanakrit",
 		"country": "THA",
@@ -16294,12 +16804,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 12,
 		"k": 40,
 		"birthday": 2014,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1414,
+		"rating_rapid": 1461,
 		"rating_blitz": null
 	},
 	{
@@ -16311,12 +16821,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 4,
 		"k": 40,
 		"birthday": 2012,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1661,
+		"rating_rapid": 1546,
 		"rating_blitz": null
 	},
 	{
@@ -16348,7 +16858,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2005,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1594,
 		"rating_blitz": null
@@ -16484,7 +16994,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2012,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1426,
 		"rating_blitz": 1463
@@ -16600,12 +17110,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 6,
+		"games": 11,
 		"k": 20,
 		"birthday": 2006,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1671,
+		"rating_rapid": 1663,
 		"rating_blitz": 1620
 	},
 	{
@@ -16623,6 +17133,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1581,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6232019,
+		"name": "Utensute, Suthimon",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 6,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1531,
 		"rating_blitz": null
 	},
 	{
@@ -16674,6 +17201,23 @@
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1433,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6228321,
+		"name": "Vessawan, Pryn Wantanakorn",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "ACM",
+		"games": 13,
+		"k": 40,
+		"birthday": 2019,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1511,
 		"rating_blitz": null
 	},
 	{
@@ -16753,12 +17297,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
-		"k": 40,
+		"games": 9,
+		"k": 20,
 		"birthday": 2007,
-		"flag": "i",
+		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1467,
+		"rating_rapid": 1460,
 		"rating_blitz": 1724
 	},
 	{
@@ -16773,7 +17317,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2004,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1503,
 		"rating_blitz": null
@@ -16821,13 +17365,47 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 5,
+		"games": 0,
 		"k": 40,
 		"birthday": 2010,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": 1759,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 6211577,
+		"name": "Wanusbodeepaisarn, Kulthorn",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1409,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6230121,
+		"name": "Wasunetkul, Chayapon",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 28,
+		"k": 40,
+		"birthday": 2016,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1483,
+		"rating_blitz": 1449
 	},
 	{
 		"fideid": 6208983,
@@ -16844,6 +17422,23 @@
 		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": 1607,
+		"rating_blitz": null
+	},
+	{
+		"fideid": 6235816,
+		"name": "Wattanaopas, Supasin",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2014,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1494,
 		"rating_blitz": null
 	},
 	{
@@ -16881,6 +17476,23 @@
 		"rating_blitz": null
 	},
 	{
+		"fideid": 6231942,
+		"name": "Wet-u-rai, Nathakrit",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 15,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": 1411,
+		"rating_blitz": null
+	},
+	{
 		"fideid": 6230032,
 		"name": "Wetchayanwiwat, Chanin",
 		"country": "THA",
@@ -16906,12 +17518,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 9,
 		"k": 40,
 		"birthday": 2015,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1437,
+		"rating_rapid": 1428,
 		"rating_blitz": null
 	},
 	{
@@ -16974,12 +17586,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 3,
 		"k": 40,
 		"birthday": 2017,
 		"flag": "",
 		"rating_standard": null,
-		"rating_rapid": 1445,
+		"rating_rapid": 1447,
 		"rating_blitz": 1407
 	},
 	{
@@ -17025,12 +17637,12 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 1,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "w",
 		"rating_standard": null,
-		"rating_rapid": 1472,
+		"rating_rapid": 1461,
 		"rating_blitz": null
 	},
 	{
@@ -17204,6 +17816,23 @@
 		"rating_blitz": 1419
 	},
 	{
+		"fideid": 6231586,
+		"name": "Ayutyanon, Kavin",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 9,
+		"k": 40,
+		"birthday": 2013,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1467
+	},
+	{
 		"fideid": 6211968,
 		"name": "Banyen, Awirut",
 		"country": "THA",
@@ -17280,8 +17909,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 9,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2007,
 		"flag": "",
 		"rating_standard": null,
@@ -17314,7 +17943,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "AFM",
-		"games": 1,
+		"games": 0,
 		"k": 20,
 		"birthday": 2007,
 		"flag": "",
@@ -17450,8 +18079,8 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 7,
-		"k": 40,
+		"games": 0,
+		"k": 20,
 		"birthday": 2000,
 		"flag": "",
 		"rating_standard": null,
@@ -17467,13 +18096,13 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 0,
+		"games": 2,
 		"k": 40,
 		"birthday": 2016,
 		"flag": "",
 		"rating_standard": null,
 		"rating_rapid": null,
-		"rating_blitz": 1426
+		"rating_blitz": 1409
 	},
 	{
 		"fideid": 6203132,
@@ -17493,23 +18122,6 @@
 		"rating_blitz": 1719
 	},
 	{
-		"fideid": 6216153,
-		"name": "Khamma, Phichayarat",
-		"country": "THA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "wi",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1562
-	},
-	{
 		"fideid": 6208240,
 		"name": "Khamsawas, Thak",
 		"country": "THA",
@@ -17518,7 +18130,7 @@
 		"w_title": "",
 		"o_title": "",
 		"foa_title": "",
-		"games": 4,
+		"games": 0,
 		"k": 20,
 		"birthday": 2007,
 		"flag": "",
@@ -17559,6 +18171,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1579
+	},
+	{
+		"fideid": 6221858,
+		"name": "Kijkamjai, Kannaphat",
+		"country": "THA",
+		"sex": "F",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2018,
+		"flag": "w",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1411
 	},
 	{
 		"fideid": 6210244,
@@ -17678,23 +18307,6 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1465
-	},
-	{
-		"fideid": 6226620,
-		"name": "Liukasemsarn, Chananpat",
-		"country": "THA",
-		"sex": "F",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 11,
-		"k": 40,
-		"birthday": 2019,
-		"flag": "w",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1401
 	},
 	{
 		"fideid": 6217249,
@@ -18052,6 +18664,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1548
+	},
+	{
+		"fideid": 6227651,
+		"name": "Puthidawat, Nakhun",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 0,
+		"k": 40,
+		"birthday": 2017,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1413
 	},
 	{
 		"fideid": 6212905,
@@ -18479,6 +19108,40 @@
 		"rating_blitz": 1557
 	},
 	{
+		"fideid": 6236731,
+		"name": "Tantiwattanagul, Prin",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1565
+	},
+	{
+		"fideid": 6225721,
+		"name": "Thamphatanaporn, Gann",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 8,
+		"k": 40,
+		"birthday": 2015,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1439
+	},
+	{
 		"fideid": 6222900,
 		"name": "Thiradechanun, Thanakrit",
 		"country": "THA",
@@ -18494,6 +19157,23 @@
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1656
+	},
+	{
+		"fideid": 6236740,
+		"name": "Thongkaew, Kittinan",
+		"country": "THA",
+		"sex": "M",
+		"title": "",
+		"w_title": "",
+		"o_title": "",
+		"foa_title": "",
+		"games": 7,
+		"k": 40,
+		"birthday": 2011,
+		"flag": "",
+		"rating_standard": null,
+		"rating_rapid": null,
+		"rating_blitz": 1417
 	},
 	{
 		"fideid": 6211283,
@@ -18683,23 +19363,6 @@
 		"rating_blitz": 1681
 	},
 	{
-		"fideid": 6230121,
-		"name": "Wasunetkul, Chayapon",
-		"country": "THA",
-		"sex": "M",
-		"title": "",
-		"w_title": "",
-		"o_title": "",
-		"foa_title": "",
-		"games": 0,
-		"k": 40,
-		"birthday": 2016,
-		"flag": "",
-		"rating_standard": null,
-		"rating_rapid": null,
-		"rating_blitz": 1466
-	},
-	{
 		"fideid": 6212158,
 		"name": "Wattanasak, Theptat",
 		"country": "THA",
@@ -18745,7 +19408,7 @@
 		"games": 0,
 		"k": 40,
 		"birthday": 2008,
-		"flag": "",
+		"flag": "i",
 		"rating_standard": null,
 		"rating_rapid": null,
 		"rating_blitz": 1658
