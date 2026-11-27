@@ -1395,7 +1395,7 @@
 	},
 	{
 		"fideid": 7100760,
-		"name": "Wahono, Awam",
+		"name": "Wahono",
 		"country": "INA",
 		"sex": "M",
 		"title": "IM",
@@ -2278,23 +2278,6 @@
 		"rating_blitz": null
 	},
 	{
-		"fideid": 7128266,
-		"name": "Saragih, Arif Rahman",
-		"country": "INA",
-		"sex": "M",
-		"title": "FM",
-		"w_title": "",
-		"o_title": "NA",
-		"foa_title": "",
-		"games": 0,
-		"k": 20,
-		"birthday": 1995,
-		"flag": "",
-		"rating_standard": 2167,
-		"rating_rapid": 2034,
-		"rating_blitz": 2234
-	},
-	{
 		"fideid": 7105444,
 		"name": "Armansyah Putra",
 		"country": "INA",
@@ -2327,6 +2310,23 @@
 		"rating_standard": 2166,
 		"rating_rapid": null,
 		"rating_blitz": null
+	},
+	{
+		"fideid": 7128266,
+		"name": "Saragih, Arif Rahman",
+		"country": "INA",
+		"sex": "M",
+		"title": "FM",
+		"w_title": "",
+		"o_title": "NA",
+		"foa_title": "",
+		"games": 0,
+		"k": 20,
+		"birthday": 1995,
+		"flag": "",
+		"rating_standard": 2166,
+		"rating_rapid": 2034,
+		"rating_blitz": 2234
 	},
 	{
 		"fideid": 7100574,
@@ -7809,7 +7809,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -10553,7 +10553,7 @@
 		"birthday": 2008,
 		"flag": "",
 		"rating_standard": 1908,
-		"rating_rapid": 1816,
+		"rating_rapid": 1817,
 		"rating_blitz": 1761
 	},
 	{
@@ -26271,7 +26271,7 @@
 		"sex": "M",
 		"title": "",
 		"w_title": "",
-		"o_title": "",
+		"o_title": "NA",
 		"foa_title": "",
 		"games": 0,
 		"k": 40,
@@ -32256,7 +32256,7 @@
 		"title": "",
 		"w_title": "",
 		"o_title": "",
-		"foa_title": "",
+		"foa_title": "AFM",
 		"games": 0,
 		"k": 40,
 		"birthday": 2013,
